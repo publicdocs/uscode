@@ -39,7 +39,7 @@
 
         A contract entered into under the pilot program before the expiration of that program remains in effect according to the terms of the contract after the expiration of the program.
 
-([Pub. L. 107–217][/us/pl/107/217], Aug. 21, 2002, [116 Stat. 1245][/us/stat/116/1245]; [Pub. L. 107–314, div. A, title VIII, § 825(b)(2)(A)][/us/pl/107/314/s825/b/2/A], Dec. 2, 2002, [116 Stat. 2615][/us/stat/116/2615]; [Pub. L. 107–347, title II, § 210(h)(2)(A)][/us/pl/107/347/s210/h/2/A], Dec. 17, 2002, [116 Stat. 2938][/us/stat/116/2938].)
+([Pub. L. 107–217][/us/pl/107/217], Aug. 21, 2002, [116 Stat. 1245][/us/stat/116/1245]; [Pub. L. 107–314, div. A, title VIII][/us/pl/107/314/dA/tVIII], § 825(b)(2)(A), Dec. 2, 2002, [116 Stat. 2615][/us/stat/116/2615]; [Pub. L. 107–347, title II][/us/pl/107/347/tII], § 210(h)(2)(A), Dec. 17, 2002, [116 Stat. 2938][/us/stat/116/2938].)
 
 <table>
 
@@ -89,27 +89,27 @@ Pub. L. 104–106, div. E, title LIII, § 5301, Feb. 10, 1996, 110 Stat. 691. 
 
  __References in Text__ 
 
-    [Section 11521 of this title][/us/usc/t40/s11521], referred to in subsec. (a)(1), was repealed by [Pub. L. 107–347, title II, § 210(h)(1)][/us/pl/107/347/s210/h/1], Dec. 17, 2002, [116 Stat. 2938][/us/stat/116/2938]. [Section 210(h)(3)(A) of Pub. L. 107–347][/us/pl/107/347/s210/h/3/A] directed the redesignation of [section 11522 of this title][/us/usc/t40/s11522] as [section 11521 of this title][/us/usc/t40/s11521], but it could not be executed because of the repeal of section 11522 by [Pub. L. 107–314, div. A, title VIII, § 825(b)(1)][/us/pl/107/314/s825/b/1], Dec. 2, 2002, [116 Stat. 2615][/us/stat/116/2615].
+    [Section 11521 of this title][/us/usc/t40/s11521], referred to in subsec. (a)(1), was repealed by [Pub. L. 107–347, title II][/us/pl/107/347/tII], § 210(h)(1), Dec. 17, 2002, [116 Stat. 2938][/us/stat/116/2938]. [Section 210(h)(3)(A) of Pub. L. 107–347][/us/pl/107/347/s210/h/3/A] directed the redesignation of [section 11522 of this title][/us/usc/t40/s11522] as [section 11521 of this title][/us/usc/t40/s11521], but it could not be executed because of the repeal of section 11522 by [Pub. L. 107–314, div. A, title VIII][/us/pl/107/314/dA/tVIII], § 825(b)(1), Dec. 2, 2002, [116 Stat. 2615][/us/stat/116/2615].
 
  __Amendments__ 
 
-    2002—[Pub. L. 107–314, § 825(b)(2)(A)(i)][/us/pl/107/314/s825/b/2/A/i], and [Pub. L. 107–347, § 210(h)(2)(A)(i)][/us/pl/107/347/s210/h/2/A/i], amended section catchline identically, substituting “program” for “programs”.
+    2002—[Pub. L. 107–314][/us/pl/107/314], § 825(b)(2)(A)(i), and [Pub. L. 107–347][/us/pl/107/347], § 210(h)(2)(A)(i), amended section catchline identically, substituting “program” for “programs”.
 
-    Subsec. (a)(1). [Pub. L. 107–314, § 825(b)(2)(A)(ii)][/us/pl/107/314/s825/b/2/A/ii], and [Pub. L. 107–347, § 210(h)(2)(A)(ii)][/us/pl/107/347/s210/h/2/A/ii], amended par. (1) identically, substituting “conduct a pilot program pursuant to the requirements of [section 11521 of this title][/us/usc/t40/s11521]” for “conduct pilot programs”.
+    Subsec. (a)(1). [Pub. L. 107–314][/us/pl/107/314], § 825(b)(2)(A)(ii), and [Pub. L. 107–347][/us/pl/107/347], § 210(h)(2)(A)(ii), amended par. (1) identically, substituting “conduct a pilot program pursuant to the requirements of [section 11521 of this title][/us/usc/t40/s11521]” for “conduct pilot programs”.
 
-    Subsec. (a)(2). [Pub. L. 107–314, § 825(b)(2)(A)(iii)][/us/pl/107/314/s825/b/2/A/iii], and [Pub. L. 107–347, § 210(h)(2)(A)(iii)][/us/pl/107/347/s210/h/2/A/iii], amended par. (2) identically, substituting “the pilot program conducted” for “each pilot program conducted”.
+    Subsec. (a)(2). [Pub. L. 107–314][/us/pl/107/314], § 825(b)(2)(A)(iii), and [Pub. L. 107–347][/us/pl/107/347], § 210(h)(2)(A)(iii), amended par. (2) identically, substituting “the pilot program conducted” for “each pilot program conducted”.
 
-    Subsec. (b). [Pub. L. 107–347, § 210(h)(2)(A)(iv)][/us/pl/107/347/s210/h/2/A/iv], which directed amendment of subsec. (b) by substituting the heading “Limitation on Amount” and text “The total amount obligated for contracts entered into under the pilot program conducted under this chapter may not exceed $375,000,000.” for the heading “Limitations” and all that followed through “$750,000,000.”, was executed by making the substitution for “Limitation on Amount” in the heading and “The total amount obligated for contracts entered into under the pilot program conducted under this chapter may not exceed $750,000,000.” in text to reflect the probable intent of Congress and the amendment by [Pub. L. 107–314, § 825(b)(2)(A)(iv)(I)][/us/pl/107/314/s825/b/2/A/iv/I]. See below.
+    Subsec. (b). [Pub. L. 107–347][/us/pl/107/347], § 210(h)(2)(A)(iv), which directed amendment of subsec. (b) by substituting the heading “Limitation on Amount” and text “The total amount obligated for contracts entered into under the pilot program conducted under this chapter may not exceed $375,000,000.” for the heading “Limitations” and all that followed through “$750,000,000.”, was executed by making the substitution for “Limitation on Amount” in the heading and “The total amount obligated for contracts entered into under the pilot program conducted under this chapter may not exceed $750,000,000.” in text to reflect the probable intent of Congress and the amendment by [Pub. L. 107–314][/us/pl/107/314], § 825(b)(2)(A)(iv)(I). See below.
 
-    [Pub. L. 107–314, § 825(b)(2)(A)(iv)(II)][/us/pl/107/314/s825/b/2/A/iv/II], substituted “subsection.” for “paragraph.”
+    [Pub. L. 107–314][/us/pl/107/314], § 825(b)(2)(A)(iv)(II), substituted “subsection.” for “paragraph.”
 
-    [Pub. L. 107–314, § 825(b)(2)(A)(iv)(I)][/us/pl/107/314/s825/b/2/A/iv/I], substituted “Limitation on Amount.—The total amount obligated for contracts entered into under the pilot program conducted” for “Limitations.—
+    [Pub. L. 107–314][/us/pl/107/314], § 825(b)(2)(A)(iv)(I), substituted “Limitation on Amount.—The total amount obligated for contracts entered into under the pilot program conducted” for “Limitations.—
 
     “(1) Number.—Not more than two pilot programs may be conducted under this chapter, including one pilot program each pursuant to the requirements of sections 11521 and 11522 of this title.
 
     “(2) Amount.—The total amount obligated for contracts entered into under the pilot programs conducted”.
 
-    Subsec. (c)(1). [Pub. L. 107–314, § 825(b)(2)(A)(v)][/us/pl/107/314/s825/b/2/A/v], and [Pub. L. 107–347, § 210(h)(2)(A)(v)][/us/pl/107/347/s210/h/2/A/v], amended par. (1) identically, substituting “the pilot” for “a pilot”.
+    Subsec. (c)(1). [Pub. L. 107–314][/us/pl/107/314], § 825(b)(2)(A)(v), and [Pub. L. 107–347][/us/pl/107/347], § 210(h)(2)(A)(v), amended par. (1) identically, substituting “the pilot” for “a pilot”.
 
  __Effective Date of 2002 Amendment__ 
 
@@ -125,31 +125,31 @@ Pub. L. 104–106, div. E, title LIII, § 5301, Feb. 10, 1996, 110 Stat. 691. 
 [/us/usc/t40/s11521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs11521
 [/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1245
-[/us/pl/107/314/s825/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs825%2Fb%2F2%2FA
+[/us/pl/107/314/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdA%2FtVIII
 [/us/stat/116/2615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2615
-[/us/pl/107/347/s210/h/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F347%2Fs210%2Fh%2F2%2FA
+[/us/pl/107/347/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F347%2FtII
 [/us/stat/116/2938]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2938
 [/us/usc/t40/s11521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs11521
-[/us/pl/107/347/s210/h/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F347%2Fs210%2Fh%2F1
+[/us/pl/107/347/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F347%2FtII
 [/us/stat/116/2938]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2938
 [/us/pl/107/347/s210/h/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F347%2Fs210%2Fh%2F3%2FA
 [/us/usc/t40/s11522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs11522
 [/us/usc/t40/s11521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs11521
-[/us/pl/107/314/s825/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs825%2Fb%2F1
+[/us/pl/107/314/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdA%2FtVIII
 [/us/stat/116/2615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2615
-[/us/pl/107/314/s825/b/2/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs825%2Fb%2F2%2FA%2Fi
-[/us/pl/107/347/s210/h/2/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F347%2Fs210%2Fh%2F2%2FA%2Fi
-[/us/pl/107/314/s825/b/2/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs825%2Fb%2F2%2FA%2Fii
-[/us/pl/107/347/s210/h/2/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F347%2Fs210%2Fh%2F2%2FA%2Fii
+[/us/pl/107/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314
+[/us/pl/107/347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F347
+[/us/pl/107/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314
+[/us/pl/107/347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F347
 [/us/usc/t40/s11521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs11521
-[/us/pl/107/314/s825/b/2/A/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs825%2Fb%2F2%2FA%2Fiii
-[/us/pl/107/347/s210/h/2/A/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F347%2Fs210%2Fh%2F2%2FA%2Fiii
-[/us/pl/107/347/s210/h/2/A/iv]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F347%2Fs210%2Fh%2F2%2FA%2Fiv
-[/us/pl/107/314/s825/b/2/A/iv/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs825%2Fb%2F2%2FA%2Fiv%2FI
-[/us/pl/107/314/s825/b/2/A/iv/II]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs825%2Fb%2F2%2FA%2Fiv%2FII
-[/us/pl/107/314/s825/b/2/A/iv/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs825%2Fb%2F2%2FA%2Fiv%2FI
-[/us/pl/107/314/s825/b/2/A/v]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs825%2Fb%2F2%2FA%2Fv
-[/us/pl/107/347/s210/h/2/A/v]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F347%2Fs210%2Fh%2F2%2FA%2Fv
+[/us/pl/107/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314
+[/us/pl/107/347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F347
+[/us/pl/107/347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F347
+[/us/pl/107/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314
+[/us/pl/107/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314
+[/us/pl/107/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314
+[/us/pl/107/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314
+[/us/pl/107/347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F347
 [/us/pl/107/347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F347
 [/us/pl/107/347/s402/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F347%2Fs402%2Fa
 [/us/usc/t44/s3601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs3601

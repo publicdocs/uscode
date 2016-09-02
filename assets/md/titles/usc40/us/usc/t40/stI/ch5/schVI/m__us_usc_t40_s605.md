@@ -33,7 +33,7 @@
 
     The purchase price of motor vehicles and related equipment, and any increment for estimated replacement cost, shall be recovered only through charges for the cost of amortization. Costs shall be determined, and financial reports prepared, in accordance with the accrual accounting method.
 
-([Pub. L. 107–217][/us/pl/107/217], Aug. 21, 2002, [116 Stat. 1123][/us/stat/116/1123]; [Pub. L. 109–313, § 3(h)(6)][/us/pl/109/313/s3/h/6], Oct. 6, 2006, [120 Stat. 1736][/us/stat/120/1736].)
+([Pub. L. 107–217][/us/pl/107/217], Aug. 21, 2002, [116 Stat. 1123][/us/stat/116/1123]; [Pub. L. 109–313][/us/pl/109/313], § 3(h)(6), Oct. 6, 2006, [120 Stat. 1736][/us/stat/120/1736].)
 
 <table>
 
@@ -83,9 +83,9 @@ June 30, 1949, ch. 288, title II, § 211(d), as added Sept. 5, 1950, ch. 849, 
 
  __Amendments__ 
 
-    2006—Subsec. (a). [Pub. L. 109–313, § 3(h)(6)(A)][/us/pl/109/313/s3/h/6/A], substituted “Acquisition Services Fund” for “General Supply Fund” in heading and text.
+    2006—Subsec. (a). [Pub. L. 109–313][/us/pl/109/313], § 3(h)(6)(A), substituted “Acquisition Services Fund” for “General Supply Fund” in heading and text.
 
-    Subsec. (b)(2). [Pub. L. 109–313, § 3(h)(6)(B)][/us/pl/109/313/s3/h/6/B], substituted “321(f)” for “321(f)(1)” and “Acquisition Services Fund” for “General Supply Fund”.
+    Subsec. (b)(2). [Pub. L. 109–313][/us/pl/109/313], § 3(h)(6)(B), substituted “321(f)” for “321(f)(1)” and “Acquisition Services Fund” for “General Supply Fund”.
 
  __Effective Date of 2006 Amendment__ 
 
@@ -105,10 +105,10 @@ June 30, 1949, ch. 288, title II, § 211(d), as added Sept. 5, 1950, ch. 849, 
 [/us/usc/t40/s321/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs321%2Ff
 [/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1123
-[/us/pl/109/313/s3/h/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F313%2Fs3%2Fh%2F6
+[/us/pl/109/313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F313
 [/us/stat/120/1736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1736
-[/us/pl/109/313/s3/h/6/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F313%2Fs3%2Fh%2F6%2FA
-[/us/pl/109/313/s3/h/6/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F313%2Fs3%2Fh%2F6%2FB
+[/us/pl/109/313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F313
+[/us/pl/109/313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F313
 [/us/pl/109/313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F313
 [/us/pl/109/313/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F313%2Fs6
 [/us/usc/t5/s5316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5316

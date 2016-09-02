@@ -53,7 +53,7 @@
 
     The Administrator may carry out any construction or alteration authorized by this chapter by contract if the Administrator considers it to be most advantageous to the Government.
 
-([Pub. L. 107–217][/us/pl/107/217], Aug. 21, 2002, [116 Stat. 1159][/us/stat/116/1159]; [Pub. L. 111–350, § 5][/us/pl/111/350/s5](l)(16), Jan. 4, 2011, [124 Stat. 3852][/us/stat/124/3852].)
+([Pub. L. 107–217][/us/pl/107/217], Aug. 21, 2002, [116 Stat. 1159][/us/stat/116/1159]; [Pub. L. 111–350][/us/pl/111/350], § 5(l)(16), Jan. 4, 2011, [124 Stat. 3852][/us/stat/124/3852].)
 
 <table>
 
@@ -180,7 +180,7 @@ In subsection (b)(2)(B), the words “Transportation and Infrastructure” are s
 [/us/usc/t40/s3307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs3307
 [/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1159
-[/us/pl/111/350/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs5
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3852
 [/us/usc/t41/s251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs251
 [/us/usc/t40/s111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs111

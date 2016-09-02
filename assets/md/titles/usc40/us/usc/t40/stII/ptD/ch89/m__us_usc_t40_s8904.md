@@ -47,7 +47,7 @@
 
     The National Capital Memorial Advisory Commission shall meet at least twice annually.
 
-([Pub. L. 107–217][/us/pl/107/217], Aug. 21, 2002, [116 Stat. 1229][/us/stat/116/1229]; [Pub. L. 108–126, title II, § 203(d)][/us/pl/108/126/s203/d], Nov. 17, 2003, [117 Stat. 1351][/us/stat/117/1351]; [Pub. L. 111–11, title VII, § 7116(e)(2)][/us/pl/111/11/s7116/e/2], Mar. 30, 2009, [123 Stat. 1203][/us/stat/123/1203].)
+([Pub. L. 107–217][/us/pl/107/217], Aug. 21, 2002, [116 Stat. 1229][/us/stat/116/1229]; [Pub. L. 108–126, title II][/us/pl/108/126/tII], § 203(d), Nov. 17, 2003, [117 Stat. 1351][/us/stat/117/1351]; [Pub. L. 111–11, title VII][/us/pl/111/11/tVII], § 7116(e)(2), Mar. 30, 2009, [123 Stat. 1203][/us/stat/123/1203].)
 
 <table>
 
@@ -127,13 +127,13 @@ Pub. L. 99–652, § 4, Nov. 14, 1986, 100 Stat. 3651.  </td>
 
     2009—Subsec. (b). [Pub. L. 111–11][/us/pl/111/11] inserted “Advisory” before “Commission”.
 
-    2003—[Pub. L. 108–126, § 203(d)(1)][/us/pl/108/126/s203/d/1], inserted “Advisory” before “Commission” in section catchline.
+    2003—[Pub. L. 108–126][/us/pl/108/126], § 203(d)(1), inserted “Advisory” before “Commission” in section catchline.
 
-    Subsec. (a). [Pub. L. 108–126, § 203(d)(2)][/us/pl/108/126/s203/d/2], substituted “There is established the National Capital Memorial Advisory Commission, which shall be composed of” for “There is a National Capital Memorial Commission. The membership of the Commission consists of” in introductory provisions.
+    Subsec. (a). [Pub. L. 108–126][/us/pl/108/126], § 203(d)(2), substituted “There is established the National Capital Memorial Advisory Commission, which shall be composed of” for “There is a National Capital Memorial Commission. The membership of the Commission consists of” in introductory provisions.
 
-    Subsec. (c). [Pub. L. 108–126, § 203(d)(3)][/us/pl/108/126/s203/d/3], inserted “Advisory” before “Commission shall” and substituted “Services (as appropriate)” for “Services”.
+    Subsec. (c). [Pub. L. 108–126][/us/pl/108/126], § 203(d)(3), inserted “Advisory” before “Commission shall” and substituted “Services (as appropriate)” for “Services”.
 
-    Subsec. (d). [Pub. L. 108–126, § 203(d)(4)][/us/pl/108/126/s203/d/4], inserted “Advisory” before “Commission”.
+    Subsec. (d). [Pub. L. 108–126][/us/pl/108/126], § 203(d)(4), inserted “Advisory” before “Commission”.
 
  __Effective Date of 2003 Amendment__ 
 
@@ -152,15 +152,15 @@ Pub. L. 99–652, § 4, Nov. 14, 1986, 100 Stat. 3651.  </td>
 
 [/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1229
-[/us/pl/108/126/s203/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F126%2Fs203%2Fd
+[/us/pl/108/126/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F126%2FtII
 [/us/stat/117/1351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1351
-[/us/pl/111/11/s7116/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2Fs7116%2Fe%2F2
+[/us/pl/111/11/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2FtVII
 [/us/stat/123/1203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1203
 [/us/pl/111/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11
-[/us/pl/108/126/s203/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F126%2Fs203%2Fd%2F1
-[/us/pl/108/126/s203/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F126%2Fs203%2Fd%2F2
-[/us/pl/108/126/s203/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F126%2Fs203%2Fd%2F3
-[/us/pl/108/126/s203/d/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F126%2Fs203%2Fd%2F4
+[/us/pl/108/126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F126
+[/us/pl/108/126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F126
+[/us/pl/108/126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F126
+[/us/pl/108/126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F126
 [/us/pl/108/126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F126
 [/us/pl/108/126/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F126%2Fs205
 [/us/usc/t40/s8901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs8901

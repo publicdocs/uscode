@@ -51,7 +51,7 @@
 
     In carrying out the duties of the Administrator under this chapter, the Administrator shall provide for the construction and acquisition of public buildings equitably throughout the United States with due regard to the comparative urgency of the need for each particular building. In developing plans for new buildings, the Administrator shall give due consideration to excellence of architecture and design.
 
-([Pub. L. 107–217][/us/pl/107/217], Aug. 21, 2002, [116 Stat. 1158][/us/stat/116/1158]; [Pub. L. 113–287, § 5(j)(5)][/us/pl/113/287/s5/j/5], Dec. 19, 2014, [128 Stat. 3269][/us/stat/128/3269].)
+([Pub. L. 107–217][/us/pl/107/217], Aug. 21, 2002, [116 Stat. 1158][/us/stat/116/1158]; [Pub. L. 113–287][/us/pl/113/287], § 5(j)(5), Dec. 19, 2014, [128 Stat. 3269][/us/stat/128/3269].)
 
 <table>
 
@@ -162,7 +162,7 @@ Pub. L. 86–249, § 12(c), as added Pub. L. 94–541, title I, § 103(3), O
 [/us/usc/t40/s3306/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs3306%2Fa
 [/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1158
-[/us/pl/113/287/s5/j/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs5%2Fj%2F5
+[/us/pl/113/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287
 [/us/stat/128/3269]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3269
 [/us/pl/113/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287
 [/us/usc/t54/s304101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs304101

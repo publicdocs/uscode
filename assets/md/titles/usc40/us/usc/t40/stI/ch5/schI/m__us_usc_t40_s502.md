@@ -71,7 +71,7 @@
 
                 (ii) any Alaska Native regional or village corporation established pursuant to the Alaska Native Claims Settlement Act ([43 U.S.C. 1601][/us/usc/t43/s1601] et seq.).
 
-            (C) The term “local educational agency” has the meaning given that term in section 8013 of the Elementary and Secondary Education Act of 1965 ([20 U.S.C. 7713][/us/usc/t20/s7713]).
+            (C) The term “local educational agency” has the meaning given that term in section 7013 of the Elementary and Secondary Education Act of 1965.
 
             (D) The term “institution of higher education” has the meaning given that term in section 101(a) of the Higher Education Act of 1965 ([20 U.S.C. 1001(a)][/us/usc/t20/s1001/a]).
 
@@ -111,7 +111,7 @@
 
     All users of Federal supply schedules, including non-Federal users, shall use the schedules in accordance with the ordering guidance provided by the Administrator of General Services.
 
-([Pub. L. 107–217][/us/pl/107/217], Aug. 21, 2002, [116 Stat. 1080][/us/stat/116/1080]; [Pub. L. 107–347, title II, § 211(a)][/us/pl/107/347/s211/a], Dec. 17, 2002, [116 Stat. 2939][/us/stat/116/2939]; [Pub. L. 109–364, div. A, title VIII, § 833(a)][/us/pl/109/364/s833/a], Oct. 17, 2006, [120 Stat. 2332][/us/stat/120/2332]; [Pub. L. 110–248, § 2][/us/pl/110/248/s2], June 26, 2008, [122 Stat. 2316][/us/stat/122/2316]; [Pub. L. 111–263][/us/pl/111/263], §§ 2–4, Oct. 8, 2010, [124 Stat. 2787][/us/stat/124/2787], 2788; [Pub. L. 111–350, § 5][/us/pl/111/350/s5](l)(7), Jan. 4, 2011, [124 Stat. 3851][/us/stat/124/3851].)
+([Pub. L. 107–217][/us/pl/107/217], Aug. 21, 2002, [116 Stat. 1080][/us/stat/116/1080]; [Pub. L. 107–347, title II][/us/pl/107/347/tII], § 211(a), Dec. 17, 2002, [116 Stat. 2939][/us/stat/116/2939]; [Pub. L. 109–364, div. A, title VIII][/us/pl/109/364/dA/tVIII], § 833(a), Oct. 17, 2006, [120 Stat. 2332][/us/stat/120/2332]; [Pub. L. 110–248][/us/pl/110/248], § 2, June 26, 2008, [122 Stat. 2316][/us/stat/122/2316]; [Pub. L. 111–263][/us/pl/111/263], §§ 2–4, Oct. 8, 2010, [124 Stat. 2787][/us/stat/124/2787], 2788; [Pub. L. 111–350][/us/pl/111/350], § 5(l)(7), Jan. 4, 2011, [124 Stat. 3851][/us/stat/124/3851]; [Pub. L. 114–95, title IX][/us/pl/114/95/tIX], § 9215(www), Dec. 10, 2015, [129 Stat. 2191][/us/stat/129/2191].)
 
 <table>
 
@@ -179,23 +179,27 @@ June 30, 1949, ch. 288, title II, § 201(b), 63 Stat. 384; Sept. 5, 1950, ch. 
 
     The Alaska Native Claims Settlement Act, referred to in subsec. (c)(3)(B)(ii), is [Pub. L. 92–203][/us/pl/92/203], Dec. 18, 1971, [85 Stat. 688][/us/stat/85/688], as amended, which is classified generally to chapter 33 (§ 1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 43][/us/usc/t43/s1601] and Tables.
 
+    Section 7013 of the Elementary and Secondary Education Act of 1965, referred to in subsec. (c)(3)(C), is classified to [section 7713 of Title 20][/us/usc/t20/s7713], Education.
+
     The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsec. (d)(1), is [Pub. L. 93–288][/us/pl/93/288], May 22, 1974, [88 Stat. 143][/us/stat/88/143], as amended, which is classified principally to chapter 68 (§ 5121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 5121 of Title 42][/us/usc/t42/s5121] and Tables.
 
  __Amendments__ 
 
-    2011—Subsec. (b)(1)(A)(i). [Pub. L. 111–350, § 5][/us/pl/111/350/s5](l)(7)(A), substituted “[section 8501(7) of title 41][/us/usc/t41/s8501/7]” for “section 5(3) of the Javits-Wagner-O’Day Act ([41 U.S.C. 48b(3)][/us/usc/t41/s48b/3])”.
+    2015—Subsec. (c)(3)(C). [Pub. L. 114–95][/us/pl/114/95] substituted “section 7013 of the Elementary and Secondary Education Act of 1965” for “section 8013 of the Elementary and Secondary Education Act of 1965 ([20 U.S.C. 7713][/us/usc/t20/s7713])”.
 
-    Subsec. (b)(1)(A)(ii). [Pub. L. 111–350, § 5][/us/pl/111/350/s5](l)(7)(B), substituted “disabled (as defined in [section 8501(6) of title 41][/us/usc/t41/s8501/6])” for “handicapped (as defined in section 5(4) of the Javits-Wagner-O’Day Act ([41 U.S.C. 48b(4)][/us/usc/t41/s48b/4]))”.
+    2011—Subsec. (b)(1)(A)(i). [Pub. L. 111–350][/us/pl/111/350], § 5(l)(7)(A), substituted “[section 8501(7) of title 41][/us/usc/t41/s8501/7]” for “section 5(3) of the Javits-Wagner-O’Day Act ([41 U.S.C. 48b(3)][/us/usc/t41/s48b/3])”.
 
-    Subsec. (b)(1)(B). [Pub. L. 111–350, § 5][/us/pl/111/350/s5](l)(7)(C), substituted “chapter 85 of title 41” for “the Javits-Wagner-O’Day Act ([41 U.S.C. 46][/us/usc/t41/s46] et seq.)”.
+    Subsec. (b)(1)(A)(ii). [Pub. L. 111–350][/us/pl/111/350], § 5(l)(7)(B), substituted “disabled (as defined in [section 8501(6) of title 41][/us/usc/t41/s8501/6])” for “handicapped (as defined in section 5(4) of the Javits-Wagner-O’Day Act ([41 U.S.C. 48b(4)][/us/usc/t41/s48b/4]))”.
 
-    Subsec. (b)(2). [Pub. L. 111–350, § 5][/us/pl/111/350/s5](l)(7)(D), substituted “[section 8503 of title 41][/us/usc/t41/s8503]” for “section 2 of the Javits-Wagner-O’Day Act ([41 U.S.C. 47][/us/usc/t41/s47])”.
+    Subsec. (b)(1)(B). [Pub. L. 111–350][/us/pl/111/350], § 5(l)(7)(C), substituted “chapter 85 of title 41” for “the Javits-Wagner-O’Day Act ([41 U.S.C. 46][/us/usc/t41/s46] et seq.)”.
 
-    2010—Subsec. (d)(1). [Pub. L. 111–263, § 4][/us/pl/111/263/s4], inserted “, to facilitate disaster preparedness or response,” after “Robert T. Stafford Disaster Relief and Emergency Assistance Act ([42 U.S.C. 5121][/us/usc/t42/s5121] et seq.)”.
+    Subsec. (b)(2). [Pub. L. 111–350][/us/pl/111/350], § 5(l)(7)(D), substituted “[section 8503 of title 41][/us/usc/t41/s8503]” for “section 2 of the Javits-Wagner-O’Day Act ([41 U.S.C. 47][/us/usc/t41/s47])”.
 
-    Subsec. (e). [Pub. L. 111–263, § 2][/us/pl/111/263/s2], added subsec. (e).
+    2010—Subsec. (d)(1). [Pub. L. 111–263][/us/pl/111/263], § 4, inserted “, to facilitate disaster preparedness or response,” after “Robert T. Stafford Disaster Relief and Emergency Assistance Act ([42 U.S.C. 5121][/us/usc/t42/s5121] et seq.)”.
 
-    Subsec. (f). [Pub. L. 111–263, § 3][/us/pl/111/263/s3], added subsec. (f).
+    Subsec. (e). [Pub. L. 111–263][/us/pl/111/263], § 2, added subsec. (e).
+
+    Subsec. (f). [Pub. L. 111–263][/us/pl/111/263], § 3, added subsec. (f).
 
     2008—Subsec. (c)(1). [Pub. L. 110–248][/us/pl/110/248] substituted “Administration for the following:” for “Administration for automated”, inserted “(A) Automated” before “data processing”, and added subpar. (B).
 
@@ -203,19 +207,23 @@ June 30, 1949, ch. 288, title II, § 201(b), 63 Stat. 384; Sept. 5, 1950, ch. 
 
     2002—Subsec. (c). [Pub. L. 107–347][/us/pl/107/347] added subsec. (c).
 
+ __Effective Date of 2015 Amendment__ 
+
+    Amendment by [Pub. L. 114–95][/us/pl/114/95] effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see [section 5 of Pub. L. 114–95][/us/pl/114/95/s5], set out as a note under [section 6301 of Title 20][/us/usc/t20/s6301], Education.
+
  __Effective Date of 2002 Amendment__ 
 
     Amendment by [Pub. L. 107–347][/us/pl/107/347] effective 120 days after Dec. 17, 2002, see [section 402(a) of Pub. L. 107–347][/us/pl/107/347/s402/a], set out as an Effective Date note under [section 3601 of Title 44][/us/usc/t44/s3601], Public Printing and Documents.
 
  __Procedures__ 
 
-[Pub. L. 109–364, div. A, title VIII, § 833(b)][/us/pl/109/364/s833/b], Oct. 17, 2006, [120 Stat. 2332][/us/stat/120/2332], provided that: 
+[Pub. L. 109–364, div. A, title VIII][/us/pl/109/364/dA/tVIII], § 833(b), Oct. 17, 2006, [120 Stat. 2332][/us/stat/120/2332], provided that: 
 
 > “Not later than 30 days after the date of the enactment of this Act \[Oct. 17, 2006\], the Administrator of General Services shall establish procedures to implement subsection (d) of [section 502 of title 40][/us/usc/t40/s502], United States Code (as added by subsection (a)).”
 
  __Public Land Management Agency Foundations__ 
 
-[Pub. L. 108–352, § 9][/us/pl/108/352/s9], Oct. 21, 2004, [118 Stat. 1396][/us/stat/118/1396], provided that: 
+[Pub. L. 108–352][/us/pl/108/352], § 9, Oct. 21, 2004, [118 Stat. 1396][/us/stat/118/1396], provided that: 
 
 > “Employees of the foundations established by Acts of Congress to solicit private sector funds on behalf of Federal land management agencies shall qualify for General Service Administration contract airfares.”
 
@@ -233,23 +241,24 @@ June 30, 1949, ch. 288, title II, § 201(b), 63 Stat. 384; Sept. 5, 1950, ch. 
 [/us/usc/t41/s8501/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs8501%2F6
 [/us/usc/t41/s8503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs8503
 [/us/usc/t43/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1601
-[/us/usc/t20/s7713]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7713
 [/us/usc/t20/s1001/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1001%2Fa
 [/us/usc/t42/s5121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5121
 [/us/usc/t36/s300102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft36%2Fs300102
 [/us/usc/t42/s5152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5152
 [/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1080]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1080
-[/us/pl/107/347/s211/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F347%2Fs211%2Fa
+[/us/pl/107/347/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F347%2FtII
 [/us/stat/116/2939]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2939
-[/us/pl/109/364/s833/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs833%2Fa
+[/us/pl/109/364/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdA%2FtVIII
 [/us/stat/120/2332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2332
-[/us/pl/110/248/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F248%2Fs2
+[/us/pl/110/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F248
 [/us/stat/122/2316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2316
 [/us/pl/111/263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F263
 [/us/stat/124/2787]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2787
-[/us/pl/111/350/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs5
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3851]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3851
+[/us/pl/114/95/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2FtIX
+[/us/stat/129/2191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2191
 [/us/pl/102/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F569
 [/us/stat/106/4486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4486
 [/us/pl/103/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F73
@@ -257,34 +266,40 @@ June 30, 1949, ch. 288, title II, § 201(b), 63 Stat. 384; Sept. 5, 1950, ch. 
 [/us/pl/92/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F203
 [/us/stat/85/688]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F688
 [/us/usc/t43/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1601
+[/us/usc/t20/s7713]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7713
 [/us/pl/93/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288
 [/us/stat/88/143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F143
 [/us/usc/t42/s5121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5121
-[/us/pl/111/350/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs5
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/usc/t20/s7713]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7713
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/usc/t41/s8501/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs8501%2F7
 [/us/usc/t41/s48b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs48b%2F3
-[/us/pl/111/350/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs5
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/usc/t41/s8501/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs8501%2F6
 [/us/usc/t41/s48b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs48b%2F4
-[/us/pl/111/350/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs5
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/usc/t41/s46]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs46
-[/us/pl/111/350/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs5
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/usc/t41/s8503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs8503
 [/us/usc/t41/s47]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs47
-[/us/pl/111/263/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F263%2Fs4
+[/us/pl/111/263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F263
 [/us/usc/t42/s5121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5121
-[/us/pl/111/263/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F263%2Fs2
-[/us/pl/111/263/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F263%2Fs3
+[/us/pl/111/263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F263
+[/us/pl/111/263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F263
 [/us/pl/110/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F248
 [/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
 [/us/pl/107/347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F347
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/pl/114/95/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2Fs5
+[/us/usc/t20/s6301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6301
 [/us/pl/107/347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F347
 [/us/pl/107/347/s402/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F347%2Fs402%2Fa
 [/us/usc/t44/s3601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs3601
-[/us/pl/109/364/s833/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs833%2Fb
+[/us/pl/109/364/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdA%2FtVIII
 [/us/stat/120/2332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2332
 [/us/usc/t40/s502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs502
-[/us/pl/108/352/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F352%2Fs9
+[/us/pl/108/352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F352
 [/us/stat/118/1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1396
 
 

@@ -87,7 +87,7 @@
 
     The term “surplus property” means excess property that the Administrator determines is not required to meet the needs or responsibilities of all federal agencies.
 
-([Pub. L. 107–217][/us/pl/107/217], Aug. 21, 2002, [116 Stat. 1063][/us/stat/116/1063]; [Pub. L. 111–350, § 5][/us/pl/111/350/s5](l)(2), Jan. 4, 2011, [124 Stat. 3850][/us/stat/124/3850].)
+([Pub. L. 107–217][/us/pl/107/217], Aug. 21, 2002, [116 Stat. 1063][/us/stat/116/1063]; [Pub. L. 111–350][/us/pl/111/350], § 5(l)(2), Jan. 4, 2011, [124 Stat. 3850][/us/stat/124/3850].)
 
 <table>
 
@@ -152,7 +152,7 @@ June 30, 1949, ch. 288, § 3, 63 Stat. 378; Sept. 5, 1950, ch. 849, §§ 7(a
 
 [/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1063]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1063
-[/us/pl/111/350/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs5
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3850]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3850
 [/us/usc/t41/s251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs251
 [/us/usc/t40/s111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs111

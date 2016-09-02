@@ -23,7 +23,7 @@
 
     The Secretary of Transportation may waive this subchapter with respect to contracts for the construction, alteration, or repair of vessels when the contract is made under sections 1535 and 1536 of title 31, subtitle V of title 46, or the Merchant Ship Sales Act of 1946 (50 App. U.S.C. 1735 et seq.), <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  regardless of the terms of the contracts as to payment or title.
 
-([Pub. L. 107–217][/us/pl/107/217], Aug. 21, 2002, [116 Stat. 1149][/us/stat/116/1149]; [Pub. L. 109–304, § 17(g)(2)][/us/pl/109/304/s17/g/2], Oct. 6, 2006, [120 Stat. 1709][/us/stat/120/1709].)
+([Pub. L. 107–217][/us/pl/107/217], Aug. 21, 2002, [116 Stat. 1149][/us/stat/116/1149]; [Pub. L. 109–304][/us/pl/109/304], § 17(g)(2), Oct. 6, 2006, [120 Stat. 1709][/us/stat/120/1709].)
 
 <table>
 
@@ -112,7 +112,7 @@ Apr. 29, 1941, ch. 81, § 2, as added Pub. L. 91–469, § 39, Oct. 21, 1970
 
 [/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1149]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1149
-[/us/pl/109/304/s17/g/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs17%2Fg%2F2
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1709
 [/us/stat/47/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F47%2F382
 [/us/usc/t31/s686]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs686

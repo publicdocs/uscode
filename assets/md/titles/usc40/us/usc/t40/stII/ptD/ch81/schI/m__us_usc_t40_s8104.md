@@ -31,7 +31,7 @@
 
     The Mayor shall take action the Mayor decides is necessary to effect reasonable compliance with the recommendation under subsection (c).
 
-([Pub. L. 107–217][/us/pl/107/217], Aug. 21, 2002, [116 Stat. 1205][/us/stat/116/1205]; [Pub. L. 109–284, § 6(22)][/us/pl/109/284/s6/22], Sept. 27, 2006, [120 Stat. 1213][/us/stat/120/1213].)
+([Pub. L. 107–217][/us/pl/107/217], Aug. 21, 2002, [116 Stat. 1205][/us/stat/116/1205]; [Pub. L. 109–284][/us/pl/109/284], § 6(22), Sept. 27, 2006, [120 Stat. 1213][/us/stat/120/1213].)
 
 <table>
 
@@ -98,7 +98,7 @@ May 16, 1930, ch. 291, § 1, 46 Stat. 366; July 31, 1939, ch. 400, 53 Stat. 11
 
 [/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1205
-[/us/pl/109/284/s6/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F284%2Fs6%2F22
+[/us/pl/109/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F284
 [/us/stat/120/1213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1213
 [/us/stat/81/951]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F951
 [/us/pl/93/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F198

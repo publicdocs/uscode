@@ -39,7 +39,7 @@
 
     This chapter does not apply to commemorative works authorized by a law enacted before January 3, 1985.
 
-([Pub. L. 107–217][/us/pl/107/217], Aug. 21, 2002, [116 Stat. 1227][/us/stat/116/1227]; [Pub. L. 108–126, title II, § 203(b)][/us/pl/108/126/s203/b], Nov. 17, 2003, [117 Stat. 1350][/us/stat/117/1350].)
+([Pub. L. 107–217][/us/pl/107/217], Aug. 21, 2002, [116 Stat. 1227][/us/stat/116/1227]; [Pub. L. 108–126, title II][/us/pl/108/126/tII], § 203(b), Nov. 17, 2003, [117 Stat. 1350][/us/stat/117/1350].)
 
 <table>
 
@@ -148,7 +148,7 @@ Pub. L. 99–652, § 10(e), Nov. 14, 1986, 100 Stat. 3654.  </td>
 
 [/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1227
-[/us/pl/108/126/s203/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F126%2Fs203%2Fb
+[/us/pl/108/126/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F126%2FtII
 [/us/stat/117/1350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1350
 [/us/stat/63/379]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F379
 [/us/usc/t26/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs501

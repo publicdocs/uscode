@@ -63,7 +63,7 @@
 
     The requirements of subsections (a) and (b) shall take effect 1 year after the date of enactment of this subsection.
 
-(Added [Pub. L. 110–140, title III, § 323(c)(1)(B)][/us/pl/110/140/s323/c/1/B], Dec. 19, 2007, [121 Stat. 1590][/us/stat/121/1590].)
+(Added [Pub. L. 110–140, title III][/us/pl/110/140/tIII], § 323(c)(1)(B), Dec. 19, 2007, [121 Stat. 1590][/us/stat/121/1590].)
 
  __References in Text__ 
 
@@ -88,7 +88,7 @@
 
 [/us/usc/t42/s6294a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6294a
 [/us/usc/t41/s10c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs10c
-[/us/pl/110/140/s323/c/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs323%2Fc%2F1%2FB
+[/us/pl/110/140/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2FtIII
 [/us/stat/121/1590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1590
 [/us/act/1933-03-03/ch212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-03-03%2Fch212
 [/us/stat/47/1520]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F47%2F1520

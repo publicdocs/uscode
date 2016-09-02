@@ -95,7 +95,7 @@
 
     Programs and projects assisted under this section are subject to the provisions cited in [section 14701 of this title][/us/usc/t40/s14701] to the extent provided in the laws authorizing assistance for low- and moderate-income housing.
 
-([Pub. L. 107–217][/us/pl/107/217], Aug. 21, 2002, [116 Stat. 1268][/us/stat/116/1268]; [Pub. L. 110–371, § 2(c)][/us/pl/110/371/s2/c], Oct. 8, 2008, [122 Stat. 4038][/us/stat/122/4038].)
+([Pub. L. 107–217][/us/pl/107/217], Aug. 21, 2002, [116 Stat. 1268][/us/stat/116/1268]; [Pub. L. 110–371][/us/pl/110/371], § 2(c), Oct. 8, 2008, [122 Stat. 4038][/us/stat/122/4038].)
 
 <table>
 
@@ -233,9 +233,9 @@ Pub. L. 89–4, title II, § 207, as added Pub. L. 90–103, title I, § 112
 
  __Amendments__ 
 
-    2008—Subsec. (d)(1). [Pub. L. 110–371, § 2(c)(1)][/us/pl/110/371/s2/c/1], added par. (1) and struck out heading and text of former par. (1). Text read as follows: “A loan under subsection (b) shall not be more than 50 percent (or 80 percent for a project to be carried out in a county for which a distressed county designation is in effect under [section 14526 of this title][/us/usc/t40/s14526]) of the cost of planning and obtaining financing for a project, including preliminary surveys and analyses of market needs, preliminary site engineering and architectural fees, site options, application and mortgage commitment fees, legal fees, and construction loan fees and discounts.”
+    2008—Subsec. (d)(1). [Pub. L. 110–371][/us/pl/110/371], § 2(c)(1), added par. (1) and struck out heading and text of former par. (1). Text read as follows: “A loan under subsection (b) shall not be more than 50 percent (or 80 percent for a project to be carried out in a county for which a distressed county designation is in effect under [section 14526 of this title][/us/usc/t40/s14526]) of the cost of planning and obtaining financing for a project, including preliminary surveys and analyses of market needs, preliminary site engineering and architectural fees, site options, application and mortgage commitment fees, legal fees, and construction loan fees and discounts.”
 
-    Subsec. (e)(1). [Pub. L. 110–371, § 2(c)(2)][/us/pl/110/371/s2/c/2], added par. (1) and struck out heading and text of former par. (1). Text read as follows: “A grant under this section shall not be made to an organization established for profit and, except as provided in paragraph (2), shall not exceed 50 percent (or 80 percent for a project to be carried out in a county for which a distressed county designation is in effect under [section 14526 of this title][/us/usc/t40/s14526]) of expenses, incident to planning and obtaining financing for a project, which the Secretary considers not to be recoverable from the proceeds of a permanent loan made to finance the project.”
+    Subsec. (e)(1). [Pub. L. 110–371][/us/pl/110/371], § 2(c)(2), added par. (1) and struck out heading and text of former par. (1). Text read as follows: “A grant under this section shall not be made to an organization established for profit and, except as provided in paragraph (2), shall not exceed 50 percent (or 80 percent for a project to be carried out in a county for which a distressed county designation is in effect under [section 14526 of this title][/us/usc/t40/s14526]) of expenses, incident to planning and obtaining financing for a project, which the Secretary considers not to be recoverable from the proceeds of a permanent loan made to finance the project.”
 
 ----------
 
@@ -250,11 +250,11 @@ Pub. L. 89–4, title II, § 207, as added Pub. L. 90–103, title I, § 112
 [/us/usc/t40/s14701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs14701
 [/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1268]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1268
-[/us/pl/110/371/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F371%2Fs2%2Fc
+[/us/pl/110/371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F371
 [/us/stat/122/4038]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4038
-[/us/pl/110/371/s2/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F371%2Fs2%2Fc%2F1
+[/us/pl/110/371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F371
 [/us/usc/t40/s14526]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs14526
-[/us/pl/110/371/s2/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F371%2Fs2%2Fc%2F2
+[/us/pl/110/371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F371
 [/us/usc/t40/s14526]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs14526
 
 

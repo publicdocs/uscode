@@ -17,7 +17,7 @@
 
  __Amendments__ 
 
-    2006—[Pub. L. 109–284, § 6(21)][/us/pl/109/284/s6/21], Sept. 27, 2006, [120 Stat. 1213][/us/stat/120/1213], substituted “ASSIGNMENT” for “ASSIGMENT” in heading.
+    2006—[Pub. L. 109–284][/us/pl/109/284], § 6(21), Sept. 27, 2006, [120 Stat. 1213][/us/stat/120/1213], substituted “ASSIGNMENT” for “ASSIGMENT” in heading.
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/109/284/s6/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F284%2Fs6%2F21
+[/us/pl/109/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F284
 [/us/stat/120/1213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1213
 
 

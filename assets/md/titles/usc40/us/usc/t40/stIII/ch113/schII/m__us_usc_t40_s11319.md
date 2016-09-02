@@ -133,15 +133,15 @@
 
         This subsection shall not be in effect on and after the date that is 5 years after the date of the enactment of the Carl Levin and Howard P. “Buck” McKeon National Defense Authorization Act for Fiscal Year 2015.
 
-(Added and amended [Pub. L. 113–291, div. A, title VIII][/us/pl/113/291], §§ 831(a), 833, title IX, § 901(n)(1), Dec. 19, 2014, [128 Stat. 3438][/us/stat/128/3438], 3442, 3469.)
+(Added and amended [Pub. L. 113–291, div. A, title VIII][/us/pl/113/291/dA/tVIII], §§ 831(a), 833, title IX, § 901(n)(1), Dec. 19, 2014, [128 Stat. 3438][/us/stat/128/3438], 3442, 3469.)
 
  __Amendment of Subsection (c)(4)__ 
 
-    [Pub. L. 113–291, div. A, title IX, § 901(n)(1)][/us/pl/113/291/s901/n/1], Dec. 19, 2014, [128 Stat. 3469][/us/stat/128/3469], provided that, effective after Feb. 1, 2017, any reference to the Deputy Chief Management Officer of the Department of Defense shall be deemed to refer to the Under Secretary of Defense for Business Management and Information. See Change of Name note below.
+    [Pub. L. 113–291, div. A, title IX][/us/pl/113/291/dA/tIX], § 901(n)(1), Dec. 19, 2014, [128 Stat. 3469][/us/stat/128/3469], provided that, effective after Feb. 1, 2017, any reference to the Deputy Chief Management Officer of the Department of Defense shall be deemed to refer to the Under Secretary of Defense for Business Management and Information. See Change of Name note below.
 
  __Amendments__ 
 
-    2014—Subsec. (c). [Pub. L. 113–291, § 833][/us/pl/113/291/s833], added subsec. (c) relating to information technology portfolio, program, and resource reviews.
+    2014—Subsec. (c). [Pub. L. 113–291][/us/pl/113/291], § 833, added subsec. (c) relating to information technology portfolio, program, and resource reviews.
 
  __Change of Name__ 
 
@@ -156,11 +156,11 @@
 
 [/us/usc/t50/s3003/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3003%2F6
 [/us/usc/t40/s11103/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs11103%2Fa
-[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
+[/us/pl/113/291/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtVIII
 [/us/stat/128/3438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3438
-[/us/pl/113/291/s901/n/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs901%2Fn%2F1
+[/us/pl/113/291/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtIX
 [/us/stat/128/3469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3469
-[/us/pl/113/291/s833]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs833
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
 [/us/pl/113/291/s901/n/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs901%2Fn%2F1
 [/us/usc/t10/s131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs131
 

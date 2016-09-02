@@ -63,7 +63,7 @@
 
                 (ii) for the replacement of electrical transformers containing polychlorinated biphenyls.
 
-([Pub. L. 107–217][/us/pl/107/217], Aug. 21, 2002, [116 Stat. 1180][/us/stat/116/1180]; [Pub. L. 109–284, § 6(18)][/us/pl/109/284/s6/18], Sept. 27, 2006, [120 Stat. 1213][/us/stat/120/1213]; [Pub. L. 111–350, § 5][/us/pl/111/350/s5](l)(22), Jan. 4, 2011, [124 Stat. 3852][/us/stat/124/3852].)
+([Pub. L. 107–217][/us/pl/107/217], Aug. 21, 2002, [116 Stat. 1180][/us/stat/116/1180]; [Pub. L. 109–284][/us/pl/109/284], § 6(18), Sept. 27, 2006, [120 Stat. 1213][/us/stat/120/1213]; [Pub. L. 111–350][/us/pl/111/350], § 5(l)(22), Jan. 4, 2011, [124 Stat. 3852][/us/stat/124/3852].)
 
 <table>
 
@@ -160,9 +160,9 @@ Pub. L. 101–162, title IV, (proviso in par. under heading “Care of the Build
 
 [/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1180
-[/us/pl/109/284/s6/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F284%2Fs6%2F18
+[/us/pl/109/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F284
 [/us/stat/120/1213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1213
-[/us/pl/111/350/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs5
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3852
 [/us/act/1966-09-06/s7/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1966-09-06%2Fs7%2Fb
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554

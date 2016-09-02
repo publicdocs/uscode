@@ -57,11 +57,11 @@
 
     Notwithstanding any provision of law limiting the Federal share under any other Federal program, amounts made available to carry out this section may be used to increase that Federal share, as the Appalachian Regional Commission determines to be appropriate.
 
-(Added [Pub. L. 114–94, div. A, title I, § 1436(a)(1)][/us/pl/114/94/s1436/a/1], Dec. 4, 2015, [129 Stat. 1430][/us/stat/129/1430].)
+(Added [Pub. L. 114–94, div. A, title I][/us/pl/114/94/dA/tI], § 1436(a)(1), Dec. 4, 2015, [129 Stat. 1430][/us/stat/129/1430].)
 
  __Effective Date__ 
 
-[Pub. L. 114–94, div. A, title I, § 1436(d)][/us/pl/114/94/s1436/d], Dec. 4, 2015, [129 Stat. 1432][/us/stat/129/1432], provided that: 
+[Pub. L. 114–94, div. A, title I][/us/pl/114/94/dA/tI], § 1436(d), Dec. 4, 2015, [129 Stat. 1432][/us/stat/129/1432], provided that: 
 
 > “This section \[enacting this section and amending sections 14703 and 14704 of this title\] and the amendments made by this section take effect on October 1, 2015.”
 
@@ -72,9 +72,9 @@
 ----------
 ----------
 
-[/us/pl/114/94/s1436/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1436%2Fa%2F1
+[/us/pl/114/94/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtI
 [/us/stat/129/1430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1430
-[/us/pl/114/94/s1436/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1436%2Fd
+[/us/pl/114/94/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtI
 [/us/stat/129/1432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1432
 
 

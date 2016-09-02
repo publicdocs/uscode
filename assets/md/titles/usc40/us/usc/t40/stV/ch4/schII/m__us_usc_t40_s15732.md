@@ -33,7 +33,7 @@
 
     The counties of Atascosa, Bandera, Bee, Bexar, Brewster, Brooks, Cameron, Coke, Concho, Crane, Crockett, Culberson, Dimmit, Duval, Ector, Edwards, El Paso, Frio, Gillespie, Glasscock, Hidalgo, Hudspeth, Irion, Jeff Davis, Jim Hogg, Jim Wells, Karnes, Kendall, Kenedy, Kerr, Kimble, Kinney, Kleberg, La Salle, Live Oak, Loving, Mason, Maverick, McMullen, Medina, Menard, Midland, Nueces, Pecos, Presidio, Reagan, Real, Reeves, San Patricio, Shleicher, Sutton, Starr, Sterling, Terrell, Tom Green  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be followed by a comma. </sup></sup>  Upton, Uvalde, Val Verde, Ward, Webb, Willacy, Wilson, Winkler, Zapata, and Zavala in the State of Texas.
 
-(Added [Pub. L. 110–234, title XIV, § 14217(a)(2)][/us/pl/110/234/s14217/a/2], May 22, 2008, [122 Stat. 1481][/us/stat/122/1481], and [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title XIV, § 14217(a)(2), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2243.)
+(Added [Pub. L. 110–234, title XIV][/us/pl/110/234/tXIV], § 14217(a)(2), May 22, 2008, [122 Stat. 1481][/us/stat/122/1481], and [Pub. L. 110–246][/us/pl/110/246], § 4(a), title XIV, § 14217(a)(2), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2243.)
 
  __Codification__ 
 
@@ -46,9 +46,9 @@
 ----------
 ----------
 
-[/us/pl/110/234/s14217/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs14217%2Fa%2F2
+[/us/pl/110/234/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtXIV
 [/us/stat/122/1481]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1481
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246

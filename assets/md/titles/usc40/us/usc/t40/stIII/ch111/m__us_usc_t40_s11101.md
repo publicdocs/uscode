@@ -53,7 +53,7 @@
 
         (C) does not include any equipment acquired by a federal contractor incidental to a federal contract.
 
-([Pub. L. 107–217][/us/pl/107/217], Aug. 21, 2002, [116 Stat. 1235][/us/stat/116/1235]; [Pub. L. 108–199, div. F, title V, § 535(b)][/us/pl/108/199/s535/b], Jan. 23, 2004, [118 Stat. 345][/us/stat/118/345]; [Pub. L. 111–350, § 5][/us/pl/111/350/s5](l)(24), Jan. 4, 2011, [124 Stat. 3852][/us/stat/124/3852].)
+([Pub. L. 107–217][/us/pl/107/217], Aug. 21, 2002, [116 Stat. 1235][/us/stat/116/1235]; [Pub. L. 108–199, div. F, title V][/us/pl/108/199/dF/tV], § 535(b), Jan. 23, 2004, [118 Stat. 345][/us/stat/118/345]; [Pub. L. 111–350][/us/pl/111/350], § 5(l)(24), Jan. 4, 2011, [124 Stat. 3852][/us/stat/124/3852].)
 
 <table>
 
@@ -105,13 +105,13 @@ Pub. L. 104–106, div. E, § 5002, Feb. 10, 1996, 110 Stat. 679.  </td>
 
  __Amendments__ 
 
-    2011—Par. (1). [Pub. L. 111–350, § 5][/us/pl/111/350/s5](l)(24)(A), substituted “[section 103 of title 41][/us/usc/t41/s103]” for “section 4 of the Office of Federal Procurement Policy Act ([41 U.S.C. 403][/us/usc/t41/s403])”.
+    2011—Par. (1). [Pub. L. 111–350][/us/pl/111/350], § 5(l)(24)(A), substituted “[section 103 of title 41][/us/usc/t41/s103]” for “section 4 of the Office of Federal Procurement Policy Act ([41 U.S.C. 403][/us/usc/t41/s403])”.
 
-    Par. (2). [Pub. L. 111–350, § 5][/us/pl/111/350/s5](l)(24)(B), substituted “[section 133 of title 41][/us/usc/t41/s133]” for “section 4 of the Act ([41 U.S.C. 403][/us/usc/t41/s403])”.
+    Par. (2). [Pub. L. 111–350][/us/pl/111/350], § 5(l)(24)(B), substituted “[section 133 of title 41][/us/usc/t41/s133]” for “section 4 of the Act ([41 U.S.C. 403][/us/usc/t41/s403])”.
 
-    2004—Par. (6)(A). [Pub. L. 108–199, § 535(b)(1)][/us/pl/108/199/s535/b/1], inserted “analysis, evaluation,” after “storage,”.
+    2004—Par. (6)(A). [Pub. L. 108–199][/us/pl/108/199], § 535(b)(1), inserted “analysis, evaluation,” after “storage,”.
 
-    Par. (6)(B). [Pub. L. 108–199, § 535(b)(2)][/us/pl/108/199/s535/b/2], substituted “ancillary equipment (including imaging peripherals, input, output, and storage devices necessary for security and surveillance), peripheral equipment designed to be controlled by the central processing unit of a computer,” for “ancillary equipment,”.
+    Par. (6)(B). [Pub. L. 108–199][/us/pl/108/199], § 535(b)(2), substituted “ancillary equipment (including imaging peripherals, input, output, and storage devices necessary for security and surveillance), peripheral equipment designed to be controlled by the central processing unit of a computer,” for “ancillary equipment,”.
 
  __Executive Order No. 13011__ 
 
@@ -179,18 +179,18 @@ Pub. L. 104–106, div. E, § 5002, Feb. 10, 1996, 110 Stat. 679.  </td>
 [/us/usc/t44/s3502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs3502
 [/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1235
-[/us/pl/108/199/s535/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2Fs535%2Fb
+[/us/pl/108/199/dF/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2FdF%2FtV
 [/us/stat/118/345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F345
-[/us/pl/111/350/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs5
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3852
-[/us/pl/111/350/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs5
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/usc/t41/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs103
 [/us/usc/t41/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs403
-[/us/pl/111/350/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs5
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/usc/t41/s133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs133
 [/us/usc/t41/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs403
-[/us/pl/108/199/s535/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2Fs535%2Fb%2F1
-[/us/pl/108/199/s535/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2Fs535%2Fb%2F2
+[/us/pl/108/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199
+[/us/pl/108/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199
 [/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
 [/us/usc/t41/s403/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs403%2F1
 [/us/usc/t50/s3003/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3003%2F4

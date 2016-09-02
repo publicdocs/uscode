@@ -83,7 +83,7 @@
 
     The Administrator annually may adjust any dollar amount referred to in this section to reflect a percentage increase or decrease in construction costs during the prior calendar year, as determined by the composite index of construction costs of the Department of Commerce. Any adjustment shall be expeditiously reported to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives.
 
-([Pub. L. 107–217][/us/pl/107/217], Aug. 21, 2002, [116 Stat. 1161][/us/stat/116/1161]; [Pub. L. 110–140, title III, § 323(a)][/us/pl/110/140/s323/a], (b), Dec. 19, 2007, [121 Stat. 1589][/us/stat/121/1589], 1590.)
+([Pub. L. 107–217][/us/pl/107/217], Aug. 21, 2002, [116 Stat. 1161][/us/stat/116/1161]; [Pub. L. 110–140, title III][/us/pl/110/140/tIII], § 323(a), (b), Dec. 19, 2007, [121 Stat. 1589][/us/stat/121/1589], 1590.)
 
 <table>
 
@@ -229,9 +229,9 @@ In this section, the words “Transportation and Infrastructure” are substitut
 
  __Amendments__ 
 
-    2007—Subsec. (b)(7). [Pub. L. 110–140, § 323(a)][/us/pl/110/140/s323/a], added par. (7).
+    2007—Subsec. (b)(7). [Pub. L. 110–140][/us/pl/110/140], § 323(a), added par. (7).
 
-    Subsecs. (f) to (h). [Pub. L. 110–140, § 323(b)][/us/pl/110/140/s323/b], added subsec. (f) and redesignated former subsecs. (f) and (g) as (g) and (h), respectively.
+    Subsecs. (f) to (h). [Pub. L. 110–140][/us/pl/110/140], § 323(b), added subsec. (f) and redesignated former subsecs. (f) and (g) as (g) and (h), respectively.
 
  __Effective Date of 2007 Amendment__ 
 
@@ -248,14 +248,14 @@ In this section, the words “Transportation and Infrastructure” are substitut
 [/us/usc/t40/s3303/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs3303%2Fc
 [/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1161
-[/us/pl/110/140/s323/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs323%2Fa
+[/us/pl/110/140/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2FtIII
 [/us/stat/121/1589]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1589
 [/us/pl/86/249]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F249
 [/us/stat/73/480]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F480
 [/us/act/1995-06-03/s1/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1995-06-03%2Fs1%2Fa%2F9
 [/us/pl/104/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F14
-[/us/pl/110/140/s323/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs323%2Fa
-[/us/pl/110/140/s323/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs323%2Fb
+[/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
+[/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
 [/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
 [/us/pl/110/140/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs1601
 [/us/usc/t2/s1824]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1824

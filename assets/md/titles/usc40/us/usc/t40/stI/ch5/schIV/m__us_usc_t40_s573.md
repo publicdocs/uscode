@@ -17,7 +17,7 @@
 
     The Administrator of General Services may retain from the proceeds of sales of personal property the Administrator conducts amounts necessary to recover, to the extent practicable, costs the Administrator (or the Administrator’s agent) incurs in conducting the sales. The Administrator shall deposit amounts retained into the Acquisition Services Fund established under [section 321(a) of this title][/us/usc/t40/s321/a]. From the amounts deposited, the Administrator may pay direct costs and reasonably related indirect costs incurred in conducting sales of personal property. At least once each year, amounts retained that are not needed to pay the direct and indirect costs shall be transferred from the Acquisition Services Fund to the general fund or another appropriate account in the Treasury.
 
-([Pub. L. 107–217][/us/pl/107/217], Aug. 21, 2002, [116 Stat. 1107][/us/stat/116/1107]; [Pub. L. 109–313, § 3(h)(4)][/us/pl/109/313/s3/h/4], Oct. 6, 2006, [120 Stat. 1736][/us/stat/120/1736].)
+([Pub. L. 107–217][/us/pl/107/217], Aug. 21, 2002, [116 Stat. 1107][/us/stat/116/1107]; [Pub. L. 109–313][/us/pl/109/313], § 3(h)(4), Oct. 6, 2006, [120 Stat. 1736][/us/stat/120/1736].)
 
 <table>
 
@@ -83,7 +83,7 @@ June 30, 1949, ch. 288, title II, § 204(i), as added Pub. L. 103–123, title
 [/us/usc/t40/s321/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs321%2Fa
 [/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1107
-[/us/pl/109/313/s3/h/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F313%2Fs3%2Fh%2F4
+[/us/pl/109/313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F313
 [/us/stat/120/1736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1736
 [/us/pl/109/313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F313
 [/us/pl/109/313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F313

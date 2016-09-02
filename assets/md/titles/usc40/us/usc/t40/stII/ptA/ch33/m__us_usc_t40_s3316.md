@@ -17,7 +17,7 @@
 
     This chapter does not limit or repeal the authority conferred by law on the United States Postal Service.
 
-([Pub. L. 107–217][/us/pl/107/217], Aug. 21, 2002, [116 Stat. 1167][/us/stat/116/1167], § 3315; renumbered § 3316, [Pub. L. 110–140, title III, § 323(c)(1)(A)][/us/pl/110/140/s323/c/1/A], Dec. 19, 2007, [121 Stat. 1590][/us/stat/121/1590].)
+([Pub. L. 107–217][/us/pl/107/217], Aug. 21, 2002, [116 Stat. 1167][/us/stat/116/1167], § 3315; renumbered § 3316, [Pub. L. 110–140, title III][/us/pl/110/140/tIII], § 323(c)(1)(A), Dec. 19, 2007, [121 Stat. 1590][/us/stat/121/1590].)
 
 <table>
 
@@ -84,7 +84,7 @@ Pub. L. 86–249, § 16, Sept. 9, 1959, 73 Stat. 483; Pub. L. 91–375, § 6
 
 [/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1167
-[/us/pl/110/140/s323/c/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs323%2Fc%2F1%2FA
+[/us/pl/110/140/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2FtIII
 [/us/stat/121/1590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1590
 [/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
 [/us/usc/t40/s3315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs3315

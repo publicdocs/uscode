@@ -35,7 +35,7 @@
 
     Amounts made available to the Administration pursuant to [section 592 of this title][/us/usc/t40/s592] may be obligated and expended to procure covered services by contract with a sheltered workshop or, if sheltered workshops decline to contract for the provision of covered services, by competitive contract for a period of no longer than 5 years. When a competitive contract expires, or is terminated for any reason, the Administration shall again offer to procure the covered services by contract with a sheltered workshop before procuring the covered services by competitive contract.
 
-([Pub. L. 107–217][/us/pl/107/217], Aug. 21, 2002, [116 Stat. 1120][/us/stat/116/1120]; [Pub. L. 109–284, § 6(6)][/us/pl/109/284/s6/6], Sept. 27, 2006, [120 Stat. 1212][/us/stat/120/1212]; [Pub. L. 111–350, § 5][/us/pl/111/350/s5](l)(11), Jan. 4, 2011, [124 Stat. 3852][/us/stat/124/3852].)
+([Pub. L. 107–217][/us/pl/107/217], Aug. 21, 2002, [116 Stat. 1120][/us/stat/116/1120]; [Pub. L. 109–284][/us/pl/109/284], § 6(6), Sept. 27, 2006, [120 Stat. 1212][/us/stat/120/1212]; [Pub. L. 111–350][/us/pl/111/350], § 5(l)(11), Jan. 4, 2011, [124 Stat. 3852][/us/stat/124/3852].)
 
 <table>
 
@@ -100,9 +100,9 @@ Pub. L. 104–52, title V, § 503, Nov. 19, 1995, 109 Stat. 491.  </td>
 [/us/usc/t40/s592]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs592
 [/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1120
-[/us/pl/109/284/s6/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F284%2Fs6%2F6
+[/us/pl/109/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F284
 [/us/stat/120/1212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1212
-[/us/pl/111/350/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs5
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3852
 [/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/usc/t41/s46]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs46

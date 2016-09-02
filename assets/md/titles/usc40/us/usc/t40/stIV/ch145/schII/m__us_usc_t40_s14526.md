@@ -85,7 +85,7 @@
 
             The Commission shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives an annual report describing each waiver granted under subparagraph (A) during the period covered by the report.
 
-([Pub. L. 107–217][/us/pl/107/217], Aug. 21, 2002, [116 Stat. 1277][/us/stat/116/1277]; [Pub. L. 110–371, § 4(a)][/us/pl/110/371/s4/a], Oct. 8, 2008, [122 Stat. 4041][/us/stat/122/4041].)
+([Pub. L. 107–217][/us/pl/107/217], Aug. 21, 2002, [116 Stat. 1277][/us/stat/116/1277]; [Pub. L. 110–371][/us/pl/110/371], § 4(a), Oct. 8, 2008, [122 Stat. 4041][/us/stat/122/4041].)
 
 <table>
 
@@ -137,9 +137,9 @@ Pub. L. 89–4, title II, § 226, as added Pub. L. 105–393, title II, § 2
 
  __Amendments__ 
 
-    2008—[Pub. L. 110–371, § 4(a)(1)][/us/pl/110/371/s4/a/1], inserted “, at-risk,” after “Distressed” in section catchline.
+    2008—[Pub. L. 110–371][/us/pl/110/371], § 4(a)(1), inserted “, at-risk,” after “Distressed” in section catchline.
 
-    Subsec. (a)(1)(B), (C). [Pub. L. 110–371, § 4(a)(2)][/us/pl/110/371/s4/a/2], added subpar. (B) and redesignated former subpar. (B) as (C).
+    Subsec. (a)(1)(B), (C). [Pub. L. 110–371][/us/pl/110/371], § 4(a)(2), added subpar. (B) and redesignated former subpar. (B) as (C).
 
 ----------
 
@@ -152,9 +152,9 @@ Pub. L. 89–4, title II, § 226, as added Pub. L. 105–393, title II, § 2
 [/us/usc/t40/s14321/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs14321%2Fa%2F1%2FA
 [/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1277
-[/us/pl/110/371/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F371%2Fs4%2Fa
+[/us/pl/110/371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F371
 [/us/stat/122/4041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4041
-[/us/pl/110/371/s4/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F371%2Fs4%2Fa%2F1
-[/us/pl/110/371/s4/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F371%2Fs4%2Fa%2F2
+[/us/pl/110/371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F371
+[/us/pl/110/371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F371
 
 

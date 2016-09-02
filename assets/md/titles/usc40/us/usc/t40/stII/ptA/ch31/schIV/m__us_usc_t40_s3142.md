@@ -41,7 +41,7 @@
 
     In determining the overtime pay to which a laborer or mechanic is entitled under any federal law, the regular or basic hourly rate of pay (or other alternative rate on which premium rate of overtime compensation is computed) of the laborer or mechanic is deemed to be the rate computed under [section 3141(2)(A) of this title][/us/usc/t40/s3141/2/A], except that where the amount of payments, contributions, or costs incurred with respect to the laborer or mechanic exceeds the applicable prevailing wage, the regular or basic hourly rate of pay (or other alternative rate) is the amount of payments, contributions, or costs actually incurred with respect to the laborer or mechanic minus the greater of the amount of contributions or costs of the types described in [section 3141(2)(B) of this title][/us/usc/t40/s3141/2/B] actually incurred with respect to the laborer or mechanic or the amount determined under [section 3141(2)(B) of this title][/us/usc/t40/s3141/2/B] but not actually paid.
 
-([Pub. L. 107–217][/us/pl/107/217], Aug. 21, 2002, [116 Stat. 1150][/us/stat/116/1150]; [Pub. L. 109–284, § 6(12)][/us/pl/109/284/s6/12], (13), Sept. 27, 2006, [120 Stat. 1213][/us/stat/120/1213].)
+([Pub. L. 107–217][/us/pl/107/217], Aug. 21, 2002, [116 Stat. 1150][/us/stat/116/1150]; [Pub. L. 109–284][/us/pl/109/284], § 6(12), (13), Sept. 27, 2006, [120 Stat. 1213][/us/stat/120/1213].)
 
 <table>
 
@@ -141,9 +141,9 @@ Mar. 3, 1931, ch. 411, § 1(b) (1st par. proviso, last par.), as added Pub. L.
 
  __Amendments__ 
 
-    2006—Subsec. (d). [Pub. L. 109–284, § 6(12)][/us/pl/109/284/s6/12], inserted “of this title” after “amount referred to in section 3141(2)(B)”.
+    2006—Subsec. (d). [Pub. L. 109–284][/us/pl/109/284], § 6(12), inserted “of this title” after “amount referred to in section 3141(2)(B)”.
 
-    Subsec. (e). [Pub. L. 109–284, § 6(13)][/us/pl/109/284/s6/13], inserted “of this title” after “determined under section 3141(2)(B)”.
+    Subsec. (e). [Pub. L. 109–284][/us/pl/109/284], § 6(13), inserted “of this title” after “determined under section 3141(2)(B)”.
 
 ----------
 
@@ -160,9 +160,9 @@ Mar. 3, 1931, ch. 411, § 1(b) (1st par. proviso, last par.), as added Pub. L.
 [/us/usc/t40/s3141/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs3141%2F2%2FB
 [/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1150
-[/us/pl/109/284/s6/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F284%2Fs6%2F12
+[/us/pl/109/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F284
 [/us/stat/120/1213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1213
-[/us/pl/109/284/s6/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F284%2Fs6%2F12
-[/us/pl/109/284/s6/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F284%2Fs6%2F13
+[/us/pl/109/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F284
+[/us/pl/109/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F284
 
 

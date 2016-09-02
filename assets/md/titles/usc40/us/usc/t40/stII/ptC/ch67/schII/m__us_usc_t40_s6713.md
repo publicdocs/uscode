@@ -69,7 +69,7 @@ Pub. L. 92–578, § 7(b), Oct. 27, 1972, 86 Stat. 1273; Pub. L. 93–427, §�
 
  __References in Text__ 
 
-    Section 5(a) of the Pennsylvania Avenue Development Corporation Act of 1972, referred to in text, was classified to section 874(a) of former Title 40, Public Buildings, Property, and Works, prior to repeal by [Pub. L. 107–217, § 6(b)][/us/pl/107/217/s6/b], Aug. 21, 2002, [116 Stat. 1304][/us/stat/116/1304].
+    Section 5(a) of the Pennsylvania Avenue Development Corporation Act of 1972, referred to in text, was classified to section 874(a) of former Title 40, Public Buildings, Property, and Works, prior to repeal by [Pub. L. 107–217][/us/pl/107/217], § 6(b), Aug. 21, 2002, [116 Stat. 1304][/us/stat/116/1304].
 
 ----------
 
@@ -82,7 +82,7 @@ Pub. L. 92–578, § 7(b), Oct. 27, 1972, 86 Stat. 1273; Pub. L. 93–427, §�
 [/us/stat/86/1269]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1269
 [/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1197]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1197
-[/us/pl/107/217/s6/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs6%2Fb
+[/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1304
 
 

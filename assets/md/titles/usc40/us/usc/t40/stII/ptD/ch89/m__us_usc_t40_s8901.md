@@ -31,7 +31,7 @@
 
         (B) reflect a consensus of the lasting national significance of the subjects involved.
 
-([Pub. L. 107–217][/us/pl/107/217], Aug. 21, 2002, [116 Stat. 1227][/us/stat/116/1227]; [Pub. L. 108–126, title II, § 203(a)][/us/pl/108/126/s203/a], Nov. 17, 2003, [117 Stat. 1349][/us/stat/117/1349].)
+([Pub. L. 107–217][/us/pl/107/217], Aug. 21, 2002, [116 Stat. 1227][/us/stat/116/1227]; [Pub. L. 108–126, title II][/us/pl/108/126/tII], § 203(a), Nov. 17, 2003, [117 Stat. 1349][/us/stat/117/1349].)
 
 <table>
 
@@ -85,13 +85,13 @@ Pub. L. 99–652, § 1, Nov. 14, 1986, 100 Stat. 3650.  </td>
 
  __Effective Date of 2003 Amendment__ 
 
-[Pub. L. 108–126, title II, § 205][/us/pl/108/126/s205], Nov. 17, 2003, [117 Stat. 1353][/us/stat/117/1353], provided that: 
+[Pub. L. 108–126, title II][/us/pl/108/126/tII], § 205, Nov. 17, 2003, [117 Stat. 1353][/us/stat/117/1353], provided that: 
 
 > “Except for the provision in the amendment made by section 202(b) \[amending [section 8908 of this title][/us/usc/t40/s8908]\] prohibiting a visitor center from being located in the Reserve (as defined in [section 8902 of title 40][/us/usc/t40/s8902], United States Code), nothing in this title \[see Short Title of 2003 Amendment note set out under [section 101 of this title][/us/usc/t40/s101]\] shall apply to a commemorative work for which a site was approved in accordance with chapter 89 of title 40, United States Code, prior to the date of enactment of this title \[Nov. 17, 2003\].”
 
  __Findings__ 
 
-[Pub. L. 108–126, title II, § 202(a)][/us/pl/108/126/s202/a], Nov. 17, 2003, [117 Stat. 1349][/us/stat/117/1349], provided that: 
+[Pub. L. 108–126, title II][/us/pl/108/126/tII], § 202(a), Nov. 17, 2003, [117 Stat. 1349][/us/stat/117/1349], provided that: 
 
 > “Congress finds that—
 
@@ -108,15 +108,15 @@ Pub. L. 99–652, § 1, Nov. 14, 1986, 100 Stat. 3650.  </td>
 
 [/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1227
-[/us/pl/108/126/s203/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F126%2Fs203%2Fa
+[/us/pl/108/126/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F126%2FtII
 [/us/stat/117/1349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1349
 [/us/pl/108/126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F126
-[/us/pl/108/126/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F126%2Fs205
+[/us/pl/108/126/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F126%2FtII
 [/us/stat/117/1353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1353
 [/us/usc/t40/s8908]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs8908
 [/us/usc/t40/s8902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs8902
 [/us/usc/t40/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs101
-[/us/pl/108/126/s202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F126%2Fs202%2Fa
+[/us/pl/108/126/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F126%2FtII
 [/us/stat/117/1349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1349
 
 

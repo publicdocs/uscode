@@ -57,7 +57,7 @@
 
     Subsection (d) is extended to include public buildings erected by any agency of the Government of the District of Columbia in the central area of the District (as defined by concurrent action of the Commission and the Council of the District of Columbia), except that the Commission shall transmit its approval or disapproval within 30 days after the day the proposal was submitted to the Commission.
 
-([Pub. L. 107–217][/us/pl/107/217], Aug. 21, 2002, [116 Stat. 1221][/us/stat/116/1221]; [Pub. L. 109–284, § 6(29)][/us/pl/109/284/s6/29], Sept. 27, 2006, [120 Stat. 1213][/us/stat/120/1213].)
+([Pub. L. 107–217][/us/pl/107/217], Aug. 21, 2002, [116 Stat. 1221][/us/stat/116/1221]; [Pub. L. 109–284][/us/pl/109/284], § 6(29), Sept. 27, 2006, [120 Stat. 1213][/us/stat/120/1213].)
 
 <table>
 
@@ -237,7 +237,7 @@ June 20, 1938, ch. 534, § 16, 52 Stat. 802.  </td>
 [/us/stat/52/797]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F797
 [/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1221
-[/us/pl/109/284/s6/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F284%2Fs6%2F29
+[/us/pl/109/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F284
 [/us/stat/120/1213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1213
 [/us/act/1924-06-06/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1924-06-06%2Fs9
 [/us/act/1952-07-19/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-07-19%2Fs1

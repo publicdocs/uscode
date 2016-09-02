@@ -17,7 +17,7 @@
 
     In this chapter, the term “Capitol Buildings” means the United States Capitol, the Senate and House Office Buildings and garages, the Capitol Power Plant, all buildings on the real property described under section 5102(c) (including the Administrative Building of the United States Botanic Garden)  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be followed by a comma. </sup></sup>  all buildings on the real property described under section 5102(d), all subways and enclosed passages connecting two or more of those structures, and the real property underlying and enclosed by any of those structures.
 
-([Pub. L. 107–217][/us/pl/107/217], Aug. 21, 2002, [116 Stat. 1174][/us/stat/116/1174]; [Pub. L. 108–7, div. H, title I, § 1016(a)][/us/pl/108/7/s1016/a], Feb. 20, 2003, [117 Stat. 364][/us/stat/117/364]; [Pub. L. 110–161, div. H, title I, § 1004(d)(2)(A)(i)][/us/pl/110/161/s1004/d/2/A/i], Dec. 26, 2007, [121 Stat. 2233][/us/stat/121/2233]; [Pub. L. 110–178, § 4(b)(1)(A)][/us/pl/110/178/s4/b/1/A], Jan. 7, 2008, [121 Stat. 2551][/us/stat/121/2551]; [Pub. L. 111–145, § 6(d)(1)][/us/pl/111/145/s6/d/1], Mar. 4, 2010, [124 Stat. 54][/us/stat/124/54].)
+([Pub. L. 107–217][/us/pl/107/217], Aug. 21, 2002, [116 Stat. 1174][/us/stat/116/1174]; [Pub. L. 108–7, div. H, title I][/us/pl/108/7/dH/tI], § 1016(a), Feb. 20, 2003, [117 Stat. 364][/us/stat/117/364]; [Pub. L. 110–161, div. H, title I][/us/pl/110/161/dH/tI], § 1004(d)(2)(A)(i), Dec. 26, 2007, [121 Stat. 2233][/us/stat/121/2233]; [Pub. L. 110–178][/us/pl/110/178], § 4(b)(1)(A), Jan. 7, 2008, [121 Stat. 2551][/us/stat/121/2551]; [Pub. L. 111–145][/us/pl/111/145], § 6(d)(1), Mar. 4, 2010, [124 Stat. 54][/us/stat/124/54].)
 
 <table>
 
@@ -67,11 +67,11 @@ July 31, 1946, ch. 707, § 16(a)(1), 60 Stat. 721; Pub. L. 90–108, § 1(d)
 
  __Amendments__ 
 
-    2010—[Pub. L. 111–145][/us/pl/111/145] repealed [Pub. L. 110–161, § 1004(d)(2)(A)(i)][/us/pl/110/161/s1004/d/2/A/i]. See 2007 Amendment note below.
+    2010—[Pub. L. 111–145][/us/pl/111/145] repealed [Pub. L. 110–161][/us/pl/110/161], § 1004(d)(2)(A)(i). See 2007 Amendment note below.
 
     2008—[Pub. L. 110–178][/us/pl/110/178] inserted “all buildings on the real property described under section 5102(d)” after “(including the Administrative Building of the United States Botanic Garden)”.
 
-    2007—[Pub. L. 110–161, § 1004(d)(2)(A)(i)][/us/pl/110/161/s1004/d/2/A/i], which made an amendment identical to that made by [Pub. L. 110–178][/us/pl/110/178], was repealed by [Pub. L. 111–145][/us/pl/111/145]. See Effective Date of 2010 Amendment note below.
+    2007—[Pub. L. 110–161][/us/pl/110/161], § 1004(d)(2)(A)(i), which made an amendment identical to that made by [Pub. L. 110–178][/us/pl/110/178], was repealed by [Pub. L. 111–145][/us/pl/111/145]. See Effective Date of 2010 Amendment note below.
 
     2003—[Pub. L. 108–7][/us/pl/108/7] inserted “all buildings on the real property described under section 5102(c) (including the Administrative Building of the United States Botanic Garden),” after “Capitol Power Plant,”.
 
@@ -93,13 +93,13 @@ July 31, 1946, ch. 707, § 16(a)(1), 60 Stat. 721; Pub. L. 90–108, § 1(d)
 
  __Designating Small House Rotunda as “Freedom Foyer”__ 
 
-[Pub. L. 114–74, title XII, § 1201][/us/pl/114/74/s1201], Nov. 2, 2015, [129 Stat. 639][/us/stat/129/639], provided that: 
+[Pub. L. 114–74, title XII][/us/pl/114/74/tXII], § 1201, Nov. 2, 2015, [129 Stat. 639][/us/stat/129/639], provided that: 
 
 > “The first floor of the area of the House of Representatives wing of the United States Capitol known as the small House rotunda is designated the ‘Freedom Foyer’.”
 
  __Designation of Great Hall of the Capitol Visitor Center as “Emancipation Hall”__ 
 
-[Pub. L. 110–139, § 1][/us/pl/110/139/s1], Dec. 18, 2007, [121 Stat. 1491][/us/stat/121/1491], provided that:
+[Pub. L. 110–139][/us/pl/110/139], § 1, Dec. 18, 2007, [121 Stat. 1491][/us/stat/121/1491], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -118,18 +118,18 @@ July 31, 1946, ch. 707, § 16(a)(1), 60 Stat. 721; Pub. L. 90–108, § 1(d)
 
 [/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1174
-[/us/pl/108/7/s1016/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2Fs1016%2Fa
+[/us/pl/108/7/dH/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2FdH%2FtI
 [/us/stat/117/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F364
-[/us/pl/110/161/s1004/d/2/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2Fs1004%2Fd%2F2%2FA%2Fi
+[/us/pl/110/161/dH/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2FdH%2FtI
 [/us/stat/121/2233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2233
-[/us/pl/110/178/s4/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F178%2Fs4%2Fb%2F1%2FA
+[/us/pl/110/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F178
 [/us/stat/121/2551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2551
-[/us/pl/111/145/s6/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F145%2Fs6%2Fd%2F1
+[/us/pl/111/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F145
 [/us/stat/124/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F54
 [/us/pl/111/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F145
-[/us/pl/110/161/s1004/d/2/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2Fs1004%2Fd%2F2%2FA%2Fi
+[/us/pl/110/161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161
 [/us/pl/110/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F178
-[/us/pl/110/161/s1004/d/2/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2Fs1004%2Fd%2F2%2FA%2Fi
+[/us/pl/110/161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161
 [/us/pl/110/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F178
 [/us/pl/111/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F145
 [/us/pl/108/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7
@@ -149,9 +149,9 @@ July 31, 1946, ch. 707, § 16(a)(1), 60 Stat. 721; Pub. L. 90–108, § 1(d)
 [/us/pl/108/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7
 [/us/pl/108/7/s1016/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2Fs1016%2Fd
 [/us/usc/t2/s1961]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1961
-[/us/pl/114/74/s1201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs1201
+[/us/pl/114/74/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2FtXII
 [/us/stat/129/639]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F639
-[/us/pl/110/139/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F139%2Fs1
+[/us/pl/110/139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F139
 [/us/stat/121/1491]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1491
 
 

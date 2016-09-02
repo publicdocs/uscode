@@ -141,7 +141,7 @@
 
     The Director shall coordinate with the Office of Federal Procurement Policy the development and review by the Administrator of the Office of Information and Regulatory Affairs of policy associated with federal acquisition of information technology.
 
-([Pub. L. 107–217][/us/pl/107/217], Aug. 21, 2002, [116 Stat. 1237][/us/stat/116/1237]; [Pub. L. 108–458, title VIII, § 8401(1)][/us/pl/108/458/s8401/1], (2), Dec. 17, 2004, [118 Stat. 3869][/us/stat/118/3869]; [Pub. L. 113–291, div. A, title VIII, § 832][/us/pl/113/291/s832], Dec. 19, 2014, [128 Stat. 3440][/us/stat/128/3440].)
+([Pub. L. 107–217][/us/pl/107/217], Aug. 21, 2002, [116 Stat. 1237][/us/stat/116/1237]; [Pub. L. 108–458, title VIII][/us/pl/108/458/tVIII], § 8401(1), (2), Dec. 17, 2004, [118 Stat. 3869][/us/stat/118/3869]; [Pub. L. 113–291, div. A, title VIII][/us/pl/113/291/dA/tVIII], § 832, Dec. 19, 2014, [128 Stat. 3440][/us/stat/128/3440].)
 
 <table>
 
@@ -191,7 +191,7 @@ Pub. L. 104–106, div. E, title LI, § 5112, Feb. 10, 1996, 110 Stat. 680.  <
 
  __References in Text__ 
 
-    [Section 3542 of title 44][/us/usc/t44/s3542], referred to in subsec. (c)(1)(C), was repealed by [Pub. L. 113–283, § 2(a)][/us/pl/113/283/s2/a], Dec. 18, 2014, [128 Stat. 3073][/us/stat/128/3073]. See [section 3552 of Title 44][/us/usc/t44/s3552], Public Printing and Documents.
+    [Section 3542 of title 44][/us/usc/t44/s3542], referred to in subsec. (c)(1)(C), was repealed by [Pub. L. 113–283][/us/pl/113/283], § 2(a), Dec. 18, 2014, [128 Stat. 3073][/us/stat/128/3073]. See [section 3552 of Title 44][/us/usc/t44/s3552], Public Printing and Documents.
 
     The date of the enactment of the Carl Levin and Howard P. “Buck” McKeon National Defense Authorization Act for Fiscal Year 2015, referred to in subsec. (c)(5), is the date of enactment of [Pub. L. 113–291][/us/pl/113/291], which was approved Dec. 19, 2014.
 
@@ -199,13 +199,13 @@ Pub. L. 104–106, div. E, title LI, § 5112, Feb. 10, 1996, 110 Stat. 680.  <
 
     2014—Subsec. (c). [Pub. L. 113–291][/us/pl/113/291] added pars. (1), (3), (4), and par. (5) relating to sunset of certain provisions and redesignated former pars. (1) and (2) as par. (2) and par. (5) relating to report to Congress, respectively.
 
-    2004—Subsec. (b). [Pub. L. 108–458, § 8401(1)][/us/pl/108/458/s8401/1], inserted “security,” after “use,”.
+    2004—Subsec. (b). [Pub. L. 108–458][/us/pl/108/458], § 8401(1), inserted “security,” after “use,”.
 
-    Subsec. (c)(1). [Pub. L. 108–458, § 8401(2)][/us/pl/108/458/s8401/2], inserted “, including information security risks,” after “evaluating the risks” and “costs, benefits, and risks”.
+    Subsec. (c)(1). [Pub. L. 108–458][/us/pl/108/458], § 8401(2), inserted “, including information security risks,” after “evaluating the risks” and “costs, benefits, and risks”.
 
  __Appropriate Use of Requirements Regarding Experience and Education of Contractor Personnel in the Procurement of Information Technology Services__ 
 
-[Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title VIII, § 813\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–214, provided that:
+[Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title VIII, § 813\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–214, provided that:
 
 >     “(a)  __Amendment of the Federal Acquisition Regulation__  __.—__ 
 
@@ -253,19 +253,19 @@ Pub. L. 104–106, div. E, title LI, § 5112, Feb. 10, 1996, 110 Stat. 680.  <
 [/us/usc/t15/s278g–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs278g%E2%80%933
 [/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1237
-[/us/pl/108/458/s8401/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs8401%2F1
+[/us/pl/108/458/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2FtVIII
 [/us/stat/118/3869]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3869
-[/us/pl/113/291/s832]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs832
+[/us/pl/113/291/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtVIII
 [/us/stat/128/3440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3440
 [/us/usc/t44/s3542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs3542
-[/us/pl/113/283/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F283%2Fs2%2Fa
+[/us/pl/113/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F283
 [/us/stat/128/3073]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3073
 [/us/usc/t44/s3552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs3552
 [/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
 [/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
-[/us/pl/108/458/s8401/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs8401%2F1
-[/us/pl/108/458/s8401/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs8401%2F2
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
+[/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
 [/us/usc/t41/s405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs405
 [/us/usc/t41/s1121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs1121

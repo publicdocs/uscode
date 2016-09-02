@@ -35,7 +35,7 @@
 
         (2) acquire the site without regard to division C (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41.
 
-([Pub. L. 107–217][/us/pl/107/217], Aug. 21, 2002, [116 Stat. 1158][/us/stat/116/1158]; [Pub. L. 108–178, § 3(1)][/us/pl/108/178/s3/1], Dec. 15, 2003, [117 Stat. 2640][/us/stat/117/2640]; [Pub. L. 111–350, § 5][/us/pl/111/350/s5](l)(15), Jan. 4, 2011, [124 Stat. 3852][/us/stat/124/3852].)
+([Pub. L. 107–217][/us/pl/107/217], Aug. 21, 2002, [116 Stat. 1158][/us/stat/116/1158]; [Pub. L. 108–178][/us/pl/108/178], § 3(1), Dec. 15, 2003, [117 Stat. 2640][/us/stat/117/2640]; [Pub. L. 111–350][/us/pl/111/350], § 5(l)(15), Jan. 4, 2011, [124 Stat. 3852][/us/stat/124/3852].)
 
 <table>
 
@@ -146,9 +146,9 @@ Pub. L. 86–249, §§ 3, 5, Sept. 9, 1959, 73 Stat. 479.  </td>
 
 [/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1158
-[/us/pl/108/178/s3/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F178%2Fs3%2F1
+[/us/pl/108/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F178
 [/us/stat/117/2640]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2640
-[/us/pl/111/350/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs5
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3852
 [/us/pl/86/249]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F249
 [/us/stat/73/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F479

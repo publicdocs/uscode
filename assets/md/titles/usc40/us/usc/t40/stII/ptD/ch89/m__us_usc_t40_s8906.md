@@ -45,7 +45,7 @@
 
     The person authorized to construct a commemorative work under this chapter must submit to the Secretary of the Interior or Administrator an annual report of operations, including financial statements audited by an independent certified public accountant. The person shall pay for the report.
 
-([Pub. L. 107–217][/us/pl/107/217], Aug. 21, 2002, [116 Stat. 1230][/us/stat/116/1230]; [Pub. L. 108–126, title II, § 203(f)][/us/pl/108/126/s203/f], Nov. 17, 2003, [117 Stat. 1351][/us/stat/117/1351].)
+([Pub. L. 107–217][/us/pl/107/217], Aug. 21, 2002, [116 Stat. 1230][/us/stat/116/1230]; [Pub. L. 108–126, title II][/us/pl/108/126/tII], § 203(f), Nov. 17, 2003, [117 Stat. 1351][/us/stat/117/1351].)
 
 <table>
 
@@ -173,9 +173,9 @@ Pub. L. 99–652, § 8, Nov. 14, 1986, 100 Stat. 3652; Pub. L. 103–321, §�
 
  __Amendments__ 
 
-    2003—Subsec. (a)(3), (4). [Pub. L. 108–126, § 203(f)(1)][/us/pl/108/126/s203/f/1], substituted “sponsor” for “person”.
+    2003—Subsec. (a)(3), (4). [Pub. L. 108–126][/us/pl/108/126], § 203(f)(1), substituted “sponsor” for “person”.
 
-    Subsec. (b). [Pub. L. 108–126, § 203(f)(2)][/us/pl/108/126/s203/f/2], added subsec. (b) and struck out heading and text of former subsec. (b). Text read as follows:
+    Subsec. (b). [Pub. L. 108–126][/us/pl/108/126], § 203(f)(2), added subsec. (b) and struck out heading and text of former subsec. (b). Text read as follows:
 
     “(1) Amount.—In addition to the criteria described in subsection (a), a construction permit may not be issued unless the person authorized to construct the commemorative work has donated an amount equal to 10 percent of the total estimated cost of construction to offset the costs of perpetual maintenance and preservation of the commemorative work. The amounts shall be credited to a separate account in the Treasury.
 
@@ -198,11 +198,11 @@ Pub. L. 99–652, § 8, Nov. 14, 1986, 100 Stat. 3652; Pub. L. 103–321, §�
 
 [/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1230
-[/us/pl/108/126/s203/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F126%2Fs203%2Ff
+[/us/pl/108/126/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F126%2FtII
 [/us/stat/117/1351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1351
 [/us/pl/108/126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F126
-[/us/pl/108/126/s203/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F126%2Fs203%2Ff%2F1
-[/us/pl/108/126/s203/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F126%2Fs203%2Ff%2F2
+[/us/pl/108/126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F126
+[/us/pl/108/126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F126
 [/us/pl/108/126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F126
 [/us/pl/108/126/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F126%2Fs205
 [/us/usc/t40/s8901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs8901

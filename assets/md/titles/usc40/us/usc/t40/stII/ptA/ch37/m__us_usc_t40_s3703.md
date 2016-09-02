@@ -69,7 +69,7 @@
 
         [Section 3145 of this title][/us/usc/t40/s3145] applies to contractors and subcontractors referred to in section 3145 who are engaged in the performance of contracts subject to this chapter.
 
-([Pub. L. 107–217][/us/pl/107/217], Aug. 21, 2002, [116 Stat. 1170][/us/stat/116/1170]; [Pub. L. 113–50, § 2(b)][/us/pl/113/50/s2/b], Nov. 21, 2013, [127 Stat. 578][/us/stat/127/578].)
+([Pub. L. 107–217][/us/pl/107/217], Aug. 21, 2002, [116 Stat. 1170][/us/stat/116/1170]; [Pub. L. 113–50][/us/pl/113/50], § 2(b), Nov. 21, 2013, [127 Stat. 578][/us/stat/127/578].)
 
 <table>
 
@@ -199,7 +199,7 @@ Pub. L. 87–581, title I, § 104, Aug. 13, 1962, 76 Stat. 358; Pub. L. 97–1
 [/us/usc/t40/s3145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs3145
 [/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1170
-[/us/pl/113/50/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F50%2Fs2%2Fb
+[/us/pl/113/50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F50
 [/us/stat/127/578]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F578
 [/us/stat/81/951]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F951
 [/us/pl/93/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F198

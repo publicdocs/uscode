@@ -75,7 +75,7 @@
 
         States are required to maintain each development highway and local access road as provided for Federal-aid highways in title 23. All other provisions of title 23 that are applicable to the construction and maintenance of Federal-aid primary and secondary highways and which the Secretary decides are not inconsistent with this subtitle shall apply to the system and roads, respectively.
 
-([Pub. L. 107–217][/us/pl/107/217], Aug. 21, 2002, [116 Stat. 1265][/us/stat/116/1265]; [Pub. L. 108–199, div. F, title I, § 123(a)][/us/pl/108/199/s123/a], Jan. 23, 2004, [118 Stat. 296][/us/stat/118/296].)
+([Pub. L. 107–217][/us/pl/107/217], Aug. 21, 2002, [116 Stat. 1265][/us/stat/116/1265]; [Pub. L. 108–199, div. F, title I][/us/pl/108/199/dF/tI], § 123(a), Jan. 23, 2004, [118 Stat. 296][/us/stat/118/296].)
 
 <table>
 
@@ -245,7 +245,7 @@ Pub. L. 89–4, title II, § 201, Mar. 9, 1965, 79 Stat. 10; Pub. L. 89–670,
 
  __Appalachian Development Highway System__ 
 
-[Pub. L. 112–141, div. A, title I, § 1528][/us/pl/112/141/s1528], July 6, 2012, [126 Stat. 582][/us/stat/126/582], as amended by [Pub. L. 114–94, div. A, title I, § 1435][/us/pl/114/94/s1435], Dec. 4, 2015, [129 Stat. 1430][/us/stat/129/1430], provided that:
+[Pub. L. 112–141, div. A, title I][/us/pl/112/141/dA/tI], § 1528, July 6, 2012, [126 Stat. 582][/us/stat/126/582], as amended by [Pub. L. 114–94, div. A, title I][/us/pl/114/94/dA/tI], § 1435, Dec. 4, 2015, [129 Stat. 1430][/us/stat/129/1430], provided that:
 
 >     “(a)  __Sense of the Senate__  __.—__ 
 
@@ -278,12 +278,12 @@ Pub. L. 89–4, title II, § 201, Mar. 9, 1965, 79 Stat. 10; Pub. L. 89–670,
 
 [/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1265
-[/us/pl/108/199/s123/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2Fs123%2Fa
+[/us/pl/108/199/dF/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2FdF%2FtI
 [/us/stat/118/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F296
 [/us/pl/108/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199
-[/us/pl/112/141/s1528]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1528
+[/us/pl/112/141/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdA%2FtI
 [/us/stat/126/582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F582
-[/us/pl/114/94/s1435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1435
+[/us/pl/114/94/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtI
 [/us/stat/129/1430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1430
 [/us/usc/t40/s14501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs14501
 [/us/usc/t40/s14501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs14501

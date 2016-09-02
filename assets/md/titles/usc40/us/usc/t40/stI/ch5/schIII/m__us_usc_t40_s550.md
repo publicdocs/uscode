@@ -179,7 +179,7 @@
 
             (B) may contain additional terms, reservations, restrictions, and conditions the Administrator determines are necessary to safeguard the interests of the Government.
 
-([Pub. L. 107–217][/us/pl/107/217], Aug. 21, 2002, [116 Stat. 1094][/us/stat/116/1094]; [Pub. L. 113–287, § 5(j)(2)][/us/pl/113/287/s5/j/2], Dec. 19, 2014, [128 Stat. 3269][/us/stat/128/3269].)
+([Pub. L. 107–217][/us/pl/107/217], Aug. 21, 2002, [116 Stat. 1094][/us/stat/116/1094]; [Pub. L. 113–287][/us/pl/113/287], § 5(j)(2), Dec. 19, 2014, [128 Stat. 3269][/us/stat/128/3269].)
 
 <table>
 
@@ -347,7 +347,7 @@ In subsection (h)(2)(A), the words “this subsection” are used to reflect the
 
  __Amendments__ 
 
-    2014—Subsec. (h)(1)(B). [Pub. L. 113–287, § 5(j)(2)][/us/pl/113/287/s5/j/2], substituted “[section 102303 of title 54][/us/usc/t54/s102303]” for “[section 3 of the Act of August 21, 1935][/us/act/1935-08-21/s3] ([16 U.S.C. 463][/us/usc/t16/s463]) (known as the Historic Sites, Buildings, and Antiquities Act)”.
+    2014—Subsec. (h)(1)(B). [Pub. L. 113–287][/us/pl/113/287], § 5(j)(2), substituted “[section 102303 of title 54][/us/usc/t54/s102303]” for “[section 3 of the Act of August 21, 1935][/us/act/1935-08-21/s3] ([16 U.S.C. 463][/us/usc/t16/s463]) (known as the Historic Sites, Buildings, and Antiquities Act)”.
 
 ----------
 
@@ -364,7 +364,7 @@ In subsection (h)(2)(A), the words “this subsection” are used to reflect the
 [/us/usc/t54/s102303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs102303
 [/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1094]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1094
-[/us/pl/113/287/s5/j/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs5%2Fj%2F2
+[/us/pl/113/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287
 [/us/stat/128/3269]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3269
 [/us/act/1970-08-18/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1970-08-18%2Fs9
 [/us/pl/91/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F383
@@ -374,7 +374,7 @@ In subsection (h)(2)(A), the words “this subsection” are used to reflect the
 [/us/pl/101/610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610
 [/us/stat/104/3127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3127
 [/us/usc/t42/s12501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12501
-[/us/pl/113/287/s5/j/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs5%2Fj%2F2
+[/us/pl/113/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287
 [/us/usc/t54/s102303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs102303
 [/us/act/1935-08-21/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-21%2Fs3
 [/us/usc/t16/s463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs463

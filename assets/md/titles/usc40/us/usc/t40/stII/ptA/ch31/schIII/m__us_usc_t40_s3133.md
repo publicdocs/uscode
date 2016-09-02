@@ -59,7 +59,7 @@
 
         (3) executed after the person whose right is waived has furnished labor or material for use in the performance of the contract.
 
-([Pub. L. 107–217][/us/pl/107/217], Aug. 21, 2002, [116 Stat. 1148][/us/stat/116/1148]; [Pub. L. 109–284, § 6(9)][/us/pl/109/284/s6/9], (10), Sept. 27, 2006, [120 Stat. 1213][/us/stat/120/1213].)
+([Pub. L. 107–217][/us/pl/107/217], Aug. 21, 2002, [116 Stat. 1148][/us/stat/116/1148]; [Pub. L. 109–284][/us/pl/109/284], § 6(9), (10), Sept. 27, 2006, [120 Stat. 1213][/us/stat/120/1213].)
 
 <table>
 
@@ -161,9 +161,9 @@ In subsection (b)(1), the words “may bring a civil action” are substituted f
 
  __Amendments__ 
 
-    2006—Subsec. (b). [Pub. L. 109–284, § 6(9)][/us/pl/109/284/s6/9], substituted “To” for “to” in heading.
+    2006—Subsec. (b). [Pub. L. 109–284][/us/pl/109/284], § 6(9), substituted “To” for “to” in heading.
 
-    Subsec. (c). [Pub. L. 109–284, § 6(10)][/us/pl/109/284/s6/10], inserted heading.
+    Subsec. (c). [Pub. L. 109–284][/us/pl/109/284], § 6(10), inserted heading.
 
 ----------
 
@@ -175,9 +175,9 @@ In subsection (b)(1), the words “may bring a civil action” are substituted f
 [/us/usc/t40/s3131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs3131
 [/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1148
-[/us/pl/109/284/s6/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F284%2Fs6%2F9
+[/us/pl/109/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F284
 [/us/stat/120/1213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1213
-[/us/pl/109/284/s6/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F284%2Fs6%2F9
-[/us/pl/109/284/s6/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F284%2Fs6%2F10
+[/us/pl/109/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F284
+[/us/pl/109/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F284
 
 

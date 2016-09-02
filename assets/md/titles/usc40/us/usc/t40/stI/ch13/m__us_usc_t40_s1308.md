@@ -17,7 +17,7 @@
 
     Subject to applicable regulations under this subtitle and division C (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41, horses and mules belonging to the Federal Government that have become unfit for service may be destroyed or put out to pasture, either on pastures belonging to the Government or those belonging to financially sound and reputable humane organizations whose facilities permit them to care for the horses and mules during the remainder of their natural lives, at no cost to the Government.
 
-([Pub. L. 107–217][/us/pl/107/217], Aug. 21, 2002, [116 Stat. 1137][/us/stat/116/1137]; [Pub. L. 111–350, § 5][/us/pl/111/350/s5](l)(13), Jan. 4, 2011, [124 Stat. 3852][/us/stat/124/3852].)
+([Pub. L. 107–217][/us/pl/107/217], Aug. 21, 2002, [116 Stat. 1137][/us/stat/116/1137]; [Pub. L. 111–350][/us/pl/111/350], § 5(l)(13), Jan. 4, 2011, [124 Stat. 3852][/us/stat/124/3852].)
 
 <table>
 
@@ -80,7 +80,7 @@ June 15, 1938, ch. 400, 52 Stat. 693; June 3, 1939, ch. 176, 53 Stat. 808; Oct. 
 
 [/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1137
-[/us/pl/111/350/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs5
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3852
 [/us/usc/t41/s251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs251
 [/us/usc/t40/s111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs111

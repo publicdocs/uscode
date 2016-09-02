@@ -99,7 +99,7 @@
 
         (20) the Office of the Director of National Intelligence.
 
-([Pub. L. 107–217][/us/pl/107/217], Aug. 21, 2002, [116 Stat. 1066][/us/stat/116/1066]; [Pub. L. 108–458, title I, § 1080][/us/pl/108/458/s1080], Dec. 17, 2004, [118 Stat. 3696][/us/stat/118/3696]; [Pub. L. 111–350, § 5][/us/pl/111/350/s5](l)(4), Jan. 4, 2011, [124 Stat. 3851][/us/stat/124/3851].)
+([Pub. L. 107–217][/us/pl/107/217], Aug. 21, 2002, [116 Stat. 1066][/us/stat/116/1066]; [Pub. L. 108–458, title I][/us/pl/108/458/tI], § 1080, Dec. 17, 2004, [118 Stat. 3696][/us/stat/118/3696]; [Pub. L. 111–350][/us/pl/111/350], § 5(l)(4), Jan. 4, 2011, [124 Stat. 3851][/us/stat/124/3851].)
 
 <table>
 
@@ -215,7 +215,7 @@ In subsection (e), the text of 40:474(d)(8) is omitted because 50 App.:1171(b) w
 
 In subsection (e)(4), the words “Secretary of Defense” are substituted for “National Military Establishment” in section 602(d)(4) of the Federal Property and Administrative Services Act of 1949, because of section 12(a), (g) of the National Security Act Amendments of 1949 (ch. 412, [63 Stat. 591][/us/stat/63/591]) and because of 10:113(a).
 
-    In subsection (e)(5), the words “[section 2535 of title 10][/us/usc/t10/s2535]” are substituted for “the National Industrial Reserve Act of 1948 \[[50 U.S.C. 451][/us/usc/t50/s451] et seq.\]” because the National Industrial Reserve Act was renamed “Defense Industrial Reserve Act” by section 809 of the Department of Defense Appropriation Authorization Act, 1974 ([Public Law 93–155][/us/pl/93/155], [87 Stat. 617][/us/stat/87/617]), and transferred to [section 2535 of title 10][/us/usc/t10/s2535] by section 4235 of the Defense Conversion, Reinvestment and Transition Assistance Act of 1992, which was included as Division D in the National Defense Authorization Act for Fiscal Year 1993 ([Public Law 102–484, title XLII][/us/pl/102/484], [106 Stat. 2690][/us/stat/106/2690]).
+    In subsection (e)(5), the words “[section 2535 of title 10][/us/usc/t10/s2535]” are substituted for “the National Industrial Reserve Act of 1948 \[[50 U.S.C. 451][/us/usc/t50/s451] et seq.\]” because the National Industrial Reserve Act was renamed “Defense Industrial Reserve Act” by section 809 of the Department of Defense Appropriation Authorization Act, 1974 ([Public Law 93–155][/us/pl/93/155], [87 Stat. 617][/us/stat/87/617]), and transferred to [section 2535 of title 10][/us/usc/t10/s2535] by section 4235 of the Defense Conversion, Reinvestment and Transition Assistance Act of 1992, which was included as Division D in the National Defense Authorization Act for Fiscal Year 1993 ([Public Law 102–484, title XLII][/us/pl/102/484/tXLII], [106 Stat. 2690][/us/stat/106/2690]).
 
     In subsection (e)(6), the words “the Munitions Board” are omitted because sections 1 and 2 of Reorganization Plan No. 6 of 1953 (eff. June 30, 1953, [67 Stat. 638][/us/stat/67/638]) abolished the Munitions Board and transferred the Board’s functions to the Secretary of Defense.
 
@@ -239,19 +239,19 @@ In subsection (e)(19), the words “Secretary of State” are substituted for �
 
     The Philippine Property Act of 1946, referred to in subsec. (e)(1), is [act July 3, 1946, ch. 536][/us/act/1946-07-03/ch536], [60 Stat. 418][/us/stat/60/418], as amended, which is classified generally to subchapter V (§ 1381 et seq.) of chapter 15 of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under [section 1381 of Title 22][/us/usc/t22/s1381] and Tables.
 
-    The Strategic and Critical Materials Stock Piling Act, referred to in subsec. (e)(6), is [act June 7, 1939, ch. 190][/us/act/1939-06-07/ch190], as revised generally by [Pub. L. 96–41, § 2][/us/pl/96/41/s2], July 30, 1979, [93 Stat. 319][/us/stat/93/319], which is classified generally to subchapter III (§ 98 et seq.) of chapter 5 of Title 50, War and National Defense. For complete classification of this Act to the Code, see [section 98 of Title 50][/us/usc/t50/s98] and Tables.
+    The Strategic and Critical Materials Stock Piling Act, referred to in subsec. (e)(6), is [act June 7, 1939, ch. 190][/us/act/1939-06-07/ch190], as revised generally by [Pub. L. 96–41][/us/pl/96/41], § 2, July 30, 1979, [93 Stat. 319][/us/stat/93/319], which is classified generally to subchapter III (§ 98 et seq.) of chapter 5 of Title 50, War and National Defense. For complete classification of this Act to the Code, see [section 98 of Title 50][/us/usc/t50/s98] and Tables.
 
     The Foreign Service Buildings Act, 1926, referred to in subsec. (e)(7), is [act May 7, 1926, ch. 250][/us/act/1926-05-07/ch250], [44 Stat. 403][/us/stat/44/403], as amended, which is classified generally to chapter 8 (§ 292 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see [section 299 of Title 22][/us/usc/t22/s299] and Tables.
 
     The Richard B. Russell National School Lunch Act, referred to in subsec. (e)(8)(A), is [act June 4, 1946, ch. 281][/us/act/1946-06-04/ch281], [60 Stat. 230][/us/stat/60/230], as amended, which is classified generally to chapter 13 (§ 1751 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 1751 of Title 42][/us/usc/t42/s1751] and Tables.
 
-    The Farmers Home Administration Act of 1946, referred to in subsec. (e)(8)(B), is [act Aug. 14, 1946, ch. 964][/us/act/1946-08-14/ch964], [60 Stat. 1062][/us/stat/60/1062]. Such act was substantially repealed by [act June 25, 1948, ch. 645, § 21][/us/act/1948-06-25/ch645/s21], [62 Stat. 862][/us/stat/62/862], and act Aug. 8, 1961, [Pub. L. 87–128, title III, § 341(a)][/us/pl/87/128/s341/a], [75 Stat. 318][/us/stat/75/318]. For complete classification of this Act to the Code, see Tables.
+    The Farmers Home Administration Act of 1946, referred to in subsec. (e)(8)(B), is [act Aug. 14, 1946, ch. 964][/us/act/1946-08-14/ch964], [60 Stat. 1062][/us/stat/60/1062]. Such act was substantially repealed by [act June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], § 21, [62 Stat. 862][/us/stat/62/862], and act Aug. 8, 1961, [Pub. L. 87–128, title III][/us/pl/87/128/tIII], § 341(a), [75 Stat. 318][/us/stat/75/318]. For complete classification of this Act to the Code, see Tables.
 
     The Farm Credit Act of 1971, referred to in subsec. (e)(9), is [Pub. L. 92–181][/us/pl/92/181], Dec. 10, 1971, [85 Stat. 583][/us/stat/85/583], as amended, which is classified generally to chapter 23 (§ 2001 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under [section 2001 of Title 12][/us/usc/t12/s2001] and Tables.
 
     The National Housing Act, referred to in subsec. (e)(10)(B)(ii), is [act June 27, 1934, ch. 847][/us/act/1934-06-27/ch847], [48 Stat. 1246][/us/stat/48/1246], as amended, which is classified principally to chapter 13 (§ 1701 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see [section 1701 of Title 12][/us/usc/t12/s1701] and Tables.
 
-    The Federal Deposit Insurance Act, referred to in subsec. (e)(10)(B)(ii), is [act Sept. 21, 1950, ch. 967, § 2][/us/act/1950-09-21/ch967/s2], [64 Stat. 873][/us/stat/64/873], as amended, which is classified generally to chapter 16 (§ 1811 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under [section 1811 of Title 12][/us/usc/t12/s1811] and Tables.
+    The Federal Deposit Insurance Act, referred to in subsec. (e)(10)(B)(ii), is [act Sept. 21, 1950, ch. 967][/us/act/1950-09-21/ch967], § 2, [64 Stat. 873][/us/stat/64/873], as amended, which is classified generally to chapter 16 (§ 1811 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under [section 1811 of Title 12][/us/usc/t12/s1811] and Tables.
 
     The Bonneville Project Act of 1937, referred to in subsec. (e)(18), is [act Aug. 20, 1937, ch. 720][/us/act/1937-08-20/ch720], [50 Stat. 731][/us/stat/50/731], as amended, which is classified generally to chapter 12B (§ 832 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under [section 832 of Title 16][/us/usc/t16/s832] and Tables.
 
@@ -292,9 +292,9 @@ In subsection (e)(19), the words “Secretary of State” are substituted for �
 [/us/usc/t16/s832]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs832
 [/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1066]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1066
-[/us/pl/108/458/s1080]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs1080
+[/us/pl/108/458/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2FtI
 [/us/stat/118/3696]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3696
-[/us/pl/111/350/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs5
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3851]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3851
 [/us/stat/59/597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F59%2F597
 [/us/usc/t31/s841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs841
@@ -311,7 +311,7 @@ In subsection (e)(19), the words “Secretary of State” are substituted for �
 [/us/pl/93/155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F155
 [/us/stat/87/617]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F617
 [/us/usc/t10/s2535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2535
-[/us/pl/102/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484
+[/us/pl/102/484/tXLII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FtXLII
 [/us/stat/106/2690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2690
 [/us/stat/67/638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F638
 [/us/stat/67/638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F638
@@ -337,7 +337,7 @@ In subsection (e)(19), the words “Secretary of State” are substituted for �
 [/us/stat/60/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F418
 [/us/usc/t22/s1381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1381
 [/us/act/1939-06-07/ch190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-06-07%2Fch190
-[/us/pl/96/41/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F41%2Fs2
+[/us/pl/96/41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F41
 [/us/stat/93/319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F319
 [/us/usc/t50/s98]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs98
 [/us/act/1926-05-07/ch250]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1926-05-07%2Fch250
@@ -348,9 +348,9 @@ In subsection (e)(19), the words “Secretary of State” are substituted for �
 [/us/usc/t42/s1751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1751
 [/us/act/1946-08-14/ch964]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-14%2Fch964
 [/us/stat/60/1062]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F1062
-[/us/act/1948-06-25/ch645/s21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645%2Fs21
+[/us/act/1948-06-25/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645
 [/us/stat/62/862]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F862
-[/us/pl/87/128/s341/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2Fs341%2Fa
+[/us/pl/87/128/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2FtIII
 [/us/stat/75/318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F318
 [/us/pl/92/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181
 [/us/stat/85/583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F583
@@ -358,7 +358,7 @@ In subsection (e)(19), the words “Secretary of State” are substituted for �
 [/us/act/1934-06-27/ch847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-27%2Fch847
 [/us/stat/48/1246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1246
 [/us/usc/t12/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1701
-[/us/act/1950-09-21/ch967/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-21%2Fch967%2Fs2
+[/us/act/1950-09-21/ch967]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-21%2Fch967
 [/us/stat/64/873]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F873
 [/us/usc/t12/s1811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1811
 [/us/act/1937-08-20/ch720]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-08-20%2Fch720

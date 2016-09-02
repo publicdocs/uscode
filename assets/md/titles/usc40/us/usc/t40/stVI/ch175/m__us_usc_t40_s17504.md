@@ -33,7 +33,7 @@
 
     The head of each executive agency shall comply with the requirements prescribed under [section 17503(b) of this title][/us/usc/t40/s17503/b] in preparing each statement required under subsection (a).
 
-([Pub. L. 107–217][/us/pl/107/217], Aug. 21, 2002, [116 Stat. 1284][/us/stat/116/1284]; [Pub. L. 109–284, § 6(32)][/us/pl/109/284/s6/32], Sept. 27, 2006, [120 Stat. 1214][/us/stat/120/1214].)
+([Pub. L. 107–217][/us/pl/107/217], Aug. 21, 2002, [116 Stat. 1284][/us/stat/116/1284]; [Pub. L. 109–284][/us/pl/109/284], § 6(32), Sept. 27, 2006, [120 Stat. 1214][/us/stat/120/1214].)
 
 <table>
 
@@ -96,7 +96,7 @@ Pub. L. 99–272, title XV, § 15303, Apr. 7, 1986, 100 Stat. 336.  </td>
 [/us/usc/t40/s17503/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs17503%2Fb
 [/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1284
-[/us/pl/109/284/s6/32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F284%2Fs6%2F32
+[/us/pl/109/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F284
 [/us/stat/120/1214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1214
 [/us/pl/109/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F284
 

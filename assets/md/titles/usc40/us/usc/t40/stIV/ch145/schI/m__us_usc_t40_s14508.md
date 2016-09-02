@@ -43,7 +43,7 @@
 
     Notwithstanding any provision of law limiting the Federal share under any other Federal program, amounts made available to carry out this section may be used to increase that Federal share, as the Commission decides is appropriate.
 
-(Added [Pub. L. 110–371, § 3(a)][/us/pl/110/371/s3/a], Oct. 8, 2008, [122 Stat. 4040][/us/stat/122/4040].)
+(Added [Pub. L. 110–371][/us/pl/110/371], § 3(a), Oct. 8, 2008, [122 Stat. 4040][/us/stat/122/4040].)
 
 ----------
 
@@ -52,7 +52,7 @@
 ----------
 ----------
 
-[/us/pl/110/371/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F371%2Fs3%2Fa
+[/us/pl/110/371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F371
 [/us/stat/122/4040]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4040
 
 

@@ -69,7 +69,7 @@
 
             [Section 3702 of this title][/us/usc/t40/s3702] does not apply to work where the assistance described in paragraph (1)(B)(iii) from the Government or an agency or instrumentality is only a loan guarantee or insurance.
 
-([Pub. L. 107–217][/us/pl/107/217], Aug. 21, 2002, [116 Stat. 1169][/us/stat/116/1169]; [Pub. L. 109–284, § 6(14)][/us/pl/109/284/s6/14], Sept. 27, 2006, [120 Stat. 1213][/us/stat/120/1213]; [Pub. L. 111–350, § 5][/us/pl/111/350/s5](l)(19), Jan. 4, 2011, [124 Stat. 3852][/us/stat/124/3852].)
+([Pub. L. 107–217][/us/pl/107/217], Aug. 21, 2002, [116 Stat. 1169][/us/stat/116/1169]; [Pub. L. 109–284][/us/pl/109/284], § 6(14), Sept. 27, 2006, [120 Stat. 1213][/us/stat/120/1213]; [Pub. L. 111–350][/us/pl/111/350], § 5(l)(19), Jan. 4, 2011, [124 Stat. 3852][/us/stat/124/3852].)
 
 <table>
 
@@ -199,7 +199,7 @@ Pub. L. 87–581, title I, § 103(c), as added Pub. L. 103–355, title IV, §
 
  __References in Text__ 
 
-    The Contract Work Hours and Safety Standards Act, referred to in subsec. (a), is title I of [Pub. L. 87–581][/us/pl/87/581], Aug. 13, 1962, [76 Stat. 357][/us/stat/76/357], as amended, which was classified generally to subchapter II (§ 327 et seq.) of chapter 5 of former Title 40, Public Buildings, Property, and Works, prior to repeal and reenactment as this chapter by [Pub. L. 107–217][/us/pl/107/217], §§ 1, 6(b), Aug. 21, 2002, [116 Stat. 1062][/us/stat/116/1062], 1304. [Section 101 of title I of Pub. L. 87–581][/us/pl/87/581/s101] was classified to section 327 of former Title 40 and was repealed and not reenacted by [Pub. L. 107–217][/us/pl/107/217]. For complete classification of this Act to the Code, see Tables.
+    The Contract Work Hours and Safety Standards Act, referred to in subsec. (a), is title I of [Pub. L. 87–581][/us/pl/87/581], Aug. 13, 1962, [76 Stat. 357][/us/stat/76/357], as amended, which was classified generally to subchapter II (§ 327 et seq.) of chapter 5 of former Title 40, Public Buildings, Property, and Works, prior to repeal and reenactment as this chapter by [Pub. L. 107–217][/us/pl/107/217], §§ 1, 6(b), Aug. 21, 2002, [116 Stat. 1062][/us/stat/116/1062], 1304. [Section 101 of title I of Pub. L. 87–581][/us/pl/87/581/tI/s101] was classified to section 327 of former Title 40 and was repealed and not reenacted by [Pub. L. 107–217][/us/pl/107/217]. For complete classification of this Act to the Code, see Tables.
 
  __Amendments__ 
 
@@ -219,15 +219,15 @@ Pub. L. 87–581, title I, § 103(c), as added Pub. L. 103–355, title IV, §
 [/us/usc/t40/s3702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs3702
 [/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1169]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1169
-[/us/pl/109/284/s6/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F284%2Fs6%2F14
+[/us/pl/109/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F284
 [/us/stat/120/1213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1213
-[/us/pl/111/350/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs5
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3852
 [/us/pl/87/581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F581
 [/us/stat/76/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F357
 [/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1062]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1062
-[/us/pl/87/581/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F581%2Fs101
+[/us/pl/87/581/tI/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F581%2FtI%2Fs101
 [/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/usc/t41/s35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs35

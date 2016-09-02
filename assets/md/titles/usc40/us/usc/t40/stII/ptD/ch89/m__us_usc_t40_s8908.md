@@ -33,7 +33,7 @@
 
     After the date of enactment of the Commemorative Works Clarification and Revision Act of 2003, no commemorative work or visitor center shall be located within the Reserve.
 
-([Pub. L. 107–217][/us/pl/107/217], Aug. 21, 2002, [116 Stat. 1231][/us/stat/116/1231]; [Pub. L. 108–126, title II][/us/pl/108/126], §§ 202(b), 203(g), Nov. 17, 2003, [117 Stat. 1349][/us/stat/117/1349], 1352; [Pub. L. 111–11, title VII, § 7116(e)(3)][/us/pl/111/11/s7116/e/3], Mar. 30, 2009, [123 Stat. 1203][/us/stat/123/1203].)
+([Pub. L. 107–217][/us/pl/107/217], Aug. 21, 2002, [116 Stat. 1231][/us/stat/116/1231]; [Pub. L. 108–126, title II][/us/pl/108/126/tII], §§ 202(b), 203(g), Nov. 17, 2003, [117 Stat. 1349][/us/stat/117/1349], 1352; [Pub. L. 111–11, title VII][/us/pl/111/11/tVII], § 7116(e)(3), Mar. 30, 2009, [123 Stat. 1203][/us/stat/123/1203].)
 
 <table>
 
@@ -107,11 +107,11 @@ Pub. L. 99–652, § 6, Nov. 14, 1986, 100 Stat. 3651; Pub. L. 103–321, §�
 
     2009—Subsec. (b)(1). [Pub. L. 111–11][/us/pl/111/11] inserted “Advisory” before “Commission” in first sentence and substituted “Natural Resources of the House” for “House Administration of the House” in second sentence.
 
-    2003—Subsec. (a). [Pub. L. 108–126, § 203(g)(2)][/us/pl/108/126/s203/g/2], which directed substitution of “entitled ‘Commemorative Areas Washington, DC and Environs’, numbered 869/86501 B, and dated June 24, 2003” for “numbered 869/86581, and dated May 1, 1986”, was executed by making the substitution for “numbered 869/86501, and dated May 1, 1986” to reflect the probable intent of Congress.
+    2003—Subsec. (a). [Pub. L. 108–126][/us/pl/108/126], § 203(g)(2), which directed substitution of “entitled ‘Commemorative Areas Washington, DC and Environs’, numbered 869/86501 B, and dated June 24, 2003” for “numbered 869/86581, and dated May 1, 1986”, was executed by making the substitution for “numbered 869/86501, and dated May 1, 1986” to reflect the probable intent of Congress.
 
-    [Pub. L. 108–126, § 203(g)(1)][/us/pl/108/126/s203/g/1], substituted “Secretary of the Interior or the Administrator of General Services (as appropriate)” for “Secretary of the Interior and Administrator of General Services”.
+    [Pub. L. 108–126][/us/pl/108/126], § 203(g)(1), substituted “Secretary of the Interior or the Administrator of General Services (as appropriate)” for “Secretary of the Interior and Administrator of General Services”.
 
-    Subsec. (c). [Pub. L. 108–126, § 202(b)][/us/pl/108/126/s202/b], added subsec. (c).
+    Subsec. (c). [Pub. L. 108–126][/us/pl/108/126], § 202(b), added subsec. (c).
 
  __Effective Date of 2003 Amendment__ 
 
@@ -126,15 +126,15 @@ Pub. L. 99–652, § 6, Nov. 14, 1986, 100 Stat. 3651; Pub. L. 103–321, §�
 
 [/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1231
-[/us/pl/108/126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F126
+[/us/pl/108/126/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F126%2FtII
 [/us/stat/117/1349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1349
-[/us/pl/111/11/s7116/e/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2Fs7116%2Fe%2F3
+[/us/pl/111/11/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2FtVII
 [/us/stat/123/1203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1203
 [/us/pl/108/126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F126
 [/us/pl/111/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11
-[/us/pl/108/126/s203/g/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F126%2Fs203%2Fg%2F2
-[/us/pl/108/126/s203/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F126%2Fs203%2Fg%2F1
-[/us/pl/108/126/s202/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F126%2Fs202%2Fb
+[/us/pl/108/126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F126
+[/us/pl/108/126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F126
+[/us/pl/108/126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F126
 [/us/pl/108/126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F126
 [/us/usc/t40/s8902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs8902
 [/us/pl/108/126/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F126%2Fs205

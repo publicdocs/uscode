@@ -55,7 +55,7 @@
 
     Members, alternates, officers, and employees of the Commission are not federal employees for any purpose, except the Federal Cochairman, the alternate to the Federal Cochairman, the staff of the Federal Cochairman, and federal employees detailed to the Commission under [section 14306(a)(3) of this title][/us/usc/t40/s14306/a/3].
 
-([Pub. L. 107–217][/us/pl/107/217], Aug. 21, 2002, [116 Stat. 1256][/us/stat/116/1256]; [Pub. L. 112–166, § 2(n)][/us/pl/112/166/s2/n], Aug. 10, 2012, [126 Stat. 1287][/us/stat/126/1287].)
+([Pub. L. 107–217][/us/pl/107/217], Aug. 21, 2002, [116 Stat. 1256][/us/stat/116/1256]; [Pub. L. 112–166][/us/pl/112/166], § 2(n), Aug. 10, 2012, [126 Stat. 1287][/us/stat/126/1287].)
 
 <table>
 
@@ -225,7 +225,7 @@ Pub. L. 89–4, title I, § 106(2) (2d, last sentences), Mar. 9, 1965, 79 Stat
 [/us/usc/t40/s14306/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs14306%2Fa%2F3
 [/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1256
-[/us/pl/112/166/s2/n]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F166%2Fs2%2Fn
+[/us/pl/112/166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F166
 [/us/stat/126/1287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1287
 [/us/pl/112/166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F166
 [/us/pl/112/166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F166

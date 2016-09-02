@@ -163,7 +163,7 @@ SUBCHAPTER II—ADMINISTRATIVE  </td>
 
  __Amendments__ 
 
-    2015—[Pub. L. 114–94, div. A, title I, § 1436(a)(2)][/us/pl/114/94/s1436/a/2], Dec. 4, 2015, [129 Stat. 1431][/us/stat/129/1431], added item 14509.
+    2015—[Pub. L. 114–94, div. A, title I][/us/pl/114/94/dA/tI], § 1436(a)(2), Dec. 4, 2015, [129 Stat. 1431][/us/stat/129/1431], added item 14509.
 
     2008—[Pub. L. 110–371][/us/pl/110/371], §§ 3(b), 4(b), Oct. 8, 2008, [122 Stat. 4041][/us/stat/122/4041], added items 14508 and 14526 and struck out former item 14526 “Distressed and economically strong counties”.
 
@@ -174,7 +174,7 @@ SUBCHAPTER II—ADMINISTRATIVE  </td>
 ----------
 ----------
 
-[/us/pl/114/94/s1436/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1436%2Fa%2F2
+[/us/pl/114/94/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtI
 [/us/stat/129/1431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1431
 [/us/pl/110/371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F371
 [/us/stat/122/4041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4041

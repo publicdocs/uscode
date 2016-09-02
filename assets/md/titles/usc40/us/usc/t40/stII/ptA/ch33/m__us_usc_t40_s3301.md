@@ -295,7 +295,7 @@ Pub. L. 86–249, § 14, Sept. 9, 1959, 73 Stat. 483.  </td>
 
     In subsection (a), the text of 40:612(2) and 612a(1) is omitted because the complete name of the Administrator of General Services is used the first time the term appears in a section. In clause (5)(A), the words “mixed-ownership Government corporation” are substituted for “mixed ownership corporation” for consistency with 31:9101. In clause (5)(B) and (C), the words “from time to time hereafter” are omitted as unnecessary. In clause (6), the words “territories and” are added for consistency in the revised title and with other titles of the United States Code.
 
-    In subsection (b), the text of 40:613(1)–(3) is omitted as obsolete. The reference is to section 241(g) of the Immigration and Nationality Act rather than to section 242(c) to reflect the amendment of sections 241 and 242 by sections 305(a)(3) and 306(a)(2) of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996 ([Public Law 104–208, div. C][/us/pl/104/208], [110 Stat. 3009–598][/us/stat/110/3009-598], 3009–607).
+    In subsection (b), the text of 40:613(1)–(3) is omitted as obsolete. The reference is to section 241(g) of the Immigration and Nationality Act rather than to section 242(c) to reflect the amendment of sections 241 and 242 by sections 305(a)(3) and 306(a)(2) of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996 ([Public Law 104–208, div. C][/us/pl/104/208/dC], [110 Stat. 3009–598][/us/stat/110/3009-598], 3009–607).
 
 ----------
 
@@ -309,7 +309,7 @@ Pub. L. 86–249, § 14, Sept. 9, 1959, 73 Stat. 483.  </td>
 [/us/usc/t19/s68]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs68
 [/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1156
-[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
+[/us/pl/104/208/dC]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdC
 [/us/stat/110/3009-598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-598
 
 

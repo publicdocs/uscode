@@ -143,7 +143,7 @@ Pub. L. 101–136, title IV, § 5, Nov. 3, 1989, 103 Stat. 802.  </td>
 
  __Lease of Building Space by Wholly Owned Government Corporations__ 
 
-[Act July 30, 1947, ch. 358][/us/act/1947-07-30/ch358], title III, § 306, [61 Stat. 584][/us/stat/61/584], provided in part that: 
+[Act July 30, 1947, ch. 358, title III][/us/act/1947-07-30/ch358/tIII], § 306, [61 Stat. 584][/us/stat/61/584], provided in part that: 
 
 > “Wholly owned Government corporations requiring space in office buildings at the seat of government shall occupy only such space as may be allotted in accordance with the provisions of such Act of March 1, 1919, as amended \[ch. 86, § 10, [40 Stat. 1269][/us/stat/40/1269]\] (\[former\] [40 U.S.C. 1][/us/usc/t40/s1]), and shall pay such rental thereon as may be determined by the Federal Works Administrator \[Administrator of General Services\], such rental to include all cost of maintenance, upkeep, and repair.”
 
@@ -158,7 +158,7 @@ Pub. L. 101–136, title IV, § 5, Nov. 3, 1989, 103 Stat. 802.  </td>
 [/us/usc/t40/s571/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs571%2Fa
 [/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1112
-[/us/act/1947-07-30/ch358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-30%2Fch358
+[/us/act/1947-07-30/ch358/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-30%2Fch358%2FtIII
 [/us/stat/61/584]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F584
 [/us/stat/40/1269]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F40%2F1269
 [/us/usc/t40/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs1

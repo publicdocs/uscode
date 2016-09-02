@@ -85,7 +85,7 @@
 
         (2) restrict the authority of the Administrator of General Services to promulgate regulations affecting property under the Administrator’s custody and control.
 
-([Pub. L. 107–217][/us/pl/107/217], Aug. 21, 2002, [116 Stat. 1140][/us/stat/116/1140]; [Pub. L. 107–296, title XVII, § 1706(b)(1)][/us/pl/107/296/s1706/b/1], Nov. 25, 2002, [116 Stat. 2316][/us/stat/116/2316].)
+([Pub. L. 107–217][/us/pl/107/217], Aug. 21, 2002, [116 Stat. 1140][/us/stat/116/1140]; [Pub. L. 107–296, title XVII][/us/pl/107/296/tXVII], § 1706(b)(1), Nov. 25, 2002, [116 Stat. 2316][/us/stat/116/2316].)
 
 <table>
 
@@ -273,7 +273,7 @@ June 1, 1948, ch. 359, § 4, 62 Stat. 281; Pub. L. 104–201, div. A, title X,
 
  __Delegation of Authority__ 
 
-[Pub. L. 107–296, title XVII, § 1706(b)(2)][/us/pl/107/296/s1706/b/2], Nov. 25, 2002, [116 Stat. 2318][/us/stat/116/2318], provided that: 
+[Pub. L. 107–296, title XVII][/us/pl/107/296/tXVII], § 1706(b)(2), Nov. 25, 2002, [116 Stat. 2318][/us/stat/116/2318], provided that: 
 
 > “The Secretary may delegate authority for the protection of specific buildings to another Federal agency where, in the Secretary’s discretion, the Secretary determines it necessary for the protection of that building.”
 
@@ -326,7 +326,7 @@ June 1, 1948, ch. 359, § 4, 62 Stat. 281; Pub. L. 104–201, div. A, title X,
 
 [/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1140
-[/us/pl/107/296/s1706/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1706%2Fb%2F1
+[/us/pl/107/296/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtXVII
 [/us/stat/116/2316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2316
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/stat/116/2135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2135
@@ -336,7 +336,7 @@ June 1, 1948, ch. 359, § 4, 62 Stat. 281; Pub. L. 104–201, div. A, title X,
 [/us/pl/107/296/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs4
 [/us/usc/t6/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs101
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
-[/us/pl/107/296/s1706/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1706%2Fb%2F2
+[/us/pl/107/296/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtXVII
 [/us/stat/116/2318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2318
 [/us/pl/107/296/s1706/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1706%2Fb%2F2
 [/us/usc/t6/s101/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs101%2F14

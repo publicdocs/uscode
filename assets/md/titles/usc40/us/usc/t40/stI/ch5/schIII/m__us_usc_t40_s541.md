@@ -69,7 +69,7 @@ June 30, 1949, ch. 288, title II, § 203(a), 63 Stat. 385.  </td>
 
  __Transferred Properties; Requests Prior to__  __November 30, 1983__ 
 
-[Pub. L. 98–181, title I][/us/pl/98/181] \[title I, § 126(a)(2), (3)\], Nov. 30, 1983, [97 Stat. 1175][/us/stat/97/1175], provided that:
+[Pub. L. 98–181, title I][/us/pl/98/181/tI] \[title I, § 126(a)(2), (3)\], Nov. 30, 1983, [97 Stat. 1175][/us/stat/97/1175], provided that:
 
 >     “(2) Notwithstanding paragraph (1) \[repealing former [40 U.S.C. 484b][/us/usc/t40/s484b]\], the Secretary of Housing and Urban Development and the Secretary of Agriculture may dispose of Federal surplus real property pursuant to the terms of section 414 of such Act \[former [40 U.S.C. 484b][/us/usc/t40/s484b]\] if, prior to the date of the enactment of this Act \[Nov. 30, 1983\], either Secretary had requested the Administrator of General Services to transfer such property for such disposition.
 
@@ -84,7 +84,7 @@ June 30, 1949, ch. 288, title II, § 203(a), 63 Stat. 385.  </td>
 
 [/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1086]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1086
-[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
+[/us/pl/98/181/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2FtI
 [/us/stat/97/1175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1175
 [/us/usc/t40/s484b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs484b
 [/us/usc/t40/s484b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs484b

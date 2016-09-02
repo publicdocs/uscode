@@ -93,7 +93,7 @@
 
         Committee members are entitled to receive compensation at rates the Secretary fixes, but not more than $100 a day, including traveltime, when performing Committee business, and expenses under [section 5703 of title 5][/us/usc/t5/s5703].
 
-([Pub. L. 107–217][/us/pl/107/217], Aug. 21, 2002, [116 Stat. 1172][/us/stat/116/1172]; [Pub. L. 109–284, § 6(16)][/us/pl/109/284/s6/16], (17), Sept. 27, 2006, [120 Stat. 1213][/us/stat/120/1213]; [Pub. L. 111–350, § 5][/us/pl/111/350/s5](l)(20), Jan. 4, 2011, [124 Stat. 3852][/us/stat/124/3852].)
+([Pub. L. 107–217][/us/pl/107/217], Aug. 21, 2002, [116 Stat. 1172][/us/stat/116/1172]; [Pub. L. 109–284][/us/pl/109/284], § 6(16), (17), Sept. 27, 2006, [120 Stat. 1213][/us/stat/120/1213]; [Pub. L. 111–350][/us/pl/111/350], § 5(l)(20), Jan. 4, 2011, [124 Stat. 3852][/us/stat/124/3852].)
 
 <table>
 
@@ -203,9 +203,9 @@ Pub. L. 87–581, title I, § 107(a)–(e), as added Pub. L. 91–54, § 1, 
 
     2011—Subsec. (b)(1). [Pub. L. 111–350][/us/pl/111/350] substituted “sections 6506 and 6507 of title 41” for “sections 4 and 5 of the Walsh-Healey Act ([41 U.S.C. 38][/us/usc/t41/s38], 39)”.
 
-    2006—Subsec. (a)(1). [Pub. L. 109–284, § 6(16)][/us/pl/109/284/s6/16], inserted “of title 5” after “authorized by section 553”.
+    2006—Subsec. (a)(1). [Pub. L. 109–284][/us/pl/109/284], § 6(16), inserted “of title 5” after “authorized by section 553”.
 
-    Subsec. (a)(2). [Pub. L. 109–284, § 6(17)][/us/pl/109/284/s6/17], struck out “of this section” after “subsection (d)”.
+    Subsec. (a)(2). [Pub. L. 109–284][/us/pl/109/284], § 6(17), struck out “of this section” after “subsection (d)”.
 
  __Termination of Advisory Committees__ 
 
@@ -227,9 +227,9 @@ Pub. L. 87–581, title I, § 107(a)–(e), as added Pub. L. 91–54, § 1, 
 [/us/usc/t5/s5703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5703
 [/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1172
-[/us/pl/109/284/s6/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F284%2Fs6%2F16
+[/us/pl/109/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F284
 [/us/stat/120/1213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1213
-[/us/pl/111/350/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs5
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3852
 [/us/usc/t40/s329/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs329%2Fc
 [/us/usc/t28/s2112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2112
@@ -240,8 +240,8 @@ Pub. L. 87–581, title I, § 107(a)–(e), as added Pub. L. 91–54, § 1, 
 [/us/stat/64/1267]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1267
 [/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/usc/t41/s38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs38
-[/us/pl/109/284/s6/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F284%2Fs6%2F16
-[/us/pl/109/284/s6/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F284%2Fs6%2F17
+[/us/pl/109/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F284
+[/us/pl/109/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F284
 [/us/pl/92/463/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463%2Fs14
 [/us/stat/86/776]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F776
 

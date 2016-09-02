@@ -65,7 +65,7 @@
 
         Notwithstanding subsections (a) and (b), the Librarian of Congress shall retain authority over the Library of Congress buildings and grounds in accordance with [section 1 of the Act of June 29, 1922][/us/act/1922-06-29/s1] ([2 U.S.C. 141][/us/usc/t2/s141]; [42 Stat. 715][/us/stat/42/715]).
 
-([Pub. L. 107–217][/us/pl/107/217], Aug. 21, 2002, [116 Stat. 1175][/us/stat/116/1175]; [Pub. L. 108–7, div. H, title I, § 1016(b)][/us/pl/108/7/s1016/b], Feb. 20, 2003, [117 Stat. 364][/us/stat/117/364]; [Pub. L. 110–161, div. H, title I, § 1004(d)(2)(A)(ii)][/us/pl/110/161/s1004/d/2/A/ii], Dec. 26, 2007, [121 Stat. 2233][/us/stat/121/2233]; [Pub. L. 110–178, § 4(b)(1)(B)][/us/pl/110/178/s4/b/1/B], Jan. 7, 2008, [121 Stat. 2551][/us/stat/121/2551]; [Pub. L. 111–145, § 6(d)(1)][/us/pl/111/145/s6/d/1], Mar. 4, 2010, [124 Stat. 54][/us/stat/124/54].)
+([Pub. L. 107–217][/us/pl/107/217], Aug. 21, 2002, [116 Stat. 1175][/us/stat/116/1175]; [Pub. L. 108–7, div. H, title I][/us/pl/108/7/dH/tI], § 1016(b), Feb. 20, 2003, [117 Stat. 364][/us/stat/117/364]; [Pub. L. 110–161, div. H, title I][/us/pl/110/161/dH/tI], § 1004(d)(2)(A)(ii), Dec. 26, 2007, [121 Stat. 2233][/us/stat/121/2233]; [Pub. L. 110–178][/us/pl/110/178], § 4(b)(1)(B), Jan. 7, 2008, [121 Stat. 2551][/us/stat/121/2551]; [Pub. L. 111–145][/us/pl/111/145], § 6(d)(1), Mar. 4, 2010, [124 Stat. 54][/us/stat/124/54].)
 
  __Definition of United States Capitol Grounds__ 
 
@@ -125,11 +125,11 @@ July 31, 1946, ch. 707, § 1, 60 Stat. 718; Pub. L. 90–108, § 1(a), Oct. 
 
  __Amendments__ 
 
-    2010—Subsec. (d). [Pub. L. 111–145][/us/pl/111/145] repealed [Pub. L. 110–161, § 1004(d)(2)(A)(ii)][/us/pl/110/161/s1004/d/2/A/ii]. See 2007 Amendment note below.
+    2010—Subsec. (d). [Pub. L. 111–145][/us/pl/111/145] repealed [Pub. L. 110–161][/us/pl/110/161], § 1004(d)(2)(A)(ii). See 2007 Amendment note below.
 
     2008—Subsec. (d). [Pub. L. 110–178][/us/pl/110/178] added subsec. (d).
 
-    2007—Subsec. (d). [Pub. L. 110–161, § 1004(d)(2)(A)(ii)][/us/pl/110/161/s1004/d/2/A/ii], which made an amendment identical to that made by [Pub. L. 110–178][/us/pl/110/178], was repealed by [Pub. L. 111–145][/us/pl/111/145]. See Effective Date of 2010 Amendment note below.
+    2007—Subsec. (d). [Pub. L. 110–161][/us/pl/110/161], § 1004(d)(2)(A)(ii), which made an amendment identical to that made by [Pub. L. 110–178][/us/pl/110/178], was repealed by [Pub. L. 111–145][/us/pl/111/145]. See Effective Date of 2010 Amendment note below.
 
     2003—Subsec. (c). [Pub. L. 108–7][/us/pl/108/7] added subsec. (c).
 
@@ -143,7 +143,7 @@ July 31, 1946, ch. 707, § 1, 60 Stat. 718; Pub. L. 90–108, § 1(a), Oct. 
 
  __Effective Date of 2007 Amendment__ 
 
-    Amendment by [Pub. L. 110–161][/us/pl/110/161] effective Oct. 1, 2009, see [section 1004(d)(4) of title I of div. H of Pub. L. 110–161][/us/pl/110/161/s1004/d/4], set out as an Effective Date of Repeal note under [section 167 of Title 2][/us/usc/t2/s167], The Congress.
+    Amendment by [Pub. L. 110–161][/us/pl/110/161] effective Oct. 1, 2009, see [section 1004(d)(4) of title I of div. H of Pub. L. 110–161][/us/pl/110/161/dH/tI/s1004/d/4], set out as an Effective Date of Repeal note under [section 167 of Title 2][/us/usc/t2/s167], The Congress.
 
  __Effective Date of 2003 Amendment__ 
 
@@ -151,7 +151,7 @@ July 31, 1946, ch. 707, § 1, 60 Stat. 718; Pub. L. 90–108, § 1(a), Oct. 
 
  __Authorizing Commercial Activity on Union Square__ 
 
-[Pub. L. 113–76, div. I, title II, § 213][/us/pl/113/76/s213], Jan. 17, 2014, [128 Stat. 436][/us/stat/128/436], provided that:
+[Pub. L. 113–76, div. I, title II][/us/pl/113/76/dI/tII], § 213, Jan. 17, 2014, [128 Stat. 436][/us/stat/128/436], provided that:
 
 >     “(a) __Treatment as Part of Capitol Grounds.—__ 
 
@@ -197,7 +197,7 @@ July 31, 1946, ch. 707, § 1, 60 Stat. 718; Pub. L. 90–108, § 1(a), Oct. 
 
  __Transfers and Conveyances Affecting Properties in the District of Columbia and General Provisions__ 
 
-[Pub. L. 109–396, title II][/us/pl/109/396], §§ 201, 204, title IV, §§ 401–407, Dec. 15, 2006, [120 Stat. 2713][/us/stat/120/2713], 2715, 2718–2720, provided that:
+[Pub. L. 109–396, title II][/us/pl/109/396/tII], §§ 201, 204, title IV, §§ 401–407, Dec. 15, 2006, [120 Stat. 2713][/us/stat/120/2713], 2715, 2718–2720, provided that:
 
 > “SEC. 201. __TRANSFER OF ADMINISTRATIVE JURISDICTION OVER CERTAIN PROPERTIES.__ 
 
@@ -275,7 +275,7 @@ July 31, 1946, ch. 707, § 1, 60 Stat. 718; Pub. L. 90–108, § 1(a), Oct. 
 
 >     “(a)  __In General__  __.—__ 
 
->     Prior to conveyance of title to U.S. Reservation 13 to the District of Columbia under this Act \[see [Pub. L. 109–396, title I, § 101][/us/pl/109/396/s101], Dec. 15, 2006, [120 Stat. 2711][/us/stat/120/2711]\], the District of Columbia shall convey, with the approval of the Architect of the Capitol and subject to subsections (b) and (c), not more than 12 acres of real property to the Architect of the Capitol.
+>     Prior to conveyance of title to U.S. Reservation 13 to the District of Columbia under this Act \[see [Pub. L. 109–396, title I][/us/pl/109/396/tI], § 101, Dec. 15, 2006, [120 Stat. 2711][/us/stat/120/2711]\], the District of Columbia shall convey, with the approval of the Architect of the Capitol and subject to subsections (b) and (c), not more than 12 acres of real property to the Architect of the Capitol.
 
 >     “(b)  __Title Held by Secretary__  __.—__ 
 
@@ -355,7 +355,7 @@ July 31, 1946, ch. 707, § 1, 60 Stat. 718; Pub. L. 90–108, § 1(a), Oct. 
 
  __Changes in United States Capitol Grounds__ 
 
-[Pub. L. 108–447, div. G, title II, § 213][/us/pl/108/447/s213], Dec. 8, 2004, [118 Stat. 3196][/us/stat/118/3196], provided that:
+[Pub. L. 108–447, div. G, title II][/us/pl/108/447/dG/tII], § 213, Dec. 8, 2004, [118 Stat. 3196][/us/stat/118/3196], provided that:
 
 >     “(a) __Transfer of Jurisdiction.—__ 
 
@@ -395,7 +395,7 @@ July 31, 1946, ch. 707, § 1, 60 Stat. 718; Pub. L. 90–108, § 1(a), Oct. 
 
 >     This Act \[probably means this section\] shall apply to fiscal year 2005 and each fiscal year thereafter.”
 
-[Pub. L. 104–333, div. I, title V, § 514][/us/pl/104/333/s514], Nov. 12, 1996, [110 Stat. 4165][/us/stat/110/4165], provided that:
+[Pub. L. 104–333, div. I, title V][/us/pl/104/333/dI/tV], § 514, Nov. 12, 1996, [110 Stat. 4165][/us/stat/110/4165], provided that:
 
 >     “(a)  __Purpose__  __.—__ 
 
@@ -489,7 +489,7 @@ July 31, 1946, ch. 707, § 1, 60 Stat. 718; Pub. L. 90–108, § 1(a), Oct. 
 
 >     “(4) All sidewalks and contiguous areas presently under the jurisdiction of the District of Columbia located on the east side of Third Street between the south curb of Pennsylvania Avenue, Northwest and the north curb of Maryland Avenue, Southwest.”
 
-[Pub. L. 96–432, § 1][/us/pl/96/432/s1], Oct. 10, 1980, [94 Stat. 1851][/us/stat/94/1851], provided: 
+[Pub. L. 96–432][/us/pl/96/432], § 1, Oct. 10, 1980, [94 Stat. 1851][/us/stat/94/1851], provided: 
 
 > “That [section 1 of the Act of July 31, 1946][/us/act/1946-07-31/s1], as amended ([40 U.S.C. 193a][/us/usc/t40/s193a]) \[now [40 U.S.C. 5102][/us/usc/t40/s5102]\], is amended to include within the definition of the United States Capitol Grounds the following additional areas and portions of streets which are situated as follows:
 
@@ -537,17 +537,17 @@ July 31, 1946, ch. 707, § 1, 60 Stat. 718; Pub. L. 90–108, § 1(a), Oct. 
 
 >     “(22) all that area contiguous to, and surrounding, square numbered 581 from the property line thereof to the contiguous curb.”
 
-    [Pub. L. 93–198, title VII, § 739(g)(3)][/us/pl/93/198/s739/g/3], Dec. 24, 1973, [87 Stat. 828][/us/stat/87/828], effective Jan. 2, 1975, \[title IV of [Pub. L. 93–198][/us/pl/93/198] having been accepted by a majority of the registered qualified electors in the District of Columbia voting on the charter issue in the charter referendum conducted May 8, 1974\], provided in part that the definition of United States Capitol Grounds should include the following streets: Independence Avenue from the west curb of First Street S.E. to the east curb of First Street S.W., New Jersey Avenue S.E. from the south curb of Independence Avenue to the north curb of D Street S.E., South Capitol Street from the south curb of Independence Avenue to the north curb of D Street; Delaware Avenue S.W. from the south curb of C Street S.W. to the North Curb of D Street S.W., C Street from the west curb of First Street S.E. to the intersection of First and Canal Streets, S.W., D Street from the west curb of First Street S.E. to the intersection of Canal Street and Delaware Avenue S.W., that part of First Street lying west of the outer face of the curb of the sidewalk on the east side thereof from D Street, N.E. to D Street S.E., that part of First Street within the east and west curblines thereof extending from the north side of Pennsylvania Avenue N.W. to the intersection of C Street and Canal Street S.W., including the two circles within such area, but that nothing in the inclusion of such streets should be construed as repealing, or otherwise altering, modifying, affecting, or superseding those provisions of law in effect prior to the vesting of authority in the United States Supreme Court police and Library of Congress police by title IV of [Pub. L. 93–198][/us/pl/93/198] to make arrests in adjacent streets, including First Street N.E. and First Street S.E.
+    [Pub. L. 93–198, title VII][/us/pl/93/198/tVII], § 739(g)(3), Dec. 24, 1973, [87 Stat. 828][/us/stat/87/828], effective Jan. 2, 1975, \[title IV of [Pub. L. 93–198][/us/pl/93/198] having been accepted by a majority of the registered qualified electors in the District of Columbia voting on the charter issue in the charter referendum conducted May 8, 1974\], provided in part that the definition of United States Capitol Grounds should include the following streets: Independence Avenue from the west curb of First Street S.E. to the east curb of First Street S.W., New Jersey Avenue S.E. from the south curb of Independence Avenue to the north curb of D Street S.E., South Capitol Street from the south curb of Independence Avenue to the north curb of D Street; Delaware Avenue S.W. from the south curb of C Street S.W. to the North Curb of D Street S.W., C Street from the west curb of First Street S.E. to the intersection of First and Canal Streets, S.W., D Street from the west curb of First Street S.E. to the intersection of Canal Street and Delaware Avenue S.W., that part of First Street lying west of the outer face of the curb of the sidewalk on the east side thereof from D Street, N.E. to D Street S.E., that part of First Street within the east and west curblines thereof extending from the north side of Pennsylvania Avenue N.W. to the intersection of C Street and Canal Street S.W., including the two circles within such area, but that nothing in the inclusion of such streets should be construed as repealing, or otherwise altering, modifying, affecting, or superseding those provisions of law in effect prior to the vesting of authority in the United States Supreme Court police and Library of Congress police by title IV of [Pub. L. 93–198][/us/pl/93/198] to make arrests in adjacent streets, including First Street N.E. and First Street S.E.
 
  __Jurisdiction of the Capitol Police Board and the Architect of the Capitol__ 
 
-[Pub. L. 96–432, § 3][/us/pl/96/432/s3], Oct. 10, 1980, [94 Stat. 1852][/us/stat/94/1852], provided that: 
+[Pub. L. 96–432][/us/pl/96/432], § 3, Oct. 10, 1980, [94 Stat. 1852][/us/stat/94/1852], provided that: 
 
-> “On and after the effective date of this section \[see [Pub. L. 96–432, § 4][/us/pl/96/432/s4], Oct. 10, 1980, [94 Stat. 1853][/us/stat/94/1853]\], that portion of C Street Northeast from the west curb of Second Street Northeast to the east curb of First Street Northeast shall be under the exclusive jurisdiction and control of the Capitol Police Board and the Architect of the Capitol in the same manner and to the same extent as such Board or the Architect of the Capitol has over other streets comprising the United States Capitol Grounds, and the Architect of the Capitol shall be responsible for the maintenance and improvement thereof.”
+> “On and after the effective date of this section \[see [Pub. L. 96–432][/us/pl/96/432], § 4, Oct. 10, 1980, [94 Stat. 1853][/us/stat/94/1853]\], that portion of C Street Northeast from the west curb of Second Street Northeast to the east curb of First Street Northeast shall be under the exclusive jurisdiction and control of the Capitol Police Board and the Architect of the Capitol in the same manner and to the same extent as such Board or the Architect of the Capitol has over other streets comprising the United States Capitol Grounds, and the Architect of the Capitol shall be responsible for the maintenance and improvement thereof.”
 
  __United States Supreme Court and Library of Congress; Jurisdictional Boundaries__ 
 
-[Pub. L. 96–432, § 6(a)][/us/pl/96/432/s6/a], (b), Oct. 10, 1980, [94 Stat. 1853][/us/stat/94/1853], provided that:
+[Pub. L. 96–432][/us/pl/96/432], § 6(a), (b), Oct. 10, 1980, [94 Stat. 1853][/us/stat/94/1853], provided that:
 
 >     “(a) Notwithstanding any other provisions of this Act \[enacting [section 1962 of Title 2][/us/usc/t2/s1962], The Congress, amending section 193a of former Title 40, Public Buildings, Property, and Works, and enacting provisions set out as notes under this section\], with respect to those squares occupied by the United States Supreme Court and the Library of Congress, those streets or portions thereof referred to in the first section of this Act \[set out as a note above\] which surround such squares shall be considered a part of the Capitol Grounds only to the face of the curbs contiguous to such squares.
 
@@ -555,7 +555,7 @@ July 31, 1946, ch. 707, § 1, 60 Stat. 718; Pub. L. 90–108, § 1(a), Oct. 
 
  __Architect of the Capitol; Acquisition of Additional Property__ 
 
-[Pub. L. 97–12, title I][/us/pl/97/12], June 5, 1981, [95 Stat. 64][/us/stat/95/64], provided in part: 
+[Pub. L. 97–12, title I][/us/pl/97/12/tI], June 5, 1981, [95 Stat. 64][/us/stat/95/64], provided in part: 
 
 > “That upon acquisition of such real property pursuant to this paragraph \[incorporating by reference the provisions of [Pub. L. 96–432][/us/pl/96/432], Oct. 10, 1980, [94 Stat. 1851][/us/stat/94/1851], which related to the acquisition of property in squares 693, 640, and 582 in the District of Columbia\], the structure located on lot 801 of square 693 shall become a part of the House Office Buildings, subject to the provisions of the Act of July 31, 1946 (40 U.S.C. secs. 193a through 193m, \[207a,\] 212a, \[212a–2, 212a–3,\] and 212b) \[now [2 U.S.C. 1922][/us/usc/t2/s1922], 1961, 1966, 1967, 1969; [40 U.S.C. 5101–510][/us/usc/t40/s5101–510]7, 5109, see References in Text note under [section 1819 of Title 2][/us/usc/t2/s1819], The Congress\], including any amendments thereto, which are applicable to the Capitol Buildings, and to the Act of March 4, 1907 ([40 U.S.C. 175][/us/usc/t40/s175]) \[now [2 U.S.C. 2001][/us/usc/t2/s2001]\].”
 
@@ -661,13 +661,13 @@ HOUSE OFFICE BUILDING COMMISSION
 [/us/stat/42/715]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F715
 [/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1175
-[/us/pl/108/7/s1016/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2Fs1016%2Fb
+[/us/pl/108/7/dH/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2FdH%2FtI
 [/us/stat/117/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F364
-[/us/pl/110/161/s1004/d/2/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2Fs1004%2Fd%2F2%2FA%2Fii
+[/us/pl/110/161/dH/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2FdH%2FtI
 [/us/stat/121/2233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2233
-[/us/pl/110/178/s4/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F178%2Fs4%2Fb%2F1%2FB
+[/us/pl/110/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F178
 [/us/stat/121/2551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2551
-[/us/pl/111/145/s6/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F145%2Fs6%2Fd%2F1
+[/us/pl/111/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F145
 [/us/stat/124/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F54
 [/us/act/1946-07-31/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-07-31%2Fs1
 [/us/usc/t40/s193a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs193a
@@ -680,9 +680,9 @@ HOUSE OFFICE BUILDING COMMISSION
 [/us/pl/100/458/s307E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F458%2Fs307E
 [/us/usc/t2/s2146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs2146
 [/us/pl/111/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F145
-[/us/pl/110/161/s1004/d/2/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2Fs1004%2Fd%2F2%2FA%2Fii
+[/us/pl/110/161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161
 [/us/pl/110/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F178
-[/us/pl/110/161/s1004/d/2/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2Fs1004%2Fd%2F2%2FA%2Fii
+[/us/pl/110/161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161
 [/us/pl/110/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F178
 [/us/pl/111/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F145
 [/us/pl/108/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7
@@ -697,12 +697,12 @@ HOUSE OFFICE BUILDING COMMISSION
 [/us/pl/110/178/s4/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F178%2Fs4%2Fd
 [/us/usc/t2/s167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs167
 [/us/pl/110/161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161
-[/us/pl/110/161/s1004/d/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2Fs1004%2Fd%2F4
+[/us/pl/110/161/dH/tI/s1004/d/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2FdH%2FtI%2Fs1004%2Fd%2F4
 [/us/usc/t2/s167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs167
 [/us/pl/108/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7
 [/us/pl/108/7/s1016/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2Fs1016%2Fd
 [/us/usc/t2/s1961]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1961
-[/us/pl/113/76/s213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs213
+[/us/pl/113/76/dI/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2FdI%2FtII
 [/us/stat/128/436]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F436
 [/us/pl/112/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74
 [/us/usc/t2/s1811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1811
@@ -712,23 +712,23 @@ HOUSE OFFICE BUILDING COMMISSION
 [/us/act/1946-07-31/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-07-31%2Fs14
 [/us/usc/t2/s1969]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1969
 [/us/pl/112/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74
-[/us/pl/109/396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F396
+[/us/pl/109/396/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F396%2FtII
 [/us/stat/120/2713]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2713
 [/us/pl/106/348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F348
 [/us/stat/114/1358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1358
 [/us/usc/t40/s8903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs8903
-[/us/pl/109/396/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F396%2Fs101
+[/us/pl/109/396/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F396%2FtI
 [/us/stat/120/2711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2711
 [/us/usc/t40/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs101
 [/us/usc/t42/s9620/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9620%2Fh
 [/us/usc/t2/s1961]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1961
-[/us/pl/108/447/s213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs213
+[/us/pl/108/447/dG/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2FdG%2FtII
 [/us/stat/118/3196]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3196
 [/us/usc/t40/s5102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs5102
 [/us/pl/104/333]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F333
 [/us/usc/t40/s5102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs5102
 [/us/usc/t2/s1961]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1961
-[/us/pl/104/333/s514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F333%2Fs514
+[/us/pl/104/333/dI/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F333%2FdI%2FtV
 [/us/stat/110/4165]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F4165
 [/us/usc/t40/s193a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs193a
 [/us/usc/t40/s5102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs5102
@@ -739,23 +739,23 @@ HOUSE OFFICE BUILDING COMMISSION
 [/us/act/1946-07-31/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-07-31%2Fs1
 [/us/usc/t40/s193a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs193a
 [/us/usc/t40/s5102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs5102
-[/us/pl/96/432/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F432%2Fs1
+[/us/pl/96/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F432
 [/us/stat/94/1851]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1851
 [/us/act/1946-07-31/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-07-31%2Fs1
 [/us/usc/t40/s193a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs193a
 [/us/usc/t40/s5102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs5102
-[/us/pl/93/198/s739/g/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F198%2Fs739%2Fg%2F3
+[/us/pl/93/198/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F198%2FtVII
 [/us/stat/87/828]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F828
 [/us/pl/93/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F198
 [/us/pl/93/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F198
-[/us/pl/96/432/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F432%2Fs3
+[/us/pl/96/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F432
 [/us/stat/94/1852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1852
-[/us/pl/96/432/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F432%2Fs4
+[/us/pl/96/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F432
 [/us/stat/94/1853]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1853
-[/us/pl/96/432/s6/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F432%2Fs6%2Fa
+[/us/pl/96/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F432
 [/us/stat/94/1853]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1853
 [/us/usc/t2/s1962]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1962
-[/us/pl/97/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F12
+[/us/pl/97/12/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F12%2FtI
 [/us/stat/95/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F64
 [/us/pl/96/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F432
 [/us/stat/94/1851]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1851

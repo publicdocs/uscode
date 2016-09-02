@@ -17,7 +17,7 @@
 
     Subject to applicable provisions of existing law relating to the functions in the District of Columbia of the National Capital Planning Commission and the Commission of Fine Arts, only the Administrator of General Services is required to approve sketches, plans, and estimates for buildings to be constructed by the Administrator, except that the Administrator and the United States Postal Service must approve buildings designed for post office purposes.
 
-([Pub. L. 107–217][/us/pl/107/217], Aug. 21, 2002, [116 Stat. 1206][/us/stat/116/1206]; [Pub. L. 109–284, § 6(23)][/us/pl/109/284/s6/23], Sept. 27, 2006, [120 Stat. 1213][/us/stat/120/1213].)
+([Pub. L. 107–217][/us/pl/107/217], Aug. 21, 2002, [116 Stat. 1206][/us/stat/116/1206]; [Pub. L. 109–284][/us/pl/109/284], § 6(23), Sept. 27, 2006, [120 Stat. 1213][/us/stat/120/1213].)
 
 <table>
 
@@ -80,7 +80,7 @@ June 14, 1946, ch. 404, § 8, 60 Stat. 258.  </td>
 
 [/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1206
-[/us/pl/109/284/s6/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F284%2Fs6%2F23
+[/us/pl/109/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F284
 [/us/stat/120/1213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1213
 [/us/act/1924-06-06/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1924-06-06%2Fs9
 [/us/act/1952-07-19/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-07-19%2Fs1

@@ -107,7 +107,7 @@
 
         This subsection shall apply to any commemorative work dedicated after January 1, 2010.
 
-([Pub. L. 107–217][/us/pl/107/217], Aug. 21, 2002, [116 Stat. 1229][/us/stat/116/1229]; [Pub. L. 108–126, title II][/us/pl/108/126], §§ 203(e), 204, Nov. 17, 2003, [117 Stat. 1351][/us/stat/117/1351], 1352; [Pub. L. 113–291, div. B, title XXX, § 3054(c)][/us/pl/113/291/s3054/c], Dec. 19, 2014, [128 Stat. 3807][/us/stat/128/3807].)
+([Pub. L. 107–217][/us/pl/107/217], Aug. 21, 2002, [116 Stat. 1229][/us/stat/116/1229]; [Pub. L. 108–126, title II][/us/pl/108/126/tII], §§ 203(e), 204, Nov. 17, 2003, [117 Stat. 1351][/us/stat/117/1351], 1352; [Pub. L. 113–291, div. B, title XXX][/us/pl/113/291/dB/tXXX], § 3054(c), Dec. 19, 2014, [128 Stat. 3807][/us/stat/128/3807].)
 
 <table>
 
@@ -171,19 +171,19 @@ Pub. L. 99–652, § 7, Nov. 14, 1986, 100 Stat. 3652; Pub. L. 103–321, §�
 
  __Amendments__ 
 
-    2014—Subsec. (b)(7). [Pub. L. 113–291, § 3054(c)(1)][/us/pl/113/291/s3054/c/1], struck out par. (7). Text read as follows: “Donor contributions to commemorative works shall not be acknowledged in any manner as part of the commemorative work or its site.”
+    2014—Subsec. (b)(7). [Pub. L. 113–291][/us/pl/113/291], § 3054(c)(1), struck out par. (7). Text read as follows: “Donor contributions to commemorative works shall not be acknowledged in any manner as part of the commemorative work or its site.”
 
-    Subsec. (c). [Pub. L. 113–291, § 3054(c)(2)][/us/pl/113/291/s3054/c/2], added subsec. (c).
+    Subsec. (c). [Pub. L. 113–291][/us/pl/113/291], § 3054(c)(2), added subsec. (c).
 
-    2003—Subsec. (a). [Pub. L. 108–126, § 203(e)(1)(A)][/us/pl/108/126/s203/e/1/A], substituted “sponsor” for “person” wherever appearing.
+    2003—Subsec. (a). [Pub. L. 108–126][/us/pl/108/126], § 203(e)(1)(A), substituted “sponsor” for “person” wherever appearing.
 
-    Subsec. (a)(1). [Pub. L. 108–126, § 203(e)(1)(B)][/us/pl/108/126/s203/e/1/B], inserted “Advisory” before “Commission” and substituted “design concepts” for “designs”.
+    Subsec. (a)(1). [Pub. L. 108–126][/us/pl/108/126], § 203(e)(1)(B), inserted “Advisory” before “Commission” and substituted “design concepts” for “designs”.
 
-    Subsec. (b). [Pub. L. 108–126, § 203(e)(2)(A)][/us/pl/108/126/s203/e/2/A], substituted “and the Secretary or Administrator (as appropriate)” for “Secretary, and Administrator” in introductory provisions.
+    Subsec. (b). [Pub. L. 108–126][/us/pl/108/126], § 203(e)(2)(A), substituted “and the Secretary or Administrator (as appropriate)” for “Secretary, and Administrator” in introductory provisions.
 
-    Subsec. (b)(2)(B). [Pub. L. 108–126, § 203(e)(2)(B)][/us/pl/108/126/s203/e/2/B], substituted “open space, existing public use, and cultural and natural resources.” for “open space and existing public use.”
+    Subsec. (b)(2)(B). [Pub. L. 108–126][/us/pl/108/126], § 203(e)(2)(B), substituted “open space, existing public use, and cultural and natural resources.” for “open space and existing public use.”
 
-    Subsec. (b)(5) to (7). [Pub. L. 108–126, § 204][/us/pl/108/126/s204], added pars. (5) to (7).
+    Subsec. (b)(5) to (7). [Pub. L. 108–126][/us/pl/108/126], § 204, added pars. (5) to (7).
 
  __Effective Date of 2003 Amendment__ 
 
@@ -198,17 +198,17 @@ Pub. L. 99–652, § 7, Nov. 14, 1986, 100 Stat. 3652; Pub. L. 103–321, §�
 
 [/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1229
-[/us/pl/108/126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F126
+[/us/pl/108/126/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F126%2FtII
 [/us/stat/117/1351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1351
-[/us/pl/113/291/s3054/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs3054%2Fc
+[/us/pl/113/291/dB/tXXX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdB%2FtXXX
 [/us/stat/128/3807]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3807
-[/us/pl/113/291/s3054/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs3054%2Fc%2F1
-[/us/pl/113/291/s3054/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs3054%2Fc%2F2
-[/us/pl/108/126/s203/e/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F126%2Fs203%2Fe%2F1%2FA
-[/us/pl/108/126/s203/e/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F126%2Fs203%2Fe%2F1%2FB
-[/us/pl/108/126/s203/e/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F126%2Fs203%2Fe%2F2%2FA
-[/us/pl/108/126/s203/e/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F126%2Fs203%2Fe%2F2%2FB
-[/us/pl/108/126/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F126%2Fs204
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
+[/us/pl/108/126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F126
+[/us/pl/108/126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F126
+[/us/pl/108/126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F126
+[/us/pl/108/126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F126
+[/us/pl/108/126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F126
 [/us/pl/108/126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F126
 [/us/pl/108/126/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F126%2Fs205
 [/us/usc/t40/s8901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs8901

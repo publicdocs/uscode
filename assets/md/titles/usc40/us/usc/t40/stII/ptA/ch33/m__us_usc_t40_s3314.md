@@ -27,7 +27,7 @@
 
     Delegation under subsection (a) does not exempt the person to whom the delegation is made, or the carrying out of the delegated duty or power, from any other provision of this chapter.
 
-([Pub. L. 107–217][/us/pl/107/217], Aug. 21, 2002, [116 Stat. 1166][/us/stat/116/1166], § 3313; [Pub. L. 109–304, § 17(g)(3)][/us/pl/109/304/s17/g/3], Oct. 6, 2006, [120 Stat. 1709][/us/stat/120/1709]; renumbered § 3314, [Pub. L. 110–140, title III, § 323(c)(1)(A)][/us/pl/110/140/s323/c/1/A], Dec. 19, 2007, [121 Stat. 1590][/us/stat/121/1590].)
+([Pub. L. 107–217][/us/pl/107/217], Aug. 21, 2002, [116 Stat. 1166][/us/stat/116/1166], § 3313; [Pub. L. 109–304][/us/pl/109/304], § 17(g)(3), Oct. 6, 2006, [120 Stat. 1709][/us/stat/120/1709]; renumbered § 3314, [Pub. L. 110–140, title III][/us/pl/110/140/tIII], § 323(c)(1)(A), Dec. 19, 2007, [121 Stat. 1590][/us/stat/121/1590].)
 
 <table>
 
@@ -115,9 +115,9 @@ Pub. L. 86–249, § 15, Sept. 9, 1959, 73 Stat. 483.  </td>
 [/us/usc/t40/s3305/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs3305%2Fb
 [/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1166
-[/us/pl/109/304/s17/g/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs17%2Fg%2F3
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1709
-[/us/pl/110/140/s323/c/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs323%2Fc%2F1%2FA
+[/us/pl/110/140/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2FtIII
 [/us/stat/121/1590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1590
 [/us/usc/t40/s3315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs3315
 [/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140

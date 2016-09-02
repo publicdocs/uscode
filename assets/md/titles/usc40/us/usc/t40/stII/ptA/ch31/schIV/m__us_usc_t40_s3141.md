@@ -35,7 +35,7 @@
 
             (ii) the rate of costs to the contractor or subcontractor that may be reasonably anticipated in providing benefits to laborers and mechanics pursuant to an enforceable commitment to carry out a financially responsible plan or program which was communicated in writing to the laborers and mechanics affected.
 
-([Pub. L. 107–217][/us/pl/107/217], Aug. 21, 2002, [116 Stat. 1150][/us/stat/116/1150]; [Pub. L. 109–284, § 6(11)][/us/pl/109/284/s6/11], Sept. 27, 2006, [120 Stat. 1213][/us/stat/120/1213].)
+([Pub. L. 107–217][/us/pl/107/217], Aug. 21, 2002, [116 Stat. 1150][/us/stat/116/1150]; [Pub. L. 109–284][/us/pl/109/284], § 6(11), Sept. 27, 2006, [120 Stat. 1213][/us/stat/120/1213].)
 
 <table>
 
@@ -117,7 +117,7 @@ Mar. 3, 1931, ch. 411, § 1(b) (1st par. words before proviso), as added Pub. 
 [/us/stat/46/1494]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F1494
 [/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1150
-[/us/pl/109/284/s6/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F284%2Fs6%2F11
+[/us/pl/109/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F284
 [/us/stat/120/1213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1213
 [/us/act/1931-03-03/ch411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1931-03-03%2Fch411
 [/us/stat/46/1494]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F1494

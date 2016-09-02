@@ -17,7 +17,7 @@
 
     Sections 5102, 5103, 5104(b)–(f), 5105, 5106, and 5109 of this title and sections 9, 9A, 9B, and 9C of the Act of July 31, 1946 (ch. 707, [60 Stat. 719][/us/stat/60/719], 720), do not prohibit a band in the service of the Federal Government from giving concerts in the United States Capitol Grounds at times which will not interfere with Congress and as authorized by the Architect of the Capitol.
 
-([Pub. L. 107–217][/us/pl/107/217], Aug. 21, 2002, [116 Stat. 1178][/us/stat/116/1178]; [Pub. L. 108–178, § 3(2)][/us/pl/108/178/s3/2], Dec. 15, 2003, [117 Stat. 2640][/us/stat/117/2640].)
+([Pub. L. 107–217][/us/pl/107/217], Aug. 21, 2002, [116 Stat. 1178][/us/stat/116/1178]; [Pub. L. 108–178][/us/pl/108/178], § 3(2), Dec. 15, 2003, [117 Stat. 2640][/us/stat/117/2640].)
 
 <table>
 
@@ -87,7 +87,7 @@ July 31, 1946, ch. 707, § 13, 60 Stat. 720.  </td>
 [/us/stat/60/719]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F719
 [/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1178
-[/us/pl/108/178/s3/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F178%2Fs3%2F2
+[/us/pl/108/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F178
 [/us/stat/117/2640]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2640
 [/us/pl/108/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F178
 [/us/pl/108/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F178

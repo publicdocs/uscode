@@ -31,7 +31,7 @@
 
     The Administrator, in the Administrator’s discretion, may detail field personnel of the Administration to the District of Columbia for temporary duty for a period of not more than 30 days in any one case. Subsistence or similar expenses may not be allowed for an employee on temporary duty in the District of Columbia under this paragraph.
 
-([Pub. L. 107–217][/us/pl/107/217], Aug. 21, 2002, [116 Stat. 1072][/us/stat/116/1072]; [Pub. L. 111–350, § 5][/us/pl/111/350/s5](l)(5), Jan. 4, 2011, [124 Stat. 3851][/us/stat/124/3851].)
+([Pub. L. 107–217][/us/pl/107/217], Aug. 21, 2002, [116 Stat. 1072][/us/stat/116/1072]; [Pub. L. 111–350][/us/pl/111/350], § 5(l)(5), Jan. 4, 2011, [124 Stat. 3851][/us/stat/124/3851].)
 
 <table>
 
@@ -120,7 +120,7 @@ June 23, 1913, ch. 3, § 1 (proviso on p. 17), 38 Stat. 17.  </td>
 [/us/usc/t10/s973]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs973
 [/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1072]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1072
-[/us/pl/111/350/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs5
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3851]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3851
 [/us/usc/t41/s251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs251
 [/us/usc/t40/s111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs111

@@ -247,7 +247,7 @@ Pub. L. 100–480, §§ 3(a)(6), (8), (b)(2)(B), (C), (c)–(e), 4(c), Oct. 7,
 
  __Reference to the Thurgood Marshall Federal Judiciary Building__ 
 
-[Pub. L. 103–4, § 2][/us/pl/103/4/s2], Feb. 8, 1993, [107 Stat. 30][/us/stat/107/30], provided that: 
+[Pub. L. 103–4][/us/pl/103/4], § 2, Feb. 8, 1993, [107 Stat. 30][/us/stat/107/30], provided that: 
 
 > “Any reference in any law, map, regulation, document, paper, or other record of the United States to the Federal Judiciary Building referred to in section 1 \[now [40 U.S.C. 6502(a)][/us/usc/t40/s6502/a]\] shall be deemed to be a reference to the ‘Thurgood Marshall Federal Judiciary Building’.”
 
@@ -264,7 +264,7 @@ Pub. L. 100–480, §§ 3(a)(6), (8), (b)(2)(B), (C), (c)–(e), 4(c), Oct. 7,
 [/us/stat/116/1188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1188
 [/us/act/1910-06-01/ch263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1910-06-01%2Fch263
 [/us/stat/36/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F452
-[/us/pl/103/4/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F4%2Fs2
+[/us/pl/103/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F4
 [/us/stat/107/30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F30
 [/us/usc/t40/s6502/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs6502%2Fa
 

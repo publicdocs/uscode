@@ -101,7 +101,7 @@
 
         Recipients of federal assistance under this section, as required by the Commission, shall maintain accurate and complete records of transactions and activities financed with federal amounts and report to the Commission on the transactions and activities. The records are be  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be preceded by “to”. </sup></sup>  available for audit by the President, the Comptroller General, and the Commission.
 
-([Pub. L. 107–217][/us/pl/107/217], Aug. 21, 2002, [116 Stat. 1262][/us/stat/116/1262]; [Pub. L. 110–371, § 2(a)][/us/pl/110/371/s2/a], Oct. 8, 2008, [122 Stat. 4037][/us/stat/122/4037].)
+([Pub. L. 107–217][/us/pl/107/217], Aug. 21, 2002, [116 Stat. 1262][/us/stat/116/1262]; [Pub. L. 110–371][/us/pl/110/371], § 2(a), Oct. 8, 2008, [122 Stat. 4037][/us/stat/122/4037].)
 
 <table>
 
@@ -233,9 +233,9 @@ Pub. L. 89–4, title III, § 302, Mar. 9, 1965, 79 Stat. 19; Pub. L. 90–103
 
  __Amendments__ 
 
-    2008—Subsec. (a)(1)(A)(i). [Pub. L. 110–371, § 2(a)(1)][/us/pl/110/371/s2/a/1], added cl. (i) and struck out former cl. (i) which read as follows: “the amount of a grant shall not exceed 50 percent of administrative expenses or, at the discretion of the Commission, 75 percent of administrative expenses if the grant is to a local development district that has a charter or authority that includes the economic development of a county or part of a county for which a distressed county designation is in effect under [section 14526 of this title][/us/usc/t40/s14526];”.
+    2008—Subsec. (a)(1)(A)(i). [Pub. L. 110–371][/us/pl/110/371], § 2(a)(1), added cl. (i) and struck out former cl. (i) which read as follows: “the amount of a grant shall not exceed 50 percent of administrative expenses or, at the discretion of the Commission, 75 percent of administrative expenses if the grant is to a local development district that has a charter or authority that includes the economic development of a county or part of a county for which a distressed county designation is in effect under [section 14526 of this title][/us/usc/t40/s14526];”.
 
-    Subsec. (a)(2)(A). [Pub. L. 110–371, § 2(a)(2)][/us/pl/110/371/s2/a/2], added subpar. (A) and struck out heading and text of former subpar. (A). Text read as follows: “Except as provided in subparagraph (B), not more than 50 percent (or 80 percent in the case of a project to be carried out in a county for which a distressed county designation is in effect under [section 14526 of this title][/us/usc/t40/s14526]) of the cost of any activity eligible for financial assistance under this section may be provided from amounts appropriated to carry out this subtitle.”
+    Subsec. (a)(2)(A). [Pub. L. 110–371][/us/pl/110/371], § 2(a)(2), added subpar. (A) and struck out heading and text of former subpar. (A). Text read as follows: “Except as provided in subparagraph (B), not more than 50 percent (or 80 percent in the case of a project to be carried out in a county for which a distressed county designation is in effect under [section 14526 of this title][/us/usc/t40/s14526]) of the cost of any activity eligible for financial assistance under this section may be provided from amounts appropriated to carry out this subtitle.”
 
 ----------
 
@@ -248,14 +248,14 @@ Pub. L. 89–4, title III, § 302, Mar. 9, 1965, 79 Stat. 19; Pub. L. 90–103
 [/us/usc/t40/s14703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs14703
 [/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1262
-[/us/pl/110/371/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F371%2Fs2%2Fa
+[/us/pl/110/371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F371
 [/us/stat/122/4037]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4037
 [/us/pl/89/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F136
 [/us/stat/79/552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F552
 [/us/usc/t42/s3121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3121
-[/us/pl/110/371/s2/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F371%2Fs2%2Fa%2F1
+[/us/pl/110/371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F371
 [/us/usc/t40/s14526]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs14526
-[/us/pl/110/371/s2/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F371%2Fs2%2Fa%2F2
+[/us/pl/110/371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F371
 [/us/usc/t40/s14526]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs14526
 
 

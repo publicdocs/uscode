@@ -53,7 +53,7 @@
 
             An amount transferred under this section remains available until expended.
 
-([Pub. L. 107–217][/us/pl/107/217], Aug. 21, 2002, [116 Stat. 1155][/us/stat/116/1155]; [Pub. L. 111–8, div. D, title V, § 518(a)][/us/pl/111/8/s518/a], (b), (c)(2), Mar. 11, 2009, [123 Stat. 664][/us/stat/123/664], 665.)
+([Pub. L. 107–217][/us/pl/107/217], Aug. 21, 2002, [116 Stat. 1155][/us/stat/116/1155]; [Pub. L. 111–8, div. D, title V][/us/pl/111/8/dD/tV], § 518(a), (b), (c)(2), Mar. 11, 2009, [123 Stat. 664][/us/stat/123/664], 665.)
 
 <table>
 
@@ -123,11 +123,11 @@ May 3, 1945, ch. 106, title I, 101 (2d complete par. on p. 115), 59 Stat. 115.  
 
  __Amendments__ 
 
-    2009—[Pub. L. 111–8, § 518(c)(2)][/us/pl/111/8/s518/c/2], substituted “Working capital fund for General Services Administration” for “Working capital fund for blueprinting, photostating, and duplicating services in General Services Administration” in section catchline.
+    2009—[Pub. L. 111–8][/us/pl/111/8], § 518(c)(2), substituted “Working capital fund for General Services Administration” for “Working capital fund for blueprinting, photostating, and duplicating services in General Services Administration” in section catchline.
 
-    Subsecs. (a) to (c). [Pub. L. 111–8, § 518(a)][/us/pl/111/8/s518/a], amended subsecs. (a) to (c) generally. Prior to amendment, subsecs. (a) to (c) related to establishment and purpose of a working capital fund, components of the fund, and deposit of excess amounts in the Treasury.
+    Subsecs. (a) to (c). [Pub. L. 111–8][/us/pl/111/8], § 518(a), amended subsecs. (a) to (c) generally. Prior to amendment, subsecs. (a) to (c) related to establishment and purpose of a working capital fund, components of the fund, and deposit of excess amounts in the Treasury.
 
-    Subsec. (d). [Pub. L. 111–8, § 518(b)][/us/pl/111/8/s518/b], added subsec. (d).
+    Subsec. (d). [Pub. L. 111–8][/us/pl/111/8], § 518(b), added subsec. (d).
 
 ----------
 
@@ -140,14 +140,14 @@ May 3, 1945, ch. 106, title I, 101 (2d complete par. on p. 115), 59 Stat. 115.  
 [/us/stat/104/2838]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2838
 [/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1155
-[/us/pl/111/8/s518/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F8%2Fs518%2Fa
+[/us/pl/111/8/dD/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F8%2FdD%2FtV
 [/us/stat/123/664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F664
 [/us/stat/63/380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F380
 [/us/pl/101/576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F576
 [/us/stat/104/2838]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2838
 [/us/usc/t31/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs501
-[/us/pl/111/8/s518/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F8%2Fs518%2Fc%2F2
-[/us/pl/111/8/s518/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F8%2Fs518%2Fa
-[/us/pl/111/8/s518/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F8%2Fs518%2Fb
+[/us/pl/111/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F8
+[/us/pl/111/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F8
+[/us/pl/111/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F8
 
 

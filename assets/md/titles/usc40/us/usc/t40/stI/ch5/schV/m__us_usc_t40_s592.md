@@ -313,7 +313,7 @@ Pub. L. 102–393, title IV, § 13, Oct. 6, 1992, 106 Stat. 1751.  </td>
 
  __References in Text__ 
 
-    Section 5 of the Public Buildings Amendments of 1972, referred to in subsec. (c)(4)(A), is [section 5 of Pub. L. 92–313][/us/pl/92/313/s5], June 16, 1972, [86 Stat. 219][/us/stat/86/219], which enacted section 602a of former Title 40, Public Buildings, Property, and Works, and was omitted from the Code in the revision and reenactment of this title by [Pub. L. 107–217, § 1][/us/pl/107/217/s1], Aug. 21, 2002, [116 Stat. 1062][/us/stat/116/1062].
+    Section 5 of the Public Buildings Amendments of 1972, referred to in subsec. (c)(4)(A), is [section 5 of Pub. L. 92–313][/us/pl/92/313/s5], June 16, 1972, [86 Stat. 219][/us/stat/86/219], which enacted section 602a of former Title 40, Public Buildings, Property, and Works, and was omitted from the Code in the revision and reenactment of this title by [Pub. L. 107–217][/us/pl/107/217], § 1, Aug. 21, 2002, [116 Stat. 1062][/us/stat/116/1062].
 
 ----------
 
@@ -331,7 +331,7 @@ Pub. L. 102–393, title IV, § 13, Oct. 6, 1992, 106 Stat. 1751.  </td>
 [/us/stat/116/1118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1118
 [/us/pl/92/313/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F313%2Fs5
 [/us/stat/86/219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F219
-[/us/pl/107/217/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs1
+[/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1062]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1062
 
 

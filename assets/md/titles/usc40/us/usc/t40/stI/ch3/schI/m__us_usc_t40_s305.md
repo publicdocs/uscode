@@ -17,7 +17,7 @@
 
     The Administrator of General Services shall consult with the Administrator of the Office of Electronic Government on programs undertaken by the General Services Administration to promote electronic Government and the efficient use of information technologies by Federal agencies.
 
-(Added [Pub. L. 107–347, title I, § 102(a)(1)][/us/pl/107/347/s102/a/1], Dec. 17, 2002, [116 Stat. 2910][/us/stat/116/2910].)
+(Added [Pub. L. 107–347, title I][/us/pl/107/347/tI], § 102(a)(1), Dec. 17, 2002, [116 Stat. 2910][/us/stat/116/2910].)
 
  __Effective Date__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/107/347/s102/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F347%2Fs102%2Fa%2F1
+[/us/pl/107/347/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F347%2FtI
 [/us/stat/116/2910]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2910
 [/us/pl/107/347/s402/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F347%2Fs402%2Fa
 [/us/usc/t44/s3601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs3601

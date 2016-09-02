@@ -75,7 +75,7 @@
 
         There are authorized to be appropriated to carry out subsection (b) $10,000,000 for each of fiscal years 2006 through 2010. Such sums shall remain available until expended.
 
-(Added [Pub. L. 109–58, title II, § 204(a)][/us/pl/109/58/s204/a], Aug. 8, 2005, [119 Stat. 653][/us/stat/119/653].)
+(Added [Pub. L. 109–58, title II][/us/pl/109/58/tII], § 204(a), Aug. 8, 2005, [119 Stat. 653][/us/stat/119/653].)
 
  __References in Text__ 
 
@@ -88,7 +88,7 @@
 ----------
 ----------
 
-[/us/pl/109/58/s204/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs204%2Fa
+[/us/pl/109/58/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtII
 [/us/stat/119/653]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F653
 [/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
 

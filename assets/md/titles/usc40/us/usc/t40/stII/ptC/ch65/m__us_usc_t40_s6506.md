@@ -249,7 +249,7 @@ Pub. L. 100–480, § 6(a)(7), (8), as added Pub. L. 102–392, title III, §�
 
  __References in Text__ 
 
-    Section 3(b)(1) of the Judiciary Office Building Development Act, referred to in subsec. (a)(1), is [section 3(b)(1) of Pub. L. 100–480][/us/pl/100/480/s3/b/1], Oct. 7, 1988, [102 Stat. 2330][/us/stat/102/2330], which was classified to section 1202(b)(1) of former Title 40, Public Buildings, Property, and Works, prior to repeal by [Pub. L. 107–217, § 6(b)][/us/pl/107/217/s6/b], Aug. 21, 2002, [116 Stat. 1304][/us/stat/116/1304].
+    Section 3(b)(1) of the Judiciary Office Building Development Act, referred to in subsec. (a)(1), is [section 3(b)(1) of Pub. L. 100–480][/us/pl/100/480/s3/b/1], Oct. 7, 1988, [102 Stat. 2330][/us/stat/102/2330], which was classified to section 1202(b)(1) of former Title 40, Public Buildings, Property, and Works, prior to repeal by [Pub. L. 107–217][/us/pl/107/217], § 6(b), Aug. 21, 2002, [116 Stat. 1304][/us/stat/116/1304].
 
 ----------
 
@@ -270,7 +270,7 @@ Pub. L. 100–480, § 6(a)(7), (8), as added Pub. L. 102–392, title III, §�
 [/us/stat/107/30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F30
 [/us/pl/100/480/s3/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F480%2Fs3%2Fb%2F1
 [/us/stat/102/2330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2330
-[/us/pl/107/217/s6/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs6%2Fb
+[/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1304
 
 

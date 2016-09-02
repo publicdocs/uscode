@@ -17,7 +17,7 @@
 
     The Maritime Administration shall dispose of surplus vessels of 1,500 gross tons or more which the Administration determines to be merchant vessels or capable of conversion to merchant use. The vessels shall be disposed of in accordance with part F of subtitle V of title 46 and other laws authorizing the sale of such vessels.
 
-([Pub. L. 107–217][/us/pl/107/217], Aug. 21, 2002, [116 Stat. 1090][/us/stat/116/1090]; [Pub. L. 109–304, § 17(g)(1)][/us/pl/109/304/s17/g/1], Oct. 6, 2006, [120 Stat. 1708][/us/stat/120/1708].)
+([Pub. L. 107–217][/us/pl/107/217], Aug. 21, 2002, [116 Stat. 1090][/us/stat/116/1090]; [Pub. L. 109–304][/us/pl/109/304], § 17(g)(1), Oct. 6, 2006, [120 Stat. 1708][/us/stat/120/1708].)
 
 <table>
 
@@ -78,7 +78,7 @@ June 30, 1949, ch. 288, title II, § 203(i), 63 Stat. 386; Pub. L. 97–31, §
 
 [/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1090]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1090
-[/us/pl/109/304/s17/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs17%2Fg%2F1
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1708]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1708
 [/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 

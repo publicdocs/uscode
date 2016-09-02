@@ -83,7 +83,7 @@
 
  __Amendments__ 
 
-    2006—[Pub. L. 109–284, § 6(19)][/us/pl/109/284/s6/19], Sept. 27, 2006, [120 Stat. 1213][/us/stat/120/1213], renumbered item 6581 as 6501.
+    2006—[Pub. L. 109–284][/us/pl/109/284], § 6(19), Sept. 27, 2006, [120 Stat. 1213][/us/stat/120/1213], renumbered item 6581 as 6501.
 
 ----------
 
@@ -92,7 +92,7 @@
 ----------
 ----------
 
-[/us/pl/109/284/s6/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F284%2Fs6%2F19
+[/us/pl/109/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F284
 [/us/stat/120/1213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1213
 
 

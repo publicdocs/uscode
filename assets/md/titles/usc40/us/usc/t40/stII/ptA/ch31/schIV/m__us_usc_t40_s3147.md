@@ -67,7 +67,7 @@ Mar. 3, 1931, ch. 411, § 6, 46 Stat. 1494; Aug. 30, 1935, ch. 825, 49 Stat. 1
 
  __Termination of War and Emergencies__ 
 
-    Joint Res. [July 25, 1947, ch. 327, § 3][/us/act/1947-07-25/ch327/s3], [61 Stat. 451][/us/stat/61/451], provided that in the interpretation of former [40 U.S.C. 276a–5][/us/usc/t40/s276a–5], the date July 25, 1947, was to be deemed to be the date of termination of any state of war theretofore declared by Congress and of the national emergencies proclaimed by the President on September 8, 1939, and May 27, 1941.
+    Joint Res. [July 25, 1947, ch. 327][/us/act/1947-07-25/ch327], § 3, [61 Stat. 451][/us/stat/61/451], provided that in the interpretation of former [40 U.S.C. 276a–5][/us/usc/t40/s276a–5], the date July 25, 1947, was to be deemed to be the date of termination of any state of war theretofore declared by Congress and of the national emergencies proclaimed by the President on September 8, 1939, and May 27, 1941.
 
 ----------
 
@@ -78,7 +78,7 @@ Mar. 3, 1931, ch. 411, § 6, 46 Stat. 1494; Aug. 30, 1935, ch. 825, 49 Stat. 1
 
 [/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1153
-[/us/act/1947-07-25/ch327/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-25%2Fch327%2Fs3
+[/us/act/1947-07-25/ch327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-25%2Fch327
 [/us/stat/61/451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F451
 [/us/usc/t40/s276a–5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs276a%E2%80%935
 

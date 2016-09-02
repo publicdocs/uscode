@@ -43,7 +43,7 @@
 
     The Center 2 may accept and deposit to this account gifts for purposes of defraying the costs of printing, publishing, and distributing consumer information and educational materials and undertaking other consumer information activities. In addition to amounts appropriated or otherwise made available, the Center 2 may expend the gifts for these purposes and any balance remains available for expenditure.
 
-([Pub. L. 107–217][/us/pl/107/217], Aug. 21, 2002, [116 Stat. 1077][/us/stat/116/1077]; [Pub. L. 111–8, div. D, title V, § 516][/us/pl/111/8/s516], Mar. 11, 2009, [123 Stat. 664][/us/stat/123/664].)
+([Pub. L. 107–217][/us/pl/107/217], Aug. 21, 2002, [116 Stat. 1077][/us/stat/116/1077]; [Pub. L. 111–8, div. D, title V][/us/pl/111/8/dD/tV], § 516, Mar. 11, 2009, [123 Stat. 664][/us/stat/123/664].)
 
 <table>
 
@@ -130,7 +130,7 @@ Pub. L. 105–65, title III, (last proviso in par. under heading “Consumer Inf
 
 [/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1077]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1077
-[/us/pl/111/8/s516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F8%2Fs516
+[/us/pl/111/8/dD/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F8%2FdD%2FtV
 [/us/stat/123/664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F664
 [/us/pl/111/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F8
 [/us/pl/111/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F8

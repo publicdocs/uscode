@@ -85,7 +85,7 @@ June 30, 1949, ch. 288, title IX, § 903, as added Pub. L. 92–582, Oct. 27, 
 
  __Architectural and Engineering Services__ 
 
-[Pub. L. 108–136, div. A, title XIV, § 1427(b)][/us/pl/108/136/s1427/b], Nov. 24, 2003, [117 Stat. 1670][/us/stat/117/1670], provided that: 
+[Pub. L. 108–136, div. A, title XIV][/us/pl/108/136/dA/tXIV], § 1427(b), Nov. 24, 2003, [117 Stat. 1670][/us/stat/117/1670], provided that: 
 
 > “Architectural and engineering services (as defined in [section 1102 of title 40][/us/usc/t40/s1102], United States Code) shall not be offered under multiple-award schedule contracts entered into by the Administrator of General Services or under Governmentwide task and delivery order contracts entered into under sections 2304a and 2304b of title 10, United States Code, or sections 303H and 303I of the Federal Property and Administrative Services Act of 1949 (\[former\] [41 U.S.C. 253h][/us/usc/t41/s253h] and 253i) \[now [41 U.S.C. 4103][/us/usc/t41/s4103], 4105(a) to (c)(1), (d) to (i)\] unless such services—
 
@@ -102,7 +102,7 @@ June 30, 1949, ch. 288, title IX, § 903, as added Pub. L. 92–582, Oct. 27, 
 
 [/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1130
-[/us/pl/108/136/s1427/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs1427%2Fb
+[/us/pl/108/136/dA/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtXIV
 [/us/stat/117/1670]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1670
 [/us/usc/t40/s1102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs1102
 [/us/usc/t41/s253h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs253h

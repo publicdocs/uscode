@@ -27,7 +27,7 @@
 
     In carrying out the responsibilities under this section and [section 8721 of this title][/us/usc/t40/s8721], the Mayor shall establish procedures for citizen participation in the planning process and for appropriate meaningful consultation with any state or local government or planning agency in the National Capital region affected by any aspect of a comprehensive plan, including amendments, affecting or relating to the District.
 
-([Pub. L. 107–217][/us/pl/107/217], Aug. 21, 2002, [116 Stat. 1218][/us/stat/116/1218]; [Pub. L. 109–284, § 6(28)][/us/pl/109/284/s6/28], Sept. 27, 2006, [120 Stat. 1213][/us/stat/120/1213].)
+([Pub. L. 107–217][/us/pl/107/217], Aug. 21, 2002, [116 Stat. 1218][/us/stat/116/1218]; [Pub. L. 109–284][/us/pl/109/284], § 6(28), Sept. 27, 2006, [120 Stat. 1213][/us/stat/120/1213].)
 
 <table>
 
@@ -89,7 +89,7 @@ June 6, 1924, ch. 270, § 2(a)(2), as added July 19, 1952, ch. 949, § 1, 66
 [/us/usc/t40/s8721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs8721
 [/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1218
-[/us/pl/109/284/s6/28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F284%2Fs6%2F28
+[/us/pl/109/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F284
 [/us/stat/120/1213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1213
 [/us/pl/109/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F284
 

@@ -69,7 +69,7 @@ Pub. L. 90–264, title I, § 111(a) (1st, 2d sentences), as added Pub. L. 97�
 
  __References in Text__ 
 
-    Sections 101–110 of the National Visitors Center Facilities Act of 1968, referred to in text, are sections 101 to 110 of [Pub. L. 90–264, title I][/us/pl/90/264], Mar. 12, 1968, [82 Stat. 43–45][/us/stat/82/43-45], which were classified principally to part A (§ 801 et seq.) of subchapter I of chapter 18 of former Title 40, Public Buildings, Property, and Works, prior to repeal by [Pub. L. 107–217, § 6(b)][/us/pl/107/217/s6/b], Aug. 21, 2002, [116 Stat. 1304][/us/stat/116/1304]. Section 104 of the Act was classified as a note under section 804 of former Title 40 prior to repeal by [Pub. L. 107–217][/us/pl/107/217]. Section 108 of the Act was not classified to the Code.
+    Sections 101–110 of the National Visitors Center Facilities Act of 1968, referred to in text, are sections 101 to 110 of [Pub. L. 90–264, title I][/us/pl/90/264/tI], Mar. 12, 1968, [82 Stat. 43–45][/us/stat/82/43-45], which were classified principally to part A (§ 801 et seq.) of subchapter I of chapter 18 of former Title 40, Public Buildings, Property, and Works, prior to repeal by [Pub. L. 107–217][/us/pl/107/217], § 6(b), Aug. 21, 2002, [116 Stat. 1304][/us/stat/116/1304]. Section 104 of the Act was classified as a note under section 804 of former Title 40 prior to repeal by [Pub. L. 107–217][/us/pl/107/217]. Section 108 of the Act was not classified to the Code.
 
 ----------
 
@@ -82,9 +82,9 @@ Pub. L. 90–264, title I, § 111(a) (1st, 2d sentences), as added Pub. L. 97�
 [/us/stat/82/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F43
 [/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1201
-[/us/pl/90/264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F264
+[/us/pl/90/264/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F264%2FtI
 [/us/stat/82/43-45]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F43-45
-[/us/pl/107/217/s6/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs6%2Fb
+[/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1304
 [/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 

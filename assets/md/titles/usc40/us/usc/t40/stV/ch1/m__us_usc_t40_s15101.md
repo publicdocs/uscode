@@ -75,7 +75,7 @@
 
     The term “region” means the area covered by a Commission as described in subchapter II of chapter 157. <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably means chapter 4 of this subtitle. </sup></sup> 
 
-(Added [Pub. L. 110–234, title XIV, § 14217(a)(2)][/us/pl/110/234/s14217/a/2], May 22, 2008, [122 Stat. 1468][/us/stat/122/1468], and [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title XIV, § 14217(a)(2), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2230.)
+(Added [Pub. L. 110–234, title XIV][/us/pl/110/234/tXIV], § 14217(a)(2), May 22, 2008, [122 Stat. 1468][/us/stat/122/1468], and [Pub. L. 110–246][/us/pl/110/246], § 4(a), title XIV, § 14217(a)(2), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2230.)
 
  __References in Text__ 
 
@@ -91,7 +91,7 @@
 
     Enactment of this subtitle and repeal of [Pub. L. 110–234][/us/pl/110/234] by [Pub. L. 110–246][/us/pl/110/246] effective May 22, 2008, the date of enactment of [Pub. L. 110–234][/us/pl/110/234], except as otherwise provided, see [section 4 of Pub. L. 110–246][/us/pl/110/246/s4], set out as a note under [section 8701 of Title 7][/us/usc/t7/s8701], Agriculture.
 
-[Pub. L. 110–234, title XIV, § 14217(d)][/us/pl/110/234/s14217/d], May 22, 2008, [122 Stat. 1482][/us/stat/122/1482], and [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title XIV, § 14217(d), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2244, provided that: 
+[Pub. L. 110–234, title XIV][/us/pl/110/234/tXIV], § 14217(d), May 22, 2008, [122 Stat. 1482][/us/stat/122/1482], and [Pub. L. 110–246][/us/pl/110/246], § 4(a), title XIV, § 14217(d), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2244, provided that: 
 
 > “This section \[enacting this subtitle, redesignating former subtitle V as subtitle VI of this title, and amending section 11 of the Inspector General Act of 1978, [Pub. L. 95–452][/us/pl/95/452], set out in the Appendix to Title 5, Government Organization and Employees\], and the amendments made by this section, shall take effect on the first day of the first fiscal year beginning after the date of the enactment of this Act \[June 18, 2008\].”
 
@@ -105,9 +105,9 @@
 ----------
 
 [/us/usc/t25/s450b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450b
-[/us/pl/110/234/s14217/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs14217%2Fa%2F2
+[/us/pl/110/234/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtXIV
 [/us/stat/122/1468]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1468
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/usc/t26/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs501
@@ -120,9 +120,9 @@
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4
 [/us/usc/t7/s8701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8701
-[/us/pl/110/234/s14217/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs14217%2Fd
+[/us/pl/110/234/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtXIV
 [/us/stat/122/1482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1482
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/pl/95/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F452
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234

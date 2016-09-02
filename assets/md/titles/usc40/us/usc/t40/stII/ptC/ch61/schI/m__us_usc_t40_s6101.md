@@ -45,7 +45,7 @@
 
         (2) comprise any property under the custody and control of the Supreme Court as part of the Supreme Court grounds, including property acquired as provided by law on behalf of the Federal Government in lots 2, 3, 800, 801, and 802 in square 758 in the District of Columbia as an addition to the grounds of the Supreme Court Building and that parcel transferred under the Supreme Court Grounds Transfer Act of 2005.
 
-([Pub. L. 107–217][/us/pl/107/217], Aug. 21, 2002, [116 Stat. 1180][/us/stat/116/1180]; [Pub. L. 109–214, § 1(c)(2)][/us/pl/109/214/s1/c/2], Apr. 11, 2006, [120 Stat. 326][/us/stat/120/326].)
+([Pub. L. 107–217][/us/pl/107/217], Aug. 21, 2002, [116 Stat. 1180][/us/stat/116/1180]; [Pub. L. 109–214][/us/pl/109/214], § 1(c)(2), Apr. 11, 2006, [120 Stat. 326][/us/stat/120/326].)
 
 <table>
 
@@ -131,7 +131,7 @@ Aug. 18, 1949, ch. 479, § 11, 63 Stat. 617; Pub. L. 97–390, § 1(d), Dec.
 
  __Transfer of Jurisdiction Over Certain Real Property to the Supreme Court__ 
 
-[Pub. L. 109–214, § 1][/us/pl/109/214/s1], Apr. 11, 2006, [120 Stat. 326][/us/stat/120/326], provided that:
+[Pub. L. 109–214][/us/pl/109/214], § 1, Apr. 11, 2006, [120 Stat. 326][/us/stat/120/326], provided that:
 
 >     “(a)  __Short Title__  __.—__ 
 
@@ -181,7 +181,7 @@ Aug. 18, 1949, ch. 479, § 11, 63 Stat. 617; Pub. L. 97–390, § 1(d), Dec.
 
  __United States Supreme Court Building; Acquisition of Certain Real Property__ 
 
-[Pub. L. 96–532][/us/pl/96/532], Dec. 15, 1980, [94 Stat. 3130][/us/stat/94/3130], as amended by [Pub. L. 97–390, § 3][/us/pl/97/390/s3], Dec. 29, 1982, [96 Stat. 1958][/us/stat/96/1958], provided: 
+[Pub. L. 96–532][/us/pl/96/532], Dec. 15, 1980, [94 Stat. 3130][/us/stat/94/3130], as amended by [Pub. L. 97–390][/us/pl/97/390], § 3, Dec. 29, 1982, [96 Stat. 1958][/us/stat/96/1958], provided: 
 
 > “That the Architect of the Capitol is authorized to acquire on behalf of the United States by purchase, condemnation, transfer, or otherwise, as an addition to the grounds of the United States Supreme Court Building, all privately owned real property contained in lots 2, 3, 800, 801, and 802 in square 758 in the District of Columbia, as such lots appear on the records in the office of the Surveyor of the District of Columbia as of the date of the enactment of this Act \[Dec. 15, 1980\].
 
@@ -203,14 +203,14 @@ Aug. 18, 1949, ch. 479, § 11, 63 Stat. 617; Pub. L. 97–390, § 1(d), Dec.
 [/us/usc/t40/s6102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs6102
 [/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1180
-[/us/pl/109/214/s1/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F214%2Fs1%2Fc%2F2
+[/us/pl/109/214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F214
 [/us/stat/120/326]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F326
 [/us/pl/109/214/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F214%2Fs1
 [/us/stat/120/326]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F326
 [/us/pl/109/214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F214
 [/us/pl/109/214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F214
 [/us/pl/109/214/s1/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F214%2Fs1%2Fd
-[/us/pl/109/214/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F214%2Fs1
+[/us/pl/109/214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F214
 [/us/stat/120/326]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F326
 [/us/usc/t40/s5102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs5102
 [/us/pl/104/333]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F333
@@ -221,7 +221,7 @@ Aug. 18, 1949, ch. 479, § 11, 63 Stat. 617; Pub. L. 97–390, § 1(d), Dec.
 [/us/usc/t40/s5102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs5102
 [/us/pl/96/532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F532
 [/us/stat/94/3130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3130
-[/us/pl/97/390/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F390%2Fs3
+[/us/pl/97/390]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F390
 [/us/stat/96/1958]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1958
 [/us/pl/91/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F646
 [/us/usc/t42/s4601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4601

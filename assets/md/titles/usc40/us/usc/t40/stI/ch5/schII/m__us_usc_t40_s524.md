@@ -109,7 +109,7 @@ June 30, 1949, ch. 288, title II, § 202(c), 63 Stat. 384; July 12, 1952, ch. 
 
  __OMB Report__ 
 
-[Pub. L. 109–396, title IV, § 408][/us/pl/109/396/s408], Dec. 15, 2006, [120 Stat. 2720][/us/stat/120/2720], provided that:
+[Pub. L. 109–396, title IV][/us/pl/109/396/tIV], § 408, Dec. 15, 2006, [120 Stat. 2720][/us/stat/120/2720], provided that:
 
 >     “(a) __OMB__  __Report on Surplus and Excess Property__  __.—__ 
 
@@ -137,7 +137,7 @@ June 30, 1949, ch. 288, title II, § 202(c), 63 Stat. 384; July 12, 1952, ch. 
 [/us/usc/t40/s321/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs321%2Fc%2F2
 [/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1084]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1084
-[/us/pl/109/396/s408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F396%2Fs408
+[/us/pl/109/396/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F396%2FtIV
 [/us/stat/120/2720]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2720
 
 

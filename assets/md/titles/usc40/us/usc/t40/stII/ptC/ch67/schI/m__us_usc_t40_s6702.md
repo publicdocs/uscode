@@ -101,7 +101,7 @@
 
  __Amendment Not Shown in Text__ 
 
-    Subsection (c)(1) of this section was derived from section 313(d)(1) of title III of the Department of the Interior and Related Agencies Appropriations Act, 1996 (as enacted by [section 101(c) of Pub. L. 104–134][/us/pl/104/134/s101/c]), set out as a note under section 872 of the former Appendix to this title, which was amended by [Pub. L. 111–11, title VII, § 7116(k)(1)][/us/pl/111/11/s7116/k/1], Mar. 30, 2009, [123 Stat. 1203][/us/stat/123/1203]. For applicability of that amendment to this section, see [section 5(b)(3) of Pub. L. 107–217][/us/pl/107/217/s5/b/3], set out as a Legislative Purpose and Construction note preceding [section 101 of this title][/us/usc/t40/s101]. Section 313(d)(1) of the Department of the Interior and Related Agencies Appropriations Act, 1996, as enacted by [Pub. L. 104–134][/us/pl/104/134], was amended by substituting “map entitled ‘Pennsylvania Avenue National Historic Site’, dated August 25, 2008, and numbered 840–82441B” for “map entitled ‘Pennsylvania Avenue National Historic Park’, dated June 1, 1995, and numbered 840–82441”.
+    Subsection (c)(1) of this section was derived from section 313(d)(1) of title III of the Department of the Interior and Related Agencies Appropriations Act, 1996 (as enacted by [section 101(c) of Pub. L. 104–134][/us/pl/104/134/s101/c]), set out as a note under section 872 of the former Appendix to this title, which was amended by [Pub. L. 111–11, title VII][/us/pl/111/11/tVII], § 7116(k)(1), Mar. 30, 2009, [123 Stat. 1203][/us/stat/123/1203]. For applicability of that amendment to this section, see [section 5(b)(3) of Pub. L. 107–217][/us/pl/107/217/s5/b/3], set out as a Legislative Purpose and Construction note preceding [section 101 of this title][/us/usc/t40/s101]. Section 313(d)(1) of the Department of the Interior and Related Agencies Appropriations Act, 1996, as enacted by [Pub. L. 104–134][/us/pl/104/134], was amended by substituting “map entitled ‘Pennsylvania Avenue National Historic Site’, dated August 25, 2008, and numbered 840–82441B” for “map entitled ‘Pennsylvania Avenue National Historic Park’, dated June 1, 1995, and numbered 840–82441”.
 
 <table>
 
@@ -179,7 +179,7 @@ Pub. L. 104–134, title I, § 101(c) [title III, § 313(a)–(e)], Apr. 26,
 
  __Change of Name__ 
 
-[Pub. L. 111–11, title VII, § 7116(k)(2)][/us/pl/111/11/s7116/k/2], Mar. 30, 2009, [123 Stat. 1204][/us/stat/123/1204], provided that: 
+[Pub. L. 111–11, title VII][/us/pl/111/11/tVII], § 7116(k)(2), Mar. 30, 2009, [123 Stat. 1204][/us/stat/123/1204], provided that: 
 
 > “Any reference in a law, map, regulation, document, paper, or other record of the United States to the Pennsylvania Avenue National Historic Park shall be deemed to be a reference to the ‘Pennsylvania Avenue National Historic Site’.”
 
@@ -204,7 +204,7 @@ Pub. L. 104–134, title I, § 101(c) [title III, § 313(a)–(e)], Apr. 26,
 [/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1194
 [/us/pl/104/134/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs101%2Fc
-[/us/pl/111/11/s7116/k/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2Fs7116%2Fk%2F1
+[/us/pl/111/11/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2FtVII
 [/us/stat/123/1203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1203
 [/us/pl/107/217/s5/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs5%2Fb%2F3
 [/us/usc/t40/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs101
@@ -224,7 +224,7 @@ Pub. L. 104–134, title I, § 101(c) [title III, § 313(a)–(e)], Apr. 26,
 [/us/pl/91/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F646
 [/us/stat/84/1894]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1894
 [/us/usc/t42/s4601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4601
-[/us/pl/111/11/s7116/k/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2Fs7116%2Fk%2F2
+[/us/pl/111/11/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2FtVII
 [/us/stat/123/1204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1204
 
 

@@ -147,7 +147,7 @@ SUBCHAPTER III—FEDERAL TRIANGLE DEVELOPMENT  </td>
 
  __Amendments__ 
 
-    2006—[Pub. L. 109–284, § 6(20)][/us/pl/109/284/s6/20], Sept. 27, 2006, [120 Stat. 1213][/us/stat/120/1213], substituted “ASSIGNMENT” for “ASSIGMENT” in item for subchapter I.
+    2006—[Pub. L. 109–284][/us/pl/109/284], § 6(20), Sept. 27, 2006, [120 Stat. 1213][/us/stat/120/1213], substituted “ASSIGNMENT” for “ASSIGMENT” in item for subchapter I.
 
 ----------
 
@@ -156,7 +156,7 @@ SUBCHAPTER III—FEDERAL TRIANGLE DEVELOPMENT  </td>
 ----------
 ----------
 
-[/us/pl/109/284/s6/20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F284%2Fs6%2F20
+[/us/pl/109/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F284
 [/us/stat/120/1213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1213
 
 

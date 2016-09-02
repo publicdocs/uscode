@@ -63,7 +63,7 @@
 
     The Secretary of Transportation shall determine and enforce compliance with the terms, conditions, reservations, and restrictions contained in an instrument by which a transfer or conveyance under this section is made. The Secretary shall reform, correct, or amend the instrument if necessary to correct the instrument or to conform the transfer to the requirements of law. The Secretary shall grant a release from any term, condition, reservation or restriction contained in the instrument, and shall convey, quitclaim, or release to the grantee any right or interest reserved to the Government by the instrument, if the Secretary determines that the property no longer serves the purpose for which it was transferred or that a release, conveyance, or quitclaim deed will not prevent accomplishment of that purpose. The release, conveyance, or quitclaim deed may be made subject to terms and conditions that the Secretary considers necessary to protect or advance the interests of the Government.
 
-([Pub. L. 107–217][/us/pl/107/217], Aug. 21, 2002, [116 Stat. 1100][/us/stat/116/1100]; [Pub. L. 109–163, div. A, title X, § 1056(a)(5)(A)][/us/pl/109/163/s1056/a/5/A], Jan. 6, 2006, [119 Stat. 3439][/us/stat/119/3439]; [Pub. L. 109–284, § 6(4)][/us/pl/109/284/s6/4], Sept. 27, 2006, [120 Stat. 1212][/us/stat/120/1212].)
+([Pub. L. 107–217][/us/pl/107/217], Aug. 21, 2002, [116 Stat. 1100][/us/stat/116/1100]; [Pub. L. 109–163, div. A, title X][/us/pl/109/163/dA/tX], § 1056(a)(5)(A), Jan. 6, 2006, [119 Stat. 3439][/us/stat/119/3439]; [Pub. L. 109–284][/us/pl/109/284], § 6(4), Sept. 27, 2006, [120 Stat. 1212][/us/stat/120/1212].)
 
 <table>
 
@@ -136,9 +136,9 @@ June 30, 1949, ch. 288, title II, § 203(q), as added Pub. L. 103–160, div. 
 [/us/usc/t40/s545/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs545%2Fe
 [/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1100
-[/us/pl/109/163/s1056/a/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs1056%2Fa%2F5%2FA
+[/us/pl/109/163/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtX
 [/us/stat/119/3439]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3439
-[/us/pl/109/284/s6/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F284%2Fs6%2F4
+[/us/pl/109/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F284
 [/us/stat/120/1212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1212
 [/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
 [/us/usc/t10/s101/a/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101%2Fa%2F17

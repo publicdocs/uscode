@@ -63,7 +63,7 @@
 
     The Administrator of General Services shall operate, for executive agencies, warehouses, supply centers, repair shops, fuel yards, and other similar facilities. After consultation with the executive agencies affected, the Administrator of General Services shall consolidate, take over, or arrange for executive agencies to operate the facilities.
 
-([Pub. L. 107–217][/us/pl/107/217], Aug. 21, 2002, [116 Stat. 1079][/us/stat/116/1079]; [Pub. L. 111–350, § 5][/us/pl/111/350/s5](l)(6), Jan. 4, 2011, [124 Stat. 3851][/us/stat/124/3851].)
+([Pub. L. 107–217][/us/pl/107/217], Aug. 21, 2002, [116 Stat. 1079][/us/stat/116/1079]; [Pub. L. 111–350][/us/pl/111/350], § 5(l)(6), Jan. 4, 2011, [124 Stat. 3851][/us/stat/124/3851].)
 
 <table>
 
@@ -170,7 +170,7 @@ June 30, 1949, ch. 288, title II, § 201(a), 63 Stat. 383; Pub. L. 93–400, �
 
 [/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1079]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1079
-[/us/pl/111/350/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs5
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3851]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3851
 [/us/stat/63/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F591
 [/us/pl/98/191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F191

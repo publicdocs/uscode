@@ -163,7 +163,7 @@
 
     An individual may not be denied the right to vote or otherwise participate in any manner in any election in the District of Columbia solely because the individual resides in the National Capital Service Area.
 
-([Pub. L. 107–217][/us/pl/107/217], Aug. 21, 2002, [116 Stat. 1211][/us/stat/116/1211]; [Pub. L. 109–284, § 6(24)][/us/pl/109/284/s6/24], Sept. 27, 2006, [120 Stat. 1213][/us/stat/120/1213].)
+([Pub. L. 107–217][/us/pl/107/217], Aug. 21, 2002, [116 Stat. 1211][/us/stat/116/1211]; [Pub. L. 109–284][/us/pl/109/284], § 6(24), Sept. 27, 2006, [120 Stat. 1213][/us/stat/120/1213].)
 
 <table>
 
@@ -303,7 +303,7 @@ Pub. L. 93–198, title VII, § 739(a), (f), (h)–(j), Dec. 24, 1973, 87 Stat
 [/us/usc/t31/s1537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1537
 [/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1211
-[/us/pl/109/284/s6/24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F284%2Fs6%2F24
+[/us/pl/109/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F284
 [/us/stat/120/1213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1213
 [/us/usc/t31/s1537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1537
 [/us/act/1982-09-13/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1982-09-13%2Fs4%2Fb

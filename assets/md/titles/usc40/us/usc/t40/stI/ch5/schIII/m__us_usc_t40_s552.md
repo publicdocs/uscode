@@ -27,7 +27,7 @@
 
         (2) if the property has been used or transferred, equal to the fair value of the property as of the time title vested in the Government less costs incident to care and handling as determined by the Administrator.
 
-([Pub. L. 107–217][/us/pl/107/217], Aug. 21, 2002, [116 Stat. 1099][/us/stat/116/1099]; [Pub. L. 109–284, § 6(3)][/us/pl/109/284/s6/3], Sept. 27, 2006, [120 Stat. 1212][/us/stat/120/1212].)
+([Pub. L. 107–217][/us/pl/107/217], Aug. 21, 2002, [116 Stat. 1099][/us/stat/116/1099]; [Pub. L. 109–284][/us/pl/109/284], § 6(3), Sept. 27, 2006, [120 Stat. 1212][/us/stat/120/1212].)
 
 <table>
 
@@ -88,7 +88,7 @@ June 30, 1949, ch. 288, title II, § 203(m), formerly § 203(l), 63 Stat. 38
 
 [/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1099]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1099
-[/us/pl/109/284/s6/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F284%2Fs6%2F3
+[/us/pl/109/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F284
 [/us/stat/120/1212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1212
 [/us/pl/109/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F284
 

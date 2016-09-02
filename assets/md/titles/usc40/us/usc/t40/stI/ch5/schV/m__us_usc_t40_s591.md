@@ -89,7 +89,7 @@ Pub. L. 100–202, § 101(b) [title VIII, § 8093], Dec. 22, 1987, 101 Stat.
 
  __References in Text__ 
 
-    [Section 2394 of title 10][/us/usc/t10/s2394], referred to in subsec. (b)(2)(A), was renumbered section 2922a of such title by [Pub. L. 109–364, div. B, title XXVIII, § 2851(b)(2)][/us/pl/109/364/s2851/b/2], Oct. 17, 2006, [120 Stat. 2494][/us/stat/120/2494].
+    [Section 2394 of title 10][/us/usc/t10/s2394], referred to in subsec. (b)(2)(A), was renumbered section 2922a of such title by [Pub. L. 109–364, div. B, title XXVIII][/us/pl/109/364/dB/tXXVIII], § 2851(b)(2), Oct. 17, 2006, [120 Stat. 2494][/us/stat/120/2494].
 
 ----------
 
@@ -104,7 +104,7 @@ Pub. L. 100–202, § 101(b) [title VIII, § 8093], Dec. 22, 1987, 101 Stat.
 [/us/usc/t42/s8287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8287
 [/us/usc/t42/s8287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8287
 [/us/usc/t10/s2394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2394
-[/us/pl/109/364/s2851/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs2851%2Fb%2F2
+[/us/pl/109/364/dB/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdB%2FtXXVIII
 [/us/stat/120/2494]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2494
 
 

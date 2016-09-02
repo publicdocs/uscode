@@ -79,7 +79,7 @@ June 30, 1949, ch. 288, title II, § 202(a)(1) (1st sentence), 63 Stat. 384; J
 
  __Opportunity for the Government of Guam To Acquire Excess Real Property in Guam__ 
 
-[Pub. L. 106–504, § 1][/us/pl/106/504/s1], Nov. 13, 2000, [114 Stat. 2309][/us/stat/114/2309], as amended by [Pub. L. 109–163, div. A, title X, § 1056(a)(6)][/us/pl/109/163/s1056/a/6], Jan. 6, 2006, [119 Stat. 3439][/us/stat/119/3439], provided that:
+[Pub. L. 106–504][/us/pl/106/504], § 1, Nov. 13, 2000, [114 Stat. 2309][/us/stat/114/2309], as amended by [Pub. L. 109–163, div. A, title X][/us/pl/109/163/dA/tX], § 1056(a)(6), Jan. 6, 2006, [119 Stat. 3439][/us/stat/119/3439], provided that:
 
 >     “(a)  __Transfer of Excess Real Property__  __.—__ 
 
@@ -160,9 +160,9 @@ June 30, 1949, ch. 288, title II, § 202(a)(1) (1st sentence), 63 Stat. 384; J
 [/us/usc/t40/s321/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs321%2Fc%2F2
 [/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1083]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1083
-[/us/pl/106/504/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F504%2Fs1
+[/us/pl/106/504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F504
 [/us/stat/114/2309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2309
-[/us/pl/109/163/s1056/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs1056%2Fa%2F6
+[/us/pl/109/163/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtX
 [/us/stat/119/3439]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3439
 [/us/usc/t40/s521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs521
 [/us/usc/t40/s471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs471

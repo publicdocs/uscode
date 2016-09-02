@@ -69,7 +69,7 @@
 
     The National Capital Planning Commission may charge fees to cover the full cost of Geographic Information System products and services the Commission supplies. The fees shall be credited to the applicable appropriation account as an offsetting collection and remain available until expended.
 
-([Pub. L. 107–217][/us/pl/107/217], Aug. 21, 2002, [116 Stat. 1217][/us/stat/116/1217]; [Pub. L. 109–284, § 6(27)][/us/pl/109/284/s6/27], Sept. 27, 2006, [120 Stat. 1213][/us/stat/120/1213]; [Pub. L. 111–350, § 5][/us/pl/111/350/s5](l)(23), Jan. 4, 2011, [124 Stat. 3852][/us/stat/124/3852].)
+([Pub. L. 107–217][/us/pl/107/217], Aug. 21, 2002, [116 Stat. 1217][/us/stat/116/1217]; [Pub. L. 109–284][/us/pl/109/284], § 6(27), Sept. 27, 2006, [120 Stat. 1213][/us/stat/120/1213]; [Pub. L. 111–350][/us/pl/111/350], § 5(l)(23), Jan. 4, 2011, [124 Stat. 3852][/us/stat/124/3852].)
 
 <table>
 
@@ -231,7 +231,7 @@ In subsection (g), the words “Said Commission shall report to Congress annuall
 
     Act of March 2, 1893, referred to in subsec. (f), is [act Mar. 2, 1893, ch. 197][/us/act/1893-03-02/ch197], [27 Stat. 532][/us/stat/27/532], as amended, which is not classified to the Code.
 
-    Act of June 6, 1924, referred to in subsec. (f), is [act June 6, 1924, ch. 270][/us/act/1924-06-06/ch270], [43 Stat. 463][/us/stat/43/463], as amended, which enacted sections 71 to 71i, 72, 73, and 74 of former Title 40, Public Buildings, Property, and Works. Sections 71, 71a, 71c, 71d, 71f to 71i, 72, 73, and 74 of former Title 40 were repealed and reenacted as sections 8701, 8702, 8711, 8721 to 8724, 8731, and 8737 of this title by [Pub. L. 107–217][/us/pl/107/217], §§ 1, 6(b), Aug. 21, 2002, [116 Stat. 1062][/us/stat/116/1062], 1304. Section 71b of former Title 40 was repealed by [Pub. L. 107–217][/us/pl/107/217]. Section 71e of former Title 40 was repealed by [Pub. L. 93–198, title II, § 203(e)][/us/pl/93/198/s203/e], Dec. 24, 1973, [87 Stat. 782][/us/stat/87/782]. For complete classification of this Act to the Code, see Tables.
+    Act of June 6, 1924, referred to in subsec. (f), is [act June 6, 1924, ch. 270][/us/act/1924-06-06/ch270], [43 Stat. 463][/us/stat/43/463], as amended, which enacted sections 71 to 71i, 72, 73, and 74 of former Title 40, Public Buildings, Property, and Works. Sections 71, 71a, 71c, 71d, 71f to 71i, 72, 73, and 74 of former Title 40 were repealed and reenacted as sections 8701, 8702, 8711, 8721 to 8724, 8731, and 8737 of this title by [Pub. L. 107–217][/us/pl/107/217], §§ 1, 6(b), Aug. 21, 2002, [116 Stat. 1062][/us/stat/116/1062], 1304. Section 71b of former Title 40 was repealed by [Pub. L. 107–217][/us/pl/107/217]. Section 71e of former Title 40 was repealed by [Pub. L. 93–198, title II][/us/pl/93/198/tII], § 203(e), Dec. 24, 1973, [87 Stat. 782][/us/stat/87/782]. For complete classification of this Act to the Code, see Tables.
 
  __Amendments__ 
 
@@ -247,33 +247,33 @@ In subsection (g), the words “Said Commission shall report to Congress annuall
 
  __Compensation of Appointed Commission Members__ 
 
-[Pub. L. 108–108, title II][/us/pl/108/108], Nov. 10, 2003, [117 Stat. 1301][/us/stat/117/1301], provided in part: 
+[Pub. L. 108–108, title II][/us/pl/108/108/tII], Nov. 10, 2003, [117 Stat. 1301][/us/stat/117/1301], provided in part: 
 
 > “That for fiscal year 2004 and thereafter, all appointed members of the Commission will be compensated at a rate not to exceed the daily equivalent of the annual rate of pay for positions at level IV of the Executive Schedule for each day such member is engaged in the actual performance of duties.”
 
 Similar provisions were contained in the following prior appropriation acts:
 
-    [Pub. L. 108–7, div. F, title II][/us/pl/108/7], Feb. 20, 2003, [117 Stat. 269][/us/stat/117/269].
+    [Pub. L. 108–7, div. F, title II][/us/pl/108/7/dF/tII], Feb. 20, 2003, [117 Stat. 269][/us/stat/117/269].
 
-    [Pub. L. 107–63, title II][/us/pl/107/63], Nov. 5, 2001, [115 Stat. 464][/us/stat/115/464].
+    [Pub. L. 107–63, title II][/us/pl/107/63/tII], Nov. 5, 2001, [115 Stat. 464][/us/stat/115/464].
 
-    [Pub. L. 106–291, title II][/us/pl/106/291], Oct. 11, 2000, [114 Stat. 986][/us/stat/114/986].
+    [Pub. L. 106–291, title II][/us/pl/106/291/tII], Oct. 11, 2000, [114 Stat. 986][/us/stat/114/986].
 
-    [Pub. L. 106–113, div. B, § 1000(a)(3)][/us/pl/106/113/s1000/a/3], \[title II\], Nov. 29, 1999, [113 Stat. 1535][/us/stat/113/1535], 1501A–189.
+    [Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(3), \[title II\], Nov. 29, 1999, [113 Stat. 1535][/us/stat/113/1535], 1501A–189.
 
-    [Pub. L. 105–277, div. A, § 101(e)][/us/pl/105/277/s101/e] \[title II\], Oct. 21, 1998, [112 Stat. 2681–231][/us/stat/112/2681-231], 2681–285.
+    [Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(e) \[title II\], Oct. 21, 1998, [112 Stat. 2681–231][/us/stat/112/2681-231], 2681–285.
 
-    [Pub. L. 105–83, title II][/us/pl/105/83], Nov. 14, 1997, [111 Stat. 1589][/us/stat/111/1589].
+    [Pub. L. 105–83, title II][/us/pl/105/83/tII], Nov. 14, 1997, [111 Stat. 1589][/us/stat/111/1589].
 
-    [Pub. L. 104–208, div. A, title I, § 101(d)][/us/pl/104/208/s101/d] \[title II\], Sept. 30, 1996, [110 Stat. 3009–181][/us/stat/110/3009-181], 3009–219.
+    [Pub. L. 104–208, div. A, title I][/us/pl/104/208/dA/tI], § 101(d) \[title II\], Sept. 30, 1996, [110 Stat. 3009–181][/us/stat/110/3009-181], 3009–219.
 
-    [Pub. L. 104–134, title I, § 101(c)][/us/pl/104/134/s101/c] \[title II\], Apr. 26, 1996, [110 Stat. 1321–195][/us/stat/110/1321-195]; renumbered title I, [Pub. L. 104–140, § 1(a)][/us/pl/104/140/s1/a], May 2, 1996, [110 Stat. 1327][/us/stat/110/1327].
+    [Pub. L. 104–134, title I][/us/pl/104/134/tI], § 101(c) \[title II\], Apr. 26, 1996, [110 Stat. 1321–195][/us/stat/110/1321-195]; renumbered title I, [Pub. L. 104–140][/us/pl/104/140], § 1(a), May 2, 1996, [110 Stat. 1327][/us/stat/110/1327].
 
-    [Pub. L. 103–332, title II][/us/pl/103/332], Sept. 30, 1994, [108 Stat. 2535][/us/stat/108/2535].
+    [Pub. L. 103–332, title II][/us/pl/103/332/tII], Sept. 30, 1994, [108 Stat. 2535][/us/stat/108/2535].
 
-    [Pub. L. 103–138, title II][/us/pl/103/138], Nov. 11, 1993, [107 Stat. 1414][/us/stat/107/1414].
+    [Pub. L. 103–138, title II][/us/pl/103/138/tII], Nov. 11, 1993, [107 Stat. 1414][/us/stat/107/1414].
 
-    [Pub. L. 102–381, title II][/us/pl/102/381], Oct. 5, 1992, [106 Stat. 1414][/us/stat/106/1414].
+    [Pub. L. 102–381, title II][/us/pl/102/381/tII], Oct. 5, 1992, [106 Stat. 1414][/us/stat/106/1414].
 
 ----------
 
@@ -286,9 +286,9 @@ Similar provisions were contained in the following prior appropriation acts:
 [/us/stat/43/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F43%2F463
 [/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1217
-[/us/pl/109/284/s6/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F284%2Fs6%2F27
+[/us/pl/109/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F284
 [/us/stat/120/1213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1213
-[/us/pl/111/350/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs5
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3852
 [/us/stat/81/951]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F951
 [/us/pl/93/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F198
@@ -314,37 +314,37 @@ Similar provisions were contained in the following prior appropriation acts:
 [/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1062]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1062
 [/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
-[/us/pl/93/198/s203/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F198%2Fs203%2Fe
+[/us/pl/93/198/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F198%2FtII
 [/us/stat/87/782]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F782
 [/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/usc/t41/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs5
 [/us/usc/t41/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs5
 [/us/pl/109/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F284
-[/us/pl/108/108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F108
+[/us/pl/108/108/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F108%2FtII
 [/us/stat/117/1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1301
-[/us/pl/108/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7
+[/us/pl/108/7/dF/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2FdF%2FtII
 [/us/stat/117/269]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F269
-[/us/pl/107/63]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F63
+[/us/pl/107/63/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F63%2FtII
 [/us/stat/115/464]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F464
-[/us/pl/106/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F291
+[/us/pl/106/291/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F291%2FtII
 [/us/stat/114/986]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F986
-[/us/pl/106/113/s1000/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F3
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1535
-[/us/pl/105/277/s101/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fe
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
 [/us/stat/112/2681-231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-231
-[/us/pl/105/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F83
+[/us/pl/105/83/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F83%2FtII
 [/us/stat/111/1589]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1589
-[/us/pl/104/208/s101/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Fd
+[/us/pl/104/208/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtI
 [/us/stat/110/3009-181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-181
-[/us/pl/104/134/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs101%2Fc
+[/us/pl/104/134/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2FtI
 [/us/stat/110/1321-195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1321-195
-[/us/pl/104/140/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F140%2Fs1%2Fa
+[/us/pl/104/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F140
 [/us/stat/110/1327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1327
-[/us/pl/103/332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F332
+[/us/pl/103/332/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F332%2FtII
 [/us/stat/108/2535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2535
-[/us/pl/103/138]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F138
+[/us/pl/103/138/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F138%2FtII
 [/us/stat/107/1414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1414
-[/us/pl/102/381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F381
+[/us/pl/102/381/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F381%2FtII
 [/us/stat/106/1414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1414
 
 

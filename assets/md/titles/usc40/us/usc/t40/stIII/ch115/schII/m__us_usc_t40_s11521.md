@@ -13,7 +13,7 @@
 
 [Previous](./../../../../../..//us/usc/t40/stIII/ch115/schII/m__us_usc_t40_stIII_ch115_schII.md) | [Next](./../../../../../..//us/usc/t40/stIII/ch115/schII/m__us_usc_t40_s11522.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs11521)
 
-## \[§ 11521. Repealed. [Pub. L. 107–347, title II, § 210(h)(1)][/us/pl/107/347/s210/h/1], Dec. 17, 2002, [116 Stat. 2938][/us/stat/116/2938]\]
+## \[§ 11521. Repealed. [Pub. L. 107–347, title II][/us/pl/107/347/tII], § 210(h)(1), Dec. 17, 2002, [116 Stat. 2938][/us/stat/116/2938]\]
 
     Section, [Pub. L. 107–217][/us/pl/107/217], Aug. 21, 2002, [116 Stat. 1247][/us/stat/116/1247], related to the share-in-savings pilot program.
 
@@ -28,7 +28,7 @@
 ----------
 ----------
 
-[/us/pl/107/347/s210/h/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F347%2Fs210%2Fh%2F1
+[/us/pl/107/347/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F347%2FtII
 [/us/stat/116/2938]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2938
 [/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1247]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1247

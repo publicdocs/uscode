@@ -89,7 +89,7 @@
 
     No member, alternate, officer, or employee of a Commission (other than the Federal Cochairperson, the alternate Federal Cochairperson, staff of the Federal Cochairperson, and any Federal employee detailed to the Commission) shall be considered to be a Federal employee for any purpose.
 
-(Added [Pub. L. 110–234, title XIV, § 14217(a)(2)][/us/pl/110/234/s14217/a/2], May 22, 2008, [122 Stat. 1469][/us/stat/122/1469], and [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title XIV, § 14217(a)(2), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2231.)
+(Added [Pub. L. 110–234, title XIV][/us/pl/110/234/tXIV], § 14217(a)(2), May 22, 2008, [122 Stat. 1469][/us/stat/122/1469], and [Pub. L. 110–246][/us/pl/110/246], § 4(a), title XIV, § 14217(a)(2), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2231.)
 
  __Codification__ 
 
@@ -109,9 +109,9 @@
 [/us/usc/t5/s5314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5314
 [/us/usc/t5/s5316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5316
 [/us/usc/t5/s5382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5382
-[/us/pl/110/234/s14217/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs14217%2Fa%2F2
+[/us/pl/110/234/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtXIV
 [/us/stat/122/1469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1469
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246

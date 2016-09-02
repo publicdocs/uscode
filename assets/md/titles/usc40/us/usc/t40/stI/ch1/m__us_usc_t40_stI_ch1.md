@@ -139,7 +139,7 @@ SUBCHAPTER III—ADMINISTRATIVE AND GENERAL  </td>
 
  __Amendments__ 
 
-    2011—[Pub. L. 111–350, § 5][/us/pl/111/350/s5](l)(1), Jan. 4, 2011, [124 Stat. 3850][/us/stat/124/3850], substituted “division C (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41” for “Federal Property and Administrative Services Act of 1949” in item 111.
+    2011—[Pub. L. 111–350][/us/pl/111/350], § 5(l)(1), Jan. 4, 2011, [124 Stat. 3850][/us/stat/124/3850], substituted “division C (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41” for “Federal Property and Administrative Services Act of 1949” in item 111.
 
 ----------
 
@@ -148,7 +148,7 @@ SUBCHAPTER III—ADMINISTRATIVE AND GENERAL  </td>
 ----------
 ----------
 
-[/us/pl/111/350/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs5
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3850]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3850
 
 

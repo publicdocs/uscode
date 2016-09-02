@@ -33,7 +33,7 @@
 
     If the Administrator takes over motor vehicles or related equipment or supplies under [section 602 of this title][/us/usc/t40/s602] but reimbursement is not required under subsection (a), the value of the property taken over, as determined by the Administrator, may be added to the capital of the Acquisition Services Fund. If the Administrator subsequently returns property of a similar kind under [section 610 of this title][/us/usc/t40/s610], the value of the property may be deducted from the Fund.
 
-([Pub. L. 107–217][/us/pl/107/217], Aug. 21, 2002, [116 Stat. 1122][/us/stat/116/1122]; [Pub. L. 109–313, § 3(h)(5)][/us/pl/109/313/s3/h/5], Oct. 6, 2006, [120 Stat. 1736][/us/stat/120/1736].)
+([Pub. L. 107–217][/us/pl/107/217], Aug. 21, 2002, [116 Stat. 1122][/us/stat/116/1122]; [Pub. L. 109–313][/us/pl/109/313], § 3(h)(5), Oct. 6, 2006, [120 Stat. 1736][/us/stat/120/1736].)
 
 <table>
 
@@ -116,7 +116,7 @@ June 30, 1949, ch. 288, title II, § 211(g), (h), as added Sept. 5, 1950, ch. 
 [/us/usc/t40/s610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs610
 [/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1122
-[/us/pl/109/313/s3/h/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F313%2Fs3%2Fh%2F5
+[/us/pl/109/313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F313
 [/us/stat/120/1736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1736
 [/us/pl/109/313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F313
 [/us/pl/109/313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F313

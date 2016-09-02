@@ -71,13 +71,13 @@ June 30, 1949, ch. 288, title I, § 101(a), 63 Stat. 379.  </td>
 
  __5-Year Plans for Federal Building Construction and Land Port-of-Entry Projects__ 
 
-[Pub. L. 111–117, div. C, title V][/us/pl/111/117], Dec. 16, 2009, [123 Stat. 3188][/us/stat/123/3188], provided in part: 
+[Pub. L. 111–117, div. C, title V][/us/pl/111/117/dC/tV], Dec. 16, 2009, [123 Stat. 3188][/us/stat/123/3188], provided in part: 
 
 > “That for fiscal year 2011 and thereafter, the annual budget submission to Congress for the General Services Administration shall include a detailed 5-year plan for Federal building construction projects with a yearly update of total projected future funding needs: Provided further, That for fiscal year 2011 and thereafter, the annual budget submission to Congress for the General Services Administration shall, in consultation with U.S. Customs and Border Protection, include a detailed 5-year plan for Federal land port-of-entry projects with a yearly update of total projected future funding needs”.
 
     Similar provisions were contained in the following prior appropriation act:
 
-    [Pub. L. 111–8, div. D, title V][/us/pl/111/8], Mar. 11, 2009, [123 Stat. 660][/us/stat/123/660].
+    [Pub. L. 111–8, div. D, title V][/us/pl/111/8/dD/tV], Mar. 11, 2009, [123 Stat. 660][/us/stat/123/660].
 
  __REORGANIZATION PLAN NO. 18 OF 1950__  __Eff.__  __July 1, 1950__  __, 15 F.R. 3177,__  __[__  __64 Stat. 1270__  __][/us/stat/64/1270]__ 
 
@@ -129,7 +129,7 @@ June 30, 1949, ch. 288, title I, § 101(a), 63 Stat. 379.  </td>
 
     The provisions of this reorganization plan shall take effect on the 1st day of July 1950.
 
-    \[The Post Office Department has been redesignated the United States Postal Service pursuant to [Pub. L. 91–375, § 6][/us/pl/91/375/s6](o), Aug. 12, 1970, [84 Stat. 783][/us/stat/84/783], set out as a note preceding [section 101 of Title 39][/us/usc/t39/s101], Postal Service.\]
+    \[The Post Office Department has been redesignated the United States Postal Service pursuant to [Pub. L. 91–375][/us/pl/91/375], § 6(o), Aug. 12, 1970, [84 Stat. 783][/us/stat/84/783], set out as a note preceding [section 101 of Title 39][/us/usc/t39/s101], Postal Service.\]
 
  __Message of the President__ 
 
@@ -217,15 +217,15 @@ June 30, 1949, ch. 288, title I, § 101(a), 63 Stat. 379.  </td>
 [/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1071]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1071
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
-[/us/pl/111/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F117
+[/us/pl/111/117/dC/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F117%2FdC%2FtV
 [/us/stat/123/3188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F3188
-[/us/pl/111/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F8
+[/us/pl/111/8/dD/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F8%2FdD%2FtV
 [/us/stat/123/660]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F660
 [/us/stat/64/1270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1270
 [/us/usc/t5/s901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs901
 [/us/pl/100/418/s5115/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs5115%2Fc
 [/us/usc/t15/s271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs271
-[/us/pl/91/375/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F375%2Fs6
+[/us/pl/91/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F375
 [/us/stat/84/783]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F783
 [/us/usc/t39/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft39%2Fs101
 [/us/usc/t5/s5701–570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5701%E2%80%93570

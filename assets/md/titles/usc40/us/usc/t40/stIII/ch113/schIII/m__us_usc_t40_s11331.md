@@ -61,7 +61,7 @@
 
         A decision by the Director to significantly modify, or not promulgate, a proposed standard submitted to the Director by the National Institute of Standards and Technology, as provided under section 20 of the National Institute of Standards and Technology Act ([15 U.S.C. 278g–3][/us/usc/t15/s278g–3]), shall be made after the public is given an opportunity to comment on the Director’s proposed decision.
 
-([Pub. L. 107–217][/us/pl/107/217], Aug. 21, 2002, [116 Stat. 1243][/us/stat/116/1243]; [Pub. L. 107–296, title X, § 1002(a)][/us/pl/107/296/s1002/a], Nov. 25, 2002, [116 Stat. 2268][/us/stat/116/2268]; [Pub. L. 107–347, title III, § 302(a)][/us/pl/107/347/s302/a], Dec. 17, 2002, [116 Stat. 2956][/us/stat/116/2956].)
+([Pub. L. 107–217][/us/pl/107/217], Aug. 21, 2002, [116 Stat. 1243][/us/stat/116/1243]; [Pub. L. 107–296, title X][/us/pl/107/296/tX], § 1002(a), Nov. 25, 2002, [116 Stat. 2268][/us/stat/116/2268]; [Pub. L. 107–347, title III][/us/pl/107/347/tIII], § 302(a), Dec. 17, 2002, [116 Stat. 2956][/us/stat/116/2956].)
 
 <table>
 
@@ -111,7 +111,7 @@ Pub. L. 104–106, div. E, title LI, § 5131(a)–(d), Feb. 10, 1996, 110 Stat
 
  __References in Text__ 
 
-    Sections 3532 and 3533 of title 44, referred to in subsecs. (a), (b)(2), and (c)(2), were repealed by [Pub. L. 113–283, § 2(a)][/us/pl/113/283/s2/a], Dec. 18, 2014, [128 Stat. 3073][/us/stat/128/3073]. Provisions similar to sections 3532 and 3533 of title 44 are now contained in sections 3552 and 3553, respectively, of title 44, as enacted by [Pub. L. 113–283][/us/pl/113/283].
+    Sections 3532 and 3533 of title 44, referred to in subsecs. (a), (b)(2), and (c)(2), were repealed by [Pub. L. 113–283][/us/pl/113/283], § 2(a), Dec. 18, 2014, [128 Stat. 3073][/us/stat/128/3073]. Provisions similar to sections 3532 and 3533 of title 44 are now contained in sections 3552 and 3553, respectively, of title 44, as enacted by [Pub. L. 113–283][/us/pl/113/283].
 
  __Amendments__ 
 
@@ -202,11 +202,11 @@ Pub. L. 104–106, div. E, title LI, § 5131(a)–(d), Feb. 10, 1996, 110 Stat
 [/us/usc/t15/s278g–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs278g%E2%80%933
 [/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1243]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1243
-[/us/pl/107/296/s1002/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1002%2Fa
+[/us/pl/107/296/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtX
 [/us/stat/116/2268]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2268
-[/us/pl/107/347/s302/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F347%2Fs302%2Fa
+[/us/pl/107/347/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F347%2FtIII
 [/us/stat/116/2956]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2956
-[/us/pl/113/283/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F283%2Fs2%2Fa
+[/us/pl/113/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F283
 [/us/stat/128/3073]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3073
 [/us/pl/113/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F283
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296

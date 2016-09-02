@@ -45,7 +45,7 @@
 
     Notwithstanding any provision of law limiting the federal share under any other federal program, amounts made available to carry out this section may be used to increase that federal share, as the Commission decides is appropriate.
 
-([Pub. L. 107–217][/us/pl/107/217], Aug. 21, 2002, [116 Stat. 1270][/us/stat/116/1270]; [Pub. L. 110–371, § 2(d)][/us/pl/110/371/s2/d], Oct. 8, 2008, [122 Stat. 4039][/us/stat/122/4039].)
+([Pub. L. 107–217][/us/pl/107/217], Aug. 21, 2002, [116 Stat. 1270][/us/stat/116/1270]; [Pub. L. 110–371][/us/pl/110/371], § 2(d), Oct. 8, 2008, [122 Stat. 4039][/us/stat/122/4039].)
 
 <table>
 
@@ -148,7 +148,7 @@ Pub. L. 89–4, title II, § 203, as added Pub. L. 107–149, § 5, Mar. 12,
 
 [/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1270
-[/us/pl/110/371/s2/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F371%2Fs2%2Fd
+[/us/pl/110/371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F371
 [/us/stat/122/4039]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4039
 [/us/pl/110/371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F371
 [/us/usc/t40/s14526]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs14526

@@ -17,7 +17,7 @@
 
     This subtitle, except sections 14102(a)(1) and (b) and 14501, ceases to be in effect on October 1, 2020.
 
-([Pub. L. 107–217][/us/pl/107/217], Aug. 21, 2002, [116 Stat. 1278][/us/stat/116/1278]; [Pub. L. 109–289, div. B, title II, § 20326][/us/pl/109/289/s20326], as added [Pub. L. 110–5, § 2][/us/pl/110/5/s2], Feb. 15, 2007, [121 Stat. 22][/us/stat/121/22]; [Pub. L. 110–371, § 6][/us/pl/110/371/s6], Oct. 8, 2008, [122 Stat. 4042][/us/stat/122/4042]; [Pub. L. 114–94, div. A, title I, § 1436(c)][/us/pl/114/94/s1436/c], Dec. 4, 2015, [129 Stat. 1431][/us/stat/129/1431].)
+([Pub. L. 107–217][/us/pl/107/217], Aug. 21, 2002, [116 Stat. 1278][/us/stat/116/1278]; [Pub. L. 109–289, div. B, title II][/us/pl/109/289/dB/tII], § 20326, as added [Pub. L. 110–5][/us/pl/110/5], § 2, Feb. 15, 2007, [121 Stat. 22][/us/stat/121/22]; [Pub. L. 110–371][/us/pl/110/371], § 6, Oct. 8, 2008, [122 Stat. 4042][/us/stat/122/4042]; [Pub. L. 114–94, div. A, title I][/us/pl/114/94/dA/tI], § 1436(c), Dec. 4, 2015, [129 Stat. 1431][/us/stat/129/1431].)
 
 <table>
 
@@ -71,7 +71,7 @@ Pub. L. 89–4, title IV, § 405, Mar. 9, 1965, 79 Stat. 23; Pub. L. 91–123,
 
     2008—[Pub. L. 110–371][/us/pl/110/371] substituted “2012” for “2007”.
 
-    2007—[Pub. L. 109–289, § 20326][/us/pl/109/289/s20326], as added by [Pub. L. 110–5][/us/pl/110/5], substituted “October 1, 2007” for “October 1, 2006”.
+    2007—[Pub. L. 109–289][/us/pl/109/289], § 20326, as added by [Pub. L. 110–5][/us/pl/110/5], substituted “October 1, 2007” for “October 1, 2006”.
 
  __Effective Date of 2015 Amendment__ 
 
@@ -86,16 +86,16 @@ Pub. L. 89–4, title IV, § 405, Mar. 9, 1965, 79 Stat. 23; Pub. L. 91–123,
 
 [/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1278]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1278
-[/us/pl/109/289/s20326]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F289%2Fs20326
-[/us/pl/110/5/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F5%2Fs2
+[/us/pl/109/289/dB/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F289%2FdB%2FtII
+[/us/pl/110/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F5
 [/us/stat/121/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F22
-[/us/pl/110/371/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F371%2Fs6
+[/us/pl/110/371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F371
 [/us/stat/122/4042]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4042
-[/us/pl/114/94/s1436/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1436%2Fc
+[/us/pl/114/94/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtI
 [/us/stat/129/1431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1431
 [/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/110/371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F371
-[/us/pl/109/289/s20326]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F289%2Fs20326
+[/us/pl/109/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F289
 [/us/pl/110/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F5
 [/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/114/94/s1436/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1436%2Fd

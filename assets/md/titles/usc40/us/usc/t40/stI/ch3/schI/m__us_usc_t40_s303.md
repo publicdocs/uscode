@@ -27,7 +27,7 @@
 
     The Administrator may appoint Regional Executives in the Federal Acquisition Service, to carry out such functions within the Federal Acquisition Service as the Administrator considers appropriate.
 
-([Pub. L. 107–217][/us/pl/107/217], Aug. 21, 2002, [116 Stat. 1072][/us/stat/116/1072]; [Pub. L. 109–313, § 2(a)(1)][/us/pl/109/313/s2/a/1], Oct. 6, 2006, [120 Stat. 1734][/us/stat/120/1734].)
+([Pub. L. 107–217][/us/pl/107/217], Aug. 21, 2002, [116 Stat. 1072][/us/stat/116/1072]; [Pub. L. 109–313][/us/pl/109/313], § 2(a)(1), Oct. 6, 2006, [120 Stat. 1734][/us/stat/120/1734].)
 
 <table>
 
@@ -139,7 +139,7 @@ In subsection (b), the text of 40:753(a) (related to Public Roads) is omitted be
 
  __Change of Name__ 
 
-[Pub. L. 109–313, § 2(c)][/us/pl/109/313/s2/c], Oct. 6, 2006, [120 Stat. 1735][/us/stat/120/1735], provided that: 
+[Pub. L. 109–313][/us/pl/109/313], § 2(c), Oct. 6, 2006, [120 Stat. 1735][/us/stat/120/1735], provided that: 
 
 > “Any reference in any other Federal law, Executive order, rule, regulation, reorganization plan, or delegation of authority, or in any document—
 
@@ -169,14 +169,14 @@ In subsection (b), the text of 40:753(a) (related to Public Roads) is omitted be
 [/us/usc/t40/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs321
 [/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1072]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1072
-[/us/pl/109/313/s2/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F313%2Fs2%2Fa%2F1
+[/us/pl/109/313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F313
 [/us/stat/120/1734]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1734
 [/us/stat/63/1070]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F1070
 [/us/pl/89/670]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F670
 [/us/stat/80/931]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F931
 [/us/pl/109/313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F313
 [/us/stat/63/380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F380
-[/us/pl/109/313/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F313%2Fs2%2Fc
+[/us/pl/109/313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F313
 [/us/stat/120/1735]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1735
 [/us/pl/109/313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F313
 [/us/pl/109/313/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F313%2Fs6

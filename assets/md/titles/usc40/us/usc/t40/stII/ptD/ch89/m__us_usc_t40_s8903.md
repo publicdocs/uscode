@@ -51,7 +51,7 @@
 
         If these two conditions have been met, the Secretary or the Administrator (as appropriate) may extend the seven-year legislative authority for a period not to exceed three additional years. Upon expiration of the legislative authority, any previous site and design approvals shall also expire.
 
-([Pub. L. 107–217][/us/pl/107/217], Aug. 21, 2002, [116 Stat. 1228][/us/stat/116/1228]; [Pub. L. 108–126, title II, § 203(c)][/us/pl/108/126/s203/c], Nov. 17, 2003, [117 Stat. 1350][/us/stat/117/1350]; [Pub. L. 111–11, title VII, § 7116(e)(1)][/us/pl/111/11/s7116/e/1], Mar. 30, 2009, [123 Stat. 1203][/us/stat/123/1203].)
+([Pub. L. 107–217][/us/pl/107/217], Aug. 21, 2002, [116 Stat. 1228][/us/stat/116/1228]; [Pub. L. 108–126, title II][/us/pl/108/126/tII], § 203(c), Nov. 17, 2003, [117 Stat. 1350][/us/stat/117/1350]; [Pub. L. 111–11, title VII][/us/pl/111/11/tVII], § 7116(e)(1), Mar. 30, 2009, [123 Stat. 1203][/us/stat/123/1203].)
 
 <table>
 
@@ -165,11 +165,11 @@ Pub. L. 99–652, § 10(b), Nov. 14, 1986, 100 Stat. 3654; Pub. L. 102–216, 
 
     2009—Subsec. (d). [Pub. L. 111–11][/us/pl/111/11], which directed insertion of “Natural” before “Resources”, was executed by making the insertion before “Resources of the House”, to reflect the probable intent of Congress.
 
-    2003—Subsec. (b). [Pub. L. 108–126, § 203(c)(1)][/us/pl/108/126/s203/c/1], substituted “work solely commemorating a limited military engagement” for “work commemorating a lesser conflict” and “such war or conflict” for “the event”.
+    2003—Subsec. (b). [Pub. L. 108–126][/us/pl/108/126], § 203(c)(1), substituted “work solely commemorating a limited military engagement” for “work commemorating a lesser conflict” and “such war or conflict” for “the event”.
 
-    Subsec. (d). [Pub. L. 108–126, § 203(c)(2)][/us/pl/108/126/s203/c/2], substituted “Memorial Advisory Commission” for “Memorial Commission” in heading, and in text substituted “Resources” for “House Administration” and inserted “Advisory” before “Commission”.
+    Subsec. (d). [Pub. L. 108–126][/us/pl/108/126], § 203(c)(2), substituted “Memorial Advisory Commission” for “Memorial Commission” in heading, and in text substituted “Resources” for “House Administration” and inserted “Advisory” before “Commission”.
 
-    Subsec. (e). [Pub. L. 108–126, § 203(c)(3)][/us/pl/108/126/s203/c/3], added subsec. (e) and struck out heading and text of former subsec. (e). Text read as follows: “Legislative authority for a commemorative work expires at the end of the seven–year period beginning on the date the authority is enacted unless the Secretary of the Interior or Administrator of General Services, as appropriate, has issued a construction permit for the commemorative work during that period.”
+    Subsec. (e). [Pub. L. 108–126][/us/pl/108/126], § 203(c)(3), added subsec. (e) and struck out heading and text of former subsec. (e). Text read as follows: “Legislative authority for a commemorative work expires at the end of the seven–year period beginning on the date the authority is enacted unless the Secretary of the Interior or Administrator of General Services, as appropriate, has issued a construction permit for the commemorative work during that period.”
 
  __Effective Date of 2003 Amendment__ 
 
@@ -435,14 +435,14 @@ World War II Memorial Prayer Plaque.—Pub. L. 113–123, June 30, 2014, 128 Sta
 [/us/usc/t40/s8901/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs8901%2F4
 [/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1228
-[/us/pl/108/126/s203/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F126%2Fs203%2Fc
+[/us/pl/108/126/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F126%2FtII
 [/us/stat/117/1350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1350
-[/us/pl/111/11/s7116/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2Fs7116%2Fe%2F1
+[/us/pl/111/11/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2FtVII
 [/us/stat/123/1203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1203
 [/us/pl/111/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11
-[/us/pl/108/126/s203/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F126%2Fs203%2Fc%2F1
-[/us/pl/108/126/s203/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F126%2Fs203%2Fc%2F2
-[/us/pl/108/126/s203/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F126%2Fs203%2Fc%2F3
+[/us/pl/108/126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F126
+[/us/pl/108/126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F126
+[/us/pl/108/126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F126
 [/us/pl/108/126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F126
 [/us/pl/108/126/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F126%2Fs205
 [/us/usc/t40/s8901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs8901

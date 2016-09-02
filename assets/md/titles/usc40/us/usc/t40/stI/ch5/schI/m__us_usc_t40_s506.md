@@ -55,7 +55,7 @@
 
     The Comptroller General shall audit all types of property accounts and transactions. Audits shall be conducted at the time and in the manner the Comptroller General decides and as far as practicable at the place where the property or records of the executive agencies are kept. Audits shall include an evaluation of the effectiveness of internal controls and audits, and a general audit of the discharge of accountability for Government-owned or controlled property, based on generally accepted principles of auditing.
 
-([Pub. L. 107–217][/us/pl/107/217], Aug. 21, 2002, [116 Stat. 1082][/us/stat/116/1082]; [Pub. L. 111–350, § 5][/us/pl/111/350/s5](l)(9), Jan. 4, 2011, [124 Stat. 3852][/us/stat/124/3852].)
+([Pub. L. 107–217][/us/pl/107/217], Aug. 21, 2002, [116 Stat. 1082][/us/stat/116/1082]; [Pub. L. 111–350][/us/pl/111/350], § 5(l)(9), Jan. 4, 2011, [124 Stat. 3852][/us/stat/124/3852].)
 
 <table>
 
@@ -124,7 +124,7 @@ In subsection (a)(1)(B), the words “from time to time” are omitted as unnece
 
 [/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1082]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1082
-[/us/pl/111/350/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs5
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3852
 [/us/stat/84/2085]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F2085
 [/us/act/1982-09-13/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1982-09-13%2Fs5%2Fb

@@ -27,7 +27,7 @@
 
     The Administrator and the United States Postal Service shall make building project surveys requested by resolution by the Committee on Environment and Public Works of the Senate or the Committee on Transportation and Infrastructure of the House of Representatives, and within a reasonable time shall make a report on the survey to Congress. The report shall contain all other information required to be included in a prospectus of the proposed public building project under [section 3307(b) of this title][/us/usc/t40/s3307/b].
 
-([Pub. L. 107–217][/us/pl/107/217], Aug. 21, 2002, [116 Stat. 1166][/us/stat/116/1166], § 3314; renumbered § 3315, [Pub. L. 110–140, title III, § 323(c)(1)(A)][/us/pl/110/140/s323/c/1/A], Dec. 19, 2007, [121 Stat. 1590][/us/stat/121/1590].)
+([Pub. L. 107–217][/us/pl/107/217], Aug. 21, 2002, [116 Stat. 1166][/us/stat/116/1166], § 3314; renumbered § 3315, [Pub. L. 110–140, title III][/us/pl/110/140/tIII], § 323(c)(1)(A), Dec. 19, 2007, [121 Stat. 1590][/us/stat/121/1590].)
 
 <table>
 
@@ -113,7 +113,7 @@ In subsection (b), the words “United States Postal Service” are substituted 
 [/us/usc/t40/s3307/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs3307%2Fb
 [/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1166
-[/us/pl/110/140/s323/c/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs323%2Fc%2F1%2FA
+[/us/pl/110/140/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2FtIII
 [/us/stat/121/1590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1590
 [/us/pl/86/249]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F249
 [/us/stat/73/481]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F481

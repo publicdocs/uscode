@@ -27,7 +27,7 @@
 
     If during the commission of a violation described in subsection (a), public property is damaged in an amount exceeding $100, the period of imprisonment for the offense may be not more than five years.
 
-([Pub. L. 107–217][/us/pl/107/217], Aug. 21, 2002, [116 Stat. 1183][/us/stat/116/1183]; [Pub. L. 108–356, § 2][/us/pl/108/356/s2], Oct. 21, 2004, [118 Stat. 1416][/us/stat/118/1416].)
+([Pub. L. 107–217][/us/pl/107/217], Aug. 21, 2002, [116 Stat. 1183][/us/stat/116/1183]; [Pub. L. 108–356][/us/pl/108/356], § 2, Oct. 21, 2004, [118 Stat. 1416][/us/stat/118/1416].)
 
 <table>
 
@@ -93,7 +93,7 @@ Aug. 18, 1949, ch. 479, § 8, 63 Stat. 617.  </td>
 [/us/usc/t40/s6102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs6102
 [/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1183
-[/us/pl/108/356/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F356%2Fs2
+[/us/pl/108/356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F356
 [/us/stat/118/1416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1416
 [/us/pl/88/60]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F60
 [/us/stat/77/77]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F77

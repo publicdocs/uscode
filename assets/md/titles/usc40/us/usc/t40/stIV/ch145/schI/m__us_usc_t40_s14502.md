@@ -137,7 +137,7 @@
 
     To provide for the further development of the Appalachian region’s human resources, grants under this section shall give special emphasis to programs and research for the early detection, diagnosis, and treatment of occupational diseases arising from coal mining, such as black lung.
 
-([Pub. L. 107–217][/us/pl/107/217], Aug. 21, 2002, [116 Stat. 1266][/us/stat/116/1266]; [Pub. L. 110–371, § 2(b)][/us/pl/110/371/s2/b], Oct. 8, 2008, [122 Stat. 4038][/us/stat/122/4038].)
+([Pub. L. 107–217][/us/pl/107/217], Aug. 21, 2002, [116 Stat. 1266][/us/stat/116/1266]; [Pub. L. 110–371][/us/pl/110/371], § 2(b), Oct. 8, 2008, [122 Stat. 4038][/us/stat/122/4038].)
 
 <table>
 
@@ -341,11 +341,11 @@ Pub. L. 89–4, title II, § 202(f), as added Pub. L. 105–393, title II, §�
 
  __Amendments__ 
 
-    2008—Subsec. (d)(2). [Pub. L. 110–371, § 2(b)(1)][/us/pl/110/371/s2/b/1], added par. (2) and struck out heading and text of former par. (2). Text read as follows: “Grants under this section for the operation (including initial operating amounts and operating deficits, which include the cost of attracting, training, and retaining qualified personnel) of a demonstration health project, whether or not constructed with amounts authorized by this section, may be made for up to 50 percent of the cost of that operation (or 80 percent of the cost of that operation for a project to be carried out in a county for which a distressed county designation is in effect under [section 14526 of this title][/us/usc/t40/s14526]).”
+    2008—Subsec. (d)(2). [Pub. L. 110–371][/us/pl/110/371], § 2(b)(1), added par. (2) and struck out heading and text of former par. (2). Text read as follows: “Grants under this section for the operation (including initial operating amounts and operating deficits, which include the cost of attracting, training, and retaining qualified personnel) of a demonstration health project, whether or not constructed with amounts authorized by this section, may be made for up to 50 percent of the cost of that operation (or 80 percent of the cost of that operation for a project to be carried out in a county for which a distressed county designation is in effect under [section 14526 of this title][/us/usc/t40/s14526]).”
 
-    Subsec. (f)(1). [Pub. L. 110–371, § 2(b)(2)(A)][/us/pl/110/371/s2/b/2/A], substituted “paragraphs (2) and (3)” for “paragraph (2)”.
+    Subsec. (f)(1). [Pub. L. 110–371][/us/pl/110/371], § 2(b)(2)(A), substituted “paragraphs (2) and (3)” for “paragraph (2)”.
 
-    Subsec. (f)(3). [Pub. L. 110–371, § 2(b)(2)(B)][/us/pl/110/371/s2/b/2/B], added par. (3).
+    Subsec. (f)(3). [Pub. L. 110–371][/us/pl/110/371], § 2(b)(2)(B), added par. (3).
 
  __Termination of Advisory Committee__ 
 
@@ -367,7 +367,7 @@ Pub. L. 89–4, title II, § 202(f), as added Pub. L. 105–393, title II, §�
 [/us/usc/t40/s14526]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs14526
 [/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1266]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1266
-[/us/pl/110/371/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F371%2Fs2%2Fb
+[/us/pl/110/371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F371
 [/us/stat/122/4038]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4038
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
 [/us/stat/58/682]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F58%2F682
@@ -378,10 +378,10 @@ Pub. L. 89–4, title II, § 202(f), as added Pub. L. 105–393, title II, §�
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F620
 [/us/usc/t42/s1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1305
-[/us/pl/110/371/s2/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F371%2Fs2%2Fb%2F1
+[/us/pl/110/371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F371
 [/us/usc/t40/s14526]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs14526
-[/us/pl/110/371/s2/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F371%2Fs2%2Fb%2F2%2FA
-[/us/pl/110/371/s2/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F371%2Fs2%2Fb%2F2%2FB
+[/us/pl/110/371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F371
+[/us/pl/110/371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F371
 [/us/pl/92/463/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463%2Fs14
 [/us/stat/86/776]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F776
 

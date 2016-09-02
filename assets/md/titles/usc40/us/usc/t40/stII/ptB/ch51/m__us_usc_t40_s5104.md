@@ -123,7 +123,7 @@
 
         (2) display in the Grounds a flag, banner, or device designed or adapted to bring into public notice a party, organization, or movement.
 
-([Pub. L. 107–217][/us/pl/107/217], Aug. 21, 2002, [116 Stat. 1176][/us/stat/116/1176]; [Pub. L. 110–161, div. H, title I, § 1004(d)(2)(A)(iii)][/us/pl/110/161/s1004/d/2/A/iii], Dec. 26, 2007, [121 Stat. 2234][/us/stat/121/2234]; [Pub. L. 110–178, § 4(b)(1)(C)][/us/pl/110/178/s4/b/1/C], Jan. 7, 2008, [121 Stat. 2552][/us/stat/121/2552]; [Pub. L. 111–145, § 6(d)(1)][/us/pl/111/145/s6/d/1], Mar. 4, 2010, [124 Stat. 54][/us/stat/124/54].)
+([Pub. L. 107–217][/us/pl/107/217], Aug. 21, 2002, [116 Stat. 1176][/us/stat/116/1176]; [Pub. L. 110–161, div. H, title I][/us/pl/110/161/dH/tI], § 1004(d)(2)(A)(iii), Dec. 26, 2007, [121 Stat. 2234][/us/stat/121/2234]; [Pub. L. 110–178][/us/pl/110/178], § 4(b)(1)(C), Jan. 7, 2008, [121 Stat. 2552][/us/stat/121/2552]; [Pub. L. 111–145][/us/pl/111/145], § 6(d)(1), Mar. 4, 2010, [124 Stat. 54][/us/stat/124/54].)
 
 <table>
 
@@ -263,11 +263,11 @@ For information regarding constitutionality of section 7 of act July 31, 1946, c
 
  __Amendments__ 
 
-    2010—Subsec. (e)(2)(C). [Pub. L. 111–145][/us/pl/111/145] repealed [Pub. L. 110–161, § 1004(d)(2)(A)(iii)][/us/pl/110/161/s1004/d/2/A/iii]. See 2007 Amendment note below.
+    2010—Subsec. (e)(2)(C). [Pub. L. 111–145][/us/pl/111/145] repealed [Pub. L. 110–161][/us/pl/110/161], § 1004(d)(2)(A)(iii). See 2007 Amendment note below.
 
     2008—Subsec. (e)(2)(C). [Pub. L. 110–178][/us/pl/110/178] added subpar. (C) and struck out former subpar. (C) which read as follows: “with the intent to disrupt the orderly conduct of official business, enter or remain in a room in any of the Capitol Buildings set aside or designated for the use of either House of Congress or a Member, committee, officer, or employee of Congress or either House of Congress;”.
 
-    2007—Subsec. (e)(2)(C). [Pub. L. 110–161, § 1004(d)(2)(A)(iii)][/us/pl/110/161/s1004/d/2/A/iii], which made an amendment identical to that made by [Pub. L. 110–178][/us/pl/110/178], was repealed by [Pub. L. 111–145][/us/pl/111/145]. See Effective Date of 2010 Amendment note below.
+    2007—Subsec. (e)(2)(C). [Pub. L. 110–161][/us/pl/110/161], § 1004(d)(2)(A)(iii), which made an amendment identical to that made by [Pub. L. 110–178][/us/pl/110/178], was repealed by [Pub. L. 111–145][/us/pl/111/145]. See Effective Date of 2010 Amendment note below.
 
  __Effective Date of 2010 Amendment__ 
 
@@ -279,7 +279,7 @@ For information regarding constitutionality of section 7 of act July 31, 1946, c
 
  __Effective Date of 2007 Amendment__ 
 
-    Amendment by [Pub. L. 110–161][/us/pl/110/161] effective Oct. 1, 2009, see [section 1004(d)(4) of title I of div. H of Pub. L. 110–161][/us/pl/110/161/s1004/d/4], set out as an Effective Date of Repeal note under [section 167 of Title 2][/us/usc/t2/s167], The Congress.
+    Amendment by [Pub. L. 110–161][/us/pl/110/161] effective Oct. 1, 2009, see [section 1004(d)(4) of title I of div. H of Pub. L. 110–161][/us/pl/110/161/dH/tI/s1004/d/4], set out as an Effective Date of Repeal note under [section 167 of Title 2][/us/usc/t2/s167], The Congress.
 
 ----------
 
@@ -294,11 +294,11 @@ For information regarding constitutionality of section 7 of act July 31, 1946, c
 [/us/usc/t40/s5106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs5106
 [/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1176
-[/us/pl/110/161/s1004/d/2/A/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2Fs1004%2Fd%2F2%2FA%2Fiii
+[/us/pl/110/161/dH/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2FdH%2FtI
 [/us/stat/121/2234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2234
-[/us/pl/110/178/s4/b/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F178%2Fs4%2Fb%2F1%2FC
+[/us/pl/110/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F178
 [/us/stat/121/2552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2552
-[/us/pl/111/145/s6/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F145%2Fs6%2Fd%2F1
+[/us/pl/111/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F145
 [/us/stat/124/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F54
 [/us/usc/t18/s841/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs841%2Fd
 [/us/usc/t50/s121/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs121%2F1
@@ -311,9 +311,9 @@ For information regarding constitutionality of section 7 of act July 31, 1946, c
 [/us/act/1932-07-08/ch465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1932-07-08%2Fch465
 [/us/stat/47/650]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F47%2F650
 [/us/pl/111/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F145
-[/us/pl/110/161/s1004/d/2/A/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2Fs1004%2Fd%2F2%2FA%2Fiii
+[/us/pl/110/161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161
 [/us/pl/110/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F178
-[/us/pl/110/161/s1004/d/2/A/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2Fs1004%2Fd%2F2%2FA%2Fiii
+[/us/pl/110/161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161
 [/us/pl/110/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F178
 [/us/pl/111/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F145
 [/us/pl/110/161/s1004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2Fs1004
@@ -327,7 +327,7 @@ For information regarding constitutionality of section 7 of act July 31, 1946, c
 [/us/pl/110/178/s4/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F178%2Fs4%2Fd
 [/us/usc/t2/s167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs167
 [/us/pl/110/161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161
-[/us/pl/110/161/s1004/d/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2Fs1004%2Fd%2F4
+[/us/pl/110/161/dH/tI/s1004/d/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2FdH%2FtI%2Fs1004%2Fd%2F4
 [/us/usc/t2/s167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs167
 
 

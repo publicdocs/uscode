@@ -15,7 +15,7 @@
 
 ## § 581. General authority of Administrator of General Services
 
-    \[(a) Repealed. [Pub. L. 107–296, title XVII, § 1706(a)(1)][/us/pl/107/296/s1706/a/1], Nov. 25, 2002, [116 Stat. 2316][/us/stat/116/2316].\]
+    \[(a) Repealed. [Pub. L. 107–296, title XVII][/us/pl/107/296/tXVII], § 1706(a)(1), Nov. 25, 2002, [116 Stat. 2316][/us/stat/116/2316].\]
 
     (b)  __Personnel and Equipment__  __.—__ 
 
@@ -137,7 +137,7 @@
 
         The Administrator may furnish utilities, maintenance, repair, and other services to a person, firm, or organization leasing space pursuant to paragraph (1) or (2). The services may be provided during and outside of regular working hours of federal agencies.
 
-([Pub. L. 107–217][/us/pl/107/217], Aug. 21, 2002, [116 Stat. 1108][/us/stat/116/1108]; [Pub. L. 107–296, title XVII, § 1706(a)][/us/pl/107/296/s1706/a], Nov. 25, 2002, [116 Stat. 2316][/us/stat/116/2316]; [Pub. L. 109–284, § 6(5)][/us/pl/109/284/s6/5], Sept. 27, 2006, [120 Stat. 1212][/us/stat/120/1212].)
+([Pub. L. 107–217][/us/pl/107/217], Aug. 21, 2002, [116 Stat. 1108][/us/stat/116/1108]; [Pub. L. 107–296, title XVII][/us/pl/107/296/tXVII], § 1706(a), Nov. 25, 2002, [116 Stat. 2316][/us/stat/116/2316]; [Pub. L. 109–284][/us/pl/109/284], § 6(5), Sept. 27, 2006, [120 Stat. 1212][/us/stat/120/1212].)
 
 <table>
 
@@ -189,13 +189,13 @@ In this section, 40:490(a)(7) is omitted as obsolete because the pneumatic tube 
 
     In subsection (c)(3) and (4), the words “without regard to the provisions of [section 278a of this title][/us/usc/t40/s278a]” and “which on June 30, 1950, was specifically exempted by law from the requirements of said section” (in 40:490(a)(5)), and the words “without regard to the 25 per centum limitation of [section 278a of this title][/us/usc/t40/s278a]” and “without reference to such limitation” (in 40:490(a)(8)), respectively, are omitted as obsolete because 40:278a was repealed by section 7 of the Public Buildings Amendments of 1988 ([Public Law 100–678][/us/pl/100/678], 40:278a).
 
-In subsection (c)(5), the words “Defense Industrial Reserve” are substituted for “National Industrial Reserve” because the National Industrial Reserve Act was renamed the Defense Industrial Reserve Act by section 809 of the Department of Defense Appropriation Authorization Act, 1974 ([Public Law 93–155][/us/pl/93/155], [87 Stat. 617][/us/stat/87/617]), and transferred to 10:2535 by section 4235 of the Defense Conversion, Reinvestment and Transition Assistance Act of 1992, which was included as Division D in the National Defense Authorization Act for Fiscal Year 1993 ([Public Law 102–484, title XLII][/us/pl/102/484], [106 Stat. 2690][/us/stat/106/2690]).
+In subsection (c)(5), the words “Defense Industrial Reserve” are substituted for “National Industrial Reserve” because the National Industrial Reserve Act was renamed the Defense Industrial Reserve Act by section 809 of the Department of Defense Appropriation Authorization Act, 1974 ([Public Law 93–155][/us/pl/93/155], [87 Stat. 617][/us/stat/87/617]), and transferred to 10:2535 by section 4235 of the Defense Conversion, Reinvestment and Transition Assistance Act of 1992, which was included as Division D in the National Defense Authorization Act for Fiscal Year 1993 ([Public Law 102–484, title XLII][/us/pl/102/484/tXLII], [106 Stat. 2690][/us/stat/106/2690]).
 
     In subsection (d)(3), the words “Federal Buildings Fund” are substituted for “Buildings Management Fund” because the fund established under 40:490(f)(1) is the Federal Buildings Fund and unexpended balances in the Buildings Management Fund were merged into the Federal Buildings Fund under 40:490(f)(3).
 
     In subsection (e), before clause (1), the words “[section 501 of title 36][/us/usc/t36/s501]” are substituted for “the Act of August 6, 1965, 70 Stat 1049” in section 210(a)(15) of the Federal Property and Administrative Services Act of 1949 because of [section 5(b) of the Act of August 12, 1998][/us/act/1998-08-12/s5/b] ([Public Law 105–225][/us/pl/105/225], [112 Stat. 1499][/us/stat/112/1499]), the first section of which enacted Title 36, United States Code. In clause (1), the words “chapters 33 and 51 and subchapter III of chapter 53 of title 5” are substituted for “the civil service and classification laws” because of [section 7(b) of the Act of September 6, 1966][/us/act/1966-09-06/s7/b] ([Public Law 89–554][/us/pl/89/554], [80 Stat. 631][/us/stat/80/631]), the first section of which enacted Title 5, United States Code.
 
-In subsection (f)(1)(A), the words “Defense Industrial Reserve pursuant to [section 2535 of title 10][/us/usc/t10/s2535]” are substituted for “National Industrial Reserve pursuant to the National Industrial Reserve Act of 1948 \[[50 U.S.C. 451][/us/usc/t50/s451] et seq.\]” because the National Industrial Reserve Act was renamed the Defense Industrial Reserve Act by section 809 of the Department of Defense Appropriation Authorization Act, 1974 ([Public Law 93–155][/us/pl/93/155], [87 Stat. 617][/us/stat/87/617]), and transferred to 10:2535 by section 4235 of the Defense Conversion, Reinvestment and Transition Assistance Act of 1992, which was included as Division D in the National Defense Authorization Act for Fiscal Year 1993 ([Public Law 102–484, title XLII][/us/pl/102/484], [106 Stat. 2690][/us/stat/106/2690]).
+In subsection (f)(1)(A), the words “Defense Industrial Reserve pursuant to [section 2535 of title 10][/us/usc/t10/s2535]” are substituted for “National Industrial Reserve pursuant to the National Industrial Reserve Act of 1948 \[[50 U.S.C. 451][/us/usc/t50/s451] et seq.\]” because the National Industrial Reserve Act was renamed the Defense Industrial Reserve Act by section 809 of the Department of Defense Appropriation Authorization Act, 1974 ([Public Law 93–155][/us/pl/93/155], [87 Stat. 617][/us/stat/87/617]), and transferred to 10:2535 by section 4235 of the Defense Conversion, Reinvestment and Transition Assistance Act of 1992, which was included as Division D in the National Defense Authorization Act for Fiscal Year 1993 ([Public Law 102–484, title XLII][/us/pl/102/484/tXLII], [106 Stat. 2690][/us/stat/106/2690]).
 
     In subsection (g)(1), the words “mixed-ownership Government corporation” are substituted for “mixed-ownership corporation” for consistency with chapter 91 of title 31. The words “chapter 91 of title 31” are substituted for “the Government Corporation Control Act” in section 210(a)(6) of the Federal Property and Administrative Services Act of 1949 because of [section 4(b) of the Act of September 13, 1982][/us/act/1982-09-13/s4/b] ([Public Law 97–258][/us/pl/97/258], [96 Stat. 1067][/us/stat/96/1067]), the first section of which enacted Title 31, United States Code.
 
@@ -203,9 +203,9 @@ In subsection (f)(1)(A), the words “Defense Industrial Reserve pursuant to [se
 
     2006—Subsec. (b). [Pub. L. 109–284][/us/pl/109/284] substituted “The Administrator of General Services may—” for “The Administrator may—” in introductory provisions.
 
-    2002—Subsec. (a). [Pub. L. 107–296, § 1706(a)(1)][/us/pl/107/296/s1706/a/1], struck out subsec. (a) which read as follows: “Applicability.—To the extent that the Administrator of General Services by law, other than this section, may maintain, operate, and protect buildings or property, including the construction, repair, preservation, demolition, furnishing, or equipping of buildings or property, the Administrator, in the discharge of these duties, may exercise authority granted under this section.”
+    2002—Subsec. (a). [Pub. L. 107–296][/us/pl/107/296], § 1706(a)(1), struck out subsec. (a) which read as follows: “Applicability.—To the extent that the Administrator of General Services by law, other than this section, may maintain, operate, and protect buildings or property, including the construction, repair, preservation, demolition, furnishing, or equipping of buildings or property, the Administrator, in the discharge of these duties, may exercise authority granted under this section.”
 
-    Subsec. (b). [Pub. L. 107–296, § 1706(a)(2)][/us/pl/107/296/s1706/a/2], in par. (1), inserted “and” at end, in par. (2), substituted a period for “; and” at end, and struck out par. (3) which read as follows: “furnish arms and ammunition for the protection force the Administration maintains.”
+    Subsec. (b). [Pub. L. 107–296][/us/pl/107/296], § 1706(a)(2), in par. (1), inserted “and” at end, in par. (2), substituted a period for “; and” at end, and struck out par. (3) which read as follows: “furnish arms and ammunition for the protection force the Administration maintains.”
 
  __Effective Date of 2002 Amendment__ 
 
@@ -286,7 +286,7 @@ In subsection (f)(1)(A), the words “Defense Industrial Reserve pursuant to [se
 ----------
 ----------
 
-[/us/pl/107/296/s1706/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1706%2Fa%2F1
+[/us/pl/107/296/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtXVII
 [/us/stat/116/2316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2316
 [/us/usc/t40/s545]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs545
 [/us/usc/t36/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft36%2Fs501
@@ -295,16 +295,16 @@ In subsection (f)(1)(A), the words “Defense Industrial Reserve pursuant to [se
 [/us/usc/t40/s3306/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs3306%2Fa
 [/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1108
-[/us/pl/107/296/s1706/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1706%2Fa
+[/us/pl/107/296/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtXVII
 [/us/stat/116/2316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2316
-[/us/pl/109/284/s6/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F284%2Fs6%2F5
+[/us/pl/109/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F284
 [/us/stat/120/1212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1212
 [/us/usc/t40/s278a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs278a
 [/us/usc/t40/s278a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs278a
 [/us/pl/100/678]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F678
 [/us/pl/93/155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F155
 [/us/stat/87/617]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F617
-[/us/pl/102/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484
+[/us/pl/102/484/tXLII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FtXLII
 [/us/stat/106/2690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2690
 [/us/usc/t36/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft36%2Fs501
 [/us/act/1998-08-12/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1998-08-12%2Fs5%2Fb
@@ -317,14 +317,14 @@ In subsection (f)(1)(A), the words “Defense Industrial Reserve pursuant to [se
 [/us/usc/t50/s451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs451
 [/us/pl/93/155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F155
 [/us/stat/87/617]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F617
-[/us/pl/102/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484
+[/us/pl/102/484/tXLII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FtXLII
 [/us/stat/106/2690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2690
 [/us/act/1982-09-13/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1982-09-13%2Fs4%2Fb
 [/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1067]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1067
 [/us/pl/109/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F284
-[/us/pl/107/296/s1706/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1706%2Fa%2F1
-[/us/pl/107/296/s1706/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1706%2Fa%2F2
+[/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
+[/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/pl/107/296/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs4
 [/us/usc/t6/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs101

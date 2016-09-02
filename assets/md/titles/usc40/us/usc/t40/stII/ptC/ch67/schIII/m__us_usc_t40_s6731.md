@@ -93,11 +93,11 @@ Pub. L. 100–113, § 10, Aug. 21, 1987, 101 Stat. 747.  </td>
 
  __References in Text__ 
 
-    Section 3(b) of the Federal Triangle Development Act, referred to in par. (2)(B), was classified to section 1102(b) of former Title 40, Public Buildings, Property, and Works, prior to repeal by [Pub. L. 107–217, § 6(b)][/us/pl/107/217/s6/b], Aug. 21, 2002, [116 Stat. 1304][/us/stat/116/1304].
+    Section 3(b) of the Federal Triangle Development Act, referred to in par. (2)(B), was classified to section 1102(b) of former Title 40, Public Buildings, Property, and Works, prior to repeal by [Pub. L. 107–217][/us/pl/107/217], § 6(b), Aug. 21, 2002, [116 Stat. 1304][/us/stat/116/1304].
 
  __Designation of Daniel Patrick Moynihan Place__ 
 
-    [Pub. L. 106–567, title III, § 310][/us/pl/106/567/s310], Dec. 27, 2000, [114 Stat. 2841][/us/stat/114/2841], designated as “Daniel Patrick Moynihan Place” a parcel of land located in Woodrow Wilson Plaza in the northwest quadrant of Washington, District of Columbia, directed the Administrator of General Services to erect appropriate gateways or other markers to denote that place, and provided that any reference in a law, map, regulation, document, paper, or other record of the United States to that parcel of land was to be deemed to be a reference to Daniel Patrick Moynihan Place.
+    [Pub. L. 106–567, title III][/us/pl/106/567/tIII], § 310, Dec. 27, 2000, [114 Stat. 2841][/us/stat/114/2841], designated as “Daniel Patrick Moynihan Place” a parcel of land located in Woodrow Wilson Plaza in the northwest quadrant of Washington, District of Columbia, directed the Administrator of General Services to erect appropriate gateways or other markers to denote that place, and provided that any reference in a law, map, regulation, document, paper, or other record of the United States to that parcel of land was to be deemed to be a reference to Daniel Patrick Moynihan Place.
 
  __Designation of Woodrow Wilson Plaza__ 
 
@@ -107,7 +107,7 @@ Pub. L. 100–113, § 10, Aug. 21, 1987, 101 Stat. 747.  </td>
 
  __Designation of Andrew W. Mellon Auditorium__ 
 
-[Pub. L. 100–113, § 9][/us/pl/100/113/s9], Aug. 21, 1987, [101 Stat. 746][/us/stat/101/746], provided that:
+[Pub. L. 100–113][/us/pl/100/113], § 9, Aug. 21, 1987, [101 Stat. 746][/us/stat/101/746], provided that:
 
 >     “(a) The Departmental Auditorium, located on the Federal Triangle between the Custom Service building and Interstate Commerce Commission building on Constitution Avenue, shall on and after August 21, 1987, be known and designated as the ‘Andrew W. Mellon Auditorium’.
 
@@ -125,15 +125,15 @@ Pub. L. 100–113, § 10, Aug. 21, 1987, 101 Stat. 747.  </td>
 [/us/stat/101/736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F736
 [/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1198
-[/us/pl/107/217/s6/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs6%2Fb
+[/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1304
-[/us/pl/106/567/s310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F567%2Fs310
+[/us/pl/106/567/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F567%2FtIII
 [/us/stat/114/2841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2841
 [/us/pl/103/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F284
 [/us/stat/108/1448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1448
 [/us/pl/100/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F113
 [/us/usc/t40/s6731]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs6731
-[/us/pl/100/113/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F113%2Fs9
+[/us/pl/100/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F113
 [/us/stat/101/746]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F746
 
 

@@ -255,7 +255,7 @@ Pub. L. 100–113, §§ 3(a)(2) (last sentence), 4(b), 5(b)(2)(B), (d), 6, Aug
 
  __Reference to Ronald Reagan Building and International Trade Center__ 
 
-[Pub. L. 104–68, § 2][/us/pl/104/68/s2], Dec. 22, 1995, [109 Stat. 766][/us/stat/109/766], provided that: 
+[Pub. L. 104–68][/us/pl/104/68], § 2, Dec. 22, 1995, [109 Stat. 766][/us/stat/109/766], provided that: 
 
 > “Any reference in a law, map, regulation, document, paper, or other record of the United States to the building referred to in section 1 \[now [40 U.S.C. 6734(a)][/us/usc/t40/s6734/a]\] shall be deemed to be a reference to the ‘Ronald Reagan Building and International Trade Center’.”
 
@@ -274,7 +274,7 @@ Pub. L. 100–113, §§ 3(a)(2) (last sentence), 4(b), 5(b)(2)(B), (d), 6, Aug
 [/us/stat/101/735]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F735
 [/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1062]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1062
-[/us/pl/104/68/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F68%2Fs2
+[/us/pl/104/68]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F68
 [/us/stat/109/766]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F766
 [/us/usc/t40/s6734/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs6734%2Fa
 

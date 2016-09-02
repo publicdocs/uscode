@@ -35,7 +35,7 @@
 
         No contract shall be awarded to persons appearing on the list or to any firm, corporation, partnership, or association in which the persons have an interest until three years have elapsed from the date of publication of the list.
 
-([Pub. L. 107–217][/us/pl/107/217], Aug. 21, 2002, [116 Stat. 1152][/us/stat/116/1152]; [Pub. L. 113–50, § 2(a)][/us/pl/113/50/s2/a], Nov. 21, 2013, [127 Stat. 578][/us/stat/127/578].)
+([Pub. L. 107–217][/us/pl/107/217], Aug. 21, 2002, [116 Stat. 1152][/us/stat/116/1152]; [Pub. L. 113–50][/us/pl/113/50], § 2(a), Nov. 21, 2013, [127 Stat. 578][/us/stat/127/578].)
 
 <table>
 
@@ -115,9 +115,9 @@ Mar. 3, 1931, ch. 411, § 3, 46 Stat. 1494; Aug. 30, 1935, ch. 825, 49 Stat. 1
 
  __Amendments__ 
 
-    2013—[Pub. L. 113–50, § 2(a)(1)][/us/pl/113/50/s2/a/1], struck out “of Comptroller General” after “Authority” in section catchline.
+    2013—[Pub. L. 113–50][/us/pl/113/50], § 2(a)(1), struck out “of Comptroller General” after “Authority” in section catchline.
 
-    Subsec. (a)(1). [Pub. L. 113–50, § 2(a)(2)][/us/pl/113/50/s2/a/2], substituted “Secretary of Labor” for “Comptroller General”.
+    Subsec. (a)(1). [Pub. L. 113–50][/us/pl/113/50], § 2(a)(2), substituted “Secretary of Labor” for “Comptroller General”.
 
 ----------
 
@@ -128,9 +128,9 @@ Mar. 3, 1931, ch. 411, § 3, 46 Stat. 1494; Aug. 30, 1935, ch. 825, 49 Stat. 1
 
 [/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1152
-[/us/pl/113/50/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F50%2Fs2%2Fa
+[/us/pl/113/50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F50
 [/us/stat/127/578]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F578
-[/us/pl/113/50/s2/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F50%2Fs2%2Fa%2F1
-[/us/pl/113/50/s2/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F50%2Fs2%2Fa%2F2
+[/us/pl/113/50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F50
+[/us/pl/113/50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F50
 
 

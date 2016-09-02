@@ -147,7 +147,7 @@
 
  __Amendments__ 
 
-    2002—[Pub. L. 107–296, title XVII, § 1706(b)(3)][/us/pl/107/296/s1706/b/3], Nov. 25, 2002, [116 Stat. 2318][/us/stat/116/2318], added item 1315 and struck out former item 1315 “Special police”.
+    2002—[Pub. L. 107–296, title XVII][/us/pl/107/296/tXVII], § 1706(b)(3), Nov. 25, 2002, [116 Stat. 2318][/us/stat/116/2318], added item 1315 and struck out former item 1315 “Special police”.
 
 ----------
 
@@ -156,7 +156,7 @@
 ----------
 ----------
 
-[/us/pl/107/296/s1706/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1706%2Fb%2F3
+[/us/pl/107/296/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtXVII
 [/us/stat/116/2318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2318
 
 

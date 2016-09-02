@@ -131,7 +131,7 @@
 
     The Comptroller General shall audit the Fund in accordance with the provisions of chapter 35 of title 31 and report the results of the audits.
 
-([Pub. L. 107–217][/us/pl/107/217], Aug. 21, 2002, [116 Stat. 1074][/us/stat/116/1074]; [Pub. L. 109–313, § 3(d)][/us/pl/109/313/s3/d]–(g), (h)(2), Oct. 6, 2006, [120 Stat. 1735][/us/stat/120/1735], 1736; [Pub. L. 113–235, div. H, title I, § 1301(d)][/us/pl/113/235/s1301/d], Dec. 16, 2014, [128 Stat. 2537][/us/stat/128/2537].)
+([Pub. L. 107–217][/us/pl/107/217], Aug. 21, 2002, [116 Stat. 1074][/us/stat/116/1074]; [Pub. L. 109–313][/us/pl/109/313], § 3(d)–(g), (h)(2), Oct. 6, 2006, [120 Stat. 1735][/us/stat/120/1735], 1736; [Pub. L. 113–235, div. H, title I][/us/pl/113/235/dH/tI], § 1301(d), Dec. 16, 2014, [128 Stat. 2537][/us/stat/128/2537].)
 
 <table>
 
@@ -341,15 +341,15 @@ Pub. L. 97–12, title I, (proviso in par. under heading “General Supply Fund�
 
  __Amendments__ 
 
-    2006—[Pub. L. 109–313, § 3(h)(2)][/us/pl/109/313/s3/h/2], substituted “Acquisition Services Fund” for “General Supply Fund” in section catchline.
+    2006—[Pub. L. 109–313][/us/pl/109/313], § 3(h)(2), substituted “Acquisition Services Fund” for “General Supply Fund” in section catchline.
 
-    Subsecs. (a), (b). [Pub. L. 109–313, § 3(d)][/us/pl/109/313/s3/d], amended subsecs. (a) and (b) generally. Prior to amendment, subsecs. (a) and (b) related to the existence and composition, respectively, of the General Supply Fund.
+    Subsecs. (a), (b). [Pub. L. 109–313][/us/pl/109/313], § 3(d), amended subsecs. (a) and (b) generally. Prior to amendment, subsecs. (a) and (b) related to the existence and composition, respectively, of the General Supply Fund.
 
-    Subsec. (c)(1)(A)(iii). [Pub. L. 109–313, § 3(e)][/us/pl/109/313/s3/e], added cl. (iii).
+    Subsec. (c)(1)(A)(iii). [Pub. L. 109–313][/us/pl/109/313], § 3(e), added cl. (iii).
 
-    Subsec. (d)(2)(A)(v), (vi). [Pub. L. 109–313, § 3(f)][/us/pl/109/313/s3/f], added cl. (v) and redesignated former cl. (v) as (vi).
+    Subsec. (d)(2)(A)(v), (vi). [Pub. L. 109–313][/us/pl/109/313], § 3(f), added cl. (v) and redesignated former cl. (v) as (vi).
 
-    Subsec. (f). [Pub. L. 109–313, § 3(g)][/us/pl/109/313/s3/g], amended heading and text of subsec. (f) generally. Prior to amendment, text read as follows:
+    Subsec. (f). [Pub. L. 109–313][/us/pl/109/313], § 3(g), amended heading and text of subsec. (f) generally. Prior to amendment, text read as follows:
 
     “(1) Surplus deposited in treasury.—As of September 30 of each year, any surplus in the Fund above the amounts transferred or appropriated to establish and maintain the Fund (all assets, liabilities, and prior losses considered) shall be deposited in the Treasury as miscellaneous receipts.
 
@@ -365,7 +365,7 @@ Pub. L. 97–12, title I, (proviso in par. under heading “General Supply Fund�
 
  __Acquisition Services Fund__ 
 
-[Pub. L. 109–313, § 3(a)][/us/pl/109/313/s3/a]–(c), Oct. 6, 2006, [120 Stat. 1735][/us/stat/120/1735], provided that:
+[Pub. L. 109–313][/us/pl/109/313], § 3(a)–(c), Oct. 6, 2006, [120 Stat. 1735][/us/stat/120/1735], provided that:
 
 >     “(a)  __Abolishment of General Supply Fund and Information Technology Fund__  __.—__ 
 
@@ -391,25 +391,25 @@ Pub. L. 97–12, title I, (proviso in par. under heading “General Supply Fund�
 [/us/usc/t40/s11101/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs11101%2F6
 [/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1074]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1074
-[/us/pl/109/313/s3/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F313%2Fs3%2Fd
+[/us/pl/109/313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F313
 [/us/stat/120/1735]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1735
-[/us/pl/113/235/s1301/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1301%2Fd
+[/us/pl/113/235/dH/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2FdH%2FtI
 [/us/stat/128/2537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2537
 [/us/act/1929-02-27/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1929-02-27%2Fs3
 [/us/stat/45/1342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F45%2F1342
 [/us/usc/t41/s7c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs7c
 [/us/usc/t40/s752]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs752
-[/us/pl/109/313/s3/h/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F313%2Fs3%2Fh%2F2
-[/us/pl/109/313/s3/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F313%2Fs3%2Fd
-[/us/pl/109/313/s3/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F313%2Fs3%2Fe
-[/us/pl/109/313/s3/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F313%2Fs3%2Ff
-[/us/pl/109/313/s3/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F313%2Fs3%2Fg
+[/us/pl/109/313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F313
+[/us/pl/109/313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F313
+[/us/pl/109/313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F313
+[/us/pl/109/313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F313
+[/us/pl/109/313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F313
 [/us/pl/113/235/s1301/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1301%2Fd
 [/us/usc/t44/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs301
 [/us/pl/109/313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F313
 [/us/pl/109/313/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F313%2Fs6
 [/us/usc/t5/s5316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5316
-[/us/pl/109/313/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F313%2Fs3%2Fa
+[/us/pl/109/313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F313
 [/us/stat/120/1735]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1735
 [/us/usc/t40/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs321
 

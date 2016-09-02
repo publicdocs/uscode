@@ -49,7 +49,7 @@
 
             (D) reports to the head of the agency on the progress made in improving information resources management capability.
 
-([Pub. L. 107–217][/us/pl/107/217], Aug. 21, 2002, [116 Stat. 1241][/us/stat/116/1241]; [Pub. L. 108–458, title VIII, § 8401(4)][/us/pl/108/458/s8401/4], Dec. 17, 2004, [118 Stat. 3869][/us/stat/118/3869].)
+([Pub. L. 107–217][/us/pl/107/217], Aug. 21, 2002, [116 Stat. 1241][/us/stat/116/1241]; [Pub. L. 108–458, title VIII][/us/pl/108/458/tVIII], § 8401(4), Dec. 17, 2004, [118 Stat. 3869][/us/stat/118/3869].)
 
 <table>
 
@@ -117,7 +117,7 @@ In subsection (c)(3), before subclause (A), the reference to 31:1105(a)(29) is c
 [/us/stat/107/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F289
 [/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1241
-[/us/pl/108/458/s8401/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs8401%2F4
+[/us/pl/108/458/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2FtVIII
 [/us/stat/118/3869]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3869
 [/us/act/1996-10-11/s4/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1996-10-11%2Fs4%2F1
 [/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287

@@ -17,7 +17,7 @@
 
  __Amendments__ 
 
-    2002—[Pub. L. 107–314, div. A, title VIII, § 825(b)(3)(B)][/us/pl/107/314/s825/b/3/B], Dec. 2, 2002, [116 Stat. 2616][/us/stat/116/2616], and [Pub. L. 107–347, title II, § 210(h)(3)(C)][/us/pl/107/347/s210/h/3/C], Dec. 17, 2002, [116 Stat. 2938][/us/stat/116/2938], amended subchapter heading identically, substituting “PROGRAM” for “PROGRAMS”.
+    2002—[Pub. L. 107–314, div. A, title VIII][/us/pl/107/314/dA/tVIII], § 825(b)(3)(B), Dec. 2, 2002, [116 Stat. 2616][/us/stat/116/2616], and [Pub. L. 107–347, title II][/us/pl/107/347/tII], § 210(h)(3)(C), Dec. 17, 2002, [116 Stat. 2938][/us/stat/116/2938], amended subchapter heading identically, substituting “PROGRAM” for “PROGRAMS”.
 
 ----------
 
@@ -26,9 +26,9 @@
 ----------
 ----------
 
-[/us/pl/107/314/s825/b/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs825%2Fb%2F3%2FB
+[/us/pl/107/314/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdA%2FtVIII
 [/us/stat/116/2616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2616
-[/us/pl/107/347/s210/h/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F347%2Fs210%2Fh%2F3%2FC
+[/us/pl/107/347/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F347%2FtII
 [/us/stat/116/2938]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2938
 
 

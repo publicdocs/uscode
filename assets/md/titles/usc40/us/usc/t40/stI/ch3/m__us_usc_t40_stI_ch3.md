@@ -141,7 +141,7 @@ SUBCHAPTER III—FUNDS  </td>
 
     2006—[Pub. L. 109–313][/us/pl/109/313], §§ 2(a)(2), 3(h)(3), Oct. 6, 2006, [120 Stat. 1734][/us/stat/120/1734], 1736, substituted “Federal Acquisition Service” for “Functions” in item 303 and “Acquisition Services Fund” for “General Supply Fund” in item 321 and struck out item 322 “Information Technology Fund”.
 
-    2002—[Pub. L. 107–347, title I, § 102(a)(2)][/us/pl/107/347/s102/a/2], Dec. 17, 2002, [116 Stat. 2910][/us/stat/116/2910], added item 305.
+    2002—[Pub. L. 107–347, title I][/us/pl/107/347/tI], § 102(a)(2), Dec. 17, 2002, [116 Stat. 2910][/us/stat/116/2910], added item 305.
 
 ----------
 
@@ -152,7 +152,7 @@ SUBCHAPTER III—FUNDS  </td>
 
 [/us/pl/109/313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F313
 [/us/stat/120/1734]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1734
-[/us/pl/107/347/s102/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F347%2Fs102%2Fa%2F2
+[/us/pl/107/347/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F347%2FtI
 [/us/stat/116/2910]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2910
 
 

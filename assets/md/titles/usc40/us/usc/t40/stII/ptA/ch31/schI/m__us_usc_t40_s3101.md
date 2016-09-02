@@ -69,7 +69,7 @@ July 1, 1898, ch. 546, § 1 (6th complete par. on p. 614), 30 Stat. 614.  </td
 
  __Prohibition of Cigarette Sales to Minors in Federal Buildings and Lands__ 
 
-    [Pub. L. 104–52, title VI, § 636][/us/pl/104/52/s636], Nov. 19, 1995, [109 Stat. 507][/us/stat/109/507], known as the “Prohibition of Cigarette Sales to Minors in Federal Buildings and Lands Act”, required the Administrator of General Services and the head of each Federal agency to promulgate regulations, to be reported to Congress, prohibiting the sale of tobacco products in vending machines or distribution of free samples of tobacco products located in or around any Federal building under the jurisdiction of the Administrator or agency head, and provided that the appropriate congressional committees would promulgate regulations prohibiting tobacco sales in vending machines in certain congressional buildings.
+    [Pub. L. 104–52, title VI][/us/pl/104/52/tVI], § 636, Nov. 19, 1995, [109 Stat. 507][/us/stat/109/507], known as the “Prohibition of Cigarette Sales to Minors in Federal Buildings and Lands Act”, required the Administrator of General Services and the head of each Federal agency to promulgate regulations, to be reported to Congress, prohibiting the sale of tobacco products in vending machines or distribution of free samples of tobacco products located in or around any Federal building under the jurisdiction of the Administrator or agency head, and provided that the appropriate congressional committees would promulgate regulations prohibiting tobacco sales in vending machines in certain congressional buildings.
 
 ----------
 
@@ -85,7 +85,7 @@ July 1, 1898, ch. 546, § 1 (6th complete par. on p. 614), 30 Stat. 614.  </td
 [/us/stat/41/654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F41%2F654
 [/us/stat/53/1426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F53%2F1426
 [/us/stat/63/380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F380
-[/us/pl/104/52/s636]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F52%2Fs636
+[/us/pl/104/52/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F52%2FtVI
 [/us/stat/109/507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F507
 
 

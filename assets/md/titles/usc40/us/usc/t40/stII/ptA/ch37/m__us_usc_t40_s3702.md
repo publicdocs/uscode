@@ -41,7 +41,7 @@
 
     Subject to [section 3703 of this title][/us/usc/t40/s3703], the governmental agency for which the contract work is done or which is providing financial assistance for the work may withhold, or have withheld, from money payable because of work performed by a contractor or subcontractor, amounts administratively determined to be necessary to satisfy the liabilities of the contractor or subcontractor for unpaid wages and liquidated damages as provided in this section.
 
-([Pub. L. 107–217][/us/pl/107/217], Aug. 21, 2002, [116 Stat. 1169][/us/stat/116/1169]; [Pub. L. 109–284, § 6(15)][/us/pl/109/284/s6/15], Sept. 27, 2006, [120 Stat. 1213][/us/stat/120/1213].)
+([Pub. L. 107–217][/us/pl/107/217], Aug. 21, 2002, [116 Stat. 1169][/us/stat/116/1169]; [Pub. L. 109–284][/us/pl/109/284], § 6(15), Sept. 27, 2006, [120 Stat. 1213][/us/stat/120/1213].)
 
 <table>
 
@@ -149,7 +149,7 @@ Pub. L. 87–581, title I, § 102, Aug. 13, 1962, 76 Stat. 357; Pub. L. 99–1
 [/us/usc/t40/s3703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs3703
 [/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1169]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1169
-[/us/pl/109/284/s6/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F284%2Fs6%2F15
+[/us/pl/109/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F284
 [/us/stat/120/1213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1213
 [/us/pl/109/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F284
 

@@ -71,7 +71,7 @@ May 21, 1932, ch. 200, § 1 (words before proviso), 47 Stat. 163; Feb. 11, 193
 
  __Designation of Theodore Roosevelt Island__ 
 
-[Act Feb. 11, 1933, ch. 48, § 2][/us/act/1933-02-11/ch48/s2], [47 Stat. 799][/us/stat/47/799], provided that: 
+[Act Feb. 11, 1933, ch. 48][/us/act/1933-02-11/ch48], § 2, [47 Stat. 799][/us/stat/47/799], provided that: 
 
 > “In all public documents, records, and maps of the United States in which Roosevelt Island is designated or referred to it shall be designated as ‘Theodore Roosevelt Island’.”
 
@@ -86,7 +86,7 @@ May 21, 1932, ch. 200, § 1 (words before proviso), 47 Stat. 163; Feb. 11, 193
 [/us/stat/116/1233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1233
 [/us/stat/48/389]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F389
 [/us/stat/47/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F47%2F163
-[/us/act/1933-02-11/ch48/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-02-11%2Fch48%2Fs2
+[/us/act/1933-02-11/ch48]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-02-11%2Fch48
 [/us/stat/47/799]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F47%2F799
 
 

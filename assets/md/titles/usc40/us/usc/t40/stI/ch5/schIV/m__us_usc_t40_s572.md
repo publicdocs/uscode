@@ -115,7 +115,7 @@
 
         As part of the annual request for authorizations of appropriations to the Committees on Armed Services of the Senate and the House of Representatives, the Secretary of Defense shall include an accounting of each transfer and disposal made in accordance with this subsection during the fiscal year preceding the fiscal year in which the request is made. The accounting shall include a detailed explanation of each transfer and disposal and of the use of the proceeds received from it by the Department of Defense.
 
-([Pub. L. 107–217][/us/pl/107/217], Aug. 21, 2002, [116 Stat. 1105][/us/stat/116/1105]; [Pub. L. 108–447, div. H, title IV, § 408][/us/pl/108/447/s408], Dec. 8, 2004, [118 Stat. 3258][/us/stat/118/3258]; [Pub. L. 109–13, div. A, title VI, § 6068][/us/pl/109/13/s6068], May 11, 2005, [119 Stat. 299][/us/stat/119/299]; [Pub. L. 109–163, div. A, title X, § 1056(a)(5)(B)][/us/pl/109/163/s1056/a/5/B], Jan. 6, 2006, [119 Stat. 3439][/us/stat/119/3439].)
+([Pub. L. 107–217][/us/pl/107/217], Aug. 21, 2002, [116 Stat. 1105][/us/stat/116/1105]; [Pub. L. 108–447, div. H, title IV][/us/pl/108/447/dH/tIV], § 408, Dec. 8, 2004, [118 Stat. 3258][/us/stat/118/3258]; [Pub. L. 109–13, div. A, title VI][/us/pl/109/13/dA/tVI], § 6068, May 11, 2005, [119 Stat. 299][/us/stat/119/299]; [Pub. L. 109–163, div. A, title X][/us/pl/109/163/dA/tX], § 1056(a)(5)(B), Jan. 6, 2006, [119 Stat. 3439][/us/stat/119/3439].)
 
 <table>
 
@@ -183,15 +183,15 @@ In subsection (b)(4), the words “section 13(g) of the Surplus Property Act of 
 
  __References in Text__ 
 
-    [Section 2687(e)(1) of title 10][/us/usc/t10/s2687/e/1], referred to in subsec. (b)(1)(A), was redesignated as section 2687(g)(1) by [Pub. L. 112–239, div. B, title XXVII, § 2712(a)(1)][/us/pl/112/239/s2712/a/1], Jan. 2, 2013, [126 Stat. 2144][/us/stat/126/2144].
+    [Section 2687(e)(1) of title 10][/us/usc/t10/s2687/e/1], referred to in subsec. (b)(1)(A), was redesignated as section 2687(g)(1) by [Pub. L. 112–239, div. B, title XXVII][/us/pl/112/239/dB/tXXVII], § 2712(a)(1), Jan. 2, 2013, [126 Stat. 2144][/us/stat/126/2144].
 
  __Amendments__ 
 
     2006—Subsec. (b)(1)(B). [Pub. L. 109–163][/us/pl/109/163] substituted “[section 101(a)(17) of title 10][/us/usc/t10/s101/a/17]” for “[section 2667(h)(2) of title 10][/us/usc/t10/s2667/h/2]”.
 
-    2005—Subsec. (a)(2)(A)(ii). [Pub. L. 109–13][/us/pl/109/13] made technical correction to directory language of [Pub. L. 108–447, § 408][/us/pl/108/447/s408]. See 2004 Amendment note below.
+    2005—Subsec. (a)(2)(A)(ii). [Pub. L. 109–13][/us/pl/109/13] made technical correction to directory language of [Pub. L. 108–447][/us/pl/108/447], § 408. See 2004 Amendment note below.
 
-    2004—Subsec. (a)(2)(A)(ii). [Pub. L. 108–447, § 408][/us/pl/108/447/s408], as amended by [Pub. L. 109–13][/us/pl/109/13], inserted “, highest and best use of property studies, utilization of property studies, deed compliance inspection, and the expenses incurred in a relocation” before period at end.
+    2004—Subsec. (a)(2)(A)(ii). [Pub. L. 108–447][/us/pl/108/447], § 408, as amended by [Pub. L. 109–13][/us/pl/109/13], inserted “, highest and best use of property studies, utilization of property studies, deed compliance inspection, and the expenses incurred in a relocation” before period at end.
 
 ----------
 
@@ -204,21 +204,21 @@ In subsection (b)(4), the words “section 13(g) of the Surplus Property Act of 
 [/us/usc/t10/s2854a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2854a
 [/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1105
-[/us/pl/108/447/s408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs408
+[/us/pl/108/447/dH/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2FdH%2FtIV
 [/us/stat/118/3258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3258
-[/us/pl/109/13/s6068]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F13%2Fs6068
+[/us/pl/109/13/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F13%2FdA%2FtVI
 [/us/stat/119/299]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F299
-[/us/pl/109/163/s1056/a/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs1056%2Fa%2F5%2FB
+[/us/pl/109/163/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtX
 [/us/stat/119/3439]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3439
 [/us/usc/t10/s2687/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2687%2Fe%2F1
-[/us/pl/112/239/s2712/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs2712%2Fa%2F1
+[/us/pl/112/239/dB/tXXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdB%2FtXXVII
 [/us/stat/126/2144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2144
 [/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
 [/us/usc/t10/s101/a/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101%2Fa%2F17
 [/us/usc/t10/s2667/h/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2667%2Fh%2F2
 [/us/pl/109/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F13
-[/us/pl/108/447/s408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs408
-[/us/pl/108/447/s408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs408
+[/us/pl/108/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447
+[/us/pl/108/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447
 [/us/pl/109/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F13
 
 

@@ -247,7 +247,7 @@
 
                 (iii) the Secretary of Health and Human Services, for property transferred under [section 550(d) of this title][/us/usc/t40/s550/d].
 
-([Pub. L. 107–217][/us/pl/107/217], Aug. 21, 2002, [116 Stat. 1090][/us/stat/116/1090]; [Pub. L. 109–313, § 5][/us/pl/109/313/s5], Oct. 6, 2006, [120 Stat. 1737][/us/stat/120/1737]; [Pub. L. 111–338, § 2][/us/pl/111/338/s2], Dec. 22, 2010, [124 Stat. 3590][/us/stat/124/3590]; [Pub. L. 113–26, § 2][/us/pl/113/26/s2], Aug. 9, 2013, [127 Stat. 502][/us/stat/127/502]; [Pub. L. 113–287, § 5(j)(1)][/us/pl/113/287/s5/j/1], Dec. 19, 2014, [128 Stat. 3269][/us/stat/128/3269].)
+([Pub. L. 107–217][/us/pl/107/217], Aug. 21, 2002, [116 Stat. 1090][/us/stat/116/1090]; [Pub. L. 109–313][/us/pl/109/313], § 5, Oct. 6, 2006, [120 Stat. 1737][/us/stat/120/1737]; [Pub. L. 111–338][/us/pl/111/338], § 2, Dec. 22, 2010, [124 Stat. 3590][/us/stat/124/3590]; [Pub. L. 113–26][/us/pl/113/26], § 2, Aug. 9, 2013, [127 Stat. 502][/us/stat/127/502]; [Pub. L. 113–287][/us/pl/113/287], § 5(j)(1), Dec. 19, 2014, [128 Stat. 3269][/us/stat/128/3269].)
 
 <table>
 
@@ -379,13 +379,13 @@ In subsection (f)(1)(B)–(D) and (4)(B), the words “Secretary of Education”
 
     2014—Subsec. (c)(3)(B)(ix). [Pub. L. 113–287][/us/pl/113/287] substituted “[section 305101(4) of title 54][/us/usc/t54/s305101/4]” for “section 308(e)(2) of the National Historic Preservation Act ([16 U.S.C. 470w–7(e)(2)][/us/usc/t16/s470w–7/e/2])” and “[section 305103 of title 54][/us/usc/t54/s305103]” for “subsection (b) of that section”.
 
-    2013—Subsec. (c)(3)(B)(viii), (x). [Pub. L. 113–26, § 2(2)][/us/pl/113/26/s2/2], inserted “or” at end of cl. (viii) and struck out cl. (x) which read as follows: “an organization whose—
+    2013—Subsec. (c)(3)(B)(viii), (x). [Pub. L. 113–26][/us/pl/113/26], § 2(2), inserted “or” at end of cl. (viii) and struck out cl. (x) which read as follows: “an organization whose—
 
     “(I) membership comprises substantially veterans (as defined under [section 101 of title 38][/us/usc/t38/s101]); and
 
     “(II) representatives are recognized by the Secretary of Veterans Affairs under [section 5902 of title 38][/us/usc/t38/s5902].”
 
-    Subsec. (c)(3)(C). [Pub. L. 113–26, § 2(1)][/us/pl/113/26/s2/1], (3), added subpar. (C).
+    Subsec. (c)(3)(C). [Pub. L. 113–26][/us/pl/113/26], § 2(1), (3), added subpar. (C).
 
     2010—Subsec. (c)(3)(B)(x). [Pub. L. 111–338][/us/pl/111/338] added cl. (x).
 
@@ -476,23 +476,23 @@ Accordingly, by the authority vested in me as President by the Constitution and 
 [/us/usc/t40/s550/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs550%2Fd
 [/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1090]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1090
-[/us/pl/109/313/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F313%2Fs5
+[/us/pl/109/313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F313
 [/us/stat/120/1737]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1737
-[/us/pl/111/338/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F338%2Fs2
+[/us/pl/111/338]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F338
 [/us/stat/124/3590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3590
-[/us/pl/113/26/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F26%2Fs2
+[/us/pl/113/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F26
 [/us/stat/127/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F502
-[/us/pl/113/287/s5/j/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs5%2Fj%2F1
+[/us/pl/113/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287
 [/us/stat/128/3269]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3269
 [/us/stat/63/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F591
 [/us/pl/113/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287
 [/us/usc/t54/s305101/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs305101%2F4
 [/us/usc/t16/s470w–7/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs470w%E2%80%937%2Fe%2F2
 [/us/usc/t54/s305103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs305103
-[/us/pl/113/26/s2/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F26%2Fs2%2F2
+[/us/pl/113/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F26
 [/us/usc/t38/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs101
 [/us/usc/t38/s5902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs5902
-[/us/pl/113/26/s2/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F26%2Fs2%2F1
+[/us/pl/113/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F26
 [/us/pl/111/338]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F338
 [/us/pl/109/313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F313
 [/us/pl/109/313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F313

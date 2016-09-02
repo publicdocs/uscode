@@ -163,9 +163,9 @@ SUBCHAPTER III—OTHER RESPONSIBILITIES  </td>
 
  __Amendments__ 
 
-    2014—[Pub. L. 113–291, div. A, title VIII, § 831(b)][/us/pl/113/291/s831/b], Dec. 19, 2014, [128 Stat. 3440][/us/stat/128/3440], added item 11319.
+    2014—[Pub. L. 113–291, div. A, title VIII][/us/pl/113/291/dA/tVIII], § 831(b), Dec. 19, 2014, [128 Stat. 3440][/us/stat/128/3440], added item 11319.
 
-    2002—[Pub. L. 107–296, title X][/us/pl/107/296], §§ 1002(b), 1005(a)(2), Nov. 25, 2002, [116 Stat. 2269][/us/stat/116/2269], 2272, and [Pub. L. 107–347, title III][/us/pl/107/347], §§ 302(b), 305(a), Dec. 17, 2002, [116 Stat. 2957][/us/stat/116/2957], 2960, amended table of sections identically, substituting “Responsibilities for Federal information systems standards” for “Responsibilities regarding efficiency, security, and privacy of federal computer systems” in item 11331 and striking out item 11332 “Federal computer system security training and plan”.
+    2002—[Pub. L. 107–296, title X][/us/pl/107/296/tX], §§ 1002(b), 1005(a)(2), Nov. 25, 2002, [116 Stat. 2269][/us/stat/116/2269], 2272, and [Pub. L. 107–347, title III][/us/pl/107/347/tIII], §§ 302(b), 305(a), Dec. 17, 2002, [116 Stat. 2957][/us/stat/116/2957], 2960, amended table of sections identically, substituting “Responsibilities for Federal information systems standards” for “Responsibilities regarding efficiency, security, and privacy of federal computer systems” in item 11331 and striking out item 11332 “Federal computer system security training and plan”.
 
 ----------
 
@@ -174,11 +174,11 @@ SUBCHAPTER III—OTHER RESPONSIBILITIES  </td>
 ----------
 ----------
 
-[/us/pl/113/291/s831/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs831%2Fb
+[/us/pl/113/291/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtVIII
 [/us/stat/128/3440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3440
-[/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
+[/us/pl/107/296/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtX
 [/us/stat/116/2269]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2269
-[/us/pl/107/347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F347
+[/us/pl/107/347/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F347%2FtIII
 [/us/stat/116/2957]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2957
 
 

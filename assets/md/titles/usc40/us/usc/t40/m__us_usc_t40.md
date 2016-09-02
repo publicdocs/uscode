@@ -15,9 +15,9 @@
 
 # Title 40—PUBLIC BUILDINGS, PROPERTY, AND WORKS
 
-This title was enacted by [Pub. L. 107–217, § 1][/us/pl/107/217/s1], Aug. 21, 2002, [116 Stat. 1062][/us/stat/116/1062]
+This title was enacted by [Pub. L. 107–217][/us/pl/107/217], § 1, Aug. 21, 2002, [116 Stat. 1062][/us/stat/116/1062]
 
-Current through 114-115not95
+Current through 114-115
 
 <table>
 
@@ -95,7 +95,7 @@ Current through 114-115not95
 
  __Amendments__ 
 
-    2008—[Pub. L. 110–234, title XIV, § 14217(b)][/us/pl/110/234/s14217/b], May 22, 2008, [122 Stat. 1482][/us/stat/122/1482], and [Pub. L. 110–246, title XIV, § 14217(b)][/us/pl/110/246/s14217/b], June 18, 2008, [122 Stat. 2244][/us/stat/122/2244], which directed identical amendments to the table of subtitles for “chapter 40, United States Code” by adding items for subtitles V and VI and striking out item for subtitle V, was executed by amending the table of subtitles for this title, to reflect the probable intent of Congress. Prior to amendment, the item for subtitle V read “Miscellaneous”. The amendment by [Pub. L. 110–234][/us/pl/110/234] was repealed by [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], June 18, 2008, [122 Stat. 1664][/us/stat/122/1664].
+    2008—[Pub. L. 110–234, title XIV][/us/pl/110/234/tXIV], § 14217(b), May 22, 2008, [122 Stat. 1482][/us/stat/122/1482], and [Pub. L. 110–246, title XIV][/us/pl/110/246/tXIV], § 14217(b), June 18, 2008, [122 Stat. 2244][/us/stat/122/2244], which directed identical amendments to the table of subtitles for “chapter 40, United States Code” by adding items for subtitles V and VI and striking out item for subtitle V, was executed by amending the table of subtitles for this title, to reflect the probable intent of Congress. Prior to amendment, the item for subtitle V read “Miscellaneous”. The amendment by [Pub. L. 110–234][/us/pl/110/234] was repealed by [Pub. L. 110–246][/us/pl/110/246], § 4(a), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664].
 
 <table>
 
@@ -11303,13 +11303,13 @@ T. 40 App. § 405  </td>
 
  __Enacting Clause__ 
 
-[Pub. L. 107–217, § 1][/us/pl/107/217/s1], Aug. 21, 2002, [116 Stat. 1062][/us/stat/116/1062], provided in part that: 
+[Pub. L. 107–217][/us/pl/107/217], § 1, Aug. 21, 2002, [116 Stat. 1062][/us/stat/116/1062], provided in part that: 
 
 > “Certain general and permanent laws of the United States, related to public buildings, property, and works, are revised, codified, and enacted as title 40, United States Code, ‘Public Buildings, Property, and Works’ ”.
 
  __Legislative Purpose and Construction__ 
 
-[Pub. L. 108–178, § 1][/us/pl/108/178/s1], Dec. 15, 2003, [117 Stat. 2637][/us/stat/117/2637], provided that:
+[Pub. L. 108–178][/us/pl/108/178], § 1, Dec. 15, 2003, [117 Stat. 2637][/us/stat/117/2637], provided that:
 
 >     “(a)  __Purpose__  __.—__ 
 
@@ -11323,7 +11323,7 @@ T. 40 App. § 405  </td>
 
 >     If a provision enacted by this Act is held invalid, all valid provisions that are severable from the invalid provision remain in effect. If a provision enacted by this Act is held invalid in any of its applications, the provision remains valid for all valid applications that are severable from any of the invalid applications.”
 
-[Pub. L. 107–217, § 5][/us/pl/107/217/s5], Aug. 21, 2002, [116 Stat. 1303][/us/stat/116/1303], provided that:
+[Pub. L. 107–217][/us/pl/107/217], § 5, Aug. 21, 2002, [116 Stat. 1303][/us/stat/116/1303], provided that:
 
 >     “(a)  __Purpose__  __.—__ 
 
@@ -11365,7 +11365,7 @@ T. 40 App. § 405  </td>
 
  __Repeals__ 
 
-[Pub. L. 108–178, § 2(b)][/us/pl/108/178/s2/b], Dec. 15, 2003, [117 Stat. 2640][/us/stat/117/2640], provided that: 
+[Pub. L. 108–178][/us/pl/108/178], § 2(b), Dec. 15, 2003, [117 Stat. 2640][/us/stat/117/2640], provided that: 
 
 > “[Section 6(b) of Public Law 107–217][/us/pl/107/217/s6/b] ([116 Stat. 1304][/us/stat/116/1304]) \[see below\] is repealed insofar as it relates to the provisions listed below, and the provisions listed below are revived to read as if section 6(b) had not been enacted:
 
@@ -11377,11 +11377,11 @@ T. 40 App. § 405  </td>
 
 >     “(4) Section 7306 of the Federal Acquisition Streamlining Act of 1994 ([Public Law 103–355][/us/pl/103/355], [108 Stat. 3384][/us/stat/108/3384]).”
 
-[Pub. L. 107–217, § 6(a)][/us/pl/107/217/s6/a], Aug. 21, 2002, [116 Stat. 1304][/us/stat/116/1304], provided that: 
+[Pub. L. 107–217][/us/pl/107/217], § 6(a), Aug. 21, 2002, [116 Stat. 1304][/us/stat/116/1304], provided that: 
 
 > “The repeal of a law by this Act may not be construed as a legislative inference that the provision was or was not in effect before its repeal.”
 
-    [Pub. L. 107–217, § 6(b)][/us/pl/107/217/s6/b], Aug. 21, 2002, [116 Stat. 1304][/us/stat/116/1304], as amended by [Pub. L. 108–178, § 2][/us/pl/108/178/s2], Dec. 15, 2003, [117 Stat. 2637][/us/stat/117/2637], repealed specified laws, except for rights and duties that matured, penalties that were incurred, and proceedings that were begun before Aug. 21, 2002.
+    [Pub. L. 107–217][/us/pl/107/217], § 6(b), Aug. 21, 2002, [116 Stat. 1304][/us/stat/116/1304], as amended by [Pub. L. 108–178][/us/pl/108/178], § 2, Dec. 15, 2003, [117 Stat. 2637][/us/stat/117/2637], repealed specified laws, except for rights and duties that matured, penalties that were incurred, and proceedings that were begun before Aug. 21, 2002.
 
 ----------
 
@@ -11390,26 +11390,26 @@ T. 40 App. § 405  </td>
 ----------
 ----------
 
-[/us/pl/107/217/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs1
+[/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1062]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1062
-[/us/pl/110/234/s14217/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs14217%2Fb
+[/us/pl/110/234/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtXIV
 [/us/stat/122/1482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1482
-[/us/pl/110/246/s14217/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs14217%2Fb
+[/us/pl/110/246/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2FtXIV
 [/us/stat/122/2244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2244
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/pl/108/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F178
 [/us/pl/108/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F178
 [/us/pl/108/178/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F178%2Fs5
 [/us/usc/t5/s5334]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5334
-[/us/pl/107/217/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs1
+[/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1062]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1062
-[/us/pl/108/178/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F178%2Fs1
+[/us/pl/108/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F178
 [/us/stat/117/2637]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2637
-[/us/pl/107/217/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs5
+[/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1303
-[/us/pl/108/178/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F178%2Fs2%2Fb
+[/us/pl/108/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F178
 [/us/stat/117/2640]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2640
 [/us/pl/107/217/s6/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs6%2Fb
 [/us/stat/116/1304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1304
@@ -11424,11 +11424,11 @@ T. 40 App. § 405  </td>
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101
 [/us/pl/103/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355
 [/us/stat/108/3384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3384
-[/us/pl/107/217/s6/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs6%2Fa
+[/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1304
-[/us/pl/107/217/s6/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs6%2Fb
+[/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1304
-[/us/pl/108/178/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F178%2Fs2
+[/us/pl/108/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F178
 [/us/stat/117/2637]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2637
 
 

@@ -35,7 +35,7 @@
 
         (6) provide the means for senior management personnel of the executive agency to obtain timely information regarding the progress of an investment in an information system, including a system of milestones for measuring progress, on an independently verifiable basis, in terms of cost, capability of the system to meet specified requirements, timeliness, and quality.
 
-([Pub. L. 107–217][/us/pl/107/217], Aug. 21, 2002, [116 Stat. 1239][/us/stat/116/1239]; [Pub. L. 108–458, title VIII, § 8401(3)][/us/pl/108/458/s8401/3], Dec. 17, 2004, [118 Stat. 3869][/us/stat/118/3869].)
+([Pub. L. 107–217][/us/pl/107/217], Aug. 21, 2002, [116 Stat. 1239][/us/stat/116/1239]; [Pub. L. 108–458, title VIII][/us/pl/108/458/tVIII], § 8401(3), Dec. 17, 2004, [118 Stat. 3869][/us/stat/118/3869].)
 
 <table>
 
@@ -97,7 +97,7 @@ Pub. L. 104–106, div. E, title LI, § 5122, Feb. 10, 1996, 110 Stat. 683.  <
 [/us/usc/t44/s3506/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs3506%2Fh
 [/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1239
-[/us/pl/108/458/s8401/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs8401%2F3
+[/us/pl/108/458/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2FtVIII
 [/us/stat/118/3869]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3869
 [/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
 

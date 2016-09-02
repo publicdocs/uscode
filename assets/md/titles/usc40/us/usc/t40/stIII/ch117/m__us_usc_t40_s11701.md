@@ -17,7 +17,7 @@
 
     In accordance with chapter 5 of this title, the head of an executive agency shall maintain an inventory of all computer equipment under the control of that official that is excess or surplus property.
 
-([Pub. L. 107–217][/us/pl/107/217], Aug. 21, 2002, [116 Stat. 1252][/us/stat/116/1252], § 11702; renumbered § 11701, [Pub. L. 107–314, div. A, title VIII, § 825(c)(2)][/us/pl/107/314/s825/c/2], Dec. 2, 2002, [116 Stat. 2616][/us/stat/116/2616].)
+([Pub. L. 107–217][/us/pl/107/217], Aug. 21, 2002, [116 Stat. 1252][/us/stat/116/1252], § 11702; renumbered § 11701, [Pub. L. 107–314, div. A, title VIII][/us/pl/107/314/dA/tVIII], § 825(c)(2), Dec. 2, 2002, [116 Stat. 2616][/us/stat/116/2616].)
 
 <table>
 
@@ -69,7 +69,7 @@ Pub. L. 104–106, div. E, title LIV, § 5402, Feb. 10, 1996, 110 Stat. 697.  
 
  __Prior Provisions__ 
 
-    A prior section 11701, [Pub. L. 107–217][/us/pl/107/217], Aug. 21, 2002, [116 Stat. 1250][/us/stat/116/1250], related to on-line multiple award schedule contracting, prior to repeal by [Pub. L. 107–314, div. A, title VIII, § 825(c)(1)][/us/pl/107/314/s825/c/1], Dec. 2, 2002, [116 Stat. 2616][/us/stat/116/2616].
+    A prior section 11701, [Pub. L. 107–217][/us/pl/107/217], Aug. 21, 2002, [116 Stat. 1250][/us/stat/116/1250], related to on-line multiple award schedule contracting, prior to repeal by [Pub. L. 107–314, div. A, title VIII][/us/pl/107/314/dA/tVIII], § 825(c)(1), Dec. 2, 2002, [116 Stat. 2616][/us/stat/116/2616].
 
  __Amendments__ 
 
@@ -84,11 +84,11 @@ Pub. L. 104–106, div. E, title LIV, § 5402, Feb. 10, 1996, 110 Stat. 697.  
 
 [/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1252
-[/us/pl/107/314/s825/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs825%2Fc%2F2
+[/us/pl/107/314/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdA%2FtVIII
 [/us/stat/116/2616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2616
 [/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1250]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1250
-[/us/pl/107/314/s825/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs825%2Fc%2F1
+[/us/pl/107/314/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdA%2FtVIII
 [/us/stat/116/2616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2616
 [/us/pl/107/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314
 [/us/usc/t40/s11702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs11702

@@ -65,7 +65,7 @@
 
     The Commission may not propose or consider a recommendation for any change in the definition of the Appalachian region as set forth in this section without a prior resolution by the Committee on Environment and Public Works of the Senate or the Committee on Transportation and Infrastructure of the House of Representatives that directs a study of the change.
 
-([Pub. L. 107–217][/us/pl/107/217], Aug. 21, 2002, [116 Stat. 1254][/us/stat/116/1254]; [Pub. L. 110–371, § 7][/us/pl/110/371/s7], Oct. 8, 2008, [122 Stat. 4042][/us/stat/122/4042].)
+([Pub. L. 107–217][/us/pl/107/217], Aug. 21, 2002, [116 Stat. 1254][/us/stat/116/1254]; [Pub. L. 110–371][/us/pl/110/371], § 7, Oct. 8, 2008, [122 Stat. 4042][/us/stat/122/4042].)
 
 <table>
 
@@ -149,13 +149,13 @@ Pub. L. 89–4, title III, § 301, Mar. 9, 1965, 79 Stat. 19.  </td>
 
  __Amendments__ 
 
-    2008—Subsec. (a)(1)(C). [Pub. L. 110–371, § 7(a)][/us/pl/110/371/s7/a], inserted “Metcalfe,” after “Menifee,”, “Nicholas,” after “Morgan,”, and “Robertson,” after “Pulaski,”.
+    2008—Subsec. (a)(1)(C). [Pub. L. 110–371][/us/pl/110/371], § 7(a), inserted “Metcalfe,” after “Menifee,”, “Nicholas,” after “Morgan,”, and “Robertson,” after “Pulaski,”.
 
-    Subsec. (a)(1)(H). [Pub. L. 110–371, § 7(b)][/us/pl/110/371/s7/b], inserted “Ashtabula,” after “Adams,”, “Mahoning,” after “Lawrence,”, and “Trumbull,” after “Scioto,”.
+    Subsec. (a)(1)(H). [Pub. L. 110–371][/us/pl/110/371], § 7(b), inserted “Ashtabula,” after “Adams,”, “Mahoning,” after “Lawrence,”, and “Trumbull,” after “Scioto,”.
 
-    Subsec. (a)(1)(K). [Pub. L. 110–371, § 7(c)][/us/pl/110/371/s7/c], inserted “Lawrence, Lewis,” after “Knox,”.
+    Subsec. (a)(1)(K). [Pub. L. 110–371][/us/pl/110/371], § 7(c), inserted “Lawrence, Lewis,” after “Knox,”.
 
-    Subsec. (a)(1)(L). [Pub. L. 110–371, § 7(d)][/us/pl/110/371/s7/d], inserted “Henry,” after “Grayson,” and “Patrick,” after “Montgomery,”.
+    Subsec. (a)(1)(L). [Pub. L. 110–371][/us/pl/110/371], § 7(d), inserted “Henry,” after “Grayson,” and “Patrick,” after “Montgomery,”.
 
 ----------
 
@@ -166,11 +166,11 @@ Pub. L. 89–4, title III, § 301, Mar. 9, 1965, 79 Stat. 19.  </td>
 
 [/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1254
-[/us/pl/110/371/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F371%2Fs7
+[/us/pl/110/371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F371
 [/us/stat/122/4042]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4042
-[/us/pl/110/371/s7/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F371%2Fs7%2Fa
-[/us/pl/110/371/s7/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F371%2Fs7%2Fb
-[/us/pl/110/371/s7/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F371%2Fs7%2Fc
-[/us/pl/110/371/s7/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F371%2Fs7%2Fd
+[/us/pl/110/371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F371
+[/us/pl/110/371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F371
+[/us/pl/110/371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F371
+[/us/pl/110/371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F371
 
 
