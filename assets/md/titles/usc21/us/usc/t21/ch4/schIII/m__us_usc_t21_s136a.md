@@ -39,7 +39,7 @@
 
             If a person subject to a fee under this subsection fails to pay the fee when due, the Secretary shall assess a late payment penalty, and the overdue fees shall accrue interest, as required by [section 3717 of title 31][/us/usc/t31/s3717].
 
-        (5) __Agricultural quarantine inspection user fee account__ 
+        (5) __Agricultural Quarantine Inspection User Fee Account__ 
 
             (A) __Establishment__ 
 

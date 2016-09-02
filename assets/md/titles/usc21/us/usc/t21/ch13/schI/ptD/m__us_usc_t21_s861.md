@@ -35,7 +35,7 @@
 
     (d) __Penalty for providing or distributing controlled substance to underage person__ 
 
-    Any person who violates subsection (a)(1) or (2) of this section  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be followed by a dash. </sup></sup> 
+    Any person who violates subsection (a)(1) or (2)  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be followed by a dash. </sup></sup> 
 
         (1) by knowingly providing or distributing a controlled substance or a controlled substance analogue to any person under eighteen years of age; or
 

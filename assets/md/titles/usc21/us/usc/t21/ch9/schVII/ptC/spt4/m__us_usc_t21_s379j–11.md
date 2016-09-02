@@ -15,7 +15,7 @@
 
 ## § 379j–11. Definitions
 
-For purposes of this subpart:
+    For purposes of this subpart:
 
     (1) The term “animal drug application” means an application for approval of any new animal drug submitted under [section 360b(b)(1) of this title][/us/usc/t21/s360b/b/1]. Such term does not include either a new animal drug application submitted under [section 360b(b)(2) of this title][/us/usc/t21/s360b/b/2] or a supplemental animal drug application.
 

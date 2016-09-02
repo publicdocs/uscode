@@ -67,7 +67,7 @@
 
         Schedules I, II, III, IV, and V shall, unless and until amended  <sup>\[1\]</sup>  <sup><sup> 1 Revised schedules are published in the Code of Federal Regulations, Part 1308 of Title 21, Food and Drugs. </sup></sup>  pursuant to [section 811 of this title][/us/usc/t21/s811], consist of the following drugs or other substances, by whatever official name, common or usual name, chemical name, or brand name designated:
 
-        Schedule I
+Schedule I
 
     (a)
 
@@ -149,7 +149,7 @@
 
         (38) Piritramide.
 
-        (39) Propheptazine.
+        (39) Proheptazine.
 
         (40) Properidine.
 
@@ -221,7 +221,7 @@
 
         (6) Dimethyltryptamine.
 
-        (7) 4-methyl-2,5-diamethoxyamphetamine.
+        (7) 4-methyl-2,5-dimethoxyamphetamine.
 
         (8) Ibogaine.
 
@@ -381,7 +381,9 @@
 
         (21) Racemorphan.
 
-    (c) Unless specifically excepted or unless listed in another schedule, any injectable liquid which contains any quantity of methamphetamine, including its salts, isomers, and salts of isomers.    Schedule III
+    (c) Unless specifically excepted or unless listed in another schedule, any injectable liquid which contains any quantity of methamphetamine, including its salts, isomers, and salts of isomers.
+
+Schedule III
 
     (a)
 
@@ -445,8 +447,6 @@
 
      Anabolic steroids.
 
-    Schedule IV
-
         (1) Barbital.
 
         (2) Chloral betaine.
@@ -467,23 +467,23 @@
 
         (10) Petrichloral.
 
-        (11)
+        (11) Phenobarbital.
 
-         Phenobarbital.
-
-        Schedule V
+    Schedule V
 
         Any compound, mixture, or preparation containing any of the following limited quantities of narcotic drugs, which shall include one or more nonnarcotic active medicinal ingredients in sufficient proportion to confer upon the compound, mixture, or preparation valuable medicinal qualities other than those possessed by the narcotic drug alone:
 
-            (1) Not more than 200 milligrams of codeine per 100 milliliters or per 100 grams.
+        (1) Not more than 200 milligrams of codeine per 100 milliliters or per 100 grams.
 
-            (2) Not more than 100 milligrams of dihydrocodeine per 100 milliliters or per 100 grams.
+        (2) Not more than 100 milligrams of dihydrocodeine per 100 milliliters or per 100 grams.
 
-            (3) Not more than 100 milligrams of ethylmorphine per 100 milliliters or per 100 grams.
+        (3) Not more than 100 milligrams of ethylmorphine per 100 milliliters or per 100 grams.
 
-            (4) Not more than 2.5 milligrams of diphenoxylate and not less than 25 micrograms of atropine sulfate per dosage unit.
+        (4) Not more than 2.5 milligrams of diphenoxylate and not less than 25 micrograms of atropine sulfate per dosage unit.
 
-            (5) Not more than 100 milligrams of opium per 100 milliliters or per 100 grams.
+        (5) Not more than 100 milligrams of opium per 100 milliliters or per 100 grams.
+
+Schedule IV
 
 ([Pub. L. 91–513, title II, § 202][/us/pl/91/513/s202], Oct. 27, 1970, [84 Stat. 1247][/us/stat/84/1247]; [Pub. L. 95–633, title I, § 103][/us/pl/95/633/s103], Nov. 10, 1978, [92 Stat. 3772][/us/stat/92/3772]; [Pub. L. 98–473, title II][/us/pl/98/473], §§ 507(c), 509(b), Oct. 12, 1984, [98 Stat. 2071][/us/stat/98/2071], 2072; [Pub. L. 99–570, title I, § 1867][/us/pl/99/570/s1867], Oct. 27, 1986, [100 Stat. 3207–55][/us/stat/100/3207-55]; [Pub. L. 99–646, § 84][/us/pl/99/646/s84], Nov. 10, 1986, [100 Stat. 3619][/us/stat/100/3619]; [Pub. L. 101–647, title XIX, § 1902(a)][/us/pl/101/647/s1902/a], Nov. 29, 1990, [104 Stat. 4851][/us/stat/104/4851]; [Pub. L. 112–144, title XI, § 1152][/us/pl/112/144/s1152], July 9, 2012, [126 Stat. 1130][/us/stat/126/1130].)
 

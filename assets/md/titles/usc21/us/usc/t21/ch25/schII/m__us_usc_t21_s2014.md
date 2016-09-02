@@ -15,7 +15,7 @@
 
 ## § 2014. Authorization of appropriations
 
-There are authorized to be appropriated—
+    There are authorized to be appropriated—
 
     (1)
 

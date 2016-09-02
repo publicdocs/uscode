@@ -15,7 +15,7 @@
 
 ## § 379j–51. Definitions
 
-For purposes of this subpart:
+    For purposes of this subpart:
 
     (1) The term “adjustment factor” applicable to a fiscal year that is the Consumer Price Index for all urban consumers (Washington-Baltimore, DC–MD–VA–WV; Not Seasonally Adjusted; All items) of the preceding fiscal year divided by such Index for September 2011.
 
@@ -143,7 +143,7 @@ For purposes of this subpart:
 
  __Termination of Section__ 
 
-For termination of section by [section 404(a) of Pub. L. 112–144][/us/pl/112/144/s404/a], see Effective and Termination Dates note set out below.
+    For termination of section by [section 404(a) of Pub. L. 112–144][/us/pl/112/144/s404/a], see Effective and Termination Dates note set out below.
 
  __Effective and Termination Dates__ 
 

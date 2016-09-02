@@ -15,7 +15,7 @@
 
 ## § 2251. Jurisdiction; authorities
 
-Nothing in this Act, or an amendment made by this Act, shall be construed to—
+    Nothing in this Act, or an amendment made by this Act, shall be construed to—
 
     (1) alter the jurisdiction between the Secretary of Agriculture and the Secretary of Health and Human Services, under applicable statutes, regulations, or agreements regarding voluntary inspection of non-amenable species under the Agricultural Marketing Act of 1946 ([7 U.S.C. 1621][/us/usc/t7/s1621] et seq.);
 

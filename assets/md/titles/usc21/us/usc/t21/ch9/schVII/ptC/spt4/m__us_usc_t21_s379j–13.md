@@ -93,7 +93,7 @@
 
  __Termination of Section__ 
 
-For termination of section by [section 107(b) of Pub. L. 113–14][/us/pl/113/14/s107/b], see Effective and Termination Dates note below.
+    For termination of section by [section 107(b) of Pub. L. 113–14][/us/pl/113/14/s107/b], see Effective and Termination Dates note below.
 
  __References in Text__ 
 

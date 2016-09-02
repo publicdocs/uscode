@@ -15,7 +15,7 @@
 
 ## § 2101. Findings
 
-Congress finds that—
+    Congress finds that—
 
     (1) the safety and integrity of the United States food supply are vital to public health, to public confidence in the food supply, and to the success of the food sector of the Nation’s economy;
 

@@ -323,7 +323,7 @@
 
  __Termination of Section__ 
 
-For termination of section by [section 107(a) of Pub. L. 113–14][/us/pl/113/14/s107/a], see Termination Date note below.
+    For termination of section by [section 107(a) of Pub. L. 113–14][/us/pl/113/14/s107/a], see Termination Date note below.
 
  __Amendments__ 
 

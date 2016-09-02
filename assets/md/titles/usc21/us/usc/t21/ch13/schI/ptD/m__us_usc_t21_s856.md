@@ -31,7 +31,7 @@
 
         A violation of subsection (a) of this section shall be considered an offense against property for purposes of [section 3663A(c)(1)(A)(ii) of title 18][/us/usc/t18/s3663A/c/1/A/ii].
 
-    (d) __Civil penalites__ 
+    (d) __Civil penalties__ 
 
         (1)
 

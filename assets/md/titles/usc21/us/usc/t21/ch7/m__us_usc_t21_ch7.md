@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t21/ch6/m__us_usc_t21_s200 to 200b.md) | [Next](./../../../..//us/usc/t21/ch7/m__us_usc_t21_s201.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fch7)
+[Previous](./../../../..//us/usc/t21/ch6/m__us_usc_t21_s199.md) | [Next](./../../../..//us/usc/t21/ch7/m__us_usc_t21_s201.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fch7)
 
 ## CHAPTER 7—PRACTICE OF PHARMACY AND SALE OF POISONS IN CONSULAR DISTRICTS IN CHINA
 
@@ -147,7 +147,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t21/ch6/m__us_usc_t21_s200 to 200b.md) | [Next](./../../../..//us/usc/t21/ch7/m__us_usc_t21_s201.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fch7)
+[Previous](./../../../..//us/usc/t21/ch6/m__us_usc_t21_s199.md) | [Next](./../../../..//us/usc/t21/ch7/m__us_usc_t21_s201.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fch7)
 
 ----------
 ----------

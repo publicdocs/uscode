@@ -17,7 +17,7 @@
 
  __Termination of Subpart__ 
 
-For termination of subpart by section 206(a), (b) of [Pub. L. 113–14][/us/pl/113/14], see Termination Date notes set out under sections 379j–21 and 379j–22 of this title.
+    For termination of subpart by section 206(a), (b) of [Pub. L. 113–14][/us/pl/113/14], see Termination Date notes set out under sections 379j–21 and 379j–22 of this title.
 
 ----------
 

@@ -15,7 +15,7 @@
 
 ## § 362. Misbranded cosmetics
 
-A cosmetic shall be deemed to be misbranded—
+    A cosmetic shall be deemed to be misbranded—
 
     (a) If its labeling is false or misleading in any particular.
 

@@ -15,7 +15,7 @@
 
 ## § 1033. Definitions
 
-For purposes of this chapter—
+    For purposes of this chapter—
 
     (a)
 

@@ -15,7 +15,7 @@
 
 ## § 1601. Findings
 
-The Congress finds that—
+    The Congress finds that—
 
     (1) each year millions of citizens of the United States depend on the availability of lifesaving or life-enhancing medical devices, many of which are permanently implantable within the human body;
 

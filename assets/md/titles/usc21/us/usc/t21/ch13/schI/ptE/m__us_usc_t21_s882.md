@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t21/ch13/schI/ptE/m__us_usc_t21_s881–1, 881a.md) | [Next](./../../../../../..//us/usc/t21/ch13/schI/ptE/m__us_usc_t21_s883.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs882)
+[Previous](./../../../../../..//us/usc/t21/ch13/schI/ptE/m__us_usc_t21_s881.md) | [Next](./../../../../../..//us/usc/t21/ch13/schI/ptE/m__us_usc_t21_s883.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs882)
 
 ## § 882. Injunctions
 
@@ -89,7 +89,7 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t21/ch13/schI/ptE/m__us_usc_t21_s881–1, 881a.md) | [Next](./../../../../../..//us/usc/t21/ch13/schI/ptE/m__us_usc_t21_s883.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs882)
+[Previous](./../../../../../..//us/usc/t21/ch13/schI/ptE/m__us_usc_t21_s881.md) | [Next](./../../../../../..//us/usc/t21/ch13/schI/ptE/m__us_usc_t21_s883.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs882)
 
 ----------
 ----------

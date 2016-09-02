@@ -15,7 +15,7 @@
 
 ## § 2107. Sense of Congress
 
-It is the sense of Congress that—
+    It is the sense of Congress that—
 
     (1) it is vital for Congress to provide the Food and Drug Administration with additional resources, authorities, and direction with respect to ensuring the safety of the food supply of the United States;
 

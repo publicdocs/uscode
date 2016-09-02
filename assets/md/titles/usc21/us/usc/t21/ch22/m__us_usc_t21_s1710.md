@@ -99,7 +99,7 @@
 
  __Repeal of Section__ 
 
-For repeal of section on Sept. 30, 2010, see [section 1712 of this title][/us/usc/t21/s1712].
+    For repeal of section on Sept. 30, 2010, see [section 1712 of this title][/us/usc/t21/s1712].
 
  __Amendments__ 
 

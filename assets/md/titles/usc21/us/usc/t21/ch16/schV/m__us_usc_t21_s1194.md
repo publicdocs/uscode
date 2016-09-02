@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t21/ch16/schV/m__us_usc_t21_s1191 to 1193.md) | [Next](./../../../../..//us/usc/t21/ch17/m__us_usc_t21_ch17.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs1194)
+[Previous](./../../../../..//us/usc/t21/ch16/schV/m__us_usc_t21_ch16_schV.md) | [Next](./../../../../..//us/usc/t21/ch17/m__us_usc_t21_ch17.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs1194)
 
 ## § 1194. Repealed. [Pub. L. 98–24, § 2(c)(2)][/us/pl/98/24/s2/c/2], Apr. 26, 1983, [97 Stat. 182][/us/stat/97/182]
 
@@ -19,7 +19,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t21/ch16/schV/m__us_usc_t21_s1191 to 1193.md) | [Next](./../../../../..//us/usc/t21/ch17/m__us_usc_t21_ch17.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs1194)
+[Previous](./../../../../..//us/usc/t21/ch16/schV/m__us_usc_t21_ch16_schV.md) | [Next](./../../../../..//us/usc/t21/ch17/m__us_usc_t21_ch17.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs1194)
 
 ----------
 ----------

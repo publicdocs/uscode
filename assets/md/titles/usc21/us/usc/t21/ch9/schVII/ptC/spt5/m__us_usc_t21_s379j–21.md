@@ -305,7 +305,7 @@
 
  __Termination of Section__ 
 
-For termination of section by [section 206(a) of Pub. L. 113–14][/us/pl/113/14/s206/a], see Termination Date note below.
+    For termination of section by [section 206(a) of Pub. L. 113–14][/us/pl/113/14/s206/a], see Termination Date note below.
 
  __Prior Provisions__ 
 

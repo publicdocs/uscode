@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t21/ch1/schI/m__us_usc_t21_s7 to 14.md) | [Next](./../../../../..//us/usc/t21/ch1/schI/m__us_usc_t21_s15.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs14a)
+[Previous](./../../../../..//us/usc/t21/ch1/schI/m__us_usc_t21_s6.md) | [Next](./../../../../..//us/usc/t21/ch1/schI/m__us_usc_t21_s15.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs14a)
 
 ## § 14a. Transferred
 
@@ -21,7 +21,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t21/ch1/schI/m__us_usc_t21_s7 to 14.md) | [Next](./../../../../..//us/usc/t21/ch1/schI/m__us_usc_t21_s15.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs14a)
+[Previous](./../../../../..//us/usc/t21/ch1/schI/m__us_usc_t21_s6.md) | [Next](./../../../../..//us/usc/t21/ch1/schI/m__us_usc_t21_s15.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs14a)
 
 ----------
 ----------

@@ -55,13 +55,13 @@
 
          In addition to the other penalties set forth in this section—
 
-            (A) any person engaging in or working in furtherance of a continuing criminal enterprise, or any person engaging in an offense punishable under [section 841(b)(1)(A) of this title][/us/usc/t21/s841/b/1/A] or [section 960(b)(1) of this title][/us/usc/t21/s960/b/1] who intentionally kills or counsels, commands, induces, procures, or causes the intentional killing of an individual and such killing results, shall be sentenced to any term of imprisonment, which shall not be less than 20 years, and which may be up to life imprisonment, or may be sentenced to death; and
+            (A) any person engaging in or working in furtherance of a continuing criminal enterprise, or any person engaging in an offense punishable under section 841(b)(1)(A)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of this title or section 960(b)(1)  <sup>\[1\]</sup>  of this title who intentionally kills or counsels, commands, induces, procures, or causes the intentional killing of an individual and such killing results, shall be sentenced to any term of imprisonment, which shall not be less than 20 years, and which may be up to life imprisonment, or may be sentenced to death; and
 
             (B) any person, during the commission of, in furtherance of, or while attempting to avoid apprehension, prosecution or service of a prison sentence for, a felony violation of this subchapter or subchapter II of this chapter who intentionally kills or counsels, commands, induces, procures, or causes the intentional killing of any Federal, State, or local law enforcement officer engaged in, or on account of, the performance of such officer’s official duties and such killing results, shall be sentenced to any term of imprisonment, which shall not be less than 20 years, and which may be up to life imprisonment, or may be sentenced to death.
 
         (2) As used in paragraph (1)(B), the term “law enforcement officer” means a public servant authorized by law or by a Government agency or Congress to conduct or engage in the prevention, investigation, prosecution or adjudication of an offense, and includes those engaged in corrections, probation, or parole functions.
 
-    (g)  __ <sup>\[__  __1__  __\]</sup> __  __ <sup><sup> __  __1__  __ So in original. Section does not contain a subsec. (f), see 1988 Amendment note below.__  __ </sup></sup> __  __to (p) Repealed.__  __[__  __Pub. L. 109–177, title II, § 221(2)__  __][/us/pl/109/177/s221/2]__  __,__  __Mar. 9, 2006__  __,__  __[__  __120 Stat. 231__  __][/us/stat/120/231]__ 
+    (g)  __ <sup>\[__  __2__  __\]</sup> __  __ <sup><sup> __  __2__  __ So in original. Section does not contain a subsec. (f), see 1988 Amendment note below.__  __ </sup></sup> __  __to (p) Repealed.__  __[__  __Pub. L. 109–177, title II, § 221(2)__  __][/us/pl/109/177/s221/2]__  __,__  __Mar. 9, 2006__  __,__  __[__  __120 Stat. 231__  __][/us/stat/120/231]__ 
 
     (q) __Repealed.__  __[__  __Pub. L. 109–177, title II__  __][/us/pl/109/177]__  __, §§ 221(4), 222(c),__  __Mar. 9, 2006__  __,__  __[__  __120 Stat. 231__  __][/us/stat/120/231]__  __, 232__ 
 
@@ -74,6 +74,10 @@
 ([Pub. L. 91–513, title II, § 408][/us/pl/91/513/s408], Oct. 27, 1970, [84 Stat. 1265][/us/stat/84/1265]; [Pub. L. 98–473, title II][/us/pl/98/473], §§ 224(b), formerly § 224(c), 305, Oct. 12, 1984, [98 Stat. 2030][/us/stat/98/2030], 2050; [Pub. L. 99–570, title I][/us/pl/99/570], §§ 1005(b)(2), 1252, 1253, Oct. 27, 1986, [100 Stat. 3207–6][/us/stat/100/3207-6], 3207–14; [Pub. L. 100–690, title VI, § 6481][/us/pl/100/690/s6481], title VII, § 7001, Nov. 18, 1988, [102 Stat. 4382][/us/stat/102/4382], 4387; [Pub. L. 103–322, title XXXIII][/us/pl/103/322], §§ 330003(e), 330009(d), 330014, Sept. 13, 1994, [108 Stat. 2141][/us/stat/108/2141], 2143, 2146; [Pub. L. 104–132, title I, § 108][/us/pl/104/132/s108], title IX, § 903(b), Apr. 24, 1996, [110 Stat. 1226][/us/stat/110/1226], 1318; [Pub. L. 109–177, title II][/us/pl/109/177], §§ 221, 222(c), title VII, § 733, Mar. 9, 2006, [120 Stat. 231][/us/stat/120/231], 232, 270.)
 
  __References in Text__ 
+
+    Section 841(b)(1)(A), referred to in subsec. (e)(1)(A), was in the original a reference to “section 841(b)(1)(A)” but probably should be a reference to “section 401(b)(1)(A)”, meaning [section 401(b)(1)(A) of Pub. L. 91–513][/us/pl/91/513/s401/b/1/A], title II, Oct. 27, 1970, [84 Stat. 1260][/us/stat/84/1260].
+
+    Section 960(b)(1), referred to in subsec. (e)(1)(A), was in the original a reference to “section 960(b)(1)” but probably should be a reference to “section 1010(b)(1)”, meaning [section 1010(b)(1) of Pub. L. 91–513][/us/pl/91/513/s1010/b/1], title III, Oct. 27, 1970, [84 Stat. 1290][/us/stat/84/1290].
 
     Act of July 15, 1932 (D.C. Code, secs. 24–203—24–207), referred to in subsec. (d), is [act July 15, 1932, ch. 492][/us/act/1932-07-15/ch492], [47 Stat. 696][/us/stat/47/696], as amended, which is not classified to the Code.
 
@@ -142,8 +146,6 @@
 [/us/usc/t21/s853]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs853
 [/us/usc/t21/s841/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs841%2Fb%2F1%2FB
 [/us/usc/t21/s841/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs841%2Fb%2F1%2FB
-[/us/usc/t21/s841/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs841%2Fb%2F1%2FA
-[/us/usc/t21/s960/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs960%2Fb%2F1
 [/us/pl/109/177/s221/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2Fs221%2F2
 [/us/stat/120/231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F231
 [/us/pl/109/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177
@@ -164,6 +166,10 @@
 [/us/stat/110/1226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1226
 [/us/pl/109/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177
 [/us/stat/120/231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F231
+[/us/pl/91/513/s401/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513%2Fs401%2Fb%2F1%2FA
+[/us/stat/84/1260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1260
+[/us/pl/91/513/s1010/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513%2Fs1010%2Fb%2F1
+[/us/stat/84/1290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1290
 [/us/act/1932-07-15/ch492]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1932-07-15%2Fch492
 [/us/stat/47/696]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F47%2F696
 [/us/pl/109/177/s221/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2Fs221%2F1

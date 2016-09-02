@@ -15,7 +15,7 @@
 
 ## § 801a. Congressional findings and declarations: psychotropic substances
 
-The Congress makes the following findings and declarations:
+    The Congress makes the following findings and declarations:
 
     (1) The Congress has long recognized the danger involved in the manufacture, distribution, and use of certain psychotropic substances for nonscientific and nonmedical purposes, and has provided strong and effective legislation to control illicit trafficking and to regulate legitimate uses of psychotropic substances in this country. Abuse of psychotropic substances has become a phenomenon common to many countries, however, and is not confined to national borders. It is, therefore, essential that the United States cooperate with other nations in establishing effective controls over international traffic in such substances.
 

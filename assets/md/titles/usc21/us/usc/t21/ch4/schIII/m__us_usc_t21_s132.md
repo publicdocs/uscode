@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t21/ch4/schIII/m__us_usc_t21_s129a to 131.md) | [Next](./../../../../..//us/usc/t21/ch4/schIII/m__us_usc_t21_s133.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs132)
+[Previous](./../../../../..//us/usc/t21/ch4/schIII/m__us_usc_t21_s129.md) | [Next](./../../../../..//us/usc/t21/ch4/schIII/m__us_usc_t21_s133.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs132)
 
 ## § 132. Transferred
 
@@ -21,7 +21,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t21/ch4/schIII/m__us_usc_t21_s129a to 131.md) | [Next](./../../../../..//us/usc/t21/ch4/schIII/m__us_usc_t21_s133.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs132)
+[Previous](./../../../../..//us/usc/t21/ch4/schIII/m__us_usc_t21_s129.md) | [Next](./../../../../..//us/usc/t21/ch4/schIII/m__us_usc_t21_s133.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs132)
 
 ----------
 ----------

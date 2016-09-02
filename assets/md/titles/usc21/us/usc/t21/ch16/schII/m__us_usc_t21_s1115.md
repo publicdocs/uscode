@@ -11,17 +11,17 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t21/ch16/schII/m__us_usc_t21_s1111 to 1114.md) | [Next](./../../../../..//us/usc/t21/ch16/schII/m__us_usc_t21_s1116.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs1115)
+[Previous](./../../../../..//us/usc/t21/ch16/schII/m__us_usc_t21_ch16_schII.md) | [Next](./../../../../..//us/usc/t21/ch16/schII/m__us_usc_t21_s1116.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs1115)
 
 ## § 1115. Notice relating to the control of dangerous drugs
 
-Whenever the Attorney General determines that there is evidence that—
+    Whenever the Attorney General determines that there is evidence that—
 
     (1) a drug or other substance, which is not a controlled substance (as defined in [section 802(6) of this title][/us/usc/t21/s802/6]), has a potential for abuse, or
 
     (2) a controlled substance should be transferred or removed from a schedule under [section 812 of this title][/us/usc/t21/s812],
 
-        he shall, prior to initiating any proceeding under [section 811(a) of this title][/us/usc/t21/s811/a], give the President timely notice of such determination. Information forwarded to the Attorney General pursuant to [section 811(f) of this title][/us/usc/t21/s811/f] shall also be forwarded by the Secretary of Health and Human Services to the President.
+    he shall, prior to initiating any proceeding under [section 811(a) of this title][/us/usc/t21/s811/a], give the President timely notice of such determination. Information forwarded to the Attorney General pursuant to [section 811(f) of this title][/us/usc/t21/s811/f] shall also be forwarded by the Secretary of Health and Human Services to the President.
 
 ([Pub. L. 92–255, title II, § 201][/us/pl/92/255/s201], formerly § 205, as added [Pub. L. 96–181, § 4][/us/pl/96/181/s4], Jan. 2, 1980, [93 Stat. 1311][/us/stat/93/1311]; amended [Pub. L. 97–35, title IX, § 973(a)][/us/pl/97/35/s973/a], Aug. 13, 1981, [95 Stat. 598][/us/stat/95/598]; renumbered § 201, [Pub. L. 100–690, title I, § 1007(c)(1)][/us/pl/100/690/s1007/c/1], Nov. 18, 1988, [102 Stat. 4187][/us/stat/102/4187].)
 
@@ -41,7 +41,7 @@ Whenever the Attorney General determines that there is evidence that—
 
 ----------
 
-[Previous](./../../../../..//us/usc/t21/ch16/schII/m__us_usc_t21_s1111 to 1114.md) | [Next](./../../../../..//us/usc/t21/ch16/schII/m__us_usc_t21_s1116.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs1115)
+[Previous](./../../../../..//us/usc/t21/ch16/schII/m__us_usc_t21_ch16_schII.md) | [Next](./../../../../..//us/usc/t21/ch16/schII/m__us_usc_t21_s1116.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs1115)
 
 ----------
 ----------

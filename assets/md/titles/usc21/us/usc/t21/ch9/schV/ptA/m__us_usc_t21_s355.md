@@ -2025,7 +2025,7 @@
 
 >         Nothing in this Act \[see Short Title of 1997 Amendment note set out under [section 301 of this title][/us/usc/t21/s301]\] shall prohibit the voluntary submission of such applications or the review of such applications by the Secretary of Health and Human Services. Nothing in this Act shall constitute an exemption for a positron emission tomography drug from the requirements of regulations issued under section 505(i) of the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 355(i)][/us/usc/t21/s355/i]).”
 
- __“Compounded Positron Emission Topography Drug” Defined__ 
+“Compounded Positron Emission Topography Drug” Defined
 
 [Pub. L. 105–115, title I, § 121(e)][/us/pl/105/115/s121/e], Nov. 21, 1997, [111 Stat. 2322][/us/stat/111/2322], provided that: 
 

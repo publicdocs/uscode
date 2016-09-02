@@ -15,7 +15,7 @@
 
 ## § 2110. Rule of construction
 
-Nothing in this chapter (or an amendment made by this chapter) shall be construed to affect—
+    Nothing in this chapter (or an amendment made by this chapter) shall be construed to affect—
 
     (1) the regulation of dietary supplements under the Dietary Supplement Health and Education Act of 1994 ([Public Law 103–417][/us/pl/103/417]); or
 

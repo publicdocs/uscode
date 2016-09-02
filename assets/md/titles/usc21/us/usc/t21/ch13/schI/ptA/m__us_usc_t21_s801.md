@@ -15,7 +15,7 @@
 
 ## § 801. Congressional findings and declarations: controlled substances
 
-The Congress makes the following findings and declarations:
+    The Congress makes the following findings and declarations:
 
     (1) Many of the drugs included within this subchapter have a useful and legitimate medical purpose and are necessary to maintain the health and general welfare of the American people.
 

@@ -19,9 +19,9 @@
 
     In this section—
 
-    “safety rest area” means a roadside facility with parking facilities for the rest or other needs of motorists.
+        “safety rest area” means a roadside facility with parking facilities for the rest or other needs of motorists.
 
-    “truck stop” means a facility (including any parking lot appurtenant thereto) that—
+        “truck stop” means a facility (including any parking lot appurtenant thereto) that—
 
         (A) has the capacity to provide fuel or service, or both, to any commercial motor vehicle (as defined in [section 31301 of title 49][/us/usc/t49/s31301]), operating in commerce (as defined in that section); and
 

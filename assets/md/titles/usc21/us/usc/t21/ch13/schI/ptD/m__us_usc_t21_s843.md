@@ -71,7 +71,7 @@
 
             (A) for a violation of paragraph (6) or (7) of subsection (a) of this section;
 
-            (B) for a felony under any other provision of this subchapter or subchapter II of this chapter; or
+            (B) for a felony under any other provision of this subchapter or subchapter II of this chapter;  <sup>\[2\]</sup>  <sup><sup> 2 See References in Text note below. </sup></sup>  or
 
             (C) under any other law of the United States or any State relating to controlled substances or listed chemicals,
 
@@ -83,7 +83,7 @@
 
     (f) __Injunctions__ 
 
-        (1) In addition to any penalty provided in this section, the Attorney General is authorized to commence a civil action for appropriate declaratory or injunctive relief relating to violations of this section, [section 842 of this title][/us/usc/t21/s842], or 856  <sup>\[2\]</sup>  <sup><sup> 2 So in original. Probably should be preceded by “section”. </sup></sup>  of this title.
+        (1) In addition to any penalty provided in this section, the Attorney General is authorized to commence a civil action for appropriate declaratory or injunctive relief relating to violations of this section, [section 842 of this title][/us/usc/t21/s842], or 856  <sup>\[3\]</sup>  <sup><sup> 3 So in original. Probably should be preceded by “section”. </sup></sup>  of this title.
 
         (2) Any action under this subsection may be brought in the district court of the United States for the district in which the defendant is located or resides or is doing business.
 
@@ -100,6 +100,8 @@
     This subchapter, referred to in subsec. (c)(2)(A), (C)(i), was in the original “this title”, meaning title II of [Pub. L. 91–513][/us/pl/91/513], Oct. 27, 1970, [84 Stat. 1242][/us/stat/84/1242], and is popularly known as the “Controlled Substances Act”. For complete classification of title II to the Code, see second paragraph of Short Title note set out under [section 801 of this title][/us/usc/t21/s801] and Tables.
 
     The Controlled Substances Import and Export Act, referred to in subsec. (c)(2)(A), is title III of [Pub. L. 91–513][/us/pl/91/513], Oct. 27, 1970, [84 Stat. 1285][/us/stat/84/1285], which is classified principally to subchapter II (§ 951 et seq.) of this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 951 of this title][/us/usc/t21/s951] and Tables.
+
+    This subchapter or subchapter II of this chapter, referred to in subsec. (d)(2)(B), was in the original a reference to “this subchapter or subchapter II of this chapter” but probably should be a reference to “this title or title III of this Act”, meaning titles II and III, respectively, of [Pub. L. 91–513][/us/pl/91/513], Oct. 27, 1970, [84 Stat. 1242][/us/stat/84/1242], 1285.
 
     The Federal Rules of Civil Procedure, referred to in subsec. (f)(4), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 
@@ -204,6 +206,8 @@
 [/us/pl/91/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513
 [/us/stat/84/1285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1285
 [/us/usc/t21/s951]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs951
+[/us/pl/91/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513
+[/us/stat/84/1242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1242
 [/us/pl/110/425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F425
 [/us/pl/108/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F21
 [/us/usc/t21/s842]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs842

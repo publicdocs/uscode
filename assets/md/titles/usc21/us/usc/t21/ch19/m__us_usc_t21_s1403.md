@@ -15,7 +15,7 @@
 
 ## § 1403. Pesticide analytical methods
 
-The Secretary of Health and Human Services shall, in consultation with the Administrator of the Environmental Protection Agency—
+    The Secretary of Health and Human Services shall, in consultation with the Administrator of the Environmental Protection Agency—
 
     (1)
 
@@ -27,7 +27,7 @@ The Secretary of Health and Human Services shall, in consultation with the Admin
 
     (2) conduct a review to determine whether the use of rapid pesticide analytical methods by the Secretary would enable the Secretary to improve the cost-effectiveness of monitoring and enforcement activities under the Federal Food, Drug, and Cosmetic Act \[[21 U.S.C. 301][/us/usc/t21/s301] et seq.\], including increasing the number of pesticide residues which can be detected and the number of tests for pesticide residues which can be conducted in a cost-effective manner.
 
-        The Secretary shall report the plan developed under paragraph (1), the resources necessary to carry out the research described in such paragraph, recommendations for the implementation of such research, and the result of the review conducted under paragraph (2) not later than the expiration of 240 days after August 23, 1988, to the Committee on Agriculture, Nutrition, and Forestry and the Committee on Labor and Human Resources of the Senate and the House of Representatives.
+    The Secretary shall report the plan developed under paragraph (1), the resources necessary to carry out the research described in such paragraph, recommendations for the implementation of such research, and the result of the review conducted under paragraph (2) not later than the expiration of 240 days after August 23, 1988, to the Committee on Agriculture, Nutrition, and Forestry and the Committee on Labor and Human Resources of the Senate and the House of Representatives.
 
 ([Pub. L. 100–418, title IV, § 4704][/us/pl/100/418/s4704], Aug. 23, 1988, [102 Stat. 1414][/us/stat/102/1414].)
 

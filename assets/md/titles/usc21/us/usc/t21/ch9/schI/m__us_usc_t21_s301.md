@@ -23,7 +23,9 @@
 
 [Act June 23, 1939, ch. 242][/us/act/1939-06-23/ch242], §§ 1, 2, [53 Stat. 853][/us/stat/53/853], 854, provided that:
 
->     “\[Sec. 1\] (a) The effective date of the following provisions of the Federal Food, Drug, and Cosmetic Act is hereby postponed until January 1, 1940: Sections 402(c) \[342(c) of this title\]; 403(e)(1) \[343(e)(1) of this title\]; 403(g), (h), (i), (j), and (k) \[343(g) to (k) of this title\]; 501(a), (4) \[351(a)(4) of this title\]; 502(b), (d), (e), (f), (g), and (h) \[352(b), (d) to (h) of this title\]; 601(e) \[361(e) of this title\]; and 602(b) \[362(b) of this title\].
+> “\[Sec. 1\]
+
+>      (a) The effective date of the following provisions of the Federal Food, Drug, and Cosmetic Act is hereby postponed until January 1, 1940: Sections 402(c) \[342(c) of this title\]; 403(e)(1) \[343(e)(1) of this title\]; 403(g), (h), (i), (j), and (k) \[343(g) to (k) of this title\]; 501(a), (4) \[351(a)(4) of this title\]; 502(b), (d), (e), (f), (g), and (h) \[352(b), (d) to (h) of this title\]; 601(e) \[361(e) of this title\]; and 602(b) \[362(b) of this title\].
 
 >     “(b) The Secretary of Agriculture shall promulgate regulations further postponing to July 1, 1940\[,\] the effective date of the provisions of sections 403(e)(1) \[343(e)(1) of this title\]; 403(g), (h), (i), (j), and (k) \[343(g) to (k)\]; 502(b), (d), (e), (f), (g), and (h) \[352(b), (d) to (h) of this title\]; and 602(b) \[362(b) of this title\] of such Act with respect to lithographed labeling which was manufactured prior to February 1, 1939, and to containers bearing labeling which, prior to February 1, 1939, was lithographed, etched, stamped, pressed, printed, fused or blown on or in such containers, where compliance with such provisions would be unduly burdensome by reason of causing the loss of valuable stocks of such labeling or containers, and where such postponement would not prevent the public interest being adequately served: Provided, That in no case shall such regulations apply to labeling which would not have complied with the requirements of the Food and Drugs Act of June 30, 1906, as amended.
 

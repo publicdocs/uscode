@@ -15,7 +15,7 @@
 
 ## § 613. Plans and reassessments
 
-The Secretary shall require that each establishment subject to inspection under this chapter shall, at a minimum—
+    The Secretary shall require that each establishment subject to inspection under this chapter shall, at a minimum—
 
     (1) prepare and maintain current procedures for the recall of all meat or meat food products produced and shipped by the establishment;
 

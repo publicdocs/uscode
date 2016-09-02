@@ -15,7 +15,7 @@
 
 ## § 802. Definitions
 
-As used in this subchapter:
+    As used in this subchapter:
 
     (1) The term “addict” means any individual who habitually uses any narcotic drug so as to endanger the public morals, health, safety, or welfare, or who is so far addicted to the use of narcotic drugs as to have lost the power of self-control with reference to his addiction.
 

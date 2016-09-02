@@ -93,7 +93,7 @@
 
  __Termination of Section__ 
 
-For termination of section by [section 206(b) of Pub. L. 113–14][/us/pl/113/14/s206/b], see Termination Date note below.
+    For termination of section by [section 206(b) of Pub. L. 113–14][/us/pl/113/14/s206/b], see Termination Date note below.
 
  __References in Text__ 
 

@@ -253,7 +253,7 @@
 
 >     “(2) may, except as provided in section 4 \[enacting [section 343a of this title][/us/usc/t21/s343a], amending sections 321 and 343 of this title, and enacting provisions set out as notes under [section 343 of this title][/us/usc/t21/s343]\] and the amendments made by such section, not take any other action under the Federal Food, Drug, and Cosmetic Act \[this chapter\] to prohibit or restrict the sale or distribution of saccharin, any food permitted by such interim food additive regulation to contain saccharin, or any drug or cosmetic containing saccharin,
 
->         solely on the basis of the carcinogenic or other toxic effect of saccharin as determined by any study made available to the Secretary before the date of the enactment of this Act \[Nov. 23, 1977\] which involved human studies or animal testing, or both.”
+>     solely on the basis of the carcinogenic or other toxic effect of saccharin as determined by any study made available to the Secretary before the date of the enactment of this Act \[Nov. 23, 1977\] which involved human studies or animal testing, or both.”
 
     \[Definition of “saccharin” as used in [section 3 of Pub. L. 95–203][/us/pl/95/203/s3], set out above, to include calcium saccharin, sodium saccharin, and ammonium saccharin, see [Pub. L. 95–203, § 2(d)][/us/pl/95/203/s2/d], Nov. 23, 1997, [91 Stat. 1452][/us/stat/91/1452].\]
 

@@ -15,7 +15,7 @@
 
 ## § 1521. Findings
 
-Congress finds the following:
+    Congress finds the following:
 
     (1) Substance abuse among youth has more than doubled in the 5-year period preceding 1996, with substantial increases in the use of marijuana, inhalants, cocaine, methamphetamine, LSD, and heroin.
 

@@ -81,7 +81,7 @@
 
  __Termination of Section__ 
 
-For termination of section by [section 404(b) of Pub. L. 112–144][/us/pl/112/144/s404/b], see Effective and Termination Dates note set out below.
+    For termination of section by [section 404(b) of Pub. L. 112–144][/us/pl/112/144/s404/b], see Effective and Termination Dates note set out below.
 
  __References in Text__ 
 

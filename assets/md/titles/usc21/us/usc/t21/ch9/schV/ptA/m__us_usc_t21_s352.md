@@ -15,7 +15,7 @@
 
 ## § 352. Misbranded drugs and devices
 
-A drug or device shall be deemed to be misbranded—
+    A drug or device shall be deemed to be misbranded—
 
     (a) __False or misleading label__ 
 

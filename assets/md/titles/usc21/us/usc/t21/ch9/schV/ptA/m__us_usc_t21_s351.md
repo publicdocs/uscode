@@ -15,7 +15,7 @@
 
 ## § 351. Adulterated drugs and devices
 
-A drug or device shall be deemed to be adulterated—
+    A drug or device shall be deemed to be adulterated—
 
     (a) __Poisonous, insanitary, etc., ingredients; adequate controls in manufacture__ 
 

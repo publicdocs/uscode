@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t21/ch13/schI/ptE/m__us_usc_t21_s880.md) | [Next](./../../../../../..//us/usc/t21/ch13/schI/ptE/m__us_usc_t21_s881–1, 881a.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs881)
+[Previous](./../../../../../..//us/usc/t21/ch13/schI/ptE/m__us_usc_t21_s880.md) | [Next](./../../../../../..//us/usc/t21/ch13/schI/ptE/m__us_usc_t21_s882.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs881)
 
 ## § 881. Forfeitures
 
@@ -295,9 +295,7 @@
 
 >             “(B) the owner establishes a valid, good faith interest in the seized property as owner or otherwise; and
 
->             “(C)
-
->                 (1) the owner establishes that the owner at no time had any knowledge or reason to believe that the property in which the owner claims an interest was being or would be used in a violation of the law; and
+>             “(C)    (1) the owner establishes that the owner at no time had any knowledge or reason to believe that the property in which the owner claims an interest was being or would be used in a violation of the law; and
 
 >                 “(2) if the owner at any time had, or should have had, knowledge or reason to believe that the property in which the owner claims an interest was being or would be used in a violation of the law, that the owner did what reasonably could be expected to prevent the violation.
 
@@ -315,9 +313,17 @@
 
 >     For the purposes of this section, personal use quantities of a controlled substance shall not include sweepings or other evidence of non-personal use amounts.”
 
+§§ 881–1, 881a. __Transferred__ 
+
+ __Codification__ 
+
+    Section 881–1, [Pub. L. 91–513, title II, § 511A][/us/pl/91/513/s511A], as added [Pub. L. 100–690, title VI, § 6080(a)][/us/pl/100/690/s6080/a], Nov. 18, 1988, [102 Stat. 4326][/us/stat/102/4326], which related to expedited procedures for seized conveyances, was renumbered [§ 518 of Pub. L. 91–513][/us/pl/91/513/s518] by [Pub. L. 101–647, title X, § 1002(h)(1)][/us/pl/101/647/s1002/h/1], Nov. 29, 1990, [104 Stat. 4828][/us/stat/104/4828], transferred to [section 888 of this title][/us/usc/t21/s888] and subsequently repealed.
+
+    Section 881a, [Pub. L. 99–198, title XVII, § 1764][/us/pl/99/198/s1764], Dec. 23, 1985, [99 Stat. 1652][/us/stat/99/1652], which related to production control of controlled substances, was renumbered section 519 of the Controlled Substances Act by [Pub. L. 101–647, title X, § 1002(h)(2)][/us/pl/101/647/s1002/h/2], Nov. 29, 1990, [104 Stat. 4828][/us/stat/104/4828], and is classified to [section 889 of this title][/us/usc/t21/s889].
+
 ----------
 
-[Previous](./../../../../../..//us/usc/t21/ch13/schI/ptE/m__us_usc_t21_s880.md) | [Next](./../../../../../..//us/usc/t21/ch13/schI/ptE/m__us_usc_t21_s881–1, 881a.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs881)
+[Previous](./../../../../../..//us/usc/t21/ch13/schI/ptE/m__us_usc_t21_s880.md) | [Next](./../../../../../..//us/usc/t21/ch13/schI/ptE/m__us_usc_t21_s882.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs881)
 
 ----------
 ----------
@@ -435,5 +441,17 @@
 [/us/act/1939-08-09/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-08-09%2Fs2
 [/us/stat/53/1291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F53%2F1291
 [/us/usc/t49/s80303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs80303
+[/us/pl/91/513/s511A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513%2Fs511A
+[/us/pl/100/690/s6080/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs6080%2Fa
+[/us/stat/102/4326]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4326
+[/us/pl/91/513/s518]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513%2Fs518
+[/us/pl/101/647/s1002/h/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs1002%2Fh%2F1
+[/us/stat/104/4828]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4828
+[/us/usc/t21/s888]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs888
+[/us/pl/99/198/s1764]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1764
+[/us/stat/99/1652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1652
+[/us/pl/101/647/s1002/h/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs1002%2Fh%2F2
+[/us/stat/104/4828]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4828
+[/us/usc/t21/s889]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs889
 
 

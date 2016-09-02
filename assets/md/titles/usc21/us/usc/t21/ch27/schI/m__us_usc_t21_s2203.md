@@ -15,7 +15,7 @@
 
 ## § 2203. Food and Agriculture Coordinating Councils
 
-The Secretary of Homeland Security, in coordination with the Secretary of Health and Human Services and the Secretary of Agriculture, shall within 180 days of January 4, 2011, and annually thereafter, submit to the relevant committees of Congress, and make publicly available on the Internet Web site of the Department of Homeland Security, a report on the activities of the Food and Agriculture Government Coordinating Council and the Food and Agriculture Sector Coordinating Council, including the progress of such Councils on—
+    The Secretary of Homeland Security, in coordination with the Secretary of Health and Human Services and the Secretary of Agriculture, shall within 180 days of January 4, 2011, and annually thereafter, submit to the relevant committees of Congress, and make publicly available on the Internet Web site of the Department of Homeland Security, a report on the activities of the Food and Agriculture Government Coordinating Council and the Food and Agriculture Sector Coordinating Council, including the progress of such Councils on—
 
     (1) facilitating partnerships between public and private entities to help coordinate and enhance the protection of the agriculture and food system of the United States;
 

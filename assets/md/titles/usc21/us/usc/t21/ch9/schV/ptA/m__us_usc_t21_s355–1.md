@@ -163,7 +163,7 @@
 
             The Secretary, in consultation with the offices described in subsection (c)(2), may under such subsection require that the risk evaluation and mitigation strategy for a drug include 1 or more of the additional elements described in this subsection if the Secretary makes the determination required with respect to each element involved.
 
-        (2) __Medication guide; patient package insert__ 
+        (2) __Medication Guide; patient package insert__ 
 
         The risk evaluation and mitigation strategy for a drug may require that, as applicable, the responsible person develop for distribution to each patient when the drug is dispensed—
 

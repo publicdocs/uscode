@@ -15,7 +15,7 @@
 
 ## § 2221. Food emergency response network
 
-The Secretary, in coordination with the Secretary of Agriculture, the Secretary of Homeland Security, and State, local, and tribal governments shall, not later than 180 days after January 4, 2011, and biennially thereafter, submit to the relevant committees of Congress, and make publicly available on the Internet Web site of the Department of Health and Human Services, a report on the progress in implementing a national food emergency response laboratory network that—
+    The Secretary, in coordination with the Secretary of Agriculture, the Secretary of Homeland Security, and State, local, and tribal governments shall, not later than 180 days after January 4, 2011, and biennially thereafter, submit to the relevant committees of Congress, and make publicly available on the Internet Web site of the Department of Health and Human Services, a report on the progress in implementing a national food emergency response laboratory network that—
 
     (1) provides ongoing surveillance, rapid detection, and surge capacity for large-scale food-related emergencies, including intentional adulteration of the food supply;
 

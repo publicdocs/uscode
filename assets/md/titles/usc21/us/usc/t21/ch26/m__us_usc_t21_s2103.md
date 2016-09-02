@@ -15,7 +15,7 @@
 
 ## § 2103. Ensuring efficient and effective communications during a recall
 
-The Secretary shall, during an ongoing recall of human or pet food regulated by the Secretary—
+    The Secretary shall, during an ongoing recall of human or pet food regulated by the Secretary—
 
     (1) work with companies, relevant professional associations, and other organizations to collect and aggregate information pertaining to the recall;
 

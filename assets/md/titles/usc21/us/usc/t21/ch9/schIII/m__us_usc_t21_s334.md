@@ -147,15 +147,15 @@
 
  __Amendment of Subsection (g)__ 
 
-[Pub. L. 112–144, title VII, § 709(a)][/us/pl/112/144/s709/a], (c), July 9, 2012, [126 Stat. 1069][/us/stat/126/1069], 1070, provided that, effective on the date of issuance of certain final regulations (see Regulations note below), subsection (g) of this section is amended:
+    [Pub. L. 112–144, title VII, § 709(a)][/us/pl/112/144/s709/a], (c), July 9, 2012, [126 Stat. 1069][/us/stat/126/1069], 1070, provided that, effective on the date of issuance of certain final regulations (see Regulations note below), subsection (g) of this section is amended:
 
-(1) in paragraph (1), by inserting “, drug,” after “device” each place it appears;
+    (1) in paragraph (1), by inserting “, drug,” after “device” each place it appears;
 
-(2) in paragraph (2)(A), by inserting “, drug,” after “(B), a device”; and
+    (2) in paragraph (2)(A), by inserting “, drug,” after “(B), a device”; and
 
-(3) in paragraph (2)(B), by inserting “or drug” after “device” each place it appears.
+    (3) in paragraph (2)(B), by inserting “or drug” after “device” each place it appears.
 
-See 2012 Amendment notes below.
+    See 2012 Amendment notes below.
 
  __Amendments__ 
 

@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t21/ch4/schIII/m__us_usc_t21_s111, 112.md) | [Next](./../../../../..//us/usc/t21/ch4/schIII/m__us_usc_t21_s113.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs112a)
+[Previous](./../../../../..//us/usc/t21/ch4/schIII/m__us_usc_t21_ch4_schIII.md) | [Next](./../../../../..//us/usc/t21/ch4/schIII/m__us_usc_t21_s113.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs112a)
 
 ## § 112a. Omitted
 
@@ -21,7 +21,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t21/ch4/schIII/m__us_usc_t21_s111, 112.md) | [Next](./../../../../..//us/usc/t21/ch4/schIII/m__us_usc_t21_s113.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs112a)
+[Previous](./../../../../..//us/usc/t21/ch4/schIII/m__us_usc_t21_ch4_schIII.md) | [Next](./../../../../..//us/usc/t21/ch4/schIII/m__us_usc_t21_s113.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs112a)
 
 ----------
 ----------

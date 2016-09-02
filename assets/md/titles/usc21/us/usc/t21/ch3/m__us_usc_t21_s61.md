@@ -15,7 +15,7 @@
 
 ## § 61. Definitions
 
-Whenever used in this chapter—
+    Whenever used in this chapter—
 
     (a) The term “person” includes an individual, partnership, corporation, or association;
 

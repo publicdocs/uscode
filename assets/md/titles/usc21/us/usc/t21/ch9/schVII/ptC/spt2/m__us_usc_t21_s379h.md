@@ -319,7 +319,7 @@
 
  __Termination of Section__ 
 
-For termination of section by [section 105(a) of Pub. L. 112–144][/us/pl/112/144/s105/a], see Termination Date note below.
+    For termination of section by [section 105(a) of Pub. L. 112–144][/us/pl/112/144/s105/a], see Termination Date note below.
 
  __References in Text__ 
 

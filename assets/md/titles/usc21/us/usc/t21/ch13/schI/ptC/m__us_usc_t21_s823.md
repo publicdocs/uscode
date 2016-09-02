@@ -203,7 +203,7 @@
 
             (J)
 
-                (i) This paragraph takes effect the date referred to in subparagraph (I), and remains in effect thereafter.
+                (i) This paragraph takes effect on the date referred to in subparagraph (I), and remains in effect thereafter.
 
                 (ii)
 

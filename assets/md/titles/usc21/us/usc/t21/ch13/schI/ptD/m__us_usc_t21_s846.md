@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t21/ch13/schI/ptD/m__us_usc_t21_s845 to 845b.md) | [Next](./../../../../../..//us/usc/t21/ch13/schI/ptD/m__us_usc_t21_s847.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs846)
+[Previous](./../../../../../..//us/usc/t21/ch13/schI/ptD/m__us_usc_t21_s844a.md) | [Next](./../../../../../..//us/usc/t21/ch13/schI/ptD/m__us_usc_t21_s847.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs846)
 
 ## § 846. Attempt and conspiracy
 
@@ -25,7 +25,7 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t21/ch13/schI/ptD/m__us_usc_t21_s845 to 845b.md) | [Next](./../../../../../..//us/usc/t21/ch13/schI/ptD/m__us_usc_t21_s847.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs846)
+[Previous](./../../../../../..//us/usc/t21/ch13/schI/ptD/m__us_usc_t21_s844a.md) | [Next](./../../../../../..//us/usc/t21/ch13/schI/ptD/m__us_usc_t21_s847.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs846)
 
 ----------
 ----------

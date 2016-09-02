@@ -15,7 +15,7 @@
 
 ## § 1523. Definitions
 
-In this subchapter:
+    In this subchapter:
 
     (1) __Administrator__ 
 

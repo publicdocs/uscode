@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t21/ch16/schIV/m__us_usc_t21_s1174, 1175.md) | [Next](./../../../../..//us/usc/t21/ch16/schIV/m__us_usc_t21_s1177.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs1176)
+[Previous](./../../../../..//us/usc/t21/ch16/schIV/m__us_usc_t21_s1173.md) | [Next](./../../../../..//us/usc/t21/ch16/schIV/m__us_usc_t21_s1177.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs1176)
 
 ## § 1176. Repealed. [Pub. L. 97–35, title IX, § 969(a)][/us/pl/97/35/s969/a], Aug. 13, 1981, [95 Stat. 595][/us/stat/95/595]
 
@@ -19,7 +19,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t21/ch16/schIV/m__us_usc_t21_s1174, 1175.md) | [Next](./../../../../..//us/usc/t21/ch16/schIV/m__us_usc_t21_s1177.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs1176)
+[Previous](./../../../../..//us/usc/t21/ch16/schIV/m__us_usc_t21_s1173.md) | [Next](./../../../../..//us/usc/t21/ch16/schIV/m__us_usc_t21_s1177.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs1176)
 
 ----------
 ----------

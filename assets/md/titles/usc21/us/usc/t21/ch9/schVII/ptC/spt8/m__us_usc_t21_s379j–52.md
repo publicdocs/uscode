@@ -327,7 +327,7 @@
 
  __Termination of Section__ 
 
-For termination of section by [section 404(a) of Pub. L. 112–144][/us/pl/112/144/s404/a], see Effective and Termination Dates note below.
+    For termination of section by [section 404(a) of Pub. L. 112–144][/us/pl/112/144/s404/a], see Effective and Termination Dates note below.
 
  __References in Text__ 
 

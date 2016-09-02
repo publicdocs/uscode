@@ -451,7 +451,7 @@
 
  __Termination of Section__ 
 
-For termination of section by [section 304(a) of Pub. L. 112–144][/us/pl/112/144/s304/a], see Effective and Termination Dates note below.
+    For termination of section by [section 304(a) of Pub. L. 112–144][/us/pl/112/144/s304/a], see Effective and Termination Dates note below.
 
  __Amendments__ 
 

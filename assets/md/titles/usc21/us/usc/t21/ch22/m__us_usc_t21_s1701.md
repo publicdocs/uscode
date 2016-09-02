@@ -15,7 +15,7 @@
 
 ## § 1701. Definitions
 
-In this chapter:
+    In this chapter:
 
     (1) __Demand reduction__ 
 
@@ -121,7 +121,7 @@ In this chapter:
 
  __Repeal of Section__ 
 
-For repeal of section on Sept. 30, 2010, see [section 1712 of this title][/us/usc/t21/s1712].
+    For repeal of section on Sept. 30, 2010, see [section 1712 of this title][/us/usc/t21/s1712].
 
  __References in Text__ 
 

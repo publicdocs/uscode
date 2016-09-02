@@ -15,7 +15,7 @@
 
 ## § 361. Adulterated cosmetics
 
-A cosmetic shall be deemed to be adulterated—
+    A cosmetic shall be deemed to be adulterated—
 
     (a) If it bears or contains any poisonous or deleterious substance which may render it injurious to users under the conditions of use prescribed in the labeling thereof, or under such conditions of use as are customary or usual, except that this provision shall not apply to coal-tar hair dye, the label of which bears the following legend conspicuously displayed thereon: “Caution—This product contains ingredients which may cause skin irritation on certain individuals and a preliminary test according to accompanying directions should first be made. This product must not be used for dyeing the eyelashes or eyebrows; to do so may cause blindness.”, and the labeling of which bears adequate directions for such preliminary testing. For the purposes of this paragraph and paragraph (e) the term “hair dye” shall not include eyelash dyes or eyebrow dyes.
 

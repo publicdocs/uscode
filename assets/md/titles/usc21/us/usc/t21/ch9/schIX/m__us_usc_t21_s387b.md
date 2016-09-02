@@ -15,7 +15,7 @@
 
 ## § 387b. Adulterated tobacco products
 
-A tobacco product shall be deemed to be adulterated if—
+    A tobacco product shall be deemed to be adulterated if—
 
     (1) it consists in whole or in part of any filthy, putrid, or decomposed substance, or is otherwise contaminated by any added poisonous or added deleterious substance that may render the product injurious to health;
 

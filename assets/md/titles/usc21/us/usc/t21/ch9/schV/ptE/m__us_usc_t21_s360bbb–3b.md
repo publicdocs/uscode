@@ -15,7 +15,7 @@
 
 ## § 360bbb–3b. Products held for emergency use
 
-It is not a violation of any section of this chapter or of the Public Health Service Act \[[42 U.S.C. 201][/us/usc/t42/s201] et seq.\] for a government entity (including a Federal, State, local, or tribal government entity), or a person acting on behalf of such a government entity, to introduce into interstate commerce a product (as defined in [section 360bbb–3(a)(4) of this title][/us/usc/t21/s360bbb–3/a/4]) intended for emergency use, if that product—
+    It is not a violation of any section of this chapter or of the Public Health Service Act \[[42 U.S.C. 201][/us/usc/t42/s201] et seq.\] for a government entity (including a Federal, State, local, or tribal government entity), or a person acting on behalf of such a government entity, to introduce into interstate commerce a product (as defined in [section 360bbb–3(a)(4) of this title][/us/usc/t21/s360bbb–3/a/4]) intended for emergency use, if that product—
 
     (1) is intended to be held and not used; and
 

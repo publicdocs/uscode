@@ -15,7 +15,7 @@
 
 ## § 2003. Authorization of appropriations
 
-There are authorized to be appropriated to the United States Anti-Doping Agency—
+    There are authorized to be appropriated to the United States Anti-Doping Agency—
 
     (1) for fiscal year 2007, $9,700,000;
 

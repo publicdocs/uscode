@@ -15,7 +15,7 @@
 
 ## § 2011. Definitions
 
-In this subchapter—
+    In this subchapter—
 
     (1) the term “Council” means the National Methamphetamine Advisory Council established under [section 2012(b)(1) of this title][/us/usc/t21/s2012/b/1];
 

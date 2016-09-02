@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t21/ch11/m__us_usc_t21_s501 to 517.md) | [Next](./../../../..//us/usc/t21/ch12/schI/m__us_usc_t21_ch12_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fch12)
+[Previous](./../../../..//us/usc/t21/ch11/m__us_usc_t21_ch11.md) | [Next](./../../../..//us/usc/t21/ch12/schI/m__us_usc_t21_ch12_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fch12)
 
 ## CHAPTER 12—MEAT INSPECTION
 
@@ -475,7 +475,7 @@ SUBCHAPTER V—MISCELLANEOUS PROVISIONS  </td>
 
 ----------
 
-[Previous](./../../../..//us/usc/t21/ch11/m__us_usc_t21_s501 to 517.md) | [Next](./../../../..//us/usc/t21/ch12/schI/m__us_usc_t21_ch12_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fch12)
+[Previous](./../../../..//us/usc/t21/ch11/m__us_usc_t21_ch11.md) | [Next](./../../../..//us/usc/t21/ch12/schI/m__us_usc_t21_ch12_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fch12)
 
 ----------
 ----------

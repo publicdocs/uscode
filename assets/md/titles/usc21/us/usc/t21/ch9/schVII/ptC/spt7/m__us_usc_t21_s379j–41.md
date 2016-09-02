@@ -15,7 +15,7 @@
 
 ## § 379j–41. Definitions
 
-For purposes of this subpart:
+    For purposes of this subpart:
 
     (1)
 
@@ -153,7 +153,7 @@ For purposes of this subpart:
 
  __Termination of Section__ 
 
-For termination of section by [section 304(a) of Pub. L. 112–144][/us/pl/112/144/s304/a], see Effective and Termination Dates note set out below.
+    For termination of section by [section 304(a) of Pub. L. 112–144][/us/pl/112/144/s304/a], see Effective and Termination Dates note set out below.
 
  __References in Text__ 
 

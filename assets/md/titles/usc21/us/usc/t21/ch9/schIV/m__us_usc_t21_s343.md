@@ -15,7 +15,7 @@
 
 ## § 343. Misbranded food
 
-A food shall be deemed to be misbranded—
+    A food shall be deemed to be misbranded—
 
     (a) __False or misleading label__ 
 
@@ -1119,11 +1119,11 @@ A food shall be deemed to be misbranded—
 
 [Pub. L. 103–80, § 2(a)][/us/pl/103/80/s2/a], Aug. 13, 1993, [107 Stat. 773][/us/stat/107/773], provided that:
 
->     “(1) __Before may 8, 1995.—__ 
+>     “(1) __Before__  __may 8, 1995__  __.—__ 
 
 >     Before May 8, 1995, the exemption provided by section 403(q)(5)(D) of the Federal Food, Drug, and Cosmetic Act \[[21 U.S.C. 343(q)(5)(D)][/us/usc/t21/s343/q/5/D]\] shall be available in accordance with the regulations of the Secretary of Health and Human Services published at 21 C.F.R. 101.9(j)(1)(i)(1993).
 
->     “(2) __After may 8, 1995.—__ 
+>     “(2) __After__  __may 8, 1995__  __.—__ 
 
 >     After May 8, 1995, the exemption provided by section 403(q)(5)(D) of the Federal Food, Drug, and Cosmetic Act shall only be available with respect to food when it is sold to consumers.”
 

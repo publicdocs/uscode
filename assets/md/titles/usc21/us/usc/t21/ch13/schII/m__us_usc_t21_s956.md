@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t21/ch13/schII/m__us_usc_t21_s955a to 955d.md) | [Next](./../../../../..//us/usc/t21/ch13/schII/m__us_usc_t21_s957.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs956)
+[Previous](./../../../../..//us/usc/t21/ch13/schII/m__us_usc_t21_s955.md) | [Next](./../../../../..//us/usc/t21/ch13/schII/m__us_usc_t21_s957.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs956)
 
 ## § 956. Exemption authority
 
@@ -51,7 +51,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t21/ch13/schII/m__us_usc_t21_s955a to 955d.md) | [Next](./../../../../..//us/usc/t21/ch13/schII/m__us_usc_t21_s957.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs956)
+[Previous](./../../../../..//us/usc/t21/ch13/schII/m__us_usc_t21_s955.md) | [Next](./../../../../..//us/usc/t21/ch13/schII/m__us_usc_t21_s957.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs956)
 
 ----------
 ----------

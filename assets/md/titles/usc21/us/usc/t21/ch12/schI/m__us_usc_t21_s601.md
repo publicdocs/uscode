@@ -15,7 +15,7 @@
 
 ## § 601. Definitions
 
-As used in this chapter, except as otherwise specified, the following terms shall have the meanings stated below:
+    As used in this chapter, except as otherwise specified, the following terms shall have the meanings stated below:
 
     (a) The term “Secretary” means the Secretary of Agriculture of the United States or his delegate.
 

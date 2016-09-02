@@ -71,17 +71,19 @@
 
 >                 Members of the Commission—
 
->                      “(I) shall have specialized training or significant experience in matters under the jurisdiction of the Commission; and
+>                          “(I) shall have specialized training or significant experience in matters under the jurisdiction of the Commission; and
 
->                      “(II) shall represent, at a minimum—
+>                          “(II)
 
->                     “(aa) consumers;
+>                      shall represent, at a minimum—
 
->                     “(bb) food scientists;
+>                         “(aa) consumers;
 
->                     “(cc) the food industry; and
+>                         “(bb) food scientists;
 
->                     “(dd) health professionals.
+>                         “(cc) the food industry; and
+
+>                         “(dd) health professionals.
 
 >                 “(ii) __Federal employees.—__ 
 
@@ -97,7 +99,11 @@
 
 >                 “(i) shall not affect the powers of the Commission; and
 
->                 “(ii) shall be filled—         “(I) not later than 60 days after the date on which the vacancy occurs; and
+>                 “(ii)
+
+>                  shall be filled—
+
+>                          “(I) not later than 60 days after the date on which the vacancy occurs; and
 
 >                          “(II) in the same manner as the original appointment was made.
 
@@ -167,7 +173,9 @@
 
 >                 “(i) __In general.—__ 
 
->                 For purposes of [section 1905 of title 18][/us/usc/t18/s1905], United States Code—         “(I) the Commission shall be considered an agency of the Federal Government; and
+>                 For purposes of [section 1905 of title 18][/us/usc/t18/s1905], United States Code—
+
+>                          “(I) the Commission shall be considered an agency of the Federal Government; and
 
 >                          “(II) any individual employed by an individual, entity, or organization that is a party to a contract with the Commission under this section shall be considered an employee of the Commission.
 

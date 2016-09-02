@@ -11,16 +11,55 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t21/ch22/m__us_usc_t21_s1714.md) | [Next](./../../../..//us/usc/t21/ch23/m__us_usc_t21_s1801 to 1804.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fch23)
+[Previous](./../../../..//us/usc/t21/ch22/m__us_usc_t21_s1714.md) | [Next](./../../../..//us/usc/t21/ch24/m__us_usc_t21_ch24.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fch23)
 
 ## CHAPTER 23—NATIONAL YOUTH ANTI-DRUG MEDIA CAMPAIGN
 
+§§ 1801 to 1804. __Repealed.__  __[__  __Pub. L. 109–469, title V, § 501(b)__  __][/us/pl/109/469/s501/b]__  __,__  __Dec. 29, 2006__  __,__  __[__  __120 Stat. 3533__  __][/us/stat/120/3533]__ 
+
+    Section 1801, [Pub. L. 105–277, div. D, title I, § 102][/us/pl/105/277/s102], Oct. 21, 1998, [112 Stat. 2681–752][/us/stat/112/2681-752], related to requirement to conduct national media campaign.
+
+    Section 1802, [Pub. L. 105–277, div. D, title I, § 103][/us/pl/105/277/s103], Oct. 21, 1998, [112 Stat. 2681–752][/us/stat/112/2681-752], related to use of funds.
+
+    Section 1803, [Pub. L. 105–277, div. D, title I, § 104][/us/pl/105/277/s104], Oct. 21, 1998, [112 Stat. 2681–753][/us/stat/112/2681-753], related to reports to Congress.
+
+    Section 1804, [Pub. L. 105–277, div. D, title I, § 105][/us/pl/105/277/s105], Oct. 21, 1998, [112 Stat. 2681–753][/us/stat/112/2681-753], related to authorization of appropriations.
+
+ __Short Title__ 
+
+[Pub. L. 105–277, div. D, § 1(a)][/us/pl/105/277/s1/a], Oct. 21, 1998, [112 Stat. 2681–751][/us/stat/112/2681-751], provided that: 
+
+> “This division \[enacting this chapter and [section 7144 of Title 20][/us/usc/t20/s7144], Education, and enacting provisions set out as notes under this section, [section 1703 of this title][/us/usc/t21/s1703], [section 6301 of Title 20][/us/usc/t20/s6301], and [section 3751 of Title 42][/us/usc/t42/s3751], The Public Health and Welfare\] may be cited as the ‘Drug Demand Reduction Act’.”
+
+    [Pub. L. 105–277, div. D, title I, § 101][/us/pl/105/277/s101], Oct. 21, 1998, [112 Stat. 2681–752][/us/stat/112/2681-752], which provided that subtitle A (§§ 101–105) of title I of div. D of [Pub. L. 105–277][/us/pl/105/277], enacting this chapter, was to be cited as the “Drug-Free Media Campaign Act of 1998”, was repealed by [Pub. L. 109–469, title V, § 501(b)][/us/pl/109/469/s501/b], Dec. 29, 2006, [120 Stat. 3533][/us/stat/120/3533].
+
 ----------
 
-[Previous](./../../../..//us/usc/t21/ch22/m__us_usc_t21_s1714.md) | [Next](./../../../..//us/usc/t21/ch23/m__us_usc_t21_s1801 to 1804.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fch23)
+[Previous](./../../../..//us/usc/t21/ch22/m__us_usc_t21_s1714.md) | [Next](./../../../..//us/usc/t21/ch24/m__us_usc_t21_ch24.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fch23)
 
 ----------
 ----------
 
+[/us/pl/109/469/s501/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F469%2Fs501%2Fb
+[/us/stat/120/3533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3533
+[/us/pl/105/277/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs102
+[/us/stat/112/2681-752]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-752
+[/us/pl/105/277/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs103
+[/us/stat/112/2681-752]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-752
+[/us/pl/105/277/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs104
+[/us/stat/112/2681-753]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-753
+[/us/pl/105/277/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs105
+[/us/stat/112/2681-753]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-753
+[/us/pl/105/277/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs1%2Fa
+[/us/stat/112/2681-751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-751
+[/us/usc/t20/s7144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7144
+[/us/usc/t21/s1703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs1703
+[/us/usc/t20/s6301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6301
+[/us/usc/t42/s3751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3751
+[/us/pl/105/277/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101
+[/us/stat/112/2681-752]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-752
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/109/469/s501/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F469%2Fs501%2Fb
+[/us/stat/120/3533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3533
 
 

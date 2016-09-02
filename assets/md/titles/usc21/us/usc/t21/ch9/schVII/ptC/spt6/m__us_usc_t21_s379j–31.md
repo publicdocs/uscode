@@ -75,21 +75,19 @@
 
                 (i) __Voluntary qualified importer program__ 
 
-                In establishing the fee amounts under subparagraph (A)(iii) for a fiscal year, the Secretary shall provide for the number of importers who have submitted to the Secretary a notice under [section 384b(c) of this title][/us/usc/t21/s384b/c] informing the Secretary of the intent of such importer to participate in the program under [section 384b of this title][/us/usc/t21/s384b] in such fiscal year.
+                    In establishing the fee amounts under subparagraph (A)(iii) for a fiscal year, the Secretary shall provide for the number of importers who have submitted to the Secretary a notice under [section 384b(c) of this title][/us/usc/t21/s384b/c] informing the Secretary of the intent of such importer to participate in the program under [section 384b of this title][/us/usc/t21/s384b] in such fiscal year.
 
-                    (II)  __ <sup>\[__  __1__  __\]</sup> __  __ <sup><sup> __  __1__  __ So in original. No subcl. (I) has been enacted.__  __ </sup></sup> __  __Recoupment__ 
+            (II)  __ <sup>\[__  __1__  __\]</sup> __  __ <sup><sup> __  __1__  __ So in original. No subcl. (I) has been enacted.__  __ </sup></sup> __  __Recoupment__ 
 
-                        In establishing the fee amounts under subparagraph (A)(iii) for the first 5 fiscal years after January 4, 2011, the Secretary shall include in such fee a reasonable surcharge that provides a recoupment of the costs expended by the Secretary to establish and implement the first year of the program under [section 384b of this title][/us/usc/t21/s384b].
+                In establishing the fee amounts under subparagraph (A)(iii) for the first 5 fiscal years after January 4, 2011, the Secretary shall include in such fee a reasonable surcharge that provides a recoupment of the costs expended by the Secretary to establish and implement the first year of the program under [section 384b of this title][/us/usc/t21/s384b].
 
-                (ii) __Crediting of fees__ 
+    (ii) __Crediting of fees__ 
 
-                    In establishing the fee amounts under subparagraph (A) for a fiscal year, the Secretary shall provide for the crediting of fees from the previous year to the next year if the Secretary overestimated the amount of fees needed to carry out such activities, and consider the need to account for any adjustment of fees and such other factors as the Secretary determines appropriate.
+        In establishing the fee amounts under subparagraph (A) for a fiscal year, the Secretary shall provide for the crediting of fees from the previous year to the next year if the Secretary overestimated the amount of fees needed to carry out such activities, and consider the need to account for any adjustment of fees and such other factors as the Secretary determines appropriate.
 
-                (iii) __Published guidelines__ 
+    (iii) __Published guidelines__ 
 
-                    Not later than 180 days after January 4, 2011, the Secretary shall publish in the Federal Register a proposed set of guidelines in consideration of the burden of fee amounts on small business. Such consideration may include reduced fee amounts for small businesses. The Secretary shall provide for a period of public comment on such guidelines. The Secretary shall adjust the fee schedule for small businesses subject to such fees only through notice and comment rulemaking.
-
-        (3) __Use of fees__ 
+    Not later than 180 days after January 4, 2011, the Secretary shall publish in the Federal Register a proposed set of guidelines in consideration of the burden of fee amounts on small business. Such consideration may include reduced fee amounts for small businesses. The Secretary shall provide for a period of public comment on such guidelines. The Secretary shall adjust the fee schedule for small businesses subject to such fees only through notice and comment rulemaking.    (3) __Use of fees__ 
 
             The Secretary shall make all of the fees collected pursuant to clause  <sup>\[2\]</sup>  <sup><sup> 2 So in original. Probably should be “clauses”. </sup></sup>  (i), (ii), (iii), and (iv) of paragraph (2)(A) available solely to pay for the costs referred to in such clause (i), (ii), (iii), and (iv) of paragraph (2)(A), respectively.
 

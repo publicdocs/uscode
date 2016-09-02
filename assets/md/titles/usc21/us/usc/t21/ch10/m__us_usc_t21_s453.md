@@ -15,7 +15,7 @@
 
 ## § 453. Definitions
 
-For purposes of this chapter—
+    For purposes of this chapter—
 
     (a) The term “commerce” means commerce between any State, any territory, or the District of Columbia, and any place outside thereof; or within any territory not organized with a legislative body, or the District of Columbia.
 

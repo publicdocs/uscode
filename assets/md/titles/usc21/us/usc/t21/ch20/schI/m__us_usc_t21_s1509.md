@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t21/ch20/schI/m__us_usc_t21_s1506 to 1508.md) | [Next](./../../../../..//us/usc/t21/ch20/schII/m__us_usc_t21_ch20_schII.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs1509)
+[Previous](./../../../../..//us/usc/t21/ch20/schI/m__us_usc_t21_s1505a.md) | [Next](./../../../../..//us/usc/t21/ch20/schII/m__us_usc_t21_ch20_schII.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs1509)
 
 ## § 1509. Repealed. [Pub. L. 109–469, title XI, § 1101(b)][/us/pl/109/469/s1101/b], Dec. 29, 2006, [120 Stat. 3539][/us/stat/120/3539]
 
@@ -19,7 +19,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t21/ch20/schI/m__us_usc_t21_s1506 to 1508.md) | [Next](./../../../../..//us/usc/t21/ch20/schII/m__us_usc_t21_ch20_schII.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs1509)
+[Previous](./../../../../..//us/usc/t21/ch20/schI/m__us_usc_t21_s1505a.md) | [Next](./../../../../..//us/usc/t21/ch20/schII/m__us_usc_t21_ch20_schII.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs1509)
 
 ----------
 ----------

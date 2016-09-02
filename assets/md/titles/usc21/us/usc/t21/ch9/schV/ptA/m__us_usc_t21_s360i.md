@@ -333,7 +333,7 @@
 
 >     “(2) on the effective date of regulations of the Secretary to implement such amendments,
 
->         whichever occurs first.”
+>     whichever occurs first.”
 
  __Effective Date of 1990 Amendment__ 
 
@@ -345,7 +345,7 @@
 
 >     “(2) upon the expiration of 12 months from the date of the enactment of this Act \[Nov. 28, 1990\],
 
->         whichever occurs first.”
+>     whichever occurs first.”
 
 [Pub. L. 101–629, § 3(a)(2)][/us/pl/101/629/s3/a/2], Nov. 28, 1990, [104 Stat. 4514][/us/stat/104/4514], provided that: 
 

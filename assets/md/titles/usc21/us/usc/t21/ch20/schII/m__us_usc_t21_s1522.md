@@ -15,7 +15,7 @@
 
 ## § 1522. Purposes
 
-The purposes of this subchapter are—
+    The purposes of this subchapter are—
 
     (1) to reduce substance abuse among youth in communities throughout the United States, and over time, to reduce substance abuse among adults;
 
