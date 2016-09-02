@@ -45,11 +45,11 @@
 
  Responses and Objections.
 
-            (A) Time to Respond. The party to whom the request is directed must respond in writing within 30 days after being served. A shorter or longer time may be stipulated to under Rule 29 or be ordered by the court.
+            (A) Time to Respond. The party to whom the request is directed must respond in writing within 30 days after being served or—if the request was delivered under Rule 26(d)(2)—within 30 days after the parties’ first Rule 26(f) conference. A shorter or longer time may be stipulated to under Rule 29 or be ordered by the court.
 
-            (B) Responding to Each Item. For each item or category, the response must either state that inspection and related activities will be permitted as requested or state an objection to the request, including the reasons.
+            (B) Responding to Each Item. For each item or category, the response must either state that inspection and related activities will be permitted as requested or state with specificity the grounds for objecting to the request, including the reasons. The responding party may state that it will produce copies of documents or of electronically stored information instead of permitting inspection. The production must then be completed no later than the time for inspection specified in the request or another reasonable time specified in the response.
 
-            (C) Objections. An objection to part of a request must specify the part and permit inspection of the rest.
+            (C) Objections. An objection must state whether any responsive materials are being withheld on the basis of that objection. An objection to part of a request must specify the part and permit inspection of the rest.
 
             (D) Responding to a Request for Production of Electronically Stored Information. The response may state an objection to a requested form for producing electronically stored information. If the responding party objects to a requested form—or if no form was specified in the request—the party must state the form or forms it intends to use.
 
@@ -67,7 +67,7 @@
 
      As provided in Rule 45, a nonparty may be compelled to produce documents and tangible things or to permit an inspection.
 
-(As amended Dec. 27, 1946, eff. Mar. 19, 1948; Mar. 30, 1970, eff. July 1, 1970; Apr. 29, 1980, eff. Aug. 1, 1980; Mar. 2, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Dec. 1, 1991; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 12, 2006, eff. Dec. 1, 2006; Apr. 30, 2007, eff. Dec. 1, 2007.)
+(As amended Dec. 27, 1946, eff. Mar. 19, 1948; Mar. 30, 1970, eff. July 1, 1970; Apr. 29, 1980, eff. Aug. 1, 1980; Mar. 2, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Dec. 1, 1991; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 12, 2006, eff. Dec. 1, 2006; Apr. 30, 2007, eff. Dec. 1, 2007; Apr. 29, 2015, eff. Dec. 1, 2015.)
 
  __Notes of Advisory Committee on Rules—1937__ 
 
@@ -174,6 +174,18 @@
     The redundant reminder of Rule 37(a) procedure in the second paragraph of former Rule 34(b) is omitted as no longer useful.
 
     Changes Made After Publication and Comment. See Note to Rule 1, supra.
+
+ __Committee Notes on Rules—2015 Amendment__ 
+
+    Several amendments are made in Rule 34, aimed at reducing the potential to impose unreasonable burdens by objections to requests to produce.
+
+    Rule 34(b)(2)(A) is amended to fit with new Rule 26(d)(2). The time to respond to a Rule 34 request delivered before the parties’ Rule 26(f) conference is 30 days after the first Rule 26(f) conference.
+
+    Rule 34(b)(2)(B) is amended to require that objections to Rule 34 requests be stated with specificity. This provision adopts the language of Rule 33(b)(4), eliminating any doubt that less specific objections might be suitable under Rule 34. The specificity of the objection ties to the new provision in Rule 34(b)(2)(C) directing that an objection must state whether any responsive materials are being withheld on the basis of that objection. An objection may state that a request is overbroad, but if the objection recognizes that some part of the request is appropriate the objection should state the scope that is not overbroad. Examples would be a statement that the responding party will limit the search to documents or electronically stored information created within a given period of time prior to the events in suit, or to specified sources. When there is such an objection, the statement of what has been withheld can properly identify as matters “withheld” anything beyond the scope of the search specified in the objection.
+
+    Rule 34(b)(2)(B) is further amended to reflect the common practice of producing copies of documents or electronically stored information rather than simply permitting inspection. The response to the request must state that copies will be produced. The production must be completed either by the time for inspection specified in the request or by another reasonable time specifically identified in the response. When it is necessary to make the production in stages the response should specify the beginning and end dates of the production.
+
+    Rule 34(b)(2)(C) is amended to provide that an objection to a Rule 34 request must state whether anything is being withheld on the basis of the objection. This amendment should end the confusion that frequently arises when a producing party states several objections and still produces information, leaving the requesting party uncertain whether any relevant and responsive information has been withheld on the basis of the objections. The producing party does not need to provide a detailed description or log of all documents withheld, but does need to alert other parties to the fact that documents have been withheld and thereby facilitate an informed discussion of the objection. An objection that states the limits that have controlled the search for responsive and relevant materials qualifies as a statement that the materials have been “withheld.”
 
 ----------
 

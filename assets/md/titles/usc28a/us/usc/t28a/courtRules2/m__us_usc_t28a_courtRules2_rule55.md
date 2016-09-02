@@ -37,13 +37,13 @@
 
     (c) __Setting Aside a Default or a Default Judgment.__ 
 
-     The court may set aside an entry of default for good cause, and it may set aside a default judgment under Rule 60(b).
+     The court may set aside an entry of default for good cause, and it may set aside a final default judgment under Rule 60(b).
 
     (d) __Judgment Against the United States.__ 
 
      A default judgment may be entered against the United States, its officers, or its agencies only if the claimant establishes a claim or right to relief by evidence that satisfies the court.
 
-(As amended Mar. 2, 1987, eff. Aug. 1, 1987; Apr. 30, 2007, eff. Dec. 1, 2007; Mar. 26, 2009, eff. Dec. 1, 2009.)
+(As amended Mar. 2, 1987, eff. Aug. 1, 1987; Apr. 30, 2007, eff. Dec. 1, 2007; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 29, 2015, eff. Dec. 1, 2015.)
 
  __Notes of Advisory Committee on Rules—1937__ 
 
@@ -57,7 +57,7 @@
 
  __Notes of Advisory Committee on Rules—1946 Supplementary Note__ 
 
-    Note. The operation of Rule 55(b) (Judgment) is directly affected by the Soldiers’ and Sailors’ Civil Relief Act of 1940 (50 U.S.C. \[App.\] § 501 et seq.). Section 200 of the Act \[50 U.S.C. Appendix, § 520\] imposes specific requirements which must be fulfilled before a default judgment can be entered (e.g., Ledwith v. Storkan (D.Neb. 1942) 6 Fed.Rules Serv. 60b.24, Case 2, 2 F.R.D. 539, and also provides for the vacation of a judgment in certain circumstances. See discussion in Commentary, Effect of Conscription Legislation on the Federal Rules (1940) 3 Fed.Rules Serv. 725; 3 Moore’s Federal Practice (1938) Cum.Supplement § 55.02.
+    Note. The operation of Rule 55(b) (Judgment) is directly affected by the Soldiers’ and Sailors’ Civil Relief Act of 1940 (\[former\] 50 U.S.C. \[App.\] § 501 et seq.) \[now [50 U.S.C. 3901][/us/usc/t50/s3901] et seq.\]. Section 200 of the Act \[former 50 U.S.C. Appendix, § 520\] imposes specific requirements which must be fulfilled before a default judgment can be entered (e.g., Ledwith v. Storkan (D.Neb. 1942) 6 Fed.Rules Serv. 60b.24, Case 2, 2 F.R.D. 539, and also provides for the vacation of a judgment in certain circumstances. See discussion in Commentary, Effect of Conscription Legislation on the Federal Rules (1940) 3 Fed.Rules Serv. 725; 3 Moore’s Federal Practice (1938) Cum.Supplement § 55.02.
 
  __Notes of Advisory Committee on Rules—1987 Amendment__ 
 
@@ -75,6 +75,10 @@
 
     The time set in the former rule at 3 days has been revised to 7 days. See the Note to Rule 6.
 
+ __Committee Notes on Rules—2015 Amendment__ 
+
+    Rule 55(c) is amended to make plain the interplay between Rules 54(b), 55(c), and 60(b). A default judgment that does not dispose of all of the claims among all parties is not a final judgment unless the court directs entry of final judgment under Rule 54(b). Until final judgment is entered, Rule 54(b) allows revision of the default judgment at any time. The demanding standards set by Rule 60(b) apply only in seeking relief from a final judgment.
+
 ----------
 
 [Previous](./../../../..//us/usc/t28a/courtRules2/m__us_usc_t28a_courtRules2_rule54.md) | [Next](./../../../..//us/usc/t28a/courtRules2/m__us_usc_t28a_courtRules2_rule56.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28a%2FcourtRules2%2Frule55)
@@ -82,5 +86,6 @@
 ----------
 ----------
 
+[/us/usc/t50/s3901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3901
 
 

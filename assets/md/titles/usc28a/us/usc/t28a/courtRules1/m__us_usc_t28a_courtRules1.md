@@ -15,7 +15,7 @@
 
 ## FEDERAL RULES OF APPELLATE PROCEDURE
 
-(As amended to January 5, 2015)
+(As amended to December 1, 2015)
 
  __Historical Note__ 
 

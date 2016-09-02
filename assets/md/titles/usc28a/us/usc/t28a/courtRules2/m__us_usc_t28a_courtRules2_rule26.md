@@ -121,7 +121,7 @@
 
     (b) __Discovery Scope and Limits.__ 
 
-        (1) Scope in General. Unless otherwise limited by court order, the scope of discovery is as follows: Parties may obtain discovery regarding any nonprivileged matter that is relevant to any party’s claim or defense—including the existence, description, nature, custody, condition, and location of any documents or other tangible things and the identity and location of persons who know of any discoverable matter. For good cause, the court may order discovery of any matter relevant to the subject matter involved in the action. Relevant information need not be admissible at the trial if the discovery appears reasonably calculated to lead to the discovery of admissible evidence. All discovery is subject to the limitations imposed by Rule 26(b)(2)(C).
+        (1) Scope in General. Unless otherwise limited by court order, the scope of discovery is as follows: Parties may obtain discovery regarding any nonprivileged matter that is relevant to any party’s claim or defense and proportional to the needs of the case, considering the importance of the issues at stake in the action, the amount in controversy, the parties’ relative access to relevant information, the parties’ resources, the importance of the discovery in resolving the issues, and whether the burden or expense of the proposed discovery outweighs its likely benefit. Information within this scope of discovery need not be admissible in evidence to be discoverable.
 
         (2)
 
@@ -139,7 +139,7 @@
 
                 (ii) the party seeking discovery has had ample opportunity to obtain the information by discovery in the action; or
 
-                (iii) the burden or expense of the proposed discovery outweighs its likely benefit, considering the needs of the case, the amount in controversy, the parties’ resources, the importance of the issues at stake in the action, and the importance of the discovery in resolving the issues.
+                (iii) the proposed discovery is outside the scope permitted by Rule 26(b)(1).
 
         (3)
 
@@ -219,7 +219,7 @@
 
             (A) forbidding the disclosure or discovery;
 
-            (B) specifying terms, including time and place, for the disclosure or discovery;
+            (B) specifying terms, including time and place or the allocation of expenses, for the disclosure or discovery;
 
             (C) prescribing a discovery method other than the one selected by the party seeking discovery;
 
@@ -243,7 +243,21 @@
 
         (2)
 
- Sequence. Unless, on motion, the court orders otherwise for the parties’ and witnesses’ convenience and in the interests of justice:
+ Early Rule 34 Requests.
+
+            (A)
+
+ Time to Deliver. More than 21 days after the summons and complaint are served on a party, a request under Rule 34 may be delivered:
+
+                (i) to that party by any other party, and
+
+                (ii) by that party to any plaintiff or to any other party that has been served.
+
+            (B) When Considered Served. The request is considered to have been served at the first Rule 26(f) conference.
+
+        (3)
+
+ Sequence. Unless the parties stipulate or the court orders otherwise for the parties’ and witnesses’ convenience and in the interests of justice:
 
             (A) methods of discovery may be used in any sequence; and
 
@@ -275,9 +289,9 @@
 
             (B) the subjects on which discovery may be needed, when discovery should be completed, and whether discovery should be conducted in phases or be limited to or focused on particular issues;
 
-            (C) any issues about disclosure or discovery of electronically stored information, including the form or forms in which it should be produced;
+            (C) any issues about disclosure, discovery, or preservation of electronically stored information, including the form or forms in which it should be produced;
 
-            (D) any issues about claims of privilege or of protection as trial-preparation materials, including—if the parties agree on a procedure to assert these claims after production—whether to ask the court to include their agreement in an order;
+            (D) any issues about claims of privilege or of protection as trial-preparation materials, including—if the parties agree on a procedure to assert these claims after production—whether to ask the court to include their agreement in an order under Federal Rule of Evidence 502;
 
             (E) what changes should be made in the limitations on discovery imposed under these rules or by local rule, and what other limitations should be imposed; and
 
@@ -313,7 +327,7 @@
 
         (3) Sanction for Improper Certification. If a certification violates this rule without substantial justification, the court, on motion or on its own, must impose an appropriate sanction on the signer, the party on whose behalf the signer was acting, or both. The sanction may include an order to pay the reasonable expenses, including attorney’s fees, caused by the violation.
 
-(As amended Dec. 27, 1946, eff. Mar. 19, 1948; Jan. 21, 1963, eff. July 1, 1963; Feb. 28, 1966, eff. July 1, 1966; Mar. 30, 1970, eff. July 1, 1970; Apr. 29, 1980, eff. Aug. 1, 1980; Apr. 28, 1983, eff. Aug. 1, 1983; Mar. 2, 1987, eff. Aug. 1, 1987; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 17, 2000, eff. Dec. 1, 2000; Apr. 12, 2006, eff. Dec. 1, 2006; Apr. 30, 2007, eff. Dec. 1, 2007; Apr. 28, 2010, eff. Dec. 1, 2010.)
+(As amended Dec. 27, 1946, eff. Mar. 19, 1948; Jan. 21, 1963, eff. July 1, 1963; Feb. 28, 1966, eff. July 1, 1966; Mar. 30, 1970, eff. July 1, 1970; Apr. 29, 1980, eff. Aug. 1, 1980; Apr. 28, 1983, eff. Aug. 1, 1983; Mar. 2, 1987, eff. Aug. 1, 1987; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 17, 2000, eff. Dec. 1, 2000; Apr. 12, 2006, eff. Dec. 1, 2006; Apr. 30, 2007, eff. Dec. 1, 2007; Apr. 28, 2010, eff. Dec. 1, 2010; Apr. 29, 2015, eff. Dec. 1, 2015.)
 
  __Notes of Advisory Committee on Rules—1937__ 
 
@@ -884,6 +898,56 @@ A major purpose of the revision is to accelerate the exchange of basic informati
     Former Rules 26(b)(4)(B) and (C) have been renumbered (D) and (E), and a slight revision has been made in (E) to take account of the renumbering of former (B).
 
     Changes Made After Publication and Comment. Small changes to rule language were made to conform to style conventions. In addition, the protection for draft expert disclosures or reports in proposed Rule 26(b)(4)(B) was changed to read “regardless of the form in which the draft is recorded.” Small changes were also made to the Committee Note to recognize this change to rule language and to address specific issues raised during the public comment period.
+
+ __Committee Notes on Rules—2015 Amendment__ 
+
+    Rule 26(b)(1) is changed in several ways.
+
+    Information is discoverable under revised Rule 26(b)(1) if it is relevant to any party’s claim or defense and is proportional to the needs of the case. The considerations that bear on proportionality are moved from present Rule 26(b)(2)(C)(iii), slightly rearranged and with one addition.
+
+    Most of what now appears in Rule 26(b)(2)(C)(iii) was first adopted in 1983. The 1983 provision was explicitly adopted as part of the scope of discovery defined by Rule 26(b)(1). Rule 26(b)(1) directed the court to limit the frequency or extent of use of discovery if it determined that “the discovery is unduly burdensome or expensive, taking into account the needs of the case, the amount in controversy, limitations on the parties’ resources, and the importance of the issues at stake in the litigation.” At the same time, Rule 26(g) was added. Rule 26(g) provided that signing a discovery request, response, or objection certified that the request, response, or objection was “not unreasonable or unduly burdensome or expensive, given the needs of the case, the discovery already had in the case, the amount in controversy, and the importance of the issues at stake in the litigation.” The parties thus shared the responsibility to honor these limits on the scope of discovery.
+
+    The 1983 Committee Note stated that the new provisions were added “to deal with the problem of over-discovery. The objective is to guard against redundant or disproportionate discovery by giving the court authority to reduce the amount of discovery that may be directed to matters that are otherwise proper subjects of inquiry. The new sentence is intended to encourage judges to be more aggressive in identifying and discouraging discovery overuse. The grounds mentioned in the amended rule for limiting discovery reflect the existing practice of many courts in issuing protective orders under Rule 26(c). … On the whole, however, district judges have been reluctant to limit the use of the discovery devices.”
+
+    The clear focus of the 1983 provisions may have been softened, although inadvertently, by the amendments made in 1993. The 1993 Committee Note explained: “\[F\]ormer paragraph (b)(1) \[was\] subdivided into two paragraphs for ease of reference and to avoid renumbering of paragraphs (3) and (4).” Subdividing the paragraphs, however, was done in a way that could be read to separate the proportionality provisions as “limitations,” no longer an integral part of the (b)(1) scope provisions. That appearance was immediately offset by the next statement in the Note: “Textual changes are then made in new paragraph (2) to enable the court to keep tighter rein on the extent of discovery.”
+
+The 1993 amendments added two factors to the considerations that bear on limiting discovery: whether “the burden or expense of the proposed discovery outweighs its likely benefit,” and “the importance of the proposed discovery in resolving the issues.” Addressing these and other limitations added by the 1993 discovery amendments, the Committee Note stated that “\[t\]he revisions in Rule 26(b)(2) are intended to provide the court with broader discretion to impose additional restrictions on the scope and extent of discovery . …”
+
+    The relationship between Rule 26(b)(1) and (2) was further addressed by an amendment made in 2000 that added a new sentence at the end of (b)(1): “All discovery is subject to the limitations imposed by Rule 26(b)(2)(i), (ii), and (iii)\[now Rule 26(b)(2)(C)\].” The Committee Note recognized that “\[t\]hese limitations apply to discovery that is otherwise within the scope of subdivision (b)(1).” It explained that the Committee had been told repeatedly that courts were not using these limitations as originally intended. “This otherwise redundant cross-reference has been added to emphasize the need for active judicial use of subdivision (b)(2) to control excessive discovery.”
+
+    The present amendment restores the proportionality factors to their original place in defining the scope of discovery. This change reinforces the Rule 26(g) obligation of the parties to consider these factors in making discovery requests, responses, or objections.
+
+    Restoring the proportionality calculation to Rule 26(b)(1) does not change the existing responsibilities of the court and the parties to consider proportionality, and the change does not place on the party seeking discovery the burden of addressing all proportionality considerations.
+
+    Nor is the change intended to permit the opposing party to refuse discovery simply by making a boilerplate objection that it is not proportional. The parties and the court have a collective responsibility to consider the proportionality of all discovery and consider it in resolving discovery disputes.
+
+    The parties may begin discovery without a full appreciation of the factors that bear on proportionality. A party requesting discovery, for example, may have little information about the burden or expense of responding. A party requested to provide discovery may have little information about the importance of the discovery in resolving the issues as understood by the requesting party. Many of these uncertainties should be addressed and reduced in the parties’ Rule 26(f) conference and in scheduling and pretrial conferences with the court. But if the parties continue to disagree, the discovery dispute could be brought before the court and the parties’ responsibilities would remain as they have been since 1983. A party claiming undue burden or expense ordinarily has far better information—perhaps the only information—with respect to that part of the determination. A party claiming that a request is important to resolve the issues should be able to explain the ways in which the underlying information bears on the issues as that party understands them. The court’s responsibility, using all the information provided by the parties, is to consider these and all the other factors in reaching a case-specific determination of the appropriate scope of discovery.
+
+    The direction to consider the parties’ relative access to relevant information adds new text to provide explicit focus on considerations already implicit in present Rule 26(b)(2)(C)(iii). Some cases involve what often is called “information asymmetry.” One party—often an individual plaintiff—may have very little discoverable information. The other party may have vast amounts of information, including information that can be readily retrieved and information that is more difficult to retrieve. In practice these circumstances often mean that the burden of responding to discovery lies heavier on the party who has more information, and properly so.
+
+    Restoring proportionality as an express component of the scope of discovery warrants repetition of parts of the 1983 and 1993 Committee Notes that must not be lost from sight. The 1983 Committee Note explained that “\[t\]he rule contemplates greater judicial involvement in the discovery process and thus acknowledges the reality that it cannot always operate on a self-regulating basis.” The 1993 Committee Note further observed that “\[t\]he information explosion of recent decades has greatly increased both the potential cost of wide-ranging discovery and the potential for discovery to be used as an instrument for delay or oppression.” What seemed an explosion in 1993 has been exacerbated by the advent of e-discovery. The present amendment again reflects the need for continuing and close judicial involvement in the cases that do not yield readily to the ideal of effective party management. It is expected that discovery will be effectively managed by the parties in many cases. But there will be important occasions for judicial management, both when the parties are legitimately unable to resolve important differences and when the parties fall short of effective, cooperative management on their own.
+
+    It also is important to repeat the caution that the monetary stakes are only one factor, to be balanced against other factors. The 1983 Committee Note recognized “the significance of the substantive issues, as measured in philosophic, social, or institutional terms. Thus the rule recognizes that many cases in public policy spheres, such as employment practices, free speech, and other matters, may have importance far beyond the monetary amount involved.” Many other substantive areas also may involve litigation that seeks relatively small amounts of money, or no money at all, but that seeks to vindicate vitally important personal or public values.
+
+    So too, consideration of the parties’ resources does not foreclose discovery requests addressed to an impecunious party, nor justify unlimited discovery requests addressed to a wealthy party. The 1983 Committee Note cautioned that “\[t\]he court must apply the standards in an even-handed manner that will prevent use of discovery to wage a war of attrition or as a device to coerce a party, whether financially weak or affluent.”
+
+    The burden or expense of proposed discovery should be determined in a realistic way. This includes the burden or expense of producing electronically stored information. Computer-based methods of searching such information continue to develop, particularly for cases involving large volumes of electronically stored information. Courts and parties should be willing to consider the opportunities for reducing the burden or expense of discovery as reliable means of searching electronically stored information become available.
+
+    A portion of present Rule 26(b)(1) is omitted from the proposed revision. After allowing discovery of any matter relevant to any party’s claim or defense, the present rule adds: “including the existence, description, nature, custody, condition, and location of any documents or other tangible things and the identity and location of persons who know of any discoverable matter.” Discovery of such matters is so deeply entrenched in practice that it is no longer necessary to clutter the long text of Rule 26 with these examples. The discovery identified in these examples should still be permitted under the revised rule when relevant and proportional to the needs of the case. Framing intelligent requests for electronically stored information, for example, may require detailed information about another party’s information systems and other information resources.
+
+    The amendment deletes the former provision authorizing the court, for good cause, to order discovery of any matter relevant to the subject matter involved in the action. The Committee has been informed that this language is rarely invoked. Proportional discovery relevant to any party’s claim or defense suffices, given a proper understanding of what is relevant to a claim or defense. The distinction between matter relevant to a claim or defense and matter relevant to the subject matter was introduced in 2000. The 2000 Note offered three examples of information that, suitably focused, would be relevant to the parties’ claims or defenses. The examples were “other incidents of the same type, or involving the same product”; “information about organizational arrangements or filing systems”; and “information that could be used to impeach a likely witness.” Such discovery is not foreclosed by the amendments. Discovery that is relevant to the parties’ claims or defenses may also support amendment of the pleadings to add a new claim or defense that affects the scope of discovery.
+
+    The former provision for discovery of relevant but inadmissible information that appears “reasonably calculated to lead to the discovery of admissible evidence” is also deleted. The phrase has been used by some, incorrectly, to define the scope of discovery. As the Committee Note to the 2000 amendments observed, use of the “reasonably calculated” phrase to define the scope of discovery “might swallow any other limitation on the scope of discovery.” The 2000 amendments sought to prevent such misuse by adding the word “Relevant” at the beginning of the sentence, making clear that “‘relevant’ means within the scope of discovery as defined in this subdivision . …” The “reasonably calculated” phrase has continued to create problems, however, and is removed by these amendments. It is replaced by the direct statement that “Information within this scope of discovery need not be admissible in evidence to be discoverable.” Discovery of nonprivileged information not admissible in evidence remains available so long as it is otherwise within the scope of discovery.
+
+    Rule 26(b)(2)(C)(iii) is amended to reflect the transfer of the considerations that bear on proportionality to Rule 26(b)(1). The court still must limit the frequency or extent of proposed discovery, on motion or on its own, if it is outside the scope permitted by Rule 26(b)(1).
+
+    Rule 26(c)(1)(B) is amended to include an express recognition of protective orders that allocate expenses for disclosure or discovery. Authority to enter such orders is included in the present rule, and courts already exercise this authority. Explicit recognition will forestall the temptation some parties may feel to contest this authority. Recognizing the authority does not imply that cost-shifting should become a common practice. Courts and parties should continue to assume that a responding party ordinarily bears the costs of responding.
+
+    Rule 26(d)(2) is added to allow a party to deliver Rule 34 requests to another party more than 21 days after that party has been served even though the parties have not yet had a required Rule 26(f) conference. Delivery may be made by any party to the party that has been served, and by that party to any plaintiff and any other party that has been served. Delivery does not count as service; the requests are considered to be served at the first Rule 26(f) conference. Under Rule 34(b)(2)(A) the time to respond runs from service. This relaxation of the discovery moratorium is designed to facilitate focused discussion during the Rule 26(f) conference. Discussion at the conference may produce changes in the requests. The opportunity for advance scrutiny of requests delivered before the Rule 26(f) conference should not affect a decision whether to allow additional time to respond.
+
+    Rule 26(d)(3) is renumbered and amended to recognize that the parties may stipulate to case-specific sequences of discovery.
+
+    Rule 26(f)(3) is amended in parallel with Rule 16(b)(3) to add two items to the discovery plan—issues about preserving electronically stored information and court orders under Evidence Rule 502.
 
  __References in Text__ 
 

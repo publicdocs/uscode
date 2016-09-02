@@ -143,7 +143,7 @@
 
  __Notes of Advisory Committee on Rules—1946 Supplementary Note__ 
 
-    With respect to the provisions of the Soldiers’ and Sailors’ Civil Relief Act of 1940 (50 U.S.C. \[App.\] § 501 et seq.) see Notes to Rules 62 and 64 herein.
+    With respect to the provisions of the Soldiers’ and Sailors’ Civil Relief Act of 1940 (\[former\] 50 U.S.C. \[App.\] § 501 et seq. \[now 50 U.S.C. § 3901 et seq.\]) see Notes to Rules 62 and 64 herein.
 
  __Notes of Advisory Committee on Rules—1948 Amendment__ 
 

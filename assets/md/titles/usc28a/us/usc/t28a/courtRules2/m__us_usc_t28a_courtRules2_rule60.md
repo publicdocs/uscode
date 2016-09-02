@@ -87,7 +87,7 @@
 
     It should be noted that Rule 60(b) does not assume to define the substantive law as to the grounds for vacating judgments, but merely prescribes the practice in proceedings to obtain relief.
 
-    It should also be noted that under § 200(4) of the Soldiers’ and Sailors’ Civil Relief Act of 1940 (50 U.S.C. \[App.\] § 501 et seq. \[§ 520(4)\]), a judgment rendered in any action or proceeding governed by the section may be vacated under certain specified circumstances upon proper application to the court.
+    It should also be noted that under § 200(4) of the Soldiers’ and Sailors’ Civil Relief Act of 1940 (\[former\] 50 U.S.C. \[App.\] § 501 et seq. \[§ 520(4)\]), a judgment rendered in any action or proceeding governed by the section may be vacated under certain specified circumstances upon proper application to the court.
 
  __Notes of Advisory Committee on Rules—1948 Amendment__ 
 

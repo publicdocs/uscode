@@ -65,9 +65,9 @@
 
             (B) name the court where the complaint was filed;
 
-            (C) be accompanied by a copy of the complaint, 2 copies of a waiver form, and a prepaid means for returning the form;
+            (C) be accompanied by a copy of the complaint, 2 copies of the waiver form appended to this Rule 4, and a prepaid means for returning the form;
 
-            (D) inform the defendant, using text prescribed in Form 5, of the consequences of waiving and not waiving service;
+            (D) inform the defendant, using the form appended to this Rule 4, of the consequences of waiving and not waiving service;
 
             (E) state the date when the request is sent;
 
@@ -223,7 +223,7 @@
 
     (m) __Time Limit for Service.__ 
 
-     If a defendant is not served within 120 days after the complaint is filed, the court—on motion or on its own after notice to the plaintiff—must dismiss the action without prejudice against that defendant or order that service be made within a specified time. But if the plaintiff shows good cause for the failure, the court must extend the time for service for an appropriate period. This subdivision (m) does not apply to service in a foreign country under Rule 4(f) or 4(j)(1).
+     If a defendant is not served within 90 days after the complaint is filed, the court—on motion or on its own after notice to the plaintiff—must dismiss the action without prejudice against that defendant or order that service be made within a specified time. But if the plaintiff shows good cause for the failure, the court must extend the time for service for an appropriate period. This subdivision (m) does not apply to service in a foreign country under Rule 4(f) or 4(j)(1) or to service of a notice under Rule 71.1(d)(3)(A).
 
     (n) __Asserting Jurisdiction over Property or Assets.__ 
 
@@ -231,7 +231,103 @@
 
         (2) State Law. On a showing that personal jurisdiction over a defendant cannot be obtained in the district where the action is brought by reasonable efforts to serve a summons under this rule, the court may assert jurisdiction over the defendant’s assets found in the district. Jurisdiction is acquired by seizing the assets under the circumstances and in the manner provided by state law in that district.
 
-(As amended Jan. 21, 1963, eff. July 1, 1963; Feb. 28, 1966, eff. July 1, 1966; Apr. 29, 1980, eff. Aug. 1, 1980; [Pub. L. 97–462, § 2][/us/pl/97/462/s2], Jan. 12, 1983, [96 Stat. 2527][/us/stat/96/2527], eff. Feb. 26, 1983; Mar. 2, 1987, eff. Aug. 1, 1987; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 17, 2000, eff. Dec. 1, 2000; Apr. 30, 2007, eff. Dec. 1, 2007.)
+(As amended Jan. 21, 1963, eff. July 1, 1963; Feb. 28, 1966, eff. July 1, 1966; Apr. 29, 1980, eff. Aug. 1, 1980; [Pub. L. 97–462, § 2][/us/pl/97/462/s2], Jan. 12, 1983, [96 Stat. 2527][/us/stat/96/2527], eff. Feb. 26, 1983; Mar. 2, 1987, eff. Aug. 1, 1987; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 17, 2000, eff. Dec. 1, 2000; Apr. 30, 2007, eff. Dec. 1, 2007; Apr. 29, 2015, eff. Dec. 1, 2015.)
+
+ __Rule 4 Notice of a Lawsuit and Request to Waive Service of Summons.__ 
+
+ __(Caption)__ 
+
+    To (name the defendant or—if the defendant is a corporation, partnership, or association—name an officer or agent authorized to receive service):
+
+    Why are you getting this?
+
+    A lawsuit has been filed against you, or the entity you represent, in this court under the number shown above. A copy of the complaint is attached.
+
+    This is not a summons, or an official notice from the court. It is a request that, to avoid expenses, you waive formal service of a summons by signing and returning the enclosed waiver. To avoid these expenses, you must return the signed waiver within (give at least 30 days or at least 60 days if the defendant is outside any judicial district of the United States) from the date shown below, which is the date this notice was sent. Two copies of the waiver form are enclosed, along with a stamped, self-addressed envelope or other prepaid means for returning one copy. You may keep the other copy.
+
+    What happens next?
+
+    If you return the signed waiver, I will file it with the court. The action will then proceed as if you had been served on the date the waiver is filed, but no summons will be served on you and you will have 60 days from the date this notice is sent (see the date below) to answer the complaint (or 90 days if this notice is sent to you outside any judicial district of the United States).
+
+    If you do not return the signed waiver within the time indicated, I will arrange to have the summons and complaint served on you. And I will ask the court to require you, or the entity you represent, to pay the expenses of making service.
+
+    Please read the enclosed statement about the duty to avoid unnecessary expenses.
+
+    I certify that this request is being sent to you on the date below.
+
+    Date:\_\_\_\_\_\_\_\_\_\_\_
+
+    \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+    (Signature of the attorney
+
+    or unrepresented party)
+
+    \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+    (Printed name)
+
+    \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+    (Address)
+
+    \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+    (E-mail address)
+
+    \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+    (Telephone number)
+
+ __Rule 4 Waiver of the Service of Summons.__ 
+
+ __(Caption)__ 
+
+    To (name the plaintiff’s attorney or the unrepresented plaintiff):
+
+    I have received your request to waive service of a summons in this action along with a copy of the complaint, two copies of this waiver form, and a prepaid means of returning one signed copy of the form to you.
+
+    I, or the entity I represent, agree to save the expense of serving a summons and complaint in this case.
+
+    I understand that I, or the entity I represent, will keep all defenses or objections to the lawsuit, the court’s jurisdiction, and the venue of the action, but that I waive any objections to the absence of a summons or of service.
+
+    I also understand that I, or the entity I represent, must file and serve an answer or a motion under Rule 12 within 60 days from \_\_\_\_\_\_\_\_\_\_\_, the date when this request was sent (or 90 days if it was sent outside the United States). If I fail to do so, a default judgment will be entered against me or the entity I represent.
+
+    Date:\_\_\_\_\_\_\_\_\_\_\_
+
+    \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+    (Signature of the attorney
+
+    or unrepresented party)
+
+    \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+    (Printed name)
+
+    \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+    (Address)
+
+    \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+    (E-mail address)
+
+    \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+    (Telephone number)
+
+ __(Attach the following)__ 
+
+ __Duty to Avoid Unnecessary Expenses of Serving a Summons__ 
+
+    Rule 4 of the Federal Rules of Civil Procedure requires certain defendants to cooperate in saving unnecessary expenses of serving a summons and complaint. A defendant who is located in the United States and who fails to return a signed waiver of service requested by a plaintiff located in the United States will be required to pay the expenses of service, unless the defendant shows good cause for the failure.
+
+    “Good cause” does not include a belief that the lawsuit is groundless, or that it has been brought in an improper venue, or that the court has no jurisdiction over this matter or over the defendant or the defendant’s property.
+
+    If the waiver is signed and returned, you can still make these and all other defenses and objections, but you cannot object to the absence of a summons or of service.
+
+    If you waive service, then you must, within the time specified on the waiver form, serve an answer or a motion under Rule 12 on the plaintiff and file a copy with the court. By signing and returning the waiver form, you are allowed more time to respond than if a summons had been served.
 
  __Notes of Advisory Committee on Rules—1937__ 
 
@@ -750,6 +846,18 @@ The opportunity for waiver has distinct advantages to a foreign defendant. By wa
     Former Rule 4(j)(2) refers to service upon an “other governmental organization subject to suit.” This is changed to “any other state-created governmental organization that is subject to suit.” The change entrenches the meaning indicated by the caption (“Serving a Foreign, State, or Local Government”), and the invocation of state law. It excludes any risk that this rule might be read to govern service on a federal agency, or other entities not created by state law.
 
     The former provision describing service on interpleader claimants \[former subd. (k)(1)(C)\] is deleted as redundant in light of the general provision in (k)(1)(C) recognizing personal jurisdiction authorized by a federal statute.
+
+ __Committee Notes on Rules—2015 Amendment__ 
+
+    Subdivision (d). Abrogation of Rule 84 and the other official forms requires that former Forms 5 and 6 be directly incorporated into Rule 4.
+
+    Subdivision (m). The presumptive time for serving a defendant is reduced from 120 days to 90 days. This change, together with the shortened times for issuing a scheduling order set by amended Rule 16(b)(2), will reduce delay at the beginning of litigation.
+
+    Shortening the presumptive time for service will increase the frequency of occasions to extend the time. More time may be needed, for example, when a request to waive service fails, a defendant is difficult to serve, or a marshal is to make service in an in forma pauperis action.
+
+    The final sentence is amended to make it clear that the reference to Rule 4 in Rule 71.1(d)(3)(A) does not include Rule 4(m). Dismissal under Rule 4(m) for failure to make timely service would be inconsistent with the limits on dismissal established by Rule 71.1(i)(1)(C).
+
+    Shortening the time to serve under Rule 4(m) means that the time of the notice required by Rule 15(c)(1)(C) for relation back is also shortened.
 
  __Amendment by Public Law__ 
 

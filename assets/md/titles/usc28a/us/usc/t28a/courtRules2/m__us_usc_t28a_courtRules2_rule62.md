@@ -107,7 +107,7 @@
 
  __Notes of Advisory Committee on Rules—1946 Amendment__ 
 
-    Subdivision (a). \[This subdivision not amended\]. Sections 203 and 204 of the Soldiers’ and Sailors’ Civil Relief Act of 1940 (50 U.S.C. \[App.\] § 501 et seq. \[§§ 523, 524\]) provide under certain circumstances for the issuance and continuance of a stay of execution of any judgment or order entered against a person in military service. See Bowsman v. Peterson (D.Neb. 1942) 45 F.Supp. 741. Section 201 of the Act \[50 U.S.C. App. § 521\] permits under certain circumstances the issuance of a stay of any action or proceeding at any stage thereof, where either the plaintiff or defendant is a person in military service. See also Note to Rule 64 herein.
+    Subdivision (a). \[This subdivision not amended\]. Sections 203 and 204 of the Soldiers’ and Sailors’ Civil Relief Act of 1940 (\[former\] 50 U.S.C. \[App.\] § 501 et seq. \[§§ 523, 524\] \[now 50 U.S.C. §§ 3933, 3934\]) provide under certain circumstances for the issuance and continuance of a stay of execution of any judgment or order entered against a person in military service. See Bowsman v. Peterson (D.Neb. 1942) 45 F.Supp. 741. Section 201 of the Act \[50 U.S.C. § 3931\] permits under certain circumstances the issuance of a stay of any action or proceeding at any stage thereof, where either the plaintiff or defendant is a person in military service. See also Note to Rule 64 herein.
 
     Subdivision (b). This change was necessary because of the proposed addition to Rule 59 of subdivision (e).
 

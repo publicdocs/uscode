@@ -107,7 +107,7 @@
 
  __Notes of Advisory Committee on Rules—1946 Supplementary Note__ 
 
-    Sections 203 and 204 of the Soldiers’ and Sailors’ Civil Relief Act of 1940 (50 U.S.C. \[App.\] § 501 et seq. \[§§ 523, 524\]) provide under certain circumstances for the issuance and continuance of a stay of the execution of any judgment entered against a person in military service, or the vacation or stay of any attachment or garnishment directed against such person’s property, money, or debts in the hands of another. See also Note to Rule 62 herein.
+    Sections 203 and 204 of the Soldiers’ and Sailors’ Civil Relief Act of 1940 (\[former\] 50 U.S.C. \[App.\] § 501 et seq. \[§§ 523, 524\] \[now 50 U.S.C. §§ 3933, 3934\]) provide under certain circumstances for the issuance and continuance of a stay of the execution of any judgment entered against a person in military service, or the vacation or stay of any attachment or garnishment directed against such person’s property, money, or debts in the hands of another. See also Note to Rule 62 herein.
 
  __Committee Notes on Rules—2007 Amendment__ 
 

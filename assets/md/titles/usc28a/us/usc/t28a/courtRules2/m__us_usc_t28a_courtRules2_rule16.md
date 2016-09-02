@@ -37,9 +37,9 @@
 
             (A) after receiving the parties’ report under Rule 26(f); or
 
-            (B) after consulting with the parties’ attorneys and any unrepresented parties at a scheduling conference or by telephone, mail, or other means.
+            (B) after consulting with the parties’ attorneys and any unrepresented parties at a scheduling conference.
 
-        (2) Time to Issue. The judge must issue the scheduling order as soon as practicable, but in any event within the earlier of 120 days after any defendant has been served with the complaint or 90 days after any defendant has appeared.
+        (2) Time to Issue. The judge must issue the scheduling order as soon as practicable, but unless the judge finds good cause for delay, the judge must issue it within the earlier of 90 days after any defendant has been served with the complaint or 60 days after any defendant has appeared.
 
         (3)
 
@@ -55,13 +55,15 @@
 
                 (ii) modify the extent of discovery;
 
-                (iii) provide for disclosure or discovery of electronically stored information;
+                (iii) provide for disclosure, discovery, or preservation of electronically stored information;
 
-                (iv) include any agreements the parties reach for asserting claims of privilege or of protection as trial-preparation material after information is produced;
+                (iv) include any agreements the parties reach for asserting claims of privilege or of protection as trial-preparation material after information is produced, including agreements reached under Federal Rule of Evidence 502;
 
-                (v) set dates for pretrial conferences and for trial; and
+                (v) direct that before moving for an order relating to discovery, the movant must request a conference with the court;
 
-                (vi) include other appropriate matters.
+                (vi) set dates for pretrial conferences and for trial; and
+
+                (vii) include other appropriate matters.
 
         (4) Modifying a Schedule. A schedule may be modified only for good cause and with the judge’s consent.
 
@@ -127,7 +129,7 @@
 
         (2) Imposing Fees and Costs. Instead of or in addition to any other sanction, the court must order the party, its attorney, or both to pay the reasonable expenses—including attorney’s fees—incurred because of any noncompliance with this rule, unless the noncompliance was substantially justified or other circumstances make an award of expenses unjust.
 
-(As amended Apr. 28, 1983, eff. Aug. 1, 1983; Mar. 2, 1987, eff. Aug. 1, 1987; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 12, 2006, eff. Dec. 1, 2006; Apr. 30, 2007, eff. Dec. 1, 2007.)
+(As amended Apr. 28, 1983, eff. Aug. 1, 1983; Mar. 2, 1987, eff. Aug. 1, 1987; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 12, 2006, eff. Dec. 1, 2006; Apr. 30, 2007, eff. Dec. 1, 2007; Apr. 29, 2015, eff. Dec. 1, 2015.)
 
  __Notes of Advisory Committee on Rules—1937__ 
 
@@ -274,6 +276,20 @@ Subdivision (e); Pretrial Orders. Rule 16(e) does not substantially change the p
     When a party or its representative is not present, it is enough to be reasonably available by any suitable means, whether telephone or other communication device.
 
     Changes Made After Publication and Comment. See Note to Rule 1, supra.
+
+ __Committee Notes on Rules—2015 Amendment__ 
+
+    The provision for consulting at a scheduling conference by “telephone, mail, or other means” is deleted. A scheduling conference is more effective if the court and parties engage in direct simultaneous communication. The conference may be held in person, by telephone, or by more sophisticated electronic means.
+
+    The time to issue the scheduling order is reduced to the earlier of 90 days (not 120 days) after any defendant has been served, or 60 days (not 90 days) after any defendant has appeared. This change, together with the shortened time for making service under Rule 4(m), will reduce delay at the beginning of litigation. At the same time, a new provision recognizes that the court may find good cause to extend the time to issue the scheduling order. In some cases it may be that the parties cannot prepare adequately for a meaningful Rule 26(f) conference and then a scheduling conference in the time allowed. Litigation involving complex issues, multiple parties, and large organizations, public or private, may be more likely to need extra time to establish meaningful collaboration between counsel and the people who can supply the information needed to participate in a useful way. Because the time for the Rule 26(f) conference is geared to the time for the scheduling conference or order, an order extending the time for the scheduling conference will also extend the time for the Rule 26(f) conference. But in most cases it will be desirable to hold at least a first scheduling conference in the time set by the rule.
+
+    Three items are added to the list of permitted contents in Rule 16(b)(3)(B).
+
+    The order may provide for preservation of electronically stored information, a topic also added to the provisions of a discovery plan under Rule 26(f)(3)(C). Parallel amendments of Rule 37(e) recognize that a duty to preserve discoverable information may arise before an action is filed.
+
+    The order also may include agreements incorporated in a court order under Evidence Rule 502 controlling the effects of disclosure of information covered by attorney-client privilege or work-product protection, a topic also added to the provisions of a discovery plan under Rule 26(f)(3)(D).
+
+    Finally, the order may direct that before filing a motion for an order relating to discovery the movant must request a conference with the court. Many judges who hold such conferences find them an efficient way to resolve most discovery disputes without the delay and burdens attending a formal motion, but the decision whether to require such conferences is left to the discretion of the judge in each case.
 
 TITLE IV. __PARTIES__ 
 

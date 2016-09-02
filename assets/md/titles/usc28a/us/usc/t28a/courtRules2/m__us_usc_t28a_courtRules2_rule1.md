@@ -15,9 +15,9 @@
 
 ### Rule 1. Scope and Purpose
 
-    These rules govern the procedure in all civil actions and proceedings in the United States district courts, except as stated in Rule 81. They should be construed and administered to secure the just, speedy, and inexpensive determination of every action and proceeding.
+    These rules govern the procedure in all civil actions and proceedings in the United States district courts, except as stated in Rule 81. They should be construed, administered, and employed by the court and the parties to secure the just, speedy, and inexpensive determination of every action and proceeding.
 
-(As amended Dec. 29, 1948, eff. Oct. 20, 1949; Feb. 28, 1966, eff. July 1, 1966; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 30, 2007, eff. Dec. 1, 2007.)
+(As amended Dec. 29, 1948, eff. Oct. 20, 1949; Feb. 28, 1966, eff. July 1, 1966; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 30, 2007, eff. Dec. 1, 2007; Apr. 29, 2015, eff. Dec. 1, 2015.)
 
  __Notes of Advisory Committee on Rules—1937__ 
 
@@ -96,6 +96,12 @@
  __“E-Discovery” Style Amendments: Rules 16, 26, 33, 34, 37, and 45__ 
 
     As noted above \[omitted\], the Style revisions to the “e-discovery” amendments published for comment in 2004, before the Style Project was published for comment in 2005, are all “changes made after publication.” All involve pure style. They can be evaluated by reading the overstrike-underline version set out above \[omitted\].
+
+ __Committee Notes on Rules—2015 Amendment__ 
+
+    Rule 1 is amended to emphasize that just as the court should construe and administer these rules to secure the just, speedy, and inexpensive determination of every action, so the parties share the responsibility to employ the rules in the same way. Most lawyers and parties cooperate to achieve these ends. But discussions of ways to improve the administration of civil justice regularly include pleas to discourage over-use, misuse, and abuse of procedural tools that increase cost and result in delay. Effective advocacy is consistent with—and indeed depends upon—cooperative and proportional use of procedure.
+
+    This amendment does not create a new or independent source of sanctions. Neither does it abridge the scope of any other of these rules.
 
 ----------
 

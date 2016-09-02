@@ -21,7 +21,7 @@
 
         (2)
 
- With Leave. A party must obtain leave of court, and the court must grant leave to the extent consistent with Rule 26(b)(2):
+ With Leave. A party must obtain leave of court, and the court must grant leave to the extent consistent with Rule 26(b)(1) and (2):
 
             (A)
 
@@ -85,7 +85,7 @@
 
     (d) __Duration; Sanction; Motion to Terminate or Limit.__ 
 
-        (1) Duration. Unless otherwise stipulated or ordered by the court, a deposition is limited to 1 day of 7 hours. The court must allow additional time consistent with Rule 26(b)(2) if needed to fairly examine the deponent or if the deponent, another person, or any other circumstance impedes or delays the examination.
+        (1) Duration. Unless otherwise stipulated or ordered by the court, a deposition is limited to one day of 7 hours. The court must allow additional time consistent with Rule 26(b)(1) and (2) if needed to fairly examine the deponent or if the deponent, another person, or any other circumstance impedes or delays the examination.
 
         (2) Sanction. The court may impose an appropriate sanction—including the reasonable expenses and attorney’s fees incurred by any party—on a person who impedes, delays, or frustrates the fair examination of the deponent.
 
@@ -141,7 +141,7 @@
 
         (2) serve a subpoena on a nonparty deponent, who consequently did not attend.
 
-(As amended Jan. 21, 1963, eff. July 1, 1963; Mar. 30, 1970, eff. July 1, 1970; Mar. 1, 1971, eff. July 1, 1971; Nov. 20, 1972, eff. July 1, 1975; Apr. 29, 1980, eff. Aug. 1, 1980; Mar. 2, 1987, eff. Aug. 1, 1987; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 17, 2000, eff. Dec. 1, 2000; Apr. 30, 2007, eff. Dec. 1, 2007.)
+(As amended Jan. 21, 1963, eff. July 1, 1963; Mar. 30, 1970, eff. July 1, 1970; Mar. 1, 1971, eff. July 1, 1971; Nov. 20, 1972, eff. July 1, 1975; Apr. 29, 1980, eff. Aug. 1, 1980; Mar. 2, 1987, eff. Aug. 1, 1987; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 17, 2000, eff. Dec. 1, 2000; Apr. 30, 2007, eff. Dec. 1, 2007; Apr. 29, 2015, eff. Dec. 1, 2015.)
 
  __Notes of Advisory Committee on Rules—1937__ 
 
@@ -312,6 +312,10 @@ The amendment of the second paragraph is clarifying. The purpose of the paragrap
     The right to arrange a deposition transcription should be open to any party, regardless of the means of recording and regardless of who noticed the deposition.
 
     “\[O\]ther entity” is added to the list of organizations that may be named as deponent. The purpose is to ensure that the deposition process can be used to reach information known or reasonably available to an organization no matter what abstract fictive concept is used to describe the organization. Nothing is gained by wrangling over the place to fit into current rule language such entities as limited liability companies, limited partnerships, business trusts, more exotic common-law creations, or forms developed in other countries.
+
+ __Committee Notes on Rules—2015 Amendment__ 
+
+    Rule 30 is amended in parallel with Rules 31 and 33 to reflect the recognition of proportionality in Rule 26(b)(1).
 
 ----------
 

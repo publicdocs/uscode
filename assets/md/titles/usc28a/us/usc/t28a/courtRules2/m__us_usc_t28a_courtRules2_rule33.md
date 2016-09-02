@@ -17,7 +17,7 @@
 
     (a) __In General.__ 
 
-        (1) Number. Unless otherwise stipulated or ordered by the court, a party may serve on any other party no more than 25 written interrogatories, including all discrete subparts. Leave to serve additional interrogatories may be granted to the extent consistent with Rule 26(b)(2).
+        (1)Number. Unless otherwise stipulated or ordered by the court, a party may serve on any other party no more than 25 written interrogatories, including all discrete subparts. Leave to serve additional interrogatories may be granted to the extent consistent with Rule 26(b)(1) and (2).
 
         (2) Scope. An interrogatory may relate to any matter that may be inquired into under Rule 26(b). An interrogatory is not objectionable merely because it asks for an opinion or contention that relates to fact or the application of law to fact, but the court may order that the interrogatory need not be answered until designated discovery is complete, or until a pretrial conference or some other time.
 
@@ -25,7 +25,7 @@
 
         (1)
 
- Responding Party. The interrogatories must be answered:
+ Responding Party. The interrogatories must be answered—
 
             (A) by the party to whom they are directed; or
 
@@ -51,7 +51,7 @@
 
         (2) giving the interrogating party a reasonable opportunity to examine and audit the records and to make copies, compilations, abstracts, or summaries.
 
-(As amended Dec. 27, 1946, eff. Mar. 19, 1948; Mar. 30, 1970, eff. July 1, 1970; Apr. 29, 1980, eff. Aug. 1, 1980; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 12, 2006, eff. Dec. 1, 2006; Apr. 30, 2007, eff. Dec. 1, 2007.)
+(As amended Dec. 27, 1946, eff. Mar. 19, 1948; Mar. 30, 1970, eff. July 1, 1970; Apr. 29, 1980, eff. Aug. 1, 1980; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 12, 2006, eff. Dec. 1, 2006; Apr. 30, 2007, eff. Dec. 1, 2007; Apr. 29, 2015, eff. Dec. 1, 2015.)
 
  __Notes of Advisory Committee on Rules—1937__ 
 
@@ -156,6 +156,10 @@
     Former Rule 33(c) stated that an interrogatory “is not necessarily objectionable merely because an answer \* \* \* involves an opinion or contention \* \* \*.” “\[I\]s not necessarily” seemed to imply that the interrogatory might be objectionable merely for this reason. This implication has been ignored in practice. Opinion and contention interrogatories are used routinely. Amended Rule 33(a)(2) embodies the current meaning of Rule 33 by omitting “necessarily.”
 
     Changes Made After Publication and Comment. See Note to Rule 1, supra.
+
+ __Committee Notes on Rules—2015 Amendment__ 
+
+    Rule 33 is amended in parallel with Rules 30 and 31 to reflect the recognition of proportionality in Rule 26(b)(1).
 
  __References in Text__ 
 

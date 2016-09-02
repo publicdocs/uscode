@@ -21,7 +21,7 @@
 
         (2)
 
- With Leave. A party must obtain leave of court, and the court must grant leave to the extent consistent with Rule 26(b)(2):
+ With Leave. A party must obtain leave of court, and the court must grant leave to the extent consistent with Rule 26(b)(1) and (2):
 
             (A)
 
@@ -57,7 +57,7 @@
 
         (2) Filing. A party who files the deposition must promptly notify all other parties of the filing.
 
-(As amended Mar. 30, 1970, eff. July 1, 1970; Mar. 2, 1987, eff. Aug. 1, 1987; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 30, 2007, eff. Dec. 1, 2007.)
+(As amended Mar. 30, 1970, eff. July 1, 1970; Mar. 2, 1987, eff. Aug. 1, 1987; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 30, 2007, eff. Dec. 1, 2007; Apr. 29, 2015, eff. Dec. 1, 2015.)
 
  __Notes of Advisory Committee on Rules—1937__ 
 
@@ -92,6 +92,10 @@
     The language of Rule 31 has been amended as part of the general restyling of the Civil Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only.
 
     The party who noticed a deposition on written questions must notify all other parties when the deposition is completed, so that they may make use of the deposition. A deposition is completed when it is recorded and the deponent has either waived or exercised the right of review under Rule 30(e)(1).
+
+ __Committee Notes on Rules—2015 Amendment__ 
+
+    Rule 31 is amended in parallel with Rules 30 and 33 to reflect the recognition of proportionality in Rule 26(b)(1).
 
 ----------
 
