@@ -15,7 +15,7 @@
 
 # Title 25—INDIANS
 
-Current through 113-49
+Current through 113-52
 
 <table>
 

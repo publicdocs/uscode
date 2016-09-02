@@ -15,7 +15,7 @@
 
 # Title 11—APPENDIXBANKRUPTCY RULES
 
-Current through 113-49
+Current through 113-52
 
  __FEDERAL RULES OF BANKRUPTCY PROCEDURE__ 
 

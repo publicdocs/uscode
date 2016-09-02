@@ -15,7 +15,7 @@
 
 # Title 2—THE CONGRESS
 
-Current through 113-49
+Current through 113-52
 
 <table>
 
