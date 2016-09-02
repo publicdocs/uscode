@@ -95,7 +95,7 @@
 
     The Secretary shall issue regulations or grant solicitations for grants for homeland security or port security to ensure that activities surrounding the development of curriculum and the provision of training and these activities are eligible grant activities under both grant programs.
 
-(Added [Pub. L. 111–281, title VIII, § 821(a)][/us/pl/111/281/s821/a], Oct. 15, 2010, [124 Stat. 3001][/us/stat/124/3001]; amended [Pub. L. 111–330, § 1(14)][/us/pl/111/330/s1/14], Dec. 22, 2010, [124 Stat. 3570][/us/stat/124/3570].)
+(Added [Pub. L. 111–281, title VIII][/us/pl/111/281/tVIII], § 821(a), Oct. 15, 2010, [124 Stat. 3001][/us/stat/124/3001]; amended [Pub. L. 111–330][/us/pl/111/330], § 1(14), Dec. 22, 2010, [124 Stat. 3570][/us/stat/124/3570].)
 
  __References in Text__ 
 
@@ -103,11 +103,11 @@
 
  __Amendments__ 
 
-    2010—[Pub. L. 111–330][/us/pl/111/330] amended [Pub. L. 111–281, § 821(a)][/us/pl/111/281/s821/a], which enacted this section.
+    2010—[Pub. L. 111–330][/us/pl/111/330] amended [Pub. L. 111–281][/us/pl/111/281], § 821(a), which enacted this section.
 
  __Effective Date of 2010 Amendment__ 
 
-    [Pub. L. 111–330, § 1][/us/pl/111/330/s1], Dec. 22, 2010, [124 Stat. 3569][/us/stat/124/3569], provided that the amendment made by section 1(12) is effective with the enactment of [Pub. L. 111–281][/us/pl/111/281].
+    [Pub. L. 111–330][/us/pl/111/330], § 1, Dec. 22, 2010, [124 Stat. 3569][/us/stat/124/3569], provided that the amendment made by section 1(12) is effective with the enactment of [Pub. L. 111–281][/us/pl/111/281].
 
 ----------
 
@@ -118,15 +118,15 @@
 
 [/us/pl/107/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295
 [/us/usc/t46/s70101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs70101
-[/us/pl/111/281/s821/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs821%2Fa
+[/us/pl/111/281/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2FtVIII
 [/us/stat/124/3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3001
-[/us/pl/111/330/s1/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F330%2Fs1%2F14
+[/us/pl/111/330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F330
 [/us/stat/124/3570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3570
 [/us/pl/107/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295
 [/us/stat/116/2064]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2064
 [/us/pl/111/330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F330
-[/us/pl/111/281/s821/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs821%2Fa
-[/us/pl/111/330/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F330%2Fs1
+[/us/pl/111/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281
+[/us/pl/111/330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F330
 [/us/stat/124/3569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3569
 [/us/pl/111/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281
 

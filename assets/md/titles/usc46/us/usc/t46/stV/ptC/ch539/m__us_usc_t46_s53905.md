@@ -27,7 +27,7 @@
 
     The signature of the President (or an official designated by the President) on the agreement shall be treated as the approval required by [section 53902(a) of this title][/us/usc/t46/s53902/a].
 
-([Pub. L. 109–304, § 8(c)][/us/pl/109/304/s8/c], Oct. 6, 2006, [120 Stat. 1628][/us/stat/120/1628].)
+([Pub. L. 109–304][/us/pl/109/304], § 8(c), Oct. 6, 2006, [120 Stat. 1628][/us/stat/120/1628].)
 
 <table>
 
@@ -83,7 +83,7 @@ June 29, 1936, ch. 858, title XII, § 1205, as added Sept. 7, 1950, ch. 906, 6
 ----------
 
 [/us/usc/t46/s53902/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs53902%2Fa
-[/us/pl/109/304/s8/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs8%2Fc
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1628
 
 

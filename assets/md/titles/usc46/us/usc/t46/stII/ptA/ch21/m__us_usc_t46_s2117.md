@@ -23,7 +23,7 @@
 
     (3) may direct the individual in charge of a vessel to which this title applies to immediately take reasonable steps necessary for the safety of individuals on board the vessel if the official observes the vessel being operated in an unsafe condition that the official believes creates an especially hazardous condition, including ordering the individual in charge to return the vessel to a mooring and to remain there until the situation creating the hazard is corrected or ended.
 
-(Added [Pub. L. 111–281, title VI, § 608(a)][/us/pl/111/281/s608/a], Oct. 15, 2010, [124 Stat. 2967][/us/stat/124/2967].)
+(Added [Pub. L. 111–281, title VI][/us/pl/111/281/tVI], § 608(a), Oct. 15, 2010, [124 Stat. 2967][/us/stat/124/2967].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/111/281/s608/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs608%2Fa
+[/us/pl/111/281/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2FtVI
 [/us/stat/124/2967]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2967
 
 

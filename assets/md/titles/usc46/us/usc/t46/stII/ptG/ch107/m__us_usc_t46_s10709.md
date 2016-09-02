@@ -33,7 +33,7 @@
 
     (b) If the money, property, and wages are more than $1,500 in value, the court, subject to deductions for expenses, shall deliver the money, property, and wages to the legal representative of the seaman.
 
-([Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 574][/us/stat/97/574]; [Pub. L. 99–307, § 1(15)][/us/pl/99/307/s1/15], May 19, 1986, [100 Stat. 446][/us/stat/100/446].)
+([Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 574][/us/stat/97/574]; [Pub. L. 99–307][/us/pl/99/307], § 1(15), May 19, 1986, [100 Stat. 446][/us/stat/100/446].)
 
 <table>
 
@@ -86,7 +86,7 @@ Source section (U.S. Code)  </td>
 
 [/us/pl/98/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F89
 [/us/stat/97/574]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F574
-[/us/pl/99/307/s1/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F307%2Fs1%2F15
+[/us/pl/99/307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F307
 [/us/stat/100/446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F446
 [/us/pl/99/307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F307
 

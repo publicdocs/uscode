@@ -129,7 +129,7 @@
 
     A vessel satisfying the requirements of this section is deemed to be owned only by citizens of the United States under sections 12103 and 50501 of this title.
 
-([Pub. L. 109–304, § 5][/us/pl/109/304/s5], Oct. 6, 2006, [120 Stat. 1501][/us/stat/120/1501].)
+([Pub. L. 109–304][/us/pl/109/304], § 5, Oct. 6, 2006, [120 Stat. 1501][/us/stat/120/1501].)
 
 <table>
 
@@ -253,11 +253,11 @@ Source (Statutes at Large)  </td>
 
  __Prior Provisions__ 
 
-    A prior section 12119, [Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 589][/us/stat/97/589]; [Pub. L. 100–710, title I, § 104(a)(4)][/us/pl/100/710/s104/a/4], Nov. 23, 1988, [102 Stat. 4750][/us/stat/102/4750], originally derived from sections 65s and 881 of former Title 46, Shipping, related to list of documented vessels, prior to the general amendment of this chapter by [Pub. L. 109–304][/us/pl/109/304]. See [section 12138 of this title][/us/usc/t46/s12138].
+    A prior section 12119, [Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 589][/us/stat/97/589]; [Pub. L. 100–710, title I][/us/pl/100/710/tI], § 104(a)(4), Nov. 23, 1988, [102 Stat. 4750][/us/stat/102/4750], originally derived from sections 65s and 881 of former Title 46, Shipping, related to list of documented vessels, prior to the general amendment of this chapter by [Pub. L. 109–304][/us/pl/109/304]. See [section 12138 of this title][/us/usc/t46/s12138].
 
  __Application to Certain Certificates__ 
 
-[Pub. L. 108–293, title VI, § 608(c)][/us/pl/108/293/s608/c], Aug. 9, 2004, [118 Stat. 1057][/us/stat/118/1057], provided that:
+[Pub. L. 108–293, title VI][/us/pl/108/293/tVI], § 608(c), Aug. 9, 2004, [118 Stat. 1057][/us/stat/118/1057], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -279,7 +279,7 @@ Source (Statutes at Large)  </td>
 
  __Waiver of Qualified Proprietary Cargo Requirement__ 
 
-[Pub. L. 108–293, title VI, § 608(d)][/us/pl/108/293/s608/d], Aug. 9, 2004, [118 Stat. 1057][/us/stat/118/1057], provided that: 
+[Pub. L. 108–293, title VI][/us/pl/108/293/tVI], § 608(d), Aug. 9, 2004, [118 Stat. 1057][/us/stat/118/1057], provided that: 
 
 > “The Secretary of Transportation shall waive or reduce the qualified proprietary cargo requirement of section 12106(f)(3)(A)(iii) \[now section 12119(c)(3)(A)(iii)\] of title 46, United States Code, for a vessel if the person that owns the vessel (or, if the vessel is owned by a trust or similar arrangement, the beneficiary of the trust or similar arrangement) notifies the Secretary that circumstances beyond the direct control of such person or its affiliates prevent, or reasonably threaten to prevent, such person from satisfying such requirement, and the Secretary does not, with good cause, determine otherwise. The waiver or reduction shall apply during the period of time that such circumstances exist.”
 
@@ -295,21 +295,21 @@ Source (Statutes at Large)  </td>
 [/us/usc/t46/s14502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs14502
 [/us/usc/t46/s14302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs14302
 [/us/usc/t46/s14104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs14104
-[/us/pl/109/304/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs5
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1501
 [/us/usc/t46/s12106/e/1/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs12106%2Fe%2F1%2FE
 [/us/usc/t46/s12106/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs12106%2Fe%2F1
 [/us/pl/98/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F89
 [/us/stat/97/589]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F589
-[/us/pl/100/710/s104/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F710%2Fs104%2Fa%2F4
+[/us/pl/100/710/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F710%2FtI
 [/us/stat/102/4750]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4750
 [/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/usc/t46/s12138]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs12138
-[/us/pl/108/293/s608/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293%2Fs608%2Fc
+[/us/pl/108/293/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293%2FtVI
 [/us/stat/118/1057]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1057
 [/us/usc/t46/s2101/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs2101%2F19
 [/us/usc/t46/s12106/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs12106%2Fe
-[/us/pl/108/293/s608/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293%2Fs608%2Fd
+[/us/pl/108/293/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293%2FtVI
 [/us/stat/118/1057]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1057
 
 

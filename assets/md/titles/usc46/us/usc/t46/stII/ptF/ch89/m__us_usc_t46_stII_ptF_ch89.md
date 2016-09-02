@@ -79,7 +79,7 @@
 
  __Amendments__ 
 
-    1986—[Pub. L. 99–307, § 1(14)(A)][/us/pl/99/307/s1/14/A], May 19, 1986, [100 Stat. 446][/us/stat/100/446], substituted “Self-propelled, uninspected” for “Uninspected” in item 8903.
+    1986—[Pub. L. 99–307][/us/pl/99/307], § 1(14)(A), May 19, 1986, [100 Stat. 446][/us/stat/100/446], substituted “Self-propelled, uninspected” for “Uninspected” in item 8903.
 
 ----------
 
@@ -88,7 +88,7 @@
 ----------
 ----------
 
-[/us/pl/99/307/s1/14/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F307%2Fs1%2F14%2FA
+[/us/pl/99/307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F307
 [/us/stat/100/446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F446
 
 

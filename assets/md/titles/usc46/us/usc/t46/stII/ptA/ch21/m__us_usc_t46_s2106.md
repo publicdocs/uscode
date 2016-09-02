@@ -17,7 +17,7 @@
 
     When a vessel is made liable in rem under this subtitle, the vessel may be libeled and proceeded against in the district court of the United States for any district in which the vessel is found.
 
-([Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 506][/us/stat/97/506]; [Pub. L. 109–304, § 15(4)][/us/pl/109/304/s15/4], Oct. 6, 2006, [120 Stat. 1702][/us/stat/120/1702].)
+([Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 506][/us/stat/97/506]; [Pub. L. 109–304][/us/pl/109/304], § 15(4), Oct. 6, 2006, [120 Stat. 1702][/us/stat/120/1702].)
 
 <table>
 
@@ -190,7 +190,7 @@ Source section (U.S. Code)  </td>
 
 [/us/pl/98/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F89
 [/us/stat/97/506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F506
-[/us/pl/109/304/s15/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs15%2F4
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1702
 [/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 

@@ -27,7 +27,7 @@
 
     A liability imposed under this section is not subject to limitation under chapter 305 of this title.
 
-([Pub. L. 109–304, § 6(c)][/us/pl/109/304/s6/c], Oct. 6, 2006, [120 Stat. 1509][/us/stat/120/1509].)
+([Pub. L. 109–304][/us/pl/109/304], § 6(c), Oct. 6, 2006, [120 Stat. 1509][/us/stat/120/1509].)
 
 <table>
 
@@ -86,7 +86,7 @@ R.S. § 4493 (words before semicolon).  </td>
 ----------
 ----------
 
-[/us/pl/109/304/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs6%2Fc
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1509
 
 

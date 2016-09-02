@@ -99,7 +99,7 @@
 
  __Amendments__ 
 
-    1993—[Pub. L. 103–206, title IV, § 415(b)][/us/pl/103/206/s415/b], Dec. 20, 1993, [107 Stat. 2438][/us/stat/107/2438], struck out item 10507 “Duties of shipping commissioners”.
+    1993—[Pub. L. 103–206, title IV][/us/pl/103/206/tIV], § 415(b), Dec. 20, 1993, [107 Stat. 2438][/us/stat/107/2438], struck out item 10507 “Duties of shipping commissioners”.
 
 ----------
 
@@ -108,7 +108,7 @@
 ----------
 ----------
 
-[/us/pl/103/206/s415/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F206%2Fs415%2Fb
+[/us/pl/103/206/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F206%2FtIV
 [/us/stat/107/2438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2438
 
 

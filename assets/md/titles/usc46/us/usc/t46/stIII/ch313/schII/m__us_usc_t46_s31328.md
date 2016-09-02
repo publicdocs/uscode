@@ -13,9 +13,9 @@
 
 [Previous](./../../../../../..//us/usc/t46/stIII/ch313/schII/m__us_usc_t46_s31327.md) | [Next](./../../../../../..//us/usc/t46/stIII/ch313/schII/m__us_usc_t46_s31329.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs31328)
 
-## \[§ 31328. Repealed. [Pub. L. 104–324, title XI, § 1113(b)(1)][/us/pl/104/324/s1113/b/1], Oct. 19, 1996, [110 Stat. 3970][/us/stat/110/3970]\]
+## \[§ 31328. Repealed. [Pub. L. 104–324, title XI][/us/pl/104/324/tXI], § 1113(b)(1), Oct. 19, 1996, [110 Stat. 3970][/us/stat/110/3970]\]
 
-    Section, [Pub. L. 100–710, title I, § 102(c)][/us/pl/100/710/s102/c], Nov. 23, 1988, [102 Stat. 4746][/us/stat/102/4746], related to limitations on parties serving as trustees of mortgaged vessel interests.
+    Section, [Pub. L. 100–710, title I][/us/pl/100/710/tI], § 102(c), Nov. 23, 1988, [102 Stat. 4746][/us/stat/102/4746], related to limitations on parties serving as trustees of mortgaged vessel interests.
 
 ----------
 
@@ -24,9 +24,9 @@
 ----------
 ----------
 
-[/us/pl/104/324/s1113/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2Fs1113%2Fb%2F1
+[/us/pl/104/324/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2FtXI
 [/us/stat/110/3970]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3970
-[/us/pl/100/710/s102/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F710%2Fs102%2Fc
+[/us/pl/100/710/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F710%2FtI
 [/us/stat/102/4746]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4746
 
 

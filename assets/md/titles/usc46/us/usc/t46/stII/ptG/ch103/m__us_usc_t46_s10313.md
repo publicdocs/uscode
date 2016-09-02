@@ -51,7 +51,7 @@
 
     (i) This section applies to a seaman on a foreign vessel when in a harbor of the United States. The courts are available to the seaman for the enforcement of this section.
 
-([Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 566][/us/stat/97/566]; [Pub. L. 99–640, § 10(b)(4)][/us/pl/99/640/s10/b/4], Nov. 10, 1986, [100 Stat. 3550][/us/stat/100/3550]; [Pub. L. 111–281, title IX, § 902(a)(1)][/us/pl/111/281/s902/a/1], Oct. 15, 2010, [124 Stat. 3008][/us/stat/124/3008].)
+([Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 566][/us/stat/97/566]; [Pub. L. 99–640][/us/pl/99/640], § 10(b)(4), Nov. 10, 1986, [100 Stat. 3550][/us/stat/100/3550]; [Pub. L. 111–281, title IX][/us/pl/111/281/tIX], § 902(a)(1), Oct. 15, 2010, [124 Stat. 3008][/us/stat/124/3008].)
 
 <table>
 
@@ -165,9 +165,9 @@ Source section (U.S. Code)  </td>
 [/us/usc/t46/s10312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs10312
 [/us/pl/98/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F89
 [/us/stat/97/566]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F566
-[/us/pl/99/640/s10/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F640%2Fs10%2Fb%2F4
+[/us/pl/99/640]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F640
 [/us/stat/100/3550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3550
-[/us/pl/111/281/s902/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs902%2Fa%2F1
+[/us/pl/111/281/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2FtIX
 [/us/stat/124/3008]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3008
 [/us/pl/111/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281
 [/us/pl/99/640]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F640

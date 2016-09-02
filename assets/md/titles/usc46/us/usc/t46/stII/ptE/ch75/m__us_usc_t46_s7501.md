@@ -19,7 +19,7 @@
 
     (b) For any other loss, the seaman may obtain a duplicate on payment of reasonable costs prescribed by regulation by the Secretary.
 
-([Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 545][/us/stat/97/545]; [Pub. L. 99–36, § 1(a)(9)(C)][/us/pl/99/36/s1/a/9/C], May 15, 1985, [99 Stat. 68][/us/stat/99/68].)
+([Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 545][/us/stat/97/545]; [Pub. L. 99–36][/us/pl/99/36], § 1(a)(9)(C), May 15, 1985, [99 Stat. 68][/us/stat/99/68].)
 
 <table>
 
@@ -74,7 +74,7 @@ Source section (U.S. Code)  </td>
 
 [/us/pl/98/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F89
 [/us/stat/97/545]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F545
-[/us/pl/99/36/s1/a/9/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F36%2Fs1%2Fa%2F9%2FC
+[/us/pl/99/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F36
 [/us/stat/99/68]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F68
 [/us/pl/99/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F36
 

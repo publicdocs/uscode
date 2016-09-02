@@ -29,7 +29,7 @@
 
     The term “Secretary” means the Secretary of the department in which the Coast Guard is operating.
 
-([Pub. L. 109–304, § 10(2)][/us/pl/109/304/s10/2], Oct. 6, 2006, [120 Stat. 1683][/us/stat/120/1683].)
+([Pub. L. 109–304][/us/pl/109/304], § 10(2), Oct. 6, 2006, [120 Stat. 1683][/us/stat/120/1683].)
 
 <table>
 
@@ -90,7 +90,7 @@ Pub. L. 99–399, title IX, § 911, Aug. 27, 1986, 100 Stat. 892.  </td>
 
 [/us/usc/t46/s40102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs40102
 [/us/usc/t46/s2101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs2101
-[/us/pl/109/304/s10/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs10%2F2
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1683]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1683
 [/us/usc/t46/s2101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs2101
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296

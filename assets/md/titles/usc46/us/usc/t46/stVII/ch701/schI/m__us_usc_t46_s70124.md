@@ -17,7 +17,7 @@
 
     Unless otherwise provided, the Secretary may issue regulations necessary to implement this chapter.
 
-(Added [Pub. L. 111–281, title VIII, § 820(a)][/us/pl/111/281/s820/a], Oct. 15, 2010, [124 Stat. 3001][/us/stat/124/3001].)
+(Added [Pub. L. 111–281, title VIII][/us/pl/111/281/tVIII], § 820(a), Oct. 15, 2010, [124 Stat. 3001][/us/stat/124/3001].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/111/281/s820/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs820%2Fa
+[/us/pl/111/281/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2FtVIII
 [/us/stat/124/3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3001
 
 

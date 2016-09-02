@@ -27,7 +27,7 @@
 
     For the purposes of this section, the term “biometric identification” means use of fingerprint and digital photography images and facial and iris scan technology and any other technology considered applicable by the Department of Homeland Security.
 
-(Added [Pub. L. 111–281, title VIII, § 807(a)][/us/pl/111/281/s807/a], Oct. 15, 2010, [124 Stat. 2993][/us/stat/124/2993].)
+(Added [Pub. L. 111–281, title VIII][/us/pl/111/281/tVIII], § 807(a), Oct. 15, 2010, [124 Stat. 2993][/us/stat/124/2993].)
 
  __References in Text__ 
 
@@ -40,7 +40,7 @@
 ----------
 ----------
 
-[/us/pl/111/281/s807/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs807%2Fa
+[/us/pl/111/281/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2FtVIII
 [/us/stat/124/2993]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2993
 [/us/pl/111/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281
 

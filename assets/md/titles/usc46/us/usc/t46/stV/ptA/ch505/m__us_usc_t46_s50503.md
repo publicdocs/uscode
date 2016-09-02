@@ -17,7 +17,7 @@
 
     An oceanographic research vessel (as defined in [section 2101 of this title][/us/usc/t46/s2101]) is deemed not to be engaged in trade or commerce.
 
-([Pub. L. 109–304, § 8(b)][/us/pl/109/304/s8/b], Oct. 6, 2006, [120 Stat. 1567][/us/stat/120/1567].)
+([Pub. L. 109–304][/us/pl/109/304], § 8(b), Oct. 6, 2006, [120 Stat. 1567][/us/stat/120/1567].)
 
 <table>
 
@@ -105,7 +105,7 @@ Pub. L. 89–99, §§ 1, 3, 4, July 30, 1965, 79 Stat. 424.  </td>
 ----------
 
 [/us/usc/t46/s2101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs2101
-[/us/pl/109/304/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs8%2Fb
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1567]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1567
 [/us/usc/t46/s2101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs2101
 [/us/usc/t46/s10101/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs10101%2F3

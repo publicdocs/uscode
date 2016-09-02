@@ -17,7 +17,7 @@
 
     The Secretary of Homeland Security may prescribe regulations for the transshipment and transportation of merchandise that is imported into the United States by sea for immediate exportation to a foreign port by sea, or by a river, the right to ascend or descend which for the purposes of commerce is secured by treaty to the citizens of the United States and the subjects of a foreign power.
 
-([Pub. L. 109–304, § 8(c)][/us/pl/109/304/s8/c], Oct. 6, 2006, [120 Stat. 1641][/us/stat/120/1641].)
+([Pub. L. 109–304][/us/pl/109/304], § 8(c), Oct. 6, 2006, [120 Stat. 1641][/us/stat/120/1641].)
 
 <table>
 
@@ -72,7 +72,7 @@ Feb. 17, 1898, ch. 26, § 3, 30 Stat. 248.  </td>
 ----------
 ----------
 
-[/us/pl/109/304/s8/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs8%2Fc
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1641
 
 

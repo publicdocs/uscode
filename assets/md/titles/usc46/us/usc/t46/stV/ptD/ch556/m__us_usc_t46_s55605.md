@@ -37,7 +37,7 @@
 
         (B) loaded at a port in Canada located in the Great Lakes Saint Lawrence Seaway System and unloaded at a port in the United States.
 
-(Added [Pub. L. 110–140, title XI, § 1121(a)][/us/pl/110/140/s1121/a], Dec. 19, 2007, [121 Stat. 1761][/us/stat/121/1761]; amended [Pub. L. 112–213, title IV, § 405(b)][/us/pl/112/213/s405/b], Dec. 20, 2012, [126 Stat. 1571][/us/stat/126/1571]; [Pub. L. 114–92, div. C, title XXXV, § 3508][/us/pl/114/92/s3508], Nov. 25, 2015, [129 Stat. 1223][/us/stat/129/1223].)
+(Added [Pub. L. 110–140, title XI][/us/pl/110/140/tXI], § 1121(a), Dec. 19, 2007, [121 Stat. 1761][/us/stat/121/1761]; amended [Pub. L. 112–213, title IV][/us/pl/112/213/tIV], § 405(b), Dec. 20, 2012, [126 Stat. 1571][/us/stat/126/1571]; [Pub. L. 114–92, div. C, title XXXV][/us/pl/114/92/dC/tXXXV], § 3508, Nov. 25, 2015, [129 Stat. 1223][/us/stat/129/1223].)
 
  __Amendments__ 
 
@@ -52,11 +52,11 @@
 ----------
 ----------
 
-[/us/pl/110/140/s1121/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs1121%2Fa
+[/us/pl/110/140/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2FtXI
 [/us/stat/121/1761]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1761
-[/us/pl/112/213/s405/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F213%2Fs405%2Fb
+[/us/pl/112/213/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F213%2FtIV
 [/us/stat/126/1571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1571
-[/us/pl/114/92/s3508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs3508
+[/us/pl/114/92/dC/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdC%2FtXXXV
 [/us/stat/129/1223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1223
 [/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
 [/us/pl/112/213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F213

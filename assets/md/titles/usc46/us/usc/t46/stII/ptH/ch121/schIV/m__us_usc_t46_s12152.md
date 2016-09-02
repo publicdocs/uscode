@@ -17,7 +17,7 @@
 
     If the owner of a vessel fails to pay a civil penalty imposed by the Secretary, the Secretary may deny the issuance or renewal of an endorsement, or revoke the endorsement, on a certificate of documentation issued for the vessel under this chapter.
 
-([Pub. L. 109–304, § 5][/us/pl/109/304/s5], Oct. 6, 2006, [120 Stat. 1508][/us/stat/120/1508].)
+([Pub. L. 109–304][/us/pl/109/304], § 5, Oct. 6, 2006, [120 Stat. 1508][/us/stat/120/1508].)
 
 <table>
 
@@ -70,7 +70,7 @@ Source (Statutes at Large)  </td>
 ----------
 ----------
 
-[/us/pl/109/304/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs5
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1508
 
 

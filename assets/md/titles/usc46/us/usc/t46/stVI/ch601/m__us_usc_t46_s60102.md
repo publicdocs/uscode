@@ -17,7 +17,7 @@
 
     On entry of a vessel documented under chapter 121 of this title, the master or other individual in charge of the vessel shall produce the certificate of documentation to the customs officer at the place where the vessel is entered. If the certificate is not produced, the vessel is not entitled to the privileges of a documented vessel.
 
-([Pub. L. 109–304, § 9(b)][/us/pl/109/304/s9/b], Oct. 6, 2006, [120 Stat. 1674][/us/stat/120/1674].)
+([Pub. L. 109–304][/us/pl/109/304], § 9(b), Oct. 6, 2006, [120 Stat. 1674][/us/stat/120/1674].)
 
 <table>
 
@@ -74,7 +74,7 @@ R.S. § 4184.  </td>
 ----------
 ----------
 
-[/us/pl/109/304/s9/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs9%2Fb
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1674]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1674
 [/us/usc/t19/s1434]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1434
 

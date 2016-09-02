@@ -19,7 +19,7 @@
 
     (b) Each certificate endorsed under this section is valid for not more than 5 years and may be renewed as specified by the Secretary. In appropriate circumstances, the Secretary may issue a temporary certificate valid for not more than 30 days. A certificate shall be suspended or revoked if the Secretary finds that the vessel does not comply with the conditions under which the certificate was issued.
 
-([Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 524][/us/stat/97/524]; [Pub. L. 104–324, title VI, § 605(b)][/us/pl/104/324/s605/b], Oct. 19, 1996, [110 Stat. 3931][/us/stat/110/3931].)
+([Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 524][/us/stat/97/524]; [Pub. L. 104–324, title VI][/us/pl/104/324/tVI], § 605(b), Oct. 19, 1996, [110 Stat. 3931][/us/stat/110/3931].)
 
 <table>
 
@@ -74,7 +74,7 @@ Source section (U.S. Code)  </td>
 
 [/us/pl/98/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F89
 [/us/stat/97/524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F524
-[/us/pl/104/324/s605/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2Fs605%2Fb
+[/us/pl/104/324/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2FtVI
 [/us/stat/110/3931]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3931
 [/us/pl/104/324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324
 

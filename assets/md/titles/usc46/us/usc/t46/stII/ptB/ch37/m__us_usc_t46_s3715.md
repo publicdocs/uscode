@@ -21,7 +21,7 @@
 
         (1) the transfer was conducted consistent with regulations prescribed by the Secretary;
 
-        (2) both the delivering and receiving vessels had on board, at the time of transfer, a certificate of inspection or a certificate of compliance, as would have been required under section 3710 or 3711 of this title, had the transfer taken place in a port or place subject to the jurisdiction of the United States; and  <sup>\[1\]</sup>  <sup><sup> 1 So in original. The word “and” probably should not appear. </sup></sup> 
+        (2) both the delivering and receiving vessels had on board, at the time of transfer, a certificate of inspection or a certificate of compliance, as would have been required under section 3710 or 3711 of this title, had the transfer taken place in a port or place subject to the jurisdiction of the United States;
 
         (3) the delivering and the receiving vessel had on board at the time of transfer, a certificate of financial responsibility as would have been required under section 1016 of the Oil Pollution Act of 1990, had the transfer taken place in a place subject to the jurisdiction of the United States;
 
@@ -45,7 +45,7 @@
 
         (6) requirements for communication and prearrival messages.
 
-([Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 526][/us/stat/97/526]; [Pub. L. 101–380, title IV, § 4115(d)][/us/pl/101/380/s4115/d], Aug. 18, 1990, [104 Stat. 520][/us/stat/104/520].)
+([Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 526][/us/stat/97/526]; [Pub. L. 101–380, title IV][/us/pl/101/380/tIV], § 4115(d), Aug. 18, 1990, [104 Stat. 520][/us/stat/104/520]; [Pub. L. 114–120, title III][/us/pl/114/120/tIII], § 306(a)(4), Feb. 8, 2016, [130 Stat. 54][/us/stat/130/54].)
 
 <table>
 
@@ -93,6 +93,8 @@ Source section (U.S. Code)  </td>
 
  __Amendments__ 
 
+    2016—Subsec. (a)(2). [Pub. L. 114–120][/us/pl/114/120], § 306(a)(4), substituted semicolon for “; and”.
+
     1990—Subsec. (a)(3) to (5). [Pub. L. 101–380][/us/pl/101/380] added pars. (3) to (5).
 
  __Effective Date of 1990 Amendment__ 
@@ -101,7 +103,7 @@ Source section (U.S. Code)  </td>
 
  __Effective Date__ 
 
-[Pub. L. 98–89, § 2(g)(2)][/us/pl/98/89/s2/g/2], Aug. 26, 1983, [97 Stat. 599][/us/stat/97/599], provided that: 
+[Pub. L. 98–89][/us/pl/98/89], § 2(g)(2), Aug. 26, 1983, [97 Stat. 599][/us/stat/97/599], provided that: 
 
 > “[Section 3715(a) of title 46][/us/usc/t46/s3715/a] (as enacted by section 1 of this Act) is effective on the day after the effective date of the regulations prescribed by the Secretary under [section 3715(b) of title 46][/us/usc/t46/s3715/b].”
 
@@ -118,14 +120,17 @@ Source section (U.S. Code)  </td>
 [/us/usc/t46/s3703a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs3703a
 [/us/pl/98/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F89
 [/us/stat/97/526]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F526
-[/us/pl/101/380/s4115/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2Fs4115%2Fd
+[/us/pl/101/380/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2FtIV
 [/us/stat/104/520]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F520
+[/us/pl/114/120/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F120%2FtIII
+[/us/stat/130/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F54
 [/us/usc/t33/s2716]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2716
+[/us/pl/114/120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F120
 [/us/pl/101/380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380
 [/us/pl/101/380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380
 [/us/pl/101/380/s1020]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2Fs1020
 [/us/usc/t33/s2701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2701
-[/us/pl/98/89/s2/g/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F89%2Fs2%2Fg%2F2
+[/us/pl/98/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F89
 [/us/stat/97/599]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F599
 [/us/usc/t46/s3715/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs3715%2Fa
 [/us/usc/t46/s3715/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs3715%2Fb

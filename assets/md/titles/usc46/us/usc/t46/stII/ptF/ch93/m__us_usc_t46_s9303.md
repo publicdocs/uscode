@@ -37,7 +37,7 @@
 
     (g) The Secretary shall ensure that a sufficient number of individuals are assigned to carrying out subsection (f).
 
-([Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 558][/us/stat/97/558]; [Pub. L. 104–324, title VII, § 735][/us/pl/104/324/s735], Oct. 19, 1996, [110 Stat. 3941][/us/stat/110/3941]; [Pub. L. 109–241, title III, § 302][/us/pl/109/241/s302], July 11, 2006, [120 Stat. 527][/us/stat/120/527].)
+([Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 558][/us/stat/97/558]; [Pub. L. 104–324, title VII][/us/pl/104/324/tVII], § 735, Oct. 19, 1996, [110 Stat. 3941][/us/stat/110/3941]; [Pub. L. 109–241, title III][/us/pl/109/241/tIII], § 302, July 11, 2006, [120 Stat. 527][/us/stat/120/527].)
 
 <table>
 
@@ -137,9 +137,9 @@ Source section (U.S. Code)  </td>
 
  __Amendments__ 
 
-    2006—Subsec. (f). [Pub. L. 109–241, § 302(1)][/us/pl/109/241/s302/1], inserted at end “The Secretary shall establish new pilotage rates by March 1 of each year. The Secretary shall establish base pilotage rates by a full ratemaking at least once every 5 years and shall conduct annual reviews of such base pilotage rates, and make adjustments to such base rates, in each intervening year.”
+    2006—Subsec. (f). [Pub. L. 109–241][/us/pl/109/241], § 302(1), inserted at end “The Secretary shall establish new pilotage rates by March 1 of each year. The Secretary shall establish base pilotage rates by a full ratemaking at least once every 5 years and shall conduct annual reviews of such base pilotage rates, and make adjustments to such base rates, in each intervening year.”
 
-    Subsec. (g). [Pub. L. 109–241, § 302(2)][/us/pl/109/241/s302/2], added subsec. (g).
+    Subsec. (g). [Pub. L. 109–241][/us/pl/109/241], § 302(2), added subsec. (g).
 
     1996—Subsec. (a)(2). [Pub. L. 104–324][/us/pl/104/324] inserted “as measured under [section 14502 of this title][/us/usc/t46/s14502], or an alternate tonnage measured under [section 14302 of this title][/us/usc/t46/s14302] as prescribed by the Secretary under [section 14104 of this title][/us/usc/t46/s14104]” after “4,000 gross tons”.
 
@@ -156,12 +156,12 @@ Source section (U.S. Code)  </td>
 [/us/usc/t46/s14104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs14104
 [/us/pl/98/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F89
 [/us/stat/97/558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F558
-[/us/pl/104/324/s735]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2Fs735
+[/us/pl/104/324/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2FtVII
 [/us/stat/110/3941]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3941
-[/us/pl/109/241/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241%2Fs302
+[/us/pl/109/241/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241%2FtIII
 [/us/stat/120/527]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F527
-[/us/pl/109/241/s302/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241%2Fs302%2F1
-[/us/pl/109/241/s302/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241%2Fs302%2F2
+[/us/pl/109/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241
+[/us/pl/109/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241
 [/us/pl/104/324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324
 [/us/usc/t46/s14502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs14502
 [/us/usc/t46/s14302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs14302

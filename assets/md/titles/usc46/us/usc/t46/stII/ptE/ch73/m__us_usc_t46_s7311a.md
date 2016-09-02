@@ -17,7 +17,7 @@
 
     For service on a fish processing vessel, an individual may be rated as able seaman—fishing industry if the individual has at least 6 months’ service on deck on board vessels operating on the oceans or the navigable waters of the United States (including the Great Lakes).
 
-(Added [Pub. L. 98–364, title IV, § 402(9)(D)][/us/pl/98/364/s402/9/D], July 17, 1984, [98 Stat. 448][/us/stat/98/448].)
+(Added [Pub. L. 98–364, title IV][/us/pl/98/364/tIV], § 402(9)(D), July 17, 1984, [98 Stat. 448][/us/stat/98/448].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/98/364/s402/9/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F364%2Fs402%2F9%2FD
+[/us/pl/98/364/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F364%2FtIV
 [/us/stat/98/448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F448
 
 

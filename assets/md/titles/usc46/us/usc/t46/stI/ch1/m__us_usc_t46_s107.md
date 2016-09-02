@@ -17,7 +17,7 @@
 
     In this title, the term “exclusive economic zone” means the zone established by Presidential Proclamation 5030 of March 10, 1983 ([16 U.S.C. 1453][/us/usc/t16/s1453] note).
 
-([Pub. L. 109–304, § 4][/us/pl/109/304/s4], Oct. 6, 2006, [120 Stat. 1487][/us/stat/120/1487].)
+([Pub. L. 109–304][/us/pl/109/304], § 4, Oct. 6, 2006, [120 Stat. 1487][/us/stat/120/1487].)
 
 <table>
 
@@ -71,7 +71,7 @@ Source (Statutes at Large)  </td>
 ----------
 
 [/us/usc/t16/s1453]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1453
-[/us/pl/109/304/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs4
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1487]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1487
 
 

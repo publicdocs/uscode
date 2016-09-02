@@ -35,7 +35,7 @@
 
     Merchandise transported in violation of subsection (b) is liable to seizure by and forfeiture to the Government. Alternatively, an amount equal to the value of the merchandise (as determined by the Secretary of Homeland Security) or the actual cost of the transportation, whichever is greater, may be recovered from any person transporting the merchandise or causing the merchandise to be transported.
 
-([Pub. L. 109–304, § 8(c)][/us/pl/109/304/s8/c], Oct. 6, 2006, [120 Stat. 1632][/us/stat/120/1632].)
+([Pub. L. 109–304][/us/pl/109/304], § 8(c), Oct. 6, 2006, [120 Stat. 1632][/us/stat/120/1632].)
 
 <table>
 
@@ -96,7 +96,7 @@ June 5, 1920, ch. 250, § 27 (words before 1st proviso, 11th proviso), 41 Stat
 ----------
 ----------
 
-[/us/pl/109/304/s8/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs8%2Fc
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1632
 
 

@@ -37,7 +37,7 @@
 
         If a person fails to pay a penalty under this section, the Secretary shall refer the matter to the Attorney General for collection in an appropriate district court of the United States.
 
-([Pub. L. 109–304, § 11][/us/pl/109/304/s11], Oct. 6, 2006, [120 Stat. 1698][/us/stat/120/1698].)
+([Pub. L. 109–304][/us/pl/109/304], § 11, Oct. 6, 2006, [120 Stat. 1698][/us/stat/120/1698].)
 
 <table>
 
@@ -97,7 +97,7 @@ Pub. L. 95–208, § 6, Dec. 13, 1977, 91 Stat. 1478.  </td>
 ----------
 
 [/us/usc/t46/s80505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs80505
-[/us/pl/109/304/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs11
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1698]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1698
 
 

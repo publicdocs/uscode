@@ -17,7 +17,7 @@
 
     [Section 55102 of this title][/us/usc/t46/s55102] does not apply to supplies aboard a United States documented fish processing vessel that are necessary and used for processing or assembling fishery products aboard such a vessel.
 
-([Pub. L. 109–304, § 8(c)][/us/pl/109/304/s8/c], Oct. 6, 2006, [120 Stat. 1640][/us/stat/120/1640].)
+([Pub. L. 109–304][/us/pl/109/304], § 8(c), Oct. 6, 2006, [120 Stat. 1640][/us/stat/120/1640].)
 
 <table>
 
@@ -75,7 +75,7 @@ June 5, 1920, ch. 250, § 27 (10th proviso), 41 Stat. 999; July 2, 1935, ch. 3
 ----------
 
 [/us/usc/t46/s55102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs55102
-[/us/pl/109/304/s8/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs8%2Fc
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1640]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1640
 [/us/usc/t46/s55102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs55102
 

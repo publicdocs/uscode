@@ -23,7 +23,7 @@
 
     The sale of a vessel under subsection (a) shall be made on the basis of competitive sealed bids, after an appraisal and due advertisement. The purchaser does not have to be a citizen of the United States. The purchaser shall provide a surety bond, with a surety approved by the Secretary, to ensure that the vessel will not be operated in the foreign trade of the United States at any time within 10 years after the sale, in competition with a vessel owned by a citizen of the United States and documented under the laws of the United States.
 
-([Pub. L. 109–304, § 8(c)][/us/pl/109/304/s8/c], Oct. 6, 2006, [120 Stat. 1658][/us/stat/120/1658].)
+([Pub. L. 109–304][/us/pl/109/304], § 8(c), Oct. 6, 2006, [120 Stat. 1658][/us/stat/120/1658].)
 
 <table>
 
@@ -77,7 +77,7 @@ June 29, 1936, ch. 858, title V, § 508(a), 49 Stat. 2000; Pub. L. 97–31, §
 
  __Limitation on Export of Vessels Owned by the Government of the United States for the Purpose of Dismantling, Recycling, or Scrapping__ 
 
-[Pub. L. 110–417, div. C, title XXXV, § 3502][/us/pl/110/417/s3502], Oct. 14, 2008, [122 Stat. 4761][/us/stat/122/4761], provided that:
+[Pub. L. 110–417, div. C, title XXXV][/us/pl/110/417/dC/tXXXV], § 3502, Oct. 14, 2008, [122 Stat. 4761][/us/stat/122/4761], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -101,7 +101,7 @@ June 29, 1936, ch. 858, title V, § 508(a), 49 Stat. 2000; Pub. L. 97–31, §
 
  __Vessel Disposal Program__ 
 
-[Pub. L. 110–181, div. C, title XXXV, § 3503][/us/pl/110/181/s3503], Jan. 28, 2008, [122 Stat. 592][/us/stat/122/592], provided that:
+[Pub. L. 110–181, div. C, title XXXV][/us/pl/110/181/dC/tXXXV], § 3503, Jan. 28, 2008, [122 Stat. 592][/us/stat/122/592], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -164,11 +164,11 @@ June 29, 1936, ch. 858, title V, § 508(a), 49 Stat. 2000; Pub. L. 97–31, §
 ----------
 ----------
 
-[/us/pl/109/304/s8/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs8%2Fc
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1658]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1658
-[/us/pl/110/417/s3502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417%2Fs3502
+[/us/pl/110/417/dC/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417%2FdC%2FtXXXV
 [/us/stat/122/4761]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4761
-[/us/pl/110/181/s3503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs3503
+[/us/pl/110/181/dC/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdC%2FtXXXV
 [/us/stat/122/592]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F592
 
 

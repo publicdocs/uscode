@@ -17,7 +17,7 @@
 
     If the President is satisfied that the government of a foreign country does not impose discriminating or countervailing duties to the disadvantage of the United States, the President shall suspend the imposition of special tonnage taxes and light money under sections 60302 and 60303 of this title on vessels of that country.
 
-([Pub. L. 109–304, § 9(b)][/us/pl/109/304/s9/b], Oct. 6, 2006, [120 Stat. 1678][/us/stat/120/1678].)
+([Pub. L. 109–304][/us/pl/109/304], § 9(b), Oct. 6, 2006, [120 Stat. 1678][/us/stat/120/1678].)
 
 <table>
 
@@ -74,7 +74,7 @@ R.S. § 4219 (4th sentence words after semicolon); Feb. 27, 1877, ch. 69, §�
 ----------
 ----------
 
-[/us/pl/109/304/s9/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs9%2Fb
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1678]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1678
 
 

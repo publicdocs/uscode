@@ -17,7 +17,7 @@
 
     The Federal Maritime Commission, through its secretary, shall keep a record of its meetings and the votes taken on any action, order, contract, or financial transaction of the Commission.
 
-([Pub. L. 109–304, § 4][/us/pl/109/304/s4], Oct. 6, 2006, [120 Stat. 1489][/us/stat/120/1489].)
+([Pub. L. 109–304][/us/pl/109/304], § 4, Oct. 6, 2006, [120 Stat. 1489][/us/stat/120/1489].)
 
 <table>
 
@@ -74,7 +74,7 @@ June 29, 1936, ch. 858, title II, § 201(c) (related to records), 49 Stat. 198
 ----------
 ----------
 
-[/us/pl/109/304/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs4
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1489]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1489
 
 

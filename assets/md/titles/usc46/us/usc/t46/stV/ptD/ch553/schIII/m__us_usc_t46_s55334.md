@@ -41,7 +41,7 @@
 
     An American Great Lakes vessel may be used for not more than 90 days during any 12-month period to engage in trade prohibited by subsection (a)(1)(A), except during the Great Lakes shipping season.
 
-([Pub. L. 109–304, § 8(c)][/us/pl/109/304/s8/c], Oct. 6, 2006, [120 Stat. 1649][/us/stat/120/1649].)
+([Pub. L. 109–304][/us/pl/109/304], § 8(c), Oct. 6, 2006, [120 Stat. 1649][/us/stat/120/1649].)
 
 <table>
 
@@ -98,7 +98,7 @@ Pub. L. 101–624, title XV, § 1523, Nov. 28, 1990, 104 Stat. 3666.  </td>
 
 [/us/usc/t46/s40102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs40102
 [/us/usc/t10/s2631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2631
-[/us/pl/109/304/s8/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs8%2Fc
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1649
 
 

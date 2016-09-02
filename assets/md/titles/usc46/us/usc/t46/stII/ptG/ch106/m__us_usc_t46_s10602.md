@@ -25,7 +25,7 @@
 
     (c) This section does not affect a common law right of a seaman to bring an action to recover the seaman’s share of the fish or proceeds.
 
-([Pub. L. 100–424, § 6(a)][/us/pl/100/424/s6/a], Sept. 9, 1988, [102 Stat. 1592][/us/stat/102/1592].)
+([Pub. L. 100–424][/us/pl/100/424], § 6(a), Sept. 9, 1988, [102 Stat. 1592][/us/stat/102/1592].)
 
 <table>
 
@@ -71,7 +71,7 @@ Source section (U.S. Code)  </td>
 ----------
 
 [/us/usc/t46/s10601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs10601
-[/us/pl/100/424/s6/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F424%2Fs6%2Fa
+[/us/pl/100/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F424
 [/us/stat/102/1592]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1592
 
 

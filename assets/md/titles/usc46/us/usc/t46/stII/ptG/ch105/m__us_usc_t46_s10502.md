@@ -27,7 +27,7 @@
 
     (f) The Secretary shall prescribe regulations requiring shipping companies to maintain records of seamen on matters of engagement, discharge, and service. The shipping companies shall make these records available to the seaman and the Coast Guard on request.
 
-([Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 570][/us/stat/97/570]; [Pub. L. 103–206, title IV, § 413][/us/pl/103/206/s413], Dec. 20, 1993, [107 Stat. 2437][/us/stat/107/2437].)
+([Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 570][/us/stat/97/570]; [Pub. L. 103–206, title IV][/us/pl/103/206/tIV], § 413, Dec. 20, 1993, [107 Stat. 2437][/us/stat/107/2437].)
 
 <table>
 
@@ -69,9 +69,9 @@ Source section (U.S. Code)  </td>
 
  __Amendments__ 
 
-    1993—Subsec. (a). [Pub. L. 103–206, § 413(1)][/us/pl/103/206/s413/1], amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Before proceeding on a voyage, the master of a vessel to which this chapter applies shall make a shipping articles agreement in writing with each seaman on board, declaring the nature of the voyage or the period of time for which the seaman is engaged.”
+    1993—Subsec. (a). [Pub. L. 103–206][/us/pl/103/206], § 413(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Before proceeding on a voyage, the master of a vessel to which this chapter applies shall make a shipping articles agreement in writing with each seaman on board, declaring the nature of the voyage or the period of time for which the seaman is engaged.”
 
-    Subsecs. (d) to (f). [Pub. L. 103–206, § 413(2)][/us/pl/103/206/s413/2], added subsecs. (d) to (f).
+    Subsecs. (d) to (f). [Pub. L. 103–206][/us/pl/103/206], § 413(2), added subsecs. (d) to (f).
 
  __Transfer of Functions__ 
 
@@ -86,10 +86,10 @@ Source section (U.S. Code)  </td>
 
 [/us/pl/98/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F89
 [/us/stat/97/570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F570
-[/us/pl/103/206/s413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F206%2Fs413
+[/us/pl/103/206/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F206%2FtIV
 [/us/stat/107/2437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2437
-[/us/pl/103/206/s413/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F206%2Fs413%2F1
-[/us/pl/103/206/s413/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F206%2Fs413%2F2
+[/us/pl/103/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F206
+[/us/pl/103/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F206
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
 
 

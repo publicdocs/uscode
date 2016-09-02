@@ -91,7 +91,7 @@
 
         (2) satisfies all other requirements for such a license.
 
-([Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 539][/us/stat/97/539]; [Pub. L. 98–557, § 29(a)][/us/pl/98/557/s29/a], Oct. 30, 1984, [98 Stat. 2873][/us/stat/98/2873]; [Pub. L. 101–380, title IV, § 4101(a)][/us/pl/101/380/s4101/a], Aug. 18, 1990, [104 Stat. 509][/us/stat/104/509]; [Pub. L. 104–324, title VII, § 720][/us/pl/104/324/s720], Oct. 19, 1996, [110 Stat. 3938][/us/stat/110/3938]; [Pub. L. 113–281, title III, § 305(a)][/us/pl/113/281/s305/a], Dec. 18, 2014, [128 Stat. 3043][/us/stat/128/3043].)
+([Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 539][/us/stat/97/539]; [Pub. L. 98–557][/us/pl/98/557], § 29(a), Oct. 30, 1984, [98 Stat. 2873][/us/stat/98/2873]; [Pub. L. 101–380, title IV][/us/pl/101/380/tIV], § 4101(a), Aug. 18, 1990, [104 Stat. 509][/us/stat/104/509]; [Pub. L. 104–324, title VII][/us/pl/104/324/tVII], § 720, Oct. 19, 1996, [110 Stat. 3938][/us/stat/110/3938]; [Pub. L. 113–281, title III][/us/pl/113/281/tIII], § 305(a), Dec. 18, 2014, [128 Stat. 3043][/us/stat/128/3043].)
 
 <table>
 
@@ -281,7 +281,7 @@ Source section (U.S. Code)  </td>
 
  __Plan for Licensing Operators of Fishing Industry Vessels__ 
 
-[Pub. L. 100–424, § 3][/us/pl/100/424/s3], Sept. 9, 1988, [102 Stat. 1590][/us/stat/102/1590], provided that: 
+[Pub. L. 100–424][/us/pl/100/424], § 3, Sept. 9, 1988, [102 Stat. 1590][/us/stat/102/1590], provided that: 
 
 > “The Secretary of the department in which the Coast Guard is operating shall, within two years after the date of enactment of this Act \[Sept. 9, 1988\], and in close consultation with the Commercial Fishing Industry Vessel Advisory Committee established under [section 4508 of title 46][/us/usc/t46/s4508], United States Code (as amended by this Act), prepare and submit to the Congress a plan for the licensing of operators of documented fishing, fish processing, and fish tender vessels. The plan shall take into consideration the nature and variety of the different United States fisheries and of the vessels engaged in those fisheries, the need to license all operators or only those working in certain types of fisheries or vessels, and other relevant factors.”
 
@@ -299,13 +299,13 @@ Source section (U.S. Code)  </td>
 [/us/usc/t10/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101%2Fa
 [/us/pl/98/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F89
 [/us/stat/97/539]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F539
-[/us/pl/98/557/s29/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F557%2Fs29%2Fa
+[/us/pl/98/557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F557
 [/us/stat/98/2873]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2873
-[/us/pl/101/380/s4101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2Fs4101%2Fa
+[/us/pl/101/380/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2FtIV
 [/us/stat/104/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F509
-[/us/pl/104/324/s720]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2Fs720
+[/us/pl/104/324/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2FtVII
 [/us/stat/110/3938]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3938
-[/us/pl/113/281/s305/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281%2Fs305%2Fa
+[/us/pl/113/281/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281%2FtIII
 [/us/stat/128/3043]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3043
 [/us/pl/97/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F364
 [/us/usc/t23/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs401
@@ -319,7 +319,7 @@ Source section (U.S. Code)  </td>
 [/us/pl/101/380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380
 [/us/pl/101/380/s1020]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2Fs1020
 [/us/usc/t33/s2701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2701
-[/us/pl/100/424/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F424%2Fs3
+[/us/pl/100/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F424
 [/us/stat/102/1590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1590
 [/us/usc/t46/s4508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs4508
 

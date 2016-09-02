@@ -19,7 +19,7 @@
 
     (b) The procedures in subsection (a) shall require that if alcohol testing cannot be completed within 2 hours of the occurrence of the casualty, such testing shall be conducted as soon thereafter as the safety concerns in subsection (a) have been adequately addressed to permit such testing, except that such testing may not be required more than 8 hours after the casualty occurs.
 
-(Added [Pub. L. 105–383, title III, § 304(d)(1)][/us/pl/105/383/s304/d/1], Nov. 13, 1998, [112 Stat. 3419][/us/stat/112/3419].)
+(Added [Pub. L. 105–383, title III][/us/pl/105/383/tIII], § 304(d)(1), Nov. 13, 1998, [112 Stat. 3419][/us/stat/112/3419].)
 
 ----------
 
@@ -28,7 +28,7 @@
 ----------
 ----------
 
-[/us/pl/105/383/s304/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F383%2Fs304%2Fd%2F1
+[/us/pl/105/383/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F383%2FtIII
 [/us/stat/112/3419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3419
 
 

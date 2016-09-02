@@ -131,9 +131,9 @@
 
  __Amendments__ 
 
-    2014—[Pub. L. 113–281, title III, § 320(b)][/us/pl/113/281/s320/b], Dec. 18, 2014, [128 Stat. 3054][/us/stat/128/3054], added item 11113.
+    2014—[Pub. L. 113–281, title III][/us/pl/113/281/tIII], § 320(b), Dec. 18, 2014, [128 Stat. 3054][/us/stat/128/3054], added item 11113.
 
-    1986—[Pub. L. 99–307, § 1(19)(A)][/us/pl/99/307/s1/19/A], May 19, 1986, [100 Stat. 446][/us/stat/100/446], added item 11112.
+    1986—[Pub. L. 99–307][/us/pl/99/307], § 1(19)(A), May 19, 1986, [100 Stat. 446][/us/stat/100/446], added item 11112.
 
 ----------
 
@@ -142,9 +142,9 @@
 ----------
 ----------
 
-[/us/pl/113/281/s320/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281%2Fs320%2Fb
+[/us/pl/113/281/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281%2FtIII
 [/us/stat/128/3054]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3054
-[/us/pl/99/307/s1/19/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F307%2Fs1%2F19%2FA
+[/us/pl/99/307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F307
 [/us/stat/100/446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F446
 
 

@@ -25,7 +25,7 @@
 
         (2) for a foreign vessel whose mortgage has not been guaranteed under chapter 537 of this title, the preferred mortgage lien is subordinate to a maritime lien for necessaries provided in the United States.
 
-([Pub. L. 100–710, title I, § 102(c)][/us/pl/100/710/s102/c], Nov. 23, 1988, [102 Stat. 4746][/us/stat/102/4746]; [Pub. L. 103–160, div. A, title XIII, § 1360][/us/pl/103/160/s1360], Nov. 30, 1993, [107 Stat. 1816][/us/stat/107/1816]; [Pub. L. 109–304, § 15(31)][/us/pl/109/304/s15/31], Oct. 6, 2006, [120 Stat. 1704][/us/stat/120/1704].)
+([Pub. L. 100–710, title I][/us/pl/100/710/tI], § 102(c), Nov. 23, 1988, [102 Stat. 4746][/us/stat/102/4746]; [Pub. L. 103–160, div. A, title XIII][/us/pl/103/160/dA/tXIII], § 1360, Nov. 30, 1993, [107 Stat. 1816][/us/stat/107/1816]; [Pub. L. 109–304][/us/pl/109/304], § 15(31), Oct. 6, 2006, [120 Stat. 1704][/us/stat/120/1704].)
 
 <table>
 
@@ -95,13 +95,13 @@ Source section (U.S. Code)  </td>
 
  __Amendments__ 
 
-    2006—Subsec. (b)(1). [Pub. L. 109–304, § 15(31)(A)][/us/pl/109/304/s15/31/A], substituted “chapter 537 of this title,” for “title XI of the Merchant Marine Act, 1936 (46 App. U.S.C. 1101 et seq.)”.
+    2006—Subsec. (b)(1). [Pub. L. 109–304][/us/pl/109/304], § 15(31)(A), substituted “chapter 537 of this title,” for “title XI of the Merchant Marine Act, 1936 (46 App. U.S.C. 1101 et seq.)”.
 
-    Subsec. (b)(2). [Pub. L. 109–304, § 15(31)(B)][/us/pl/109/304/s15/31/B], substituted “chapter 537 of this title” for “title XI of that Act”.
+    Subsec. (b)(2). [Pub. L. 109–304][/us/pl/109/304], § 15(31)(B), substituted “chapter 537 of this title” for “title XI of that Act”.
 
-    1993—Subsec. (b)(1). [Pub. L. 103–160, § 1260(1)][/us/pl/103/160/s1260/1], inserted “, including a preferred mortgage lien on a foreign vessel whose mortgage has been guaranteed under title XI of the Merchant Marine Act, 1936 (46 App. U.S.C. 1101 et seq.)” after “preferred mortgage lien”.
+    1993—Subsec. (b)(1). [Pub. L. 103–160][/us/pl/103/160], § 1260(1), inserted “, including a preferred mortgage lien on a foreign vessel whose mortgage has been guaranteed under title XI of the Merchant Marine Act, 1936 (46 App. U.S.C. 1101 et seq.)” after “preferred mortgage lien”.
 
-    Subsec. (b)(2). [Pub. L. 103–160, § 1360(2)][/us/pl/103/160/s1360/2], inserted “whose mortgage has not been guaranteed under title XI of that Act” after “foreign vessel”.
+    Subsec. (b)(2). [Pub. L. 103–160][/us/pl/103/160], § 1360(2), inserted “whose mortgage has not been guaranteed under title XI of that Act” after “foreign vessel”.
 
 ----------
 
@@ -111,16 +111,16 @@ Source section (U.S. Code)  </td>
 ----------
 
 [/us/usc/t46/s31325/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs31325%2Fe%2F2
-[/us/pl/100/710/s102/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F710%2Fs102%2Fc
+[/us/pl/100/710/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F710%2FtI
 [/us/stat/102/4746]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4746
-[/us/pl/103/160/s1360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs1360
+[/us/pl/103/160/dA/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2FdA%2FtXIII
 [/us/stat/107/1816]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1816
-[/us/pl/109/304/s15/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs15%2F31
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1704
 [/us/usc/t28/s1921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1921
-[/us/pl/109/304/s15/31/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs15%2F31%2FA
-[/us/pl/109/304/s15/31/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs15%2F31%2FB
-[/us/pl/103/160/s1260/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs1260%2F1
-[/us/pl/103/160/s1360/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs1360%2F2
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
+[/us/pl/103/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160
+[/us/pl/103/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160
 
 

@@ -61,21 +61,21 @@
 
     A contractor may replace a vessel under an operating agreement with another vessel that is eligible to be included in the Fleet under section 53102(b), if the Secretary, in conjunction with the Secretary of Defense, approves the replacement of the vessel.
 
-(Added [Pub. L. 108–136, div. C, title XXXV, § 3531(a)][/us/pl/108/136/s3531/a], Nov. 24, 2003, [117 Stat. 1812][/us/stat/117/1812]; amended [Pub. L. 109–304, § 13(a)(4)][/us/pl/109/304/s13/a/4], Oct. 6, 2006, [120 Stat. 1701][/us/stat/120/1701]; [Pub. L. 109–364, div. C, title XXXV, § 3502(a)][/us/pl/109/364/s3502/a], Oct. 17, 2006, [120 Stat. 2514][/us/stat/120/2514]; [Pub. L. 110–181, div. C, title XXXV, § 3526(f)][/us/pl/110/181/s3526/f], Jan. 28, 2008, [122 Stat. 602][/us/stat/122/602]; [Pub. L. 112–239, div. C, title XXXV, § 3508(e)][/us/pl/112/239/s3508/e], Jan. 2, 2013, [126 Stat. 2225][/us/stat/126/2225].)
+(Added [Pub. L. 108–136, div. C, title XXXV][/us/pl/108/136/dC/tXXXV], § 3531(a), Nov. 24, 2003, [117 Stat. 1812][/us/stat/117/1812]; amended [Pub. L. 109–304][/us/pl/109/304], § 13(a)(4), Oct. 6, 2006, [120 Stat. 1701][/us/stat/120/1701]; [Pub. L. 109–364, div. C, title XXXV][/us/pl/109/364/dC/tXXXV], § 3502(a), Oct. 17, 2006, [120 Stat. 2514][/us/stat/120/2514]; [Pub. L. 110–181, div. C, title XXXV][/us/pl/110/181/dC/tXXXV], § 3526(f), Jan. 28, 2008, [122 Stat. 602][/us/stat/122/602]; [Pub. L. 112–239, div. C, title XXXV][/us/pl/112/239/dC/tXXXV], § 3508(e), Jan. 2, 2013, [126 Stat. 2225][/us/stat/126/2225].)
 
  __Amendments__ 
 
-    2013—Subsec. (e). [Pub. L. 112–239, § 3508(e)(1)][/us/pl/112/239/s3508/e/1], amended subsec. (e) generally. Prior to amendment, subsec. (e) related to transfer of operating agreements, with limitation based on citizenship of recipient.
+    2013—Subsec. (e). [Pub. L. 112–239][/us/pl/112/239], § 3508(e)(1), amended subsec. (e) generally. Prior to amendment, subsec. (e) related to transfer of operating agreements, with limitation based on citizenship of recipient.
 
-    Subsec. (f). [Pub. L. 112–239, § 3508(e)(2)][/us/pl/112/239/s3508/e/2], amended subsec. (f) generally. Prior to amendment, text read as follows: “A contractor may replace a vessel under an operating agreement with another vessel that is eligible to be included in the Fleet under section 53102(b), if the Secretary, in conjunction with the Secretary of Defense, approves replacement of the vessel.”
+    Subsec. (f). [Pub. L. 112–239][/us/pl/112/239], § 3508(e)(2), amended subsec. (f) generally. Prior to amendment, text read as follows: “A contractor may replace a vessel under an operating agreement with another vessel that is eligible to be included in the Fleet under section 53102(b), if the Secretary, in conjunction with the Secretary of Defense, approves replacement of the vessel.”
 
     2008—Subsec. (e)(2). [Pub. L. 110–181][/us/pl/110/181] substituted “[section 50501 of this title][/us/usc/t46/s50501]” for “section 2 of the Shipping Act, 1916 (46 U.S.C. App. 802),”.
 
-    2006—Subsec. (a)(1)(A). [Pub. L. 109–304, § 13(a)(4)(A)][/us/pl/109/304/s13/a/4/A], substituted “section 12111” for “section 12105”.
+    2006—Subsec. (a)(1)(A). [Pub. L. 109–304][/us/pl/109/304], § 13(a)(4)(A), substituted “section 12111” for “section 12105”.
 
     Subsec. (e). [Pub. L. 109–364][/us/pl/109/364] designated existing provisions as par. (1), inserted heading and aligned margins in par. (1), and added par. (2).
 
-    Subsec. (f). [Pub. L. 109–304, § 13(a)(4)(B)][/us/pl/109/304/s13/a/4/B], substituted “approves” for “approve”.
+    Subsec. (f). [Pub. L. 109–304][/us/pl/109/304], § 13(a)(4)(B), substituted “approves” for “approve”.
 
 ----------
 
@@ -85,22 +85,22 @@
 ----------
 
 [/us/usc/t46/s12111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs12111
-[/us/pl/108/136/s3531/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs3531%2Fa
+[/us/pl/108/136/dC/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdC%2FtXXXV
 [/us/stat/117/1812]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1812
-[/us/pl/109/304/s13/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs13%2Fa%2F4
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1701
-[/us/pl/109/364/s3502/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs3502%2Fa
+[/us/pl/109/364/dC/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdC%2FtXXXV
 [/us/stat/120/2514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2514
-[/us/pl/110/181/s3526/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs3526%2Ff
+[/us/pl/110/181/dC/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdC%2FtXXXV
 [/us/stat/122/602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F602
-[/us/pl/112/239/s3508/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs3508%2Fe
+[/us/pl/112/239/dC/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdC%2FtXXXV
 [/us/stat/126/2225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2225
-[/us/pl/112/239/s3508/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs3508%2Fe%2F1
-[/us/pl/112/239/s3508/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs3508%2Fe%2F2
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 [/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
 [/us/usc/t46/s50501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs50501
-[/us/pl/109/304/s13/a/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs13%2Fa%2F4%2FA
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
-[/us/pl/109/304/s13/a/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs13%2Fa%2F4%2FB
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 
 

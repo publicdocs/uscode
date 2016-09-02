@@ -105,7 +105,7 @@
 
         Upon receipt of such a report or notice, such graduate may be considered to be in default of the graduate’s service obligations by the Secretary, and subject to all remedies the Secretary may have with respect to such a default.
 
-([Pub. L. 109–304, § 8(b)][/us/pl/109/304/s8/b], Oct. 6, 2006, [120 Stat. 1572][/us/stat/120/1572]; [Pub. L. 109–163, div. A, title V, § 515(g)(2)(A)][/us/pl/109/163/s515/g/2/A], Jan. 6, 2006, [119 Stat. 3236][/us/stat/119/3236]; [Pub. L. 109–364, div. C, title XXXV][/us/pl/109/364], §§ 3505(a), 3506(a), Oct. 17, 2006, [120 Stat. 2516][/us/stat/120/2516], 2517; [Pub. L. 110–181, div. C, title XXXV][/us/pl/110/181], §§ 3523(a)(1), (b), 3526(b)(1), (c)(1), (g), Jan. 28, 2008, [122 Stat. 598][/us/stat/122/598], 600–602; [Pub. L. 114–92, div. C, title XXXV, § 3506][/us/pl/114/92/s3506], Nov. 25, 2015, [129 Stat. 1220][/us/stat/129/1220].)
+([Pub. L. 109–304][/us/pl/109/304], § 8(b), Oct. 6, 2006, [120 Stat. 1572][/us/stat/120/1572]; [Pub. L. 109–163, div. A, title V][/us/pl/109/163/dA/tV], § 515(g)(2)(A), Jan. 6, 2006, [119 Stat. 3236][/us/stat/119/3236]; [Pub. L. 109–364, div. C, title XXXV][/us/pl/109/364/dC/tXXXV], §§ 3505(a), 3506(a), Oct. 17, 2006, [120 Stat. 2516][/us/stat/120/2516], 2517; [Pub. L. 110–181, div. C, title XXXV][/us/pl/110/181/dC/tXXXV], §§ 3523(a)(1), (b), 3526(b)(1), (c)(1), (g), Jan. 28, 2008, [122 Stat. 598][/us/stat/122/598], 600–602; [Pub. L. 114–92, div. C, title XXXV][/us/pl/114/92/dC/tXXXV], § 3506, Nov. 25, 2015, [129 Stat. 1220][/us/stat/129/1220].)
 
 <table>
 
@@ -201,41 +201,41 @@ June 29, 1936, ch. 858, title XIII, § 1303(e)(1)–(4), as added Pub. L. 96�
 
  __Amendments__ 
 
-    2015—Subsec. (a). [Pub. L. 114–92, § 3506(1)][/us/pl/114/92/s3506/1], substituted “shall sign” for “must sign” in introductory provisions.
+    2015—Subsec. (a). [Pub. L. 114–92][/us/pl/114/92], § 3506(1), substituted “shall sign” for “must sign” in introductory provisions.
 
-    Subsec. (a)(2). [Pub. L. 114–92, § 3506(2)][/us/pl/114/92/s3506/2], amended par. (2) generally. Prior to amendment, par. (2) read as follows: “fulfill the requirements for a license as an officer in the merchant marine of the United States before graduation from the Academy;”.
+    Subsec. (a)(2). [Pub. L. 114–92][/us/pl/114/92], § 3506(2), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “fulfill the requirements for a license as an officer in the merchant marine of the United States before graduation from the Academy;”.
 
-    Subsec. (a)(3). [Pub. L. 114–92, § 3506(3)][/us/pl/114/92/s3506/3], amended par. (3) generally. Prior to amendment, par. (3) read as follows: “maintain a valid license as an officer in the merchant marine of the United States for at least 6 years after graduation from the Academy, accompanied by the appropriate national and international endorsements and certification required by the Coast Guard for service aboard vessels on domestic and international voyages;”.
+    Subsec. (a)(3). [Pub. L. 114–92][/us/pl/114/92], § 3506(3), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “maintain a valid license as an officer in the merchant marine of the United States for at least 6 years after graduation from the Academy, accompanied by the appropriate national and international endorsements and certification required by the Coast Guard for service aboard vessels on domestic and international voyages;”.
 
-    Subsec. (a)(4). [Pub. L. 114–92, § 3506(4)][/us/pl/114/92/s3506/4], amended par. (4) generally. Prior to amendment, par. (4) read as follows: “apply for, and accept if tendered, an appointment as a commissioned officer in the Navy Reserve (including the Merchant Marine Reserve, Navy Reserve), the Coast Guard Reserve, or any other reserve unit of an armed force of the United States, and, if tendered the appointment, to serve for at least 6 years after graduation from the Academy;”.
+    Subsec. (a)(4). [Pub. L. 114–92][/us/pl/114/92], § 3506(4), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “apply for, and accept if tendered, an appointment as a commissioned officer in the Navy Reserve (including the Merchant Marine Reserve, Navy Reserve), the Coast Guard Reserve, or any other reserve unit of an armed force of the United States, and, if tendered the appointment, to serve for at least 6 years after graduation from the Academy;”.
 
-    2008—[Pub. L. 110–181, § 3526(g)][/us/pl/110/181/s3526/g], repealed [Pub. L. 109–364][/us/pl/109/364], §§ 3505(a) and 3506(a). See 2006 Amendment note below.
+    2008—[Pub. L. 110–181][/us/pl/110/181], § 3526(g), repealed [Pub. L. 109–364][/us/pl/109/364], §§ 3505(a) and 3506(a). See 2006 Amendment note below.
 
-    [Pub. L. 110–181, § 3523(b)][/us/pl/110/181/s3523/b], repealed [Pub. L. 109–163, § 515(g)(2)(A)][/us/pl/109/163/s515/g/2/A]. See 2006 Amendment note below.
+    [Pub. L. 110–181][/us/pl/110/181], § 3523(b), repealed [Pub. L. 109–163][/us/pl/109/163], § 515(g)(2)(A). See 2006 Amendment note below.
 
-    Subsec. (a)(4). [Pub. L. 110–181, § 3523(a)(1)][/us/pl/110/181/s3523/a/1], incorporated the substance of the amendment by [Pub. L. 109–163, § 515(g)(2)(A)][/us/pl/109/163/s515/g/2/A], into this section by substituting “Navy Reserve” for “Naval Reserve” in two places. See 2006 Amendment note below and [section 18(a) of Pub. L. 109–304][/us/pl/109/304/s18/a], set out as a Legislative Purpose and Construction note preceding [section 101 of this title][/us/usc/t46/s101].
+    Subsec. (a)(4). [Pub. L. 110–181][/us/pl/110/181], § 3523(a)(1), incorporated the substance of the amendment by [Pub. L. 109–163][/us/pl/109/163], § 515(g)(2)(A), into this section by substituting “Navy Reserve” for “Naval Reserve” in two places. See 2006 Amendment note below and [section 18(a) of Pub. L. 109–304][/us/pl/109/304/s18/a], set out as a Legislative Purpose and Construction note preceding [section 101 of this title][/us/usc/t46/s101].
 
-    Subsecs. (e), (f). [Pub. L. 110–181, § 3526(b)(1)][/us/pl/110/181/s3526/b/1], (c)(1), incorporated the substance of the amendments by [Pub. L. 109–364][/us/pl/109/364], §§ 3505(a), 3506(a), into this section by adding subsecs. (e) and (f). See 2006 Amendment note below and [section 18(a) of Pub. L. 109–304][/us/pl/109/304/s18/a], set out as a Legislative Purpose and Construction note preceding [section 101 of this title][/us/usc/t46/s101].
+    Subsecs. (e), (f). [Pub. L. 110–181][/us/pl/110/181], § 3526(b)(1), (c)(1), incorporated the substance of the amendments by [Pub. L. 109–364][/us/pl/109/364], §§ 3505(a), 3506(a), into this section by adding subsecs. (e) and (f). See 2006 Amendment note below and [section 18(a) of Pub. L. 109–304][/us/pl/109/304/s18/a], set out as a Legislative Purpose and Construction note preceding [section 101 of this title][/us/usc/t46/s101].
 
-    2006—[Pub. L. 109–364][/us/pl/109/364], §§ 3505(a), 3506(a), which directed the amendment of section 1295b(e) of the former Appendix to this title from which this section was derived, were repealed by [Pub. L. 110–181, § 3526(g)][/us/pl/110/181/s3526/g]. See 2008 Amendment note for subsecs. (e) and (f) and Historical and Revision notes above.
+    2006—[Pub. L. 109–364][/us/pl/109/364], §§ 3505(a), 3506(a), which directed the amendment of section 1295b(e) of the former Appendix to this title from which this section was derived, were repealed by [Pub. L. 110–181][/us/pl/110/181], § 3526(g). See 2008 Amendment note for subsecs. (e) and (f) and Historical and Revision notes above.
 
-    [Pub. L. 109–163, § 515(g)(2)(A)][/us/pl/109/163/s515/g/2/A], which directed the amendment of section 1295b of the former Appendix to this title from which this section was derived, was repealed by [Pub. L. 110–181, § 3523(b)][/us/pl/110/181/s3523/b]. See 2008 Amendment note for subsec. (a)(4) and Historical and Revision notes above.
+    [Pub. L. 109–163][/us/pl/109/163], § 515(g)(2)(A), which directed the amendment of section 1295b of the former Appendix to this title from which this section was derived, was repealed by [Pub. L. 110–181][/us/pl/110/181], § 3523(b). See 2008 Amendment note for subsec. (a)(4) and Historical and Revision notes above.
 
  __Effective Date of 2008 Amendment__ 
 
-[Pub. L. 110–181, div. C, title XXXV, § 3526(b)(2)][/us/pl/110/181/s3526/b/2], Jan. 28, 2008, [122 Stat. 601][/us/stat/122/601], provided that: 
+[Pub. L. 110–181, div. C, title XXXV][/us/pl/110/181/dC/tXXXV], § 3526(b)(2), Jan. 28, 2008, [122 Stat. 601][/us/stat/122/601], provided that: 
 
 > “[Section 51306(e) of title 46][/us/usc/t46/s51306/e], United States Code, as added by paragraph (1), applies only to an individual who enrolls as a cadet at the United States Merchant Marine Academy, and signs an agreement under [section 51306(a) of title 46][/us/usc/t46/s51306/a], after October 17, 2006.”
 
-[Pub. L. 110–181, div. C, title XXXV, § 3526(c)(2)][/us/pl/110/181/s3526/c/2], Jan. 28, 2008, [122 Stat. 602][/us/stat/122/602], provided that: 
+[Pub. L. 110–181, div. C, title XXXV][/us/pl/110/181/dC/tXXXV], § 3526(c)(2), Jan. 28, 2008, [122 Stat. 602][/us/stat/122/602], provided that: 
 
 > “[Section 51306(f) of title 46][/us/usc/t46/s51306/f], United States Code, as added by paragraph (1), does not apply with respect to an agreement entered into under [section 51306(a) of title 46][/us/usc/t46/s51306/a], United States Code, before October 17, 2006.”
 
  __Effective Date of 2006 Amendment__ 
 
-    [Pub. L. 109–364, div. C, title XXXV, § 3505(b)][/us/pl/109/364/s3505/b], Oct. 17, 2006, [120 Stat. 2517][/us/stat/120/2517], which provided that par. (6) of section 1295b(e) of the former Appendix to this title from which this section was derived, applied only to an individual who enrolled as a cadet at the United States Merchant Marine Academy and signed an agreement under par. (1) of that section after Oct. 17, 2006, was repealed by [Pub. L. 110–181, div. C, title XXXV, § 3526(g)][/us/pl/110/181/s3526/g], Jan. 28, 2008, [122 Stat. 602][/us/stat/122/602].
+    [Pub. L. 109–364, div. C, title XXXV][/us/pl/109/364/dC/tXXXV], § 3505(b), Oct. 17, 2006, [120 Stat. 2517][/us/stat/120/2517], which provided that par. (6) of section 1295b(e) of the former Appendix to this title from which this section was derived, applied only to an individual who enrolled as a cadet at the United States Merchant Marine Academy and signed an agreement under par. (1) of that section after Oct. 17, 2006, was repealed by [Pub. L. 110–181, div. C, title XXXV][/us/pl/110/181/dC/tXXXV], § 3526(g), Jan. 28, 2008, [122 Stat. 602][/us/stat/122/602].
 
-    [Pub. L. 109–364, div. C, title XXXV, § 3506(b)][/us/pl/109/364/s3506/b], Oct. 17, 2006, [120 Stat. 2517][/us/stat/120/2517], which provided that the enactment of par. (7) of section 1295b(e) of the former Appendix to this title from which this section was derived, did not apply with respect to an agreement entered into under section 1295b(e) before Oct. 17, 2006, was repealed by [Pub. L. 110–181, div. C, title XXXV, § 3526(g)][/us/pl/110/181/s3526/g], Jan. 28, 2008, [122 Stat. 602][/us/stat/122/602].
+    [Pub. L. 109–364, div. C, title XXXV][/us/pl/109/364/dC/tXXXV], § 3506(b), Oct. 17, 2006, [120 Stat. 2517][/us/stat/120/2517], which provided that the enactment of par. (7) of section 1295b(e) of the former Appendix to this title from which this section was derived, did not apply with respect to an agreement entered into under section 1295b(e) before Oct. 17, 2006, was repealed by [Pub. L. 110–181, div. C, title XXXV][/us/pl/110/181/dC/tXXXV], § 3526(g), Jan. 28, 2008, [122 Stat. 602][/us/stat/122/602].
 
 ----------
 
@@ -245,51 +245,51 @@ June 29, 1936, ch. 858, title XIII, § 1303(e)(1)–(4), as added Pub. L. 96�
 ----------
 
 [/us/usc/t5/s552a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552a
-[/us/pl/109/304/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs8%2Fb
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1572
-[/us/pl/109/163/s515/g/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs515%2Fg%2F2%2FA
+[/us/pl/109/163/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtV
 [/us/stat/119/3236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3236
-[/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
+[/us/pl/109/364/dC/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdC%2FtXXXV
 [/us/stat/120/2516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2516
-[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
+[/us/pl/110/181/dC/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdC%2FtXXXV
 [/us/stat/122/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F598
-[/us/pl/114/92/s3506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs3506
+[/us/pl/114/92/dC/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdC%2FtXXXV
 [/us/stat/129/1220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1220
-[/us/pl/114/92/s3506/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs3506%2F1
-[/us/pl/114/92/s3506/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs3506%2F2
-[/us/pl/114/92/s3506/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs3506%2F3
-[/us/pl/114/92/s3506/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs3506%2F4
-[/us/pl/110/181/s3526/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs3526%2Fg
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
+[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
 [/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
-[/us/pl/110/181/s3523/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs3523%2Fb
-[/us/pl/109/163/s515/g/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs515%2Fg%2F2%2FA
-[/us/pl/110/181/s3523/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs3523%2Fa%2F1
-[/us/pl/109/163/s515/g/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs515%2Fg%2F2%2FA
+[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
+[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
 [/us/pl/109/304/s18/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs18%2Fa
 [/us/usc/t46/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs101
-[/us/pl/110/181/s3526/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs3526%2Fb%2F1
+[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
 [/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
 [/us/pl/109/304/s18/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs18%2Fa
 [/us/usc/t46/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs101
 [/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
-[/us/pl/110/181/s3526/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs3526%2Fg
-[/us/pl/109/163/s515/g/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs515%2Fg%2F2%2FA
-[/us/pl/110/181/s3523/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs3523%2Fb
-[/us/pl/110/181/s3526/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs3526%2Fb%2F2
+[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
+[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
+[/us/pl/110/181/dC/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdC%2FtXXXV
 [/us/stat/122/601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F601
 [/us/usc/t46/s51306/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs51306%2Fe
 [/us/usc/t46/s51306/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs51306%2Fa
-[/us/pl/110/181/s3526/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs3526%2Fc%2F2
+[/us/pl/110/181/dC/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdC%2FtXXXV
 [/us/stat/122/602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F602
 [/us/usc/t46/s51306/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs51306%2Ff
 [/us/usc/t46/s51306/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs51306%2Fa
-[/us/pl/109/364/s3505/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs3505%2Fb
+[/us/pl/109/364/dC/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdC%2FtXXXV
 [/us/stat/120/2517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2517
-[/us/pl/110/181/s3526/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs3526%2Fg
+[/us/pl/110/181/dC/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdC%2FtXXXV
 [/us/stat/122/602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F602
-[/us/pl/109/364/s3506/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs3506%2Fb
+[/us/pl/109/364/dC/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdC%2FtXXXV
 [/us/stat/120/2517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2517
-[/us/pl/110/181/s3526/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs3526%2Fg
+[/us/pl/110/181/dC/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdC%2FtXXXV
 [/us/stat/122/602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F602
 
 

@@ -33,7 +33,7 @@
 
     It is the policy of the United States to encourage and aid the development and maintenance of a merchant marine satisfying the objectives described in subsection (a).
 
-([Pub. L. 109–304, § 8(b)][/us/pl/109/304/s8/b], Oct. 6, 2006, [120 Stat. 1556][/us/stat/120/1556]; [Pub. L. 111–84, div. C, title XXXV, § 3511][/us/pl/111/84/s3511], Oct. 28, 2009, [123 Stat. 2722][/us/stat/123/2722].)
+([Pub. L. 109–304][/us/pl/109/304], § 8(b), Oct. 6, 2006, [120 Stat. 1556][/us/stat/120/1556]; [Pub. L. 111–84, div. C, title XXXV][/us/pl/111/84/dC/tXXXV], § 3511, Oct. 28, 2009, [123 Stat. 2722][/us/stat/123/2722].)
 
 <table>
 
@@ -126,9 +126,9 @@ June 29, 1936, ch. 858, title I, § 101, 49 Stat. 1985; Pub. L. 91–469, §�
 ----------
 ----------
 
-[/us/pl/109/304/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs8%2Fb
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1556]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1556
-[/us/pl/111/84/s3511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs3511
+[/us/pl/111/84/dC/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdC%2FtXXXV
 [/us/stat/123/2722]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2722
 [/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
 

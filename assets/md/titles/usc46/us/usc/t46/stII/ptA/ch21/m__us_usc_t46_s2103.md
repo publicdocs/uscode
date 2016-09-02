@@ -17,7 +17,7 @@
 
     The Secretary has general superintendence over the merchant marine of the United States and of merchant marine personnel insofar as the enforcement of this subtitle is concerned and insofar as those vessels and personnel are not subject, under other law, to the supervision of another official of the United States Government. In the interests of marine safety and seamen’s welfare, the Secretary shall enforce this subtitle and shall carry out correctly and uniformly administer this subtitle. The Secretary may prescribe regulations to carry out the provisions of this subtitle.
 
-([Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 506][/us/stat/97/506]; [Pub. L. 99–307, § 9][/us/pl/99/307/s9], May 19, 1986, [100 Stat. 447][/us/stat/100/447].)
+([Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 506][/us/stat/97/506]; [Pub. L. 99–307][/us/pl/99/307], § 9, May 19, 1986, [100 Stat. 447][/us/stat/100/447].)
 
 <table>
 
@@ -74,7 +74,7 @@ Source section (U.S. Code)  </td>
 
 [/us/pl/98/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F89
 [/us/stat/97/506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F506
-[/us/pl/99/307/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F307%2Fs9
+[/us/pl/99/307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F307
 [/us/stat/100/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F447
 [/us/pl/99/307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F307
 

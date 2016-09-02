@@ -15,9 +15,9 @@
 
 ## § 103. Boundary Line
 
-    In this title, the term “Boundary Line” means a line established under [section 2(b) of the Act of February 19, 1895][/us/act/1895-02-19/s2/b] ([33 U.S.C. 151][/us/usc/t33/s151]). <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “([33 U.S.C. 151(b)][/us/usc/t33/s151/b]).”. </sup></sup> 
+    In this title, the term “Boundary Line” means a line established under [section 2(b) of the Act of February 19, 1895][/us/act/1895-02-19/s2/b] ([33 U.S.C. 151(b)][/us/usc/t33/s151/b]).
 
-([Pub. L. 109–304, § 4][/us/pl/109/304/s4], Oct. 6, 2006, [120 Stat. 1486][/us/stat/120/1486].)
+([Pub. L. 109–304][/us/pl/109/304], § 4, Oct. 6, 2006, [120 Stat. 1486][/us/stat/120/1486]; [Pub. L. 114–120, title III][/us/pl/114/120/tIII], § 306(a)(1), Feb. 8, 2016, [130 Stat. 54][/us/stat/130/54].)
 
 <table>
 
@@ -63,6 +63,10 @@ Source (Statutes at Large)  </td>
 
 </table>
 
+ __Amendments__ 
+
+    2016—[Pub. L. 114–120][/us/pl/114/120] substituted “([33 U.S.C. 151(b)][/us/usc/t33/s151/b]).” for “([33 U.S.C. 151][/us/usc/t33/s151]).”
+
 ----------
 
 [Previous](./../../../../..//us/usc/t46/stI/ch1/m__us_usc_t46_s102.md) | [Next](./../../../../..//us/usc/t46/stI/ch1/m__us_usc_t46_s104.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs103)
@@ -71,9 +75,13 @@ Source (Statutes at Large)  </td>
 ----------
 
 [/us/act/1895-02-19/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1895-02-19%2Fs2%2Fb
-[/us/usc/t33/s151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs151
 [/us/usc/t33/s151/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs151%2Fb
-[/us/pl/109/304/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs4
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1486
+[/us/pl/114/120/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F120%2FtIII
+[/us/stat/130/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F54
+[/us/pl/114/120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F120
+[/us/usc/t33/s151/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs151%2Fb
+[/us/usc/t33/s151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs151
 
 

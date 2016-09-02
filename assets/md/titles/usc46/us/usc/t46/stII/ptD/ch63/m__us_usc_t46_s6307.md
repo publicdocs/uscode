@@ -21,7 +21,7 @@
 
     (c) The Secretary shall submit annually to Congress a summary of the marine casualties reported during the prior fiscal year, together with a brief statement of action taken concerning those casualties.
 
-([Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 538][/us/stat/97/538]; [Pub. L. 107–295, title IV, § 408(c)(1)][/us/pl/107/295/s408/c/1], Nov. 25, 2002, [116 Stat. 2117][/us/stat/116/2117].)
+([Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 538][/us/stat/97/538]; [Pub. L. 107–295, title IV][/us/pl/107/295/tIV], § 408(c)(1), Nov. 25, 2002, [116 Stat. 2117][/us/stat/116/2117].)
 
 <table>
 
@@ -81,7 +81,7 @@ Source section (U.S. Code)  </td>
 [/us/usc/t46/s6301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs6301
 [/us/pl/98/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F89
 [/us/stat/97/538]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F538
-[/us/pl/107/295/s408/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295%2Fs408%2Fc%2F1
+[/us/pl/107/295/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295%2FtIV
 [/us/stat/116/2117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2117
 [/us/pl/107/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295
 

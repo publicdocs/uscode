@@ -29,7 +29,7 @@
 
     (d) A certificate of inspection issued under this section shall be signed by the senior Coast Guard member or civilian employee who inspected the vessel, in addition to the officer in charge of marine inspection.
 
-([Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 515][/us/stat/97/515]; [Pub. L. 98–498, title II, § 211(a)][/us/pl/98/498/s211/a], Oct. 19, 1984, [98 Stat. 2303][/us/stat/98/2303]; [Pub. L. 104–324, title VI, § 606][/us/pl/104/324/s606], Oct. 19, 1996, [110 Stat. 3931][/us/stat/110/3931]; [Pub. L. 111–281, title V, § 522(c)][/us/pl/111/281/s522/c], Oct. 15, 2010, [124 Stat. 2957][/us/stat/124/2957].)
+([Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 515][/us/stat/97/515]; [Pub. L. 98–498, title II][/us/pl/98/498/tII], § 211(a), Oct. 19, 1984, [98 Stat. 2303][/us/stat/98/2303]; [Pub. L. 104–324, title VI][/us/pl/104/324/tVI], § 606, Oct. 19, 1996, [110 Stat. 3931][/us/stat/110/3931]; [Pub. L. 111–281, title V][/us/pl/111/281/tV], § 522(c), Oct. 15, 2010, [124 Stat. 2957][/us/stat/124/2957].)
 
 <table>
 
@@ -97,11 +97,11 @@ Source section (U.S. Code)  </td>
 [/us/usc/t46/s3307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs3307
 [/us/pl/98/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F89
 [/us/stat/97/515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F515
-[/us/pl/98/498/s211/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F498%2Fs211%2Fa
+[/us/pl/98/498/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F498%2FtII
 [/us/stat/98/2303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2303
-[/us/pl/104/324/s606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2Fs606
+[/us/pl/104/324/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2FtVI
 [/us/stat/110/3931]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3931
-[/us/pl/111/281/s522/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs522%2Fc
+[/us/pl/111/281/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2FtV
 [/us/stat/124/2957]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2957
 [/us/pl/111/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281
 [/us/pl/104/324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324

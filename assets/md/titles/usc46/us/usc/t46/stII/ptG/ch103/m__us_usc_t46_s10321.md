@@ -19,7 +19,7 @@
 
     (b) The vessel is liable in rem for any penalty assessed under this section.
 
-([Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 569][/us/stat/97/569]; [Pub. L. 103–206, title IV, § 412][/us/pl/103/206/s412], Dec. 20, 1993, [107 Stat. 2437][/us/stat/107/2437].)
+([Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 569][/us/stat/97/569]; [Pub. L. 103–206, title IV][/us/pl/103/206/tIV], § 412, Dec. 20, 1993, [107 Stat. 2437][/us/stat/107/2437].)
 
 <table>
 
@@ -80,7 +80,7 @@ Source section (U.S. Code)  </td>
 
 [/us/pl/98/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F89
 [/us/stat/97/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F569
-[/us/pl/103/206/s412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F206%2Fs412
+[/us/pl/103/206/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F206%2FtIV
 [/us/stat/107/2437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2437
 [/us/pl/103/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F206
 

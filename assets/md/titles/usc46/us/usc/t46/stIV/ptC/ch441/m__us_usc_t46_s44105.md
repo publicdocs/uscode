@@ -17,7 +17,7 @@
 
     The Secretary of Homeland Security shall refuse the clearance required by [section 60105 of this title][/us/usc/t46/s60105], at the port or place of departure from the United States, of a vessel that is subject to this chapter and does not have evidence issued by the Federal Maritime Commission of compliance with sections 44102 and 44103 of this title.
 
-([Pub. L. 109–304, § 7][/us/pl/109/304/s7], Oct. 6, 2006, [120 Stat. 1555][/us/stat/120/1555].)
+([Pub. L. 109–304][/us/pl/109/304], § 7, Oct. 6, 2006, [120 Stat. 1555][/us/stat/120/1555].)
 
 <table>
 
@@ -89,7 +89,7 @@ Pub. L. 89–777, §§ 2(e), 3(e), Nov. 6, 1966, 80 Stat. 1357, 1358; Pub. L. 
 ----------
 
 [/us/usc/t46/s60105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs60105
-[/us/pl/109/304/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs7
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1555]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1555
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/stat/116/2178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2178

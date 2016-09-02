@@ -23,7 +23,7 @@
 
     If a determination of the prevailing world market price of any other type of materials, goods, equipment, or service is required to determine whether a barter or exchange transaction is subject to section 55314(b)(6) or (7) of this title, the determination shall be made by the Secretary of Agriculture in consultation with the heads of other appropriate agencies.
 
-([Pub. L. 109–304, § 8(c)][/us/pl/109/304/s8/c], Oct. 6, 2006, [120 Stat. 1644][/us/stat/120/1644].)
+([Pub. L. 109–304][/us/pl/109/304], § 8(c), Oct. 6, 2006, [120 Stat. 1644][/us/stat/120/1644].)
 
 <table>
 
@@ -79,7 +79,7 @@ June 29, 1936, ch. 858, title IX, § 901b(e), as added Pub. L. 99–198, title
 ----------
 
 [/us/usc/t5/s553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs553
-[/us/pl/109/304/s8/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs8%2Fc
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1644]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1644
 
 

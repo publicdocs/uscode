@@ -17,7 +17,7 @@
 
     The owner, charterer, managing operator, agent, master, and individual in charge of a vessel violating this part or a regulation prescribed under this part are each liable to the United States Government for a civil penalty of not more than $20,000. Each day of a continuing violation is a separate violation. The vessel also is liable in rem for the penalty.
 
-([Pub. L. 99–509, title V, § 5101(3)][/us/pl/99/509/s5101/3], Oct. 21, 1986, [100 Stat. 1925][/us/stat/100/1925].)
+([Pub. L. 99–509, title V][/us/pl/99/509/tV], § 5101(3), Oct. 21, 1986, [100 Stat. 1925][/us/stat/100/1925].)
 
  __Historical and Revision Notes__ 
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/pl/99/509/s5101/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2Fs5101%2F3
+[/us/pl/99/509/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2FtV
 [/us/stat/100/1925]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1925
 
 

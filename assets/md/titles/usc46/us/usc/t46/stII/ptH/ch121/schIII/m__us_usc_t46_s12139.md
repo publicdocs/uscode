@@ -37,7 +37,7 @@
 
         If the rebuilding is completed in the United States, the report shall be submitted when the rebuilding is completed. If the rebuilding is completed outside the United States, the report shall be submitted when the vessel first arrives at a port in the customs territory of the United States.
 
-([Pub. L. 109–304, § 5][/us/pl/109/304/s5], Oct. 6, 2006, [120 Stat. 1507][/us/stat/120/1507]; [Pub. L. 109–241, title III, § 308][/us/pl/109/241/s308], July 11, 2006, [120 Stat. 528][/us/stat/120/528]; [Pub. L. 110–181, div. C, title XXXV, § 3525(a)(2)][/us/pl/110/181/s3525/a/2], (b), Jan. 28, 2008, [122 Stat. 600][/us/stat/122/600], 601.)
+([Pub. L. 109–304][/us/pl/109/304], § 5, Oct. 6, 2006, [120 Stat. 1507][/us/stat/120/1507]; [Pub. L. 109–241, title III][/us/pl/109/241/tIII], § 308, July 11, 2006, [120 Stat. 528][/us/stat/120/528]; [Pub. L. 110–181, div. C, title XXXV][/us/pl/110/181/dC/tXXXV], § 3525(a)(2), (b), Jan. 28, 2008, [122 Stat. 600][/us/stat/122/600], 601.)
 
 <table>
 
@@ -103,11 +103,11 @@ July 14, 1956, ch. 600, § 2 (1st sentence), 70 Stat. 544; Pub. L. 86–583, �
 
  __Amendments__ 
 
-    2008—[Pub. L. 110–181, § 3525(b)][/us/pl/110/181/s3525/b], repealed [Pub. L. 109–241, § 308][/us/pl/109/241/s308]. See 2006 Amendment note below.
+    2008—[Pub. L. 110–181][/us/pl/110/181], § 3525(b), repealed [Pub. L. 109–241][/us/pl/109/241], § 308. See 2006 Amendment note below.
 
-    Subsec. (a). [Pub. L. 110–181, § 3525(a)(2)][/us/pl/110/181/s3525/a/2], incorporated the substance of the amendment by [Pub. L. 109–241, § 308][/us/pl/109/241/s308], into this section by substituting “charterers, and mortgagees” for “and charterers”. See 2006 Amendment note below and [section 18(a) of Pub. L. 109–304][/us/pl/109/304/s18/a], set out as a Legislative Purpose and Construction note preceding [section 101 of this title][/us/usc/t46/s101].
+    Subsec. (a). [Pub. L. 110–181][/us/pl/110/181], § 3525(a)(2), incorporated the substance of the amendment by [Pub. L. 109–241][/us/pl/109/241], § 308, into this section by substituting “charterers, and mortgagees” for “and charterers”. See 2006 Amendment note below and [section 18(a) of Pub. L. 109–304][/us/pl/109/304/s18/a], set out as a Legislative Purpose and Construction note preceding [section 101 of this title][/us/usc/t46/s101].
 
-    2006—[Pub. L. 109–241, § 308][/us/pl/109/241/s308], which directed the amendment of former [section 12120 of this title][/us/usc/t46/s12120] from which subsec. (a) of this section was derived, was repealed by [Pub. L. 110–181, § 3525(b)][/us/pl/110/181/s3525/b]. See 2008 Amendment note for subsec. (a) and Historical and Revision notes above.
+    2006—[Pub. L. 109–241][/us/pl/109/241], § 308, which directed the amendment of former [section 12120 of this title][/us/usc/t46/s12120] from which subsec. (a) of this section was derived, was repealed by [Pub. L. 110–181][/us/pl/110/181], § 3525(b). See 2008 Amendment note for subsec. (a) and Historical and Revision notes above.
 
 ----------
 
@@ -119,25 +119,25 @@ July 14, 1956, ch. 600, § 2 (1st sentence), 70 Stat. 544; Pub. L. 86–583, �
 [/us/usc/t46/s14502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs14502
 [/us/usc/t46/s14302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs14302
 [/us/usc/t46/s14104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs14104
-[/us/pl/109/304/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs5
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1507
-[/us/pl/109/241/s308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241%2Fs308
+[/us/pl/109/241/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241%2FtIII
 [/us/stat/120/528]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F528
-[/us/pl/110/181/s3525/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs3525%2Fa%2F2
+[/us/pl/110/181/dC/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdC%2FtXXXV
 [/us/stat/122/600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F600
 [/us/usc/t46/s2101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs2101
 [/us/pl/89/670]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F670
 [/us/stat/80/938]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F938
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/stat/116/2135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2135
-[/us/pl/110/181/s3525/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs3525%2Fb
-[/us/pl/109/241/s308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241%2Fs308
-[/us/pl/110/181/s3525/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs3525%2Fa%2F2
-[/us/pl/109/241/s308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241%2Fs308
+[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
+[/us/pl/109/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241
+[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
+[/us/pl/109/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241
 [/us/pl/109/304/s18/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs18%2Fa
 [/us/usc/t46/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs101
-[/us/pl/109/241/s308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241%2Fs308
+[/us/pl/109/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241
 [/us/usc/t46/s12120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs12120
-[/us/pl/110/181/s3525/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs3525%2Fb
+[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
 
 

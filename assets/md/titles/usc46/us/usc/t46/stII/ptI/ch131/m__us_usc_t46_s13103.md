@@ -45,7 +45,7 @@
 
     (d) The Secretary’s approval under this section is a contractual obligation of the Government for the payment of a proportionate share of the cost of carrying out the program.
 
-([Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 593][/us/stat/97/593], § 13102; [Pub. L. 98–369, div. A, title X, § 1011(c)][/us/pl/98/369/s1011/c], July 18, 1984, [98 Stat. 1013][/us/stat/98/1013]; [Pub. L. 98–557, § 7(b)(3)][/us/pl/98/557/s7/b/3], Oct. 30, 1984, [98 Stat. 2862][/us/stat/98/2862]; [Pub. L. 99–307, § 1(17)][/us/pl/99/307/s1/17], May 19, 1986, [100 Stat. 446][/us/stat/100/446]; [Pub. L. 99–626, § 4(a)][/us/pl/99/626/s4/a], (b), Nov. 7, 1986, [100 Stat. 3505][/us/stat/100/3505]; [Pub. L. 100–448, § 6(b)(3)][/us/pl/100/448/s6/b/3]–(5), Sept. 28, 1988, [102 Stat. 1840][/us/stat/102/1840]; [Pub. L. 101–595, title III, § 312(b)][/us/pl/101/595/s312/b], Nov. 16, 1990, [104 Stat. 2987][/us/stat/104/2987]; [Pub. L. 109–59, title X, § 10141][/us/pl/109/59/s10141], Aug. 10, 2005, [119 Stat. 1931][/us/stat/119/1931]; renumbered § 13103 and amended [Pub. L. 109–304][/us/pl/109/304], §§ 15(25), 16(b)(1), (c)(4), Oct. 6, 2006, [120 Stat. 1704–1706][/us/stat/120/1704-1706].)
+([Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 593][/us/stat/97/593], § 13102; [Pub. L. 98–369, div. A, title X][/us/pl/98/369/dA/tX], § 1011(c), July 18, 1984, [98 Stat. 1013][/us/stat/98/1013]; [Pub. L. 98–557][/us/pl/98/557], § 7(b)(3), Oct. 30, 1984, [98 Stat. 2862][/us/stat/98/2862]; [Pub. L. 99–307][/us/pl/99/307], § 1(17), May 19, 1986, [100 Stat. 446][/us/stat/100/446]; [Pub. L. 99–626][/us/pl/99/626], § 4(a), (b), Nov. 7, 1986, [100 Stat. 3505][/us/stat/100/3505]; [Pub. L. 100–448][/us/pl/100/448], § 6(b)(3)–(5), Sept. 28, 1988, [102 Stat. 1840][/us/stat/102/1840]; [Pub. L. 101–595, title III][/us/pl/101/595/tIII], § 312(b), Nov. 16, 1990, [104 Stat. 2987][/us/stat/104/2987]; [Pub. L. 109–59, title X][/us/pl/109/59/tX], § 10141, Aug. 10, 2005, [119 Stat. 1931][/us/stat/119/1931]; renumbered § 13103 and amended [Pub. L. 109–304][/us/pl/109/304], §§ 15(25), 16(b)(1), (c)(4), Oct. 6, 2006, [120 Stat. 1704–1706][/us/stat/120/1704-1706].)
 
 <table>
 
@@ -99,43 +99,43 @@ Source section (U.S. Code)  </td>
 
  __Amendments__ 
 
-    2006—[Pub. L. 109–304, § 16(b)(1)][/us/pl/109/304/s16/b/1], renumbered [section 13102 of this title][/us/usc/t46/s13102] as this section.
+    2006—[Pub. L. 109–304][/us/pl/109/304], § 16(b)(1), renumbered [section 13102 of this title][/us/usc/t46/s13102] as this section.
 
-    Subsec. (a). [Pub. L. 109–304, § 15(25)][/us/pl/109/304/s15/25], inserted “([26 U.S.C. 9504][/us/usc/t26/s9504])” after “Internal Revenue Code of 1986”.
+    Subsec. (a). [Pub. L. 109–304][/us/pl/109/304], § 15(25), inserted “([26 U.S.C. 9504][/us/usc/t26/s9504])” after “Internal Revenue Code of 1986”.
 
-    Subsec. (c). [Pub. L. 109–304, § 16(c)(4)][/us/pl/109/304/s16/c/4], substituted “section 13107” for “section 13106”.
+    Subsec. (c). [Pub. L. 109–304][/us/pl/109/304], § 16(c)(4), substituted “section 13107” for “section 13106”.
 
     2005—Subsec. (a). [Pub. L. 109–59][/us/pl/109/59] substituted “the Sport Fish Restoration and Boating Trust Fund” for “the Boat Safety Account” in introductory provisions.
 
-    1990—Subsec. (a)(3). [Pub. L. 101–595, § 312(b)(1)][/us/pl/101/595/s312/b/1], inserted “State” after “general”.
+    1990—Subsec. (a)(3). [Pub. L. 101–595][/us/pl/101/595], § 312(b)(1), inserted “State” after “general”.
 
-    Subsec. (c)(4). [Pub. L. 101–595, § 312(b)(2)][/us/pl/101/595/s312/b/2], inserted “or drugs” after “alcohol”.
+    Subsec. (c)(4). [Pub. L. 101–595][/us/pl/101/595], § 312(b)(2), inserted “or drugs” after “alcohol”.
 
-    Subsec. (d). [Pub. L. 101–595, § 312(b)(3)][/us/pl/101/595/s312/b/3], substituted “a proportionate share” for “the proportional share”.
+    Subsec. (d). [Pub. L. 101–595][/us/pl/101/595], § 312(b)(3), substituted “a proportionate share” for “the proportional share”.
 
-    1988—Subsec. (a). [Pub. L. 100–448, § 6(b)(4)][/us/pl/100/448/s6/b/4], substituted “1986” for “1954.” in introductory provisions.
+    1988—Subsec. (a). [Pub. L. 100–448][/us/pl/100/448], § 6(b)(4), substituted “1986” for “1954.” in introductory provisions.
 
-    Subsec. (a)(4). [Pub. L. 100–448, § 6(b)(5)][/us/pl/100/448/s6/b/5], amended par. (4) generally. Prior to amendment, par. (4) read as follows: “the program submitted by that State designates a State lead authority or agency that will carry out or coordinate carrying out out the State recreational boating safety program supported by financial assistance of the United States Government in that State, including the requirement that the designated State authority or agency submit required reports that are necessary and reasonable to carry out properly and efficiently the program and that are in the form prescribed by the Secretary.”
+    Subsec. (a)(4). [Pub. L. 100–448][/us/pl/100/448], § 6(b)(5), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “the program submitted by that State designates a State lead authority or agency that will carry out or coordinate carrying out out the State recreational boating safety program supported by financial assistance of the United States Government in that State, including the requirement that the designated State authority or agency submit required reports that are necessary and reasonable to carry out properly and efficiently the program and that are in the form prescribed by the Secretary.”
 
-    Subsec. (b). [Pub. L. 100–448, § 6(b)(3)][/us/pl/100/448/s6/b/3], substituted “(except amounts from” for “from sources (except”.
+    Subsec. (b). [Pub. L. 100–448][/us/pl/100/448], § 6(b)(3), substituted “(except amounts from” for “from sources (except”.
 
-    1986—Subsec. (a). [Pub. L. 99–626, § 4(a)][/us/pl/99/626/s4/a], substituted “Boat Safety Account established by section 9504 of the Internal Revenue Code of 1954.” for “Fund established under [section 13107 of this title][/us/usc/t46/s13107]” in introductory provisions.
+    1986—Subsec. (a). [Pub. L. 99–626][/us/pl/99/626], § 4(a), substituted “Boat Safety Account established by section 9504 of the Internal Revenue Code of 1954.” for “Fund established under [section 13107 of this title][/us/usc/t46/s13107]” in introductory provisions.
 
-    Subsec. (a)(4). [Pub. L. 99–626, § 4(b)][/us/pl/99/626/s4/b], inserted “out” after “carrying”.
+    Subsec. (a)(4). [Pub. L. 99–626][/us/pl/99/626], § 4(b), inserted “out” after “carrying”.
 
     [Pub. L. 99–307][/us/pl/99/307] substituted “carrying out the State” for “carrying the State”.
 
-    1984—Subsec. (a). [Pub. L. 98–369, § 1011(c)(1)][/us/pl/98/369/s1011/c/1], (2), in provisions preceding par. (1) substituted “shall” for “may” and struck out “and facilities improvement” after “boating safety”.
+    1984—Subsec. (a). [Pub. L. 98–369][/us/pl/98/369], § 1011(c)(1), (2), in provisions preceding par. (1) substituted “shall” for “may” and struck out “and facilities improvement” after “boating safety”.
 
-    Subsec. (a)(2). [Pub. L. 98–369, § 1011(c)(1)][/us/pl/98/369/s1011/c/1], (3), struck out “, (d), or (f)” after “requirements of subsection (c)” and struck out “and facilities improvement” after “boating safety”.
+    Subsec. (a)(2). [Pub. L. 98–369][/us/pl/98/369], § 1011(c)(1), (3), struck out “, (d), or (f)” after “requirements of subsection (c)” and struck out “and facilities improvement” after “boating safety”.
 
-    Subsec. (a)(3), (4). [Pub. L. 98–369, § 1011(c)(1)][/us/pl/98/369/s1011/c/1], struck out “and facilities improvement” after “boating safety”.
+    Subsec. (a)(3), (4). [Pub. L. 98–369][/us/pl/98/369], § 1011(c)(1), struck out “and facilities improvement” after “boating safety”.
 
     Subsec. (c)(4). [Pub. L. 98–557][/us/pl/98/557] inserted provisions relating to dissemination of information concerning the hazards of operating a vessel when under the influence of alcohol.
 
-    Subsecs. (d), (e). [Pub. L. 98–369, § 1011(c)(4)][/us/pl/98/369/s1011/c/4], redesignated subsec. (e) as (d). Former subsec. (d), which related to approval of a State recreational boating facilities improvement program by the Secretary, was struck out.
+    Subsecs. (d), (e). [Pub. L. 98–369][/us/pl/98/369], § 1011(c)(4), redesignated subsec. (e) as (d). Former subsec. (d), which related to approval of a State recreational boating facilities improvement program by the Secretary, was struck out.
 
-    Subsec. (f). [Pub. L. 98–369, § 1011(c)(4)][/us/pl/98/369/s1011/c/4], struck out subsec. (f) which related to submission by a State to the Secretary of a combined program for the improvement of recreational boating safety and recreational boating facilities.
+    Subsec. (f). [Pub. L. 98–369][/us/pl/98/369], § 1011(c)(4), struck out subsec. (f) which related to submission by a State to the Secretary of a combined program for the improvement of recreational boating safety and recreational boating facilities.
 
  __Effective Date of 2005 Amendments__ 
 
@@ -167,45 +167,45 @@ Source section (U.S. Code)  </td>
 [/us/usc/t46/s6102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs6102
 [/us/pl/98/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F89
 [/us/stat/97/593]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F593
-[/us/pl/98/369/s1011/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs1011%2Fc
+[/us/pl/98/369/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtX
 [/us/stat/98/1013]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1013
-[/us/pl/98/557/s7/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F557%2Fs7%2Fb%2F3
+[/us/pl/98/557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F557
 [/us/stat/98/2862]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2862
-[/us/pl/99/307/s1/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F307%2Fs1%2F17
+[/us/pl/99/307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F307
 [/us/stat/100/446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F446
-[/us/pl/99/626/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F626%2Fs4%2Fa
+[/us/pl/99/626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F626
 [/us/stat/100/3505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3505
-[/us/pl/100/448/s6/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F448%2Fs6%2Fb%2F3
+[/us/pl/100/448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F448
 [/us/stat/102/1840]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1840
-[/us/pl/101/595/s312/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F595%2Fs312%2Fb
+[/us/pl/101/595/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F595%2FtIII
 [/us/stat/104/2987]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2987
-[/us/pl/109/59/s10141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs10141
+[/us/pl/109/59/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtX
 [/us/stat/119/1931]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1931
 [/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1704-1706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1704-1706
 [/us/usc/t46/s13104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs13104
-[/us/pl/109/304/s16/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs16%2Fb%2F1
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/usc/t46/s13102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs13102
-[/us/pl/109/304/s15/25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs15%2F25
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/usc/t26/s9504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs9504
-[/us/pl/109/304/s16/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs16%2Fc%2F4
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
-[/us/pl/101/595/s312/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F595%2Fs312%2Fb%2F1
-[/us/pl/101/595/s312/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F595%2Fs312%2Fb%2F2
-[/us/pl/101/595/s312/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F595%2Fs312%2Fb%2F3
-[/us/pl/100/448/s6/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F448%2Fs6%2Fb%2F4
-[/us/pl/100/448/s6/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F448%2Fs6%2Fb%2F5
-[/us/pl/100/448/s6/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F448%2Fs6%2Fb%2F3
-[/us/pl/99/626/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F626%2Fs4%2Fa
+[/us/pl/101/595]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F595
+[/us/pl/101/595]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F595
+[/us/pl/101/595]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F595
+[/us/pl/100/448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F448
+[/us/pl/100/448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F448
+[/us/pl/100/448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F448
+[/us/pl/99/626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F626
 [/us/usc/t46/s13107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs13107
-[/us/pl/99/626/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F626%2Fs4%2Fb
+[/us/pl/99/626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F626
 [/us/pl/99/307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F307
-[/us/pl/98/369/s1011/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs1011%2Fc%2F1
-[/us/pl/98/369/s1011/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs1011%2Fc%2F1
-[/us/pl/98/369/s1011/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs1011%2Fc%2F1
+[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
 [/us/pl/98/557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F557
-[/us/pl/98/369/s1011/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs1011%2Fc%2F4
-[/us/pl/98/369/s1011/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs1011%2Fc%2F4
+[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
 [/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
 [/us/pl/109/74/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F74%2Fs101%2Fb
 [/us/usc/t16/s777b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs777b

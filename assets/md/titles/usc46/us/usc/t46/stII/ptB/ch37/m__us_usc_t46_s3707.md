@@ -41,7 +41,7 @@
 
         (3) means of communications and rudder angle indicators on the navigating bridge, a remote steering gear control station, and the steering gear compartment.
 
-([Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 524][/us/stat/97/524]; [Pub. L. 104–324, title VII, § 716][/us/pl/104/324/s716], Oct. 19, 1996, [110 Stat. 3937][/us/stat/110/3937].)
+([Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 524][/us/stat/97/524]; [Pub. L. 104–324, title VII][/us/pl/104/324/tVII], § 716, Oct. 19, 1996, [110 Stat. 3937][/us/stat/110/3937].)
 
 <table>
 
@@ -99,9 +99,9 @@ Source section (U.S. Code)  </td>
 
  __Amendments__ 
 
-    1996—Subsec. (a). [Pub. L. 104–324, § 716(1)][/us/pl/104/324/s716/1], inserted “as measured under [section 14502 of this title][/us/usc/t46/s14502], or an alternate tonnage measured under [section 14302 of this title][/us/usc/t46/s14302] as prescribed by the Secretary under [section 14104 of this title][/us/usc/t46/s14104]” after “10,000 gross tons” in introductory provisions.
+    1996—Subsec. (a). [Pub. L. 104–324][/us/pl/104/324], § 716(1), inserted “as measured under [section 14502 of this title][/us/usc/t46/s14502], or an alternate tonnage measured under [section 14302 of this title][/us/usc/t46/s14302] as prescribed by the Secretary under [section 14104 of this title][/us/usc/t46/s14104]” after “10,000 gross tons” in introductory provisions.
 
-    Subsec. (b). [Pub. L. 104–324, § 716(2)][/us/pl/104/324/s716/2], inserted “as measured under [section 14502 of this title][/us/usc/t46/s14502], or an alternate tonnage measured under [section 14302 of this title][/us/usc/t46/s14302] as prescribed by the Secretary under [section 14104 of this title][/us/usc/t46/s14104]” after “10,000 gross tons”.
+    Subsec. (b). [Pub. L. 104–324][/us/pl/104/324], § 716(2), inserted “as measured under [section 14502 of this title][/us/usc/t46/s14502], or an alternate tonnage measured under [section 14302 of this title][/us/usc/t46/s14302] as prescribed by the Secretary under [section 14104 of this title][/us/usc/t46/s14104]” after “10,000 gross tons”.
 
 ----------
 
@@ -118,13 +118,13 @@ Source section (U.S. Code)  </td>
 [/us/usc/t46/s14104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs14104
 [/us/pl/98/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F89
 [/us/stat/97/524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F524
-[/us/pl/104/324/s716]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2Fs716
+[/us/pl/104/324/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2FtVII
 [/us/stat/110/3937]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3937
-[/us/pl/104/324/s716/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2Fs716%2F1
+[/us/pl/104/324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324
 [/us/usc/t46/s14502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs14502
 [/us/usc/t46/s14302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs14302
 [/us/usc/t46/s14104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs14104
-[/us/pl/104/324/s716/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2Fs716%2F2
+[/us/pl/104/324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324
 [/us/usc/t46/s14502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs14502
 [/us/usc/t46/s14302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs14302
 [/us/usc/t46/s14104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs14104

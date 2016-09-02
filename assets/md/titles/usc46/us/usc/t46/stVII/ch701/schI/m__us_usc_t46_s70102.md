@@ -45,7 +45,7 @@
 
         (2) integrate, to the maximum extent practical, any security system for the facility with compatible systems operated or maintained by the appropriate State, law enforcement agencies, and the Coast Guard.
 
-(Added [Pub. L. 107–295, title I, § 102(a)][/us/pl/107/295/s102/a], Nov. 25, 2002, [116 Stat. 2068][/us/stat/116/2068]; amended [Pub. L. 108–458, title IV, § 4072(b)][/us/pl/108/458/s4072/b], Dec. 17, 2004, [118 Stat. 3730][/us/stat/118/3730]; [Pub. L. 111–281, title VIII, § 822][/us/pl/111/281/s822], Oct. 15, 2010, [124 Stat. 3003][/us/stat/124/3003].)
+(Added [Pub. L. 107–295, title I][/us/pl/107/295/tI], § 102(a), Nov. 25, 2002, [116 Stat. 2068][/us/stat/116/2068]; amended [Pub. L. 108–458, title IV][/us/pl/108/458/tIV], § 4072(b), Dec. 17, 2004, [118 Stat. 3730][/us/stat/118/3730]; [Pub. L. 111–281, title VIII][/us/pl/111/281/tVIII], § 822, Oct. 15, 2010, [124 Stat. 3003][/us/stat/124/3003].)
 
  __Amendments__ 
 
@@ -60,11 +60,11 @@
 ----------
 ----------
 
-[/us/pl/107/295/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295%2Fs102%2Fa
+[/us/pl/107/295/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295%2FtI
 [/us/stat/116/2068]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2068
-[/us/pl/108/458/s4072/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs4072%2Fb
+[/us/pl/108/458/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2FtIV
 [/us/stat/118/3730]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3730
-[/us/pl/111/281/s822]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs822
+[/us/pl/111/281/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2FtVIII
 [/us/stat/124/3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3003
 [/us/pl/111/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281
 [/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458

@@ -95,7 +95,7 @@
 
  __Amendments__ 
 
-    1996—[Pub. L. 104–324, title III, § 313(b)][/us/pl/104/324/s313/b], Oct. 19, 1996, [110 Stat. 3922][/us/stat/110/3922], added item 6308.
+    1996—[Pub. L. 104–324, title III][/us/pl/104/324/tIII], § 313(b), Oct. 19, 1996, [110 Stat. 3922][/us/stat/110/3922], added item 6308.
 
 ----------
 
@@ -104,7 +104,7 @@
 ----------
 ----------
 
-[/us/pl/104/324/s313/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2Fs313%2Fb
+[/us/pl/104/324/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2FtIII
 [/us/stat/110/3922]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3922
 
 

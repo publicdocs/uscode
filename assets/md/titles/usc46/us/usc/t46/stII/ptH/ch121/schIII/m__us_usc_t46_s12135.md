@@ -21,7 +21,7 @@
 
     (2) is placed under the command of an individual not a citizen of the United States in violation of [section 12131 of this title][/us/usc/t46/s12131].
 
-([Pub. L. 109–304, § 5][/us/pl/109/304/s5], Oct. 6, 2006, [120 Stat. 1506][/us/stat/120/1506].)
+([Pub. L. 109–304][/us/pl/109/304], § 5, Oct. 6, 2006, [120 Stat. 1506][/us/stat/120/1506].)
 
 <table>
 
@@ -77,7 +77,7 @@ Source (Statutes at Large)  </td>
 ----------
 
 [/us/usc/t46/s12131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs12131
-[/us/pl/109/304/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs5
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1506
 
 

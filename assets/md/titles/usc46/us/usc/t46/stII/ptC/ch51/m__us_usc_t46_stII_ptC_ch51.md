@@ -159,7 +159,7 @@
 
  __Amendments__ 
 
-    1990—[Pub. L. 101–595, title VI, § 603(5)(B)][/us/pl/101/595/s603/5/B], Nov. 16, 1990, [104 Stat. 2993][/us/stat/104/2993], struck out item 5115 “Regulations”.
+    1990—[Pub. L. 101–595, title VI][/us/pl/101/595/tVI], § 603(5)(B), Nov. 16, 1990, [104 Stat. 2993][/us/stat/104/2993], struck out item 5115 “Regulations”.
 
 ----------
 
@@ -168,7 +168,7 @@
 ----------
 ----------
 
-[/us/pl/101/595/s603/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F595%2Fs603%2F5%2FB
+[/us/pl/101/595/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F595%2FtVI
 [/us/stat/104/2993]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2993
 
 

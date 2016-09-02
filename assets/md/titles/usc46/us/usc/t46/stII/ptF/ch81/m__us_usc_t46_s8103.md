@@ -31,7 +31,7 @@
 
                 (ii) an alien lawfully admitted to the United States for permanent residence; or
 
-                (iii) a foreign national who is enrolled in the United States Merchant Marine Academy. <sup>\[1\]</sup>  <sup><sup> 1 So in original. The period probably should be “; and”. </sup></sup> 
+                (iii) a foreign national who is enrolled in the United States Merchant Marine Academy; and
 
             (B) not more than 25 percent of the total number of unlicensed seamen on the vessel may be aliens lawfully admitted to the United States for permanent residence.
 
@@ -55,11 +55,11 @@
 
             (C) any other vessel if the Secretary determines, after an investigation, that qualified seamen who are citizens of the United States are not available.
 
-    (c) On each departure of a vessel (except a passenger vessel) for which a construction or operating differential subsidy has been granted, all of the seamen of the vessel must be citizens of the United States.
+    (c) On each departure of a vessel (except a passenger vessel) for which a construction differential subsidy has been granted, all of the seamen of the vessel must be citizens of the United States.
 
     (d)
 
-        (1) On each departure of a passenger vessel for which a construction or operating differential subsidy has been granted, at least 90 percent of the entire complement (including licensed individuals) must be citizens of the United States.
+        (1) On each departure of a passenger vessel for which a construction differential subsidy has been granted, at least 90 percent of the entire complement (including licensed individuals) must be citizens of the United States.
 
         (2) An individual not required by this subsection to be a citizen of the United States may be engaged only if the individual has a declaration of intention to become a citizen of the United States or other evidence of admission to the United States for permanent residence. An alien may be employed only in the steward’s department of the passenger vessel.
 
@@ -191,7 +191,7 @@
 
             The term “large passenger vessel” means a vessel of more than 70,000 gross tons, as measured under [section 14302 of this title][/us/usc/t46/s14302], with capacity for at least 2,000 passengers and documented with a coastwise endorsement under chapter 121 of this title.
 
-([Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 548][/us/stat/97/548]; [Pub. L. 100–239][/us/pl/100/239], §§ 5(a)(1), (2), (b)–(d)(1), Jan. 11, 1988, [101 Stat. 1780][/us/stat/101/1780]; [Pub. L. 100–255][/us/pl/100/255], Mar. 4, 1988, [102 Stat. 23][/us/stat/102/23]; [Pub. L. 101–595, title VI, § 603(6)][/us/pl/101/595/s603/6], title VII, § 711, Nov. 16, 1990, [104 Stat. 2993][/us/stat/104/2993], 2997; [Pub. L. 104–208, div. A, title I, § 101(a)][/us/pl/104/208/s101/a] \[title II, § 211(b)\], Sept. 30, 1996, [110 Stat. 3009][/us/stat/110/3009], 3009–41; [Pub. L. 104–324, title VII, § 727][/us/pl/104/324/s727], title XI, § 1123, Oct. 19, 1996, [110 Stat. 3939][/us/stat/110/3939], 3980; [Pub. L. 108–293, title IV, § 412][/us/pl/108/293/s412], Aug. 9, 2004, [118 Stat. 1046][/us/stat/118/1046]; [Pub. L. 109–163, div. A, title V, § 515(f)(3)(A)][/us/pl/109/163/s515/f/3/A], (B), Jan. 6, 2006, [119 Stat. 3236][/us/stat/119/3236]; [Pub. L. 109–241, title III, § 312(c)(1)][/us/pl/109/241/s312/c/1], July 11, 2006, [120 Stat. 533][/us/stat/120/533]; [Pub. L. 109–304, § 15(22)][/us/pl/109/304/s15/22], Oct. 6, 2006, [120 Stat. 1704][/us/stat/120/1704]; [Pub. L. 109–364, div. C, title XXXV, § 3509][/us/pl/109/364/s3509], Oct. 17, 2006, [120 Stat. 2518][/us/stat/120/2518]; [Pub. L. 110–181, div. C, title XXXV, § 3529(d)][/us/pl/110/181/s3529/d], Jan. 28, 2008, [122 Stat. 604][/us/stat/122/604].)
+([Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 548][/us/stat/97/548]; [Pub. L. 100–239][/us/pl/100/239], §§ 5(a)(1), (2), (b)–(d)(1), Jan. 11, 1988, [101 Stat. 1780][/us/stat/101/1780]; [Pub. L. 100–255][/us/pl/100/255], Mar. 4, 1988, [102 Stat. 23][/us/stat/102/23]; [Pub. L. 101–595, title VI][/us/pl/101/595/tVI], § 603(6), title VII, § 711, Nov. 16, 1990, [104 Stat. 2993][/us/stat/104/2993], 2997; [Pub. L. 104–208, div. A, title I][/us/pl/104/208/dA/tI], § 101(a) \[title II, § 211(b)\], Sept. 30, 1996, [110 Stat. 3009][/us/stat/110/3009], 3009–41; [Pub. L. 104–324, title VII][/us/pl/104/324/tVII], § 727, title XI, § 1123, Oct. 19, 1996, [110 Stat. 3939][/us/stat/110/3939], 3980; [Pub. L. 108–293, title IV][/us/pl/108/293/tIV], § 412, Aug. 9, 2004, [118 Stat. 1046][/us/stat/118/1046]; [Pub. L. 109–163, div. A, title V][/us/pl/109/163/dA/tV], § 515(f)(3)(A), (B), Jan. 6, 2006, [119 Stat. 3236][/us/stat/119/3236]; [Pub. L. 109–241, title III][/us/pl/109/241/tIII], § 312(c)(1), July 11, 2006, [120 Stat. 533][/us/stat/120/533]; [Pub. L. 109–304][/us/pl/109/304], § 15(22), Oct. 6, 2006, [120 Stat. 1704][/us/stat/120/1704]; [Pub. L. 109–364, div. C, title XXXV][/us/pl/109/364/dC/tXXXV], § 3509, Oct. 17, 2006, [120 Stat. 2518][/us/stat/120/2518]; [Pub. L. 110–181, div. C, title XXXV][/us/pl/110/181/dC/tXXXV], § 3529(d), Jan. 28, 2008, [122 Stat. 604][/us/stat/122/604]; [Pub. L. 114–120, title III][/us/pl/114/120/tIII], §§ 306(a)(6), 313(d), Feb. 8, 2016, [130 Stat. 54][/us/stat/130/54], 59.)
 
 <table>
 
@@ -261,13 +261,17 @@ Source section (U.S. Code)  </td>
 
  __Amendments__ 
 
+    2016—Subsec. (b)(1)(A)(iii). [Pub. L. 114–120][/us/pl/114/120], § 306(a)(6), substituted “Academy; and” for “Academy.”
+
+    Subsecs. (c), (d)(1). [Pub. L. 114–120][/us/pl/114/120], § 313(d), struck out “or operating” before “differential subsidy”.
+
     2008—Subsec. (k)(3)(C)(iv). [Pub. L. 110–181][/us/pl/110/181] inserted “and section 252 of the Immigration and Nationality Act ([8 U.S.C. 1282][/us/usc/t8/s1282])” after “limitations of such section”.
 
-    2006—[Pub. L. 109–163, § 515(f)(3)(B)][/us/pl/109/163/s515/f/3/B], substituted “Navy Reserve” for “Naval Reserve” in section catchline.
+    2006—[Pub. L. 109–163][/us/pl/109/163], § 515(f)(3)(B), substituted “Navy Reserve” for “Naval Reserve” in section catchline.
 
     Subsec. (a). [Pub. L. 109–304][/us/pl/109/304] substituted “Except as otherwise provided in this title, only” for “Only”.
 
-    Subsec. (g). [Pub. L. 109–163, § 515(f)(3)(A)][/us/pl/109/163/s515/f/3/A], substituted “Navy Reserve” for “Naval Reserve”.
+    Subsec. (g). [Pub. L. 109–163][/us/pl/109/163], § 515(f)(3)(A), substituted “Navy Reserve” for “Naval Reserve”.
 
     Subsec. (j). [Pub. L. 109–241][/us/pl/109/241] added subsec. (j).
 
@@ -277,33 +281,33 @@ Source section (U.S. Code)  </td>
 
     1996—Subsec. (b)(2)(B). [Pub. L. 104–208][/us/pl/104/208] substituted “Magnuson-Stevens Fishery” for “Magnuson Fishery”.
 
-    Subsec. (b)(3)(A). [Pub. L. 104–324, § 727][/us/pl/104/324/s727], inserted “as measured under [section 14502 of this title][/us/usc/t46/s14502], or an alternate tonnage measured under [section 14302 of this title][/us/usc/t46/s14302] as prescribed by the Secretary under [section 14104 of this title][/us/usc/t46/s14104]” after “1,600 gross tons”.
+    Subsec. (b)(3)(A). [Pub. L. 104–324][/us/pl/104/324], § 727, inserted “as measured under [section 14502 of this title][/us/usc/t46/s14502], or an alternate tonnage measured under [section 14302 of this title][/us/usc/t46/s14302] as prescribed by the Secretary under [section 14104 of this title][/us/usc/t46/s14104]” after “1,600 gross tons”.
 
-    Subsec. (i)(1)(D). [Pub. L. 104–324, § 1123][/us/pl/104/324/s1123], added subpar. (D).
+    Subsec. (i)(1)(D). [Pub. L. 104–324][/us/pl/104/324], § 1123, added subpar. (D).
 
     Subsec. (i)(3). [Pub. L. 104–208][/us/pl/104/208] substituted “Magnuson-Stevens Fishery” for “Magnuson Fishery”.
 
     1990—Subsec. (i)(3)(C). [Pub. L. 101–595][/us/pl/101/595], §§ 603(6) and 711, amended subpar. (C) identically, substituting “Nationality” for “Naturalization”.
 
-    1988—Subsec. (a). [Pub. L. 100–239, § 5(a)(1)][/us/pl/100/239/s5/a/1], inserted “radio officer,” after “chief engineer,”.
+    1988—Subsec. (a). [Pub. L. 100–239][/us/pl/100/239], § 5(a)(1), inserted “radio officer,” after “chief engineer,”.
 
     Subsec. (b). [Pub. L. 100–255][/us/pl/100/255] substituted “section,” for “subsection,” in par. (3).
 
-    [Pub. L. 100–239, § 5(a)(2)][/us/pl/100/239/s5/a/2], amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “On each departure of a documented vessel (except a fishing or whaling vessel or yacht) from a port of the United States, 75 percent of the seamen (excluding licensed individuals) must be citizens of the United States. If the Secretary decides, on investigation, that qualified citizen seamen are not available, the Secretary may reduce the percentage.”
+    [Pub. L. 100–239][/us/pl/100/239], § 5(a)(2), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “On each departure of a documented vessel (except a fishing or whaling vessel or yacht) from a port of the United States, 75 percent of the seamen (excluding licensed individuals) must be citizens of the United States. If the Secretary decides, on investigation, that qualified citizen seamen are not available, the Secretary may reduce the percentage.”
 
-    Subsecs. (c), (d)(1). [Pub. L. 100–239, § 5(b)][/us/pl/100/239/s5/b], struck out “from the United States” after “On each departure”.
+    Subsecs. (c), (d)(1). [Pub. L. 100–239][/us/pl/100/239], § 5(b), struck out “from the United States” after “On each departure”.
 
-    Subsec. (e). [Pub. L. 100–239, § 5(c)][/us/pl/100/239/s5/c], inserted “and the radio officer” after “the master” and substituted “until the vessel’s return to a port at which in the most expeditious manner” for “until the vessel’s first return to a United States port at which”.
+    Subsec. (e). [Pub. L. 100–239][/us/pl/100/239], § 5(c), inserted “and the radio officer” after “the master” and substituted “until the vessel’s return to a port at which in the most expeditious manner” for “until the vessel’s first return to a United States port at which”.
 
-    Subsec. (i). [Pub. L. 100–239, § 5(d)(1)][/us/pl/100/239/s5/d/1], added subsec. (i).
+    Subsec. (i). [Pub. L. 100–239][/us/pl/100/239], § 5(d)(1), added subsec. (i).
 
  __Effective Date of 1996 Amendment__ 
 
-    [Pub. L. 104–208, div. A, title I, § 101(a)][/us/pl/104/208/s101/a] \[title II, § 211(b)\], Sept. 30, 1996, [110 Stat. 3009][/us/stat/110/3009], 3009–41, provided that the amendment made by that section is effective 15 days after Oct. 11, 1996.
+    [Pub. L. 104–208, div. A, title I][/us/pl/104/208/dA/tI], § 101(a) \[title II, § 211(b)\], Sept. 30, 1996, [110 Stat. 3009][/us/stat/110/3009], 3009–41, provided that the amendment made by that section is effective 15 days after Oct. 11, 1996.
 
  __Effective Date of 1988 Amendment__ 
 
-[Pub. L. 100–239, § 5(a)(3)][/us/pl/100/239/s5/a/3], Jan. 11, 1988, [101 Stat. 1780][/us/stat/101/1780], provided that: 
+[Pub. L. 100–239][/us/pl/100/239], § 5(a)(3), Jan. 11, 1988, [101 Stat. 1780][/us/stat/101/1780], provided that: 
 
 > “Paragraph (2) of this subsection \[amending this section\] is effective 30 days after the date of enactment of this Act \[Jan. 11, 1988\].”
 
@@ -317,7 +321,7 @@ Source section (U.S. Code)  </td>
 
  __Distant Water Tuna Fleet__ 
 
-[Pub. L. 109–241, title IV, § 421][/us/pl/109/241/s421], July 11, 2006, [120 Stat. 547][/us/stat/120/547], as amended by [Pub. L. 111–281, title IX, § 904][/us/pl/111/281/s904], Oct. 15, 2010, [124 Stat. 3011][/us/stat/124/3011]; [Pub. L. 112–213, title VII, § 701][/us/pl/112/213/s701], Dec. 20, 2012, [126 Stat. 1579][/us/stat/126/1579]; [Pub. L. 113–281, title VI, § 601][/us/pl/113/281/s601], Dec. 18, 2014, [128 Stat. 3060][/us/stat/128/3060], provided that:
+[Pub. L. 109–241, title IV][/us/pl/109/241/tIV], § 421, July 11, 2006, [120 Stat. 547][/us/stat/120/547], as amended by [Pub. L. 111–281, title IX][/us/pl/111/281/tIX], § 904, Oct. 15, 2010, [124 Stat. 3011][/us/stat/124/3011]; [Pub. L. 112–213, title VII][/us/pl/112/213/tVII], § 701, Dec. 20, 2012, [126 Stat. 1579][/us/stat/126/1579]; [Pub. L. 113–281, title VI][/us/pl/113/281/tVI], § 601, Dec. 18, 2014, [128 Stat. 3060][/us/stat/128/3060]; [Pub. L. 114–120, title VI][/us/pl/114/120/tVI], § 601(a), Feb. 8, 2016, [130 Stat. 79][/us/stat/130/79], provided that:
 
 >     “(a)  __Manning Requirements__  __.—__ 
 
@@ -339,7 +343,7 @@ Source section (U.S. Code)  </td>
 
 >     “(d)  __Reports__  __.—__ 
 
->     On March 1, 2007, and annually thereafter until the date of expiration of this section, the Coast Guard and the National Marine Fisheries Service shall submit a report to the Committee on Commerce, Science, and Transportation of the Senate and the Committees on Transportation and Infrastructure and Resources \[now Natural Resources\] of the House of Representatives, providing the following information on the United States purse seine fleet referred to in subsection (a):
+>     Not later than July 1 of each year until the date of expiration of this section, the Coast Guard and the National Marine Fisheries Service shall submit a report to the Committee on Commerce, Science, and Transportation of the Senate and the Committees on Transportation and Infrastructure and Resources \[now Natural Resources\] of the House of Representatives, providing the following information on the United States purse seine fleet referred to in subsection (a):
 
 >         “(1) The number and identity of vessels in the fleet using foreign citizens to meet manning requirements pursuant to this section and any marine casualties involving such vessel.
 
@@ -359,7 +363,7 @@ Source section (U.S. Code)  </td>
 
  __Application of Section to Fishing Vessels in California__ 
 
-[Pub. L. 101–595, title III, § 317][/us/pl/101/595/s317], Nov. 16, 1990, [104 Stat. 2988][/us/stat/104/2988], as amended by [Pub. L. 104–324, title III, § 301(d)(2)(B)][/us/pl/104/324/s301/d/2/B], Oct. 19, 1996, [110 Stat. 3916][/us/stat/110/3916], provided that:
+[Pub. L. 101–595, title III][/us/pl/101/595/tIII], § 317, Nov. 16, 1990, [104 Stat. 2988][/us/stat/104/2988], as amended by [Pub. L. 104–324, title III][/us/pl/104/324/tIII], § 301(d)(2)(B), Oct. 19, 1996, [110 Stat. 3916][/us/stat/110/3916], provided that:
 
 >     “(a)  __Definition__  __.—__ 
 
@@ -395,69 +399,75 @@ Source section (U.S. Code)  </td>
 [/us/stat/101/1780]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1780
 [/us/pl/100/255]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F255
 [/us/stat/102/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F23
-[/us/pl/101/595/s603/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F595%2Fs603%2F6
+[/us/pl/101/595/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F595%2FtVI
 [/us/stat/104/2993]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2993
-[/us/pl/104/208/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Fa
+[/us/pl/104/208/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtI
 [/us/stat/110/3009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009
-[/us/pl/104/324/s727]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2Fs727
+[/us/pl/104/324/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2FtVII
 [/us/stat/110/3939]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3939
-[/us/pl/108/293/s412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293%2Fs412
+[/us/pl/108/293/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293%2FtIV
 [/us/stat/118/1046]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1046
-[/us/pl/109/163/s515/f/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs515%2Ff%2F3%2FA
+[/us/pl/109/163/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtV
 [/us/stat/119/3236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3236
-[/us/pl/109/241/s312/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241%2Fs312%2Fc%2F1
+[/us/pl/109/241/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241%2FtIII
 [/us/stat/120/533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F533
-[/us/pl/109/304/s15/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs15%2F22
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1704
-[/us/pl/109/364/s3509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs3509
+[/us/pl/109/364/dC/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdC%2FtXXXV
 [/us/stat/120/2518]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2518
-[/us/pl/110/181/s3529/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs3529%2Fd
+[/us/pl/110/181/dC/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdC%2FtXXXV
 [/us/stat/122/604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F604
+[/us/pl/114/120/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F120%2FtIII
+[/us/stat/130/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F54
 [/us/act/1952-06-27/ch477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-06-27%2Fch477
 [/us/stat/66/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F163
 [/us/usc/t8/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101
+[/us/pl/114/120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F120
+[/us/pl/114/120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F120
 [/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
 [/us/usc/t8/s1282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1282
-[/us/pl/109/163/s515/f/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs515%2Ff%2F3%2FB
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
 [/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
-[/us/pl/109/163/s515/f/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs515%2Ff%2F3%2FA
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
 [/us/pl/109/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241
 [/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
 [/us/pl/108/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293
 [/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
-[/us/pl/104/324/s727]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2Fs727
+[/us/pl/104/324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324
 [/us/usc/t46/s14502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs14502
 [/us/usc/t46/s14302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs14302
 [/us/usc/t46/s14104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs14104
-[/us/pl/104/324/s1123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2Fs1123
+[/us/pl/104/324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324
 [/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
 [/us/pl/101/595]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F595
-[/us/pl/100/239/s5/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F239%2Fs5%2Fa%2F1
+[/us/pl/100/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F239
 [/us/pl/100/255]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F255
-[/us/pl/100/239/s5/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F239%2Fs5%2Fa%2F2
-[/us/pl/100/239/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F239%2Fs5%2Fb
-[/us/pl/100/239/s5/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F239%2Fs5%2Fc
-[/us/pl/100/239/s5/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F239%2Fs5%2Fd%2F1
-[/us/pl/104/208/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Fa
+[/us/pl/100/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F239
+[/us/pl/100/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F239
+[/us/pl/100/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F239
+[/us/pl/100/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F239
+[/us/pl/104/208/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtI
 [/us/stat/110/3009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009
-[/us/pl/100/239/s5/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F239%2Fs5%2Fa%2F3
+[/us/pl/100/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F239
 [/us/stat/101/1780]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1780
 [/us/pl/100/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F239
 [/us/stat/101/1781]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1781
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
-[/us/pl/109/241/s421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241%2Fs421
+[/us/pl/109/241/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241%2FtIV
 [/us/stat/120/547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F547
-[/us/pl/111/281/s904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs904
+[/us/pl/111/281/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2FtIX
 [/us/stat/124/3011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3011
-[/us/pl/112/213/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F213%2Fs701
+[/us/pl/112/213/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F213%2FtVII
 [/us/stat/126/1579]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1579
-[/us/pl/113/281/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281%2Fs601
+[/us/pl/113/281/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281%2FtVI
 [/us/stat/128/3060]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3060
+[/us/pl/114/120/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F120%2FtVI
+[/us/stat/130/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F79
 [/us/usc/t46/s8103/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs8103%2Fa
 [/us/usc/t46/s8304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs8304
-[/us/pl/101/595/s317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F595%2Fs317
+[/us/pl/101/595/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F595%2FtIII
 [/us/stat/104/2988]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2988
-[/us/pl/104/324/s301/d/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2Fs301%2Fd%2F2%2FB
+[/us/pl/104/324/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2FtIII
 [/us/stat/110/3916]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3916
 
 

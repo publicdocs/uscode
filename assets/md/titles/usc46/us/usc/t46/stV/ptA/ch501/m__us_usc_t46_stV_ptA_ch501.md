@@ -131,7 +131,7 @@
 
  __Amendments__ 
 
-    2015—[Pub. L. 114–92, div. A, title X, § 1074(c)(2)][/us/pl/114/92/s1074/c/2], Nov. 25, 2015, [129 Stat. 997][/us/stat/129/997], substituted “Submission of annual MARAD authorization request” for “Reports to Congress” in item 50111.
+    2015—[Pub. L. 114–92, div. A, title X][/us/pl/114/92/dA/tX], § 1074(c)(2), Nov. 25, 2015, [129 Stat. 997][/us/stat/129/997], substituted “Submission of annual MARAD authorization request” for “Reports to Congress” in item 50111.
 
 ----------
 
@@ -140,7 +140,7 @@
 ----------
 ----------
 
-[/us/pl/114/92/s1074/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1074%2Fc%2F2
+[/us/pl/114/92/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtX
 [/us/stat/129/997]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F997
 
 

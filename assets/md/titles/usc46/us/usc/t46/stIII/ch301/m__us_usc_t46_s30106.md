@@ -17,7 +17,7 @@
 
     Except as otherwise provided by law, a civil action for damages for personal injury or death arising out of a maritime tort must be brought within 3 years after the cause of action arose.
 
-([Pub. L. 109–304, § 6(c)][/us/pl/109/304/s6/c], Oct. 6, 2006, [120 Stat. 1511][/us/stat/120/1511].)
+([Pub. L. 109–304][/us/pl/109/304], § 6(c), Oct. 6, 2006, [120 Stat. 1511][/us/stat/120/1511].)
 
 <table>
 
@@ -74,7 +74,7 @@ Pub. L. 96–382, § 1, Oct. 6, 1980, 94 Stat. 1525.  </td>
 ----------
 ----------
 
-[/us/pl/109/304/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs6%2Fc
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1511
 
 

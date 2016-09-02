@@ -31,7 +31,7 @@
 
     On a reimbursable or nonreimbursable basis, as determined by the Secretary of Transportation, the Secretary may charter or otherwise make available a vessel under the jurisdiction of the Secretary to any other department, upon the request by the Secretary of the Department that receives the vessel. The prior consent of the Secretary of Defense for such use shall be required with respect to any vessel in the Ready Reserve Force or in the National Defense Reserve Fleet which is maintained in a retention status for the Department of Defense.
 
-([Pub. L. 109–304, § 8(b)][/us/pl/109/304/s8/b], Oct. 6, 2006, [120 Stat. 1565][/us/stat/120/1565]; [Pub. L. 110–181, div. C, title XXXV, § 3515][/us/pl/110/181/s3515], Jan. 28, 2008, [122 Stat. 595][/us/stat/122/595].)
+([Pub. L. 109–304][/us/pl/109/304], § 8(b), Oct. 6, 2006, [120 Stat. 1565][/us/stat/120/1565]; [Pub. L. 110–181, div. C, title XXXV][/us/pl/110/181/dC/tXXXV], § 3515, Jan. 28, 2008, [122 Stat. 595][/us/stat/122/595].)
 
 <table>
 
@@ -113,7 +113,7 @@ June 5, 1920, ch. 250, §§ 13, 17, 41 Stat. 993, 994; Exec. Order No. 6166, J
 
  __References in Text__ 
 
-    Section 4 of the Merchant Marine Act, 1920, referred to in subsec. (a), is section 4 of [act June 5, 1920, ch. 250][/us/act/1920-06-05/ch250], [41 Stat. 990][/us/stat/41/990], which was classified to section 863 of former Title 46, Shipping, and was repealed by [Pub. L. 100–710, title II, § 202(4)][/us/pl/100/710/s202/4], Nov. 23, 1988, [102 Stat. 4753][/us/stat/102/4753].
+    Section 4 of the Merchant Marine Act, 1920, referred to in subsec. (a), is section 4 of [act June 5, 1920, ch. 250][/us/act/1920-06-05/ch250], [41 Stat. 990][/us/stat/41/990], which was classified to section 863 of former Title 46, Shipping, and was repealed by [Pub. L. 100–710, title II][/us/pl/100/710/tII], § 202(4), Nov. 23, 1988, [102 Stat. 4753][/us/stat/102/4753].
 
     Section 17 of the Merchant Marine Act, 1920 (ch. 250, [41 Stat. 994][/us/stat/41/994]), as originally enacted, referred to in subsecs. (b) and (c), is section 17 of [act June 5, 1920, ch. 250][/us/act/1920-06-05/ch250], [41 Stat. 994][/us/stat/41/994], which was classified to section 875 of the former Appendix to this title, was subsequently amended, and as amended, was repealed and restated in subsecs. (b) and (c) of this section by [Pub. L. 109–304][/us/pl/109/304], §§ 8(b), 19, Oct. 6, 2006, [120 Stat. 1556][/us/stat/120/1556], 1710.
 
@@ -131,16 +131,16 @@ June 5, 1920, ch. 250, §§ 13, 17, 41 Stat. 993, 994; Exec. Order No. 6166, J
 [/us/stat/41/990]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F41%2F990
 [/us/stat/41/994]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F41%2F994
 [/us/stat/41/994]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F41%2F994
-[/us/pl/109/304/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs8%2Fb
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1565]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1565
-[/us/pl/110/181/s3515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs3515
+[/us/pl/110/181/dC/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdC%2FtXXXV
 [/us/stat/122/595]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F595
 [/us/stat/41/994]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F41%2F994
 [/us/stat/41/994]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F41%2F994
 [/us/stat/61/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F501
 [/us/act/1920-06-05/ch250]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-06-05%2Fch250
 [/us/stat/41/990]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F41%2F990
-[/us/pl/100/710/s202/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F710%2Fs202%2F4
+[/us/pl/100/710/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F710%2FtII
 [/us/stat/102/4753]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4753
 [/us/stat/41/994]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F41%2F994
 [/us/act/1920-06-05/ch250]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-06-05%2Fch250

@@ -67,7 +67,7 @@
 
     The Fund is available for expenses incurred in activating, repairing, and deactivating merchant vessels chartered under the jurisdiction of the Secretary. Receipts from charter operations of Government-owned vessels under the jurisdiction of the Secretary shall be credited to the Fund.
 
-([Pub. L. 109–304, § 8(b)][/us/pl/109/304/s8/b], Oct. 6, 2006, [120 Stat. 1562][/us/stat/120/1562].)
+([Pub. L. 109–304][/us/pl/109/304], § 8(b), Oct. 6, 2006, [120 Stat. 1562][/us/stat/120/1562].)
 
 <table>
 
@@ -239,7 +239,7 @@ Aug. 1, 1956, ch. 846, 70 Stat. 897; Pub. L. 97–31, § 12(130), Aug. 6, 1981
 ----------
 
 [/us/usc/t46/s56303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs56303
-[/us/pl/109/304/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs8%2Fb
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1562]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1562
 [/us/stat/65/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F65%2F59
 [/us/stat/70/319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F319

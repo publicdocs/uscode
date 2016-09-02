@@ -17,7 +17,7 @@
 
     In a civil action by any person in which the owner or operator of a vessel or employer of a crewmember is claimed to have vicarious liability for medical malpractice with regard to a crewmember occurring at a shoreside facility, and to the extent the damages resulted from the conduct of any shoreside doctor, hospital, medical facility, or other health care provider, the owner, operator, or employer is entitled to rely on any statutory limitations of liability applicable to the doctor, hospital, medical facility, or other health care provider in the State of the United States in which the shoreside medical care was provided.
 
-([Pub. L. 109–304, § 6(c)][/us/pl/109/304/s6/c], Oct. 6, 2006, [120 Stat. 1515][/us/stat/120/1515].)
+([Pub. L. 109–304][/us/pl/109/304], § 6(c), Oct. 6, 2006, [120 Stat. 1515][/us/stat/120/1515].)
 
 <table>
 
@@ -74,7 +74,7 @@ R.S. § 4283(g); Pub. L. 104–324, § 1129(a), Oct. 19, 1996, 110 Stat. 398
 ----------
 ----------
 
-[/us/pl/109/304/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs6%2Fc
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1515
 
 

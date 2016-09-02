@@ -59,7 +59,7 @@
 
     (12) knowingly and willfully enter into a service contract with an ocean transportation intermediary that does not have a tariff as required by [section 40501 of this title][/us/usc/t46/s40501] and a bond, insurance, or other surety as required by [section 40902 of this title][/us/usc/t46/s40902], or with an affiliate of such an ocean transportation intermediary.
 
-([Pub. L. 109–304, § 7][/us/pl/109/304/s7], Oct. 6, 2006, [120 Stat. 1541][/us/stat/120/1541].)
+([Pub. L. 109–304][/us/pl/109/304], § 7, Oct. 6, 2006, [120 Stat. 1541][/us/stat/120/1541].)
 
 <table>
 
@@ -118,7 +118,7 @@ Pub. L. 98–237, § 10(b)(1)–(12), Mar. 20, 1984, 98 Stat. 77; Pub. L. 101�
 [/us/usc/t46/s40902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs40902
 [/us/usc/t46/s40501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs40501
 [/us/usc/t46/s40902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs40902
-[/us/pl/109/304/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs7
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1541
 
 

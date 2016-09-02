@@ -131,7 +131,7 @@
 
         The Secretary may modify or waive any of the terms and conditions set forth in subsection (d) through the imposition of alternative service requirements.
 
-([Pub. L. 109–304, § 8(b)][/us/pl/109/304/s8/b], Oct. 6, 2006, [120 Stat. 1579][/us/stat/120/1579]; [Pub. L. 109–163, div. A, title V, § 515(g)(2)(A)][/us/pl/109/163/s515/g/2/A], Jan. 6, 2006, [119 Stat. 3236][/us/stat/119/3236]; [Pub. L. 109–364, div. C, title XXXV, § 3508][/us/pl/109/364/s3508], Oct. 17, 2006, [120 Stat. 2517][/us/stat/120/2517]; [Pub. L. 110–181, div. C, title XXXV][/us/pl/110/181], §§ 3523(a)(1), (b), 3526(d), (g), Jan. 28, 2008, [122 Stat. 598][/us/stat/122/598], 600, 602; [Pub. L. 110–417, div. C, title XXXV, § 3503][/us/pl/110/417/s3503], Oct. 14, 2008, [122 Stat. 4762][/us/stat/122/4762]; [Pub. L. 111–8, div. I, title I, § 177][/us/pl/111/8/s177], Mar. 11, 2009, [123 Stat. 944][/us/stat/123/944]; [Pub. L. 111–84, div. C, title XXXV, § 3507][/us/pl/111/84/s3507], Oct. 28, 2009, [123 Stat. 2721][/us/stat/123/2721]; [Pub. L. 114–92, div. C, title XXXV, § 3507][/us/pl/114/92/s3507], Nov. 25, 2015, [129 Stat. 1221][/us/stat/129/1221].)
+([Pub. L. 109–304][/us/pl/109/304], § 8(b), Oct. 6, 2006, [120 Stat. 1579][/us/stat/120/1579]; [Pub. L. 109–163, div. A, title V][/us/pl/109/163/dA/tV], § 515(g)(2)(A), Jan. 6, 2006, [119 Stat. 3236][/us/stat/119/3236]; [Pub. L. 109–364, div. C, title XXXV][/us/pl/109/364/dC/tXXXV], § 3508, Oct. 17, 2006, [120 Stat. 2517][/us/stat/120/2517]; [Pub. L. 110–181, div. C, title XXXV][/us/pl/110/181/dC/tXXXV], §§ 3523(a)(1), (b), 3526(d), (g), Jan. 28, 2008, [122 Stat. 598][/us/stat/122/598], 600, 602; [Pub. L. 110–417, div. C, title XXXV][/us/pl/110/417/dC/tXXXV], § 3503, Oct. 14, 2008, [122 Stat. 4762][/us/stat/122/4762]; [Pub. L. 111–8, div. I, title I][/us/pl/111/8/dI/tI], § 177, Mar. 11, 2009, [123 Stat. 944][/us/stat/123/944]; [Pub. L. 111–84, div. C, title XXXV][/us/pl/111/84/dC/tXXXV], § 3507, Oct. 28, 2009, [123 Stat. 2721][/us/stat/123/2721]; [Pub. L. 114–92, div. C, title XXXV][/us/pl/114/92/dC/tXXXV], § 3507, Nov. 25, 2015, [129 Stat. 1221][/us/stat/129/1221].)
 
 <table>
 
@@ -269,41 +269,41 @@ June 29, 1936, ch. 858, title XIII, § 1304(g)(1)–(5), (8), as added Pub. L.
 
  __Amendments__ 
 
-    2015—Subsec. (b). [Pub. L. 114–92, § 3507(1)][/us/pl/114/92/s3507/1], designated first sentence as par. (1) and last sentence as par. (3), inserted headings, and realigned margins; in par. (1), substituted “Except as provided in paragraph (2), payments” for “Payments”; and added par. (2).
+    2015—Subsec. (b). [Pub. L. 114–92][/us/pl/114/92], § 3507(1), designated first sentence as par. (1) and last sentence as par. (3), inserted headings, and realigned margins; in par. (1), substituted “Except as provided in paragraph (2), payments” for “Payments”; and added par. (2).
 
-    Subsec. (c). [Pub. L. 114–92, § 3507(2)][/us/pl/114/92/s3507/2], substituted “Strategic Sealift Officer Program” for “Merchant Marine Reserve”.
+    Subsec. (c). [Pub. L. 114–92][/us/pl/114/92], § 3507(2), substituted “Strategic Sealift Officer Program” for “Merchant Marine Reserve”.
 
-    Subsec. (d)(2). [Pub. L. 114–92, § 3507(3)(A)][/us/pl/114/92/s3507/3/A], amended par. (2) generally. Prior to amendment, par. (2) read as follows: “take the examination for a license as an officer in the merchant marine of the United States before graduation from the academy and fulfill the requirements for such a license within 3 months after graduation from the academy;”.
+    Subsec. (d)(2). [Pub. L. 114–92][/us/pl/114/92], § 3507(3)(A), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “take the examination for a license as an officer in the merchant marine of the United States before graduation from the academy and fulfill the requirements for such a license within 3 months after graduation from the academy;”.
 
-    Subsec. (d)(3). [Pub. L. 114–92, § 3507(3)(B)][/us/pl/114/92/s3507/3/B], amended par. (3) generally. Prior to amendment, par. (3) read as follows: “maintain a valid license as an officer in the merchant marine of the United States for at least 6 years after graduation from the academy, accompanied by the appropriate national and international endorsements and certification required by the Coast Guard for service aboard vessels on domestic and international voyages;”.
+    Subsec. (d)(3). [Pub. L. 114–92][/us/pl/114/92], § 3507(3)(B), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “maintain a valid license as an officer in the merchant marine of the United States for at least 6 years after graduation from the academy, accompanied by the appropriate national and international endorsements and certification required by the Coast Guard for service aboard vessels on domestic and international voyages;”.
 
-    Subsec. (d)(4). [Pub. L. 114–92, § 3507(3)(C)][/us/pl/114/92/s3507/3/C], amended par. (4) generally. Prior to amendment, par. (4) read as follows: “accept, if tendered, an appointment as a commissioned officer in the Navy Reserve (including the Merchant Marine Reserve, Navy Reserve), the Coast Guard Reserve, or any other reserve unit of an armed force of the United States, and, if tendered the appointment, to serve for at least 6 years after graduation from the academy;”.
+    Subsec. (d)(4). [Pub. L. 114–92][/us/pl/114/92], § 3507(3)(C), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “accept, if tendered, an appointment as a commissioned officer in the Navy Reserve (including the Merchant Marine Reserve, Navy Reserve), the Coast Guard Reserve, or any other reserve unit of an armed force of the United States, and, if tendered the appointment, to serve for at least 6 years after graduation from the academy;”.
 
-    Subsec. (e)(1). [Pub. L. 114–92, § 3507(4)][/us/pl/114/92/s3507/4], amended par. (1) generally. Prior to amendment, text read as follows: “If the Secretary of Transportation determines that an individual who has accepted the payments described in subsection (b) for a minimum of 2 academic years has failed to fulfill the part of the agreement described in subsection (d)(1), the individual may be ordered by the Secretary of Defense to serve on active duty in the armed forces of the United States for a period of not more than 2 years. In cases of hardship as determined by the Secretary of Transportation, the Secretary of Transportation may waive this paragraph in whole or in part.”
+    Subsec. (e)(1). [Pub. L. 114–92][/us/pl/114/92], § 3507(4), amended par. (1) generally. Prior to amendment, text read as follows: “If the Secretary of Transportation determines that an individual who has accepted the payments described in subsection (b) for a minimum of 2 academic years has failed to fulfill the part of the agreement described in subsection (d)(1), the individual may be ordered by the Secretary of Defense to serve on active duty in the armed forces of the United States for a period of not more than 2 years. In cases of hardship as determined by the Secretary of Transportation, the Secretary of Transportation may waive this paragraph in whole or in part.”
 
-    Subsec. (h). [Pub. L. 114–92, § 3507(5)][/us/pl/114/92/s3507/5], added subsec. (h).
+    Subsec. (h). [Pub. L. 114–92][/us/pl/114/92], § 3507(5), added subsec. (h).
 
-    2009—[Pub. L. 111–84, § 3507(a)][/us/pl/111/84/s3507/a], substituted “and be paid in such installments as the Secretary shall determine” for “and be paid before the start of each academic year, as prescribed by the Secretary,” and “academy, as prescribed by the Secretary.” for “academy.”.
+    2009—[Pub. L. 111–84][/us/pl/111/84], § 3507(a), substituted “and be paid in such installments as the Secretary shall determine” for “and be paid before the start of each academic year, as prescribed by the Secretary,” and “academy, as prescribed by the Secretary.” for “academy.”.
 
-    [Pub. L. 111–8, § 177][/us/pl/111/8/s177], which directed amendment identical to that made by [Pub. L. 110–417, § 3503(1)][/us/pl/110/417/s3503/1], (2), was repealed by [Pub. L. 111–84, § 3507(b)][/us/pl/111/84/s3507/b], with [Pub. L. 111–8, § 177][/us/pl/111/8/s177], to have no force or effect. See 2008 Amendment note below.
+    [Pub. L. 111–8][/us/pl/111/8], § 177, which directed amendment identical to that made by [Pub. L. 110–417][/us/pl/110/417], § 3503(1), (2), was repealed by [Pub. L. 111–84][/us/pl/111/84], § 3507(b), with [Pub. L. 111–8][/us/pl/111/8], § 177, to have no force or effect. See 2008 Amendment note below.
 
-    2008—[Pub. L. 110–181, § 3526(g)][/us/pl/110/181/s3526/g], repealed [Pub. L. 109–364, § 3508][/us/pl/109/364/s3508]. See 2006 Amendment note below.
+    2008—[Pub. L. 110–181][/us/pl/110/181], § 3526(g), repealed [Pub. L. 109–364][/us/pl/109/364], § 3508. See 2006 Amendment note below.
 
-    [Pub. L. 110–181, § 3523(b)][/us/pl/110/181/s3523/b], repealed [Pub. L. 109–163, § 515(g)(2)(A)][/us/pl/109/163/s515/g/2/A]. See 2006 Amendment note below.
+    [Pub. L. 110–181][/us/pl/110/181], § 3523(b), repealed [Pub. L. 109–163][/us/pl/109/163], § 515(g)(2)(A). See 2006 Amendment note below.
 
-    Subsec. (b). [Pub. L. 110–417, § 3503(3)][/us/pl/110/417/s3503/3], inserted “before the start of each academic year” after “and be paid”.
+    Subsec. (b). [Pub. L. 110–417][/us/pl/110/417], § 3503(3), inserted “before the start of each academic year” after “and be paid”.
 
-    [Pub. L. 110–417, § 3503(1)][/us/pl/110/417/s3503/1], (2), substituted “$8,000” for “$4,000” and inserted “tuition,” after “uniforms,”.
+    [Pub. L. 110–417][/us/pl/110/417], § 3503(1), (2), substituted “$8,000” for “$4,000” and inserted “tuition,” after “uniforms,”.
 
-    Subsec. (c). [Pub. L. 110–181, § 3526(d)][/us/pl/110/181/s3526/d], incorporated the substance of the amendments by [Pub. L. 109–364, § 3508][/us/pl/109/364/s3508], into this section by striking out “Midshipman and” before “Enlisted” in heading and “midshipman and” before “enlisted” in text and inserting “or the Coast Guard Reserve” after “Reserve)”. See 2006 Amendment note below and [section 18(a) of Pub. L. 109–304][/us/pl/109/304/s18/a], set out as a Legislative Purpose and Construction note preceding [section 101 of this title][/us/usc/t46/s101].
+    Subsec. (c). [Pub. L. 110–181][/us/pl/110/181], § 3526(d), incorporated the substance of the amendments by [Pub. L. 109–364][/us/pl/109/364], § 3508, into this section by striking out “Midshipman and” before “Enlisted” in heading and “midshipman and” before “enlisted” in text and inserting “or the Coast Guard Reserve” after “Reserve)”. See 2006 Amendment note below and [section 18(a) of Pub. L. 109–304][/us/pl/109/304/s18/a], set out as a Legislative Purpose and Construction note preceding [section 101 of this title][/us/usc/t46/s101].
 
-    [Pub. L. 110–181, § 3523(a)(1)][/us/pl/110/181/s3523/a/1], incorporated the substance of the amendments by [Pub. L. 109–163, § 515(g)(2)(A)][/us/pl/109/163/s515/g/2/A], into this section by substituting “Navy Reserve” for “Naval Reserve” in two places. See 2006 Amendment note below and [section 18(a) of Pub. L. 109–304][/us/pl/109/304/s18/a], set out as a Legislative Purpose and Construction note preceding [section 101 of this title][/us/usc/t46/s101].
+    [Pub. L. 110–181][/us/pl/110/181], § 3523(a)(1), incorporated the substance of the amendments by [Pub. L. 109–163][/us/pl/109/163], § 515(g)(2)(A), into this section by substituting “Navy Reserve” for “Naval Reserve” in two places. See 2006 Amendment note below and [section 18(a) of Pub. L. 109–304][/us/pl/109/304/s18/a], set out as a Legislative Purpose and Construction note preceding [section 101 of this title][/us/usc/t46/s101].
 
-    Subsec. (d)(4). [Pub. L. 110–181, § 3523(a)(1)][/us/pl/110/181/s3523/a/1], incorporated the substance of the amendments by [Pub. L. 109–163, § 515(g)(2)(A)][/us/pl/109/163/s515/g/2/A], into this section by substituting “Navy Reserve” for “Naval Reserve” in two places. See 2006 Amendment note below and [section 18(a) of Pub. L. 109–304][/us/pl/109/304/s18/a], set out as a Legislative Purpose and Construction note preceding [section 101 of this title][/us/usc/t46/s101].
+    Subsec. (d)(4). [Pub. L. 110–181][/us/pl/110/181], § 3523(a)(1), incorporated the substance of the amendments by [Pub. L. 109–163][/us/pl/109/163], § 515(g)(2)(A), into this section by substituting “Navy Reserve” for “Naval Reserve” in two places. See 2006 Amendment note below and [section 18(a) of Pub. L. 109–304][/us/pl/109/304/s18/a], set out as a Legislative Purpose and Construction note preceding [section 101 of this title][/us/usc/t46/s101].
 
-    2006—[Pub. L. 109–364, § 3508][/us/pl/109/364/s3508], which directed the amendment of section 1295c(g)(2) of the former Appendix to this title from which subsec. (c) of this section was derived, was repealed by [Pub. L. 110–181, § 3526(g)][/us/pl/110/181/s3526/g]. See 2008 Amendment note for subsec. (c) and Historical and Revision notes above.
+    2006—[Pub. L. 109–364][/us/pl/109/364], § 3508, which directed the amendment of section 1295c(g)(2) of the former Appendix to this title from which subsec. (c) of this section was derived, was repealed by [Pub. L. 110–181][/us/pl/110/181], § 3526(g). See 2008 Amendment note for subsec. (c) and Historical and Revision notes above.
 
-    [Pub. L. 109–163, § 515(g)(2)(A)][/us/pl/109/163/s515/g/2/A], which directed the amendment of section 1295c of the former Appendix to this title from which this section was derived, was repealed by [Pub. L. 110–181, § 3523(b)][/us/pl/110/181/s3523/b]. See 2008 Amendment notes for subsecs. (c) and (d)(4) and Historical and Revision notes above.
+    [Pub. L. 109–163][/us/pl/109/163], § 515(g)(2)(A), which directed the amendment of section 1295c of the former Appendix to this title from which this section was derived, was repealed by [Pub. L. 110–181][/us/pl/110/181], § 3523(b). See 2008 Amendment notes for subsecs. (c) and (d)(4) and Historical and Revision notes above.
 
 ----------
 
@@ -313,55 +313,55 @@ June 29, 1936, ch. 858, title XIII, § 1304(g)(1)–(5), (8), as added Pub. L.
 ----------
 
 [/us/usc/t46/s51505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs51505
-[/us/pl/109/304/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs8%2Fb
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1579]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1579
-[/us/pl/109/163/s515/g/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs515%2Fg%2F2%2FA
+[/us/pl/109/163/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtV
 [/us/stat/119/3236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3236
-[/us/pl/109/364/s3508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs3508
+[/us/pl/109/364/dC/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdC%2FtXXXV
 [/us/stat/120/2517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2517
-[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
+[/us/pl/110/181/dC/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdC%2FtXXXV
 [/us/stat/122/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F598
-[/us/pl/110/417/s3503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417%2Fs3503
+[/us/pl/110/417/dC/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417%2FdC%2FtXXXV
 [/us/stat/122/4762]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4762
-[/us/pl/111/8/s177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F8%2Fs177
+[/us/pl/111/8/dI/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F8%2FdI%2FtI
 [/us/stat/123/944]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F944
-[/us/pl/111/84/s3507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs3507
+[/us/pl/111/84/dC/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdC%2FtXXXV
 [/us/stat/123/2721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2721
-[/us/pl/114/92/s3507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs3507
+[/us/pl/114/92/dC/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdC%2FtXXXV
 [/us/stat/129/1221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1221
-[/us/pl/114/92/s3507/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs3507%2F1
-[/us/pl/114/92/s3507/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs3507%2F2
-[/us/pl/114/92/s3507/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs3507%2F3%2FA
-[/us/pl/114/92/s3507/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs3507%2F3%2FB
-[/us/pl/114/92/s3507/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs3507%2F3%2FC
-[/us/pl/114/92/s3507/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs3507%2F4
-[/us/pl/114/92/s3507/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs3507%2F5
-[/us/pl/111/84/s3507/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs3507%2Fa
-[/us/pl/111/8/s177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F8%2Fs177
-[/us/pl/110/417/s3503/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417%2Fs3503%2F1
-[/us/pl/111/84/s3507/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs3507%2Fb
-[/us/pl/111/8/s177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F8%2Fs177
-[/us/pl/110/181/s3526/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs3526%2Fg
-[/us/pl/109/364/s3508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs3508
-[/us/pl/110/181/s3523/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs3523%2Fb
-[/us/pl/109/163/s515/g/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs515%2Fg%2F2%2FA
-[/us/pl/110/417/s3503/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417%2Fs3503%2F3
-[/us/pl/110/417/s3503/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417%2Fs3503%2F1
-[/us/pl/110/181/s3526/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs3526%2Fd
-[/us/pl/109/364/s3508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs3508
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
+[/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
+[/us/pl/111/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F8
+[/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
+[/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
+[/us/pl/111/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F8
+[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
+[/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
+[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
+[/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
+[/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
+[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
+[/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
 [/us/pl/109/304/s18/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs18%2Fa
 [/us/usc/t46/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs101
-[/us/pl/110/181/s3523/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs3523%2Fa%2F1
-[/us/pl/109/163/s515/g/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs515%2Fg%2F2%2FA
+[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
 [/us/pl/109/304/s18/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs18%2Fa
 [/us/usc/t46/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs101
-[/us/pl/110/181/s3523/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs3523%2Fa%2F1
-[/us/pl/109/163/s515/g/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs515%2Fg%2F2%2FA
+[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
 [/us/pl/109/304/s18/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs18%2Fa
 [/us/usc/t46/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs101
-[/us/pl/109/364/s3508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs3508
-[/us/pl/110/181/s3526/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs3526%2Fg
-[/us/pl/109/163/s515/g/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs515%2Fg%2F2%2FA
-[/us/pl/110/181/s3523/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs3523%2Fb
+[/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
+[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
+[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
 
 

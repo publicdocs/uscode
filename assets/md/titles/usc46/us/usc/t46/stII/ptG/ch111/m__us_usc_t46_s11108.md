@@ -33,7 +33,7 @@
 
             (B) who performs regularly assigned duties while engaged as a master, officer, or crewman on a vessel operating on navigable waters in 2 or more States.
 
-([Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 580][/us/stat/97/580]; [Pub. L. 98–364, title IV, § 402(14)][/us/pl/98/364/s402/14], July 17, 1984, [98 Stat. 450][/us/stat/98/450]; [Pub. L. 106–489, § 1][/us/pl/106/489/s1], Nov. 9, 2000, [114 Stat. 2207][/us/stat/114/2207]; [Pub. L. 111–281, title IX, § 906][/us/pl/111/281/s906], Oct. 15, 2010, [124 Stat. 3012][/us/stat/124/3012].)
+([Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 580][/us/stat/97/580]; [Pub. L. 98–364, title IV][/us/pl/98/364/tIV], § 402(14), July 17, 1984, [98 Stat. 450][/us/stat/98/450]; [Pub. L. 106–489][/us/pl/106/489], § 1, Nov. 9, 2000, [114 Stat. 2207][/us/stat/114/2207]; [Pub. L. 111–281, title IX][/us/pl/111/281/tIX], § 906, Oct. 15, 2010, [124 Stat. 3012][/us/stat/124/3012].)
 
 <table>
 
@@ -91,11 +91,11 @@ Source section (U.S. Code)  </td>
 [/us/usc/t46/s7101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs7101
 [/us/pl/98/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F89
 [/us/stat/97/580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F580
-[/us/pl/98/364/s402/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F364%2Fs402%2F14
+[/us/pl/98/364/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F364%2FtIV
 [/us/stat/98/450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F450
-[/us/pl/106/489/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F489%2Fs1
+[/us/pl/106/489]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F489
 [/us/stat/114/2207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2207
-[/us/pl/111/281/s906]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs906
+[/us/pl/111/281/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2FtIX
 [/us/stat/124/3012]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3012
 [/us/pl/111/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281
 [/us/pl/106/489]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F489

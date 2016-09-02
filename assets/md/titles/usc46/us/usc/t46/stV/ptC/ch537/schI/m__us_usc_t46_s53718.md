@@ -31,7 +31,7 @@
 
     (7) a profile of any defaults since the last report.
 
-([Pub. L. 109–304, § 8(c)][/us/pl/109/304/s8/c], Oct. 6, 2006, [120 Stat. 1617][/us/stat/120/1617]; [Pub. L. 109–163, div. C, title XXXV, § 3507(c)(3)][/us/pl/109/163/s3507/c/3], Jan. 6, 2006, [119 Stat. 3556][/us/stat/119/3556]; [Pub. L. 110–181, div. C, title XXXV, § 3522(a)(9)(C)][/us/pl/110/181/s3522/a/9/C], (b), Jan. 28, 2008, [122 Stat. 598][/us/stat/122/598].)
+([Pub. L. 109–304][/us/pl/109/304], § 8(c), Oct. 6, 2006, [120 Stat. 1617][/us/stat/120/1617]; [Pub. L. 109–163, div. C, title XXXV][/us/pl/109/163/dC/tXXXV], § 3507(c)(3), Jan. 6, 2006, [119 Stat. 3556][/us/stat/119/3556]; [Pub. L. 110–181, div. C, title XXXV][/us/pl/110/181/dC/tXXXV], § 3522(a)(9)(C), (b), Jan. 28, 2008, [122 Stat. 598][/us/stat/122/598].)
 
 <table>
 
@@ -81,11 +81,11 @@ Pub. L. 108–136, title XXXV, § 3527, Nov. 24, 2003, 117 Stat. 1802.  </td>
 
  __Amendments__ 
 
-    2008—[Pub. L. 110–181, § 3522(b)][/us/pl/110/181/s3522/b], repealed [Pub. L. 109–163, § 3507(c)(3)][/us/pl/109/163/s3507/c/3]. See 2006 Amendment note below.
+    2008—[Pub. L. 110–181][/us/pl/110/181], § 3522(b), repealed [Pub. L. 109–163][/us/pl/109/163], § 3507(c)(3). See 2006 Amendment note below.
 
-    [Pub. L. 110–181, § 3522(a)(9)(C)][/us/pl/110/181/s3522/a/9/C], incorporated the substance of the amendment by [Pub. L. 109–163, § 3507(c)(3)][/us/pl/109/163/s3507/c/3], into this section by substituting “Administrator” for “Secretary of Transportation” in introductory provisions. See 2006 Amendment note below and [section 18(a) of Pub. L. 109–304][/us/pl/109/304/s18/a], set out as a Legislative Purpose and Construction note preceding [section 101 of this title][/us/usc/t46/s101].
+    [Pub. L. 110–181][/us/pl/110/181], § 3522(a)(9)(C), incorporated the substance of the amendment by [Pub. L. 109–163][/us/pl/109/163], § 3507(c)(3), into this section by substituting “Administrator” for “Secretary of Transportation” in introductory provisions. See 2006 Amendment note below and [section 18(a) of Pub. L. 109–304][/us/pl/109/304/s18/a], set out as a Legislative Purpose and Construction note preceding [section 101 of this title][/us/usc/t46/s101].
 
-    2006—[Pub. L. 109–163, § 3507(c)(3)][/us/pl/109/163/s3507/c/3], which directed the amendment of section 1280b of the former Appendix to this title from which this section was derived, was repealed by [Pub. L. 110–181, § 3522(b)][/us/pl/110/181/s3522/b]. See 2008 Amendment notes and Historical and Revision notes above.
+    2006—[Pub. L. 109–163][/us/pl/109/163], § 3507(c)(3), which directed the amendment of section 1280b of the former Appendix to this title from which this section was derived, was repealed by [Pub. L. 110–181][/us/pl/110/181], § 3522(b). See 2008 Amendment notes and Historical and Revision notes above.
 
 ----------
 
@@ -94,19 +94,19 @@ Pub. L. 108–136, title XXXV, § 3527, Nov. 24, 2003, 117 Stat. 1802.  </td>
 ----------
 ----------
 
-[/us/pl/109/304/s8/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs8%2Fc
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1617]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1617
-[/us/pl/109/163/s3507/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs3507%2Fc%2F3
+[/us/pl/109/163/dC/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdC%2FtXXXV
 [/us/stat/119/3556]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3556
-[/us/pl/110/181/s3522/a/9/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs3522%2Fa%2F9%2FC
+[/us/pl/110/181/dC/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdC%2FtXXXV
 [/us/stat/122/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F598
-[/us/pl/110/181/s3522/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs3522%2Fb
-[/us/pl/109/163/s3507/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs3507%2Fc%2F3
-[/us/pl/110/181/s3522/a/9/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs3522%2Fa%2F9%2FC
-[/us/pl/109/163/s3507/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs3507%2Fc%2F3
+[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
+[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
 [/us/pl/109/304/s18/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs18%2Fa
 [/us/usc/t46/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs101
-[/us/pl/109/163/s3507/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs3507%2Fc%2F3
-[/us/pl/110/181/s3522/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs3522%2Fb
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
+[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
 
 

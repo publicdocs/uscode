@@ -49,7 +49,7 @@
 
         This subsection does not apply when a vessel is forfeited or sold by order of a district court of the United States.
 
-([Pub. L. 109–304, § 5][/us/pl/109/304/s5], Oct. 6, 2006, [120 Stat. 1506][/us/stat/120/1506].)
+([Pub. L. 109–304][/us/pl/109/304], § 5, Oct. 6, 2006, [120 Stat. 1506][/us/stat/120/1506].)
 
 <table>
 
@@ -169,7 +169,7 @@ Source (Statutes at Large)  </td>
 
  __Documentation Surrender and Invalidation__ 
 
-[Pub. L. 101–225, title III, § 301(b)][/us/pl/101/225/s301/b], Dec. 12, 1989, [103 Stat. 1922][/us/stat/103/1922], provided that: 
+[Pub. L. 101–225, title III][/us/pl/101/225/tIII], § 301(b), Dec. 12, 1989, [103 Stat. 1922][/us/stat/103/1922], provided that: 
 
 > “Section 12111(c)(3) \[now section 12136(b)(2)\] of title 46, United States Code, does not apply to a mortgage that—
 
@@ -186,9 +186,9 @@ Source (Statutes at Large)  </td>
 
 [/us/usc/t46/s31321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs31321
 [/us/usc/t46/s31343/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs31343%2Fa
-[/us/pl/109/304/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs5
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1506
-[/us/pl/101/225/s301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F225%2Fs301%2Fb
+[/us/pl/101/225/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F225%2FtIII
 [/us/stat/103/1922]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1922
 
 

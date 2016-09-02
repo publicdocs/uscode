@@ -67,7 +67,7 @@
 
     The Secretary may not establish, as a condition of eligibility for a guarantee under this chapter, a minimum principal amount for an obligation covering the reconstruction or reconditioning of a fishing vessel or fishery facility. For purposes of this chapter, the reconstruction or reconditioning of a fishing vessel or fishery facility does not include the routine minor repair or maintenance of the vessel or facility.
 
-([Pub. L. 109–304, § 8(c)][/us/pl/109/304/s8/c], Oct. 6, 2006, [120 Stat. 1609][/us/stat/120/1609]; [Pub. L. 109–163, div. C, title XXXV, § 3507(a)(1)(C)][/us/pl/109/163/s3507/a/1/C], (D), Jan. 6, 2006, [119 Stat. 3555][/us/stat/119/3555]; [Pub. L. 110–181, div. C, title XXXV, § 3522(a)(10)(B)][/us/pl/110/181/s3522/a/10/B], (b), Jan. 28, 2008, [122 Stat. 598][/us/stat/122/598].)
+([Pub. L. 109–304][/us/pl/109/304], § 8(c), Oct. 6, 2006, [120 Stat. 1609][/us/stat/120/1609]; [Pub. L. 109–163, div. C, title XXXV][/us/pl/109/163/dC/tXXXV], § 3507(a)(1)(C), (D), Jan. 6, 2006, [119 Stat. 3555][/us/stat/119/3555]; [Pub. L. 110–181, div. C, title XXXV][/us/pl/110/181/dC/tXXXV], § 3522(a)(10)(B), (b), Jan. 28, 2008, [122 Stat. 598][/us/stat/122/598].)
 
 <table>
 
@@ -183,11 +183,11 @@ June 29, 1936, ch. 858, title XI, § 1104A(i), as added Pub. L. 103–160, div
 
  __Amendments__ 
 
-    2008—[Pub. L. 110–181, § 3522(b)][/us/pl/110/181/s3522/b], repealed [Pub. L. 109–163, § 3507(a)(1)(C)][/us/pl/109/163/s3507/a/1/C], (D). See 2006 Amendment note below.
+    2008—[Pub. L. 110–181][/us/pl/110/181], § 3522(b), repealed [Pub. L. 109–163][/us/pl/109/163], § 3507(a)(1)(C), (D). See 2006 Amendment note below.
 
-    Subsecs. (a)(1), (b)(1), (2)(A), (d). [Pub. L. 110–181, § 3522(a)(10)(B)][/us/pl/110/181/s3522/a/10/B], incorporated the substance of the amendment by [Pub. L. 109–163, § 3507(a)(1)(C)][/us/pl/109/163/s3507/a/1/C], (D), into this section by inserting “or Administrator” after “Secretary”. See 2006 Amendment note below and [section 18(a) of Pub. L. 109–304][/us/pl/109/304/s18/a], set out as a Legislative Purpose and Construction note preceding [section 101 of this title][/us/usc/t46/s101].
+    Subsecs. (a)(1), (b)(1), (2)(A), (d). [Pub. L. 110–181][/us/pl/110/181], § 3522(a)(10)(B), incorporated the substance of the amendment by [Pub. L. 109–163][/us/pl/109/163], § 3507(a)(1)(C), (D), into this section by inserting “or Administrator” after “Secretary”. See 2006 Amendment note below and [section 18(a) of Pub. L. 109–304][/us/pl/109/304/s18/a], set out as a Legislative Purpose and Construction note preceding [section 101 of this title][/us/usc/t46/s101].
 
-    2006—[Pub. L. 109–163, § 3507(a)(1)(C)][/us/pl/109/163/s3507/a/1/C], (D), which directed the amendment of sections 1273(c) and 1274(b)(2), (c)(1), (i) of the former Appendix to this title from which this section was derived in part, was repealed by [Pub. L. 110–181, § 3522(b)][/us/pl/110/181/s3522/b]. See 2008 Amendment note for subsecs. (a)(1), (b)(1), (2)(A), (d) and Historical and Revision notes above.
+    2006—[Pub. L. 109–163][/us/pl/109/163], § 3507(a)(1)(C), (D), which directed the amendment of sections 1273(c) and 1274(b)(2), (c)(1), (i) of the former Appendix to this title from which this section was derived in part, was repealed by [Pub. L. 110–181][/us/pl/110/181], § 3522(b). See 2008 Amendment note for subsecs. (a)(1), (b)(1), (2)(A), (d) and Historical and Revision notes above.
 
 ----------
 
@@ -197,22 +197,22 @@ June 29, 1936, ch. 858, title XI, § 1104A(i), as added Pub. L. 103–160, div
 ----------
 
 [/us/usc/t46/s53715]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs53715
-[/us/pl/109/304/s8/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs8%2Fc
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1609
-[/us/pl/109/163/s3507/a/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs3507%2Fa%2F1%2FC
+[/us/pl/109/163/dC/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdC%2FtXXXV
 [/us/stat/119/3555]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3555
-[/us/pl/110/181/s3522/a/10/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs3522%2Fa%2F10%2FB
+[/us/pl/110/181/dC/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdC%2FtXXXV
 [/us/stat/122/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F598
 [/us/act/1936-06-29/ch858]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-06-29%2Fch858
 [/us/stat/49/1985]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F1985
 [/us/usc/t46/s53101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs53101
-[/us/pl/110/181/s3522/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs3522%2Fb
-[/us/pl/109/163/s3507/a/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs3507%2Fa%2F1%2FC
-[/us/pl/110/181/s3522/a/10/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs3522%2Fa%2F10%2FB
-[/us/pl/109/163/s3507/a/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs3507%2Fa%2F1%2FC
+[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
+[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
 [/us/pl/109/304/s18/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs18%2Fa
 [/us/usc/t46/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs101
-[/us/pl/109/163/s3507/a/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs3507%2Fa%2F1%2FC
-[/us/pl/110/181/s3522/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs3522%2Fb
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
+[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
 
 

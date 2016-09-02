@@ -17,7 +17,7 @@
 
     Unless otherwise authorized by the Secretary of Transportation, a vessel purchased, chartered, or leased from the Secretary may be operated only under a certificate of documentation with a registry or coastwise endorsement. Such a vessel, while employed solely as a merchant vessel, is subject to the laws, regulations, and liabilities governing merchant vessels, whether the United States Government has an interest in the vessel as an owner or holds a mortgage, lien, or other interest.
 
-([Pub. L. 109–304, § 8(c)][/us/pl/109/304/s8/c], Oct. 6, 2006, [120 Stat. 1661][/us/stat/120/1661].)
+([Pub. L. 109–304][/us/pl/109/304], § 8(c), Oct. 6, 2006, [120 Stat. 1661][/us/stat/120/1661].)
 
 <table>
 
@@ -74,7 +74,7 @@ Sept. 7, 1916, ch. 451, § 9(b), 39 Stat. 730; July 15, 1918, ch. 152, § 3,
 ----------
 ----------
 
-[/us/pl/109/304/s8/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs8%2Fc
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1661
 
 

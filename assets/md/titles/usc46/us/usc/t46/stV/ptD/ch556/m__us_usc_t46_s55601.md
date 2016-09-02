@@ -89,21 +89,21 @@
 
         An applicant shall provide at least 20 percent of the project costs from non-Federal sources. In awarding grants under the program, the Secretary shall give a preference to those projects or components that present the most financially viable transportation services and require the lowest percentage Federal share of the costs.
 
-(Added [Pub. L. 110–140, title XI, § 1121(a)][/us/pl/110/140/s1121/a], Dec. 19, 2007, [121 Stat. 1760][/us/stat/121/1760]; amended [Pub. L. 111–84, div. C, title XXXV, § 3515][/us/pl/111/84/s3515], Oct. 28, 2009, [123 Stat. 2724][/us/stat/123/2724]; [Pub. L. 112–213, title IV, § 405(a)][/us/pl/112/213/s405/a], Dec. 20, 2012, [126 Stat. 1571][/us/stat/126/1571].)
+(Added [Pub. L. 110–140, title XI][/us/pl/110/140/tXI], § 1121(a), Dec. 19, 2007, [121 Stat. 1760][/us/stat/121/1760]; amended [Pub. L. 111–84, div. C, title XXXV][/us/pl/111/84/dC/tXXXV], § 3515, Oct. 28, 2009, [123 Stat. 2724][/us/stat/123/2724]; [Pub. L. 112–213, title IV][/us/pl/112/213/tIV], § 405(a), Dec. 20, 2012, [126 Stat. 1571][/us/stat/126/1571].)
 
  __Amendments__ 
 
-    2012—Subsec. (a). [Pub. L. 112–213, § 405(a)(1)][/us/pl/112/213/s405/a/1], substituted “landside congestion or to promote short sea transportation.” for “landside congestion.”
+    2012—Subsec. (a). [Pub. L. 112–213][/us/pl/112/213], § 405(a)(1), substituted “landside congestion or to promote short sea transportation.” for “landside congestion.”
 
-    Subsec. (c). [Pub. L. 112–213, § 405(a)(2)][/us/pl/112/213/s405/a/2], substituted “coastal corridors or to promote short sea transportation” for “coastal corridors”.
+    Subsec. (c). [Pub. L. 112–213][/us/pl/112/213], § 405(a)(2), substituted “coastal corridors or to promote short sea transportation” for “coastal corridors”.
 
-    Subsec. (d). [Pub. L. 112–213, § 405(a)(3)][/us/pl/112/213/s405/a/3], substituted “that the project uses documented vessels and—” for “that the project may—” in introductory provisions, added pars. (1) and (2), and struck out former pars. (1) and (2) which read as follows:
+    Subsec. (d). [Pub. L. 112–213][/us/pl/112/213], § 405(a)(3), substituted “that the project uses documented vessels and—” for “that the project may—” in introductory provisions, added pars. (1) and (2), and struck out former pars. (1) and (2) which read as follows:
 
     “(1) offer a waterborne alternative to available landside transportation services using documented vessels; and
 
     “(2) provide transportation services for passengers or freight (or both) that may reduce congestion on landside infrastructure using documented vessels.”
 
-    Subsec. (f). [Pub. L. 112–213, § 405(a)(4)][/us/pl/112/213/s405/a/4], substituted “may” for “shall” in two places in introductory provisions.
+    Subsec. (f). [Pub. L. 112–213][/us/pl/112/213], § 405(a)(4), substituted “may” for “shall” in two places in introductory provisions.
 
     2009—Subsec. (g). [Pub. L. 111–84][/us/pl/111/84] added subsec. (g).
 
@@ -113,7 +113,7 @@
 
  __Regulations__ 
 
-[Pub. L. 110–140, title XI, § 1121(c)][/us/pl/110/140/s1121/c], Dec. 19, 2007, [121 Stat. 1762][/us/stat/121/1762], provided that:
+[Pub. L. 110–140, title XI][/us/pl/110/140/tXI], § 1121(c), Dec. 19, 2007, [121 Stat. 1762][/us/stat/121/1762], provided that:
 
 >     “(1)  __Interim regulations__  __.—__ 
 
@@ -130,20 +130,20 @@
 ----------
 ----------
 
-[/us/pl/110/140/s1121/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs1121%2Fa
+[/us/pl/110/140/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2FtXI
 [/us/stat/121/1760]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1760
-[/us/pl/111/84/s3515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs3515
+[/us/pl/111/84/dC/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdC%2FtXXXV
 [/us/stat/123/2724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2724
-[/us/pl/112/213/s405/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F213%2Fs405%2Fa
+[/us/pl/112/213/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F213%2FtIV
 [/us/stat/126/1571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1571
-[/us/pl/112/213/s405/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F213%2Fs405%2Fa%2F1
-[/us/pl/112/213/s405/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F213%2Fs405%2Fa%2F2
-[/us/pl/112/213/s405/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F213%2Fs405%2Fa%2F3
-[/us/pl/112/213/s405/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F213%2Fs405%2Fa%2F4
+[/us/pl/112/213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F213
+[/us/pl/112/213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F213
+[/us/pl/112/213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F213
+[/us/pl/112/213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F213
 [/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
 [/us/pl/110/140/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs1601
 [/us/usc/t2/s1824]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1824
-[/us/pl/110/140/s1121/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs1121%2Fc
+[/us/pl/110/140/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2FtXI
 [/us/stat/121/1762]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1762
 
 

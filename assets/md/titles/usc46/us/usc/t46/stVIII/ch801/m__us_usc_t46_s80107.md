@@ -31,7 +31,7 @@
 
     This section does not apply to a vessel of war or a vessel owned by the United States Government appropriated only to a public service.
 
-([Pub. L. 109–304, § 11][/us/pl/109/304/s11], Oct. 6, 2006, [120 Stat. 1691][/us/stat/120/1691].)
+([Pub. L. 109–304][/us/pl/109/304], § 11, Oct. 6, 2006, [120 Stat. 1691][/us/stat/120/1691].)
 
 <table>
 
@@ -132,7 +132,7 @@ Aug. 1, 1912, ch. 268, §§ 1, 3–5, 37 Stat. 242; Pub. L. 102–241, § 40
 ----------
 ----------
 
-[/us/pl/109/304/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs11
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1691
 [/us/usc/t46/s2304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs2304
 

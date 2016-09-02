@@ -17,7 +17,7 @@
 
     If a vessel to which this chapter applies is operated in violation of this chapter or a regulation prescribed under this chapter, the owner, charterer, managing operator, agent, master, and individual in charge are each liable to the United States Government for a civil penalty of not more than $5,000. The vessel also is liable in rem for the penalty.
 
-([Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 529][/us/stat/97/529]; [Pub. L. 100–540, § 3][/us/pl/100/540/s3], Oct. 28, 1988, [102 Stat. 2719][/us/stat/102/2719].)
+([Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 529][/us/stat/97/529]; [Pub. L. 100–540][/us/pl/100/540], § 3, Oct. 28, 1988, [102 Stat. 2719][/us/stat/102/2719].)
 
 <table>
 
@@ -70,7 +70,7 @@ Source section (U.S. Code)  </td>
 
 [/us/pl/98/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F89
 [/us/stat/97/529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F529
-[/us/pl/100/540/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F540%2Fs3
+[/us/pl/100/540]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F540
 [/us/stat/102/2719]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2719
 [/us/pl/100/540]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F540
 

@@ -35,7 +35,7 @@
 
     The Commission shall make a written report of every investigation under this part in which a hearing was held, stating its conclusions, decisions, findings of fact, and order. The Commission shall provide a copy of the report to all parties and publish the report for public information. A published report is competent evidence in a court of the United States.
 
-([Pub. L. 109–304, § 7][/us/pl/109/304/s7], Oct. 6, 2006, [120 Stat. 1545][/us/stat/120/1545].)
+([Pub. L. 109–304][/us/pl/109/304], § 7, Oct. 6, 2006, [120 Stat. 1545][/us/stat/120/1545].)
 
 <table>
 
@@ -147,7 +147,7 @@ Pub. L. 98–237, § 11(c)–(f), Mar. 20, 1984, 98 Stat. 80.  </td>
 ----------
 
 [/us/usc/t46/s41301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs41301
-[/us/pl/109/304/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs7
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1545]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1545
 
 

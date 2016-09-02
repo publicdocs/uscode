@@ -17,7 +17,7 @@
 
     Except as provided in chapter 37 and [section 3505 of this title][/us/usc/t46/s3505], a foreign vessel of a country having inspection laws and standards similar to those of the United States and that has an unexpired certificate of inspection issued by proper authority of its respective country, is subject to an inspection to ensure that the condition of the vessel is as stated in its current certificate of inspection. A foreign country is considered to have inspection laws and standards similar to those of the United States when it is a party to an International Convention for Safety of Life at Sea to which the United States Government is currently a party. A foreign certificate of inspection may be accepted as evidence of lawful inspection only when presented by a vessel of a country that has by its laws accorded to vessels of the United States visiting that country the same privileges accorded to vessels of that country visiting the United States.
 
-([Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 512][/us/stat/97/512]; [Pub. L. 102–587, title V, § 5210(a)][/us/pl/102/587/s5210/a], Nov. 4, 1992, [106 Stat. 5076][/us/stat/106/5076]; [Pub. L. 104–324, title XI, § 1111][/us/pl/104/324/s1111], Oct. 19, 1996, [110 Stat. 3970][/us/stat/110/3970]; [Pub. L. 108–293, title IV, § 411(b)][/us/pl/108/293/s411/b], Aug. 9, 2004, [118 Stat. 1046][/us/stat/118/1046].)
+([Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 512][/us/stat/97/512]; [Pub. L. 102–587, title V][/us/pl/102/587/tV], § 5210(a), Nov. 4, 1992, [106 Stat. 5076][/us/stat/106/5076]; [Pub. L. 104–324, title XI][/us/pl/104/324/tXI], § 1111, Oct. 19, 1996, [110 Stat. 3970][/us/stat/110/3970]; [Pub. L. 108–293, title IV][/us/pl/108/293/tIV], § 411(b), Aug. 9, 2004, [118 Stat. 1046][/us/stat/118/1046].)
 
 <table>
 
@@ -83,11 +83,11 @@ Source section (U.S. Code)  </td>
 [/us/usc/t46/s3505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs3505
 [/us/pl/98/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F89
 [/us/stat/97/512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F512
-[/us/pl/102/587/s5210/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F587%2Fs5210%2Fa
+[/us/pl/102/587/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F587%2FtV
 [/us/stat/106/5076]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F5076
-[/us/pl/104/324/s1111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2Fs1111
+[/us/pl/104/324/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2FtXI
 [/us/stat/110/3970]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3970
-[/us/pl/108/293/s411/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293%2Fs411%2Fb
+[/us/pl/108/293/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293%2FtIV
 [/us/stat/118/1046]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1046
 [/us/pl/108/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293
 [/us/pl/104/324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324

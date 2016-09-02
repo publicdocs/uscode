@@ -35,7 +35,7 @@
 
     In a claim for personal injury or death, the privity or knowledge of the master or the owner’s superintendent or managing agent, at or before the beginning of each voyage, is imputed to the owner.
 
-([Pub. L. 109–304, § 6(c)][/us/pl/109/304/s6/c], Oct. 6, 2006, [120 Stat. 1513][/us/stat/120/1513].)
+([Pub. L. 109–304][/us/pl/109/304], § 6(c), Oct. 6, 2006, [120 Stat. 1513][/us/stat/120/1513].)
 
 <table>
 
@@ -159,7 +159,7 @@ R.S. § 4283(c)–(f) (related to R.S. § 4283(b)–(e)); Aug. 29, 1935, ch.
 ----------
 
 [/us/usc/t46/s30505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs30505
-[/us/pl/109/304/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs6%2Fc
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1513
 
 

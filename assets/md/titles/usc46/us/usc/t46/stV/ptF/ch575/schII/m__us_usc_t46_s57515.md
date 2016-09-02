@@ -31,7 +31,7 @@
 
     On request of a bidder, the reason for rejection shall be stated in writing to the bidder.
 
-([Pub. L. 109–304, § 8(c)][/us/pl/109/304/s8/c], Oct. 6, 2006, [120 Stat. 1667][/us/stat/120/1667].)
+([Pub. L. 109–304][/us/pl/109/304], § 8(c), Oct. 6, 2006, [120 Stat. 1667][/us/stat/120/1667].)
 
 <table>
 
@@ -103,7 +103,7 @@ June 29, 1936, ch. 858, title VII, §§ 706(b) (1st sentence related to author
 ----------
 
 [/us/usc/t46/s57514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs57514
-[/us/pl/109/304/s8/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs8%2Fc
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1667]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1667
 [/us/usc/t46/s57514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs57514
 

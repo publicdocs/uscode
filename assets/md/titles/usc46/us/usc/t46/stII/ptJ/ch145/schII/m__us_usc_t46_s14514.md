@@ -17,7 +17,7 @@
 
     For a foreign vessel not measured under chapter 143, if the Secretary finds that the laws and regulations of a foreign country related to measurement of vessels are substantially similar to those of this chapter and the regulations prescribed under this chapter, the Secretary may accept the measurement and certificate of a vessel of that foreign country as complying with this chapter and the regulations prescribed under this chapter.
 
-(Added [Pub. L. 111–281, title III, § 303(i)][/us/pl/111/281/s303/i], Oct. 15, 2010, [124 Stat. 2925][/us/stat/124/2925].)
+(Added [Pub. L. 111–281, title III][/us/pl/111/281/tIII], § 303(i), Oct. 15, 2010, [124 Stat. 2925][/us/stat/124/2925].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/111/281/s303/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs303%2Fi
+[/us/pl/111/281/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2FtIII
 [/us/stat/124/2925]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2925
 
 

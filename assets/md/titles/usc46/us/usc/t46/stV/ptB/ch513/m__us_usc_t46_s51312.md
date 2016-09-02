@@ -203,7 +203,7 @@
 
             (C) the Committee on Armed Services of the House of Representatives.
 
-([Pub. L. 109–304, § 8(b)][/us/pl/109/304/s8/b], Oct. 6, 2006, [120 Stat. 1575][/us/stat/120/1575]; [Pub. L. 113–291, div. C, title XXXV, § 3504(a)][/us/pl/113/291/s3504/a], Dec. 19, 2014, [128 Stat. 3905][/us/stat/128/3905].)
+([Pub. L. 109–304][/us/pl/109/304], § 8(b), Oct. 6, 2006, [120 Stat. 1575][/us/stat/120/1575]; [Pub. L. 113–291, div. C, title XXXV][/us/pl/113/291/dC/tXXXV], § 3504(a), Dec. 19, 2014, [128 Stat. 3905][/us/stat/128/3905].)
 
 <table>
 
@@ -259,7 +259,7 @@ June 29, 1936, ch. 858, title XIII, § 1303(h), as added Pub. L. 96–453, §�
 
  __Deadlines; Continuation of Service__ 
 
-[Pub. L. 113–291, div. C, title XXXV, § 3504(b)][/us/pl/113/291/s3504/b], (c), Dec. 19, 2014, [128 Stat. 3909][/us/stat/128/3909], provided that:
+[Pub. L. 113–291, div. C, title XXXV][/us/pl/113/291/dC/tXXXV], § 3504(b), (c), Dec. 19, 2014, [128 Stat. 3909][/us/stat/128/3909], provided that:
 
 >     “(b) __Deadlines.—__ 
 
@@ -287,12 +287,12 @@ June 29, 1936, ch. 858, title XIII, § 1303(h), as added Pub. L. 96–453, §�
 ----------
 
 [/us/usc/t5/s5703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5703
-[/us/pl/109/304/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs8%2Fb
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1575]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1575
-[/us/pl/113/291/s3504/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs3504%2Fa
+[/us/pl/113/291/dC/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdC%2FtXXXV
 [/us/stat/128/3905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3905
 [/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
-[/us/pl/113/291/s3504/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs3504%2Fb
+[/us/pl/113/291/dC/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdC%2FtXXXV
 [/us/stat/128/3909]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3909
 [/us/usc/t46/s51312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs51312
 

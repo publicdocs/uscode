@@ -17,7 +17,7 @@
 
     Congress finds and declares that (1) trafficking in controlled substances aboard vessels is a serious international problem, is universally condemned, and presents a specific threat to the security and societal well-being of the United States and (2) operating or embarking in a submersible vessel or semi-submersible vessel without nationality and on an international voyage is a serious international problem, facilitates transnational crime, including drug trafficking, and terrorism, and presents a specific threat to the safety of maritime navigation and the security of the United States.
 
-([Pub. L. 109–304, § 10(2)][/us/pl/109/304/s10/2], Oct. 6, 2006, [120 Stat. 1685][/us/stat/120/1685]; [Pub. L. 110–407, title II, § 201][/us/pl/110/407/s201], Oct. 13, 2008, [122 Stat. 4299][/us/stat/122/4299].)
+([Pub. L. 109–304][/us/pl/109/304], § 10(2), Oct. 6, 2006, [120 Stat. 1685][/us/stat/120/1685]; [Pub. L. 110–407, title II][/us/pl/110/407/tII], § 201, Oct. 13, 2008, [122 Stat. 4299][/us/stat/122/4299].)
 
 <table>
 
@@ -76,9 +76,9 @@ Pub. L. 96–350, § 2, Sept. 15, 1980, 94 Stat. 1160; Pub. L. 99–307, § 
 ----------
 ----------
 
-[/us/pl/109/304/s10/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs10%2F2
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1685]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1685
-[/us/pl/110/407/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F407%2Fs201
+[/us/pl/110/407/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F407%2FtII
 [/us/stat/122/4299]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4299
 [/us/pl/110/407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F407
 

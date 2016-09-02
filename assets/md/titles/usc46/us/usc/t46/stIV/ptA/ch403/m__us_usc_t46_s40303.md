@@ -77,7 +77,7 @@
 
         An ocean common carrier described in this paragraph is one that is not the owner, operator, or bareboat charterer for at least one year of liner vessels of the United States that are eligible to be included in the Maritime Security Fleet Program and are enrolled in an Emergency Preparedness Program under chapter 531 of this title.
 
-([Pub. L. 109–304, § 7][/us/pl/109/304/s7], Oct. 6, 2006, [120 Stat. 1529][/us/stat/120/1529].)
+([Pub. L. 109–304][/us/pl/109/304], § 7, Oct. 6, 2006, [120 Stat. 1529][/us/stat/120/1529].)
 
 <table>
 
@@ -181,7 +181,7 @@ Pub. L. 98–237, § 5(g), Mar. 20, 1984; as added Pub. L. 105–383, title IV
 ----------
 
 [/us/usc/t46/s40502/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs40502%2Fd
-[/us/pl/109/304/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs7
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1529
 
 

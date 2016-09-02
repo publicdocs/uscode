@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t46/stII/ptE/ch75/m__us_usc_t46_s7507.md) | [Next](./../../../../../..//us/usc/t46/stII/ptE/ch77/m__us_usc_t46_stII_ptE_ch77.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs7508)
+[Previous](./../../../../../..//us/usc/t46/stII/ptE/ch75/m__us_usc_t46_s7507.md) | [Next](./../../../../../..//us/usc/t46/stII/ptE/ch75/m__us_usc_t46_s7509.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs7508)
 
 ## § 7508. Authority to extend the duration of medical certificates
 
@@ -23,16 +23,16 @@
 
     An extension under this section may be granted to individual seamen or a specifically identified group of seamen.
 
-(Added [Pub. L. 112–213, title III, § 306(a)][/us/pl/112/213/s306/a], Dec. 20, 2012, [126 Stat. 1565][/us/stat/126/1565].)
+(Added [Pub. L. 112–213, title III][/us/pl/112/213/tIII], § 306(a), Dec. 20, 2012, [126 Stat. 1565][/us/stat/126/1565].)
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t46/stII/ptE/ch75/m__us_usc_t46_s7507.md) | [Next](./../../../../../..//us/usc/t46/stII/ptE/ch77/m__us_usc_t46_stII_ptE_ch77.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs7508)
+[Previous](./../../../../../..//us/usc/t46/stII/ptE/ch75/m__us_usc_t46_s7507.md) | [Next](./../../../../../..//us/usc/t46/stII/ptE/ch75/m__us_usc_t46_s7509.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs7508)
 
 ----------
 ----------
 
-[/us/pl/112/213/s306/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F213%2Fs306%2Fa
+[/us/pl/112/213/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F213%2FtIII
 [/us/stat/126/1565]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1565
 
 

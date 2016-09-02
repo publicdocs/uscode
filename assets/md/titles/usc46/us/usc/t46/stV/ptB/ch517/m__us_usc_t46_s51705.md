@@ -27,11 +27,11 @@
 
     (5) procedures to follow to improve crewmember survivability if captured and taken hostage by pirates.
 
-(Added [Pub. L. 112–213, title V, § 502(a)][/us/pl/112/213/s502/a], Dec. 20, 2012, [126 Stat. 1574][/us/stat/126/1574].)
+(Added [Pub. L. 112–213, title V][/us/pl/112/213/tV], § 502(a), Dec. 20, 2012, [126 Stat. 1574][/us/stat/126/1574].)
 
  __Deadline__ 
 
-[Pub. L. 112–213, title V, § 502(b)][/us/pl/112/213/s502/b], Dec. 20, 2012, [126 Stat. 1575][/us/stat/126/1575], provided that: 
+[Pub. L. 112–213, title V][/us/pl/112/213/tV], § 502(b), Dec. 20, 2012, [126 Stat. 1575][/us/stat/126/1575], provided that: 
 
 > “The Secretary of Transportation shall certify the curriculum required under the amendment made by subsection (a) \[enacting this section\] not later than 270 days after the date of enactment of this Act \[Dec. 20, 2012\].”
 
@@ -45,9 +45,9 @@
 [/us/pl/111/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281
 [/us/usc/t46/s8107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs8107
 [/us/usc/t46/s55305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs55305
-[/us/pl/112/213/s502/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F213%2Fs502%2Fa
+[/us/pl/112/213/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F213%2FtV
 [/us/stat/126/1574]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1574
-[/us/pl/112/213/s502/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F213%2Fs502%2Fb
+[/us/pl/112/213/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F213%2FtV
 [/us/stat/126/1575]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1575
 
 

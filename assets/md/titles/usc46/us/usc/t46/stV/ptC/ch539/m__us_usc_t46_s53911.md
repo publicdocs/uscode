@@ -35,7 +35,7 @@
 
     If the Secretary acknowledges the indebtedness of the Government under the insurance and there is a dispute about the persons entitled to receive payment, the Government may bring a civil action interpleading those persons. The action shall be brought in the United States District Court for the District of Columbia or in the district court for the district in which any of those persons resides. A person not residing or found in the district may be made a party by service in any reasonable manner the court directs. If the court is satisfied that unknown persons might make a claim under the insurance, the court may direct service on those unknown persons by publication in the Federal Register. Judgment after service by publication in the Federal Register discharges the Government from further liability to all persons.
 
-([Pub. L. 109–304, § 8(c)][/us/pl/109/304/s8/c], Oct. 6, 2006, [120 Stat. 1631][/us/stat/120/1631].)
+([Pub. L. 109–304][/us/pl/109/304], § 8(c), Oct. 6, 2006, [120 Stat. 1631][/us/stat/120/1631].)
 
 <table>
 
@@ -90,7 +90,7 @@ June 29, 1936, ch. 858, title XII, § 1212, as added Sept. 7, 1950, ch. 906, 6
 ----------
 ----------
 
-[/us/pl/109/304/s8/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs8%2Fc
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1631
 
 

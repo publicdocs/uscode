@@ -55,7 +55,7 @@
 
         (2) If the Secretary determines, after notice and comment, that the exemption under paragraph (1) creates a hazard to navigational safety in a specified area, the Secretary may require that a dredge exempted by paragraph (1) which is operating in that area shall comply with this section.
 
-([Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 553][/us/stat/97/553]; [Pub. L. 98–557, § 29(f)(1)][/us/pl/98/557/s29/f/1], (2), Oct. 30, 1984, [98 Stat. 2874][/us/stat/98/2874]; [Pub. L. 99–307, § 1(13)][/us/pl/99/307/s1/13], May 19, 1986, [100 Stat. 446][/us/stat/100/446]; [Pub. L. 101–380, title IV][/us/pl/101/380], §§ 4116(a), (b), 4302(g), Aug. 18, 1990, [104 Stat. 522][/us/stat/104/522], 539; [Pub. L. 101–595, title III, § 307][/us/pl/101/595/s307], Nov. 16, 1990, [104 Stat. 2985][/us/stat/104/2985]; [Pub. L. 105–383, title III, § 301(b)(7)][/us/pl/105/383/s301/b/7], Nov. 13, 1998, [112 Stat. 3417][/us/stat/112/3417].)
+([Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 553][/us/stat/97/553]; [Pub. L. 98–557][/us/pl/98/557], § 29(f)(1), (2), Oct. 30, 1984, [98 Stat. 2874][/us/stat/98/2874]; [Pub. L. 99–307][/us/pl/99/307], § 1(13), May 19, 1986, [100 Stat. 446][/us/stat/100/446]; [Pub. L. 101–380, title IV][/us/pl/101/380/tIV], §§ 4116(a), (b), 4302(g), Aug. 18, 1990, [104 Stat. 522][/us/stat/104/522], 539; [Pub. L. 101–595, title III][/us/pl/101/595/tIII], § 307, Nov. 16, 1990, [104 Stat. 2985][/us/stat/104/2985]; [Pub. L. 105–383, title III][/us/pl/105/383/tIII], § 301(b)(7), Nov. 13, 1998, [112 Stat. 3417][/us/stat/112/3417].)
 
 <table>
 
@@ -111,25 +111,25 @@ Source section (U.S. Code)  </td>
 
     1998—Subsec. (a)(3). [Pub. L. 105–383][/us/pl/105/383] substituted “not beyond 3 nautical miles from the baselines from which the territorial sea of the United States is measured” for “not on the high seas”.
 
-    1990—Subsec. (a). [Pub. L. 101–595, § 307(1)][/us/pl/101/595/s307/1], substituted “subsections (g) and (i)” for “subsection (g)” in introductory provisions.
+    1990—Subsec. (a). [Pub. L. 101–595][/us/pl/101/595], § 307(1), substituted “subsections (g) and (i)” for “subsection (g)” in introductory provisions.
 
-    Subsecs. (e), (f). [Pub. L. 101–380, § 4302(g)][/us/pl/101/380/s4302/g], substituted “$10,000” for “$500”.
+    Subsecs. (e), (f). [Pub. L. 101–380][/us/pl/101/380], § 4302(g), substituted “$10,000” for “$500”.
 
-    Subsec. (g). [Pub. L. 101–380, § 4116(a)][/us/pl/101/380/s4116/a], amended subsec. (g) generally. Prior to amendment, subsec. (g) read as follows: “The Secretary shall designate by regulation the areas of the approaches to and waters of Prince William Sound, Alaska, on which a vessel subject to this section is not required to be under the direction and control of a pilot licensed under [section 7101 of this title][/us/usc/t46/s7101].”
+    Subsec. (g). [Pub. L. 101–380][/us/pl/101/380], § 4116(a), amended subsec. (g) generally. Prior to amendment, subsec. (g) read as follows: “The Secretary shall designate by regulation the areas of the approaches to and waters of Prince William Sound, Alaska, on which a vessel subject to this section is not required to be under the direction and control of a pilot licensed under [section 7101 of this title][/us/usc/t46/s7101].”
 
-    Subsec. (h). [Pub. L. 101–380, § 4116(b)][/us/pl/101/380/s4116/b], added subsec. (h).
+    Subsec. (h). [Pub. L. 101–380][/us/pl/101/380], § 4116(b), added subsec. (h).
 
-    Subsec. (i). [Pub. L. 101–595, § 307(2)][/us/pl/101/595/s307/2], added subsec. (i).
+    Subsec. (i). [Pub. L. 101–595][/us/pl/101/595], § 307(2), added subsec. (i).
 
     1986—Subsec. (a)(4)(A). [Pub. L. 99–307][/us/pl/99/307] substituted “part” for “Part”.
 
-    1984—Subsec. (a). [Pub. L. 98–557, § 29(f)(1)][/us/pl/98/557/s29/f/1], amended subsec. (a) generally, which prior to amendment read as follows: “A coastwise seagoing vessel, when not sailing on register and when underway (except on the high seas), shall be under the direction and control of a pilot licensed under [section 7101 of this title][/us/usc/t46/s7101] if the vessel is—
+    1984—Subsec. (a). [Pub. L. 98–557][/us/pl/98/557], § 29(f)(1), amended subsec. (a) generally, which prior to amendment read as follows: “A coastwise seagoing vessel, when not sailing on register and when underway (except on the high seas), shall be under the direction and control of a pilot licensed under [section 7101 of this title][/us/usc/t46/s7101] if the vessel is—
 
     “(1) propelled by machinery and subject to inspection under part B of this subtitle; or
 
     “(2) subject to inspection under chapter 37 of this title.”
 
-    Subsec. (g). [Pub. L. 98–557, § 29(f)(2)][/us/pl/98/557/s29/f/2], added subsec. (g).
+    Subsec. (g). [Pub. L. 98–557][/us/pl/98/557], § 29(f)(2), added subsec. (g).
 
  __Effective Date of 1990 Amendment__ 
 
@@ -152,27 +152,27 @@ Source section (U.S. Code)  </td>
 [/us/usc/t46/s7101/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs7101%2Fc%2F1
 [/us/pl/98/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F89
 [/us/stat/97/553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F553
-[/us/pl/98/557/s29/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F557%2Fs29%2Ff%2F1
+[/us/pl/98/557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F557
 [/us/stat/98/2874]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2874
-[/us/pl/99/307/s1/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F307%2Fs1%2F13
+[/us/pl/99/307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F307
 [/us/stat/100/446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F446
-[/us/pl/101/380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380
+[/us/pl/101/380/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2FtIV
 [/us/stat/104/522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F522
-[/us/pl/101/595/s307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F595%2Fs307
+[/us/pl/101/595/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F595%2FtIII
 [/us/stat/104/2985]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2985
-[/us/pl/105/383/s301/b/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F383%2Fs301%2Fb%2F7
+[/us/pl/105/383/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F383%2FtIII
 [/us/stat/112/3417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3417
 [/us/pl/105/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F383
-[/us/pl/101/595/s307/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F595%2Fs307%2F1
-[/us/pl/101/380/s4302/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2Fs4302%2Fg
-[/us/pl/101/380/s4116/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2Fs4116%2Fa
+[/us/pl/101/595]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F595
+[/us/pl/101/380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380
+[/us/pl/101/380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380
 [/us/usc/t46/s7101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs7101
-[/us/pl/101/380/s4116/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2Fs4116%2Fb
-[/us/pl/101/595/s307/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F595%2Fs307%2F2
+[/us/pl/101/380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380
+[/us/pl/101/595]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F595
 [/us/pl/99/307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F307
-[/us/pl/98/557/s29/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F557%2Fs29%2Ff%2F1
+[/us/pl/98/557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F557
 [/us/usc/t46/s7101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs7101
-[/us/pl/98/557/s29/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F557%2Fs29%2Ff%2F2
+[/us/pl/98/557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F557
 [/us/pl/101/380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380
 [/us/pl/101/380/s1020]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2Fs1020
 [/us/usc/t33/s2701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2701

@@ -17,7 +17,7 @@
 
     An individual may take an oral examination for a license to serve on a fishing, fish processing, or fish tender vessel not required to be inspected under part B of this subtitle.
 
-([Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 541][/us/stat/97/541]; [Pub. L. 98–364, title IV, § 402(8)(B)][/us/pl/98/364/s402/8/B], July 17, 1984, [98 Stat. 447][/us/stat/98/447]; [Pub. L. 99–307, § 1(10)][/us/pl/99/307/s1/10], May 19, 1986, [100 Stat. 445][/us/stat/100/445].)
+([Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 541][/us/stat/97/541]; [Pub. L. 98–364, title IV][/us/pl/98/364/tIV], § 402(8)(B), July 17, 1984, [98 Stat. 447][/us/stat/98/447]; [Pub. L. 99–307][/us/pl/99/307], § 1(10), May 19, 1986, [100 Stat. 445][/us/stat/100/445].)
 
 <table>
 
@@ -72,9 +72,9 @@ Source section (U.S. Code)  </td>
 
 [/us/pl/98/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F89
 [/us/stat/97/541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F541
-[/us/pl/98/364/s402/8/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F364%2Fs402%2F8%2FB
+[/us/pl/98/364/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F364%2FtIV
 [/us/stat/98/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F447
-[/us/pl/99/307/s1/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F307%2Fs1%2F10
+[/us/pl/99/307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F307
 [/us/stat/100/445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F445
 [/us/pl/99/307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F307
 [/us/pl/98/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F364

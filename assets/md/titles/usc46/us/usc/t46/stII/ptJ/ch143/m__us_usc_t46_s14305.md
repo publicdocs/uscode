@@ -51,7 +51,7 @@
 
     (b) As long as the owner of a vessel has a request in effect under subsection (a) of this section, the tonnages determined under that request shall be used in applying the other provisions of law described in subsection (a) to that vessel.
 
-([Pub. L. 99–509, title V, § 5101(3)][/us/pl/99/509/s5101/3], Oct. 21, 1986, [100 Stat. 1921][/us/stat/100/1921]; [Pub. L. 109–304, § 15(26)][/us/pl/109/304/s15/26], Oct. 6, 2006, [120 Stat. 1704][/us/stat/120/1704]; [Pub. L. 111–281, title III, § 303(f)][/us/pl/111/281/s303/f], Oct. 15, 2010, [124 Stat. 2925][/us/stat/124/2925].)
+([Pub. L. 99–509, title V][/us/pl/99/509/tV], § 5101(3), Oct. 21, 1986, [100 Stat. 1921][/us/stat/100/1921]; [Pub. L. 109–304][/us/pl/109/304], § 15(26), Oct. 6, 2006, [120 Stat. 1704][/us/stat/120/1704]; [Pub. L. 111–281, title III][/us/pl/111/281/tIII], § 303(f), Oct. 15, 2010, [124 Stat. 2925][/us/stat/124/2925].)
 
  __Historical and Revision Notes__ 
 
@@ -117,13 +117,13 @@
 
     2010—Subsec. (a). [Pub. L. 111–281][/us/pl/111/281] substituted “vessel measured under this chapter that is of United States registry or nationality, or a vessel operated under the authority of the United States,” for “documented vessel measured under this chapter,” in introductory provisions.
 
-    2006—Subsec. (a)(1). [Pub. L. 109–304, § 15(26)(A)][/us/pl/109/304/s15/26/A], substituted “of this subtitle and section 12116” for “and sections 12106(c) and 12108(c)”.
+    2006—Subsec. (a)(1). [Pub. L. 109–304][/us/pl/109/304], § 15(26)(A), substituted “of this subtitle and section 12116” for “and sections 12106(c) and 12108(c)”.
 
-    Subsec. (a)(5). [Pub. L. 109–304, § 15(26)(B)][/us/pl/109/304/s15/26/B], substituted “[section 30506 of this title][/us/usc/t46/s30506]” for “section 4283 of the Revised Statutes of the United States (46 App. U.S.C. 183)”.
+    Subsec. (a)(5). [Pub. L. 109–304][/us/pl/109/304], § 15(26)(B), substituted “[section 30506 of this title][/us/usc/t46/s30506]” for “section 4283 of the Revised Statutes of the United States (46 App. U.S.C. 183)”.
 
-    Subsec. (a)(6). [Pub. L. 109–304, § 15(26)(C)][/us/pl/109/304/s15/26/C], substituted “sections 12118 and 12132 of this title” for “sections 27 and 27A of the Act of June 5, 1920 (46 App. U.S.C. 883 and 883–1)”.
+    Subsec. (a)(6). [Pub. L. 109–304][/us/pl/109/304], § 15(26)(C), substituted “sections 12118 and 12132 of this title” for “sections 27 and 27A of the Act of June 5, 1920 (46 App. U.S.C. 883 and 883–1)”.
 
-    Subsec. (a)(7). [Pub. L. 109–304, § 15(26)(D)][/us/pl/109/304/s15/26/D], substituted “[section 12139(b) of this title][/us/usc/t46/s12139/b]” for “Act of July 14, 1956 (46 App. U.S.C. 883a)”.
+    Subsec. (a)(7). [Pub. L. 109–304][/us/pl/109/304], § 15(26)(D), substituted “[section 12139(b) of this title][/us/usc/t46/s12139/b]” for “Act of July 14, 1956 (46 App. U.S.C. 883a)”.
 
 ----------
 
@@ -141,11 +141,11 @@
 [/us/usc/t47/s351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs351
 [/us/usc/t46/s3302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs3302
 [/us/usc/t46/s14302/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs14302%2Fc
-[/us/pl/99/509/s5101/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2Fs5101%2F3
+[/us/pl/99/509/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2FtV
 [/us/stat/100/1921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1921
-[/us/pl/109/304/s15/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs15%2F26
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1704
-[/us/pl/111/281/s303/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs303%2Ff
+[/us/pl/111/281/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2FtIII
 [/us/stat/124/2925]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2925
 [/us/usc/t33/s1203/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1203%2Fa
 [/us/usc/t33/s1203/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1203%2Fa
@@ -154,11 +154,11 @@
 [/us/stat/48/1064]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1064
 [/us/usc/t33/s1602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1602
 [/us/pl/111/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281
-[/us/pl/109/304/s15/26/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs15%2F26%2FA
-[/us/pl/109/304/s15/26/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs15%2F26%2FB
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/usc/t46/s30506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs30506
-[/us/pl/109/304/s15/26/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs15%2F26%2FC
-[/us/pl/109/304/s15/26/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs15%2F26%2FD
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/usc/t46/s12139/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs12139%2Fb
 
 

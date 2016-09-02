@@ -27,7 +27,7 @@
 
         (3) An account of each accident, illness, and injury that occurs during each watch.
 
-(Added [Pub. L. 111–281, title VI, § 607(a)][/us/pl/111/281/s607/a], Oct. 15, 2010, [124 Stat. 2967][/us/stat/124/2967].)
+(Added [Pub. L. 111–281, title VI][/us/pl/111/281/tVI], § 607(a), Oct. 15, 2010, [124 Stat. 2967][/us/stat/124/2967].)
 
 ----------
 
@@ -37,7 +37,7 @@
 ----------
 
 [/us/usc/t46/s3301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs3301
-[/us/pl/111/281/s607/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs607%2Fa
+[/us/pl/111/281/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2FtVI
 [/us/stat/124/2967]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2967
 
 

@@ -33,7 +33,7 @@
 
         A person violating this section is liable to the United States Government for a civil penalty of not more than $50,000. Each day a vessel uses a prohibited port is a separate violation.
 
-([Pub. L. 109–304, § 10(2)][/us/pl/109/304/s10/2], Oct. 6, 2006, [120 Stat. 1684][/us/stat/120/1684].)
+([Pub. L. 109–304][/us/pl/109/304], § 10(2), Oct. 6, 2006, [120 Stat. 1684][/us/stat/120/1684].)
 
 <table>
 
@@ -88,7 +88,7 @@ Pub. L. 99–399, title IX, § 909, Aug. 27, 1986, 100 Stat. 892.  </td>
 ----------
 ----------
 
-[/us/pl/109/304/s10/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs10%2F2
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1684]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1684
 
 

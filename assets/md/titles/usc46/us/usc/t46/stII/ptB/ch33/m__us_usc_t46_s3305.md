@@ -49,7 +49,7 @@
 
     (c) A nautical school vessel operated by a civilian nautical school or by an educational institution under [section 558 of title 40][/us/usc/t40/s558] shall be inspected like a small passenger vessel or a passenger vessel, depending on its tonnage.
 
-([Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 513][/us/stat/97/513]; [Pub. L. 99–36, § 1(a)(1)][/us/pl/99/36/s1/a/1], May 15, 1985, [99 Stat. 67][/us/stat/99/67]; [Pub. L. 99–640, § 13(e)][/us/pl/99/640/s13/e], Nov. 10, 1986, [100 Stat. 3551][/us/stat/100/3551]; [Pub. L. 107–217, § 3(m)(2)][/us/pl/107/217/s3/m/2], Aug. 21, 2002, [116 Stat. 1302][/us/stat/116/1302]; [Pub. L. 108–293, title IV, § 416][/us/pl/108/293/s416], Aug. 9, 2004, [118 Stat. 1047][/us/stat/118/1047]; [Pub. L. 109–241, title IX, § 901(f)][/us/pl/109/241/s901/f], July 11, 2006, [120 Stat. 564][/us/stat/120/564].)
+([Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 513][/us/stat/97/513]; [Pub. L. 99–36][/us/pl/99/36], § 1(a)(1), May 15, 1985, [99 Stat. 67][/us/stat/99/67]; [Pub. L. 99–640][/us/pl/99/640], § 13(e), Nov. 10, 1986, [100 Stat. 3551][/us/stat/100/3551]; [Pub. L. 107–217][/us/pl/107/217], § 3(m)(2), Aug. 21, 2002, [116 Stat. 1302][/us/stat/116/1302]; [Pub. L. 108–293, title IV][/us/pl/108/293/tIV], § 416, Aug. 9, 2004, [118 Stat. 1047][/us/stat/118/1047]; [Pub. L. 109–241, title IX][/us/pl/109/241/tIX], § 901(f), July 11, 2006, [120 Stat. 564][/us/stat/120/564].)
 
 <table>
 
@@ -231,9 +231,9 @@ Source section (U.S. Code)  </td>
 
     2006—Subsec. (a)(2). [Pub. L. 109–241][/us/pl/109/241] realigned margins.
 
-    2004—Subsec. (a). [Pub. L. 108–293, § 416(b)][/us/pl/108/293/s416/b], designated existing provisions as par. (1), redesignated former pars. (1) to (6) as subpars. (A) to (F), respectively, of par. (1), and added par. (2).
+    2004—Subsec. (a). [Pub. L. 108–293][/us/pl/108/293], § 416(b), designated existing provisions as par. (1), redesignated former pars. (1) to (6) as subpars. (A) to (F), respectively, of par. (1), and added par. (2).
 
-    Subsec. (a)(4) to (6). [Pub. L. 108–293, § 416(a)][/us/pl/108/293/s416/a], added par. (4) and redesignated former pars. (4) and (5) as (5) and (6), respectively.
+    Subsec. (a)(4) to (6). [Pub. L. 108–293][/us/pl/108/293], § 416(a), added par. (4) and redesignated former pars. (4) and (5) as (5) and (6), respectively.
 
     2002—Subsec. (c). [Pub. L. 107–217][/us/pl/107/217] substituted “[section 558 of title 40][/us/usc/t40/s558]” for “section 13 of the Coast Guard Authorization Act of 1986”.
 
@@ -252,20 +252,20 @@ Source section (U.S. Code)  </td>
 [/us/usc/t40/s558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs558
 [/us/pl/98/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F89
 [/us/stat/97/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F513
-[/us/pl/99/36/s1/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F36%2Fs1%2Fa%2F1
+[/us/pl/99/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F36
 [/us/stat/99/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F67
-[/us/pl/99/640/s13/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F640%2Fs13%2Fe
+[/us/pl/99/640]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F640
 [/us/stat/100/3551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3551
-[/us/pl/107/217/s3/m/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs3%2Fm%2F2
+[/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1302
-[/us/pl/108/293/s416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293%2Fs416
+[/us/pl/108/293/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293%2FtIV
 [/us/stat/118/1047]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1047
-[/us/pl/109/241/s901/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241%2Fs901%2Ff
+[/us/pl/109/241/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241%2FtIX
 [/us/stat/120/564]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F564
 [/us/usc/t46/s391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs391
 [/us/pl/109/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241
-[/us/pl/108/293/s416/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293%2Fs416%2Fb
-[/us/pl/108/293/s416/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293%2Fs416%2Fa
+[/us/pl/108/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293
+[/us/pl/108/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293
 [/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/usc/t40/s558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs558
 [/us/pl/99/640]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F640

@@ -17,7 +17,7 @@
 
     (a)  __In General__  __.—__ 
 
-    If the Secretary of Transportation finds that a trade route determined to be essential under [section 50103 of this title][/us/usc/t46/s50103] cannot be successfully developed and maintained and the Secretary’s replacement program cannot be achieved under private operation of the trade route by a citizen of the United States with vessels documented under chapter 121 of this title, without further aid by the United States Government in addition to the financial aid authorized under titles V and VI of the Merchant Marine Act, 1936, the Secretary, without advertisement or competition, may—
+    If the Secretary of Transportation finds that a trade route determined to be essential under [section 50103 of this title][/us/usc/t46/s50103] cannot be successfully developed and maintained and the Secretary’s replacement program cannot be achieved under private operation of the trade route by a citizen of the United States with vessels documented under chapter 121 of this title, without further aid by the United States Government in addition to the financial aid authorized under title V of the Merchant Marine Act, 1936, the Secretary, without advertisement or competition, may—
 
         (1) have constructed, in private shipyards or in navy yards, vessels of the types necessary for the trade route; and
 
@@ -81,7 +81,7 @@
 
         The charter shall provide if the vessel is operated in domestic trade on any of the services specified in paragraph (1), the charterer will pay annually to the Secretary of Transportation that proportion of 1⁄25 of the difference between the domestic and foreign cost of the vessel as the gross revenue derived from the domestic trade bears to the gross revenue derived from the entire voyages completed during the preceding year.
 
-([Pub. L. 109–304, § 8(c)][/us/pl/109/304/s8/c], Oct. 6, 2006, [120 Stat. 1668][/us/stat/120/1668].)
+([Pub. L. 109–304][/us/pl/109/304], § 8(c), Oct. 6, 2006, [120 Stat. 1668][/us/stat/120/1668]; [Pub. L. 114–120, title III][/us/pl/114/120/tIII], § 313(b)(2), Feb. 8, 2016, [130 Stat. 58][/us/stat/130/58].)
 
 <table>
 
@@ -137,7 +137,11 @@ June 29, 1936, ch. 858, title VII, § 714, 49 Stat. 2011; June 23, 1938, ch. 6
 
  __References in Text__ 
 
-    The Merchant Marine Act, 1936, referred to in subsecs. (a), (b)(1), (c), is [act June 29, 1936, ch. 858][/us/act/1936-06-29/ch858], [49 Stat. 1985][/us/stat/49/1985]. Titles V and VI of the Act enacted provisions set out as notes under [section 53101 of this title][/us/usc/t46/s53101]. For complete classification of this Act to the Code, see Short Title of 1936 Amendment note set out under [section 101 of this title][/us/usc/t46/s101] and Tables.
+    The Merchant Marine Act, 1936, referred to in subsecs. (a), (b)(1), (c), is [act June 29, 1936, ch. 858][/us/act/1936-06-29/ch858], [49 Stat. 1985][/us/stat/49/1985]. Title V of the Act enacted provisions set out as a note under [section 53101 of this title][/us/usc/t46/s53101]. For complete classification of this Act to the Code, see Short Title of 1936 Amendment note set out under [section 101 of this title][/us/usc/t46/s101] and Tables.
+
+ __Amendments__ 
+
+    2016—Subsec. (a). [Pub. L. 114–120][/us/pl/114/120] substituted “title V” for “titles V and VI” in introductory provisions.
 
 ----------
 
@@ -147,13 +151,16 @@ June 29, 1936, ch. 858, title VII, § 714, 49 Stat. 2011; June 23, 1938, ch. 6
 ----------
 
 [/us/usc/t46/s50103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs50103
-[/us/pl/109/304/s8/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs8%2Fc
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1668]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1668
+[/us/pl/114/120/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F120%2FtIII
+[/us/stat/130/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F58
 [/us/pl/86/518/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F518%2Fs9
 [/us/stat/74/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F217
 [/us/act/1936-06-29/ch858]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-06-29%2Fch858
 [/us/stat/49/1985]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F1985
 [/us/usc/t46/s53101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs53101
 [/us/usc/t46/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs101
+[/us/pl/114/120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F120
 
 

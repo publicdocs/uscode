@@ -13,7 +13,7 @@
 
 [Previous](./../../../../../..//us/usc/t46/stII/ptG/ch105/m__us_usc_t46_s10506.md) | [Next](./../../../../../..//us/usc/t46/stII/ptG/ch105/m__us_usc_t46_s10508.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs10507)
 
-## \[§ 10507. Repealed. [Pub. L. 103–206, title IV, § 415(a)][/us/pl/103/206/s415/a], Dec. 20, 1993, [107 Stat. 2438][/us/stat/107/2438]\]
+## \[§ 10507. Repealed. [Pub. L. 103–206, title IV][/us/pl/103/206/tIV], § 415(a), Dec. 20, 1993, [107 Stat. 2438][/us/stat/107/2438]\]
 
     Section, [Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 571][/us/stat/97/571], related to duties of shipping commissioners.
 
@@ -24,7 +24,7 @@
 ----------
 ----------
 
-[/us/pl/103/206/s415/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F206%2Fs415%2Fa
+[/us/pl/103/206/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F206%2FtIV
 [/us/stat/107/2438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2438
 [/us/pl/98/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F89
 [/us/stat/97/571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F571

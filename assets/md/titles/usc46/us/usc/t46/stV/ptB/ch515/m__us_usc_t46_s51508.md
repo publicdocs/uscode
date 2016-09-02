@@ -17,7 +17,7 @@
 
     Under regulations prescribed by the Secretary of Transportation, a student at a State maritime academy shall receive from the Secretary allowances for transportation (including reimbursement of traveling expenses) when traveling under orders to receive training under [section 51507 of this title][/us/usc/t46/s51507].
 
-([Pub. L. 109–304, § 8(b)][/us/pl/109/304/s8/b], Oct. 6, 2006, [120 Stat. 1579][/us/stat/120/1579].)
+([Pub. L. 109–304][/us/pl/109/304], § 8(b), Oct. 6, 2006, [120 Stat. 1579][/us/stat/120/1579].)
 
 <table>
 
@@ -73,7 +73,7 @@ June 29, 1936, ch. 858, title XIII, § 1304(c)(3)(B), as added Pub. L. 96–45
 ----------
 
 [/us/usc/t46/s51507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs51507
-[/us/pl/109/304/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs8%2Fb
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1579]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1579
 
 

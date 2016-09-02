@@ -47,7 +47,7 @@
 
     An ocean transportation intermediary not domiciled in the United States shall designate a resident agent in the United States for receipt of service of judicial and administrative process, including subpoenas.
 
-([Pub. L. 109–304, § 7][/us/pl/109/304/s7], Oct. 6, 2006, [120 Stat. 1538][/us/stat/120/1538].)
+([Pub. L. 109–304][/us/pl/109/304], § 7, Oct. 6, 2006, [120 Stat. 1538][/us/stat/120/1538].)
 
 <table>
 
@@ -106,7 +106,7 @@ Pub. L. 98–237, § 19(b), Mar. 20, 1984; added Pub. L. 105–258, title I, �
 
 [/us/usc/t46/s41109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs41109
 [/us/usc/t46/s41305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs41305
-[/us/pl/109/304/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs7
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1538]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1538
 
 

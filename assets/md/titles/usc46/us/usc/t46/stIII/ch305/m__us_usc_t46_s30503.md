@@ -23,7 +23,7 @@
 
     The items referred to in subsection (a) are precious metals, gold or silver plated articles, precious stones, jewelry, trinkets, watches, clocks, glass, china, coins, bills, securities, printings, engravings, pictures, stamps, maps, papers, silks, furs, lace, and similar items of high value and small size.
 
-([Pub. L. 109–304, § 6(c)][/us/pl/109/304/s6/c], Oct. 6, 2006, [120 Stat. 1512][/us/stat/120/1512].)
+([Pub. L. 109–304][/us/pl/109/304], § 6(c), Oct. 6, 2006, [120 Stat. 1512][/us/stat/120/1512].)
 
 <table>
 
@@ -82,7 +82,7 @@ R.S. § 4281.  </td>
 ----------
 ----------
 
-[/us/pl/109/304/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs6%2Fc
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1512
 
 

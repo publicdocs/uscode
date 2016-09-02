@@ -27,7 +27,7 @@
 
         (2)
 
-         The cost of acquisition, operation, and maintenance of security equipment or facilities to be used for security monitoring and recording, security gates and fencing, marine barriers for designated security zones, security-related lighting systems, remote surveillance, concealed video systems, security vessels, and other security-related infrastructure or equipment that contributes to the overall security of passengers, cargo, or crewmembers. Grants awarded under this section may not be used to construct buildings or other physical facilities, except those which are constructed under terms and conditions consistent with the requirements under section 611(j)(8) of the Robert T. Stafford Disaster Relief and Emergency Assistance Act ([42 U.S.C. 5121(j)(8)][/us/usc/t42/s5121/j/8]  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “5196(j)(8)”. </sup></sup>  ), including those facilities in support of this paragraph, and specifically approved by the Secretary. Costs eligible for funding under this paragraph may not exceed the greater of—
+         The cost of acquisition, operation, and maintenance of security equipment or facilities to be used for security monitoring and recording, security gates and fencing, marine barriers for designated security zones, security-related lighting systems, remote surveillance, concealed video systems, security vessels, and other security-related infrastructure or equipment that contributes to the overall security of passengers, cargo, or crewmembers. Grants awarded under this section may not be used to construct buildings or other physical facilities, except those which are constructed under terms and conditions consistent with the requirements under section 611(j)(8) of the Robert T. Stafford Disaster Relief and Emergency Assistance Act ([42 U.S.C. 5196(j)(8)][/us/usc/t42/s5196/j/8]), including those facilities in support of this paragraph, and specifically approved by the Secretary. Costs eligible for funding under this paragraph may not exceed the greater of—
 
             (A) $1,000,000 per project; or
 
@@ -237,7 +237,7 @@
 
                 (ii) The applicant’s capability to provide leadership in making national and regional contributions to the solution of immediate and long-range port and maritime transportation security and risk mitigation problems.
 
-                (iii) Whether the applicant can demonstrate that is  <sup>\[2\]</sup>  <sup><sup> 2 So in original. Probably should be “the applicant”. </sup></sup>  has an established, nationally recognized program in disciplines that contribute directly to maritime transportation safety and education.
+                (iii) Whether the applicant can demonstrate that the applicant has an established, nationally recognized program in disciplines that contribute directly to maritime transportation safety and education.
 
                 (iv) Whether the applicant’s investigations will involve major United States ports on the East Coast, the Gulf Coast, and the West Coast, and Federal agencies and other entities with expertise in port and maritime transportation.
 
@@ -261,7 +261,7 @@
 
         The Inspector General of the department in which the Coast Guard is operating shall annually review the programs established under this subsection to ensure that the expenditures and obligations of funds are consistent with the purposes for which they are provided, and report the findings to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives.
 
-(Added [Pub. L. 107–295, title I, § 102(a)][/us/pl/107/295/s102/a], Nov. 25, 2002, [116 Stat. 2075][/us/stat/116/2075]; amended [Pub. L. 108–293, title VIII][/us/pl/108/293], §§ 804(a), (b), 808(a), Aug. 9, 2004, [118 Stat. 1081][/us/stat/118/1081], 1083; [Pub. L. 109–347, title I, § 112][/us/pl/109/347/s112], Oct. 13, 2006, [120 Stat. 1894][/us/stat/120/1894]; [Pub. L. 111–281, title VIII, § 828(b)][/us/pl/111/281/s828/b], Oct. 15, 2010, [124 Stat. 3007][/us/stat/124/3007].)
+(Added [Pub. L. 107–295, title I][/us/pl/107/295/tI], § 102(a), Nov. 25, 2002, [116 Stat. 2075][/us/stat/116/2075]; amended [Pub. L. 108–293, title VIII][/us/pl/108/293/tVIII], §§ 804(a), (b), 808(a), Aug. 9, 2004, [118 Stat. 1081][/us/stat/118/1081], 1083; [Pub. L. 109–347, title I][/us/pl/109/347/tI], § 112, Oct. 13, 2006, [120 Stat. 1894][/us/stat/120/1894]; [Pub. L. 111–281, title VIII][/us/pl/111/281/tVIII], § 828(b), Oct. 15, 2010, [124 Stat. 3007][/us/stat/124/3007]; [Pub. L. 114–120, title III][/us/pl/114/120/tIII], § 306(a)(10), Feb. 8, 2016, [130 Stat. 54][/us/stat/130/54].)
 
  __References in Text__ 
 
@@ -275,47 +275,51 @@
 
  __Amendments__ 
 
-    2010—Subsec. (a). [Pub. L. 111–281, § 828(b)(1)][/us/pl/111/281/s828/b/1], substituted “services and to train law enforcement personnel under [section 70132 of this title][/us/usc/t46/s70132].” for “services.” in first sentence.
+    2016—Subsec. (b)(2). [Pub. L. 114–120][/us/pl/114/120], § 306(a)(10)(A), substituted “5196(j)(8)),” for “5121(j)(8)),” in introductory provisions.
 
-    Subsec. (b)(8). [Pub. L. 111–281, § 828(b)(2)][/us/pl/111/281/s828/b/2], added par.(8).
+    Subsec. (m)(3)(C)(iii). [Pub. L. 114–120][/us/pl/114/120], § 306(a)(10)(B), substituted “that the applicant” for “that is”.
 
-    Subsec. (c)(2)(C). [Pub. L. 111–281, § 828(b)(3)][/us/pl/111/281/s828/b/3], added subpar. (C).
+    2010—Subsec. (a). [Pub. L. 111–281][/us/pl/111/281], § 828(b)(1), substituted “services and to train law enforcement personnel under [section 70132 of this title][/us/usc/t46/s70132].” for “services.” in first sentence.
 
-    Subsec. (l). [Pub. L. 111–281, § 828(b)(4)][/us/pl/111/281/s828/b/4], substituted “2013” for “2011”.
+    Subsec. (b)(8). [Pub. L. 111–281][/us/pl/111/281], § 828(b)(2), added par.(8).
 
-    2006—Subsec. (a). [Pub. L. 109–347, § 112(a)][/us/pl/109/347/s112/a], (e), substituted “for the allocation of funds based on risk” for “for making a fair and equitable allocation of funds” and “national economic, energy, and strategic defense concerns based upon the most current risk assessments available” for “national economic and strategic defense concerns”.
+    Subsec. (c)(2)(C). [Pub. L. 111–281][/us/pl/111/281], § 828(b)(3), added subpar. (C).
 
-    Subsec. (b)(2). [Pub. L. 109–347, § 112(b)(1)][/us/pl/109/347/s112/b/1], inserted at end “Grants awarded under this section may not be used to construct buildings or other physical facilities, except those which are constructed under terms and conditions consistent with the requirements under section 611(j)(8) of the Robert T. Stafford Disaster Relief and Emergency Assistance Act ([42 U.S.C. 5121(j)(8)][/us/usc/t42/s5121/j/8]), including those facilities in support of this paragraph, and specifically approved by the Secretary. Costs eligible for funding under this paragraph may not exceed the greater of—” and subpars. (A) and (B).
+    Subsec. (l). [Pub. L. 111–281][/us/pl/111/281], § 828(b)(4), substituted “2013” for “2011”.
 
-    Subsec. (b)(5) to (7). [Pub. L. 109–347, § 112(b)(2)][/us/pl/109/347/s112/b/2], added pars. (5) to (7).
+    2006—Subsec. (a). [Pub. L. 109–347][/us/pl/109/347], § 112(a), (e), substituted “for the allocation of funds based on risk” for “for making a fair and equitable allocation of funds” and “national economic, energy, and strategic defense concerns based upon the most current risk assessments available” for “national economic and strategic defense concerns”.
 
-    Subsecs. (e) to (i). [Pub. L. 109–347, § 112(c)(1)][/us/pl/109/347/s112/c/1], added subsecs. (e) to (h). Former subsecs. (e) to (i) redesignated (i) to (m), respectively.
+    Subsec. (b)(2). [Pub. L. 109–347][/us/pl/109/347], § 112(b)(1), inserted at end “Grants awarded under this section may not be used to construct buildings or other physical facilities, except those which are constructed under terms and conditions consistent with the requirements under section 611(j)(8) of the Robert T. Stafford Disaster Relief and Emergency Assistance Act ([42 U.S.C. 5121(j)(8)][/us/usc/t42/s5121/j/8]), including those facilities in support of this paragraph, and specifically approved by the Secretary. Costs eligible for funding under this paragraph may not exceed the greater of—” and subpars. (A) and (B).
 
-    Subsec. (i)(1). [Pub. L. 109–347, § 112(c)(2)][/us/pl/109/347/s112/c/2], substituted “Secretary shall require” for “program shall require”.
+    Subsec. (b)(5) to (7). [Pub. L. 109–347][/us/pl/109/347], § 112(b)(2), added pars. (5) to (7).
 
-    Subsecs. (j), (k). [Pub. L. 109–347, § 112(c)(1)][/us/pl/109/347/s112/c/1], redesignated subsecs. (f) and (g) as (j) and (k), respectively.
+    Subsecs. (e) to (i). [Pub. L. 109–347][/us/pl/109/347], § 112(c)(1), added subsecs. (e) to (h). Former subsecs. (e) to (i) redesignated (i) to (m), respectively.
 
-    Subsec. (l). [Pub. L. 109–347, § 112(d)][/us/pl/109/347/s112/d], amended subsec. (l) generally. Prior to amendment, subsec. (l) read as follows: “There are authorized to be appropriated to the Secretary for each of fiscal years 2003 through 2008 such sums as are necessary to carry out subsections (a) through (g).”
+    Subsec. (i)(1). [Pub. L. 109–347][/us/pl/109/347], § 112(c)(2), substituted “Secretary shall require” for “program shall require”.
 
-    [Pub. L. 109–347, § 112(c)(1)][/us/pl/109/347/s112/c/1], redesignated subsec. (h) as (l).
+    Subsecs. (j), (k). [Pub. L. 109–347][/us/pl/109/347], § 112(c)(1), redesignated subsecs. (f) and (g) as (j) and (k), respectively.
 
-    Subsec. (m). [Pub. L. 109–347, § 112(c)(1)][/us/pl/109/347/s112/c/1], redesignated subsec. (i) as (m).
+    Subsec. (l). [Pub. L. 109–347][/us/pl/109/347], § 112(d), amended subsec. (l) generally. Prior to amendment, subsec. (l) read as follows: “There are authorized to be appropriated to the Secretary for each of fiscal years 2003 through 2008 such sums as are necessary to carry out subsections (a) through (g).”
 
-    2004—Subsec. (a). [Pub. L. 108–293, § 804(a)][/us/pl/108/293/s804/a], reenacted heading without change and amended text of subsec. (a) generally. Prior to amendment, text read as follows: “The Secretary of Transportation, acting through the Maritime Administrator, shall establish a grant program for making a fair and equitable allocation among port authorities, facility operators, and State and local agencies required to provide security services of funds to implement Area Maritime Transportation Security Plans and facility security plans. The program shall take into account national economic and strategic defense considerations.”
+    [Pub. L. 109–347][/us/pl/109/347], § 112(c)(1), redesignated subsec. (h) as (l).
 
-    Subsec. (c)(2)(B). [Pub. L. 108–293, § 804(b)(1)][/us/pl/108/293/s804/b/1], substituted “Secretary determines” for “Secretary of Transportation determines”.
+    Subsec. (m). [Pub. L. 109–347][/us/pl/109/347], § 112(c)(1), redesignated subsec. (i) as (m).
 
-    Subsecs. (d), (e). [Pub. L. 108–293, § 804(b)(1)][/us/pl/108/293/s804/b/1], substituted “Secretary” for “Secretary of Transportation” wherever appearing.
+    2004—Subsec. (a). [Pub. L. 108–293][/us/pl/108/293], § 804(a), reenacted heading without change and amended text of subsec. (a) generally. Prior to amendment, text read as follows: “The Secretary of Transportation, acting through the Maritime Administrator, shall establish a grant program for making a fair and equitable allocation among port authorities, facility operators, and State and local agencies required to provide security services of funds to implement Area Maritime Transportation Security Plans and facility security plans. The program shall take into account national economic and strategic defense considerations.”
 
-    Subsec. (f). [Pub. L. 108–293, § 804(b)][/us/pl/108/293/s804/b], substituted “Secretary” for “Secretary of Transportation” in two places and “department in which the Coast Guard is operating” for “Department of Transportation”.
+    Subsec. (c)(2)(B). [Pub. L. 108–293][/us/pl/108/293], § 804(b)(1), substituted “Secretary determines” for “Secretary of Transportation determines”.
 
-    Subsecs. (g), (h). [Pub. L. 108–293, § 804(b)(1)][/us/pl/108/293/s804/b/1], substituted “Secretary” for “Secretary of Transportation” wherever appearing.
+    Subsecs. (d), (e). [Pub. L. 108–293][/us/pl/108/293], § 804(b)(1), substituted “Secretary” for “Secretary of Transportation” wherever appearing.
 
-    Subsec. (i). [Pub. L. 108–293, § 808(a)][/us/pl/108/293/s808/a], added subsec. (i) and struck out former subsec. (i) which related to research and development grants for port security.
+    Subsec. (f). [Pub. L. 108–293][/us/pl/108/293], § 804(b), substituted “Secretary” for “Secretary of Transportation” in two places and “department in which the Coast Guard is operating” for “Department of Transportation”.
+
+    Subsecs. (g), (h). [Pub. L. 108–293][/us/pl/108/293], § 804(b)(1), substituted “Secretary” for “Secretary of Transportation” wherever appearing.
+
+    Subsec. (i). [Pub. L. 108–293][/us/pl/108/293], § 808(a), added subsec. (i) and struck out former subsec. (i) which related to research and development grants for port security.
 
  __Effective Date of 2004 Amendment__ 
 
-[Pub. L. 108–293, title VIII, § 804(c)][/us/pl/108/293/s804/c], Aug. 9, 2004, [118 Stat. 1081][/us/stat/118/1081], provided that: 
+[Pub. L. 108–293, title VIII][/us/pl/108/293/tVIII], § 804(c), Aug. 9, 2004, [118 Stat. 1081][/us/stat/118/1081], provided that: 
 
 > “Subsections (a) and (b) \[amending this section\]—
 
@@ -337,43 +341,47 @@
 ----------
 
 [/us/usc/t46/s70132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs70132
-[/us/usc/t42/s5121/j/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5121%2Fj%2F8
+[/us/usc/t42/s5196/j/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5196%2Fj%2F8
 [/us/usc/t46/s70132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs70132
 [/us/usc/t46/s70132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs70132
-[/us/pl/107/295/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295%2Fs102%2Fa
+[/us/pl/107/295/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295%2FtI
 [/us/stat/116/2075]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2075
-[/us/pl/108/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293
+[/us/pl/108/293/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293%2FtVIII
 [/us/stat/118/1081]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1081
-[/us/pl/109/347/s112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347%2Fs112
+[/us/pl/109/347/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347%2FtI
 [/us/stat/120/1894]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1894
-[/us/pl/111/281/s828/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs828%2Fb
+[/us/pl/111/281/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2FtVIII
 [/us/stat/124/3007]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3007
+[/us/pl/114/120/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F120%2FtIII
+[/us/stat/130/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F54
 [/us/pl/109/347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347
 [/us/pl/107/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295
 [/us/pl/107/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295
 [/us/stat/116/2064]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2064
-[/us/pl/111/281/s828/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs828%2Fb%2F1
+[/us/pl/114/120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F120
+[/us/pl/114/120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F120
+[/us/pl/111/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281
 [/us/usc/t46/s70132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs70132
-[/us/pl/111/281/s828/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs828%2Fb%2F2
-[/us/pl/111/281/s828/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs828%2Fb%2F3
-[/us/pl/111/281/s828/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs828%2Fb%2F4
-[/us/pl/109/347/s112/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347%2Fs112%2Fa
-[/us/pl/109/347/s112/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347%2Fs112%2Fb%2F1
+[/us/pl/111/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281
+[/us/pl/111/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281
+[/us/pl/111/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281
+[/us/pl/109/347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347
+[/us/pl/109/347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347
 [/us/usc/t42/s5121/j/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5121%2Fj%2F8
-[/us/pl/109/347/s112/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347%2Fs112%2Fb%2F2
-[/us/pl/109/347/s112/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347%2Fs112%2Fc%2F1
-[/us/pl/109/347/s112/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347%2Fs112%2Fc%2F2
-[/us/pl/109/347/s112/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347%2Fs112%2Fc%2F1
-[/us/pl/109/347/s112/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347%2Fs112%2Fd
-[/us/pl/109/347/s112/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347%2Fs112%2Fc%2F1
-[/us/pl/109/347/s112/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347%2Fs112%2Fc%2F1
-[/us/pl/108/293/s804/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293%2Fs804%2Fa
-[/us/pl/108/293/s804/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293%2Fs804%2Fb%2F1
-[/us/pl/108/293/s804/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293%2Fs804%2Fb%2F1
-[/us/pl/108/293/s804/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293%2Fs804%2Fb
-[/us/pl/108/293/s804/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293%2Fs804%2Fb%2F1
-[/us/pl/108/293/s808/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293%2Fs808%2Fa
-[/us/pl/108/293/s804/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293%2Fs804%2Fc
+[/us/pl/109/347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347
+[/us/pl/109/347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347
+[/us/pl/109/347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347
+[/us/pl/109/347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347
+[/us/pl/109/347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347
+[/us/pl/109/347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347
+[/us/pl/109/347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347
+[/us/pl/108/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293
+[/us/pl/108/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293
+[/us/pl/108/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293
+[/us/pl/108/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293
+[/us/pl/108/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293
+[/us/pl/108/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293
+[/us/pl/108/293/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293%2FtVIII
 [/us/stat/118/1081]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1081
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542

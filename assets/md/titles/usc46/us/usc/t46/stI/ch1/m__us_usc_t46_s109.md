@@ -23,7 +23,7 @@
 
     In the context of capital construction funds under chapter 535 of this title, and in the context of construction-differential subsidies under title V of the Merchant Marine Act, 1936, the terms “foreign commerce” and “foreign trade” also include, in the case of liquid and dry bulk cargo carrying services, trading between foreign ports in accordance with normal commercial bulk shipping practices in a manner that will permit bulk vessels of the United States to compete freely with foreign bulk vessels in their operation or competition for charters, subject to regulations prescribed by the Secretary of Transportation.
 
-([Pub. L. 109–304, § 4][/us/pl/109/304/s4], Oct. 6, 2006, [120 Stat. 1487][/us/stat/120/1487].)
+([Pub. L. 109–304][/us/pl/109/304], § 4, Oct. 6, 2006, [120 Stat. 1487][/us/stat/120/1487].)
 
 <table>
 
@@ -84,7 +84,7 @@ June 29, 1936, ch. 858, title IX, § 905(a), 49 Stat. 2016; June 23, 1938, ch.
 ----------
 ----------
 
-[/us/pl/109/304/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs4
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1487]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1487
 [/us/act/1936-06-29/ch858]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-06-29%2Fch858
 [/us/stat/49/1985]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F1985

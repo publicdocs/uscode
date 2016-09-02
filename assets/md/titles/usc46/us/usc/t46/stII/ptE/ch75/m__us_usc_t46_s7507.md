@@ -35,7 +35,7 @@
 
     Any extensions granted under this section may be granted to individual seamen or a specifically identified group of seamen.
 
-(Added [Pub. L. 111–281, title VI, § 615(a)][/us/pl/111/281/s615/a], Oct. 15, 2010, [124 Stat. 2971][/us/stat/124/2971]; amended [Pub. L. 112–213, title III, § 311][/us/pl/112/213/s311], Dec. 20, 2012, [126 Stat. 1569][/us/stat/126/1569].)
+(Added [Pub. L. 111–281, title VI][/us/pl/111/281/tVI], § 615(a), Oct. 15, 2010, [124 Stat. 2971][/us/stat/124/2971]; amended [Pub. L. 112–213, title III][/us/pl/112/213/tIII], § 311, Dec. 20, 2012, [126 Stat. 1569][/us/stat/126/1569].)
 
  __Amendments__ 
 
@@ -48,9 +48,9 @@
 ----------
 ----------
 
-[/us/pl/111/281/s615/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs615%2Fa
+[/us/pl/111/281/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2FtVI
 [/us/stat/124/2971]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2971
-[/us/pl/112/213/s311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F213%2Fs311
+[/us/pl/112/213/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F213%2FtIII
 [/us/stat/126/1569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1569
 [/us/pl/112/213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F213
 

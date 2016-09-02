@@ -15,47 +15,81 @@
 
 ## § 3104. Survival craft
 
-    (a) Except as provided in subsection (b), the Secretary may not approve a survival craft as a safety device for purposes of this part, unless the craft ensures that no part of an individual is immersed in water.
+    (a)  __Requirement To Equip__  __.—__ 
 
-    (b)
+    The Secretary shall require that a passenger vessel be equipped with survival craft that ensures that no part of an individual is immersed in water, if—
 
-     The Secretary may authorize a survival craft that does not provide protection described in subsection (a) to remain in service until not later than the date that is 30 months after the date on which the report described in subsection (c) is submitted, if—
+        (1) such vessel is built or undergoes a major conversion after January 1, 2016; and
 
-        (1) it was approved by the Secretary before January 1, 2010; and
+        (2) operates in cold waters as determined by the Secretary.
 
-        (2) it is in serviceable condition.
+    (b)  __Higher Standard of Safety__  __.—__ 
 
-    (c)  __Report__  __.—__ 
+    The Secretary may revise part 117 or part 180 of title 46, Code of Federal Regulations, as in effect before January 1, 2016, if such revision provides a higher standard of safety than is provided by the regulations in effect on or before the date of the enactment of the Coast Guard Authorization Act of 2015.
 
-    Not later than 180 days after the date of enactment of this subsection, the Commandant of the Coast Guard shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report on the carriage of survival craft that ensures no part of an individual is immersed in water, which shall include—
+    (c)  __Innovative and Novel Designs__  __.—__ 
 
-        (1) the number of casualties, by vessel type and area of operation, as the result of immersion in water reported to the Coast Guard for each of fiscal years 1991 through 2011;
+    The Secretary may, in lieu of the requirements set out in part 117 or part 180 of title 46, Code of Federal Regulations, as in effect on the date of the enactment of the Coast Guard Authorization Act of 2015, allow a passenger vessel to be equipped with a life-saving appliance or arrangement of an innovative or novel design that—
 
-        (2)
+        (1) ensures no part of an individual is immersed in water; and
 
-         the effect the carriage of such survival craft has on—
+        (2) provides an equal or higher standard of safety than is provided by such requirements as in effect before such date of the enactment.
 
-            (A) vessel safety, including stability and safe navigation; and
+    (d) __Built Defined.—__ 
 
-            (B) survivability of individuals, including persons with disabilities, children, and the elderly;
+    In this section, the term “built” has the meaning that term has under section 4503(e).
 
-        (3) the efficacy of alternative safety systems, devices, or measures;
-
-        (4) the cost and cost effectiveness of requiring the carriage of such survival craft on vessels; and
-
-        (5) the number of small businesses and nonprofit entities that would be affected by requiring the carriage of such survival craft on vessels.
-
-(Added [Pub. L. 111–281, title VI, § 609(a)][/us/pl/111/281/s609/a], Oct. 15, 2010, [124 Stat. 2968][/us/stat/124/2968]; amended [Pub. L. 112–213, title III, § 303][/us/pl/112/213/s303], Dec. 20, 2012, [126 Stat. 1563][/us/stat/126/1563].)
+(Added [Pub. L. 111–281, title VI][/us/pl/111/281/tVI], § 609(a), Oct. 15, 2010, [124 Stat. 2968][/us/stat/124/2968]; amended [Pub. L. 112–213, title III][/us/pl/112/213/tIII], § 303, Dec. 20, 2012, [126 Stat. 1563][/us/stat/126/1563]; [Pub. L. 114–120, title III][/us/pl/114/120/tIII], § 301(a), Feb. 8, 2016, [130 Stat. 50][/us/stat/130/50].)
 
  __References in Text__ 
 
-    The date of enactment of this subsection, referred to in subsec. (c), is the date of enactment of [Pub. L. 112–213][/us/pl/112/213], which was approved Dec. 20, 2012.
+    The date of the enactment of the Coast Guard Authorization Act of 2015, referred to in subsecs. (b) and (c), is the date of enactment of [Pub. L. 114–120][/us/pl/114/120], which was approved Feb. 8, 2016.
 
  __Amendments__ 
 
-    2012—Subsec. (b). [Pub. L. 112–213, § 303(1)][/us/pl/112/213/s303/1], substituted “the date that is 30 months after the date on which the report described in subsection (c) is submitted” for “January 1, 2015” in introductory provisions.
+    2016—[Pub. L. 114–120][/us/pl/114/120] amended section generally. Prior to amendment, section related to survival craft.
 
-    Subsec. (c). [Pub. L. 112–213, § 303(2)][/us/pl/112/213/s303/2], added subsec. (c).
+    2012—Subsec. (b). [Pub. L. 112–213][/us/pl/112/213], § 303(1), substituted “the date that is 30 months after the date on which the report described in subsection (c) is submitted” for “January 1, 2015” in introductory provisions.
+
+    Subsec. (c). [Pub. L. 112–213][/us/pl/112/213], § 303(2), added subsec. (c).
+
+ __Review; Revision of Regulations__ 
+
+[Pub. L. 114–120, title III][/us/pl/114/120/tIII], § 301(b), Feb. 8, 2016, [130 Stat. 50][/us/stat/130/50], provided that:
+
+>     “(1)  __Review__  __.—__ 
+
+>     Not later than December 31, 2016, the Secretary of the department in which the Coast Guard is operating shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a review of—
+
+>         “(A) the number of casualties for individuals with disabilities, children, and the elderly as a result of immersion in water, reported to the Coast Guard over the preceding 30-year period, by vessel type and area of operation;
+
+>         “(B) the risks to individuals with disabilities, children, and the elderly as a result of immersion in water, by passenger vessel type and area of operation;
+
+>         “(C)
+
+>          the effect that carriage of survival craft that ensure that no part of an individual is immersed in water has on—
+
+>             “(i) passenger vessel safety, including stability and safe navigation;
+
+>             “(ii) improving the survivability of individuals, including individuals with disabilities, children, and the elderly; and
+
+>             “(iii) the costs, the incremental cost difference to vessel operators, and the cost effectiveness of requiring the carriage of such survival craft to address the risks to individuals with disabilities, children, and the elderly;
+
+>         “(D) the efficacy of alternative safety systems, devices, or measures in improving survivability of individuals with disabilities, children, and the elderly; and
+
+>         “(E) the number of small businesses and nonprofit vessel operators that would be affected by requiring the carriage of such survival craft on passenger vessels to address the risks to individuals with disabilities, children, and the elderly.
+
+>     “(2)  __Scope__  __.—__ 
+
+>     In conducting the review under paragraph (1), the Secretary shall include an examination of passenger vessel casualties that have occurred in the waters of other nations.
+
+>     “(3)  __Updates__  __.—__ 
+
+>     The Secretary shall update the review required under paragraph (1) every 5 years.
+
+>     “(4)  __Revision__  __.—__ 
+
+>     Based on the review conducted under paragraph (1), including updates thereto, the Secretary shall revise regulations concerning the carriage of survival craft under [section 3104(c) of title 46][/us/usc/t46/s3104/c], United States Code.”
 
 ----------
 
@@ -64,12 +98,18 @@
 ----------
 ----------
 
-[/us/pl/111/281/s609/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs609%2Fa
+[/us/pl/111/281/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2FtVI
 [/us/stat/124/2968]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2968
-[/us/pl/112/213/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F213%2Fs303
+[/us/pl/112/213/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F213%2FtIII
 [/us/stat/126/1563]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1563
+[/us/pl/114/120/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F120%2FtIII
+[/us/stat/130/50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F50
+[/us/pl/114/120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F120
+[/us/pl/114/120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F120
 [/us/pl/112/213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F213
-[/us/pl/112/213/s303/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F213%2Fs303%2F1
-[/us/pl/112/213/s303/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F213%2Fs303%2F2
+[/us/pl/112/213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F213
+[/us/pl/114/120/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F120%2FtIII
+[/us/stat/130/50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F50
+[/us/usc/t46/s3104/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs3104%2Fc
 
 

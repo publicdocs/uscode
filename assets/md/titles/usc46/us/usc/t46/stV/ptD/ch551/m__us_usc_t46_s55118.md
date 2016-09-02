@@ -17,7 +17,7 @@
 
     A foreign railroad, whose road enters the United States by ferry, tugboat, or towboat, may own and operate a vessel not having a coastwise endorsement in connection with the water transportation of the passenger, freight, express, baggage, and mail cars used by that road, together with the passengers, freight, express matter, baggage, and mails transported in those cars. However, the foreign railroad is subject to the same restrictions imposed by law on a vessel of the United States entering a port of the United States from the same foreign country. Except as otherwise authorized by this chapter, the ferry, tugboat, or towboat may not, under penalty of forfeiture, be used in the transportation of merchandise between ports or places in the United States to which the coastwise laws apply.
 
-([Pub. L. 109–304, § 8(c)][/us/pl/109/304/s8/c], Oct. 6, 2006, [120 Stat. 1640][/us/stat/120/1640].)
+([Pub. L. 109–304][/us/pl/109/304], § 8(c), Oct. 6, 2006, [120 Stat. 1640][/us/stat/120/1640].)
 
 <table>
 
@@ -74,7 +74,7 @@ R.S. § 4370(c); restated June 11, 1940, ch. 324, 54 Stat. 304.  </td>
 ----------
 ----------
 
-[/us/pl/109/304/s8/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs8%2Fc
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1640]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1640
 
 

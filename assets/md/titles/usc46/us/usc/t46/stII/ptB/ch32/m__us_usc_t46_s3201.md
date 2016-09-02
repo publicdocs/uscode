@@ -43,11 +43,11 @@
 
         (C) departing from a place under the jurisdiction of the United States for a place in a foreign country.
 
-(Added [Pub. L. 104–324, title VI, § 602(a)][/us/pl/104/324/s602/a], Oct. 19, 1996, [110 Stat. 3928][/us/stat/110/3928].)
+(Added [Pub. L. 104–324, title VI][/us/pl/104/324/tVI], § 602(a), Oct. 19, 1996, [110 Stat. 3928][/us/stat/110/3928].)
 
  __Safety Management Code Report and Policy__ 
 
-[Pub. L. 105–383, title III, § 306][/us/pl/105/383/s306], Nov. 13, 1998, [112 Stat. 3420][/us/stat/112/3420], provided that:
+[Pub. L. 105–383, title III][/us/pl/105/383/tIII], § 306, Nov. 13, 1998, [112 Stat. 3420][/us/stat/112/3420], provided that:
 
 >     “(a) __Report on Implementation and Enforcement of the International Safety Management Code.—__ 
 
@@ -89,7 +89,7 @@
 
  __Vessel Management Methods Study__ 
 
-[Pub. L. 104–324, title VI, § 602(c)][/us/pl/104/324/s602/c], Oct. 19, 1996, [110 Stat. 3930][/us/stat/110/3930], provided that:
+[Pub. L. 104–324, title VI][/us/pl/104/324/tVI], § 602(c), Oct. 19, 1996, [110 Stat. 3930][/us/stat/110/3930], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -114,11 +114,11 @@
 ----------
 ----------
 
-[/us/pl/104/324/s602/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2Fs602%2Fa
+[/us/pl/104/324/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2FtVI
 [/us/stat/110/3928]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3928
-[/us/pl/105/383/s306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F383%2Fs306
+[/us/pl/105/383/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F383%2FtIII
 [/us/stat/112/3420]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3420
-[/us/pl/104/324/s602/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2Fs602%2Fc
+[/us/pl/104/324/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2FtVI
 [/us/stat/110/3930]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3930
 [/us/usc/t46/s3203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs3203
 [/us/usc/t33/s1602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1602

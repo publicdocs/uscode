@@ -31,7 +31,7 @@
 
     A seaman engaged in vessel operations of the Secretary under this section and employed through a general agent in connection with a charter or agreement under this section is entitled to all the rights and remedies provided in sections 1(a) and (c), 3(c), and 4 of the Act of March 24, 1943 (50 App. U.S.C. 1291(a), (c), 1293(c), 1294). <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup> 
 
-([Pub. L. 109–304, § 8(c)][/us/pl/109/304/s8/c], Oct. 6, 2006, [120 Stat. 1670][/us/stat/120/1670].)
+([Pub. L. 109–304][/us/pl/109/304], § 8(c), Oct. 6, 2006, [120 Stat. 1670][/us/stat/120/1670].)
 
 <table>
 
@@ -93,7 +93,7 @@ June 29, 1936, ch. 858, title VII, § 715, as added July 11, 1956, ch. 574, 70
 ----------
 
 [/us/usc/t46/s57517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs57517
-[/us/pl/109/304/s8/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs8%2Fc
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1670]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1670
 [/us/act/1943-03-24/ch26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1943-03-24%2Fch26
 [/us/stat/57/45]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F57%2F45

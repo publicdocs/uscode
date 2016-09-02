@@ -21,7 +21,7 @@
 
     (c) If a person fails to pay an assessment of a civil penalty after it has become final, the Secretary may refer the matter to the Attorney General for collection in an appropriate district court of the United States.
 
-([Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 506][/us/stat/97/506]; [Pub. L. 109–241, title III, § 306(b)][/us/pl/109/241/s306/b], July 11, 2006, [120 Stat. 528][/us/stat/120/528].)
+([Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 506][/us/stat/97/506]; [Pub. L. 109–241, title III][/us/pl/109/241/tIII], § 306(b), July 11, 2006, [120 Stat. 528][/us/stat/120/528].)
 
 <table>
 
@@ -90,7 +90,7 @@ Source section (U.S. Code)  </td>
 
 [/us/pl/98/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F89
 [/us/stat/97/506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F506
-[/us/pl/109/241/s306/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241%2Fs306%2Fb
+[/us/pl/109/241/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241%2FtIII
 [/us/stat/120/528]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F528
 [/us/pl/109/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241
 

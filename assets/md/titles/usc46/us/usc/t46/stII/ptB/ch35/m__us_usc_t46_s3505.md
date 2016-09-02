@@ -17,7 +17,7 @@
 
     Notwithstanding [section 3303 of this title][/us/usc/t46/s3303], a foreign vessel carrying a citizen of the United States as a passenger or embarking passengers from a United States port may not depart from a United States port if the Secretary finds that the vessel does not comply with the standards stated in the International Convention for the Safety of Life at Sea to which the United States Government is currently a party.
 
-([Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 520][/us/stat/97/520]; [Pub. L. 102–587, title V, § 5210(b)][/us/pl/102/587/s5210/b], Nov. 4, 1992, [106 Stat. 5076][/us/stat/106/5076]; [Pub. L. 108–293, title IV, § 411(a)][/us/pl/108/293/s411/a], Aug. 9, 2004, [118 Stat. 1045][/us/stat/118/1045].)
+([Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 520][/us/stat/97/520]; [Pub. L. 102–587, title V][/us/pl/102/587/tV], § 5210(b), Nov. 4, 1992, [106 Stat. 5076][/us/stat/106/5076]; [Pub. L. 108–293, title IV][/us/pl/108/293/tIV], § 411(a), Aug. 9, 2004, [118 Stat. 1045][/us/stat/118/1045].)
 
 <table>
 
@@ -77,9 +77,9 @@ Source section (U.S. Code)  </td>
 [/us/usc/t46/s3303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs3303
 [/us/pl/98/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F89
 [/us/stat/97/520]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F520
-[/us/pl/102/587/s5210/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F587%2Fs5210%2Fb
+[/us/pl/102/587/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F587%2FtV
 [/us/stat/106/5076]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F5076
-[/us/pl/108/293/s411/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293%2Fs411%2Fa
+[/us/pl/108/293/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293%2FtIV
 [/us/stat/118/1045]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1045
 [/us/pl/108/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293
 [/us/usc/t46/s3303/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs3303%2Fa

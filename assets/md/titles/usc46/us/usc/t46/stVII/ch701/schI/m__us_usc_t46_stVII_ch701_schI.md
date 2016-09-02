@@ -17,7 +17,7 @@
 
  __Amendments__ 
 
-    [Pub. L. 111–330, § 1(17)(A)][/us/pl/111/330/s1/17/A], Dec. 22, 2010, [124 Stat. 3570][/us/stat/124/3570], amended [Pub. L. 111–281, title VIII, § 828(c)(1)][/us/pl/111/281/s828/c/1], Oct. 15, 2010, [124 Stat. 3007][/us/stat/124/3007], which added subchapter I heading.
+    [Pub. L. 111–330][/us/pl/111/330], § 1(17)(A), Dec. 22, 2010, [124 Stat. 3570][/us/stat/124/3570], amended [Pub. L. 111–281, title VIII][/us/pl/111/281/tVIII], § 828(c)(1), Oct. 15, 2010, [124 Stat. 3007][/us/stat/124/3007], which added subchapter I heading.
 
 ----------
 
@@ -26,9 +26,9 @@
 ----------
 ----------
 
-[/us/pl/111/330/s1/17/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F330%2Fs1%2F17%2FA
+[/us/pl/111/330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F330
 [/us/stat/124/3570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3570
-[/us/pl/111/281/s828/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs828%2Fc%2F1
+[/us/pl/111/281/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2FtVIII
 [/us/stat/124/3007]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3007
 
 

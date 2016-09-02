@@ -17,7 +17,7 @@
 
     The President may make an international agreement with other governments interested in the navigation of the North Atlantic Ocean, providing for the reporting, marking, and removal of dangerous wrecks, derelicts, and other menaces to navigation outside the coast waters of the countries bordering the North Atlantic Ocean.
 
-([Pub. L. 109–304, § 11][/us/pl/109/304/s11], Oct. 6, 2006, [120 Stat. 1691][/us/stat/120/1691].)
+([Pub. L. 109–304][/us/pl/109/304], § 11, Oct. 6, 2006, [120 Stat. 1691][/us/stat/120/1691].)
 
 <table>
 
@@ -72,7 +72,7 @@ Oct. 31, 1893, No. 13, 28 Stat. 13.  </td>
 ----------
 ----------
 
-[/us/pl/109/304/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs11
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1691
 
 

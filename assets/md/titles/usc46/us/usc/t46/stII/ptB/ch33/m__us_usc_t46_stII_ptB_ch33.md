@@ -181,9 +181,9 @@
 
  __Amendments__ 
 
-    1996—[Pub. L. 104–324, title VI, § 607(b)(2)][/us/pl/104/324/s607/b/2], Oct. 19, 1996, [110 Stat. 3932][/us/stat/110/3932], substituted “Classification societies” for “United States classification societies” in item 3316.
+    1996—[Pub. L. 104–324, title VI][/us/pl/104/324/tVI], § 607(b)(2), Oct. 19, 1996, [110 Stat. 3932][/us/stat/110/3932], substituted “Classification societies” for “United States classification societies” in item 3316.
 
-    1986—[Pub. L. 99–307, § 1(5)(B)][/us/pl/99/307/s1/5/B], May 19, 1986, [100 Stat. 445][/us/stat/100/445], substituted “Transporting” for “Carrying” in item 3304.
+    1986—[Pub. L. 99–307][/us/pl/99/307], § 1(5)(B), May 19, 1986, [100 Stat. 445][/us/stat/100/445], substituted “Transporting” for “Carrying” in item 3304.
 
 ----------
 
@@ -192,9 +192,9 @@
 ----------
 ----------
 
-[/us/pl/104/324/s607/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2Fs607%2Fb%2F2
+[/us/pl/104/324/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2FtVI
 [/us/stat/110/3932]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3932
-[/us/pl/99/307/s1/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F307%2Fs1%2F5%2FB
+[/us/pl/99/307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F307
 [/us/stat/100/445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F445
 
 

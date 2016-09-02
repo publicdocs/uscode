@@ -45,7 +45,7 @@
 
     Whenever the Commission has suspended a rate, charge, classification, rule, or regulation under this section, the controlled carrier may publish a new rate, charge, classification, rule, or regulation to take effect immediately during the suspension in lieu of the suspended rate, charge, classification, rule, or regulation. However, the Commission may reject the new rate, charge, classification, rule, or regulation if the Commission believes it is unjust and unreasonable.
 
-([Pub. L. 109–304, § 7][/us/pl/109/304/s7], Oct. 6, 2006, [120 Stat. 1536][/us/stat/120/1536].)
+([Pub. L. 109–304][/us/pl/109/304], § 7, Oct. 6, 2006, [120 Stat. 1536][/us/stat/120/1536].)
 
 <table>
 
@@ -102,7 +102,7 @@ Pub. L. 98–237, § 9(c) (last sentence), (d), Mar. 20, 1984, 98 Stat. 76; Pu
 ----------
 ----------
 
-[/us/pl/109/304/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs7
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1536
 
 

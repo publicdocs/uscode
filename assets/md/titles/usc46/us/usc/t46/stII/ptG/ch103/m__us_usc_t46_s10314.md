@@ -37,7 +37,7 @@
 
     (e) This section does not apply to a fishing or whaling vessel or a yacht.
 
-([Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 567][/us/stat/97/567]; [Pub. L. 99–640, § 10(b)(4)][/us/pl/99/640/s10/b/4], Nov. 10, 1986, [100 Stat. 3550][/us/stat/100/3550].)
+([Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 567][/us/stat/97/567]; [Pub. L. 99–640][/us/pl/99/640], § 10(b)(4), Nov. 10, 1986, [100 Stat. 3550][/us/stat/100/3550].)
 
 <table>
 
@@ -91,7 +91,7 @@ Source section (U.S. Code)  </td>
 [/us/usc/t46/s10302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs10302
 [/us/pl/98/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F89
 [/us/stat/97/567]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F567
-[/us/pl/99/640/s10/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F640%2Fs10%2Fb%2F4
+[/us/pl/99/640]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F640
 [/us/stat/100/3550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3550
 [/us/pl/99/640]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F640
 

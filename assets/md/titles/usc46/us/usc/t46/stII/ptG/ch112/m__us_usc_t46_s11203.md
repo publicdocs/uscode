@@ -35,7 +35,7 @@
 
     An official who is requested under subsection (a)(2) to correct the service records of a person shall make such correction.
 
-(Added [Pub. L. 105–368, title IV, § 402(a)][/us/pl/105/368/s402/a], Nov. 11, 1998, [112 Stat. 3337][/us/stat/112/3337].)
+(Added [Pub. L. 105–368, title IV][/us/pl/105/368/tIV], § 402(a), Nov. 11, 1998, [112 Stat. 3337][/us/stat/112/3337].)
 
  __References in Text__ 
 
@@ -49,7 +49,7 @@
 ----------
 
 [/us/usc/t38/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs106
-[/us/pl/105/368/s402/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368%2Fs402%2Fa
+[/us/pl/105/368/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368%2FtIV
 [/us/stat/112/3337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3337
 [/us/pl/95/202/s401/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F202%2Fs401%2Fa%2F1%2FB
 [/us/usc/t38/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs106

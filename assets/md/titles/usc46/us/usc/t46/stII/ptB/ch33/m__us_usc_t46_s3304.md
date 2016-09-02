@@ -25,7 +25,7 @@
 
     (e) The Secretary may by regulation allow individuals in addition to the crew to be transported in an emergency or under [section 2304 of this title][/us/usc/t46/s2304].
 
-([Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 513][/us/stat/97/513]; [Pub. L. 98–364, title IV, § 402(4)][/us/pl/98/364/s402/4], July 17, 1984, [98 Stat. 446][/us/stat/98/446]; [Pub. L. 99–307, § 1(5)(A)][/us/pl/99/307/s1/5/A], May 19, 1986, [100 Stat. 444][/us/stat/100/444].)
+([Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 513][/us/stat/97/513]; [Pub. L. 98–364, title IV][/us/pl/98/364/tIV], § 402(4), July 17, 1984, [98 Stat. 446][/us/stat/98/446]; [Pub. L. 99–307][/us/pl/99/307], § 1(5)(A), May 19, 1986, [100 Stat. 444][/us/stat/100/444].)
 
 <table>
 
@@ -69,15 +69,15 @@ Source section (U.S. Code)  </td>
 
  __Amendments__ 
 
-    1986—[Pub. L. 99–307, § 1(5)(A)(i)][/us/pl/99/307/s1/5/A/i], substituted “Transporting” for “Carrying” in section catchline.
+    1986—[Pub. L. 99–307][/us/pl/99/307], § 1(5)(A)(i), substituted “Transporting” for “Carrying” in section catchline.
 
-    Subsec. (a). [Pub. L. 99–307, § 1(5)(A)(ii)][/us/pl/99/307/s1/5/A/ii], substituted “transporting cargo that transports” for “carrying cargo that carries” and inserted “if the vessel is otherwise subject to inspection under this chapter”.
+    Subsec. (a). [Pub. L. 99–307][/us/pl/99/307], § 1(5)(A)(ii), substituted “transporting cargo that transports” for “carrying cargo that carries” and inserted “if the vessel is otherwise subject to inspection under this chapter”.
 
-    Subsec. (b). [Pub. L. 99–307, § 1(5)(A)(iii)][/us/pl/99/307/s1/5/A/iii], substituted “Except when subsection (e) of this section applies, before” for “Before” and “transported” for “carried”.
+    Subsec. (b). [Pub. L. 99–307][/us/pl/99/307], § 1(5)(A)(iii), substituted “Except when subsection (e) of this section applies, before” for “Before” and “transported” for “carried”.
 
-    Subsec. (c). [Pub. L. 99–307, § 1(5)(A)(iv)][/us/pl/99/307/s1/5/A/iv], substituted “A privilege” for “The privilege”.
+    Subsec. (c). [Pub. L. 99–307][/us/pl/99/307], § 1(5)(A)(iv), substituted “A privilege” for “The privilege”.
 
-    Subsec. (e). [Pub. L. 99–307, § 1(5)(A)(v)][/us/pl/99/307/s1/5/A/v], added subsec. (e).
+    Subsec. (e). [Pub. L. 99–307][/us/pl/99/307], § 1(5)(A)(v), added subsec. (e).
 
     1984—Subsec. (d). [Pub. L. 98–364][/us/pl/98/364] added subsec. (d).
 
@@ -91,15 +91,15 @@ Source section (U.S. Code)  </td>
 [/us/usc/t46/s2304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs2304
 [/us/pl/98/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F89
 [/us/stat/97/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F513
-[/us/pl/98/364/s402/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F364%2Fs402%2F4
+[/us/pl/98/364/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F364%2FtIV
 [/us/stat/98/446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F446
-[/us/pl/99/307/s1/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F307%2Fs1%2F5%2FA
+[/us/pl/99/307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F307
 [/us/stat/100/444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F444
-[/us/pl/99/307/s1/5/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F307%2Fs1%2F5%2FA%2Fi
-[/us/pl/99/307/s1/5/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F307%2Fs1%2F5%2FA%2Fii
-[/us/pl/99/307/s1/5/A/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F307%2Fs1%2F5%2FA%2Fiii
-[/us/pl/99/307/s1/5/A/iv]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F307%2Fs1%2F5%2FA%2Fiv
-[/us/pl/99/307/s1/5/A/v]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F307%2Fs1%2F5%2FA%2Fv
+[/us/pl/99/307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F307
+[/us/pl/99/307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F307
+[/us/pl/99/307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F307
+[/us/pl/99/307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F307
+[/us/pl/99/307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F307
 [/us/pl/98/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F364
 
 

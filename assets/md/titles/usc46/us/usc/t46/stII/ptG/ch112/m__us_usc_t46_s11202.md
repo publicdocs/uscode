@@ -31,7 +31,7 @@
 
     (2) while so serving, was licensed or otherwise documented for service as a crewmember of such a vessel by an officer or employee of the United States authorized to license or document the person for such service.
 
-(Added [Pub. L. 105–368, title IV, § 402(a)][/us/pl/105/368/s402/a], Nov. 11, 1998, [112 Stat. 3336][/us/stat/112/3336].)
+(Added [Pub. L. 105–368, title IV][/us/pl/105/368/tIV], § 402(a), Nov. 11, 1998, [112 Stat. 3336][/us/stat/112/3336].)
 
 ----------
 
@@ -40,7 +40,7 @@
 ----------
 ----------
 
-[/us/pl/105/368/s402/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368%2Fs402%2Fa
+[/us/pl/105/368/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368%2FtIV
 [/us/stat/112/3336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3336
 
 

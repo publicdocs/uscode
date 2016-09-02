@@ -87,7 +87,7 @@
 
     (j) The Secretary shall, as soon as possible, and no later than January 1, 2005, publish all marine casualty reports prepared in accordance with this section in an electronic form.
 
-([Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 536][/us/stat/97/536]; [Pub. L. 98–498, title II, § 212(b)(1)][/us/pl/98/498/s212/b/1], Oct. 19, 1984, [98 Stat. 2306][/us/stat/98/2306]; [Pub. L. 98–557, § 7(b)(1)][/us/pl/98/557/s7/b/1], Oct. 30, 1984, [98 Stat. 2862][/us/stat/98/2862]; [Pub. L. 101–380, title IV, § 4106(b)][/us/pl/101/380/s4106/b], Aug. 18, 1990, [104 Stat. 513][/us/stat/104/513]; [Pub. L. 102–241, § 33][/us/pl/102/241/s33], Dec. 19, 1991, [105 Stat. 2222][/us/stat/105/2222]; [Pub. L. 107–295, title IV][/us/pl/107/295], §§ 423, 442(a), Nov. 25, 2002, [116 Stat. 2125][/us/stat/116/2125], 2132; [Pub. L. 109–241, title IX, § 901][/us/pl/109/241/s901](o), July 11, 2006, [120 Stat. 565][/us/stat/120/565]; [Pub. L. 109–304, § 15(21)][/us/pl/109/304/s15/21], Oct. 6, 2006, [120 Stat. 1704][/us/stat/120/1704]; [Pub. L. 110–181, div. C, title XXXV, § 3529(c)(1)][/us/pl/110/181/s3529/c/1], Jan. 28, 2008, [122 Stat. 603][/us/stat/122/603]; [Pub. L. 113–281, title III, § 312][/us/pl/113/281/s312], Dec. 18, 2014, [128 Stat. 3048][/us/stat/128/3048].)
+([Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 536][/us/stat/97/536]; [Pub. L. 98–498, title II][/us/pl/98/498/tII], § 212(b)(1), Oct. 19, 1984, [98 Stat. 2306][/us/stat/98/2306]; [Pub. L. 98–557][/us/pl/98/557], § 7(b)(1), Oct. 30, 1984, [98 Stat. 2862][/us/stat/98/2862]; [Pub. L. 101–380, title IV][/us/pl/101/380/tIV], § 4106(b), Aug. 18, 1990, [104 Stat. 513][/us/stat/104/513]; [Pub. L. 102–241][/us/pl/102/241], § 33, Dec. 19, 1991, [105 Stat. 2222][/us/stat/105/2222]; [Pub. L. 107–295, title IV][/us/pl/107/295/tIV], §§ 423, 442(a), Nov. 25, 2002, [116 Stat. 2125][/us/stat/116/2125], 2132; [Pub. L. 109–241, title IX][/us/pl/109/241/tIX], § 901(o), July 11, 2006, [120 Stat. 565][/us/stat/120/565]; [Pub. L. 109–304][/us/pl/109/304], § 15(21), Oct. 6, 2006, [120 Stat. 1704][/us/stat/120/1704]; [Pub. L. 110–181, div. C, title XXXV][/us/pl/110/181/dC/tXXXV], § 3529(c)(1), Jan. 28, 2008, [122 Stat. 603][/us/stat/122/603]; [Pub. L. 113–281, title III][/us/pl/113/281/tIII], § 312, Dec. 18, 2014, [128 Stat. 3048][/us/stat/128/3048].)
 
 <table>
 
@@ -155,41 +155,41 @@ Source section (U.S. Code)  </td>
 
  __Amendments__ 
 
-    2014—Subsec. (c). [Pub. L. 113–281, § 312(1)][/us/pl/113/281/s312/1], added subsec. (c).
+    2014—Subsec. (c). [Pub. L. 113–281][/us/pl/113/281], § 312(1), added subsec. (c).
 
-    Subsecs. (h), (i). [Pub. L. 113–281, § 312(2)][/us/pl/113/281/s312/2], in subsec. (h), struck out “(1)” before “The Secretary” and redesignated par. (2) as subsec. (i) and, in subsec. (i), substituted “section” for “paragraph” in introductory provisions and redesignated former subpars. (A) to (D) as pars. (1) to (4), respectively. Former subsec. (i) redesignated (j).
+    Subsecs. (h), (i). [Pub. L. 113–281][/us/pl/113/281], § 312(2), in subsec. (h), struck out “(1)” before “The Secretary” and redesignated par. (2) as subsec. (i) and, in subsec. (i), substituted “section” for “paragraph” in introductory provisions and redesignated former subpars. (A) to (D) as pars. (1) to (4), respectively. Former subsec. (i) redesignated (j).
 
-    Subsec. (j). [Pub. L. 113–281, § 312(3)][/us/pl/113/281/s312/3], resesignated subsec. (i) as (j).
+    Subsec. (j). [Pub. L. 113–281][/us/pl/113/281], § 312(3), resesignated subsec. (i) as (j).
 
-    2008—Subsecs. (g) to (i). [Pub. L. 110–181][/us/pl/110/181] repealed [Pub. L. 109–304, § 15(21)][/us/pl/109/304/s15/21]. See 2006 Amendment notes below.
+    2008—Subsecs. (g) to (i). [Pub. L. 110–181][/us/pl/110/181] repealed [Pub. L. 109–304][/us/pl/109/304], § 15(21). See 2006 Amendment notes below.
 
-    2006—Subsecs. (g) to (i). [Pub. L. 109–304, § 15(21)][/us/pl/109/304/s15/21], which directed amendment identical to that made by [Pub. L. 109–241][/us/pl/109/241], was repealed by [Pub. L. 110–181][/us/pl/110/181]. See Construction of 2006 Amendment note below.
+    2006—Subsecs. (g) to (i). [Pub. L. 109–304][/us/pl/109/304], § 15(21), which directed amendment identical to that made by [Pub. L. 109–241][/us/pl/109/241], was repealed by [Pub. L. 110–181][/us/pl/110/181]. See Construction of 2006 Amendment note below.
 
     [Pub. L. 109–241][/us/pl/109/241] redesignated the second subsec. (g), relating to electronic publishing of marine casualty reports, and subsec. (h) as subsecs. (h) and (i), respectively.
 
-    2002—Subsecs. (e), (f). [Pub. L. 107–295, § 423(1)][/us/pl/107/295/s423/1], redesignated subsec. (e), relating to passenger vessel investigations, as subsec. (f).
+    2002—Subsecs. (e), (f). [Pub. L. 107–295][/us/pl/107/295], § 423(1), redesignated subsec. (e), relating to passenger vessel investigations, as subsec. (f).
 
-    Subsec. (g). [Pub. L. 107–295, § 442(a)][/us/pl/107/295/s442/a], added subsec. (g) relating to electronic publishing of marine casualty reports.
+    Subsec. (g). [Pub. L. 107–295][/us/pl/107/295], § 442(a), added subsec. (g) relating to electronic publishing of marine casualty reports.
 
-    [Pub. L. 107–295, § 423(2)][/us/pl/107/295/s423/2], added subsec. (g) relating to applicability of this part to a foreign vessel involved in a marine casualty or incident.
+    [Pub. L. 107–295][/us/pl/107/295], § 423(2), added subsec. (g) relating to applicability of this part to a foreign vessel involved in a marine casualty or incident.
 
-    Subsec. (h). [Pub. L. 107–295, § 442(a)][/us/pl/107/295/s442/a], added subsec. (h).
+    Subsec. (h). [Pub. L. 107–295][/us/pl/107/295], § 442(a), added subsec. (h).
 
     1991—Subsec. (e). [Pub. L. 102–241][/us/pl/102/241] added subsec. (e) relating to passenger vessel investigations.
 
-    1990—Subsec. (a)(5). [Pub. L. 101–380, § 4106(b)(1)][/us/pl/101/380/s4106/b/1], added par. (5).
+    1990—Subsec. (a)(5). [Pub. L. 101–380][/us/pl/101/380], § 4106(b)(1), added par. (5).
 
-    Subsec. (d). [Pub. L. 101–380, § 4106(b)(2)][/us/pl/101/380/s4106/b/2], designated existing provisions as par. (1) and added par. (2).
+    Subsec. (d). [Pub. L. 101–380][/us/pl/101/380], § 4106(b)(2), designated existing provisions as par. (1) and added par. (2).
 
-    1984—Subsec. (a). [Pub. L. 98–498, § 212(b)(1)(A)][/us/pl/98/498/s212/b/1/A], struck out “and incidents” after “marine casualties” in provisions preceding par. (1).
+    1984—Subsec. (a). [Pub. L. 98–498][/us/pl/98/498], § 212(b)(1)(A), struck out “and incidents” after “marine casualties” in provisions preceding par. (1).
 
     Subsec. (b). [Pub. L. 98–557][/us/pl/98/557] inserted provisions relating to alcohol as a contributing factor to the casualty.
 
-    Subsec. (c). [Pub. L. 98–498, § 212(b)(1)(B)][/us/pl/98/498/s212/b/1/B], struck out subsec. (c) which related to determination of status of a vessel that may be lost or imperiled and notification of the Coast Guard.
+    Subsec. (c). [Pub. L. 98–498][/us/pl/98/498], § 212(b)(1)(B), struck out subsec. (c) which related to determination of status of a vessel that may be lost or imperiled and notification of the Coast Guard.
 
  __Effective Date of 2002 Amendment__ 
 
-[Pub. L. 107–295, title IV, § 442(b)][/us/pl/107/295/s442/b], Nov. 25, 2002, [116 Stat. 2132][/us/stat/116/2132], provided that: 
+[Pub. L. 107–295, title IV][/us/pl/107/295/tIV], § 442(b), Nov. 25, 2002, [116 Stat. 2132][/us/stat/116/2132], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] applies to all marine casualty reports completed after the date of enactment of this Act \[Nov. 25, 2002\].”
 
@@ -218,44 +218,44 @@ Source section (U.S. Code)  </td>
 
 [/us/pl/98/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F89
 [/us/stat/97/536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F536
-[/us/pl/98/498/s212/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F498%2Fs212%2Fb%2F1
+[/us/pl/98/498/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F498%2FtII
 [/us/stat/98/2306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2306
-[/us/pl/98/557/s7/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F557%2Fs7%2Fb%2F1
-[/us/stat/98/2862]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2862
-[/us/pl/101/380/s4106/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2Fs4106%2Fb
-[/us/stat/104/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F513
-[/us/pl/102/241/s33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F241%2Fs33
-[/us/stat/105/2222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F2222
-[/us/pl/107/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295
-[/us/stat/116/2125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2125
-[/us/pl/109/241/s901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241%2Fs901
-[/us/stat/120/565]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F565
-[/us/pl/109/304/s15/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs15%2F21
-[/us/stat/120/1704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1704
-[/us/pl/110/181/s3529/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs3529%2Fc%2F1
-[/us/stat/122/603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F603
-[/us/pl/113/281/s312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281%2Fs312
-[/us/stat/128/3048]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3048
-[/us/pl/113/281/s312/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281%2Fs312%2F1
-[/us/pl/113/281/s312/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281%2Fs312%2F2
-[/us/pl/113/281/s312/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281%2Fs312%2F3
-[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
-[/us/pl/109/304/s15/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs15%2F21
-[/us/pl/109/304/s15/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs15%2F21
-[/us/pl/109/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241
-[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
-[/us/pl/109/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241
-[/us/pl/107/295/s423/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295%2Fs423%2F1
-[/us/pl/107/295/s442/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295%2Fs442%2Fa
-[/us/pl/107/295/s423/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295%2Fs423%2F2
-[/us/pl/107/295/s442/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295%2Fs442%2Fa
-[/us/pl/102/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F241
-[/us/pl/101/380/s4106/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2Fs4106%2Fb%2F1
-[/us/pl/101/380/s4106/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2Fs4106%2Fb%2F2
-[/us/pl/98/498/s212/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F498%2Fs212%2Fb%2F1%2FA
 [/us/pl/98/557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F557
-[/us/pl/98/498/s212/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F498%2Fs212%2Fb%2F1%2FB
-[/us/pl/107/295/s442/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295%2Fs442%2Fb
+[/us/stat/98/2862]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2862
+[/us/pl/101/380/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2FtIV
+[/us/stat/104/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F513
+[/us/pl/102/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F241
+[/us/stat/105/2222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F2222
+[/us/pl/107/295/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295%2FtIV
+[/us/stat/116/2125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2125
+[/us/pl/109/241/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241%2FtIX
+[/us/stat/120/565]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F565
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
+[/us/stat/120/1704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1704
+[/us/pl/110/181/dC/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdC%2FtXXXV
+[/us/stat/122/603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F603
+[/us/pl/113/281/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281%2FtIII
+[/us/stat/128/3048]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3048
+[/us/pl/113/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281
+[/us/pl/113/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281
+[/us/pl/113/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281
+[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
+[/us/pl/109/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241
+[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
+[/us/pl/109/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241
+[/us/pl/107/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295
+[/us/pl/107/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295
+[/us/pl/107/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295
+[/us/pl/107/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295
+[/us/pl/102/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F241
+[/us/pl/101/380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380
+[/us/pl/101/380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380
+[/us/pl/98/498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F498
+[/us/pl/98/557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F557
+[/us/pl/98/498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F498
+[/us/pl/107/295/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295%2FtIV
 [/us/stat/116/2132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2132
 [/us/pl/101/380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380
 [/us/pl/101/380/s1020]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2Fs1020

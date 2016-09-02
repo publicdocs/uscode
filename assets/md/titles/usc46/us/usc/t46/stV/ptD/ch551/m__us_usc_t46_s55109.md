@@ -33,7 +33,7 @@
 
     If a vessel is operated in knowing violation of this section, the vessel and its equipment are liable to seizure by and forfeiture to the United States Government.
 
-([Pub. L. 109–304, § 8(c)][/us/pl/109/304/s8/c], Oct. 6, 2006, [120 Stat. 1637][/us/stat/120/1637].)
+([Pub. L. 109–304][/us/pl/109/304], § 8(c), Oct. 6, 2006, [120 Stat. 1637][/us/stat/120/1637].)
 
 <table>
 
@@ -87,9 +87,9 @@ May 28, 1906, ch. 2566, § 1, 34 Stat. 204; Pub. L. 102–87, title V, § 55
 
  __Nonapplicability to Certain Vessels__ 
 
-    [Pub. L. 109–304, § 19][/us/pl/109/304/s19], Oct. 6, 2006, [120 Stat. 1711][/us/stat/120/1711], repealed section 1 of [act May 28, 1906, ch. 2566][/us/act/1906-05-28/ch2566], [34 Stat. 204][/us/stat/34/204] (section 292 of the former Appendix to this title, from which this section was derived), except as may be applicable under [section 5501(a)(2) of Pub. L. 102–587][/us/pl/102/587/s5501/a/2], set out below.
+    [Pub. L. 109–304][/us/pl/109/304], § 19, Oct. 6, 2006, [120 Stat. 1711][/us/stat/120/1711], repealed section 1 of [act May 28, 1906, ch. 2566][/us/act/1906-05-28/ch2566], [34 Stat. 204][/us/stat/34/204] (section 292 of the former Appendix to this title, from which this section was derived), except as may be applicable under [section 5501(a)(2) of Pub. L. 102–587][/us/pl/102/587/s5501/a/2], set out below.
 
-[Pub. L. 102–587, title V, § 5501(a)(2)][/us/pl/102/587/s5501/a/2], (3), Nov. 4, 1992, [106 Stat. 5084][/us/stat/106/5084], as amended by [Pub. L. 109–304, § 17(i)][/us/pl/109/304/s17/i], Oct. 6, 2006, [120 Stat. 1709][/us/stat/120/1709], provided that:
+[Pub. L. 102–587, title V][/us/pl/102/587/tV], § 5501(a)(2), (3), Nov. 4, 1992, [106 Stat. 5084][/us/stat/106/5084], as amended by [Pub. L. 109–304][/us/pl/109/304], § 17(i), Oct. 6, 2006, [120 Stat. 1709][/us/stat/120/1709], provided that:
 
 >     “(2)
 
@@ -136,16 +136,16 @@ May 28, 1906, ch. 2566, § 1, 34 Stat. 204; Pub. L. 102–87, title V, § 55
 ----------
 ----------
 
-[/us/pl/109/304/s8/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs8%2Fc
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1637]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1637
-[/us/pl/109/304/s19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs19
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1711
 [/us/act/1906-05-28/ch2566]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1906-05-28%2Fch2566
 [/us/stat/34/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F34%2F204
 [/us/pl/102/587/s5501/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F587%2Fs5501%2Fa%2F2
-[/us/pl/102/587/s5501/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F587%2Fs5501%2Fa%2F2
+[/us/pl/102/587/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F587%2FtV
 [/us/stat/106/5084]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F5084
-[/us/pl/109/304/s17/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs17%2Fi
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1709
 [/us/usc/t46/s12118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs12118
 [/us/usc/t46/s12118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs12118

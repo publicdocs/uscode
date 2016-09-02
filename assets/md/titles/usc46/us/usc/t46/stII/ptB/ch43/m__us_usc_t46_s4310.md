@@ -47,7 +47,7 @@
 
     (g) The Secretary may prescribe regulations to carry out this section, including the establishment of procedures that require dealers and distributors to assist manufacturers in obtaining information required by this section. A regulation prescribed under this subsection does not relieve a manufacturer of any obligation imposed by this section.
 
-([Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 532][/us/stat/97/532]; [Pub. L. 107–295, title IV, § 433][/us/pl/107/295/s433], Nov. 25, 2002, [116 Stat. 2129][/us/stat/116/2129].)
+([Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 532][/us/stat/97/532]; [Pub. L. 107–295, title IV][/us/pl/107/295/tIV], § 433, Nov. 25, 2002, [116 Stat. 2129][/us/stat/116/2129].)
 
 <table>
 
@@ -89,9 +89,9 @@ Source section (U.S. Code)  </td>
 
  __Amendments__ 
 
-    2002—Subsec. (c)(1)(A) to (C). [Pub. L. 107–295, § 433(2)][/us/pl/107/295/s433/2], inserted “by first class mail or” before “by certified mail”.
+    2002—Subsec. (c)(1)(A) to (C). [Pub. L. 107–295][/us/pl/107/295], § 433(2), inserted “by first class mail or” before “by certified mail”.
 
-    Subsec. (c)(2)(A), (B). [Pub. L. 107–295, § 433(1)][/us/pl/107/295/s433/1], substituted “10” for “5”.
+    Subsec. (c)(2)(A), (B). [Pub. L. 107–295][/us/pl/107/295], § 433(1), substituted “10” for “5”.
 
 ----------
 
@@ -103,9 +103,9 @@ Source section (U.S. Code)  </td>
 [/us/usc/t46/s4302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs4302
 [/us/pl/98/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F89
 [/us/stat/97/532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F532
-[/us/pl/107/295/s433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295%2Fs433
+[/us/pl/107/295/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295%2FtIV
 [/us/stat/116/2129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2129
-[/us/pl/107/295/s433/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295%2Fs433%2F2
-[/us/pl/107/295/s433/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295%2Fs433%2F1
+[/us/pl/107/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295
+[/us/pl/107/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295
 
 

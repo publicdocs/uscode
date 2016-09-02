@@ -19,7 +19,7 @@
 
     (b) A mortgagor of a preferred mortgage covering a self-propelled vessel shall use diligence in keeping a certified copy of the mortgage on the vessel.
 
-([Pub. L. 100–710, title I, § 102(c)][/us/pl/100/710/s102/c], Nov. 23, 1988, [102 Stat. 4744][/us/stat/102/4744].)
+([Pub. L. 100–710, title I][/us/pl/100/710/tI], § 102(c), Nov. 23, 1988, [102 Stat. 4744][/us/stat/102/4744].)
 
 <table>
 
@@ -68,7 +68,7 @@ Source section (U.S. Code)  </td>
 ----------
 ----------
 
-[/us/pl/100/710/s102/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F710%2Fs102%2Fc
+[/us/pl/100/710/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F710%2FtI
 [/us/stat/102/4744]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4744
 
 

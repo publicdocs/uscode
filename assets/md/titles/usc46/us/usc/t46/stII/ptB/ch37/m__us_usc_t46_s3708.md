@@ -31,7 +31,7 @@
 
     (7) up-to-date charts.
 
-([Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 524][/us/stat/97/524]; [Pub. L. 104–324, title VII, § 717][/us/pl/104/324/s717], Oct. 19, 1996, [110 Stat. 3937][/us/stat/110/3937].)
+([Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 524][/us/stat/97/524]; [Pub. L. 104–324, title VII][/us/pl/104/324/tVII], § 717, Oct. 19, 1996, [110 Stat. 3937][/us/stat/110/3937].)
 
 <table>
 
@@ -87,7 +87,7 @@ Source section (U.S. Code)  </td>
 [/us/usc/t46/s14104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs14104
 [/us/pl/98/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F89
 [/us/stat/97/524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F524
-[/us/pl/104/324/s717]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2Fs717
+[/us/pl/104/324/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2FtVII
 [/us/stat/110/3937]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3937
 [/us/pl/104/324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324
 [/us/usc/t46/s14502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs14502

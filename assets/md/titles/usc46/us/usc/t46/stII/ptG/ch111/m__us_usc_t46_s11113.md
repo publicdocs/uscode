@@ -95,7 +95,7 @@
 
              the vessel owner or operator—
 
-                (i) during the course of an investigation, reporting, documentation, or adjudication of any matter under this Act that the Coast Guard referred to a United States attorney or the Attorney General, fails to provide necessary support of a seafarer who was paroled into the United States to facilitate the investigation, reporting, documentation, or adjudication; and
+                (i) during the course of an investigation, reporting, documentation, or adjudication of any matter that the Coast Guard referred to a United States attorney or the Attorney General, fails to provide necessary support of a seafarer who was paroled into the United States to facilitate the investigation, reporting, documentation, or adjudication; and
 
                 (ii)
 
@@ -159,13 +159,15 @@
 
             (B) not engaged in commerce.
 
-(Added [Pub. L. 113–281, title III, § 320(a)][/us/pl/113/281/s320/a], Dec. 18, 2014, [128 Stat. 3051][/us/stat/128/3051].)
+(Added [Pub. L. 113–281, title III][/us/pl/113/281/tIII], § 320(a), Dec. 18, 2014, [128 Stat. 3051][/us/stat/128/3051]; amended [Pub. L. 114–120, title III][/us/pl/114/120/tIII], § 306(a)(7), Feb. 8, 2016, [130 Stat. 54][/us/stat/130/54].)
 
  __References in Text__ 
 
     The Immigration and Nationality Act, referred to in subsec. (a)(2)(A)(ii)(III), is [act June 27, 1952, ch. 477][/us/act/1952-06-27/ch477], [66 Stat. 163][/us/stat/66/163], which is classified principally to chapter 12 (§ 1101 et seq.) of Title 8, Aliens and Nationality. For complete classification of this Act to the Code, see Short Title note set out under [section 1101 of Title 8][/us/usc/t8/s1101] and Tables.
 
-    This Act, referred to in subsec. (c)(1)(A)(i), probably means [Pub. L. 113–281][/us/pl/113/281], Dec. 18, 2014, [128 Stat. 3022][/us/stat/128/3022], known as the Howard Coble Coast Guard and Maritime Transportation Act of 2014. For complete classification of this Act to the Code, see Short Title of 2014 Amendment note set out under [section 1 of Title 14][/us/usc/t14/s1], Coast Guard, and Tables.
+ __Amendments__ 
+
+    2016—Subsec. (c)(1)(A)(i). [Pub. L. 114–120][/us/pl/114/120] struck out “under this Act” after “any matter”.
 
 ----------
 
@@ -180,13 +182,13 @@
 [/us/usc/t31/s1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105
 [/us/usc/t33/s1901/9/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1901%2F9%2Fa
 [/us/usc/t33/s1901/a/9/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1901%2Fa%2F9%2Fa
-[/us/pl/113/281/s320/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281%2Fs320%2Fa
+[/us/pl/113/281/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281%2FtIII
 [/us/stat/128/3051]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3051
+[/us/pl/114/120/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F120%2FtIII
+[/us/stat/130/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F54
 [/us/act/1952-06-27/ch477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-06-27%2Fch477
 [/us/stat/66/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F163
 [/us/usc/t8/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101
-[/us/pl/113/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281
-[/us/stat/128/3022]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3022
-[/us/usc/t14/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs1
+[/us/pl/114/120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F120
 
 

@@ -17,11 +17,11 @@
 
     (a) A vessel of the United States to which chapter 37 of this title applies, that has on board oil or hazardous material in bulk as cargo or cargo residue, shall have a specified number of the crew certified as tankermen as required by the Secretary. This requirement shall be noted on the certificate of inspection issued to the vessel.
 
-    \[(b) Repealed. [Pub. L. 98–557, § 18][/us/pl/98/557/s18], Oct. 30, 1984, [98 Stat. 2869][/us/stat/98/2869].\]
+    \[(b) Repealed. [Pub. L. 98–557][/us/pl/98/557], § 18, Oct. 30, 1984, [98 Stat. 2869][/us/stat/98/2869].\]
 
     (c) A vessel to which [section 3702(b) of this title][/us/usc/t46/s3702/b] applies shall have on board as a crewmember in charge of the transfer operation an individual certified as a tankerman (qualified for the grade of fuel transferred), unless a master, mate, pilot, engineer, or operator licensed under [section 7101 of this title][/us/usc/t46/s7101] is present in charge of the transfer. If the vessel does not have that individual on board, chapter 37 of this title applies to the vessel.
 
-([Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 555][/us/stat/97/555]; [Pub. L. 98–557, § 18][/us/pl/98/557/s18], Oct. 30, 1984, [98 Stat. 2869][/us/stat/98/2869].)
+([Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 555][/us/stat/97/555]; [Pub. L. 98–557][/us/pl/98/557], § 18, Oct. 30, 1984, [98 Stat. 2869][/us/stat/98/2869].)
 
 <table>
 
@@ -102,13 +102,13 @@ Source section (U.S. Code)  </td>
 ----------
 ----------
 
-[/us/pl/98/557/s18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F557%2Fs18
+[/us/pl/98/557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F557
 [/us/stat/98/2869]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2869
 [/us/usc/t46/s3702/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs3702%2Fb
 [/us/usc/t46/s7101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs7101
 [/us/pl/98/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F89
 [/us/stat/97/555]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F555
-[/us/pl/98/557/s18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F557%2Fs18
+[/us/pl/98/557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F557
 [/us/stat/98/2869]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2869
 [/us/pl/98/557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F557
 [/us/usc/t46/s7317/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs7317%2Fa

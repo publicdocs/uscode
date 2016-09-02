@@ -31,7 +31,7 @@
 
     (e) Any regulation or provision violating this section is void.
 
-([Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 553][/us/stat/97/553]; [Pub. L. 98–557, § 29(e)][/us/pl/98/557/s29/e], Oct. 30, 1984, [98 Stat. 2874][/us/stat/98/2874].)
+([Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 553][/us/stat/97/553]; [Pub. L. 98–557][/us/pl/98/557], § 29(e), Oct. 30, 1984, [98 Stat. 2874][/us/stat/98/2874].)
 
 <table>
 
@@ -128,7 +128,7 @@ Source section (U.S. Code)  </td>
 
 [/us/pl/98/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F89
 [/us/stat/97/553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F553
-[/us/pl/98/557/s29/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F557%2Fs29%2Fe
+[/us/pl/98/557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F557
 [/us/stat/98/2874]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2874
 [/us/pl/98/557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F557
 

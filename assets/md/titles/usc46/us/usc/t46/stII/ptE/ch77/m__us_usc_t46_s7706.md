@@ -27,7 +27,7 @@
 
     Notwithstanding section 503(e) of the Supplemental Appropriations Act, 1987 ([5 U.S.C. 7301][/us/usc/t5/s7301] note), the report of a drug test of an employee or an applicant for employment by a Federal agency may be released under this section without the prior written consent of the employee or the applicant.
 
-(Added [Pub. L. 108–293, title IV, § 414(a)][/us/pl/108/293/s414/a], Aug. 9, 2004, [118 Stat. 1046][/us/stat/118/1046]; amended [Pub. L. 113–281, title III, § 304][/us/pl/113/281/s304], Dec. 18, 2014, [128 Stat. 3043][/us/stat/128/3043].)
+(Added [Pub. L. 108–293, title IV][/us/pl/108/293/tIV], § 414(a), Aug. 9, 2004, [118 Stat. 1046][/us/stat/118/1046]; amended [Pub. L. 113–281, title III][/us/pl/113/281/tIII], § 304, Dec. 18, 2014, [128 Stat. 3043][/us/stat/128/3043].)
 
  __References in Text__ 
 
@@ -35,9 +35,9 @@
 
  __Amendments__ 
 
-    2014—Subsec. (a). [Pub. L. 113–281, § 304(1)][/us/pl/113/281/s304/1], inserted “an applicant for employment by a Federal agency,” after “Federal agency,”.
+    2014—Subsec. (a). [Pub. L. 113–281][/us/pl/113/281], § 304(1), inserted “an applicant for employment by a Federal agency,” after “Federal agency,”.
 
-    Subsec. (c). [Pub. L. 113–281, § 304(2)][/us/pl/113/281/s304/2], inserted “or an applicant for employment by a Federal agency” after “an employee” and substituted “the employee or the applicant” for “the employee”.
+    Subsec. (c). [Pub. L. 113–281][/us/pl/113/281], § 304(2), inserted “or an applicant for employment by a Federal agency” after “an employee” and substituted “the employee or the applicant” for “the employee”.
 
 ----------
 
@@ -47,13 +47,13 @@
 ----------
 
 [/us/usc/t5/s7301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs7301
-[/us/pl/108/293/s414/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293%2Fs414%2Fa
+[/us/pl/108/293/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293%2FtIV
 [/us/stat/118/1046]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1046
-[/us/pl/113/281/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281%2Fs304
+[/us/pl/113/281/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281%2FtIII
 [/us/stat/128/3043]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3043
 [/us/pl/100/71/s503/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F71%2Fs503%2Fe
 [/us/usc/t5/s7301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs7301
-[/us/pl/113/281/s304/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281%2Fs304%2F1
-[/us/pl/113/281/s304/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281%2Fs304%2F2
+[/us/pl/113/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281
+[/us/pl/113/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281
 
 

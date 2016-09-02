@@ -17,7 +17,7 @@
 
     The Secretary shall make information received from the National Driver Register under section 206(b)(7) of the National Driver Register Act of 1982 ([23 U.S.C. 401][/us/usc/t23/s401] note) available to an individual for review and written comment before denying, suspending, revoking, or taking any other action relating to a license, certificate of registry, or merchant mariner’s document authorized to be issued for that individual under this part, based on that information.
 
-(Added [Pub. L. 101–380, title IV, § 4105(b)(1)][/us/pl/101/380/s4105/b/1], Aug. 18, 1990, [104 Stat. 512][/us/stat/104/512].)
+(Added [Pub. L. 101–380, title IV][/us/pl/101/380/tIV], § 4105(b)(1), Aug. 18, 1990, [104 Stat. 512][/us/stat/104/512].)
 
  __Effective Date__ 
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/usc/t23/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs401
-[/us/pl/101/380/s4105/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2Fs4105%2Fb%2F1
+[/us/pl/101/380/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2FtIV
 [/us/stat/104/512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F512
 [/us/pl/101/380/s1020]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2Fs1020
 [/us/usc/t33/s2701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2701

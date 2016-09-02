@@ -17,7 +17,7 @@
 
     Before being given clearance, a vessel owned by a citizen of the United States and bound on a voyage from a port in the United States to another port in the United States or in a foreign country, or on a voyage from a port in a foreign country to a port in the United States, shall receive on board any bullion, coin, notes, bonds, or other securities of the United States Government that an agency, consular officer, or other agent of the Government offers. The vessel shall transport the items securely and deliver them promptly to the proper authorities or consignees on arriving at the port of destination. Compensation shall be paid for services provided under this section that is equal to compensation paid to other carriers in the ordinary transaction of business.
 
-([Pub. L. 109–304, § 9(b)][/us/pl/109/304/s9/b], Oct. 6, 2006, [120 Stat. 1676][/us/stat/120/1676].)
+([Pub. L. 109–304][/us/pl/109/304], § 9(b), Oct. 6, 2006, [120 Stat. 1676][/us/stat/120/1676].)
 
 <table>
 
@@ -74,7 +74,7 @@ R.S. § 4204; Apr. 5, 1906, ch. 1366, § 3, 34 Stat. 100.  </td>
 ----------
 ----------
 
-[/us/pl/109/304/s9/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs9%2Fb
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1676]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1676
 
 

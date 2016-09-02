@@ -27,7 +27,7 @@
 
     (5) agricultural commodities or their products owned or controlled by or under loan from the Corporation are exchanged or bartered for materials, goods, equipment, or services at least equal in value to the agricultural commodities or their products for which they are exchanged or bartered (determined on the basis of prevailing world market prices at the time of the exchange or barter), but this paragraph does not exempt from the cargo preference provisions referred to in [section 55314(b) of this title][/us/usc/t46/s55314/b] any requirement otherwise applicable to the materials, goods, equipment, or services imported under the transaction.
 
-([Pub. L. 109–304, § 8(c)][/us/pl/109/304/s8/c], Oct. 6, 2006, [120 Stat. 1644][/us/stat/120/1644].)
+([Pub. L. 109–304][/us/pl/109/304], § 8(c), Oct. 6, 2006, [120 Stat. 1644][/us/stat/120/1644].)
 
 <table>
 
@@ -84,7 +84,7 @@ June 29, 1936, ch. 858, title IX, § 901a, as added Pub. L. 99–198, title XI
 
 [/us/usc/t46/s55314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs55314
 [/us/usc/t46/s55314/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs55314%2Fb
-[/us/pl/109/304/s8/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs8%2Fc
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1644]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1644
 
 

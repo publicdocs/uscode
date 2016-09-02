@@ -19,7 +19,7 @@
 
     (b) Reports of investigations conducted under this part shall be made available to the public. This subsection does not require the release of information described by [section 552(b) of title 5][/us/usc/t5/s552/b] or protected from disclosure by another law of the United States.
 
-([Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 538][/us/stat/97/538]; [Pub. L. 105–383, title III, § 305][/us/pl/105/383/s305], Nov. 13, 1998, [112 Stat. 3420][/us/stat/112/3420].)
+([Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 538][/us/stat/97/538]; [Pub. L. 105–383, title III][/us/pl/105/383/tIII], § 305, Nov. 13, 1998, [112 Stat. 3420][/us/stat/112/3420].)
 
 <table>
 
@@ -75,7 +75,7 @@ Source section (U.S. Code)  </td>
 [/us/usc/t5/s552/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552%2Fb
 [/us/pl/98/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F89
 [/us/stat/97/538]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F538
-[/us/pl/105/383/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F383%2Fs305
+[/us/pl/105/383/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F383%2FtIII
 [/us/stat/112/3420]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3420
 [/us/pl/105/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F383
 [/us/usc/t5/s552/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552%2Fb

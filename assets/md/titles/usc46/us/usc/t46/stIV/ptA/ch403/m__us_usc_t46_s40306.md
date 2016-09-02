@@ -17,7 +17,7 @@
 
     Information and documents (other than an agreement) filed with the Federal Maritime Commission under this chapter are exempt from disclosure under [section 552 of title 5][/us/usc/t5/s552] and may not be made public except as may be relevant to an administrative or judicial proceeding. This section does not prevent disclosure to either House of Congress or to a duly authorized committee or subcommittee of Congress.
 
-([Pub. L. 109–304, § 7][/us/pl/109/304/s7], Oct. 6, 2006, [120 Stat. 1531][/us/stat/120/1531].)
+([Pub. L. 109–304][/us/pl/109/304], § 7, Oct. 6, 2006, [120 Stat. 1531][/us/stat/120/1531].)
 
 <table>
 
@@ -75,7 +75,7 @@ Pub. L. 98–237, § 6(j), Mar. 20, 1984, 98 Stat. 73.  </td>
 ----------
 
 [/us/usc/t5/s552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552
-[/us/pl/109/304/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs7
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1531
 
 

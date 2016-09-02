@@ -23,7 +23,7 @@
 
     The Secretary, in cooperation with the Secretary of State, shall operate a port security training program for ports in foreign countries that are found under section 70108 to lack effective antiterrorism measures.
 
-(Added [Pub. L. 107–295, title I, § 102(a)][/us/pl/107/295/s102/a], Nov. 25, 2002, [116 Stat. 2080][/us/stat/116/2080]; amended [Pub. L. 111–281, title VIII, § 806(a)(2)][/us/pl/111/281/s806/a/2], Oct. 15, 2010, [124 Stat. 2992][/us/stat/124/2992].)
+(Added [Pub. L. 107–295, title I][/us/pl/107/295/tI], § 102(a), Nov. 25, 2002, [116 Stat. 2080][/us/stat/116/2080]; amended [Pub. L. 111–281, title VIII][/us/pl/111/281/tVIII], § 806(a)(2), Oct. 15, 2010, [124 Stat. 2992][/us/stat/124/2992].)
 
  __Amendments__ 
 
@@ -36,9 +36,9 @@
 ----------
 ----------
 
-[/us/pl/107/295/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295%2Fs102%2Fa
+[/us/pl/107/295/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295%2FtI
 [/us/stat/116/2080]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2080
-[/us/pl/111/281/s806/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs806%2Fa%2F2
+[/us/pl/111/281/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2FtVIII
 [/us/stat/124/2992]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2992
 [/us/pl/111/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281
 

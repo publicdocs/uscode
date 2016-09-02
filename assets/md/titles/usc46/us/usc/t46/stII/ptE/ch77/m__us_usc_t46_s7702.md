@@ -47,7 +47,7 @@
 
         (2) If a license, certificate, or document is temporarily suspended under this section, an expedited hearing under subsection (a) of this section shall be held within 30 days after the temporary suspension.
 
-([Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 546][/us/stat/97/546]; [Pub. L. 99–36, § 1(a)(3)][/us/pl/99/36/s1/a/3], May 15, 1985, [99 Stat. 67][/us/stat/99/67]; [Pub. L. 101–380, title IV, § 4103(a)(1)][/us/pl/101/380/s4103/a/1], Aug. 18, 1990, [104 Stat. 510][/us/stat/104/510]; [Pub. L. 105–383, title III, § 304(a)][/us/pl/105/383/s304/a], Nov. 13, 1998, [112 Stat. 3419][/us/stat/112/3419]; [Pub. L. 108–293, title IV, § 407][/us/pl/108/293/s407], title VI, § 609(2), Aug. 9, 2004, [118 Stat. 1044][/us/stat/118/1044], 1058.)
+([Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 546][/us/stat/97/546]; [Pub. L. 99–36][/us/pl/99/36], § 1(a)(3), May 15, 1985, [99 Stat. 67][/us/stat/99/67]; [Pub. L. 101–380, title IV][/us/pl/101/380/tIV], § 4103(a)(1), Aug. 18, 1990, [104 Stat. 510][/us/stat/104/510]; [Pub. L. 105–383, title III][/us/pl/105/383/tIII], § 304(a), Nov. 13, 1998, [112 Stat. 3419][/us/stat/112/3419]; [Pub. L. 108–293, title IV][/us/pl/108/293/tIV], § 407, title VI, § 609(2), Aug. 9, 2004, [118 Stat. 1044][/us/stat/118/1044], 1058.)
 
 <table>
 
@@ -95,13 +95,13 @@ Source section (U.S. Code)  </td>
 
  __Amendments__ 
 
-    2004—Subsec. (d)(1). [Pub. L. 108–293, § 407(1)][/us/pl/108/293/s407/1], substituted “if—” for “if, when acting under the authority of that license, certificate, or document—” in introductory provisions.
+    2004—Subsec. (d)(1). [Pub. L. 108–293][/us/pl/108/293], § 407(1), substituted “if—” for “if, when acting under the authority of that license, certificate, or document—” in introductory provisions.
 
-    Subsec.(d)(1)(B)(i). [Pub. L. 108–293, § 407(2)][/us/pl/108/293/s407/2], inserted “, while acting under the authority of that license, certificate, or document,” after “has”.
+    Subsec.(d)(1)(B)(i). [Pub. L. 108–293][/us/pl/108/293], § 407(2), inserted “, while acting under the authority of that license, certificate, or document,” after “has”.
 
-    Subsec. (d)(1)(B)(iii). [Pub. L. 108–293, § 609(2)][/us/pl/108/293/s609/2], substituted “section 30304(a)(3)(A) or (B) of title 49” for “section 205(a)(3)(A) or (B) of the National Driver Register Act of 1982”.
+    Subsec. (d)(1)(B)(iii). [Pub. L. 108–293][/us/pl/108/293], § 609(2), substituted “section 30304(a)(3)(A) or (B) of title 49” for “section 205(a)(3)(A) or (B) of the National Driver Register Act of 1982”.
 
-    Subsec. (d)(1)(B)(iv). [Pub. L. 108–293, § 407(3)][/us/pl/108/293/s407/3]–(5), added cl. (iv).
+    Subsec. (d)(1)(B)(iv). [Pub. L. 108–293][/us/pl/108/293], § 407(3)–(5), added cl. (iv).
 
     1998—Subsec. (c)(2). [Pub. L. 105–383][/us/pl/105/383] inserted second sentence and struck out former second sentence which read as follows: “The testing may include preemployment (with respect to dangerous drugs only), periodic, random, reasonable cause, and post accident testing.”
 
@@ -123,22 +123,22 @@ Source section (U.S. Code)  </td>
 [/us/usc/t23/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs401
 [/us/pl/98/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F89
 [/us/stat/97/546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F546
-[/us/pl/99/36/s1/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F36%2Fs1%2Fa%2F3
+[/us/pl/99/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F36
 [/us/stat/99/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F67
-[/us/pl/101/380/s4103/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2Fs4103%2Fa%2F1
+[/us/pl/101/380/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2FtIV
 [/us/stat/104/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F510
-[/us/pl/105/383/s304/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F383%2Fs304%2Fa
+[/us/pl/105/383/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F383%2FtIII
 [/us/stat/112/3419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3419
-[/us/pl/108/293/s407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293%2Fs407
+[/us/pl/108/293/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293%2FtIV
 [/us/stat/118/1044]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1044
 [/us/pl/97/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F364
 [/us/usc/t23/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs401
 [/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/862]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F862
-[/us/pl/108/293/s407/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293%2Fs407%2F1
-[/us/pl/108/293/s407/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293%2Fs407%2F2
-[/us/pl/108/293/s609/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293%2Fs609%2F2
-[/us/pl/108/293/s407/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293%2Fs407%2F3
+[/us/pl/108/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293
+[/us/pl/108/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293
+[/us/pl/108/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293
+[/us/pl/108/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293
 [/us/pl/105/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F383
 [/us/pl/101/380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380
 [/us/pl/99/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F36

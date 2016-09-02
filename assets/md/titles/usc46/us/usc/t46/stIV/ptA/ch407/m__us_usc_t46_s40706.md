@@ -21,7 +21,7 @@
 
     (2) a trade served only by controlled carriers.
 
-([Pub. L. 109–304, § 7][/us/pl/109/304/s7], Oct. 6, 2006, [120 Stat. 1537][/us/stat/120/1537].)
+([Pub. L. 109–304][/us/pl/109/304], § 7, Oct. 6, 2006, [120 Stat. 1537][/us/stat/120/1537].)
 
 <table>
 
@@ -78,7 +78,7 @@ Pub. L. 98–237, § 9(f), Mar. 20, 1984, 98 Stat. 77; Pub. L. 105–258, titl
 ----------
 ----------
 
-[/us/pl/109/304/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs7
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1537
 
 

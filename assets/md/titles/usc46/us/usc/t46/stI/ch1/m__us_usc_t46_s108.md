@@ -17,7 +17,7 @@
 
     In this title, the term “fisheries” includes processing, storing, transporting (except in foreign commerce), planting, cultivating, catching, taking, or harvesting fish, shellfish, marine animals, pearls, shells, or marine vegetation in the navigable waters of the United States or in the exclusive economic zone.
 
-([Pub. L. 109–304, § 4][/us/pl/109/304/s4], Oct. 6, 2006, [120 Stat. 1487][/us/stat/120/1487].)
+([Pub. L. 109–304][/us/pl/109/304], § 4, Oct. 6, 2006, [120 Stat. 1487][/us/stat/120/1487].)
 
 <table>
 
@@ -70,7 +70,7 @@ Source (Statutes at Large)  </td>
 ----------
 ----------
 
-[/us/pl/109/304/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs4
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1487]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1487
 
 

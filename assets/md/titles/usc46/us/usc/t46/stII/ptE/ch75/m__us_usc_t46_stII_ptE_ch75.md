@@ -87,19 +87,37 @@
 
   </tr>
 
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft46%2Fs7509" data-uslm-ref="/us/usc/t46/s7509">7509.</a>  </td>
+
+    <td> Medical certification by trusted agents.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft46%2Fs7510" data-uslm-ref="/us/usc/t46/s7510">7510.</a>  </td>
+
+    <td> Examinations for merchant mariner credentials.  </td>
+
+  </tr>
+
 </table>
 
  __Amendments__ 
 
-    2012—[Pub. L. 112–213, title III, § 306(b)][/us/pl/112/213/s306/b], Dec. 20, 2012, [126 Stat. 1565][/us/stat/126/1565], added item 7508.
+    2016—[Pub. L. 114–120, title III][/us/pl/114/120/tIII], §§ 309(c), 315(a)(2), Feb. 8, 2016, [130 Stat. 57][/us/stat/130/57], 62, added items 7509 and 7510.
 
-    2010—[Pub. L. 111–281, title VI, § 615(b)][/us/pl/111/281/s615/b], Oct. 15, 2010, [124 Stat. 2972][/us/stat/124/2972], added item 7507.
+    2012—[Pub. L. 112–213, title III][/us/pl/112/213/tIII], § 306(b), Dec. 20, 2012, [126 Stat. 1565][/us/stat/126/1565], added item 7508.
 
-    1996—[Pub. L. 104–324, title VII, § 745(b)][/us/pl/104/324/s745/b], Oct. 19, 1996, [110 Stat. 3943][/us/stat/110/3943], added item 7506.
+    2010—[Pub. L. 111–281, title VI][/us/pl/111/281/tVI], § 615(b), Oct. 15, 2010, [124 Stat. 2972][/us/stat/124/2972], added item 7507.
 
-    1990—[Pub. L. 101–380, title IV, § 4105(c)][/us/pl/101/380/s4105/c], Aug. 18, 1990, [104 Stat. 513][/us/stat/104/513], added item 7505.
+    1996—[Pub. L. 104–324, title VII][/us/pl/104/324/tVII], § 745(b), Oct. 19, 1996, [110 Stat. 3943][/us/stat/110/3943], added item 7506.
 
-    1986—[Pub. L. 99–640, § 10(b)(2)(B)][/us/pl/99/640/s10/b/2/B], Nov. 10, 1986, [100 Stat. 3550][/us/stat/100/3550], added item 7504.
+    1990—[Pub. L. 101–380, title IV][/us/pl/101/380/tIV], § 4105(c), Aug. 18, 1990, [104 Stat. 513][/us/stat/104/513], added item 7505.
+
+    1986—[Pub. L. 99–640][/us/pl/99/640], § 10(b)(2)(B), Nov. 10, 1986, [100 Stat. 3550][/us/stat/100/3550], added item 7504.
 
 ----------
 
@@ -108,15 +126,17 @@
 ----------
 ----------
 
-[/us/pl/112/213/s306/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F213%2Fs306%2Fb
+[/us/pl/114/120/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F120%2FtIII
+[/us/stat/130/57]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F57
+[/us/pl/112/213/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F213%2FtIII
 [/us/stat/126/1565]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1565
-[/us/pl/111/281/s615/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs615%2Fb
+[/us/pl/111/281/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2FtVI
 [/us/stat/124/2972]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2972
-[/us/pl/104/324/s745/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2Fs745%2Fb
+[/us/pl/104/324/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2FtVII
 [/us/stat/110/3943]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3943
-[/us/pl/101/380/s4105/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2Fs4105%2Fc
+[/us/pl/101/380/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2FtIV
 [/us/stat/104/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F513
-[/us/pl/99/640/s10/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F640%2Fs10%2Fb%2F2%2FB
+[/us/pl/99/640]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F640
 [/us/stat/100/3550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3550
 
 

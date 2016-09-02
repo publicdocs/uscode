@@ -19,7 +19,7 @@
 
     (b) The Secretary shall require an undocumented barge more than 100 gross tons operating on the navigable waters of the United States to be numbered.
 
-([Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 590][/us/stat/97/590]; [Pub. L. 102–587, title V, § 5305][/us/pl/102/587/s5305], Nov. 4, 1992, [106 Stat. 5083][/us/stat/106/5083].)
+([Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 590][/us/stat/97/590]; [Pub. L. 102–587, title V][/us/pl/102/587/tV], § 5305, Nov. 4, 1992, [106 Stat. 5083][/us/stat/106/5083].)
 
 <table>
 
@@ -72,7 +72,7 @@ Source section (U.S. Code)  </td>
 
 [/us/pl/98/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F89
 [/us/stat/97/590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F590
-[/us/pl/102/587/s5305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F587%2Fs5305
+[/us/pl/102/587/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F587%2FtV
 [/us/stat/106/5083]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F5083
 [/us/pl/102/587]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F587
 

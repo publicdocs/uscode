@@ -235,9 +235,9 @@ SUBCHAPTER III—MARITIME LIENS  </td>
 
  __Amendments__ 
 
-    2002—[Pub. L. 107–295, title II, § 205(a)(2)][/us/pl/107/295/s205/a/2], Nov. 25, 2002, [116 Stat. 2096][/us/stat/116/2096], substituted “notices of claim of maritime lien” for “liens on preferred mortgage vessels” in item 31343.
+    2002—[Pub. L. 107–295, title II][/us/pl/107/295/tII], § 205(a)(2), Nov. 25, 2002, [116 Stat. 2096][/us/stat/116/2096], substituted “notices of claim of maritime lien” for “liens on preferred mortgage vessels” in item 31343.
 
-    1996—[Pub. L. 104–324, title XI, § 1113(b)(3)][/us/pl/104/324/s1113/b/3], Oct. 19, 1996, [110 Stat. 3970][/us/stat/110/3970], struck out item 31328 “Limitations on parties serving as trustees of mortgaged vessel interests”.
+    1996—[Pub. L. 104–324, title XI][/us/pl/104/324/tXI], § 1113(b)(3), Oct. 19, 1996, [110 Stat. 3970][/us/stat/110/3970], struck out item 31328 “Limitations on parties serving as trustees of mortgaged vessel interests”.
 
 ----------
 
@@ -247,9 +247,9 @@ SUBCHAPTER III—MARITIME LIENS  </td>
 ----------
 
 [/us/pl/100/710]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F710
-[/us/pl/107/295/s205/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295%2Fs205%2Fa%2F2
+[/us/pl/107/295/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295%2FtII
 [/us/stat/116/2096]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2096
-[/us/pl/104/324/s1113/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2Fs1113%2Fb%2F3
+[/us/pl/104/324/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2FtXI
 [/us/stat/110/3970]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3970
 
 

@@ -17,7 +17,7 @@
 
     A civil action under this chapter must be brought within 2 years after the cause of action arose.
 
-([Pub. L. 109–304, § 6(c)][/us/pl/109/304/s6/c], Oct. 6, 2006, [120 Stat. 1518][/us/stat/120/1518].)
+([Pub. L. 109–304][/us/pl/109/304], § 6(c), Oct. 6, 2006, [120 Stat. 1518][/us/stat/120/1518].)
 
 <table>
 
@@ -72,7 +72,7 @@ Mar. 9, 1920, ch. 95, § 5 (words before 1st proviso), 41 Stat. 526; June 30, 
 ----------
 ----------
 
-[/us/pl/109/304/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs6%2Fc
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1518]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1518
 
 

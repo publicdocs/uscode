@@ -19,7 +19,7 @@
 
     (b) The certificate issued under this section shall be maintained as required by the Secretary.
 
-([Pub. L. 99–509, title V, § 5101(3)][/us/pl/99/509/s5101/3], Oct. 21, 1986, [100 Stat. 1921][/us/stat/100/1921]; [Pub. L. 111–281, title III, § 303(e)(1)][/us/pl/111/281/s303/e/1], Oct. 15, 2010, [124 Stat. 2925][/us/stat/124/2925].)
+([Pub. L. 99–509, title V][/us/pl/99/509/tV], § 5101(3), Oct. 21, 1986, [100 Stat. 1921][/us/stat/100/1921]; [Pub. L. 111–281, title III][/us/pl/111/281/tIII], § 303(e)(1), Oct. 15, 2010, [124 Stat. 2925][/us/stat/124/2925].)
 
  __Historical and Revision Notes__ 
 
@@ -31,11 +31,11 @@
 
  __Amendments__ 
 
-    2010—[Pub. L. 111–281, § 303(e)(1)(C)][/us/pl/111/281/s303/e/1/C], struck out “International” before “Tonnage” and “(1969)” after “Certificate” in section catchline.
+    2010—[Pub. L. 111–281][/us/pl/111/281], § 303(e)(1)(C), struck out “International” before “Tonnage” and “(1969)” after “Certificate” in section catchline.
 
-    Subsec. (a). [Pub. L. 111–281, § 303(e)(1)(A)][/us/pl/111/281/s303/e/1/A], inserted at end “For a vessel to which the Convention does not apply, the Secretary shall prescribe a certificate to be issued as evidence of a vessel’s measurement under this chapter.”
+    Subsec. (a). [Pub. L. 111–281][/us/pl/111/281], § 303(e)(1)(A), inserted at end “For a vessel to which the Convention does not apply, the Secretary shall prescribe a certificate to be issued as evidence of a vessel’s measurement under this chapter.”
 
-    Subsec. (b). [Pub. L. 111–281, § 303(e)(1)(B)][/us/pl/111/281/s303/e/1/B], inserted “issued under this section” after “The certificate”.
+    Subsec. (b). [Pub. L. 111–281][/us/pl/111/281], § 303(e)(1)(B), inserted “issued under this section” after “The certificate”.
 
 ----------
 
@@ -44,12 +44,12 @@
 ----------
 ----------
 
-[/us/pl/99/509/s5101/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2Fs5101%2F3
+[/us/pl/99/509/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2FtV
 [/us/stat/100/1921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1921
-[/us/pl/111/281/s303/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs303%2Fe%2F1
+[/us/pl/111/281/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2FtIII
 [/us/stat/124/2925]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2925
-[/us/pl/111/281/s303/e/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs303%2Fe%2F1%2FC
-[/us/pl/111/281/s303/e/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs303%2Fe%2F1%2FA
-[/us/pl/111/281/s303/e/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs303%2Fe%2F1%2FB
+[/us/pl/111/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281
+[/us/pl/111/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281
+[/us/pl/111/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281
 
 

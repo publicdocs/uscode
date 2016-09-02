@@ -77,7 +77,7 @@
 
         The Commission shall by regulation prescribe the form and manner in which marine terminal operator schedules authorized by this section shall be published.
 
-([Pub. L. 109–304, § 7][/us/pl/109/304/s7], Oct. 6, 2006, [120 Stat. 1532][/us/stat/120/1532].)
+([Pub. L. 109–304][/us/pl/109/304], § 7, Oct. 6, 2006, [120 Stat. 1532][/us/stat/120/1532].)
 
 <table>
 
@@ -222,7 +222,7 @@ Pub. L. 98–237, § 8(a), (b), (d), (f), (g), Mar. 20, 1984, 98 Stat. 74; Pub
 ----------
 ----------
 
-[/us/pl/109/304/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs7
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1532
 
 

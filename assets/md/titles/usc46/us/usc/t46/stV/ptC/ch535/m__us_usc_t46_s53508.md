@@ -67,7 +67,7 @@
 
     Except on termination of a fund, capital losses referred to in subsection (c) or (d)(2) shall be allowed only as an offset to gains referred to in subsection (c) or (d)(2), respectively.
 
-([Pub. L. 109–304, § 8(c)][/us/pl/109/304/s8/c], Oct. 6, 2006, [120 Stat. 1595][/us/stat/120/1595].)
+([Pub. L. 109–304][/us/pl/109/304], § 8(c), Oct. 6, 2006, [120 Stat. 1595][/us/stat/120/1595].)
 
 <table>
 
@@ -131,7 +131,7 @@ June 29, 1936, ch. 858, title VI, § 607(e), 49 Stat. 2005; June 23, 1938, ch.
 [/us/usc/t26/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs103
 [/us/usc/t46/s53505/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs53505%2Fa%2F1
 [/us/usc/t46/s53505/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs53505%2Fa%2F3
-[/us/pl/109/304/s8/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs8%2Fc
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1595]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1595
 
 

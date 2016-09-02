@@ -25,7 +25,7 @@
 
     The term “State recreational boating safety program” means education, assistance, and enforcement activities conducted for maritime casualty prevention, reduction, and reporting for recreational boating.
 
-([Pub. L. 109–304, § 16(b)(2)][/us/pl/109/304/s16/b/2], Oct. 6, 2006, [120 Stat. 1705][/us/stat/120/1705].)
+([Pub. L. 109–304][/us/pl/109/304], § 16(b)(2), Oct. 6, 2006, [120 Stat. 1705][/us/stat/120/1705].)
 
  __Historical and Revision Notes__ 
 
@@ -44,7 +44,7 @@
 ----------
 ----------
 
-[/us/pl/109/304/s16/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs16%2Fb%2F2
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1705
 [/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/usc/t46/s13102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs13102

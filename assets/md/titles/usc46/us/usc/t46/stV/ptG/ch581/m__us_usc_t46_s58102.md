@@ -21,7 +21,7 @@
 
     (2) has not maintained, in a manner satisfactory to the Secretary, all of the reserves provided for in this subtitle.
 
-([Pub. L. 109–304, § 8(c)][/us/pl/109/304/s8/c], Oct. 6, 2006, [120 Stat. 1671][/us/stat/120/1671].)
+([Pub. L. 109–304][/us/pl/109/304], § 8(c), Oct. 6, 2006, [120 Stat. 1671][/us/stat/120/1671].)
 
 <table>
 
@@ -78,7 +78,7 @@ June 29, 1936, ch. 858, title VIII, § 805(b), 49 Stat. 2012; Pub. L. 97–31,
 ----------
 ----------
 
-[/us/pl/109/304/s8/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs8%2Fc
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1671
 
 

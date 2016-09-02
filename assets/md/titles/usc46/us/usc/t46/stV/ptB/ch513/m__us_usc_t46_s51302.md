@@ -73,7 +73,7 @@
 
         If positions remain unfilled after the appointments are made under paragraph (2), the Secretary shall appoint individuals to fill the positions in the order of merit of the remaining individuals nominated from all jurisdictions.
 
-([Pub. L. 109–304, § 8(b)][/us/pl/109/304/s8/b], Oct. 6, 2006, [120 Stat. 1570][/us/stat/120/1570]; [Pub. L. 111–383, div. C, title XXXV, § 3503][/us/pl/111/383/s3503], Jan. 7, 2011, [124 Stat. 4518][/us/stat/124/4518].)
+([Pub. L. 109–304][/us/pl/109/304], § 8(b), Oct. 6, 2006, [120 Stat. 1570][/us/stat/120/1570]; [Pub. L. 111–383, div. C, title XXXV][/us/pl/111/383/dC/tXXXV], § 3503, Jan. 7, 2011, [124 Stat. 4518][/us/stat/124/4518].)
 
 <table>
 
@@ -195,9 +195,9 @@ June 29, 1936, ch. 858, title XIII, § 1303(b)(1)–(3)(A), as added Pub. L. 9
 
  __Amendments__ 
 
-    2011—Subsec. (b)(3). [Pub. L. 111–383, § 3503(1)][/us/pl/111/383/s3503/1], inserted “the Northern Mariana Islands,” after “Guam,”.
+    2011—Subsec. (b)(3). [Pub. L. 111–383][/us/pl/111/383], § 3503(1), inserted “the Northern Mariana Islands,” after “Guam,”.
 
-    Subsec. (b)(5), (6). [Pub. L. 111–383, § 3503(2)][/us/pl/111/383/s3503/2], redesignated par. (6) as (5) and struck out former par. (5) which read as follows: “The Governor of the Northern Mariana Islands may nominate residents of the Northern Mariana Islands.”
+    Subsec. (b)(5), (6). [Pub. L. 111–383][/us/pl/111/383], § 3503(2), redesignated par. (6) as (5) and struck out former par. (5) which read as follows: “The Governor of the Northern Mariana Islands may nominate residents of the Northern Mariana Islands.”
 
 ----------
 
@@ -206,11 +206,11 @@ June 29, 1936, ch. 858, title XIII, § 1303(b)(1)–(3)(A), as added Pub. L. 9
 ----------
 ----------
 
-[/us/pl/109/304/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs8%2Fb
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1570
-[/us/pl/111/383/s3503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs3503
+[/us/pl/111/383/dC/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdC%2FtXXXV
 [/us/stat/124/4518]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4518
-[/us/pl/111/383/s3503/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs3503%2F1
-[/us/pl/111/383/s3503/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs3503%2F2
+[/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
+[/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
 
 

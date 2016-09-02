@@ -27,7 +27,7 @@
 
     This section does not apply after the President proclaims that privileges reciprocal to those under subsection (a) have been withdrawn or rendered inoperative by the Government of Canada.
 
-([Pub. L. 109–304, § 11][/us/pl/109/304/s11], Oct. 6, 2006, [120 Stat. 1691][/us/stat/120/1691].)
+([Pub. L. 109–304][/us/pl/109/304], § 11, Oct. 6, 2006, [120 Stat. 1691][/us/stat/120/1691].)
 
 <table>
 
@@ -86,7 +86,7 @@ June 19, 1878, ch. 324, 20 Stat. 175; May 24, 1890, ch. 292, 26 Stat. 120; Mar. 
 ----------
 ----------
 
-[/us/pl/109/304/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs11
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1691
 
 

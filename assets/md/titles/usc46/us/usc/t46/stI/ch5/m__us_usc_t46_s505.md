@@ -17,7 +17,7 @@
 
     A person convicted of knowingly and willfully violating a regulation or order of the Federal Maritime Commission or the Secretary of Transportation under subtitle IV or V of this title, for which no penalty is expressly provided, shall be fined not more than $500. Each day of a continuing violation is a separate offense.
 
-([Pub. L. 109–304, § 4][/us/pl/109/304/s4], Oct. 6, 2006, [120 Stat. 1491][/us/stat/120/1491].)
+([Pub. L. 109–304][/us/pl/109/304], § 4, Oct. 6, 2006, [120 Stat. 1491][/us/stat/120/1491].)
 
 <table>
 
@@ -72,7 +72,7 @@ June 29, 1936, ch. 858, title VIII, § 806(d); as added Aug. 4, 1939, ch. 417,
 ----------
 ----------
 
-[/us/pl/109/304/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs4
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1491]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1491
 
 

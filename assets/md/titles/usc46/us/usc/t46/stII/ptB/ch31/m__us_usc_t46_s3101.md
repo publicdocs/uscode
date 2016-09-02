@@ -59,7 +59,7 @@ Source section (U.S. Code)  </td>
 
  __Effective Date__ 
 
-[Pub. L. 98–89, § 2(g)(1)][/us/pl/98/89/s2/g/1], Aug. 26, 1983, [97 Stat. 599][/us/stat/97/599], provided that: 
+[Pub. L. 98–89][/us/pl/98/89], § 2(g)(1), Aug. 26, 1983, [97 Stat. 599][/us/stat/97/599], provided that: 
 
 > “Part B \[chapters 31 to 43\] of subtitle II and sections 7306 (related to able seaman sail) and 7311 of title 46 (as enacted by section 1 of this Act) take effect April 15, 1984, or when regulations for sailing school vessels under part B are effective, whichever is earlier.”
 
@@ -78,7 +78,7 @@ Source section (U.S. Code)  </td>
 
 [/us/pl/98/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F89
 [/us/stat/97/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F510
-[/us/pl/98/89/s2/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F89%2Fs2%2Fg%2F1
+[/us/pl/98/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F89
 [/us/stat/97/599]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F599
 [/us/usc/t3/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs301
 

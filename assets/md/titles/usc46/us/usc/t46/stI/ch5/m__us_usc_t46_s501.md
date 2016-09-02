@@ -57,7 +57,7 @@
 
     The authority granted by this section shall terminate at such time as the Congress by concurrent resolution or the President may designate.
 
-([Pub. L. 109–304, § 4][/us/pl/109/304/s4], Oct. 6, 2006, [120 Stat. 1490][/us/stat/120/1490]; [Pub. L. 110–417, div. C, title XXXV, § 3510][/us/pl/110/417/s3510], Oct. 14, 2008, [122 Stat. 4769][/us/stat/122/4769]; [Pub. L. 112–213, title III, § 301][/us/pl/112/213/s301], Dec. 20, 2012, [126 Stat. 1562][/us/stat/126/1562]; [Pub. L. 112–239, div. C, title XXXV, § 3517(a)(2)][/us/pl/112/239/s3517/a/2], Jan. 2, 2013, [126 Stat. 2229][/us/stat/126/2229].)
+([Pub. L. 109–304][/us/pl/109/304], § 4, Oct. 6, 2006, [120 Stat. 1490][/us/stat/120/1490]; [Pub. L. 110–417, div. C, title XXXV][/us/pl/110/417/dC/tXXXV], § 3510, Oct. 14, 2008, [122 Stat. 4769][/us/stat/122/4769]; [Pub. L. 112–213, title III][/us/pl/112/213/tIII], § 301, Dec. 20, 2012, [126 Stat. 1562][/us/stat/126/1562]; [Pub. L. 112–239, div. C, title XXXV][/us/pl/112/239/dC/tXXXV], § 3517(a)(2), Jan. 2, 2013, [126 Stat. 2229][/us/stat/126/2229].)
 
 <table>
 
@@ -122,13 +122,13 @@ Dec. 27, 1950, ch. 1155, §§ 1, 2, 64 Stat. 1120.  </td>
 ----------
 ----------
 
-[/us/pl/109/304/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs4
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1490]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1490
-[/us/pl/110/417/s3510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417%2Fs3510
+[/us/pl/110/417/dC/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417%2FdC%2FtXXXV
 [/us/stat/122/4769]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4769
-[/us/pl/112/213/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F213%2Fs301
+[/us/pl/112/213/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F213%2FtIII
 [/us/stat/126/1562]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1562
-[/us/pl/112/239/s3517/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs3517%2Fa%2F2
+[/us/pl/112/239/dC/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdC%2FtXXXV
 [/us/stat/126/2229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2229
 [/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 [/us/pl/112/213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F213

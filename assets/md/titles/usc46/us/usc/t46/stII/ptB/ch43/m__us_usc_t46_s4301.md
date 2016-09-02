@@ -21,7 +21,7 @@
 
     (c) Until there is a final judicial decision that they are navigable waters of the United States, the following waters lying entirely in New Hampshire are declared not to be waters subject to the jurisdiction of the United States within the meaning of this section: Lake Winnisquam, Lake Winnipesaukee, parts of the Merrimack River, and their tributary and connecting waters.
 
-([Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 529][/us/stat/97/529]; [Pub. L. 105–383, title III, § 301(b)(4)][/us/pl/105/383/s301/b/4], Nov. 13, 1998, [112 Stat. 3417][/us/stat/112/3417].)
+([Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 529][/us/stat/97/529]; [Pub. L. 105–383, title III][/us/pl/105/383/tIII], § 301(b)(4), Nov. 13, 1998, [112 Stat. 3417][/us/stat/112/3417].)
 
 <table>
 
@@ -86,7 +86,7 @@ Source section (U.S. Code)  </td>
 
 [/us/pl/98/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F89
 [/us/stat/97/529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F529
-[/us/pl/105/383/s301/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F383%2Fs301%2Fb%2F4
+[/us/pl/105/383/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F383%2FtIII
 [/us/stat/112/3417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3417
 [/us/usc/t43/s1331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1331
 [/us/pl/105/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F383

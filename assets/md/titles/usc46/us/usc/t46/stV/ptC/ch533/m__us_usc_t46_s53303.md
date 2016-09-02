@@ -27,7 +27,7 @@
 
     (5) had acquired or was having constructed a vessel to operate in the foreign or domestic commerce of the United States or in the fisheries when it was bought or requisitioned by the Government.
 
-([Pub. L. 109–304, § 8(c)][/us/pl/109/304/s8/c], Oct. 6, 2006, [120 Stat. 1587][/us/stat/120/1587].)
+([Pub. L. 109–304][/us/pl/109/304], § 8(c), Oct. 6, 2006, [120 Stat. 1587][/us/stat/120/1587].)
 
 <table>
 
@@ -82,7 +82,7 @@ June 29, 1936, ch. 858, title V, § 511(b) (1st sentence words between 6th and
 ----------
 ----------
 
-[/us/pl/109/304/s8/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs8%2Fc
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1587]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1587
 
 

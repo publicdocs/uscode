@@ -17,7 +17,7 @@
 
     Vessels transferred to or otherwise acquired by the Department of Transportation in any manner may be chartered or sold by the Secretary of Transportation as provided in this chapter.
 
-([Pub. L. 109–304, § 8(c)][/us/pl/109/304/s8/c], Oct. 6, 2006, [120 Stat. 1665][/us/stat/120/1665].)
+([Pub. L. 109–304][/us/pl/109/304], § 8(c), Oct. 6, 2006, [120 Stat. 1665][/us/stat/120/1665].)
 
 <table>
 
@@ -72,7 +72,7 @@ June 29, 1936, ch. 858, title VII, § 704, 49 Stat. 2008; Apr. 1, 1937, ch. 64
 ----------
 ----------
 
-[/us/pl/109/304/s8/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs8%2Fc
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1665]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1665
 
 

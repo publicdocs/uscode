@@ -31,7 +31,7 @@
 
     If a person makes an agreement under this chapter to establish a new fund, the person may agree to extend the agreement to some or all of the amounts in an old fund. Each item in the old fund to be transferred shall be transferred in a nontaxable transaction to the appropriate account in the new fund. For purposes of [section 53511(c)(3) of this title][/us/usc/t46/s53511/c/3], the date of the deposit of an item so transferred shall be July 1, 1971, or the date of the deposit in the old fund, whichever is later.
 
-([Pub. L. 109–304, § 8(c)][/us/pl/109/304/s8/c], Oct. 6, 2006, [120 Stat. 1599][/us/stat/120/1599].)
+([Pub. L. 109–304][/us/pl/109/304], § 8(c), Oct. 6, 2006, [120 Stat. 1599][/us/stat/120/1599].)
 
 <table>
 
@@ -87,7 +87,7 @@ June 29, 1936, ch. 858, title VI, § 607(j), 49 Stat. 2005; June 23, 1938, ch.
 ----------
 
 [/us/usc/t46/s53511/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs53511%2Fc%2F3
-[/us/pl/109/304/s8/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs8%2Fc
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1599]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1599
 
 

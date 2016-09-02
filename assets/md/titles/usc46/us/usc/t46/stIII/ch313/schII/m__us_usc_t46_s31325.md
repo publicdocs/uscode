@@ -73,7 +73,7 @@
 
         (3) The Secretary shall prescribe regulations establishing the time and manner for providing notice under this subsection.
 
-([Pub. L. 100–710, title I, § 102(c)][/us/pl/100/710/s102/c], Nov. 23, 1988, [102 Stat. 4745][/us/stat/102/4745]; [Pub. L. 101–225, title III, § 303(4)][/us/pl/101/225/s303/4], Dec. 12, 1989, [103 Stat. 1923][/us/stat/103/1923]; [Pub. L. 104–324, title XI, § 1124(a)][/us/pl/104/324/s1124/a], (b), Oct. 19, 1996, [110 Stat. 3980][/us/stat/110/3980]; [Pub. L. 105–383, title IV, § 401(c)(5)][/us/pl/105/383/s401/c/5]–(7), Nov. 13, 1998, [112 Stat. 3425][/us/stat/112/3425]; [Pub. L. 107–295, title II, § 205(b)][/us/pl/107/295/s205/b], Nov. 25, 2002, [116 Stat. 2096][/us/stat/116/2096]; [Pub. L. 109–304, § 15(30)][/us/pl/109/304/s15/30], Oct. 6, 2006, [120 Stat. 1704][/us/stat/120/1704]; [Pub. L. 110–181, div. C, title XXXV, § 3529(b)(1)(B)][/us/pl/110/181/s3529/b/1/B], Jan. 28, 2008, [122 Stat. 603][/us/stat/122/603].)
+([Pub. L. 100–710, title I][/us/pl/100/710/tI], § 102(c), Nov. 23, 1988, [102 Stat. 4745][/us/stat/102/4745]; [Pub. L. 101–225, title III][/us/pl/101/225/tIII], § 303(4), Dec. 12, 1989, [103 Stat. 1923][/us/stat/103/1923]; [Pub. L. 104–324, title XI][/us/pl/104/324/tXI], § 1124(a), (b), Oct. 19, 1996, [110 Stat. 3980][/us/stat/110/3980]; [Pub. L. 105–383, title IV][/us/pl/105/383/tIV], § 401(c)(5)–(7), Nov. 13, 1998, [112 Stat. 3425][/us/stat/112/3425]; [Pub. L. 107–295, title II][/us/pl/107/295/tII], § 205(b), Nov. 25, 2002, [116 Stat. 2096][/us/stat/116/2096]; [Pub. L. 109–304][/us/pl/109/304], § 15(30), Oct. 6, 2006, [120 Stat. 1704][/us/stat/120/1704]; [Pub. L. 110–181, div. C, title XXXV][/us/pl/110/181/dC/tXXXV], § 3529(b)(1)(B), Jan. 28, 2008, [122 Stat. 603][/us/stat/122/603].)
 
 <table>
 
@@ -201,23 +201,23 @@ New  </td>
 
  __Amendments__ 
 
-    2008—Subsec. (b)(3)(B). [Pub. L. 110–181][/us/pl/110/181] amended [Pub. L. 109–304, § 15(30)][/us/pl/109/304/s15/30]. See 2006 Amendment note below.
+    2008—Subsec. (b)(3)(B). [Pub. L. 110–181][/us/pl/110/181] amended [Pub. L. 109–304][/us/pl/109/304], § 15(30). See 2006 Amendment note below.
 
-    2006—Subsec. (b)(3)(B). [Pub. L. 109–304, § 15(30)][/us/pl/109/304/s15/30], as amended by [Pub. L. 110–181][/us/pl/110/181], substituted “section 56101 or 56102 of this title” for “section 9 or 37 of the Shipping Act, 1916 (46 App. U.S.C. 808, 835)”.
+    2006—Subsec. (b)(3)(B). [Pub. L. 109–304][/us/pl/109/304], § 15(30), as amended by [Pub. L. 110–181][/us/pl/110/181], substituted “section 56101 or 56102 of this title” for “section 9 or 37 of the Shipping Act, 1916 (46 App. U.S.C. 808, 835)”.
 
-    2002—Subsec. (d)(1)(B). [Pub. L. 107–295, § 205(b)(1)][/us/pl/107/295/s205/b/1], substituted “an unexpired notice of a claim” for “a notice of a claim”.
+    2002—Subsec. (d)(1)(B). [Pub. L. 107–295][/us/pl/107/295], § 205(b)(1), substituted “an unexpired notice of a claim” for “a notice of a claim”.
 
-    Subsec. (f)(1). [Pub. L. 107–295, § 205(b)(2)][/us/pl/107/295/s205/b/2], substituted “an unexpired notice of a claim” for “a notice of a claim”.
+    Subsec. (f)(1). [Pub. L. 107–295][/us/pl/107/295], § 205(b)(2), substituted “an unexpired notice of a claim” for “a notice of a claim”.
 
     1998—Subsecs. (b)(1), (3), (c). [Pub. L. 105–383][/us/pl/105/383] inserted “a vessel titled in a State,” after “chapter 121 of this title,”.
 
-    1996—Subsec. (b). [Pub. L. 104–324, § 1124(a)(1)][/us/pl/104/324/s1124/a/1], substituted “mortgagee may” for “mortgage may” in introductory provisions.
+    1996—Subsec. (b). [Pub. L. 104–324][/us/pl/104/324], § 1124(a)(1), substituted “mortgagee may” for “mortgage may” in introductory provisions.
 
-    Subsec. (b)(1). [Pub. L. 104–324, § 1124(a)(2)(A)][/us/pl/104/324/s1124/a/2/A], substituted “preferred” for “perferred”.
+    Subsec. (b)(1). [Pub. L. 104–324][/us/pl/104/324], § 1124(a)(2)(A), substituted “preferred” for “perferred”.
 
-    Subsec. (b)(3). [Pub. L. 104–324, § 1124(a)(2)(B)][/us/pl/104/324/s1124/a/2/B], (3), added par. (3).
+    Subsec. (b)(3). [Pub. L. 104–324][/us/pl/104/324], § 1124(a)(2)(B), (3), added par. (3).
 
-    Subsec. (f). [Pub. L. 104–324, § 1124(b)][/us/pl/104/324/s1124/b], added subsec. (f).
+    Subsec. (f). [Pub. L. 104–324][/us/pl/104/324], § 1124(b), added subsec. (f).
 
     1989—Subsecs. (b), (c). [Pub. L. 101–225][/us/pl/101/225] amended subsecs. (b) and (c) generally. Prior to amendment, subsecs. (b) and (c) read as follows:
 
@@ -237,13 +237,13 @@ New  </td>
 
  __Effective Date of 2002 Amendment__ 
 
-[Pub. L. 107–295, title II, § 205(e)][/us/pl/107/295/s205/e], Nov. 25, 2002, [116 Stat. 2096][/us/stat/116/2096], provided that: 
+[Pub. L. 107–295, title II][/us/pl/107/295/tII], § 205(e), Nov. 25, 2002, [116 Stat. 2096][/us/stat/116/2096], provided that: 
 
 > “This section \[see Tables for classification\] shall take effect January 1, 2003.”
 
  __Construction of 1996 Amendment__ 
 
-[Pub. L. 104–324, title XI, § 1124(c)][/us/pl/104/324/s1124/c], Oct. 19, 1996, [110 Stat. 3981][/us/stat/110/3981], provided that: 
+[Pub. L. 104–324, title XI][/us/pl/104/324/tXI], § 1124(c), Oct. 19, 1996, [110 Stat. 3981][/us/stat/110/3981], provided that: 
 
 > “The amendments made by subsections (a) and (b) \[amending this section\] may not be construed to imply that remedies other than judicial remedies were not available before the date of enactment of this section \[Oct. 19, 1996\] to enforce claims for outstanding indebtedness secured by mortgaged vessels.”
 
@@ -256,39 +256,39 @@ New  </td>
 
 [/us/usc/t46/s31321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs31321
 [/us/usc/t46/s31321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs31321
-[/us/pl/100/710/s102/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F710%2Fs102%2Fc
+[/us/pl/100/710/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F710%2FtI
 [/us/stat/102/4745]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4745
-[/us/pl/101/225/s303/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F225%2Fs303%2F4
+[/us/pl/101/225/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F225%2FtIII
 [/us/stat/103/1923]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1923
-[/us/pl/104/324/s1124/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2Fs1124%2Fa
+[/us/pl/104/324/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2FtXI
 [/us/stat/110/3980]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3980
-[/us/pl/105/383/s401/c/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F383%2Fs401%2Fc%2F5
+[/us/pl/105/383/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F383%2FtIV
 [/us/stat/112/3425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3425
-[/us/pl/107/295/s205/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295%2Fs205%2Fb
+[/us/pl/107/295/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295%2FtII
 [/us/stat/116/2096]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2096
-[/us/pl/109/304/s15/30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs15%2F30
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1704
-[/us/pl/110/181/s3529/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs3529%2Fb%2F1%2FB
+[/us/pl/110/181/dC/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdC%2FtXXXV
 [/us/stat/122/603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F603
 [/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
-[/us/pl/109/304/s15/30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs15%2F30
-[/us/pl/109/304/s15/30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs15%2F30
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
-[/us/pl/107/295/s205/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295%2Fs205%2Fb%2F1
-[/us/pl/107/295/s205/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295%2Fs205%2Fb%2F2
+[/us/pl/107/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295
+[/us/pl/107/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295
 [/us/pl/105/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F383
-[/us/pl/104/324/s1124/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2Fs1124%2Fa%2F1
-[/us/pl/104/324/s1124/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2Fs1124%2Fa%2F2%2FA
-[/us/pl/104/324/s1124/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2Fs1124%2Fa%2F2%2FB
-[/us/pl/104/324/s1124/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2Fs1124%2Fb
+[/us/pl/104/324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324
+[/us/pl/104/324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324
+[/us/pl/104/324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324
+[/us/pl/104/324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324
 [/us/pl/101/225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F225
 [/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
 [/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/pl/110/181/s3529/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs3529%2Fb%2F2
 [/us/usc/t46/s3205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs3205
-[/us/pl/107/295/s205/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295%2Fs205%2Fe
+[/us/pl/107/295/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295%2FtII
 [/us/stat/116/2096]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2096
-[/us/pl/104/324/s1124/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2Fs1124%2Fc
+[/us/pl/104/324/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2FtXI
 [/us/stat/110/3981]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3981
 
 

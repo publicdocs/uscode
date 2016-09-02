@@ -97,7 +97,7 @@
 
         The Secretary of Defense shall determine whether a vessel satisfies paragraph (1)(B) not later than 30 days after receipt of a request from the Administrator for such a determination.
 
-([Pub. L. 109–304, § 8(c)][/us/pl/109/304/s8/c], Oct. 6, 2006, [120 Stat. 1606][/us/stat/120/1606]; [Pub. L. 109–163, div. C, title XXXV, § 3507(a)(1)(D)][/us/pl/109/163/s3507/a/1/D], (2)(A), (B), (b)(2), Jan. 6, 2006, [119 Stat. 3555][/us/stat/119/3555], 3556; [Pub. L. 109–479, title II, § 209][/us/pl/109/479/s209], Jan. 12, 2007, [120 Stat. 3617][/us/stat/120/3617]; [Pub. L. 110–181, div. C, title XXXV, § 3522(a)(2)][/us/pl/110/181/s3522/a/2], (10)(B), (b), Jan. 28, 2008, [122 Stat. 596][/us/stat/122/596], 598.)
+([Pub. L. 109–304][/us/pl/109/304], § 8(c), Oct. 6, 2006, [120 Stat. 1606][/us/stat/120/1606]; [Pub. L. 109–163, div. C, title XXXV][/us/pl/109/163/dC/tXXXV], § 3507(a)(1)(D), (2)(A), (B), (b)(2), Jan. 6, 2006, [119 Stat. 3555][/us/stat/119/3555], 3556; [Pub. L. 109–479, title II][/us/pl/109/479/tII], § 209, Jan. 12, 2007, [120 Stat. 3617][/us/stat/120/3617]; [Pub. L. 110–181, div. C, title XXXV][/us/pl/110/181/dC/tXXXV], § 3522(a)(2), (10)(B), (b), Jan. 28, 2008, [122 Stat. 596][/us/stat/122/596], 598.)
 
 <table>
 
@@ -187,11 +187,11 @@ June 29, 1936, ch. 858, title XI, § 1103(i), (j), as added Pub. L. 108–136,
 
  __Amendments__ 
 
-    2008—[Pub. L. 110–181, § 3522(b)][/us/pl/110/181/s3522/b], repealed [Pub. L. 109–163, § 3507(a)(1)(D)][/us/pl/109/163/s3507/a/1/D], (2)(A), (B), (b)(2). See 2006 Amendment note below.
+    2008—[Pub. L. 110–181][/us/pl/110/181], § 3522(b), repealed [Pub. L. 109–163][/us/pl/109/163], § 3507(a)(1)(D), (2)(A), (B), (b)(2). See 2006 Amendment note below.
 
-    Subsec. (a)(3)(B)(iii). [Pub. L. 110–181, § 3522(a)(10)(B)][/us/pl/110/181/s3522/a/10/B], incorporated the substance of the amendment by [Pub. L. 109–163, § 3507(a)(1)(D)][/us/pl/109/163/s3507/a/1/D], into this section by inserting “or Administrator” after “Secretary”. See 2006 Amendment note below and [section 18(a) of Pub. L. 109–304][/us/pl/109/304/s18/a], set out as a Legislative Purpose and Construction note preceding [section 101 of this title][/us/usc/t46/s101].
+    Subsec. (a)(3)(B)(iii). [Pub. L. 110–181][/us/pl/110/181], § 3522(a)(10)(B), incorporated the substance of the amendment by [Pub. L. 109–163][/us/pl/109/163], § 3507(a)(1)(D), into this section by inserting “or Administrator” after “Secretary”. See 2006 Amendment note below and [section 18(a) of Pub. L. 109–304][/us/pl/109/304/s18/a], set out as a Legislative Purpose and Construction note preceding [section 101 of this title][/us/usc/t46/s101].
 
-    Subsec. (c). [Pub. L. 110–181, § 3522(a)(2)][/us/pl/110/181/s3522/a/2], incorporated the substance of the amendments by [Pub. L. 109–163, § 3507(a)(2)(A)][/us/pl/109/163/s3507/a/2/A], (B), (b)(2), by amending subsec. (c) generally. Prior to amendment, subsec. (c) read as follows:
+    Subsec. (c). [Pub. L. 110–181][/us/pl/110/181], § 3522(a)(2), incorporated the substance of the amendments by [Pub. L. 109–163][/us/pl/109/163], § 3507(a)(2)(A), (B), (b)(2), by amending subsec. (c) generally. Prior to amendment, subsec. (c) read as follows:
 
     “Priorities for Certain Vessels.—In guaranteeing or making a commitment to guarantee an obligation under this chapter, the Secretary shall give priority to—
 
@@ -207,15 +207,15 @@ June 29, 1936, ch. 858, title XI, § 1103(i), (j), as added Pub. L. 108–136,
 
     2007—Subsec. (a)(7). [Pub. L. 109–479][/us/pl/109/479] amended par. (7) generally. Prior to amendment, par. (7) read as follows: “Financing or refinancing (including reimbursement of an obligor for expenditures previously made for) the purchase of an individual fishing quota in accordance with section 303(d)(4) of the Magnuson-Stevens Fishery Conservation and Management Act ([16 U.S.C. 1853(d)(4)][/us/usc/t16/s1853/d/4]).”
 
-    2006—[Pub. L. 109–163, § 3507(a)(1)(D)][/us/pl/109/163/s3507/a/1/D], (2)(A), (B), (b)(2), which directed the amendment of sections 1273(i), (j) and 1274(a) of the former Appendix to this title from which this section was derived, was repealed by [Pub. L. 110–181, § 3522(b)][/us/pl/110/181/s3522/b]. See 2008 Amendment notes for subsecs. (a)(3)(B)(iii) and (c) and Historical and Revision notes above.
+    2006—[Pub. L. 109–163][/us/pl/109/163], § 3507(a)(1)(D), (2)(A), (B), (b)(2), which directed the amendment of sections 1273(i), (j) and 1274(a) of the former Appendix to this title from which this section was derived, was repealed by [Pub. L. 110–181][/us/pl/110/181], § 3522(b). See 2008 Amendment notes for subsecs. (a)(3)(B)(iii) and (c) and Historical and Revision notes above.
 
  __Prohibition of New Loans for Construction of Fishing Vessels Under Certain Conditions__ 
 
-[Pub. L. 104–297, title III, § 302(b)(2)][/us/pl/104/297/s302/b/2], Oct. 11, 1996, [110 Stat. 3615][/us/stat/110/3615], as amended by [Pub. L. 105–277, div. C, title II, § 212][/us/pl/105/277/s212], Oct. 21, 1998, [112 Stat. 2681–635][/us/stat/112/2681-635]; [Pub. L. 107–206, title I, § 1103][/us/pl/107/206/s1103], Aug. 2, 2002, [116 Stat. 884][/us/stat/116/884], provided that: 
+[Pub. L. 104–297, title III][/us/pl/104/297/tIII], § 302(b)(2), Oct. 11, 1996, [110 Stat. 3615][/us/stat/110/3615], as amended by [Pub. L. 105–277, div. C, title II][/us/pl/105/277/dC/tII], § 212, Oct. 21, 1998, [112 Stat. 2681–635][/us/stat/112/2681-635]; [Pub. L. 107–206, title I][/us/pl/107/206/tI], § 1103, Aug. 2, 2002, [116 Stat. 884][/us/stat/116/884]; [Pub. L. 114–120, title III][/us/pl/114/120/tIII], § 302(b), Feb. 8, 2016, [130 Stat. 52][/us/stat/130/52], provided that: 
 
-> “No loans may be provided or guaranteed by the Federal Government for the construction or rebuilding of a vessel intended for use as a fishing vessel (as defined in [section 2101 of title 46][/us/usc/t46/s2101], United States Code), if such vessel will be greater than 165 feet in registered length, of more than 750 gross registered tons (as measured under chapter 145 of title 46) or 1,900 gross registered tons \[(\]as measured under chapter 143 of that title), or have an engine or engines capable of producing a total of more than 3,000 shaft horsepower, after such construction or rebuilding is completed. This prohibition shall not apply to vessels to be used in the menhaden fishery or in tuna purse seine fisheries outside the exclusive economic zone of the United States or the area of the South Pacific Regional Fisheries Treaty.”
+> “No loans may be provided or guaranteed by the Federal Government for the construction or rebuilding of a vessel intended for use as a fishing vessel (as defined in [section 2101 of title 46][/us/usc/t46/s2101], United States Code), if such vessel will be greater than 165 feet in registered length, of more than 750 gross registered tons (as measured under chapter 145 of title 46) or 1,900 gross registered tons \[(\]as measured under chapter 143 of that title), or have an engine or engines capable of producing a total of more than 3,000 shaft horsepower, after such construction or rebuilding is completed. This prohibition shall not apply to vessels to be used in the menhaden fishery, in tuna purse seine fisheries outside the exclusive economic zone of the United States or the area of the South Pacific Regional Fisheries Treaty, in fisheries that are under the jurisdiction of the North Pacific Fishery Management Council and managed under a fishery management plan issued under the Magnuson-Stevens Fishery Conservation and Management Act ([16 U.S.C. 1801][/us/usc/t16/s1801] et seq.), or in the Pacific whiting fishery that is under the jurisdiction of the Pacific Fishery Management Council and managed under a fishery management plan issued under that Act. Any fishing vessel operated in fisheries under the jurisdiction of the North Pacific Fishery Management Council and managed under a fishery management plan issued under the Magnuson-Stevens Fishery Conservation and Management Act ([16 U.S.C. 1801][/us/usc/t16/s1801] et seq.), or in the Pacific whiting fishery under the jurisdiction of the Pacific Fishery Management Council and managed under a fishery management plan issued under that Act, and that is replaced by a vessel that is constructed or rebuilt with a loan or loan guarantee provided by the Federal Government may not be used to harvest fish in any fishery under the jurisdiction of any regional fishery management council, other than a fishery under the jurisdiction of the North Pacific Fishery Management Council or the Pacific Fishery Management Council.”
 
-    \[[Pub. L. 107–206, title I, § 1103][/us/pl/107/206/s1103], Aug. 2, 2002, [116 Stat. 884][/us/stat/116/884], which directed the amendment of title II of division C of [Public Law 105–277][/us/pl/105/277] by substituting “of more than 750 gross registered tons (as measured under chapter 145 of title 46) or 1,900 gross registered tons as measured under chapter 143 of that title)” for “of more than 750 gross registered tons”, was executed to [section 302(b)(2) of Pub. L. 104–297][/us/pl/104/297/s302/b/2], set out above, as amended by [section 212 of Pub. L. 105–277][/us/pl/105/277/s212], to reflect the probable intent of Congress.\]
+    \[[Pub. L. 107–206, title I][/us/pl/107/206/tI], § 1103, Aug. 2, 2002, [116 Stat. 884][/us/stat/116/884], which directed the amendment of title II of division C of [Public Law 105–277][/us/pl/105/277] by substituting “of more than 750 gross registered tons (as measured under chapter 145 of title 46) or 1,900 gross registered tons as measured under chapter 143 of that title)” for “of more than 750 gross registered tons”, was executed to [section 302(b)(2) of Pub. L. 104–297][/us/pl/104/297/s302/b/2], set out above, as amended by [section 212 of Pub. L. 105–277][/us/pl/105/277/s212], to reflect the probable intent of Congress.\]
 
 ----------
 
@@ -227,13 +227,13 @@ June 29, 1936, ch. 858, title XI, § 1103(i), (j), as added Pub. L. 108–136,
 [/us/usc/t46/s109/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs109%2Fb
 [/us/usc/t46/s53717]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs53717
 [/us/usc/t46/s53101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs53101
-[/us/pl/109/304/s8/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs8%2Fc
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1606
-[/us/pl/109/163/s3507/a/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs3507%2Fa%2F1%2FD
+[/us/pl/109/163/dC/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdC%2FtXXXV
 [/us/stat/119/3555]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3555
-[/us/pl/109/479/s209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479%2Fs209
+[/us/pl/109/479/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479%2FtII
 [/us/stat/120/3617]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3617
-[/us/pl/110/181/s3522/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs3522%2Fa%2F2
+[/us/pl/110/181/dC/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdC%2FtXXXV
 [/us/stat/122/596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F596
 [/us/pl/94/265/s303/d/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F265%2Fs303%2Fd%2F4
 [/us/usc/t16/s1853/d/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1853%2Fd%2F4
@@ -241,29 +241,33 @@ June 29, 1936, ch. 858, title XI, § 1103(i), (j), as added Pub. L. 108–136,
 [/us/stat/117/1788]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1788
 [/us/usc/t46/s53101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs53101
 [/us/usc/t46/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs101
-[/us/pl/110/181/s3522/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs3522%2Fb
-[/us/pl/109/163/s3507/a/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs3507%2Fa%2F1%2FD
-[/us/pl/110/181/s3522/a/10/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs3522%2Fa%2F10%2FB
-[/us/pl/109/163/s3507/a/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs3507%2Fa%2F1%2FD
+[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
+[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
 [/us/pl/109/304/s18/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs18%2Fa
 [/us/usc/t46/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs101
-[/us/pl/110/181/s3522/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs3522%2Fa%2F2
-[/us/pl/109/163/s3507/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs3507%2Fa%2F2%2FA
+[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
 [/us/usc/t46/s53101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs53101
 [/us/pl/109/304/s18/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs18%2Fa
 [/us/usc/t46/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs101
 [/us/pl/109/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479
 [/us/usc/t16/s1853/d/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1853%2Fd%2F4
-[/us/pl/109/163/s3507/a/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs3507%2Fa%2F1%2FD
-[/us/pl/110/181/s3522/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs3522%2Fb
-[/us/pl/104/297/s302/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297%2Fs302%2Fb%2F2
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
+[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
+[/us/pl/104/297/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297%2FtIII
 [/us/stat/110/3615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3615
-[/us/pl/105/277/s212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs212
+[/us/pl/105/277/dC/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdC%2FtII
 [/us/stat/112/2681-635]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-635
-[/us/pl/107/206/s1103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F206%2Fs1103
+[/us/pl/107/206/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F206%2FtI
 [/us/stat/116/884]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F884
+[/us/pl/114/120/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F120%2FtIII
+[/us/stat/130/52]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F52
 [/us/usc/t46/s2101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs2101
-[/us/pl/107/206/s1103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F206%2Fs1103
+[/us/usc/t16/s1801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1801
+[/us/usc/t16/s1801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1801
+[/us/pl/107/206/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F206%2FtI
 [/us/stat/116/884]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F884
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/pl/104/297/s302/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297%2Fs302%2Fb%2F2

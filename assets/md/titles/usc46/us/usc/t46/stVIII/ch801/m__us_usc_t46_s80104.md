@@ -35,7 +35,7 @@
 
         (2) the Treaty between the United States of America and Mexico to facilitate assistance to and salvage of vessels in territorial waters, signed at Mexico City, June 13, 1935 ([49 Stat. 3359][/us/stat/49/3359]).
 
-([Pub. L. 109–304, § 11][/us/pl/109/304/s11], Oct. 6, 2006, [120 Stat. 1691][/us/stat/120/1691].)
+([Pub. L. 109–304][/us/pl/109/304], § 11, Oct. 6, 2006, [120 Stat. 1691][/us/stat/120/1691].)
 
 <table>
 
@@ -132,7 +132,7 @@ R.S. § 4370(d), (e); June 11, 1940, ch. 324, 54 Stat. 305.  </td>
 [/us/usc/t46/s12118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs12118
 [/us/stat/35/2036]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F35%2F2036
 [/us/stat/49/3359]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F3359
-[/us/pl/109/304/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs11
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1691
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/stat/116/2178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2178

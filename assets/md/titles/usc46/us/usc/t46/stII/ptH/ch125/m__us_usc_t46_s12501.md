@@ -55,7 +55,7 @@
 
     (c) The Secretary may maintain information under this chapter in connection with any other information system maintained by the Secretary.
 
-(Added [Pub. L. 100–710, title I, § 101(a)][/us/pl/100/710/s101/a], Nov. 23, 1988, [102 Stat. 4735][/us/stat/102/4735]; amended [Pub. L. 101–225, title III, § 302(1)][/us/pl/101/225/s302/1], Dec. 12, 1989, [103 Stat. 1922][/us/stat/103/1922]; [Pub. L. 101–595, title VI, § 603(10)][/us/pl/101/595/s603/10], Nov. 16, 1990, [104 Stat. 2993][/us/stat/104/2993].)
+(Added [Pub. L. 100–710, title I][/us/pl/100/710/tI], § 101(a), Nov. 23, 1988, [102 Stat. 4735][/us/stat/102/4735]; amended [Pub. L. 101–225, title III][/us/pl/101/225/tIII], § 302(1), Dec. 12, 1989, [103 Stat. 1922][/us/stat/103/1922]; [Pub. L. 101–595, title VI][/us/pl/101/595/tVI], § 603(10), Nov. 16, 1990, [104 Stat. 2993][/us/stat/104/2993].)
 
  __Historical and Revision Notes__ 
 
@@ -79,7 +79,7 @@
 
  __Records and Other Information; Establishment, Centralization and Computerization__ 
 
-[Pub. L. 100–710, title I, § 104(e)(2)][/us/pl/100/710/s104/e/2], Nov. 23, 1988, [102 Stat. 4751][/us/stat/102/4751], provided that: 
+[Pub. L. 100–710, title I][/us/pl/100/710/tI], § 104(e)(2), Nov. 23, 1988, [102 Stat. 4751][/us/stat/102/4751], provided that: 
 
 > “To establish, centralize, and computerize records and other information maintained under chapters 121, 125, and 313 of title 46, United States Code, from the effective date of this title \[Jan. 1, 1989, with certain exceptions and qualifications, see [section 107 of Pub. L. 100–710][/us/pl/100/710/s107], set out as a note under [section 31301 of this title][/us/usc/t46/s31301]\] through September 30, 1993, the Secretary of Transportation shall spend (out of amounts appropriated for the Department of Transportation under an appropriations law) not less than an amount that is equal to the amounts estimated to be—
 
@@ -89,7 +89,7 @@
 
  __Personnel and Equipment; Recruitment, Compensation, Training, Purchasing, or Deployment__ 
 
-[Pub. L. 100–710, title I, § 104(g)][/us/pl/100/710/s104/g], Nov. 23, 1988, [102 Stat. 4751][/us/stat/102/4751], provided that: 
+[Pub. L. 100–710, title I][/us/pl/100/710/tI], § 104(g), Nov. 23, 1988, [102 Stat. 4751][/us/stat/102/4751], provided that: 
 
 > “Nothing in this section \[amending sections 2101, 2110, 12102, 12103, 12105, 12110, 12112, 12117, 12119, and 12120 of this title and sections 808, 1242, and 1271 of the Appendix to this title, and enacting provisions set out as notes under sections 12501, 12502, and 12505 of this title\] requires the Coast Guard to recruit, compensate, train, purchase, or deploy any personnel or equipment to carry out chapter 125 of title 46, United States Code (as enacted by section 101 of this Act), except to the extent that appropriations are made available in an appropriations law for the Department of Transportation.”
 
@@ -103,22 +103,22 @@
 ----------
 
 [/us/usc/t46/s12503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs12503
-[/us/pl/100/710/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F710%2Fs101%2Fa
+[/us/pl/100/710/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F710%2FtI
 [/us/stat/102/4735]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4735
-[/us/pl/101/225/s302/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F225%2Fs302%2F1
+[/us/pl/101/225/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F225%2FtIII
 [/us/stat/103/1922]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1922
-[/us/pl/101/595/s603/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F595%2Fs603%2F10
+[/us/pl/101/595/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F595%2FtVI
 [/us/stat/104/2993]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2993
 [/us/pl/101/595]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F595
 [/us/pl/101/225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F225
 [/us/pl/100/710/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F710%2Fs107
 [/us/usc/t46/s31301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs31301
-[/us/pl/100/710/s104/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F710%2Fs104%2Fe%2F2
+[/us/pl/100/710/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F710%2FtI
 [/us/stat/102/4751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4751
 [/us/pl/100/710/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F710%2Fs107
 [/us/usc/t46/s31301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs31301
 [/us/usc/t31/s9701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs9701
-[/us/pl/100/710/s104/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F710%2Fs104%2Fg
+[/us/pl/100/710/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F710%2FtI
 [/us/stat/102/4751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4751
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
 

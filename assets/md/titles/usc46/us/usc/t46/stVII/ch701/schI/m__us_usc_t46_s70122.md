@@ -13,7 +13,7 @@
 
 [Previous](./../../../../../..//us/usc/t46/stVII/ch701/schI/m__us_usc_t46_s70121.md) | [Next](./../../../../../..//us/usc/t46/stVII/ch701/schI/m__us_usc_t46_s70123.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs70122)
 
-## § 70122. Waterway watch program  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “Waterway Watch Program”. </sup></sup> 
+## § 70122. Waterway Watch Program
 
     (a)  __Program Established__  __.—__ 
 
@@ -55,7 +55,11 @@
 
     There are authorized to be appropriated for the purposes of this section $3,000,000 for each of fiscal years 2011 through 2016. Such funds shall remain available until expended.
 
-(Added [Pub. L. 111–281, title VIII, § 801(a)][/us/pl/111/281/s801/a], Oct. 15, 2010, [124 Stat. 2988][/us/stat/124/2988].)
+(Added [Pub. L. 111–281, title VIII][/us/pl/111/281/tVIII], § 801(a), Oct. 15, 2010, [124 Stat. 2988][/us/stat/124/2988]; amended [Pub. L. 114–120, title III][/us/pl/114/120/tIII], § 306(a)(11), Feb. 8, 2016, [130 Stat. 55][/us/stat/130/55].)
+
+ __Amendments__ 
+
+    2016—[Pub. L. 114–120][/us/pl/114/120] substituted “Watch Program” for “watch program” in section catchline.
 
 ----------
 
@@ -65,7 +69,10 @@
 ----------
 
 [/us/usc/t18/s3077]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3077
-[/us/pl/111/281/s801/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs801%2Fa
+[/us/pl/111/281/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2FtVIII
 [/us/stat/124/2988]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2988
+[/us/pl/114/120/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F120%2FtIII
+[/us/stat/130/55]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F55
+[/us/pl/114/120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F120
 
 

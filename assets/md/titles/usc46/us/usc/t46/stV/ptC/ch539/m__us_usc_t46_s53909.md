@@ -31,7 +31,7 @@
 
     The Secretary of Transportation may request the Secretary of the Treasury to invest such portion of the fund as is not, in the judgment of the Secretary of Transportation, required to meet the current needs of the fund. These investments shall be made by the Secretary of the Treasury in public debt securities of the Government, with maturities suitable to the needs of the fund, and bearing interest rates determined by the Secretary of the Treasury, taking into consideration current market yields on outstanding marketable obligations of the Government of comparable maturity. Interest and benefits from the securities shall be deposited in the fund.
 
-([Pub. L. 109–304, § 8(c)][/us/pl/109/304/s8/c], Oct. 6, 2006, [120 Stat. 1630][/us/stat/120/1630]; [Pub. L. 109–364, div. C, title XXXV, § 3510(a)(1)][/us/pl/109/364/s3510/a/1], Oct. 17, 2006, [120 Stat. 2520][/us/stat/120/2520]; [Pub. L. 110–181, div. C, title XXXV, § 3526(g)][/us/pl/110/181/s3526/g], Jan. 28, 2008, [122 Stat. 602][/us/stat/122/602].)
+([Pub. L. 109–304][/us/pl/109/304], § 8(c), Oct. 6, 2006, [120 Stat. 1630][/us/stat/120/1630]; [Pub. L. 109–364, div. C, title XXXV][/us/pl/109/364/dC/tXXXV], § 3510(a)(1), Oct. 17, 2006, [120 Stat. 2520][/us/stat/120/2520]; [Pub. L. 110–181, div. C, title XXXV][/us/pl/110/181/dC/tXXXV], § 3526(g), Jan. 28, 2008, [122 Stat. 602][/us/stat/122/602].)
 
 <table>
 
@@ -103,13 +103,13 @@ Nov. 1, 1951, ch. 664, par. under heading “War–Risk Insurance Revolving Fund
 
  __Amendments__ 
 
-    2008—[Pub. L. 110–181][/us/pl/110/181] repealed [Pub. L. 109–364, § 3510(a)(1)][/us/pl/109/364/s3510/a/1]. See 2006 Amendment note below.
+    2008—[Pub. L. 110–181][/us/pl/110/181] repealed [Pub. L. 109–364][/us/pl/109/364], § 3510(a)(1). See 2006 Amendment note below.
 
-    2006—[Pub. L. 109–364, § 3510(a)(1)][/us/pl/109/364/s3510/a/1], which directed the amendment of section 1288(a) of the former Appendix to this title from which this section was derived in part, was repealed by [Pub. L. 110–181][/us/pl/110/181]. The substance of the amendment was incorporated in this section as enacted by [Pub. L. 109–304][/us/pl/109/304]. See Historical and Revision notes above.
+    2006—[Pub. L. 109–364][/us/pl/109/364], § 3510(a)(1), which directed the amendment of section 1288(a) of the former Appendix to this title from which this section was derived in part, was repealed by [Pub. L. 110–181][/us/pl/110/181]. The substance of the amendment was incorporated in this section as enacted by [Pub. L. 109–304][/us/pl/109/304]. See Historical and Revision notes above.
 
  __Effective Date of 2006 Amendment__ 
 
-    [Pub. L. 109–364, div. C, title XXXV, § 3510(a)(2)][/us/pl/109/364/s3510/a/2], Oct. 17, 2006, [120 Stat. 2520][/us/stat/120/2520], which provided that the amendments made by paragraph (1) \[amending section 1288(a) of the former Appendix to this title, from which this section was derived in part\] were to be effective as if enacted by [section 3502 of Pub. L. 108–375][/us/pl/108/375/s3502], was repealed by [Pub. L. 110–181, div. C, title XXXV, § 3526(g)][/us/pl/110/181/s3526/g], Jan. 28, 2008, [122 Stat. 602][/us/stat/122/602].
+    [Pub. L. 109–364, div. C, title XXXV][/us/pl/109/364/dC/tXXXV], § 3510(a)(2), Oct. 17, 2006, [120 Stat. 2520][/us/stat/120/2520], which provided that the amendments made by paragraph (1) \[amending section 1288(a) of the former Appendix to this title, from which this section was derived in part\] were to be effective as if enacted by [section 3502 of Pub. L. 108–375][/us/pl/108/375/s3502], was repealed by [Pub. L. 110–181, div. C, title XXXV][/us/pl/110/181/dC/tXXXV], § 3526(g), Jan. 28, 2008, [122 Stat. 602][/us/stat/122/602].
 
 ----------
 
@@ -118,22 +118,22 @@ Nov. 1, 1951, ch. 664, par. under heading “War–Risk Insurance Revolving Fund
 ----------
 ----------
 
-[/us/pl/109/304/s8/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs8%2Fc
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1630]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1630
-[/us/pl/109/364/s3510/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs3510%2Fa%2F1
+[/us/pl/109/364/dC/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdC%2FtXXXV
 [/us/stat/120/2520]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2520
-[/us/pl/110/181/s3526/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs3526%2Fg
+[/us/pl/110/181/dC/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdC%2FtXXXV
 [/us/stat/122/602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F602
 [/us/pl/108/375/s3502/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs3502%2Fb
 [/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
-[/us/pl/109/364/s3510/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs3510%2Fa%2F1
-[/us/pl/109/364/s3510/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs3510%2Fa%2F1
+[/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
+[/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
 [/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
 [/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
-[/us/pl/109/364/s3510/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs3510%2Fa%2F2
+[/us/pl/109/364/dC/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdC%2FtXXXV
 [/us/stat/120/2520]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2520
 [/us/pl/108/375/s3502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs3502
-[/us/pl/110/181/s3526/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs3526%2Fg
+[/us/pl/110/181/dC/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdC%2FtXXXV
 [/us/stat/122/602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F602
 
 

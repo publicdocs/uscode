@@ -17,7 +17,7 @@
 
     Thirty days after the notification procedures under section 4704(a)(1) are completed, the Secretary may assess a civil penalty of not more than $1,000 for each day of the violation against an owner or operator that violates section 4702. A vessel with respect to which a penalty is assessed under this chapter is liable in rem for the penalty.
 
-(Added [Pub. L. 102–587, title V, § 5302][/us/pl/102/587/s5302], Nov. 4, 1992, [106 Stat. 5082][/us/stat/106/5082].)
+(Added [Pub. L. 102–587, title V][/us/pl/102/587/tV], § 5302, Nov. 4, 1992, [106 Stat. 5082][/us/stat/106/5082].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/102/587/s5302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F587%2Fs5302
+[/us/pl/102/587/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F587%2FtV
 [/us/stat/106/5082]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F5082
 
 

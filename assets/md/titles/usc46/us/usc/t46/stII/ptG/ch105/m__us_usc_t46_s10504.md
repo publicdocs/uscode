@@ -59,7 +59,7 @@
 
         (4) while on board the vessel on which the seaman is employed, the seaman is able to arrange for withdrawal of all funds on deposit in the account in which the wages are deposited.
 
-([Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 570][/us/stat/97/570]; [Pub. L. 99–36, § 1(a)(5)][/us/pl/99/36/s1/a/5], May 15, 1985, [99 Stat. 67][/us/stat/99/67]; [Pub. L. 99–640, § 10(b)(4)][/us/pl/99/640/s10/b/4], (5), Nov. 10, 1986, [100 Stat. 3550][/us/stat/100/3550]; [Pub. L. 111–281, title IX, § 902(b)][/us/pl/111/281/s902/b], Oct. 15, 2010, [124 Stat. 3009][/us/stat/124/3009].)
+([Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 570][/us/stat/97/570]; [Pub. L. 99–36][/us/pl/99/36], § 1(a)(5), May 15, 1985, [99 Stat. 67][/us/stat/99/67]; [Pub. L. 99–640][/us/pl/99/640], § 10(b)(4), (5), Nov. 10, 1986, [100 Stat. 3550][/us/stat/100/3550]; [Pub. L. 111–281, title IX][/us/pl/111/281/tIX], § 902(b), Oct. 15, 2010, [124 Stat. 3009][/us/stat/124/3009].)
 
 <table>
 
@@ -105,19 +105,19 @@ Source section (U.S. Code)  </td>
 
  __Amendments__ 
 
-    2010—Subsec. (c). [Pub. L. 111–281, § 902(b)(1)][/us/pl/111/281/s902/b/1], designated existing provisions as par. (1), substituted “Subject to subsection (d), and except as provided in paragraph (2), when” for “When”, and added pars. (2) and (3).
+    2010—Subsec. (c). [Pub. L. 111–281][/us/pl/111/281], § 902(b)(1), designated existing provisions as par. (1), substituted “Subject to subsection (d), and except as provided in paragraph (2), when” for “When”, and added pars. (2) and (3).
 
-    Subsec. (f). [Pub. L. 111–281, § 902(b)(2)][/us/pl/111/281/s902/b/2], added subsec. (f).
+    Subsec. (f). [Pub. L. 111–281][/us/pl/111/281], § 902(b)(2), added subsec. (f).
 
-    1986—Subsec. (a). [Pub. L. 99–640, § 10(b)(4)][/us/pl/99/640/s10/b/4], struck out last sentence which read as follows: “However, this subsection applies to a vessel taking oysters.”
+    1986—Subsec. (a). [Pub. L. 99–640][/us/pl/99/640], § 10(b)(4), struck out last sentence which read as follows: “However, this subsection applies to a vessel taking oysters.”
 
-    Subsec. (d)(3). [Pub. L. 99–640, § 10(b)(5)][/us/pl/99/640/s10/b/5], struck out “(except a vessel taking oysters)” after “vessel”.
+    Subsec. (d)(3). [Pub. L. 99–640][/us/pl/99/640], § 10(b)(5), struck out “(except a vessel taking oysters)” after “vessel”.
 
     1985—Subsec. (d). [Pub. L. 99–36][/us/pl/99/36] amended subsec. (d) generally, thereby including reference to a vessel engaged in coastwise commerce.
 
  __Effective Date of 1985 Amendment__ 
 
-[Pub. L. 99–36, § 1(b)][/us/pl/99/36/s1/b], May 15, 1985, [99 Stat. 68][/us/stat/99/68], provided that: 
+[Pub. L. 99–36][/us/pl/99/36], § 1(b), May 15, 1985, [99 Stat. 68][/us/stat/99/68], provided that: 
 
 > “The effective date of subsection (a)(5) of this section \[amending this section\] is August 26, 1983.”
 
@@ -133,18 +133,18 @@ Source section (U.S. Code)  </td>
 [/us/usc/t46/s10502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs10502
 [/us/pl/98/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F89
 [/us/stat/97/570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F570
-[/us/pl/99/36/s1/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F36%2Fs1%2Fa%2F5
-[/us/stat/99/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F67
-[/us/pl/99/640/s10/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F640%2Fs10%2Fb%2F4
-[/us/stat/100/3550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3550
-[/us/pl/111/281/s902/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs902%2Fb
-[/us/stat/124/3009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3009
-[/us/pl/111/281/s902/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs902%2Fb%2F1
-[/us/pl/111/281/s902/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs902%2Fb%2F2
-[/us/pl/99/640/s10/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F640%2Fs10%2Fb%2F4
-[/us/pl/99/640/s10/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F640%2Fs10%2Fb%2F5
 [/us/pl/99/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F36
-[/us/pl/99/36/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F36%2Fs1%2Fb
+[/us/stat/99/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F67
+[/us/pl/99/640]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F640
+[/us/stat/100/3550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3550
+[/us/pl/111/281/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2FtIX
+[/us/stat/124/3009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3009
+[/us/pl/111/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281
+[/us/pl/111/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281
+[/us/pl/99/640]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F640
+[/us/pl/99/640]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F640
+[/us/pl/99/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F36
+[/us/pl/99/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F36
 [/us/stat/99/68]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F68
 
 

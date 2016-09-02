@@ -27,7 +27,7 @@
 
         (2) an unmanned barge operating outside of the territorial waters of the United States.
 
-([Pub. L. 109–304, § 5][/us/pl/109/304/s5], Oct. 6, 2006, [120 Stat. 1505][/us/stat/120/1505]; [Pub. L. 110–181, div. C, title XXXV, § 3529(a)(3)][/us/pl/110/181/s3529/a/3], Jan. 28, 2008, [122 Stat. 603][/us/stat/122/603].)
+([Pub. L. 109–304][/us/pl/109/304], § 5, Oct. 6, 2006, [120 Stat. 1505][/us/stat/120/1505]; [Pub. L. 110–181, div. C, title XXXV][/us/pl/110/181/dC/tXXXV], § 3529(a)(3), Jan. 28, 2008, [122 Stat. 603][/us/stat/122/603].)
 
 <table>
 
@@ -84,9 +84,9 @@ Source (Statutes at Large)  </td>
 ----------
 ----------
 
-[/us/pl/109/304/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs5
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1505
-[/us/pl/110/181/s3529/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs3529%2Fa%2F3
+[/us/pl/110/181/dC/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdC%2FtXXXV
 [/us/stat/122/603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F603
 [/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
 

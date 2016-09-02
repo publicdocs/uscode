@@ -25,7 +25,7 @@
 
     (4) “removal” or “remove” means relocation, sale, scrapping, or other method of disposal.
 
-(Added [Pub. L. 102–587, title V, § 5302][/us/pl/102/587/s5302], Nov. 4, 1992, [106 Stat. 5081][/us/stat/106/5081]; amended [Pub. L. 104–324, title VII, § 718][/us/pl/104/324/s718], Oct. 19, 1996, [110 Stat. 3937][/us/stat/110/3937].)
+(Added [Pub. L. 102–587, title V][/us/pl/102/587/tV], § 5302, Nov. 4, 1992, [106 Stat. 5081][/us/stat/106/5081]; amended [Pub. L. 104–324, title VII][/us/pl/104/324/tVII], § 718, Oct. 19, 1996, [110 Stat. 3937][/us/stat/110/3937].)
 
  __Amendments__ 
 
@@ -33,7 +33,7 @@
 
  __Application to Certain Barges__ 
 
-[Pub. L. 102–587, title V, § 5303][/us/pl/102/587/s5303], Nov. 4, 1992, [106 Stat. 5083][/us/stat/106/5083], provided that: 
+[Pub. L. 102–587, title V][/us/pl/102/587/tV], § 5303, Nov. 4, 1992, [106 Stat. 5083][/us/stat/106/5083], provided that: 
 
 > “Chapter 47 of title 46, United States Code, as added by subsection (a) \[section 5302\], does not apply to a barge abandoned before June 11, 1992, if the barge was removed before the date that is 1 year after the date of enactment of this title \[Nov. 4, 1992\].”
 
@@ -51,15 +51,15 @@
 [/us/usc/t46/s14502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs14502
 [/us/usc/t46/s14302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs14302
 [/us/usc/t46/s14104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs14104
-[/us/pl/102/587/s5302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F587%2Fs5302
+[/us/pl/102/587/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F587%2FtV
 [/us/stat/106/5081]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F5081
-[/us/pl/104/324/s718]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2Fs718
+[/us/pl/104/324/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2FtVII
 [/us/stat/110/3937]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3937
 [/us/pl/104/324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324
 [/us/usc/t46/s14502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs14502
 [/us/usc/t46/s14302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs14302
 [/us/usc/t46/s14104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs14104
-[/us/pl/102/587/s5303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F587%2Fs5303
+[/us/pl/102/587/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F587%2FtV
 [/us/stat/106/5083]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F5083
 [/us/usc/t43/s1331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1331
 

@@ -149,7 +149,7 @@
 
         The Secretary may compromise, modify, or remit, with or without conditions, any civil penalty imposed under this section.
 
-(Added [Pub. L. 109–241, title III, § 312(a)][/us/pl/109/241/s312/a], July 11, 2006, [120 Stat. 530][/us/stat/120/530].)
+(Added [Pub. L. 109–241, title III][/us/pl/109/241/tIII], § 312(a), July 11, 2006, [120 Stat. 530][/us/stat/120/530].)
 
  __International Convention for Safety of Life at Sea__ 
 
@@ -162,7 +162,7 @@
 ----------
 ----------
 
-[/us/pl/109/241/s312/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241%2Fs312%2Fa
+[/us/pl/109/241/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241%2FtIII
 [/us/stat/120/530]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F530
 [/us/usc/t33/s1602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1602
 

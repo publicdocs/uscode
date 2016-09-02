@@ -21,7 +21,7 @@
 
     (2) any other vessel shall be inspected at least once every 5 years.
 
-([Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 514][/us/stat/97/514]; [Pub. L. 104–324, title VI, § 605(a)][/us/pl/104/324/s605/a], Oct. 19, 1996, [110 Stat. 3931][/us/stat/110/3931].)
+([Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 514][/us/stat/97/514]; [Pub. L. 104–324, title VI][/us/pl/104/324/tVI], § 605(a), Oct. 19, 1996, [110 Stat. 3931][/us/stat/110/3931].)
 
 <table>
 
@@ -95,9 +95,9 @@ Source section (U.S. Code)  </td>
 
  __Amendments__ 
 
-    1996—Par. (1). [Pub. L. 104–324, § 605(a)(1)][/us/pl/104/324/s605/a/1], substituted “, nautical school vessel, and small passenger vessel allowed to carry more than 12 passengers on a foreign voyage” for “and nautical school vessel” and inserted “and” at end.
+    1996—Par. (1). [Pub. L. 104–324][/us/pl/104/324], § 605(a)(1), substituted “, nautical school vessel, and small passenger vessel allowed to carry more than 12 passengers on a foreign voyage” for “and nautical school vessel” and inserted “and” at end.
 
-    Pars. (2), (3). [Pub. L. 104–324, § 605(a)(2)][/us/pl/104/324/s605/a/2], (3), redesignated par. (3) as (2), substituted “5 years” for “2 years”, and struck out former par. (2) which read as follows: “each small passenger vessel, freight vessel or offshore supply vessel of less than 100 gross tons, and sailing school vessel shall be inspected at least once every 3 years; and”.
+    Pars. (2), (3). [Pub. L. 104–324][/us/pl/104/324], § 605(a)(2), (3), redesignated par. (3) as (2), substituted “5 years” for “2 years”, and struck out former par. (2) which read as follows: “each small passenger vessel, freight vessel or offshore supply vessel of less than 100 gross tons, and sailing school vessel shall be inspected at least once every 3 years; and”.
 
 ----------
 
@@ -108,9 +108,9 @@ Source section (U.S. Code)  </td>
 
 [/us/pl/98/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F89
 [/us/stat/97/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F514
-[/us/pl/104/324/s605/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2Fs605%2Fa
+[/us/pl/104/324/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2FtVI
 [/us/stat/110/3931]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3931
-[/us/pl/104/324/s605/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2Fs605%2Fa%2F1
-[/us/pl/104/324/s605/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2Fs605%2Fa%2F2
+[/us/pl/104/324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324
+[/us/pl/104/324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324
 
 

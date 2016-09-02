@@ -35,7 +35,7 @@
 
     A defendant prevailing in a civil action under this section shall be allowed reasonable attorney fees to be assessed and collected as part of the costs of the action.
 
-([Pub. L. 109–304, § 7][/us/pl/109/304/s7], Oct. 6, 2006, [120 Stat. 1546][/us/stat/120/1546].)
+([Pub. L. 109–304][/us/pl/109/304], § 7, Oct. 6, 2006, [120 Stat. 1546][/us/stat/120/1546].)
 
 <table>
 
@@ -92,7 +92,7 @@ Pub. L. 98–237, § 11(h)(2), Mar. 20, 1984, 98 Stat. 81.  </td>
 
 [/us/usc/t46/s41301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs41301
 [/us/usc/t46/s41307/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs41307%2Fa
-[/us/pl/109/304/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs7
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1546
 
 

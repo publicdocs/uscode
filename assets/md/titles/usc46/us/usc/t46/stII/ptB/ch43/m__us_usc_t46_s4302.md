@@ -47,7 +47,19 @@
 
     (d) [Section 8903 of this title][/us/usc/t46/s8903] does not apply to a vessel being operated for bona fide dealer demonstrations provided without fee to business invitees. However, if on the basis of substantial evidence, the Secretary decides under this section that requiring vessels so operated to be under the control of licensed individuals is necessary for boating safety, then the Secretary may prescribe regulations requiring the licensing of individuals controlling these vessels in the same manner as provided in chapter 89 of this title for individuals in control of vessels carrying passengers for hire.
 
-([Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 530][/us/stat/97/530].)
+    (e)
+
+        (1)
+
+         Under this section, a model year for recreational vessels and associated equipment shall, except as provided in paragraph (2)—
+
+            (A) begin on June 1 of a year and end on July 31 of the following year; and
+
+            (B) be designated by the year in which it ends.
+
+        (2) Upon the request of a recreational vessel manufacturer to which this chapter applies, the Secretary may alter a model year for a model of recreational vessel of the manufacturer and associated equipment, by no more than 6 months from the model year described in paragraph (1).
+
+([Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 530][/us/stat/97/530]; [Pub. L. 114–120, title III][/us/pl/114/120/tIII], § 303(a), Feb. 8, 2016, [130 Stat. 53][/us/stat/130/53].)
 
 <table>
 
@@ -101,9 +113,19 @@ Source section (U.S. Code)  </td>
 
     Section 4302(d) exempts dealer demonstration boats from the requirement of having to be named by a licensed individual when demonstrating boats to prospective purchasers or other business invitees when no fees are charged. The Secretary may require that boats so used be under control of a licensed individual.
 
+ __Amendments__ 
+
+    2016—Subsec. (e). [Pub. L. 114–120][/us/pl/114/120] added subsec. (e).
+
+ __Effective Date of 2016 Amendment__ 
+
+[Pub. L. 114–120, title III][/us/pl/114/120/tIII], § 303(b), Feb. 8, 2016, [130 Stat. 53][/us/stat/130/53], provided that: 
+
+> “This section \[amending this section\] shall only apply with respect to recreational vessels and associated equipment constructed or manufactured, respectively, on or after the date of enactment of this Act \[Feb. 8, 2016\].”
+
  __Availability and Use of EPIRBs for Recreational Vessels__ 
 
-[Pub. L. 105–383, title III, § 309][/us/pl/105/383/s309], Nov. 13, 1998, [112 Stat. 3422][/us/stat/112/3422], provided that: 
+[Pub. L. 105–383, title III][/us/pl/105/383/tIII], § 309, Nov. 13, 1998, [112 Stat. 3422][/us/stat/112/3422], provided that: 
 
 > “The Secretary of Transportation, through the Coast Guard and in consultation with the National Transportation Safety Board and recreational boating organizations, shall, within 24 months of the date of the enactment of this Act \[Nov. 13, 1998\], assess and report to Congress on the use of emergency position indicating beacons (EPIRBs) and similar devices by operators of recreational vessels on the Intracoastal Waterway and operators of recreational vessels beyond the Boundary Line. The assessment shall at a minimum—
 
@@ -122,7 +144,12 @@ Source section (U.S. Code)  </td>
 [/us/usc/t46/s8903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs8903
 [/us/pl/98/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F89
 [/us/stat/97/530]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F530
-[/us/pl/105/383/s309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F383%2Fs309
+[/us/pl/114/120/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F120%2FtIII
+[/us/stat/130/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F53
+[/us/pl/114/120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F120
+[/us/pl/114/120/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F120%2FtIII
+[/us/stat/130/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F53
+[/us/pl/105/383/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F383%2FtIII
 [/us/stat/112/3422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3422
 
 

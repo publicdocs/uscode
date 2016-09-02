@@ -19,7 +19,7 @@
 
     (b) The Secretary shall consult with the Secretary of the Treasury before prescribing a regulation that affects the enforcement responsibilities of an officer or employee of the Customs Service.
 
-([Pub. L. 99–509, title V, § 5101(2)][/us/pl/99/509/s5101/2], Oct. 21, 1986, [100 Stat. 1918][/us/stat/100/1918]; [Pub. L. 101–595, title VI, § 603(4)][/us/pl/101/595/s603/4], Nov. 16, 1990, [104 Stat. 2993][/us/stat/104/2993].)
+([Pub. L. 99–509, title V][/us/pl/99/509/tV], § 5101(2), Oct. 21, 1986, [100 Stat. 1918][/us/stat/100/1918]; [Pub. L. 101–595, title VI][/us/pl/101/595/tVI], § 603(4), Nov. 16, 1990, [104 Stat. 2993][/us/stat/104/2993].)
 
  __Historical and Revision Notes__ 
 
@@ -46,9 +46,9 @@
 ----------
 ----------
 
-[/us/pl/99/509/s5101/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2Fs5101%2F2
+[/us/pl/99/509/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2FtV
 [/us/stat/100/1918]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1918
-[/us/pl/101/595/s603/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F595%2Fs603%2F4
+[/us/pl/101/595/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F595%2FtVI
 [/us/stat/104/2993]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2993
 [/us/pl/101/595]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F595
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542

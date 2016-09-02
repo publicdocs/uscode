@@ -43,7 +43,7 @@
 
     (e) A person that knowingly violates this section or a regulation prescribed under this section commits a class D felony.
 
-(Added [Pub. L. 98–557, § 29(f)(3)(A)][/us/pl/98/557/s29/f/3/A], Oct. 30, 1984, [98 Stat. 2874][/us/stat/98/2874]; amended [Pub. L. 101–380, title IV, § 4302(h)][/us/pl/101/380/s4302/h], Aug. 18, 1990, [104 Stat. 539][/us/stat/104/539]; [Pub. L. 105–383, title III, § 301(b)(8)][/us/pl/105/383/s301/b/8], Nov. 13, 1998, [112 Stat. 3417][/us/stat/112/3417].)
+(Added [Pub. L. 98–557][/us/pl/98/557], § 29(f)(3)(A), Oct. 30, 1984, [98 Stat. 2874][/us/stat/98/2874]; amended [Pub. L. 101–380, title IV][/us/pl/101/380/tIV], § 4302(h), Aug. 18, 1990, [104 Stat. 539][/us/stat/104/539]; [Pub. L. 105–383, title III][/us/pl/105/383/tIII], § 301(b)(8), Nov. 13, 1998, [112 Stat. 3417][/us/stat/112/3417].)
 
  __Amendments__ 
 
@@ -67,11 +67,11 @@
 ----------
 
 [/us/usc/t46/s7101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs7101
-[/us/pl/98/557/s29/f/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F557%2Fs29%2Ff%2F3%2FA
+[/us/pl/98/557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F557
 [/us/stat/98/2874]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2874
-[/us/pl/101/380/s4302/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2Fs4302%2Fh
+[/us/pl/101/380/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2FtIV
 [/us/stat/104/539]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F539
-[/us/pl/105/383/s301/b/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F383%2Fs301%2Fb%2F8
+[/us/pl/105/383/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F383%2FtIII
 [/us/stat/112/3417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3417
 [/us/pl/105/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F383
 [/us/pl/101/380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380

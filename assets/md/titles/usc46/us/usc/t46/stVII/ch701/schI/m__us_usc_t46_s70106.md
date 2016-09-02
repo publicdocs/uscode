@@ -55,7 +55,7 @@
 
     To the maximum extent feasible, the combined force of the specialized forces established under subsection (a) shall coordinate their activities with other Federal, State, and local law enforcement and emergency response agencies.
 
-(Added [Pub. L. 107–295, title I, § 102(a)][/us/pl/107/295/s102/a], Nov. 25, 2002, [116 Stat. 2074][/us/stat/116/2074]; amended [Pub. L. 109–241, title III, § 305][/us/pl/109/241/s305], July 11, 2006, [120 Stat. 528][/us/stat/120/528]; [Pub. L. 111–281, title VIII, § 804(a)][/us/pl/111/281/s804/a], Oct. 15, 2010, [124 Stat. 2990][/us/stat/124/2990].)
+(Added [Pub. L. 107–295, title I][/us/pl/107/295/tI], § 102(a), Nov. 25, 2002, [116 Stat. 2074][/us/stat/116/2074]; amended [Pub. L. 109–241, title III][/us/pl/109/241/tIII], § 305, July 11, 2006, [120 Stat. 528][/us/stat/120/528]; [Pub. L. 111–281, title VIII][/us/pl/111/281/tVIII], § 804(a), Oct. 15, 2010, [124 Stat. 2990][/us/stat/124/2990].)
 
  __Amendments__ 
 
@@ -65,7 +65,7 @@
 
  __Coast Guard Detection Canine Team Program Expansion__ 
 
-[Pub. L. 111–281, title VIII, § 805][/us/pl/111/281/s805], Oct. 15, 2010, [124 Stat. 2991][/us/stat/124/2991], provided that:
+[Pub. L. 111–281, title VIII][/us/pl/111/281/tVIII], § 805, Oct. 15, 2010, [124 Stat. 2991][/us/stat/124/2991], provided that:
 
 >     “(a)  __Definitions__  __.—__ 
 
@@ -104,15 +104,15 @@
 ----------
 ----------
 
-[/us/pl/107/295/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295%2Fs102%2Fa
+[/us/pl/107/295/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295%2FtI
 [/us/stat/116/2074]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2074
-[/us/pl/109/241/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241%2Fs305
+[/us/pl/109/241/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241%2FtIII
 [/us/stat/120/528]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F528
-[/us/pl/111/281/s804/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs804%2Fa
+[/us/pl/111/281/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2FtVIII
 [/us/stat/124/2990]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2990
 [/us/pl/111/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281
 [/us/pl/109/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241
-[/us/pl/111/281/s805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs805
+[/us/pl/111/281/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2FtVIII
 [/us/stat/124/2991]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2991
 [/us/pl/109/347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347
 

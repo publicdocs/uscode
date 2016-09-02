@@ -33,7 +33,7 @@
 
         (2) The Secretary shall prescribe regulations under this subsection on the manner in which prospective passengers are to be notified.
 
-([Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 519][/us/stat/97/519]; [Pub. L. 99–307, § 1(7)(A)][/us/pl/99/307/s1/7/A], May 19, 1986, [100 Stat. 445][/us/stat/100/445]; [Pub. L. 102–241, § 20][/us/pl/102/241/s20], Dec. 19, 1991, [105 Stat. 2216][/us/stat/105/2216]; [Pub. L. 104–324, title XI, § 1133][/us/pl/104/324/s1133], Oct. 19, 1996, [110 Stat. 3985][/us/stat/110/3985].)
+([Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 519][/us/stat/97/519]; [Pub. L. 99–307][/us/pl/99/307], § 1(7)(A), May 19, 1986, [100 Stat. 445][/us/stat/100/445]; [Pub. L. 102–241][/us/pl/102/241], § 20, Dec. 19, 1991, [105 Stat. 2216][/us/stat/105/2216]; [Pub. L. 104–324, title XI][/us/pl/104/324/tXI], § 1133, Oct. 19, 1996, [110 Stat. 3985][/us/stat/110/3985].)
 
 <table>
 
@@ -77,9 +77,9 @@ Source section (U.S. Code)  </td>
 
     1996—Subsec. (a). [Pub. L. 104–324][/us/pl/104/324] substituted “Before November 1, 2008, this section does not apply to any vessel in operation before January 1, 1968, and operating only within the Boundary Line.” for “Before November 1, 1998, this section does not apply to a vessel in operation before January 1, 1968, and operating only on the inland rivers.”
 
-    1991—Subsec. (a). [Pub. L. 102–241, § 20(1)][/us/pl/102/241/s20/1], substituted “1998” for “1993”.
+    1991—Subsec. (a). [Pub. L. 102–241][/us/pl/102/241], § 20(1), substituted “1998” for “1993”.
 
-    Subsec. (b)(1)(D). [Pub. L. 102–241, § 20(2)][/us/pl/102/241/s20/2], added subpar. (D).
+    Subsec. (b)(1)(D). [Pub. L. 102–241][/us/pl/102/241], § 20(2), added subpar. (D).
 
     1986—[Pub. L. 99–307][/us/pl/99/307] designated existing provision as subsec. (a), substituted “November 1, 1993” for “November 1, 1988” and inserted “in operation before January 1, 1968, and” after “to a vessel”, and added subsec. (b).
 
@@ -89,7 +89,7 @@ Source section (U.S. Code)  </td>
 
  __Notification to Prospective Passengers of Noncompliance With Fire-Retardant Standards__ 
 
-[Pub. L. 99–307, § 1(7)(B)][/us/pl/99/307/s1/7/B], May 19, 1986, [100 Stat. 445][/us/stat/100/445], provided that: 
+[Pub. L. 99–307][/us/pl/99/307], § 1(7)(B), May 19, 1986, [100 Stat. 445][/us/stat/100/445], provided that: 
 
 > “Until the regulations required by subclause (A) of this clause \[see subsec. (b)(2) of this section\] become effective, the owner or managing operator shall notify prospective passengers in all promotional literature and on each ticket that the vessel does not comply with those standards due primarily to the wooden construction of passenger berthing areas.”
 
@@ -103,18 +103,18 @@ Source section (U.S. Code)  </td>
 [/us/usc/t46/s3504/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs3504%2Fc
 [/us/pl/98/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F89
 [/us/stat/97/519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F519
-[/us/pl/99/307/s1/7/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F307%2Fs1%2F7%2FA
+[/us/pl/99/307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F307
 [/us/stat/100/445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F445
-[/us/pl/102/241/s20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F241%2Fs20
+[/us/pl/102/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F241
 [/us/stat/105/2216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F2216
-[/us/pl/104/324/s1133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2Fs1133
+[/us/pl/104/324/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2FtXI
 [/us/stat/110/3985]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3985
 [/us/pl/104/324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324
-[/us/pl/102/241/s20/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F241%2Fs20%2F1
-[/us/pl/102/241/s20/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F241%2Fs20%2F2
+[/us/pl/102/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F241
+[/us/pl/102/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F241
 [/us/pl/99/307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F307
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
-[/us/pl/99/307/s1/7/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F307%2Fs1%2F7%2FB
+[/us/pl/99/307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F307
 [/us/stat/100/445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F445
 
 

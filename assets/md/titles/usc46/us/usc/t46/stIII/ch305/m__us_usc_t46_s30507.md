@@ -21,7 +21,7 @@
 
     (2) personal injury and death claimants, if any, shall be paid an additional amount in proportion to their respective losses out of the additional amount determined under [section 30506(b) of this title][/us/usc/t46/s30506/b].
 
-([Pub. L. 109–304, § 6(c)][/us/pl/109/304/s6/c], Oct. 6, 2006, [120 Stat. 1513][/us/stat/120/1513].)
+([Pub. L. 109–304][/us/pl/109/304], § 6(c), Oct. 6, 2006, [120 Stat. 1513][/us/stat/120/1513].)
 
 <table>
 
@@ -96,7 +96,7 @@ R.S. § 4284; Feb. 27, 1877, ch. 69, § 1 (related to R.S. § 4284), 19 St
 
 [/us/usc/t46/s30505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs30505
 [/us/usc/t46/s30506/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs30506%2Fb
-[/us/pl/109/304/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs6%2Fc
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1513
 
 

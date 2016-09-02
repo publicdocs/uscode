@@ -21,7 +21,7 @@
 
     (2) documented under the laws of a foreign country that made the payment or contribution required under section 80301(b) for the year preceding the year in which the data is collected.
 
-(Added [Pub. L. 113–281, title III, § 314(a)(3)][/us/pl/113/281/s314/a/3], Dec. 18, 2014, [128 Stat. 3049][/us/stat/128/3049].)
+(Added [Pub. L. 113–281, title III][/us/pl/113/281/tIII], § 314(a)(3), Dec. 18, 2014, [128 Stat. 3049][/us/stat/128/3049].)
 
  __Effective Date__ 
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/pl/113/281/s314/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281%2Fs314%2Fa%2F3
+[/us/pl/113/281/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281%2FtIII
 [/us/stat/128/3049]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3049
 [/us/pl/113/281/s314/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281%2Fs314%2Fc
 [/us/usc/t46/s80301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs80301

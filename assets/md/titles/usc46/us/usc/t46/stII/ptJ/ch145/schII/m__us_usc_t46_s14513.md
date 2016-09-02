@@ -25,7 +25,7 @@
 
         (2) Except as provided in paragraph (1) of this subsection, a certificate stating a vessel’s tonnages may state only one set of gross and net tonnages as assigned under this section.
 
-([Pub. L. 99–509, title V, § 5101(3)][/us/pl/99/509/s5101/3], Oct. 21, 1986, [100 Stat. 1924][/us/stat/100/1924]; [Pub. L. 111–281, title III, § 303(h)][/us/pl/111/281/s303/h], Oct. 15, 2010, [124 Stat. 2925][/us/stat/124/2925].)
+([Pub. L. 99–509, title V][/us/pl/99/509/tV], § 5101(3), Oct. 21, 1986, [100 Stat. 1924][/us/stat/100/1924]; [Pub. L. 111–281, title III][/us/pl/111/281/tIII], § 303(h), Oct. 15, 2010, [124 Stat. 2925][/us/stat/124/2925].)
 
  __Historical and Revision Notes__ 
 
@@ -37,13 +37,13 @@
 
  __References in Text__ 
 
-    [Section 2 of the Act of September 29, 1965][/us/act/1965-09-29/s2], referred to in subsec. (a), was classified to section 83a of the former Appendix to this title and was repealed by [Pub. L. 99–509, title V, § 5104(b)][/us/pl/99/509/s5104/b], Oct. 21, 1986, [100 Stat. 1928][/us/stat/100/1928].
+    [Section 2 of the Act of September 29, 1965][/us/act/1965-09-29/s2], referred to in subsec. (a), was classified to section 83a of the former Appendix to this title and was repealed by [Pub. L. 99–509, title V][/us/pl/99/509/tV], § 5104(b), Oct. 21, 1986, [100 Stat. 1928][/us/stat/100/1928].
 
  __Amendments__ 
 
-    2010—Subsec. (c)(1). [Pub. L. 111–281, § 303(h)(1)][/us/pl/111/281/s303/h/1], substituted “vessel is assigned two sets of gross and net tonnages under this section,” for “vessel’s tonnage mark is below the uppermost part of the load line marks,” and inserted “vessel’s tonnage” before “mark is submerged”.
+    2010—Subsec. (c)(1). [Pub. L. 111–281][/us/pl/111/281], § 303(h)(1), substituted “vessel is assigned two sets of gross and net tonnages under this section,” for “vessel’s tonnage mark is below the uppermost part of the load line marks,” and inserted “vessel’s tonnage” before “mark is submerged”.
 
-    Subsec. (c)(2). [Pub. L. 111–281, § 303(h)(2)][/us/pl/111/281/s303/h/2], substituted “as assigned under this section.” for period at end.
+    Subsec. (c)(2). [Pub. L. 111–281][/us/pl/111/281], § 303(h)(2), substituted “as assigned under this section.” for period at end.
 
 ----------
 
@@ -56,14 +56,14 @@
 [/us/act/1965-09-29/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1965-09-29%2Fs2
 [/us/pl/89/219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F219
 [/us/stat/79/891]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F891
-[/us/pl/99/509/s5101/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2Fs5101%2F3
+[/us/pl/99/509/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2FtV
 [/us/stat/100/1924]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1924
-[/us/pl/111/281/s303/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs303%2Fh
+[/us/pl/111/281/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2FtIII
 [/us/stat/124/2925]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2925
 [/us/act/1965-09-29/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1965-09-29%2Fs2
-[/us/pl/99/509/s5104/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2Fs5104%2Fb
+[/us/pl/99/509/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2FtV
 [/us/stat/100/1928]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1928
-[/us/pl/111/281/s303/h/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs303%2Fh%2F1
-[/us/pl/111/281/s303/h/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs303%2Fh%2F2
+[/us/pl/111/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281
+[/us/pl/111/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281
 
 

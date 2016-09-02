@@ -83,7 +83,7 @@
 
  __Amendments__ 
 
-    2012—[Pub. L. 112–213, title IV, § 403(b)][/us/pl/112/213/s403/b], Dec. 20, 2012, [126 Stat. 1570][/us/stat/126/1570], added item 50307.
+    2012—[Pub. L. 112–213, title IV][/us/pl/112/213/tIV], § 403(b), Dec. 20, 2012, [126 Stat. 1570][/us/stat/126/1570], added item 50307.
 
 ----------
 
@@ -92,7 +92,7 @@
 ----------
 ----------
 
-[/us/pl/112/213/s403/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F213%2Fs403%2Fb
+[/us/pl/112/213/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F213%2FtIV
 [/us/stat/126/1570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1570
 
 

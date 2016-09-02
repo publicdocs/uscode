@@ -59,7 +59,7 @@
 
     A person may not recover damages under section 4 of the Clayton Act ([15 U.S.C. 15][/us/usc/t15/s15]), or obtain injunctive relief under section 16 of that Act ([15 U.S.C. 26][/us/usc/t15/s26]), for conduct prohibited by this part.
 
-([Pub. L. 109–304, § 7][/us/pl/109/304/s7], Oct. 6, 2006, [120 Stat. 1531][/us/stat/120/1531].)
+([Pub. L. 109–304][/us/pl/109/304], § 7, Oct. 6, 2006, [120 Stat. 1531][/us/stat/120/1531].)
 
 <table>
 
@@ -115,9 +115,9 @@ Pub. L. 98–237, § 7, Mar. 20, 1984, 98 Stat. 73; Pub. L. 105–258, title I
 
  __References in Text__ 
 
-    Section 15 of the Shipping Act, 1916, referred to in subsec. (a)(7), which was classified to section 814 of the former Appendix to this title, was repealed by [Pub. L. 104–88, title III, § 335(b)(3)][/us/pl/104/88/s335/b/3], Dec. 29, 1996, [109 Stat. 954][/us/stat/109/954].
+    Section 15 of the Shipping Act, 1916, referred to in subsec. (a)(7), which was classified to section 814 of the former Appendix to this title, was repealed by [Pub. L. 104–88, title III][/us/pl/104/88/tIII], § 335(b)(3), Dec. 29, 1996, [109 Stat. 954][/us/stat/109/954].
 
-    Section 14b of the Shipping Act, 1916, referred to in subsec. (a)(7), which was classified to section 813a of former Title 46, Shipping, was repealed by [Pub. L. 98–237, § 20(a)][/us/pl/98/237/s20/a], Mar. 20, 1984, [98 Stat. 88][/us/stat/98/88].
+    Section 14b of the Shipping Act, 1916, referred to in subsec. (a)(7), which was classified to section 813a of former Title 46, Shipping, was repealed by [Pub. L. 98–237][/us/pl/98/237], § 20(a), Mar. 20, 1984, [98 Stat. 88][/us/stat/98/88].
 
 ----------
 
@@ -130,11 +130,11 @@ Pub. L. 98–237, § 7, Mar. 20, 1984, 98 Stat. 73; Pub. L. 105–258, title I
 [/us/usc/t46/s40103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs40103
 [/us/usc/t15/s15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs15
 [/us/usc/t15/s26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs26
-[/us/pl/109/304/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs7
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1531
-[/us/pl/104/88/s335/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs335%2Fb%2F3
+[/us/pl/104/88/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2FtIII
 [/us/stat/109/954]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F954
-[/us/pl/98/237/s20/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F237%2Fs20%2Fa
+[/us/pl/98/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F237
 [/us/stat/98/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F88
 
 

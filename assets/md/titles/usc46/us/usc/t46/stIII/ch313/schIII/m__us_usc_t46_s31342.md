@@ -27,7 +27,7 @@
 
     (b) This section does not apply to a public vessel.
 
-([Pub. L. 100–710, title I, § 102(c)][/us/pl/100/710/s102/c], Nov. 23, 1988, [102 Stat. 4748][/us/stat/102/4748]; [Pub. L. 101–225, title III, § 303(6)][/us/pl/101/225/s303/6], Dec. 12, 1989, [103 Stat. 1924][/us/stat/103/1924].)
+([Pub. L. 100–710, title I][/us/pl/100/710/tI], § 102(c), Nov. 23, 1988, [102 Stat. 4748][/us/stat/102/4748]; [Pub. L. 101–225, title III][/us/pl/101/225/tIII], § 303(6), Dec. 12, 1989, [103 Stat. 1924][/us/stat/103/1924].)
 
 <table>
 
@@ -78,9 +78,9 @@ Source section (U.S. Code)  </td>
 ----------
 ----------
 
-[/us/pl/100/710/s102/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F710%2Fs102%2Fc
+[/us/pl/100/710/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F710%2FtI
 [/us/stat/102/4748]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4748
-[/us/pl/101/225/s303/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F225%2Fs303%2F6
+[/us/pl/101/225/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F225%2FtIII
 [/us/stat/103/1924]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1924
 [/us/pl/101/225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F225
 [/us/usc/t46/s31341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs31341

@@ -111,11 +111,11 @@
 
  __Amendments__ 
 
-    2006—[Pub. L. 109–304, § 16(b)(3)][/us/pl/109/304/s16/b/3], Oct. 6, 2006, [120 Stat. 1705][/us/stat/120/1705], added item 13101 and redesignated former items 13101 to 13106 as 13102 to 13107, respectively.
+    2006—[Pub. L. 109–304][/us/pl/109/304], § 16(b)(3), Oct. 6, 2006, [120 Stat. 1705][/us/stat/120/1705], added item 13101 and redesignated former items 13101 to 13106 as 13102 to 13107, respectively.
 
-    1998—[Pub. L. 105–178, title VII, § 7405(c)(2)][/us/pl/105/178/s7405/c/2], June 9, 1998, [112 Stat. 488][/us/stat/112/488], substituted “appropriations” for “contract spending” in item 13106.
+    1998—[Pub. L. 105–178, title VII][/us/pl/105/178/tVII], § 7405(c)(2), June 9, 1998, [112 Stat. 488][/us/stat/112/488], substituted “appropriations” for “contract spending” in item 13106.
 
-    1984—[Pub. L. 98–369, div. A, title X, § 1016(c)(2)][/us/pl/98/369/s1016/c/2], July 18, 1984, [98 Stat. 1020][/us/stat/98/1020], struck out item 13107 “National Recreational Boating Safety and Facilities Improvement Fund”.
+    1984—[Pub. L. 98–369, div. A, title X][/us/pl/98/369/dA/tX], § 1016(c)(2), July 18, 1984, [98 Stat. 1020][/us/stat/98/1020], struck out item 13107 “National Recreational Boating Safety and Facilities Improvement Fund”.
 
 ----------
 
@@ -124,11 +124,11 @@
 ----------
 ----------
 
-[/us/pl/109/304/s16/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs16%2Fb%2F3
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1705
-[/us/pl/105/178/s7405/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs7405%2Fc%2F2
+[/us/pl/105/178/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2FtVII
 [/us/stat/112/488]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F488
-[/us/pl/98/369/s1016/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs1016%2Fc%2F2
+[/us/pl/98/369/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtX
 [/us/stat/98/1020]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1020
 
 

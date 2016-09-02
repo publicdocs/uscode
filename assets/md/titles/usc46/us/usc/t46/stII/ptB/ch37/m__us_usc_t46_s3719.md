@@ -23,11 +23,11 @@
 
     (3) Any other measure or combination of measures that the Secretary determines will provide protection against grounding of the tank vessel comparable to that provided by the measures described in paragraph (1) or (2).
 
-(Added [Pub. L. 104–324, title IX, § 901(a)][/us/pl/104/324/s901/a], Oct. 19, 1996, [110 Stat. 3946][/us/stat/110/3946].)
+(Added [Pub. L. 104–324, title IX][/us/pl/104/324/tIX], § 901(a), Oct. 19, 1996, [110 Stat. 3946][/us/stat/110/3946].)
 
  __Regulations__ 
 
-[Pub. L. 104–324, title IX, § 901(b)][/us/pl/104/324/s901/b], Oct. 19, 1996, [110 Stat. 3946][/us/stat/110/3946], provided that: 
+[Pub. L. 104–324, title IX][/us/pl/104/324/tIX], § 901(b), Oct. 19, 1996, [110 Stat. 3946][/us/stat/110/3946], provided that: 
 
 > “The Secretary of the department in which the Coast Guard is operating shall issue regulations required under [section 3719 of title 46][/us/usc/t46/s3719], United States Code, as added by subsection (a), by not later than October 1, 1997.”
 
@@ -38,9 +38,9 @@
 ----------
 ----------
 
-[/us/pl/104/324/s901/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2Fs901%2Fa
+[/us/pl/104/324/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2FtIX
 [/us/stat/110/3946]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3946
-[/us/pl/104/324/s901/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2Fs901%2Fb
+[/us/pl/104/324/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2FtIX
 [/us/stat/110/3946]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3946
 [/us/usc/t46/s3719]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs3719
 

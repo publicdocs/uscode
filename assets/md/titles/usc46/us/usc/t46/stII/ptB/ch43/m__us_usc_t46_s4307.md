@@ -37,7 +37,7 @@
 
     (b) A person may not operate a vessel in violation of this chapter or a regulation prescribed under this chapter.
 
-([Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 531][/us/stat/97/531]; [Pub. L. 98–557, § 8(a)][/us/pl/98/557/s8/a], Oct. 30, 1984, [98 Stat. 2862][/us/stat/98/2862].)
+([Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 531][/us/stat/97/531]; [Pub. L. 98–557][/us/pl/98/557], § 8(a), Oct. 30, 1984, [98 Stat. 2862][/us/stat/98/2862].)
 
 <table>
 
@@ -102,7 +102,7 @@ Source section (U.S. Code)  </td>
 
 [/us/pl/98/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F89
 [/us/stat/97/531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F531
-[/us/pl/98/557/s8/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F557%2Fs8%2Fa
+[/us/pl/98/557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F557
 [/us/stat/98/2862]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2862
 [/us/pl/98/557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F557
 

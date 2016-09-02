@@ -27,7 +27,7 @@
 
     To the extent that the Commission finds under subsection (b) that an assessment or charge is unjustly discriminatory or unfair as between carriers, shippers, or ports, the Commission shall adjust the assessment or charge for the period between the filing of the complaint and the final decision by awarding prospective credits or debits to future assessments and charges. However, if the complainant has ceased activities subject to the assessment or charge, the Commission may award reparations.
 
-([Pub. L. 109–304, § 7][/us/pl/109/304/s7], Oct. 6, 2006, [120 Stat. 1531][/us/stat/120/1531].)
+([Pub. L. 109–304][/us/pl/109/304], § 7, Oct. 6, 2006, [120 Stat. 1531][/us/stat/120/1531].)
 
 <table>
 
@@ -82,7 +82,7 @@ Pub. L. 98–237, § 5(e) (less last sentence), Mar. 20, 1984, 98 Stat. 70; Pu
 ----------
 ----------
 
-[/us/pl/109/304/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs7
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1531
 
 

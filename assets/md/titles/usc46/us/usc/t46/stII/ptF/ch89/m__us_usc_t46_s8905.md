@@ -19,7 +19,7 @@
 
     (b) [Section 8904 of this title][/us/usc/t46/s8904] does not apply to an oil spill response vessel while engaged in oil spill response or training activities.
 
-([Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 556][/us/stat/97/556]; [Pub. L. 104–324, title VII, § 734][/us/pl/104/324/s734], title XI, § 1104(f), Oct. 19, 1996, [110 Stat. 3941][/us/stat/110/3941], 3967; [Pub. L. 111–281, title VI, § 606][/us/pl/111/281/s606], Oct. 15, 2010, [124 Stat. 2967][/us/stat/124/2967].)
+([Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 556][/us/stat/97/556]; [Pub. L. 104–324, title VII][/us/pl/104/324/tVII], § 734, title XI, § 1104(f), Oct. 19, 1996, [110 Stat. 3941][/us/stat/110/3941], 3967; [Pub. L. 111–281, title VI][/us/pl/111/281/tVI], § 606, Oct. 15, 2010, [124 Stat. 2967][/us/stat/124/2967].)
 
 <table>
 
@@ -79,9 +79,9 @@ Source section (U.S. Code)  </td>
 
     2010—Subsecs. (b), (c). [Pub. L. 111–281][/us/pl/111/281] redesignated subsec. (c) as (b) and struck out former subsec. (b) which read as follows: “[Section 8904 of this title][/us/usc/t46/s8904] does not apply to a vessel of less than 200 gross tons as measured under [section 14502 of this title][/us/usc/t46/s14502], or an alternate tonnage measured under [section 14302 of this title][/us/usc/t46/s14302] as prescribed by the Secretary under [section 14104 of this title][/us/usc/t46/s14104] engaged in the offshore mineral and oil industry if the vessel has offshore mineral and oil industry sites or equipment as its ultimate destination or place of departure.”
 
-    1996—Subsec. (b). [Pub. L. 104–324, § 734][/us/pl/104/324/s734], inserted “as measured under [section 14502 of this title][/us/usc/t46/s14502], or an alternate tonnage measured under [section 14302 of this title][/us/usc/t46/s14302] as prescribed by the Secretary under [section 14104 of this title][/us/usc/t46/s14104]” after “200 gross tons”.
+    1996—Subsec. (b). [Pub. L. 104–324][/us/pl/104/324], § 734, inserted “as measured under [section 14502 of this title][/us/usc/t46/s14502], or an alternate tonnage measured under [section 14302 of this title][/us/usc/t46/s14302] as prescribed by the Secretary under [section 14104 of this title][/us/usc/t46/s14104]” after “200 gross tons”.
 
-    Subsec. (c). [Pub. L. 104–324, § 1104(f)][/us/pl/104/324/s1104/f], added subsec. (c).
+    Subsec. (c). [Pub. L. 104–324][/us/pl/104/324], § 1104(f), added subsec. (c).
 
 ----------
 
@@ -95,19 +95,19 @@ Source section (U.S. Code)  </td>
 [/us/usc/t46/s8904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs8904
 [/us/pl/98/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F89
 [/us/stat/97/556]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F556
-[/us/pl/104/324/s734]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2Fs734
+[/us/pl/104/324/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2FtVII
 [/us/stat/110/3941]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3941
-[/us/pl/111/281/s606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs606
+[/us/pl/111/281/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2FtVI
 [/us/stat/124/2967]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2967
 [/us/pl/111/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281
 [/us/usc/t46/s8904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs8904
 [/us/usc/t46/s14502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs14502
 [/us/usc/t46/s14302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs14302
 [/us/usc/t46/s14104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs14104
-[/us/pl/104/324/s734]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2Fs734
+[/us/pl/104/324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324
 [/us/usc/t46/s14502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs14502
 [/us/usc/t46/s14302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs14302
 [/us/usc/t46/s14104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs14104
-[/us/pl/104/324/s1104/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2Fs1104%2Ff
+[/us/pl/104/324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324
 
 

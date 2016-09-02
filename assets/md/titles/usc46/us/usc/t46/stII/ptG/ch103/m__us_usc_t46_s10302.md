@@ -41,7 +41,7 @@
 
     (d) The owner, charterer, managing operator, master, or individual in charge shall maintain the shipping agreement and make the shipping agreement available to the seaman.
 
-([Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 561][/us/stat/97/561]; [Pub. L. 103–206, title IV, § 401][/us/pl/103/206/s401], Dec. 20, 1993, [107 Stat. 2435][/us/stat/107/2435].)
+([Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 561][/us/stat/97/561]; [Pub. L. 103–206, title IV][/us/pl/103/206/tIV], § 401, Dec. 20, 1993, [107 Stat. 2435][/us/stat/107/2435].)
 
 <table>
 
@@ -83,9 +83,9 @@ Source section (U.S. Code)  </td>
 
  __Amendments__ 
 
-    1993—Subsec. (a). [Pub. L. 103–206, § 401(1)][/us/pl/103/206/s401/1], amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Before proceeding on a voyage, the master of a vessel to which this chapter applies shall make a shipping articles agreement in writing with each seaman in the crew.”
+    1993—Subsec. (a). [Pub. L. 103–206][/us/pl/103/206], § 401(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Before proceeding on a voyage, the master of a vessel to which this chapter applies shall make a shipping articles agreement in writing with each seaman in the crew.”
 
-    Subsecs. (c), (d). [Pub. L. 103–206, § 401(2)][/us/pl/103/206/s401/2], added subsecs. (c) and (d).
+    Subsecs. (c), (d). [Pub. L. 103–206][/us/pl/103/206], § 401(2), added subsecs. (c) and (d).
 
 ----------
 
@@ -96,9 +96,9 @@ Source section (U.S. Code)  </td>
 
 [/us/pl/98/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F89
 [/us/stat/97/561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F561
-[/us/pl/103/206/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F206%2Fs401
+[/us/pl/103/206/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F206%2FtIV
 [/us/stat/107/2435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2435
-[/us/pl/103/206/s401/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F206%2Fs401%2F1
-[/us/pl/103/206/s401/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F206%2Fs401%2F2
+[/us/pl/103/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F206
+[/us/pl/103/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F206
 
 

@@ -21,7 +21,7 @@
 
     (c) The Secretary may prescribe regulations to carry out this chapter.
 
-([Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 597][/us/stat/97/597]; [Pub. L. 98–369, div. A, title X, § 1011(g)][/us/pl/98/369/s1011/g], July 18, 1984, [98 Stat. 1013][/us/stat/98/1013].)
+([Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 597][/us/stat/97/597]; [Pub. L. 98–369, div. A, title X][/us/pl/98/369/dA/tX], § 1011(g), July 18, 1984, [98 Stat. 1013][/us/stat/98/1013].)
 
 <table>
 
@@ -83,7 +83,7 @@ Source section (U.S. Code)  </td>
 [/us/usc/t14/s141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs141
 [/us/pl/98/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F89
 [/us/stat/97/597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F597
-[/us/pl/98/369/s1011/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs1011%2Fg
+[/us/pl/98/369/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtX
 [/us/stat/98/1013]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1013
 [/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
 [/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369

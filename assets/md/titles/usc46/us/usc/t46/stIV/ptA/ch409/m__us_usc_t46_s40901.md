@@ -23,7 +23,7 @@
 
     A person whose primary business is the sale of merchandise may forward shipments of the merchandise for its own account without an ocean transportation intermediary’s license.
 
-([Pub. L. 109–304, § 7][/us/pl/109/304/s7], Oct. 6, 2006, [120 Stat. 1538][/us/stat/120/1538].)
+([Pub. L. 109–304][/us/pl/109/304], § 7, Oct. 6, 2006, [120 Stat. 1538][/us/stat/120/1538].)
 
 <table>
 
@@ -92,7 +92,7 @@ Pub. L. 98–237, § 19(a), (d), Mar. 20, 1984, 98 Stat. 87, 88; Pub. L. 105�
 ----------
 ----------
 
-[/us/pl/109/304/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs7
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1538]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1538
 
 

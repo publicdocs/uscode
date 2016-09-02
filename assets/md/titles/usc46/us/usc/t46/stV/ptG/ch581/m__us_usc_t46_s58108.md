@@ -27,7 +27,7 @@
 
     Whenever the Secretary believes that adequate shipping facilities are being provided to those ports by vessels documented under the laws of the United States, and certifies that fact to the Board, the Board may order the termination of the suspension.
 
-([Pub. L. 109–304, § 8(c)][/us/pl/109/304/s8/c], Oct. 6, 2006, [120 Stat. 1673][/us/stat/120/1673].)
+([Pub. L. 109–304][/us/pl/109/304], § 8(c), Oct. 6, 2006, [120 Stat. 1673][/us/stat/120/1673].)
 
 <table>
 
@@ -84,7 +84,7 @@ June 5, 1920, ch. 250, § 28, 41 Stat. 999; Ex. Ord. No. 6166, § 12, eff. J
 ----------
 ----------
 
-[/us/pl/109/304/s8/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs8%2Fc
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1673]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1673
 
 

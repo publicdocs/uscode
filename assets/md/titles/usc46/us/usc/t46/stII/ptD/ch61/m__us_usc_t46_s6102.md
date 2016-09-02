@@ -19,7 +19,7 @@
 
     (b) The Secretary shall collect, analyze, and publish reports, information, and statistics on marine casualties together with findings and recommendations the Secretary considers appropriate. If a State marine casualty reporting system provides that information derived from casualty reports (except statistical information) may not be publicly disclosed, or otherwise prohibits use by the State or any person in any action or proceeding against a person, the Secretary may use the information provided by the State only in the same way that the State may use the information.
 
-([Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 536][/us/stat/97/536]; [Pub. L. 98–557, § 7(b)(2)][/us/pl/98/557/s7/b/2], Oct. 30, 1984, [98 Stat. 2862][/us/stat/98/2862].)
+([Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 536][/us/stat/97/536]; [Pub. L. 98–557][/us/pl/98/557], § 7(b)(2), Oct. 30, 1984, [98 Stat. 2862][/us/stat/98/2862].)
 
 <table>
 
@@ -67,7 +67,7 @@ Source section (U.S. Code)  </td>
 
  __Plan To Increase Marine Casualty Reporting__ 
 
-[Pub. L. 104–324, title III, § 314(a)][/us/pl/104/324/s314/a], Oct. 19, 1996, [110 Stat. 3922][/us/stat/110/3922], provided that: 
+[Pub. L. 104–324, title III][/us/pl/104/324/tIII], § 314(a), Oct. 19, 1996, [110 Stat. 3922][/us/stat/110/3922], provided that: 
 
 > “Not later than one year after enactment of this Act \[Oct. 19, 1996\], the Secretary of Transportation shall, in consultation with appropriate State agencies, submit to the Committee on Resources \[now Committee on Natural Resources\] of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a plan to increase reporting of vessel accidents to appropriate State law enforcement officials.”
 
@@ -80,10 +80,10 @@ Source section (U.S. Code)  </td>
 
 [/us/pl/98/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F89
 [/us/stat/97/536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F536
-[/us/pl/98/557/s7/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F557%2Fs7%2Fb%2F2
+[/us/pl/98/557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F557
 [/us/stat/98/2862]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2862
 [/us/pl/98/557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F557
-[/us/pl/104/324/s314/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2Fs314%2Fa
+[/us/pl/104/324/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2FtIII
 [/us/stat/110/3922]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3922
 
 

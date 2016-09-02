@@ -177,6 +177,14 @@ SUBCHAPTER II—CHARTERS  </td>
 
   <tr>
 
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft46%2Fs57522" data-uslm-ref="/us/usc/t46/s57522">57522.</a>  </td>
+
+    <td> Books and records, balance sheets, and inspection and auditing.  </td>
+
+  </tr>
+
+  <tr>
+
     <td> 
 
 SUBCHAPTER III—MISCELLANEOUS  </td>
@@ -217,7 +225,9 @@ Amendments  </td>
 
 </table>
 
-    2008—[Pub. L. 110–181, div. C, title XXXV, § 3511(b)][/us/pl/110/181/s3511/b], Jan. 28, 2008, [122 Stat. 594][/us/stat/122/594], added item 57533.
+    2016—[Pub. L. 114–120, title III][/us/pl/114/120/tIII], § 313(c)(2), Feb. 8, 2016, [130 Stat. 59][/us/stat/130/59], added item 57522.
+
+    2008—[Pub. L. 110–181, div. C, title XXXV][/us/pl/110/181/dC/tXXXV], § 3511(b), Jan. 28, 2008, [122 Stat. 594][/us/stat/122/594], added item 57533.
 
 ----------
 
@@ -226,7 +236,9 @@ Amendments  </td>
 ----------
 ----------
 
-[/us/pl/110/181/s3511/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs3511%2Fb
+[/us/pl/114/120/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F120%2FtIII
+[/us/stat/130/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F59
+[/us/pl/110/181/dC/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdC%2FtXXXV
 [/us/stat/122/594]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F594
 
 

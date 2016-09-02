@@ -65,13 +65,15 @@
 
                 (i) appoint and supervise officers and employees of the Commission;
 
-                (ii) appoint the heads of major organizational units, but only after consultation with the other Commissioners;
+                (ii) appoint the heads of major organizational units (with such appointments subject to the approval of the Commission);
 
                 (iii) distribute the business of the Commission among personnel and organizational units;
 
-                (iv) supervise the expenditure of money for administrative purposes; and
+                (iv) supervise the expenditure of money for administrative purposes;
 
-                (v) assign Commission personnel, including Commissioners, to perform duties and powers delegated by the Commission under [section 304 of this title][/us/usc/t46/s304].
+                (v) assign Commission personnel, including Commissioners, to perform duties and powers delegated by the Commission under [section 304 of this title][/us/usc/t46/s304]; and
+
+                (vi) prepare and submit to the President and the Congress requests for appropriations for the Commission (with such requests subject to the approval of the Commission).
 
             (B)  __Nonapplication__  __.—__ 
 
@@ -85,7 +87,7 @@
 
     The Commission shall have a seal which shall be judicially recognized.
 
-([Pub. L. 109–304, § 4][/us/pl/109/304/s4], Oct. 6, 2006, [120 Stat. 1488][/us/stat/120/1488]; [Pub. L. 113–281, title IV, § 403(a)][/us/pl/113/281/s403/a], Dec. 18, 2014, [128 Stat. 3056][/us/stat/128/3056].)
+([Pub. L. 109–304][/us/pl/109/304], § 4, Oct. 6, 2006, [120 Stat. 1488][/us/stat/120/1488]; [Pub. L. 113–281, title IV][/us/pl/113/281/tIV], § 403(a), Dec. 18, 2014, [128 Stat. 3056][/us/stat/128/3056]; [Pub. L. 114–120, title IV][/us/pl/114/120/tIV], § 402, Feb. 8, 2016, [130 Stat. 67][/us/stat/130/67].)
 
 <table>
 
@@ -229,13 +231,17 @@ June 29, 1936, ch. 858, title II, § 201(c) (related to seal), 49 Stat. 1986. 
 
  __Amendments__ 
 
-    2014—Subsec. (b)(2). [Pub. L. 113–281, § 403(a)(1)][/us/pl/113/281/s403/a/1], amended par. (2) generally. Prior to amendment, text read as follows: “The term of each Commissioner is 5 years, with each term beginning one year apart. An individual appointed to fill a vacancy is appointed only for the unexpired term of the individual being succeeded. A vacancy shall be filled in the same manner as the original appointment. When the term of a Commissioner ends, the Commissioner may continue to serve until a successor is appointed and qualified.”
+    2016—Subsec. (c)(3)(A)(ii). [Pub. L. 114–120][/us/pl/114/120], § 402(1), substituted “units (with such appointments subject to the approval of the Commission);” for “units, but only after consultation with the other Commissioners;”.
 
-    Subsec. (b)(3) to (5). [Pub. L. 113–281, § 403(a)(2)][/us/pl/113/281/s403/a/2], added pars. (3) and (4) and redesignated former par. (3) as (5).
+    Subsec. (c)(3)(A)(vi). [Pub. L. 114–120][/us/pl/114/120], § 402(2)–(4), added cl. (vi).
+
+    2014—Subsec. (b)(2). [Pub. L. 113–281][/us/pl/113/281], § 403(a)(1), amended par. (2) generally. Prior to amendment, text read as follows: “The term of each Commissioner is 5 years, with each term beginning one year apart. An individual appointed to fill a vacancy is appointed only for the unexpired term of the individual being succeeded. A vacancy shall be filled in the same manner as the original appointment. When the term of a Commissioner ends, the Commissioner may continue to serve until a successor is appointed and qualified.”
+
+    Subsec. (b)(3) to (5). [Pub. L. 113–281][/us/pl/113/281], § 403(a)(2), added pars. (3) and (4) and redesignated former par. (3) as (5).
 
  __Effective Date of 2014 Amendment__ 
 
-[Pub. L. 113–281, title IV, § 403(b)][/us/pl/113/281/s403/b], Dec. 18, 2014, [128 Stat. 3056][/us/stat/128/3056], provided that: 
+[Pub. L. 113–281, title IV][/us/pl/113/281/tIV], § 403(b), Dec. 18, 2014, [128 Stat. 3056][/us/stat/128/3056], provided that: 
 
 > “The amendment made by subsection (a)(1) \[amending this section\] does not apply with respect to a Commissioner of the Federal Maritime Commission appointed and confirmed by the Senate before the date of the enactment of this Act \[Dec. 18, 2014\].”
 
@@ -247,15 +253,19 @@ June 29, 1936, ch. 858, title II, § 201(c) (related to seal), 49 Stat. 1986. 
 ----------
 
 [/us/usc/t46/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs304
-[/us/pl/109/304/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs4
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1488]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1488
-[/us/pl/113/281/s403/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281%2Fs403%2Fa
+[/us/pl/113/281/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281%2FtIV
 [/us/stat/128/3056]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3056
+[/us/pl/114/120/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F120%2FtIV
+[/us/stat/130/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F67
 [/us/pl/89/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F56
 [/us/stat/79/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F195
-[/us/pl/113/281/s403/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281%2Fs403%2Fa%2F1
-[/us/pl/113/281/s403/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281%2Fs403%2Fa%2F2
-[/us/pl/113/281/s403/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281%2Fs403%2Fb
+[/us/pl/114/120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F120
+[/us/pl/114/120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F120
+[/us/pl/113/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281
+[/us/pl/113/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281
+[/us/pl/113/281/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281%2FtIV
 [/us/stat/128/3056]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3056
 
 

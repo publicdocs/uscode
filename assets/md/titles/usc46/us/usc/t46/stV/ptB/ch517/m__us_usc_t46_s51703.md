@@ -27,7 +27,7 @@
 
         (2) without regard to section 6101(b) to (d) of title 41, make contracts for services the Secretary considers necessary to prepare the equipment and supplies and to supervise and administer the additional training.
 
-([Pub. L. 109–304, § 8(b)][/us/pl/109/304/s8/b], Oct. 6, 2006, [120 Stat. 1583][/us/stat/120/1583]; [Pub. L. 111–350, § 5(n)][/us/pl/111/350/s5/n], Jan. 4, 2011, [124 Stat. 3853][/us/stat/124/3853].)
+([Pub. L. 109–304][/us/pl/109/304], § 8(b), Oct. 6, 2006, [120 Stat. 1583][/us/stat/120/1583]; [Pub. L. 111–350][/us/pl/111/350], § 5(n), Jan. 4, 2011, [124 Stat. 3853][/us/stat/124/3853].)
 
 <table>
 
@@ -90,9 +90,9 @@ June 29, 1936, ch. 858, title XIII, § 1305(a), (b), as added Pub. L. 96–453
 ----------
 ----------
 
-[/us/pl/109/304/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs8%2Fb
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1583
-[/us/pl/111/350/s5/n]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs5%2Fn
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3853]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3853
 [/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/usc/t41/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs5

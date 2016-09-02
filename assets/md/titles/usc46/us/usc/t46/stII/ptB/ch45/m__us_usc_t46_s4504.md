@@ -17,7 +17,7 @@
 
     A person may not operate a vessel in violation of this chapter or a regulation prescribed under this chapter.
 
-(Added [Pub. L. 98–364, title IV, § 402(7)(C)][/us/pl/98/364/s402/7/C], July 17, 1984, [98 Stat. 447][/us/stat/98/447]; amended [Pub. L. 100–424, § 2(a)][/us/pl/100/424/s2/a], Sept. 9, 1988, [102 Stat. 1587][/us/stat/102/1587].)
+(Added [Pub. L. 98–364, title IV][/us/pl/98/364/tIV], § 402(7)(C), July 17, 1984, [98 Stat. 447][/us/stat/98/447]; amended [Pub. L. 100–424][/us/pl/100/424], § 2(a), Sept. 9, 1988, [102 Stat. 1587][/us/stat/102/1587].)
 
  __Amendments__ 
 
@@ -30,9 +30,9 @@
 ----------
 ----------
 
-[/us/pl/98/364/s402/7/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F364%2Fs402%2F7%2FC
+[/us/pl/98/364/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F364%2FtIV
 [/us/stat/98/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F447
-[/us/pl/100/424/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F424%2Fs2%2Fa
+[/us/pl/100/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F424
 [/us/stat/102/1587]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1587
 [/us/pl/100/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F424
 

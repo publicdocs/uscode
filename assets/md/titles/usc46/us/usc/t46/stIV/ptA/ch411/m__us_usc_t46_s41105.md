@@ -41,7 +41,7 @@
 
     (8) for service pursuant to a service contract, give any undue or unreasonable preference or advantage or impose any undue or unreasonable prejudice or disadvantage with respect to any locality, port, or person due to the person’s status as a shippers’ association or ocean transportation intermediary.
 
-([Pub. L. 109–304, § 7][/us/pl/109/304/s7], Oct. 6, 2006, [120 Stat. 1542][/us/stat/120/1542].)
+([Pub. L. 109–304][/us/pl/109/304], § 7, Oct. 6, 2006, [120 Stat. 1542][/us/stat/120/1542].)
 
 <table>
 
@@ -99,7 +99,7 @@ Pub. L. 98–237, § 10(c), Mar. 20, 1984, 98 Stat. 77; Pub. L. 105–258, tit
 ----------
 
 [/us/usc/t46/s40303/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs40303%2Fd
-[/us/pl/109/304/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs7
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1542
 
 

@@ -27,7 +27,7 @@
 
     This chapter does not apply if the death resulted from a commercial aviation accident occurring on the high seas 12 nautical miles or less from the shore of the United States.
 
-([Pub. L. 109–304, § 6(c)][/us/pl/109/304/s6/c], Oct. 6, 2006, [120 Stat. 1512][/us/stat/120/1512].)
+([Pub. L. 109–304][/us/pl/109/304], § 6(c), Oct. 6, 2006, [120 Stat. 1512][/us/stat/120/1512].)
 
 <table>
 
@@ -116,7 +116,7 @@ Mar. 30, 1920, ch. 111, §§ 1(b), 2(b); as added Pub. L. 106–181, title IV,
 ----------
 ----------
 
-[/us/pl/109/304/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs6%2Fc
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1512
 
 

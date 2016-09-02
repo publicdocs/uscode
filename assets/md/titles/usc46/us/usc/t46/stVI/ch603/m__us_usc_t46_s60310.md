@@ -17,7 +17,7 @@
 
     A vessel making regular daily trips between a port of the United States and a port of Canada only on interior waters not navigable to the ocean is exempt from tonnage taxes and light money, except on its first clearing each year.
 
-([Pub. L. 109–304, § 9(b)][/us/pl/109/304/s9/b], Oct. 6, 2006, [120 Stat. 1679][/us/stat/120/1679].)
+([Pub. L. 109–304][/us/pl/109/304], § 9(b), Oct. 6, 2006, [120 Stat. 1679][/us/stat/120/1679].)
 
 <table>
 
@@ -74,7 +74,7 @@ R.S. § 4221.  </td>
 ----------
 ----------
 
-[/us/pl/109/304/s9/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs9%2Fb
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1679]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1679
 
 

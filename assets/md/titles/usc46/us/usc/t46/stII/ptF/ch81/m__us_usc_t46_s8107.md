@@ -27,11 +27,11 @@
 
     For the purpose of this section, the term “act of piracy” means any act of aggression, search, restraint, depredation, or seizure attempted against a vessel of the United States by an individual not authorized by the United States, a foreign government, or an international organization recognized by the United States to enforce law on the high seas.
 
-(Added [Pub. L. 111–281, title IX, § 912(a)][/us/pl/111/281/s912/a], Oct. 15, 2010, [124 Stat. 3016][/us/stat/124/3016].)
+(Added [Pub. L. 111–281, title IX][/us/pl/111/281/tIX], § 912(a), Oct. 15, 2010, [124 Stat. 3016][/us/stat/124/3016].)
 
  __Standard Rules for the Use of Force for Self-Defense of Vessels of the United States__ 
 
-[Pub. L. 111–281, title IX, § 912(c)][/us/pl/111/281/s912/c], Oct. 15, 2010, [124 Stat. 3017][/us/stat/124/3017], provided that: 
+[Pub. L. 111–281, title IX][/us/pl/111/281/tIX], § 912(c), Oct. 15, 2010, [124 Stat. 3017][/us/stat/124/3017], provided that: 
 
 > “Not later than 180 days after the date of enactment of this act \[Oct. 15, 2010\], the secretary \[sic\] of the department in which the coast guard \[sic\] is operating, in consultation with representatives of industry and labor, shall develop standard rules for the use of force for self-defense of vessels of the United States.”
 
@@ -42,9 +42,9 @@
 ----------
 ----------
 
-[/us/pl/111/281/s912/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs912%2Fa
+[/us/pl/111/281/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2FtIX
 [/us/stat/124/3016]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3016
-[/us/pl/111/281/s912/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs912%2Fc
+[/us/pl/111/281/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2FtIX
 [/us/stat/124/3017]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3017
 
 

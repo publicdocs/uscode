@@ -35,7 +35,7 @@
 
     (6) The term “transportation security incident” means a security incident resulting in a significant loss of life, environmental damage, transportation system disruption, or economic disruption in a particular area. In this paragraph, the term “economic disruption” does not include a work stoppage or other employee-related action not related to terrorism and resulting from an employee-employer dispute.
 
-(Added [Pub. L. 107–295, title I, § 102(a)][/us/pl/107/295/s102/a], Nov. 25, 2002, [116 Stat. 2068][/us/stat/116/2068]; amended [Pub. L. 109–347, title I, § 124][/us/pl/109/347/s124], Oct. 13, 2006, [120 Stat. 1900][/us/stat/120/1900].)
+(Added [Pub. L. 107–295, title I][/us/pl/107/295/tI], § 102(a), Nov. 25, 2002, [116 Stat. 2068][/us/stat/116/2068]; amended [Pub. L. 109–347, title I][/us/pl/109/347/tI], § 124, Oct. 13, 2006, [120 Stat. 1900][/us/stat/120/1900].)
 
  __Amendments__ 
 
@@ -43,7 +43,7 @@
 
  __Regulations__ 
 
-[Pub. L. 107–295, title I, § 102(d)][/us/pl/107/295/s102/d], Nov. 25, 2002, [116 Stat. 2084][/us/stat/116/2084], provided that:
+[Pub. L. 107–295, title I][/us/pl/107/295/tI], § 102(d), Nov. 25, 2002, [116 Stat. 2084][/us/stat/116/2084], provided that:
 
 >     “(1)  __Interim final rule authority__  __.—__ 
 
@@ -59,7 +59,7 @@
 
  __Integrated Cross-Border Maritime Law Enforcement Operations Between the United States and Canada__ 
 
-[Pub. L. 112–213, title VII, § 711][/us/pl/112/213/s711], Dec. 20, 2012, [126 Stat. 1581][/us/stat/126/1581], provided that:
+[Pub. L. 112–213, title VII][/us/pl/112/213/tVII], § 711, Dec. 20, 2012, [126 Stat. 1581][/us/stat/126/1581], provided that:
 
 >     “(a)  __Authorization__  __.—__ 
 
@@ -101,7 +101,7 @@
 
  __Waterside Security of Especially Hazardous Cargo__ 
 
-[Pub. L. 111–281, title VIII, § 812][/us/pl/111/281/s812], Oct. 15, 2010, [124 Stat. 2995][/us/stat/124/2995], provided that:
+[Pub. L. 111–281, title VIII][/us/pl/111/281/tVIII], § 812, Oct. 15, 2010, [124 Stat. 2995][/us/stat/124/2995], provided that:
 
 >     “(a) __National Study.—__ 
 
@@ -179,7 +179,7 @@
 
  __Risk Based Resource Allocation__ 
 
-[Pub. L. 111–281, title VIII, § 827][/us/pl/111/281/s827], Oct. 15, 2010, [124 Stat. 3004][/us/stat/124/3004], provided that:
+[Pub. L. 111–281, title VIII][/us/pl/111/281/tVIII], § 827, Oct. 15, 2010, [124 Stat. 3004][/us/stat/124/3004], provided that:
 
 >     “(a)  __National Standard__  __.—__ 
 
@@ -199,7 +199,7 @@
 
  __Watch Lists for Passengers Aboard Vessels__ 
 
-[Pub. L. 108–458, title IV, § 4071][/us/pl/108/458/s4071], Dec. 17, 2004, [118 Stat. 3729][/us/stat/118/3729], provided that:
+[Pub. L. 108–458, title IV][/us/pl/108/458/tIV], § 4071, Dec. 17, 2004, [118 Stat. 3729][/us/stat/118/3729], provided that:
 
 >     “(a) __Watch Lists.—__ 
 
@@ -235,13 +235,13 @@
 
  __Vessel and Intermodal Security Reports__ 
 
-[Pub. L. 108–293, title VIII, § 809(g)][/us/pl/108/293/s809/g], (i), formerly § 809(g)–(i), (k), Aug. 9, 2004, [118 Stat. 1087][/us/stat/118/1087], 1088, renumbered and amended by [Pub. L. 113–284, § 2(a)(1)][/us/pl/113/284/s2/a/1], (2)(B), Dec. 18, 2014, [128 Stat. 3089][/us/stat/128/3089], provided that:
+[Pub. L. 108–293, title VIII][/us/pl/108/293/tVIII], § 809(g), (i), formerly § 809(g)–(i), (k), Aug. 9, 2004, [118 Stat. 1087][/us/stat/118/1087], 1088, renumbered and amended by [Pub. L. 113–284][/us/pl/113/284], § 2(a)(1), (2)(B), Dec. 18, 2014, [128 Stat. 3089][/us/stat/128/3089], provided that:
 
 >     “(g)  __Compliance With Security Standards Established Pursuant to Maritime Transportation Security Plans__  __.—__ 
 
 >     Within 180 days after the date of the enactment of this Act \[Aug. 9, 2004\] and annually thereafter, the Secretary of the department in which the Coast Guard is operating shall prepare a report on compliance and steps taken to ensure compliance by ports, terminals, vessel operators, and shippers with security standards established pursuant to [section 70103 of title 46][/us/usc/t46/s70103], United States Code. The reports shall also include a summary of security standards established pursuant to such section during the previous year. The Secretary shall submit the reports to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives.
 
->     \[(h) Repealed. [Pub. L. 113–284, § 2(a)(1)][/us/pl/113/284/s2/a/1], Dec. 18, 2014, [128 Stat. 3089][/us/stat/128/3089].\]
+>     \[(h) Repealed. [Pub. L. 113–284][/us/pl/113/284], § 2(a)(1), Dec. 18, 2014, [128 Stat. 3089][/us/stat/128/3089].\]
 
 >     “(i)  __Report and Plan Formats__  __.—__ 
 
@@ -251,7 +251,7 @@
 
  __Findings__ 
 
-[Pub. L. 107–295, title I, § 101][/us/pl/107/295/s101], Nov. 25, 2002, [116 Stat. 2066][/us/stat/116/2066], provided that:
+[Pub. L. 107–295, title I][/us/pl/107/295/tI], § 101, Nov. 25, 2002, [116 Stat. 2066][/us/stat/116/2066], provided that:
 
 >     “The Congress makes the following findings:
 
@@ -311,7 +311,7 @@
 
  __Maritime Security Professional Training__ 
 
-[Pub. L. 107–295, title I, § 109][/us/pl/107/295/s109], Nov. 25, 2002, [116 Stat. 2090][/us/stat/116/2090], provided that:
+[Pub. L. 107–295, title I][/us/pl/107/295/tI], § 109, Nov. 25, 2002, [116 Stat. 2090][/us/stat/116/2090], provided that:
 
 >     “(a) __In General.—__ 
 
@@ -367,13 +367,13 @@
 
  __Report on Training Center__ 
 
-[Pub. L. 107–295, title I, § 110(b)][/us/pl/107/295/s110/b], Nov. 25, 2002, [116 Stat. 2091][/us/stat/116/2091], provided that: 
+[Pub. L. 107–295, title I][/us/pl/107/295/tI], § 110(b), Nov. 25, 2002, [116 Stat. 2091][/us/stat/116/2091], provided that: 
 
 > “The Commandant of the United States Coast Guard, in conjunction with the Secretary of the Navy, shall submit to Congress a report, at the time they submit their fiscal year 2005 budget, on the life cycle costs and benefits of creating a Center for Coastal and Maritime Security. The purpose of the Center would be to provide an integrated training complex to prevent and mitigate terrorist threats against coastal and maritime assets of the United States, including ports, harbors, ships, dams, reservoirs, and transport nodes.”
 
  __Report on Foreign-flag Vessels__ 
 
-    [Pub. L. 107–295, title I, § 112][/us/pl/107/295/s112], Nov. 25, 2002, [116 Stat. 2092][/us/stat/116/2092], which required the Secretary of the department in which the Coast Guard is operating to provide an annual report regarding all nations whose flag vessels have entered United States ports in the previous year, a separate list of those nations whose registered flag vessels present certain irregularities, actions taken to improve transparency and security of vessel registration procedures in those nations, and recommendations for legislative or other actions to improve security of United States ports, was repealed by [Pub. L. 111–207, § 4(a)(2)][/us/pl/111/207/s4/a/2], July 27, 2010, [124 Stat. 2251][/us/stat/124/2251].
+    [Pub. L. 107–295, title I][/us/pl/107/295/tI], § 112, Nov. 25, 2002, [116 Stat. 2092][/us/stat/116/2092], which required the Secretary of the department in which the Coast Guard is operating to provide an annual report regarding all nations whose flag vessels have entered United States ports in the previous year, a separate list of those nations whose registered flag vessels present certain irregularities, actions taken to improve transparency and security of vessel registration procedures in those nations, and recommendations for legislative or other actions to improve security of United States ports, was repealed by [Pub. L. 111–207][/us/pl/111/207], § 4(a)(2), July 27, 2010, [124 Stat. 2251][/us/stat/124/2251].
 
 ----------
 
@@ -382,42 +382,42 @@
 ----------
 ----------
 
-[/us/pl/107/295/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295%2Fs102%2Fa
+[/us/pl/107/295/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295%2FtI
 [/us/stat/116/2068]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2068
-[/us/pl/109/347/s124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347%2Fs124
+[/us/pl/109/347/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347%2FtI
 [/us/stat/120/1900]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1900
 [/us/pl/109/347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347
-[/us/pl/107/295/s102/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295%2Fs102%2Fd
+[/us/pl/107/295/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295%2FtI
 [/us/stat/116/2084]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2084
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
-[/us/pl/112/213/s711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F213%2Fs711
+[/us/pl/112/213/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F213%2FtVII
 [/us/stat/126/1581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1581
-[/us/pl/111/281/s812]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs812
+[/us/pl/111/281/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2FtVIII
 [/us/stat/124/2995]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2995
 [/us/usc/t46/s70103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs70103
 [/us/usc/t46/s70101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs70101
-[/us/pl/111/281/s827]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs827
+[/us/pl/111/281/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2FtVIII
 [/us/stat/124/3004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3004
-[/us/pl/108/458/s4071]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs4071
+[/us/pl/108/458/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2FtIV
 [/us/stat/118/3729]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3729
-[/us/pl/108/293/s809/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293%2Fs809%2Fg
+[/us/pl/108/293/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293%2FtVIII
 [/us/stat/118/1087]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1087
-[/us/pl/113/284/s2/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F284%2Fs2%2Fa%2F1
+[/us/pl/113/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F284
 [/us/stat/128/3089]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3089
 [/us/usc/t46/s70103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs70103
-[/us/pl/113/284/s2/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F284%2Fs2%2Fa%2F1
+[/us/pl/113/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F284
 [/us/stat/128/3089]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3089
-[/us/pl/107/295/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295%2Fs101
+[/us/pl/107/295/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295%2FtI
 [/us/stat/116/2066]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2066
-[/us/pl/107/295/s109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295%2Fs109
+[/us/pl/107/295/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295%2FtI
 [/us/stat/116/2090]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2090
 [/us/usc/t46/s70112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs70112
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
-[/us/pl/107/295/s110/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295%2Fs110%2Fb
+[/us/pl/107/295/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295%2FtI
 [/us/stat/116/2091]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2091
-[/us/pl/107/295/s112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295%2Fs112
+[/us/pl/107/295/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295%2FtI
 [/us/stat/116/2092]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2092
-[/us/pl/111/207/s4/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F207%2Fs4%2Fa%2F2
+[/us/pl/111/207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F207
 [/us/stat/124/2251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2251
 
 

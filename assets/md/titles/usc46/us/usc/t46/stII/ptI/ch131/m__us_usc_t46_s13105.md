@@ -23,7 +23,7 @@
 
     (b) Amounts available to the Secretary for State recreational boating safety programs for a fiscal year that have not been allocated at the end of the fiscal year shall be allocated among States in the next fiscal year in addition to amounts otherwise available for allocation to States for that next fiscal year.
 
-([Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 595][/us/stat/97/595], § 13104; [Pub. L. 99–307, § 1(18)][/us/pl/99/307/s1/18], May 19, 1986, [100 Stat. 446][/us/stat/100/446]; [Pub. L. 102–587, title V, § 5101][/us/pl/102/587/s5101], Nov. 4, 1992, [106 Stat. 5070][/us/stat/106/5070]; [Pub. L. 105–178, title VII, § 7405(a)][/us/pl/105/178/s7405/a], June 9, 1998, [112 Stat. 487][/us/stat/112/487]; [Pub. L. 109–59, title X, § 10142][/us/pl/109/59/s10142], Aug. 10, 2005, [119 Stat. 1931][/us/stat/119/1931]; renumbered § 13105, [Pub. L. 109–304, § 16(b)(1)][/us/pl/109/304/s16/b/1], Oct. 6, 2006, [120 Stat. 1705][/us/stat/120/1705].)
+([Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 595][/us/stat/97/595], § 13104; [Pub. L. 99–307][/us/pl/99/307], § 1(18), May 19, 1986, [100 Stat. 446][/us/stat/100/446]; [Pub. L. 102–587, title V][/us/pl/102/587/tV], § 5101, Nov. 4, 1992, [106 Stat. 5070][/us/stat/106/5070]; [Pub. L. 105–178, title VII][/us/pl/105/178/tVII], § 7405(a), June 9, 1998, [112 Stat. 487][/us/stat/112/487]; [Pub. L. 109–59, title X][/us/pl/109/59/tX], § 10142, Aug. 10, 2005, [119 Stat. 1931][/us/stat/119/1931]; renumbered § 13105, [Pub. L. 109–304][/us/pl/109/304], § 16(b)(1), Oct. 6, 2006, [120 Stat. 1705][/us/stat/120/1705].)
 
 <table>
 
@@ -71,13 +71,13 @@ Source section (U.S. Code)  </td>
 
     2006—[Pub. L. 109–304][/us/pl/109/304] renumbered [section 13104 of this title][/us/usc/t46/s13104] as this section.
 
-    2005—Subsec. (a)(1). [Pub. L. 109–59, § 10142(1)][/us/pl/109/59/s10142/1], substituted “3 years” for “2 years”.
+    2005—Subsec. (a)(1). [Pub. L. 109–59][/us/pl/109/59], § 10142(1), substituted “3 years” for “2 years”.
 
-    Subsec. (a)(2). [Pub. L. 109–59, § 10142(2)][/us/pl/109/59/s10142/2], substituted “3-year” for “2-year”.
+    Subsec. (a)(2). [Pub. L. 109–59][/us/pl/109/59], § 10142(2), substituted “3-year” for “2-year”.
 
-    1998—Subsec. (a)(1). [Pub. L. 105–178, § 7405(a)(1)][/us/pl/105/178/s7405/a/1], substituted “2 years” for “3 years”.
+    1998—Subsec. (a)(1). [Pub. L. 105–178][/us/pl/105/178], § 7405(a)(1), substituted “2 years” for “3 years”.
 
-    Subsec. (a)(2). [Pub. L. 105–178, § 7405(a)(2)][/us/pl/105/178/s7405/a/2], substituted “2-year” for “3-year”.
+    Subsec. (a)(2). [Pub. L. 105–178][/us/pl/105/178], § 7405(a)(2), substituted “2-year” for “3-year”.
 
     1992—[Pub. L. 102–587][/us/pl/102/587] amended section generally. Prior to amendment, section read as follows:
 
@@ -102,23 +102,23 @@ Source section (U.S. Code)  </td>
 
 [/us/pl/98/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F89
 [/us/stat/97/595]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F595
-[/us/pl/99/307/s1/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F307%2Fs1%2F18
+[/us/pl/99/307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F307
 [/us/stat/100/446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F446
-[/us/pl/102/587/s5101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F587%2Fs5101
+[/us/pl/102/587/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F587%2FtV
 [/us/stat/106/5070]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F5070
-[/us/pl/105/178/s7405/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs7405%2Fa
+[/us/pl/105/178/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2FtVII
 [/us/stat/112/487]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F487
-[/us/pl/109/59/s10142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs10142
+[/us/pl/109/59/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtX
 [/us/stat/119/1931]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1931
-[/us/pl/109/304/s16/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs16%2Fb%2F1
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1705
 [/us/usc/t46/s13106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs13106
 [/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/usc/t46/s13104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs13104
-[/us/pl/109/59/s10142/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs10142%2F1
-[/us/pl/109/59/s10142/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs10142%2F2
-[/us/pl/105/178/s7405/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs7405%2Fa%2F1
-[/us/pl/105/178/s7405/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs7405%2Fa%2F2
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
+[/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
 [/us/pl/102/587]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F587
 [/us/pl/99/307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F307
 [/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59

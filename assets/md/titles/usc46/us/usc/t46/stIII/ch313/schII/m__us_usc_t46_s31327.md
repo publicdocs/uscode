@@ -17,7 +17,7 @@
 
     The interest of a mortgagee in a documented vessel or a vessel covered by a preferred mortgage under [section 31322(d) of this title][/us/usc/t46/s31322/d] may be terminated by a forfeiture of the vessel for a violation of a law of the United States only if the mortgagee authorized, consented, or conspired to do the act, failure, or omission that is the basis of the violation.
 
-([Pub. L. 100–710, title I, § 102(c)][/us/pl/100/710/s102/c], Nov. 23, 1988, [102 Stat. 4746][/us/stat/102/4746].)
+([Pub. L. 100–710, title I][/us/pl/100/710/tI], § 102(c), Nov. 23, 1988, [102 Stat. 4746][/us/stat/102/4746].)
 
 <table>
 
@@ -65,7 +65,7 @@ Source section (U.S. Code)  </td>
 ----------
 
 [/us/usc/t46/s31322/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs31322%2Fd
-[/us/pl/100/710/s102/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F710%2Fs102%2Fc
+[/us/pl/100/710/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F710%2FtI
 [/us/stat/102/4746]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4746
 
 

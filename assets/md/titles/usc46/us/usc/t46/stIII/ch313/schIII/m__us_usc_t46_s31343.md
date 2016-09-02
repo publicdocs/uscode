@@ -61,7 +61,7 @@
 
     (f) This section does not alter in any respect the law pertaining to the establishment of a maritime lien, the remedy provided by such a lien, or the defenses thereto, including any defense under the doctrine of laches.
 
-([Pub. L. 100–710, title I, § 102(c)][/us/pl/100/710/s102/c], Nov. 23, 1988, [102 Stat. 4748][/us/stat/102/4748]; [Pub. L. 107–295, title II, § 205(a)(1)][/us/pl/107/295/s205/a/1], Nov. 25, 2002, [116 Stat. 2095][/us/stat/116/2095]; [Pub. L. 111–281, title IX, § 913(a)(1)][/us/pl/111/281/s913/a/1], Oct. 15, 2010, [124 Stat. 3017][/us/stat/124/3017].)
+([Pub. L. 100–710, title I][/us/pl/100/710/tI], § 102(c), Nov. 23, 1988, [102 Stat. 4748][/us/stat/102/4748]; [Pub. L. 107–295, title II][/us/pl/107/295/tII], § 205(a)(1), Nov. 25, 2002, [116 Stat. 2095][/us/stat/116/2095]; [Pub. L. 111–281, title IX][/us/pl/111/281/tIX], § 913(a)(1), Oct. 15, 2010, [124 Stat. 3017][/us/stat/124/3017].)
 
 <table>
 
@@ -111,15 +111,15 @@ Source section (U.S. Code)  </td>
 
     2010—Subsec. (a). [Pub. L. 111–281][/us/pl/111/281] struck out “of Transportation” after “Secretary” in introductory provisions.
 
-    2002—[Pub. L. 107–295, § 205(a)(1)(A)][/us/pl/107/295/s205/a/1/A], substituted “notices of claim of maritime lien” for “liens on preferred mortgage vessels” in section catchline.
+    2002—[Pub. L. 107–295][/us/pl/107/295], § 205(a)(1)(A), substituted “notices of claim of maritime lien” for “liens on preferred mortgage vessels” in section catchline.
 
-    Subsec. (a). [Pub. L. 107–295, § 205(a)(1)(B)][/us/pl/107/295/s205/a/1/B], substituted “documented, or for which an application for documentation has been filed, under chapter 121” for “covered by a preferred mortgage filed or recorded under this chapter” in introductory provisions.
+    Subsec. (a). [Pub. L. 107–295][/us/pl/107/295], § 205(a)(1)(B), substituted “documented, or for which an application for documentation has been filed, under chapter 121” for “covered by a preferred mortgage filed or recorded under this chapter” in introductory provisions.
 
-    Subsec. (b). [Pub. L. 107–295, § 205(a)(1)(C)][/us/pl/107/295/s205/a/1/C], amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “The Secretary shall record a notice complying with subsection (a) of this section.”
+    Subsec. (b). [Pub. L. 107–295][/us/pl/107/295], § 205(a)(1)(C), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “The Secretary shall record a notice complying with subsection (a) of this section.”
 
-    Subsec. (c). [Pub. L. 107–295, § 205(a)(1)(D)][/us/pl/107/295/s205/a/1/D], amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “On full and final discharge of the indebtedness that is the basis for a claim recorded under subsection (b) of this section, on request of the Secretary or owner, the person having the claim shall provide the Secretary with an acknowledged certificate of discharge of the indebtedness. The Secretary shall record the certificate.”
+    Subsec. (c). [Pub. L. 107–295][/us/pl/107/295], § 205(a)(1)(D), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “On full and final discharge of the indebtedness that is the basis for a claim recorded under subsection (b) of this section, on request of the Secretary or owner, the person having the claim shall provide the Secretary with an acknowledged certificate of discharge of the indebtedness. The Secretary shall record the certificate.”
 
-    Subsecs. (e), (f). [Pub. L. 107–295, § 205(a)(1)(E)][/us/pl/107/295/s205/a/1/E], added subsecs. (e) and (f).
+    Subsecs. (e), (f). [Pub. L. 107–295][/us/pl/107/295], § 205(a)(1)(E), added subsecs. (e) and (f).
 
  __Effective Date of 2002 Amendment__ 
 
@@ -134,18 +134,18 @@ Source section (U.S. Code)  </td>
 
 [/us/usc/t46/s31321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs31321
 [/us/usc/t46/s31322/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs31322%2Fd
-[/us/pl/100/710/s102/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F710%2Fs102%2Fc
+[/us/pl/100/710/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F710%2FtI
 [/us/stat/102/4748]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4748
-[/us/pl/107/295/s205/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295%2Fs205%2Fa%2F1
+[/us/pl/107/295/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295%2FtII
 [/us/stat/116/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2095
-[/us/pl/111/281/s913/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs913%2Fa%2F1
+[/us/pl/111/281/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2FtIX
 [/us/stat/124/3017]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3017
 [/us/pl/111/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281
-[/us/pl/107/295/s205/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295%2Fs205%2Fa%2F1%2FA
-[/us/pl/107/295/s205/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295%2Fs205%2Fa%2F1%2FB
-[/us/pl/107/295/s205/a/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295%2Fs205%2Fa%2F1%2FC
-[/us/pl/107/295/s205/a/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295%2Fs205%2Fa%2F1%2FD
-[/us/pl/107/295/s205/a/1/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295%2Fs205%2Fa%2F1%2FE
+[/us/pl/107/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295
+[/us/pl/107/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295
+[/us/pl/107/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295
+[/us/pl/107/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295
+[/us/pl/107/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295
 [/us/pl/107/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295
 [/us/pl/107/295/s205/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295%2Fs205%2Fe
 [/us/usc/t46/s31325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs31325

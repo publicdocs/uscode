@@ -17,7 +17,7 @@
 
     In this title, the term “vessel of the United States” means a vessel documented under chapter 121 of this title (or exempt from documentation under [section 12102(c) of this title][/us/usc/t46/s12102/c]), numbered under chapter 123 of this title, or titled under the law of a State.
 
-([Pub. L. 109–304, § 4][/us/pl/109/304/s4], Oct. 6, 2006, [120 Stat. 1488][/us/stat/120/1488].)
+([Pub. L. 109–304][/us/pl/109/304], § 4, Oct. 6, 2006, [120 Stat. 1488][/us/stat/120/1488].)
 
 <table>
 
@@ -71,7 +71,7 @@ Source (Statutes at Large)  </td>
 ----------
 
 [/us/usc/t46/s12102/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs12102%2Fc
-[/us/pl/109/304/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs4
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1488]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1488
 
 

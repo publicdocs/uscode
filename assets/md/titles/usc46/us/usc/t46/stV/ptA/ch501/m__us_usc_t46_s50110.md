@@ -27,7 +27,7 @@
 
     The Secretary shall establish and maintain liaison with such other agencies of the United States Government, and with such representative trade organizations throughout the United States, as may be concerned, directly or indirectly, with any movement of commodities in the waterborne export and import foreign commerce of the United States, for the purpose of securing preference to vessels of the United States in the shipment of those commodities.
 
-([Pub. L. 109–304, § 8(b)][/us/pl/109/304/s8/b], Oct. 6, 2006, [120 Stat. 1560][/us/stat/120/1560].)
+([Pub. L. 109–304][/us/pl/109/304], § 8(b), Oct. 6, 2006, [120 Stat. 1560][/us/stat/120/1560].)
 
 <table>
 
@@ -112,7 +112,7 @@ June 29, 1936, ch. 858, title II, § 212(b)(1), (d), 49 Stat. 1990; Pub. L. 97
 ----------
 ----------
 
-[/us/pl/109/304/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs8%2Fb
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1560]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1560
 
 

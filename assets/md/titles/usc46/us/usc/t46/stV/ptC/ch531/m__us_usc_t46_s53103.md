@@ -41,7 +41,7 @@
 
     The Secretary may not award operating agreements under this chapter that require payments under section 53106 for a fiscal year for more than 60 vessels.
 
-(Added [Pub. L. 108–136, div. C, title XXXV, § 3531(a)][/us/pl/108/136/s3531/a], Nov. 24, 2003, [117 Stat. 1808][/us/stat/117/1808]; amended [Pub. L. 109–304, § 13(a)(2)][/us/pl/109/304/s13/a/2], Oct. 6, 2006, [120 Stat. 1700][/us/stat/120/1700]; [Pub. L. 109–364, div. C, title XXXV, § 3502(b)(1)][/us/pl/109/364/s3502/b/1], Oct. 17, 2006, [120 Stat. 2515][/us/stat/120/2515]; [Pub. L. 112–239, div. C, title XXXV, § 3508(c)][/us/pl/112/239/s3508/c], Jan. 2, 2013, [126 Stat. 2224][/us/stat/126/2224].)
+(Added [Pub. L. 108–136, div. C, title XXXV][/us/pl/108/136/dC/tXXXV], § 3531(a), Nov. 24, 2003, [117 Stat. 1808][/us/stat/117/1808]; amended [Pub. L. 109–304][/us/pl/109/304], § 13(a)(2), Oct. 6, 2006, [120 Stat. 1700][/us/stat/120/1700]; [Pub. L. 109–364, div. C, title XXXV][/us/pl/109/364/dC/tXXXV], § 3502(b)(1), Oct. 17, 2006, [120 Stat. 2515][/us/stat/120/2515]; [Pub. L. 112–239, div. C, title XXXV][/us/pl/112/239/dC/tXXXV], § 3508(c), Jan. 2, 2013, [126 Stat. 2224][/us/stat/126/2224].)
 
  __References in Text__ 
 
@@ -49,19 +49,19 @@
 
  __Amendments__ 
 
-    2013—Subsec. (b). [Pub. L. 112–239, § 3508(c)(1)][/us/pl/112/239/s3508/c/1], amended subsec. (b) generally. Prior to amendment, subsec. (b) related to procedure for applications.
+    2013—Subsec. (b). [Pub. L. 112–239][/us/pl/112/239], § 3508(c)(1), amended subsec. (b) generally. Prior to amendment, subsec. (b) related to procedure for applications.
 
-    Subsec. (c). [Pub. L. 112–239, § 3508(c)(2)][/us/pl/112/239/s3508/c/2], amended subsec. (c) generally. Prior to amendment, subsec. (c) related to priority for awarding agreements.
+    Subsec. (c). [Pub. L. 112–239][/us/pl/112/239], § 3508(c)(2), amended subsec. (c) generally. Prior to amendment, subsec. (c) related to priority for awarding agreements.
 
-    2006—Subsec. (c)(1). [Pub. L. 109–304, § 13(a)(2)(A)][/us/pl/109/304/s13/a/2/A]–(C), substituted “[section 50501 of this title][/us/usc/t46/s50501]” for “section 2 of the Shipping Act, 1916 (46 U.S.C. App. 802)” in subpars. (A)(iii) and (C)(i) and (ii), “applying subparagraph” for “applying subparagraphs” in subpar. (B), and “section 50501” for “section 2” in subpar. (C) heading.
+    2006—Subsec. (c)(1). [Pub. L. 109–304][/us/pl/109/304], § 13(a)(2)(A)–(C), substituted “[section 50501 of this title][/us/usc/t46/s50501]” for “section 2 of the Shipping Act, 1916 (46 U.S.C. App. 802)” in subpars. (A)(iii) and (C)(i) and (ii), “applying subparagraph” for “applying subparagraphs” in subpar. (B), and “section 50501” for “section 2” in subpar. (C) heading.
 
-    Subsec. (c)(3)(B). [Pub. L. 109–304, § 13(a)(2)(D)][/us/pl/109/304/s13/a/2/D], substituted “agreements” for “agreement”.
+    Subsec. (c)(3)(B). [Pub. L. 109–304][/us/pl/109/304], § 13(a)(2)(D), substituted “agreements” for “agreement”.
 
-    Subsec. (c)(4)(A). [Pub. L. 109–364, § 3502(b)(1)(A)][/us/pl/109/364/s3502/b/1/A]–(D), redesignated cls. (i) and (ii) as cl. (i), subcls. (I) and (II), respectively, in subcl. (II) substituted “; or” for period at end, and added cl. (ii).
+    Subsec. (c)(4)(A). [Pub. L. 109–364][/us/pl/109/364], § 3502(b)(1)(A)–(D), redesignated cls. (i) and (ii) as cl. (i), subcls. (I) and (II), respectively, in subcl. (II) substituted “; or” for period at end, and added cl. (ii).
 
-    Subsec. (c)(4)(B). [Pub. L. 109–364, § 3502(b)(1)(E)][/us/pl/109/364/s3502/b/1/E], inserted “with respect to which a binding contract is entered into under subparagraph (A)(i)” after “existing tank vessel”.
+    Subsec. (c)(4)(B). [Pub. L. 109–364][/us/pl/109/364], § 3502(b)(1)(E), inserted “with respect to which a binding contract is entered into under subparagraph (A)(i)” after “existing tank vessel”.
 
-    Subsec. (c)(4)(C), (D). [Pub. L. 109–364, § 3502(b)(1)(F)][/us/pl/109/364/s3502/b/1/F], added subpars. (C) and (D).
+    Subsec. (c)(4)(C), (D). [Pub. L. 109–364][/us/pl/109/364], § 3502(b)(1)(F), added subpars. (C) and (D).
 
 ----------
 
@@ -71,22 +71,22 @@
 ----------
 
 [/us/usc/t46/s50501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs50501
-[/us/pl/108/136/s3531/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs3531%2Fa
+[/us/pl/108/136/dC/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdC%2FtXXXV
 [/us/stat/117/1808]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1808
-[/us/pl/109/304/s13/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs13%2Fa%2F2
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1700]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1700
-[/us/pl/109/364/s3502/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs3502%2Fb%2F1
+[/us/pl/109/364/dC/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdC%2FtXXXV
 [/us/stat/120/2515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2515
-[/us/pl/112/239/s3508/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs3508%2Fc
+[/us/pl/112/239/dC/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdC%2FtXXXV
 [/us/stat/126/2224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2224
 [/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
-[/us/pl/112/239/s3508/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs3508%2Fc%2F1
-[/us/pl/112/239/s3508/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs3508%2Fc%2F2
-[/us/pl/109/304/s13/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs13%2Fa%2F2%2FA
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/usc/t46/s50501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs50501
-[/us/pl/109/304/s13/a/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs13%2Fa%2F2%2FD
-[/us/pl/109/364/s3502/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs3502%2Fb%2F1%2FA
-[/us/pl/109/364/s3502/b/1/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs3502%2Fb%2F1%2FE
-[/us/pl/109/364/s3502/b/1/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs3502%2Fb%2F1%2FF
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
+[/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
+[/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
+[/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
 
 

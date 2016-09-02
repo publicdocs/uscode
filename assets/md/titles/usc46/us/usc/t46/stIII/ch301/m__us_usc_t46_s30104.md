@@ -17,7 +17,7 @@
 
     A seaman injured in the course of employment or, if the seaman dies from the injury, the personal representative of the seaman may elect to bring a civil action at law, with the right of trial by jury, against the employer. Laws of the United States regulating recovery for personal injury to, or death of, a railway employee apply to an action under this section.
 
-([Pub. L. 109–304, § 6(c)][/us/pl/109/304/s6/c], Oct. 6, 2006, [120 Stat. 1510][/us/stat/120/1510]; [Pub. L. 110–181, div. C, title XXXV, § 3521(a)][/us/pl/110/181/s3521/a], Jan. 28, 2008, [122 Stat. 596][/us/stat/122/596].)
+([Pub. L. 109–304][/us/pl/109/304], § 6(c), Oct. 6, 2006, [120 Stat. 1510][/us/stat/120/1510]; [Pub. L. 110–181, div. C, title XXXV][/us/pl/110/181/dC/tXXXV], § 3521(a), Jan. 28, 2008, [122 Stat. 596][/us/stat/122/596].)
 
 <table>
 
@@ -89,7 +89,7 @@ Mar. 4, 1915, ch. 153, § 20(a), 38 Stat. 1185; June 5, 1920, ch. 250, § 33
 
  __Effective Date of 2008 Amendment__ 
 
-[Pub. L. 110–181, div. C, title XXXV, § 3521(b)][/us/pl/110/181/s3521/b], Jan. 28, 2008, [122 Stat. 596][/us/stat/122/596], provided that: 
+[Pub. L. 110–181, div. C, title XXXV][/us/pl/110/181/dC/tXXXV], § 3521(b), Jan. 28, 2008, [122 Stat. 596][/us/stat/122/596], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall be effective as if included in the enactment of [Public Law 109–304][/us/pl/109/304].”
 
@@ -100,13 +100,13 @@ Mar. 4, 1915, ch. 153, § 20(a), 38 Stat. 1185; June 5, 1920, ch. 250, § 33
 ----------
 ----------
 
-[/us/pl/109/304/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs6%2Fc
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1510
-[/us/pl/110/181/s3521/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs3521%2Fa
+[/us/pl/110/181/dC/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdC%2FtXXXV
 [/us/stat/122/596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F596
 [/us/usc/t28/s1391/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1391%2Fc
 [/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
-[/us/pl/110/181/s3521/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs3521%2Fb
+[/us/pl/110/181/dC/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdC%2FtXXXV
 [/us/stat/122/596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F596
 [/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 

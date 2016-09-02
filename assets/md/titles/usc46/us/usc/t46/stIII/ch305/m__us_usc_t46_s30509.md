@@ -45,7 +45,7 @@
 
         This subsection does not limit the liability of a crewmember or the owner, master, manager, agent, or operator of a vessel in a case involving sexual harassment, sexual assault, or rape.
 
-([Pub. L. 109–304, § 6(c)][/us/pl/109/304/s6/c], Oct. 6, 2006, [120 Stat. 1514][/us/stat/120/1514].)
+([Pub. L. 109–304][/us/pl/109/304], § 6(c), Oct. 6, 2006, [120 Stat. 1514][/us/stat/120/1514].)
 
 <table>
 
@@ -104,7 +104,7 @@ R.S. § 4283B, as added June 5, 1936, ch. 521, § 2, 49 Stat. 1480; Oct. 19,
 ----------
 ----------
 
-[/us/pl/109/304/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs6%2Fc
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1514
 
 

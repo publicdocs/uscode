@@ -17,7 +17,7 @@
 
     If the Secretary of Transportation considers it necessary, the Secretary may make a contract with a charterer of a vessel owned by the Secretary for payment of an operating-differential subsidy, on the same terms and conditions, and subject to the same limitations and restrictions, as otherwise provided with respect to payment of operating-differential subsidies to operators of privately-owned vessels.
 
-([Pub. L. 109–304, § 8(c)][/us/pl/109/304/s8/c], Oct. 6, 2006, [120 Stat. 1667][/us/stat/120/1667].)
+([Pub. L. 109–304][/us/pl/109/304], § 8(c), Oct. 6, 2006, [120 Stat. 1667][/us/stat/120/1667].)
 
 <table>
 
@@ -72,7 +72,7 @@ June 29, 1936, ch. 858, title VII, § 708, 49 Stat. 2009; June 23, 1938, ch. 6
 ----------
 ----------
 
-[/us/pl/109/304/s8/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs8%2Fc
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1667]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1667
 
 

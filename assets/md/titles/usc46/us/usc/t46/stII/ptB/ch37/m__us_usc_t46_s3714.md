@@ -41,7 +41,7 @@
 
     (c) Each vessel to which this chapter applies that operates in the United States shall have a person designated as authorized to accept service of legal process for the vessel.
 
-([Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 526][/us/stat/97/526]; [Pub. L. 99–307, § 1(8)][/us/pl/99/307/s1/8], May 19, 1986, [100 Stat. 445][/us/stat/100/445].)
+([Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 526][/us/stat/97/526]; [Pub. L. 99–307][/us/pl/99/307], § 1(8), May 19, 1986, [100 Stat. 445][/us/stat/100/445].)
 
 <table>
 
@@ -108,7 +108,7 @@ Source section (U.S. Code)  </td>
 
 [/us/pl/98/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F89
 [/us/stat/97/526]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F526
-[/us/pl/99/307/s1/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F307%2Fs1%2F8
+[/us/pl/99/307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F307
 [/us/stat/100/445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F445
 [/us/pl/99/307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F307
 

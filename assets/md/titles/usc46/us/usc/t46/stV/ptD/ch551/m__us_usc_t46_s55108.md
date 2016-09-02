@@ -67,7 +67,7 @@
 
             (B) the owner or operator of a coastwise qualified vessel submits information to the Secretary asserting that the owner or operator has a suitable coastwise qualified vessel available for the transportation, but the Secretary determines, within 90 days after the notice is first published, that the coastwise qualified vessel is not suitable or reasonably available for the transportation.
 
-([Pub. L. 109–304, § 8(c)][/us/pl/109/304/s8/c], Oct. 6, 2006, [120 Stat. 1636][/us/stat/120/1636].)
+([Pub. L. 109–304][/us/pl/109/304], § 8(c), Oct. 6, 2006, [120 Stat. 1636][/us/stat/120/1636].)
 
 <table>
 
@@ -128,7 +128,7 @@ June 5, 1920, ch. 250, § 27 (last proviso), 41 Stat. 999; July 2, 1935, ch. 3
 
 [/us/usc/t46/s55102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs55102
 [/us/usc/t43/s1333/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1333%2Fa
-[/us/pl/109/304/s8/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs8%2Fc
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1636]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1636
 [/us/usc/t46/s55102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs55102
 

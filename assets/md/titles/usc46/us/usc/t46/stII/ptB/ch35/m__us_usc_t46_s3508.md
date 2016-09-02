@@ -49,7 +49,7 @@
 
         (2) fails to pay a penalty imposed on the owner under subsection (e).
 
-(Added [Pub. L. 111–207, § 3(a)][/us/pl/111/207/s3/a], July 27, 2010, [124 Stat. 2250][/us/stat/124/2250].)
+(Added [Pub. L. 111–207][/us/pl/111/207], § 3(a), July 27, 2010, [124 Stat. 2250][/us/stat/124/2250].)
 
  __References in Text__ 
 
@@ -62,7 +62,7 @@
 ----------
 ----------
 
-[/us/pl/111/207/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F207%2Fs3%2Fa
+[/us/pl/111/207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F207
 [/us/stat/124/2250]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2250
 [/us/pl/111/207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F207
 

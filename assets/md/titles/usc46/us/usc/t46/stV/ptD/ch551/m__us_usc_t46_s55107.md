@@ -47,7 +47,7 @@
 
     This section applies to a vessel of foreign registry only if the Secretary of Homeland Security finds, based on information from the Secretary of State, that the government of the nation of registry extends reciprocal privileges to vessels of the United States.
 
-([Pub. L. 109–304, § 8(c)][/us/pl/109/304/s8/c], Oct. 6, 2006, [120 Stat. 1635][/us/stat/120/1635].)
+([Pub. L. 109–304][/us/pl/109/304], § 8(c), Oct. 6, 2006, [120 Stat. 1635][/us/stat/120/1635].)
 
 <table>
 
@@ -106,7 +106,7 @@ June 5, 1920, ch. 250, § 27 (6th proviso), 41 Stat. 999; July 2, 1935, ch. 35
 
 [/us/usc/t46/s55102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs55102
 [/us/usc/t19/s1322/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1322%2Fa
-[/us/pl/109/304/s8/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs8%2Fc
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1635]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1635
 
 

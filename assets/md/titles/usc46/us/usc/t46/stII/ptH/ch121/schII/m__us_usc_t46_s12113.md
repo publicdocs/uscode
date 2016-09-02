@@ -91,7 +91,7 @@
 
              the owner of the vessel demonstrates to the Secretary that—
 
-                (i) the regional fishery management council of jurisdiction established under section 302(a)(1) of the Magnuson-Stevens Fishery Conservation and Management Act ([16 U.S.C. 1852(a)(1)][/us/usc/t16/s1852/a/1]) has recommended after October 21, 1998, and the Secretary of Commerce has approved, conservation and management measures in accordance with the American Fisheries Act ([Public Law 105–277, div. C, title II][/us/pl/105/277]) ([16 U.S.C. 1851][/us/usc/t16/s1851] note)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  to allow the vessel to be used in fisheries under the council’s authority; and
+                (i) the regional fishery management council of jurisdiction established under section 302(a)(1) of the Magnuson-Stevens Fishery Conservation and Management Act ([16 U.S.C. 1852(a)(1)][/us/usc/t16/s1852/a/1]) has recommended after October 21, 1998, and the Secretary of Commerce has approved, conservation and management measures in accordance with the American Fisheries Act ([Public Law 105–277, div. C, title II][/us/pl/105/277/dC/tII]) ([16 U.S.C. 1851][/us/usc/t16/s1851] note)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  to allow the vessel to be used in fisheries under the council’s authority; and
 
                 (ii) in the case of a vessel listed in paragraphs (1) through (20) of section 208(e) of the American Fisheries Act (title II of division C of [Public Law 105–277][/us/pl/105/277]; [112 Stat. 2681–625][/us/stat/112/2681-625] et seq.), the vessel is neither participating in nor eligible to participate in the non-AFA trawl catcher processor subsector (as that term is defined under section 219(a)(7) of the Department of Commerce and Related Agencies Appropriations Act, 2005 ([Public Law 108–447][/us/pl/108/447]; [118 Stat. 2887][/us/stat/118/2887]));
 
@@ -143,7 +143,7 @@
 
     Regulations to implement subsections (c) and (d) and sections 12151(c) and 31322(b) of this title shall prohibit impermissible transfers of ownership or control, specify any transactions that require prior approval of an implementing agency, identify transactions that do not require prior agency approval, and to the extent practicable, minimize disruptions to the commercial fishing industry, to the traditional financing arrangements of that industry, and to the opportunity to form fishery cooperatives.
 
-([Pub. L. 109–304, § 5][/us/pl/109/304/s5], Oct. 6, 2006, [120 Stat. 1495][/us/stat/120/1495]; [Pub. L. 110–181, div. C, title XXXV, § 3529(a)(2)][/us/pl/110/181/s3529/a/2], Jan. 28, 2008, [122 Stat. 603][/us/stat/122/603]; [Pub. L. 111–281, title VI, § 602(a)][/us/pl/111/281/s602/a], Oct. 15, 2010, [124 Stat. 2959][/us/stat/124/2959]; [Pub. L. 112–213, title III, § 307][/us/pl/112/213/s307], Dec. 20, 2012, [126 Stat. 1565][/us/stat/126/1565].)
+([Pub. L. 109–304][/us/pl/109/304], § 5, Oct. 6, 2006, [120 Stat. 1495][/us/stat/120/1495]; [Pub. L. 110–181, div. C, title XXXV][/us/pl/110/181/dC/tXXXV], § 3529(a)(2), Jan. 28, 2008, [122 Stat. 603][/us/stat/122/603]; [Pub. L. 111–281, title VI][/us/pl/111/281/tVI], § 602(a), Oct. 15, 2010, [124 Stat. 2959][/us/stat/124/2959]; [Pub. L. 112–213, title III][/us/pl/112/213/tIII], § 307, Dec. 20, 2012, [126 Stat. 1565][/us/stat/126/1565].)
 
 <table>
 
@@ -361,7 +361,7 @@ Pub. L. 105–277, div. C, title II, § 203(b), Oct. 21, 1998, 112 Stat. 2681�
 
  __References in Text__ 
 
-    The American Fisheries Act ([Public Law 105–277, div. C, title II][/us/pl/105/277]) ([16 U.S.C. 1851][/us/usc/t16/s1851] note), referred to in subsec. (d)(2)(B)(i), probably should be a reference to the Magnuson-Stevens Fishery Conservation and Management Act (see note below). Introductory provisions and cl. (i) of subsec. (d)(2)(B) of this section were derived from former [section 12102(c)(5)(B) of this title][/us/usc/t46/s12102/c/5/B] in the general amendment of this chapter by [Pub. L. 109–304, § 5][/us/pl/109/304/s5], Oct. 6, 2006, [120 Stat. 1491][/us/stat/120/1491]. As part of that amendment, the reference to the American Fisheries Act was substituted for a reference to “such Act” which had been preceded by references to both of the above named Acts. See the Historical and Revision Notes above and [section 2 of Pub. L. 109–304][/us/pl/109/304/s2], set out as a Legislative Purpose and Construction note preceding [section 101 of this title][/us/usc/t46/s101].
+    The American Fisheries Act ([Public Law 105–277, div. C, title II][/us/pl/105/277/dC/tII]) ([16 U.S.C. 1851][/us/usc/t16/s1851] note), referred to in subsec. (d)(2)(B)(i), probably should be a reference to the Magnuson-Stevens Fishery Conservation and Management Act (see note below). Introductory provisions and cl. (i) of subsec. (d)(2)(B) of this section were derived from former [section 12102(c)(5)(B) of this title][/us/usc/t46/s12102/c/5/B] in the general amendment of this chapter by [Pub. L. 109–304][/us/pl/109/304], § 5, Oct. 6, 2006, [120 Stat. 1491][/us/stat/120/1491]. As part of that amendment, the reference to the American Fisheries Act was substituted for a reference to “such Act” which had been preceded by references to both of the above named Acts. See the Historical and Revision Notes above and [section 2 of Pub. L. 109–304][/us/pl/109/304/s2], set out as a Legislative Purpose and Construction note preceding [section 101 of this title][/us/usc/t46/s101].
 
     Section 208(e) and (g) of the American Fisheries Act, referred to in subsec. (d)(2)(B)(ii), (C)(i), (iii), is section 208(e) and (g), respectively, of title II of div. C of [Pub. L. 105–277][/us/pl/105/277], Oct. 21, 1998, [112 Stat. 2681–625][/us/stat/112/2681-625], 2681–627, which is set out in a note under [section 1851 of Title 16][/us/usc/t16/s1851], Conservation.
 
@@ -371,33 +371,33 @@ Pub. L. 105–277, div. C, title II, § 203(b), Oct. 21, 1998, 112 Stat. 2681�
 
  __Prior Provisions__ 
 
-    A prior section 12113, [Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 588][/us/stat/97/588], originally derived from section 65a of former Title 46, Shipping, related to ports of documentation, prior to being repealed by [Pub. L. 100–710, title I][/us/pl/100/710], §§ 106(b)(5), 107(a), Nov. 23, 1988, [102 Stat. 4752][/us/stat/102/4752], effective Jan. 1, 1989.
+    A prior section 12113, [Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 588][/us/stat/97/588], originally derived from section 65a of former Title 46, Shipping, related to ports of documentation, prior to being repealed by [Pub. L. 100–710, title I][/us/pl/100/710/tI], §§ 106(b)(5), 107(a), Nov. 23, 1988, [102 Stat. 4752][/us/stat/102/4752], effective Jan. 1, 1989.
 
  __Amendments__ 
 
-    2012—Subsec. (d)(2)(B). [Pub. L. 112–213, § 307(1)][/us/pl/112/213/s307/1], substituted “Secretary that—” for “Secretary that”, inserted cl. (i) designation before “the regional” and “and” after “authority;”, and added cl. (ii).
+    2012—Subsec. (d)(2)(B). [Pub. L. 112–213][/us/pl/112/213], § 307(1), substituted “Secretary that—” for “Secretary that”, inserted cl. (i) designation before “the regional” and “and” after “authority;”, and added cl. (ii).
 
-    Subsec. (d)(2)(C). [Pub. L. 112–213, § 307(2)][/us/pl/112/213/s307/2], amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “the vessel is either a rebuilt vessel or a replacement vessel under section 208(g) of the American Fisheries Act (title II of division C of [Public Law 105–277][/us/pl/105/277]; [112 Stat. 2681–627][/us/stat/112/2681-627]) and is eligible for a fishery endorsement under this section; or”.
+    Subsec. (d)(2)(C). [Pub. L. 112–213][/us/pl/112/213], § 307(2), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “the vessel is either a rebuilt vessel or a replacement vessel under section 208(g) of the American Fisheries Act (title II of division C of [Public Law 105–277][/us/pl/105/277]; [112 Stat. 2681–627][/us/stat/112/2681-627]) and is eligible for a fishery endorsement under this section; or”.
 
-    2010—Subsec. (d)(2)(A)(i). [Pub. L. 111–281, § 602(a)(1)][/us/pl/111/281/s602/a/1], inserted “and” at the end.
+    2010—Subsec. (d)(2)(A)(i). [Pub. L. 111–281][/us/pl/111/281], § 602(a)(1), inserted “and” at the end.
 
-    Subsec. (d)(2)(A)(ii). [Pub. L. 111–281, § 602(a)(2)][/us/pl/111/281/s602/a/2], struck out “and” at the end.
+    Subsec. (d)(2)(A)(ii). [Pub. L. 111–281][/us/pl/111/281], § 602(a)(2), struck out “and” at the end.
 
-    Subsec. (d)(2)(A)(iii). [Pub. L. 111–281, § 602(a)(3)][/us/pl/111/281/s602/a/3], struck out cl. (iii) which read as follows: “if the fishery endorsement is invalidated after October 21, 1998, application is made for a new fishery endorsement within 15 business days of the invalidation; or”.
+    Subsec. (d)(2)(A)(iii). [Pub. L. 111–281][/us/pl/111/281], § 602(a)(3), struck out cl. (iii) which read as follows: “if the fishery endorsement is invalidated after October 21, 1998, application is made for a new fishery endorsement within 15 business days of the invalidation; or”.
 
-    Subsec. (d)(2)(C), (D). [Pub. L. 111–281, § 602(a)(4)][/us/pl/111/281/s602/a/4], (5), added subpars. (C) and (D).
+    Subsec. (d)(2)(C), (D). [Pub. L. 111–281][/us/pl/111/281], § 602(a)(4), (5), added subpars. (C) and (D).
 
     2008—Subsec. (g). [Pub. L. 110–181][/us/pl/110/181] inserted “and” after “Conservation”.
 
  __Inapplicability of Subsection (d) to Certain Menhaden Fisheries__ 
 
-[Pub. L. 106–31, title III, § 3027(c)][/us/pl/106/31/s3027/c], May 21, 1999, [113 Stat. 102][/us/stat/113/102], provided that: 
+[Pub. L. 106–31, title III][/us/pl/106/31/tIII], § 3027(c), May 21, 1999, [113 Stat. 102][/us/stat/113/102], provided that: 
 
 > “The limitation on registered length contained in section 12102(c)(6) \[now section 12113(d)\] of title 46, United States Code, shall not apply to a vessel used solely in any menhaden fishery which is located in the Gulf of Mexico or along the Atlantic coast south of the area under the authority of the New England Fishery Management Council for so long as such vessel is used in such fishery.”
 
  __Exception to Build Requirement for Prior Vessels__ 
 
-[Pub. L. 100–239, § 4][/us/pl/100/239/s4], Jan. 11, 1988, [101 Stat. 1779][/us/stat/101/1779], as amended by [Pub. L. 101–225, title III, § 310][/us/pl/101/225/s310], Dec. 12, 1989, [103 Stat. 1926][/us/stat/103/1926], provided that:
+[Pub. L. 100–239][/us/pl/100/239], § 4, Jan. 11, 1988, [101 Stat. 1779][/us/stat/101/1779], as amended by [Pub. L. 101–225, title III][/us/pl/101/225/tIII], § 310, Dec. 12, 1989, [103 Stat. 1926][/us/stat/103/1926], provided that:
 
 >     “(a)
 
@@ -449,7 +449,7 @@ Pub. L. 105–277, div. C, title II, § 203(b), Oct. 21, 1998, 112 Stat. 2681�
 
  __Definitions__ 
 
-[Pub. L. 100–239, § 6(d)][/us/pl/100/239/s6/d], Jan. 11, 1988, [101 Stat. 1782][/us/stat/101/1782], provided that: 
+[Pub. L. 100–239][/us/pl/100/239], § 6(d), Jan. 11, 1988, [101 Stat. 1782][/us/stat/101/1782], provided that: 
 
 > “The terms in this Act \[see Tables for classification\] have the same meaning as in subtitle II \[now also sections 114 and 115\] of title 46, United States Code (as amended by this Act).”
 
@@ -465,7 +465,7 @@ Pub. L. 105–277, div. C, title II, § 203(b), Oct. 21, 1998, 112 Stat. 2681�
 [/us/usc/t46/s31322/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs31322%2Fa
 [/us/usc/t16/s1852/a/1/H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1852%2Fa%2F1%2FH
 [/us/usc/t16/s1852/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1852%2Fa%2F1
-[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277/dC/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdC%2FtII
 [/us/usc/t16/s1851]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1851
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/stat/112/2681-625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-625
@@ -479,19 +479,19 @@ Pub. L. 105–277, div. C, title II, § 203(b), Oct. 21, 1998, 112 Stat. 2681�
 [/us/stat/118/2887]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2887
 [/us/usc/t16/s1801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1801
 [/us/usc/t16/s4107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs4107
-[/us/pl/109/304/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs5
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1495
-[/us/pl/110/181/s3529/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs3529%2Fa%2F2
+[/us/pl/110/181/dC/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdC%2FtXXXV
 [/us/stat/122/603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F603
-[/us/pl/111/281/s602/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs602%2Fa
+[/us/pl/111/281/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2FtVI
 [/us/stat/124/2959]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2959
-[/us/pl/112/213/s307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F213%2Fs307
+[/us/pl/112/213/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F213%2FtIII
 [/us/stat/126/1565]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1565
 [/us/pl/105/277/s203/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs203%2Fb
-[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277/dC/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdC%2FtII
 [/us/usc/t16/s1851]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1851
 [/us/usc/t46/s12102/c/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs12102%2Fc%2F5%2FB
-[/us/pl/109/304/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs5
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1491]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1491
 [/us/pl/109/304/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs2
 [/us/usc/t46/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs101
@@ -505,24 +505,24 @@ Pub. L. 105–277, div. C, title II, § 203(b), Oct. 21, 1998, 112 Stat. 2681�
 [/us/usc/t16/s1801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1801
 [/us/pl/98/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F89
 [/us/stat/97/588]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F588
-[/us/pl/100/710]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F710
+[/us/pl/100/710/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F710%2FtI
 [/us/stat/102/4752]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4752
-[/us/pl/112/213/s307/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F213%2Fs307%2F1
-[/us/pl/112/213/s307/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F213%2Fs307%2F2
+[/us/pl/112/213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F213
+[/us/pl/112/213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F213
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/stat/112/2681-627]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-627
-[/us/pl/111/281/s602/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs602%2Fa%2F1
-[/us/pl/111/281/s602/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs602%2Fa%2F2
-[/us/pl/111/281/s602/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs602%2Fa%2F3
-[/us/pl/111/281/s602/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs602%2Fa%2F4
+[/us/pl/111/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281
+[/us/pl/111/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281
+[/us/pl/111/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281
+[/us/pl/111/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281
 [/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
-[/us/pl/106/31/s3027/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F31%2Fs3027%2Fc
+[/us/pl/106/31/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F31%2FtIII
 [/us/stat/113/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F102
-[/us/pl/100/239/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F239%2Fs4
+[/us/pl/100/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F239
 [/us/stat/101/1779]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1779
-[/us/pl/101/225/s310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F225%2Fs310
+[/us/pl/101/225/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F225%2FtIII
 [/us/stat/103/1926]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1926
-[/us/pl/100/239/s6/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F239%2Fs6%2Fd
+[/us/pl/100/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F239
 [/us/stat/101/1782]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1782
 
 

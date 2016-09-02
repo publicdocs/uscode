@@ -35,7 +35,7 @@
 
     The Secretary shall study and cooperate with vessel owners in devising means by which there may be constructed, by or with the aid of the United States Government, express-liner or super-liner vessels comparable to those of other nations, especially with a view to their use in a national emergency, and the use of transoceanic aircraft service in connection with or in lieu of those vessels.
 
-([Pub. L. 109–304, § 8(b)][/us/pl/109/304/s8/b], Oct. 6, 2006, [120 Stat. 1558][/us/stat/120/1558].)
+([Pub. L. 109–304][/us/pl/109/304], § 8(b), Oct. 6, 2006, [120 Stat. 1558][/us/stat/120/1558].)
 
 <table>
 
@@ -164,7 +164,7 @@ June 29, 1936, ch. 858, title II, § 212(b)(2), (c), 49 Stat. 1990; Pub. L. 97
 ----------
 ----------
 
-[/us/pl/109/304/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs8%2Fb
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1558
 
 

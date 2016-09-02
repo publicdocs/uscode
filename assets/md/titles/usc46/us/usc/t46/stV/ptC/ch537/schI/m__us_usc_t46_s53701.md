@@ -97,7 +97,35 @@
 
     The term “fishing vessel” has the meaning given that term in section 3 of the Magnuson-Stevens Fishery Conservation and Management Act ([16 U.S.C. 1802][/us/usc/t16/s1802]), and any reference in this chapter to a vessel designed principally for commercial use in the fishing trade or industry is deemed to be a reference to a fishing vessel.
 
-    (8)  __Mortgage__  __.—__ 
+    (8)  __Historical uses__  __.—__ 
+
+    The term “historical uses” includes—
+
+        (A) refurbishing, repairing, rebuilding, or replacing equipment on a fishing vessel, without materially increasing harvesting capacity;
+
+        (B) purchasing a used fishing vessel;
+
+        (C) purchasing, constructing, expanding, or reconditioning a fishery facility;
+
+        (D) refinancing existing debt;
+
+        (E) reducing fishing capacity; and
+
+        (F)
+
+         making upgrades to a fishing vessel, including upgrades in technology, gear, or equipment, that improve—
+
+            (i) collection and reporting of fishery-dependent data;
+
+            (ii) bycatch reduction or avoidance;
+
+            (iii) gear selectivity;
+
+            (iv) adverse impacts caused by fishing gear; or
+
+            (v) safety.
+
+    (9)  __Mortgage__  __.—__ 
 
     The term “mortgage” includes—
 
@@ -105,7 +133,7 @@
 
         (B) a mortgage on a vessel that will become a preferred mortgage when filed or recorded under chapter 313 of this title.
 
-    (9)  __Obligation__  __.—__ 
+    (10)  __Obligation__  __.—__ 
 
     The term “obligation” means an instrument of indebtedness issued for a purpose described in [section 53706 of this title][/us/usc/t46/s53706], except—
 
@@ -113,15 +141,15 @@
 
         (B) an obligation eligible for investment of funds under section 53715(f) or 53717 of this title.
 
-    (10)  __Obligee__  __.—__ 
+    (11)  __Obligee__  __.—__ 
 
     The term “obligee” means the holder of an obligation.
 
-    (11)  __Obligor__  __.—__ 
+    (12)  __Obligor__  __.—__ 
 
     The term “obligor” means a party primarily liable for payment of the principal of or interest on an obligation.
 
-    (12)  __Ocean thermal energy conversion facility or plantship__  __.—__ 
+    (13)  __Ocean thermal energy conversion facility or plantship__  __.—__ 
 
     The term “ocean thermal energy conversion facility or plantship” means an at-sea facility or vessel, whether mobile, floating unmoored, moored, or standing on the seabed, that uses temperature differences in ocean water to produce electricity or another form of energy capable of being used directly to perform work, and includes—
 
@@ -131,11 +159,11 @@
 
         (C) other associated equipment and appurtenances of the facility or vessel to the extent they are located seaward of the high water mark.
 
-    (13)  __Secretary__  __.—__ 
+    (14)  __Secretary__  __.—__ 
 
     The term “Secretary” means the Secretary of Commerce with respect to fishing vessels and fishery facilities.
 
-    (14)  __Vessel__  __.—__ 
+    (15)  __Vessel__  __.—__ 
 
     The term “vessel” means any type of vessel, whether in existence or under construction, including—
 
@@ -165,7 +193,7 @@
 
         (M) an ocean thermal energy conversion facility or plantship that is or will be documented under the laws of the United States.
 
-([Pub. L. 109–304, § 8(c)][/us/pl/109/304/s8/c], Oct. 6, 2006, [120 Stat. 1601][/us/stat/120/1601]; [Pub. L. 109–163, div. C, title XXXV, § 3507(a)(1)(A)][/us/pl/109/163/s3507/a/1/A], (b)(1), Jan. 6, 2006, [119 Stat. 3555][/us/stat/119/3555]; [Pub. L. 110–181, div. C, title XXXV, § 3522(a)(1)][/us/pl/110/181/s3522/a/1], (10)(B), (b), Jan. 28, 2008, [122 Stat. 596][/us/stat/122/596], 598.)
+([Pub. L. 109–304][/us/pl/109/304], § 8(c), Oct. 6, 2006, [120 Stat. 1601][/us/stat/120/1601]; [Pub. L. 109–163, div. C, title XXXV][/us/pl/109/163/dC/tXXXV], § 3507(a)(1)(A), (b)(1), Jan. 6, 2006, [119 Stat. 3555][/us/stat/119/3555]; [Pub. L. 110–181, div. C, title XXXV][/us/pl/110/181/dC/tXXXV], § 3522(a)(1), (10)(B), (b), Jan. 28, 2008, [122 Stat. 596][/us/stat/122/596], 598; [Pub. L. 114–120, title III][/us/pl/114/120/tIII], § 302(a)(1), Feb. 8, 2016, [130 Stat. 51][/us/stat/130/51].)
 
 <table>
 
@@ -393,13 +421,15 @@ June 29, 1936, ch. 858, title XI, § 1101, as added June 23, 1938, ch. 600, §
 
  __Amendments__ 
 
-    2008—[Pub. L. 110–181, § 3522(b)][/us/pl/110/181/s3522/b], repealed [Pub. L. 109–163, § 3507(a)(1)(A)][/us/pl/109/163/s3507/a/1/A], (b)(1). See 2006 Amendment note below.
+    2016—Pars. (8) to (15). [Pub. L. 114–120][/us/pl/114/120] added par. (8) and redesignated former pars. (8) to (14) as (9) to (15), respectively.
 
-    [Pub. L. 110–181, § 3522(a)(10)(B)][/us/pl/110/181/s3522/a/10/B], incorporated the substance of the amendment by [Pub. L. 109–163, § 3507(a)(1)(A)][/us/pl/109/163/s3507/a/1/A], into this section by inserting “or Administrator” after “Secretary” wherever appearing in pars. (1)(B), (4), and (9)(A). See 2006 Amendment note below and [section 18(a) of Pub. L. 109–304][/us/pl/109/304/s18/a], set out as a Legislative Purpose and Construction note preceding [section 101 of this title][/us/usc/t46/s101].
+    2008—[Pub. L. 110–181][/us/pl/110/181], § 3522(b), repealed [Pub. L. 109–163][/us/pl/109/163], § 3507(a)(1)(A), (b)(1). See 2006 Amendment note below.
 
-    [Pub. L. 110–181, § 3522(a)(1)][/us/pl/110/181/s3522/a/1], incorporated the substance of the amendment by [Pub. L. 109–163, § 3507(b)(1)][/us/pl/109/163/s3507/b/1], into this section by adding pars. (2) and (13), redesignating former pars. (2) to (13) as (3) to (14), respectively, and striking out former par. (13), which defined “Secretary”. See 2006 Amendment note below and [section 18(a) of Pub. L. 109–304][/us/pl/109/304/s18/a], set out as a Legislative Purpose and Construction note preceding [section 101 of this title][/us/usc/t46/s101].
+    [Pub. L. 110–181][/us/pl/110/181], § 3522(a)(10)(B), incorporated the substance of the amendment by [Pub. L. 109–163][/us/pl/109/163], § 3507(a)(1)(A), into this section by inserting “or Administrator” after “Secretary” wherever appearing in pars. (1)(B), (4), and (9)(A). See 2006 Amendment note below and [section 18(a) of Pub. L. 109–304][/us/pl/109/304/s18/a], set out as a Legislative Purpose and Construction note preceding [section 101 of this title][/us/usc/t46/s101].
 
-    2006—[Pub. L. 109–163, § 3507(a)(1)(A)][/us/pl/109/163/s3507/a/1/A], (b)(1), which directed the amendment of section 1271 of the former Appendix to this title from which this section was derived, was repealed by [Pub. L. 110–181, § 3522(b)][/us/pl/110/181/s3522/b]. See 2008 Amendment notes and Historical and Revision notes above.
+    [Pub. L. 110–181][/us/pl/110/181], § 3522(a)(1), incorporated the substance of the amendment by [Pub. L. 109–163][/us/pl/109/163], § 3507(b)(1), into this section by adding pars. (2) and (13), redesignating former pars. (2) to (13) as (3) to (14), respectively, and striking out former par. (13), which defined “Secretary”. See 2006 Amendment note below and [section 18(a) of Pub. L. 109–304][/us/pl/109/304/s18/a], set out as a Legislative Purpose and Construction note preceding [section 101 of this title][/us/usc/t46/s101].
+
+    2006—[Pub. L. 109–163][/us/pl/109/163], § 3507(a)(1)(A), (b)(1), which directed the amendment of section 1271 of the former Appendix to this title from which this section was derived, was repealed by [Pub. L. 110–181][/us/pl/110/181], § 3522(b). See 2008 Amendment notes and Historical and Revision notes above.
 
 ----------
 
@@ -416,23 +446,26 @@ June 29, 1936, ch. 858, title XI, § 1101, as added June 23, 1938, ch. 600, §
 [/us/usc/t46/s53706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs53706
 [/us/usc/t46/s53723]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs53723
 [/us/usc/t46/s50501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs50501
-[/us/pl/109/304/s8/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs8%2Fc
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1601
-[/us/pl/109/163/s3507/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs3507%2Fa%2F1%2FA
+[/us/pl/109/163/dC/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdC%2FtXXXV
 [/us/stat/119/3555]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3555
-[/us/pl/110/181/s3522/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs3522%2Fa%2F1
+[/us/pl/110/181/dC/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdC%2FtXXXV
 [/us/stat/122/596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F596
-[/us/pl/110/181/s3522/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs3522%2Fb
-[/us/pl/109/163/s3507/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs3507%2Fa%2F1%2FA
-[/us/pl/110/181/s3522/a/10/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs3522%2Fa%2F10%2FB
-[/us/pl/109/163/s3507/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs3507%2Fa%2F1%2FA
+[/us/pl/114/120/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F120%2FtIII
+[/us/stat/130/51]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F51
+[/us/pl/114/120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F120
+[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
+[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
 [/us/pl/109/304/s18/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs18%2Fa
 [/us/usc/t46/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs101
-[/us/pl/110/181/s3522/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs3522%2Fa%2F1
-[/us/pl/109/163/s3507/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs3507%2Fb%2F1
+[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
 [/us/pl/109/304/s18/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs18%2Fa
 [/us/usc/t46/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs101
-[/us/pl/109/163/s3507/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs3507%2Fa%2F1%2FA
-[/us/pl/110/181/s3522/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs3522%2Fb
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
+[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
 
 

@@ -21,7 +21,7 @@
 
     (2) other methods the Secretary has determined to be reliable.
 
-(Added [Pub. L. 104–324, title VI, § 603(a)][/us/pl/104/324/s603/a], Oct. 19, 1996, [110 Stat. 3930][/us/stat/110/3930].)
+(Added [Pub. L. 104–324, title VI][/us/pl/104/324/tVI], § 603(a), Oct. 19, 1996, [110 Stat. 3930][/us/stat/110/3930].)
 
 ----------
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/104/324/s603/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2Fs603%2Fa
+[/us/pl/104/324/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2FtVI
 [/us/stat/110/3930]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3930
 
 

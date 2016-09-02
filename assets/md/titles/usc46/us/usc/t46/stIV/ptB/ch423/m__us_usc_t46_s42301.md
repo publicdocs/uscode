@@ -43,7 +43,7 @@
 
         The term “United States oceanborne trade” means the carriage of cargo between the United States and a foreign country, whether directly or indirectly, by an ocean common carrier.
 
-([Pub. L. 109–304, § 7][/us/pl/109/304/s7], Oct. 6, 2006, [120 Stat. 1551][/us/stat/120/1551].)
+([Pub. L. 109–304][/us/pl/109/304], § 7, Oct. 6, 2006, [120 Stat. 1551][/us/stat/120/1551].)
 
 <table>
 
@@ -99,7 +99,7 @@ Pub. L. 100–418, title X, § 10002(a), Aug. 23, 1988, 102 Stat. 1570; Pub. L
 ----------
 
 [/us/usc/t46/s40102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs40102
-[/us/pl/109/304/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs7
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1551
 
 

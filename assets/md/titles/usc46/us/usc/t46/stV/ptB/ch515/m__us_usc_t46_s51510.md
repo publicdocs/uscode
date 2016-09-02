@@ -17,7 +17,7 @@
 
     The Secretary of Transportation may defer the service commitment of an individual under [section 51509(d)(5) of this title][/us/usc/t46/s51509/d/5] (as specified in the agreement under section 51509) for not more than 2 years if the individual is engaged in a graduate course of study approved by the Secretary. However, deferment of service as a commissioned officer on active duty must be approved by the Secretary of the affected military department (or the Secretary of Commerce, for service with the National Oceanic and Atmospheric Administration).
 
-([Pub. L. 109–304, § 8(b)][/us/pl/109/304/s8/b], Oct. 6, 2006, [120 Stat. 1581][/us/stat/120/1581].)
+([Pub. L. 109–304][/us/pl/109/304], § 8(b), Oct. 6, 2006, [120 Stat. 1581][/us/stat/120/1581].)
 
 <table>
 
@@ -75,7 +75,7 @@ June 29, 1936, ch. 858, title XIII, § 1304(g)(7), as added Pub. L. 96–453, 
 ----------
 
 [/us/usc/t46/s51509/d/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs51509%2Fd%2F5
-[/us/pl/109/304/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs8%2Fb
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1581
 
 

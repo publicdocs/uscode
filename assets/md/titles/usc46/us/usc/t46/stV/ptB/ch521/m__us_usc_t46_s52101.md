@@ -49,7 +49,7 @@
 
     For purposes of reemployment rights and benefits provided by this section, a certification under subsection (c) shall be considered to be the equivalent of a certificate described in section 9(a) of the Military Selective Service Act (50 App. U.S.C. 459(a)).1
 
-([Pub. L. 109–304, § 8(b)][/us/pl/109/304/s8/b], Oct. 6, 2006, [120 Stat. 1585][/us/stat/120/1585].)
+([Pub. L. 109–304][/us/pl/109/304], § 8(b), Oct. 6, 2006, [120 Stat. 1585][/us/stat/120/1585].)
 
 <table>
 
@@ -114,7 +114,7 @@ June 29, 1936, ch. 858, title III, § 302, as added Pub. L. 104–239, § 10
 ----------
 ----------
 
-[/us/pl/109/304/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs8%2Fb
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1585]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1585
 [/us/usc/t38/s4301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs4301%2Fa
 [/us/usc/t38/s4301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs4301

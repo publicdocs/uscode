@@ -47,7 +47,7 @@
 
         (2) if the Secretary or Administrator considers necessary, the waiver shall provide for the imposition of other requirements on the obligor designed to compensate for any significant increase in risk associated with the obligor’s failure to meet regulatory requirements applicable to financial condition.
 
-([Pub. L. 109–304, § 8(c)][/us/pl/109/304/s8/c], Oct. 6, 2006, [120 Stat. 1607][/us/stat/120/1607]; [Pub. L. 109–163, div. C, title XXXV, § 3507(a)(1)(D)][/us/pl/109/163/s3507/a/1/D], (b)(3)(B), (C), (c)(1), Jan. 6, 2006, [119 Stat. 3555][/us/stat/119/3555], 3556; [Pub. L. 110–181, div. C, title XXXV, § 3522(a)(3)][/us/pl/110/181/s3522/a/3], (b), Jan. 28, 2008, [122 Stat. 597][/us/stat/122/597], 598.)
+([Pub. L. 109–304][/us/pl/109/304], § 8(c), Oct. 6, 2006, [120 Stat. 1607][/us/stat/120/1607]; [Pub. L. 109–163, div. C, title XXXV][/us/pl/109/163/dC/tXXXV], § 3507(a)(1)(D), (b)(3)(B), (C), (c)(1), Jan. 6, 2006, [119 Stat. 3555][/us/stat/119/3555], 3556; [Pub. L. 110–181, div. C, title XXXV][/us/pl/110/181/dC/tXXXV], § 3522(a)(3), (b), Jan. 28, 2008, [122 Stat. 597][/us/stat/122/597], 598.)
 
 <table>
 
@@ -143,17 +143,17 @@ June 29, 1936, ch. 858, title XI, § 1104A(d)(4), as added Pub. L. 108–136, 
 
  __Amendments__ 
 
-    2008—[Pub. L. 110–181, § 3522(b)][/us/pl/110/181/s3522/b], repealed [Pub. L. 109–163, § 3507(a)(1)(D)][/us/pl/109/163/s3507/a/1/D], (b)(3)(B), (C), (c)(1). See 2006 Amendment note below.
+    2008—[Pub. L. 110–181][/us/pl/110/181], § 3522(b), repealed [Pub. L. 109–163][/us/pl/109/163], § 3507(a)(1)(D), (b)(3)(B), (C), (c)(1). See 2006 Amendment note below.
 
-    Subsec. (a). [Pub. L. 110–181, § 3522(a)(3)(A)][/us/pl/110/181/s3522/a/3/A], incorporated the substance of the amendment by [Pub. L. 109–163, § 3507(a)(1)(D)][/us/pl/109/163/s3507/a/1/D], into this section by inserting “or Administrator” after “Secretary” in two places. See 2006 Amendment note below and [section 18(a) of Pub. L. 109–304][/us/pl/109/304/s18/a], set out as a Legislative Purpose and Construction note preceding [section 101 of this title][/us/usc/t46/s101].
+    Subsec. (a). [Pub. L. 110–181][/us/pl/110/181], § 3522(a)(3)(A), incorporated the substance of the amendment by [Pub. L. 109–163][/us/pl/109/163], § 3507(a)(1)(D), into this section by inserting “or Administrator” after “Secretary” in two places. See 2006 Amendment note below and [section 18(a) of Pub. L. 109–304][/us/pl/109/304/s18/a], set out as a Legislative Purpose and Construction note preceding [section 101 of this title][/us/usc/t46/s101].
 
-    Subsec. (b). [Pub. L. 110–181, § 3522(a)(3)(B)][/us/pl/110/181/s3522/a/3/B], incorporated the substance of the amendment by [Pub. L. 109–163, § 3507(c)(1)][/us/pl/109/163/s3507/c/1], into this section by substituting “Administrator” for “Secretary of Transportation”. See 2006 Amendment note below and [section 18(a) of Pub. L. 109–304][/us/pl/109/304/s18/a], set out as a Legislative Purpose and Construction note preceding [section 101 of this title][/us/usc/t46/s101].
+    Subsec. (b). [Pub. L. 110–181][/us/pl/110/181], § 3522(a)(3)(B), incorporated the substance of the amendment by [Pub. L. 109–163][/us/pl/109/163], § 3507(c)(1), into this section by substituting “Administrator” for “Secretary of Transportation”. See 2006 Amendment note below and [section 18(a) of Pub. L. 109–304][/us/pl/109/304/s18/a], set out as a Legislative Purpose and Construction note preceding [section 101 of this title][/us/usc/t46/s101].
 
-    Subsec. (c). [Pub. L. 110–181, § 3522(a)(3)(C)][/us/pl/110/181/s3522/a/3/C], struck out “of Commerce” after “The Secretary” in introductory provisions.
+    Subsec. (c). [Pub. L. 110–181][/us/pl/110/181], § 3522(a)(3)(C), struck out “of Commerce” after “The Secretary” in introductory provisions.
 
-    Subsec. (d). [Pub. L. 110–181, § 3522(a)(3)(A)][/us/pl/110/181/s3522/a/3/A], (D), incorporated the substance of the amendment by [Pub. L. 109–163, § 3507(b)(3)(B)][/us/pl/109/163/s3507/b/3/B], (C), into this section by inserting “or Administrator” after “Secretary” in introductory provisions and in par. (2) by inserting “if the Secretary or Administrator considers necessary,” before “the waiver” and substituting “any significant increase in” for “the increased”. See 2006 Amendment note below and [section 18(a) of Pub. L. 109–304][/us/pl/109/304/s18/a], set out as a Legislative Purpose and Construction note preceding [section 101 of this title][/us/usc/t46/s101].
+    Subsec. (d). [Pub. L. 110–181][/us/pl/110/181], § 3522(a)(3)(A), (D), incorporated the substance of the amendment by [Pub. L. 109–163][/us/pl/109/163], § 3507(b)(3)(B), (C), into this section by inserting “or Administrator” after “Secretary” in introductory provisions and in par. (2) by inserting “if the Secretary or Administrator considers necessary,” before “the waiver” and substituting “any significant increase in” for “the increased”. See 2006 Amendment note below and [section 18(a) of Pub. L. 109–304][/us/pl/109/304/s18/a], set out as a Legislative Purpose and Construction note preceding [section 101 of this title][/us/usc/t46/s101].
 
-    2006—[Pub. L. 109–163, § 3507(a)(1)(D)][/us/pl/109/163/s3507/a/1/D], (b)(3)(B), (C), (c)(1), which directed the amendment of sections 1273a(a) and 1274(b)(1), (d)(4)(B) of the former Appendix to this title from which this section was derived in part, was repealed by [Pub. L. 110–181, § 3522(b)][/us/pl/110/181/s3522/b]. See 2008 Amendment notes for subsecs. (a), (b), and (d) and Historical and Revision notes above.
+    2006—[Pub. L. 109–163][/us/pl/109/163], § 3507(a)(1)(D), (b)(3)(B), (C), (c)(1), which directed the amendment of sections 1273a(a) and 1274(b)(1), (d)(4)(B) of the former Appendix to this title from which this section was derived in part, was repealed by [Pub. L. 110–181][/us/pl/110/181], § 3522(b). See 2008 Amendment notes for subsecs. (a), (b), and (d) and Historical and Revision notes above.
 
 ----------
 
@@ -166,28 +166,28 @@ June 29, 1936, ch. 858, title XI, § 1104A(d)(4), as added Pub. L. 108–136, 
 [/us/usc/t16/s1859]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1859
 [/us/usc/t16/s1375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1375
 [/us/usc/t46/s53708/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs53708%2Fa
-[/us/pl/109/304/s8/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs8%2Fc
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1607
-[/us/pl/109/163/s3507/a/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs3507%2Fa%2F1%2FD
+[/us/pl/109/163/dC/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdC%2FtXXXV
 [/us/stat/119/3555]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3555
-[/us/pl/110/181/s3522/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs3522%2Fa%2F3
+[/us/pl/110/181/dC/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdC%2FtXXXV
 [/us/stat/122/597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F597
-[/us/pl/110/181/s3522/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs3522%2Fb
-[/us/pl/109/163/s3507/a/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs3507%2Fa%2F1%2FD
-[/us/pl/110/181/s3522/a/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs3522%2Fa%2F3%2FA
-[/us/pl/109/163/s3507/a/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs3507%2Fa%2F1%2FD
+[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
+[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
 [/us/pl/109/304/s18/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs18%2Fa
 [/us/usc/t46/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs101
-[/us/pl/110/181/s3522/a/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs3522%2Fa%2F3%2FB
-[/us/pl/109/163/s3507/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs3507%2Fc%2F1
+[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
 [/us/pl/109/304/s18/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs18%2Fa
 [/us/usc/t46/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs101
-[/us/pl/110/181/s3522/a/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs3522%2Fa%2F3%2FC
-[/us/pl/110/181/s3522/a/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs3522%2Fa%2F3%2FA
-[/us/pl/109/163/s3507/b/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs3507%2Fb%2F3%2FB
+[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
+[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
 [/us/pl/109/304/s18/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs18%2Fa
 [/us/usc/t46/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs101
-[/us/pl/109/163/s3507/a/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs3507%2Fa%2F1%2FD
-[/us/pl/110/181/s3522/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs3522%2Fb
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
+[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
 
 

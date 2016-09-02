@@ -31,7 +31,7 @@
 
     (c) On conviction of a mortgagor under section 31330(a)(1)(A) or (B) of this title for violating this section, the mortgage indebtedness, at the option of the mortgagee, is payable immediately.
 
-([Pub. L. 100–710, title I, § 102(c)][/us/pl/100/710/s102/c], Nov. 23, 1988, [102 Stat. 4744][/us/stat/102/4744].)
+([Pub. L. 100–710, title I][/us/pl/100/710/tI], § 102(c), Nov. 23, 1988, [102 Stat. 4744][/us/stat/102/4744].)
 
 <table>
 
@@ -107,7 +107,7 @@ Source section (U.S. Code)  </td>
 ----------
 
 [/us/usc/t46/s31341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs31341
-[/us/pl/100/710/s102/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F710%2Fs102%2Fc
+[/us/pl/100/710/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F710%2FtI
 [/us/stat/102/4744]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4744
 
 

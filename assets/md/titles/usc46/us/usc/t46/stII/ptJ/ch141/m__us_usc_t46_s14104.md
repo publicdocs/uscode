@@ -21,7 +21,7 @@
 
     (c) The head of each Federal agency shall ensure that regulations issued by the agency that specify particular tonnages comply with the alternate tonnages implemented by the Secretary.
 
-([Pub. L. 99–509, title V, § 5101(3)][/us/pl/99/509/s5101/3], Oct. 21, 1986, [100 Stat. 1920][/us/stat/100/1920]; [Pub. L. 104–324, title VII, § 702][/us/pl/104/324/s702], Oct. 19, 1996, [110 Stat. 3933][/us/stat/110/3933].)
+([Pub. L. 99–509, title V][/us/pl/99/509/tV], § 5101(3), Oct. 21, 1986, [100 Stat. 1920][/us/stat/100/1920]; [Pub. L. 104–324, title VII][/us/pl/104/324/tVII], § 702, Oct. 19, 1996, [110 Stat. 3933][/us/stat/110/3933].)
 
  __Historical and Revision Notes__ 
 
@@ -43,9 +43,9 @@
 ----------
 
 [/us/usc/t5/s553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs553
-[/us/pl/99/509/s5101/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2Fs5101%2F3
+[/us/pl/99/509/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2FtV
 [/us/stat/100/1920]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1920
-[/us/pl/104/324/s702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2Fs702
+[/us/pl/104/324/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2FtVII
 [/us/stat/110/3933]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3933
 [/us/pl/104/324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324
 

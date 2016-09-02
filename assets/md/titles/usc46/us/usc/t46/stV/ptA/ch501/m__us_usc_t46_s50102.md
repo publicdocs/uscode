@@ -31,7 +31,7 @@
 
     In carrying out subsection (a)(1), the Secretary of Transportation shall cooperate closely with the Secretary of the Navy as to national defense requirements.
 
-([Pub. L. 109–304, § 8(b)][/us/pl/109/304/s8/b], Oct. 6, 2006, [120 Stat. 1557][/us/stat/120/1557].)
+([Pub. L. 109–304][/us/pl/109/304], § 8(b), Oct. 6, 2006, [120 Stat. 1557][/us/stat/120/1557].)
 
 <table>
 
@@ -87,7 +87,7 @@ June 29, 1936, ch. 858, title II, § 210, 49 Stat. 1989; Pub. L. 91–469, §�
 ----------
 
 [/us/usc/t46/s50101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs50101
-[/us/pl/109/304/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs8%2Fb
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1557
 
 

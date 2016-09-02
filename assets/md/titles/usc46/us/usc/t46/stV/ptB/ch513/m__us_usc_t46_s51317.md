@@ -37,7 +37,7 @@
 
     When the authority granted by subsection (a) is used to hire an adjunct professor at the Academy in fiscal year 2010 or fiscal year 2011, the Administrator shall notify the Committee on Armed Services of the House of Representatives, the Committee on Armed Services of the Senate, and the Committee on Commerce, Science, and Transportation of the Senate, including the need for and the term of employment for the adjunct professor.
 
-(Added [Pub. L. 111–84, div. C, title XXXV, § 3503(a)][/us/pl/111/84/s3503/a], Oct. 28, 2009, [123 Stat. 2719][/us/stat/123/2719].)
+(Added [Pub. L. 111–84, div. C, title XXXV][/us/pl/111/84/dC/tXXXV], § 3503(a), Oct. 28, 2009, [123 Stat. 2719][/us/stat/123/2719].)
 
 ----------
 
@@ -46,7 +46,7 @@
 ----------
 ----------
 
-[/us/pl/111/84/s3503/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs3503%2Fa
+[/us/pl/111/84/dC/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdC%2FtXXXV
 [/us/stat/123/2719]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2719
 
 

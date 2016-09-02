@@ -29,7 +29,7 @@
 
     On petition and a showing of good cause by the owner of a vessel, the Secretary may terminate the designation of a vessel as an American Great Lakes vessel. The Secretary may impose conditions in a termination order to prevent significant adverse effects on other operators of vessels of the United States.
 
-([Pub. L. 109–304, § 8(c)][/us/pl/109/304/s8/c], Oct. 6, 2006, [120 Stat. 1650][/us/stat/120/1650].)
+([Pub. L. 109–304][/us/pl/109/304], § 8(c), Oct. 6, 2006, [120 Stat. 1650][/us/stat/120/1650].)
 
 <table>
 
@@ -89,7 +89,7 @@ Pub. L. 101–624, title XV, § 1524(a), (c), Nov. 28, 1990, 104 Stat. 3667.  
 ----------
 
 [/us/usc/t46/s55332/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs55332%2Fb
-[/us/pl/109/304/s8/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs8%2Fc
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1650]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1650
 
 

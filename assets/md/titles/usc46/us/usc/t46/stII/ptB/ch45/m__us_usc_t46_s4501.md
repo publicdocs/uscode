@@ -19,7 +19,7 @@
 
     (b) This chapter does not apply to the carriage of bulk dangerous cargoes regulated under chapter 37 of this title.
 
-(Added [Pub. L. 98–364, title IV, § 402(7)(C)][/us/pl/98/364/s402/7/C], July 17, 1984, [98 Stat. 446][/us/stat/98/446]; amended [Pub. L. 100–424, § 2(a)][/us/pl/100/424/s2/a], Sept. 9, 1988, [102 Stat. 1585][/us/stat/102/1585].)
+(Added [Pub. L. 98–364, title IV][/us/pl/98/364/tIV], § 402(7)(C), July 17, 1984, [98 Stat. 446][/us/stat/98/446]; amended [Pub. L. 100–424][/us/pl/100/424], § 2(a), Sept. 9, 1988, [102 Stat. 1585][/us/stat/102/1585].)
 
  __Amendments__ 
 
@@ -27,7 +27,7 @@
 
  __Foreign Built Vessels, Equivalent Compliance Until__  __July 28, 1990__ 
 
-[Pub. L. 100–424, § 7][/us/pl/100/424/s7], Sept. 9, 1988, [102 Stat. 1592][/us/stat/102/1592], provided that: 
+[Pub. L. 100–424][/us/pl/100/424], § 7, Sept. 9, 1988, [102 Stat. 1592][/us/stat/102/1592], provided that: 
 
 > “Until July 28, 1990, a foreign built fish processing vessel subject to chapter 45 of title 46, United States Code, is deemed to comply with the requirements of that chapter if—
 
@@ -42,12 +42,12 @@
 ----------
 ----------
 
-[/us/pl/98/364/s402/7/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F364%2Fs402%2F7%2FC
+[/us/pl/98/364/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F364%2FtIV
 [/us/stat/98/446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F446
-[/us/pl/100/424/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F424%2Fs2%2Fa
+[/us/pl/100/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F424
 [/us/stat/102/1585]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1585
 [/us/pl/100/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F424
-[/us/pl/100/424/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F424%2Fs7
+[/us/pl/100/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F424
 [/us/stat/102/1592]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1592
 
 

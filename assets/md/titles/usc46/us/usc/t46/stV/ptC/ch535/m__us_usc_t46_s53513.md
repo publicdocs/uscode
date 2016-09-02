@@ -21,7 +21,7 @@
 
     (2) a similar rule shall be applied to a continuation of a partnership (within the meaning of subchapter K of chapter 1 of such Code ([26 U.S.C. 701][/us/usc/t26/s701] et seq.)).
 
-([Pub. L. 109–304, § 8(c)][/us/pl/109/304/s8/c], Oct. 6, 2006, [120 Stat. 1599][/us/stat/120/1599].)
+([Pub. L. 109–304][/us/pl/109/304], § 8(c), Oct. 6, 2006, [120 Stat. 1599][/us/stat/120/1599].)
 
 <table>
 
@@ -78,7 +78,7 @@ June 29, 1936, ch. 858, title VI, § 607(i), 49 Stat. 2005; June 23, 1938, ch.
 
 [/us/usc/t26/s381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs381
 [/us/usc/t26/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs701
-[/us/pl/109/304/s8/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs8%2Fc
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1599]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1599
 
 

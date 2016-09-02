@@ -21,7 +21,7 @@
 
     (2) ascertain what steps may be necessary to develop an ample marine insurance system as an aid in the development of the merchant marine of the United States.
 
-([Pub. L. 109–304, § 8(b)][/us/pl/109/304/s8/b], Oct. 6, 2006, [120 Stat. 1559][/us/stat/120/1559].)
+([Pub. L. 109–304][/us/pl/109/304], § 8(b), Oct. 6, 2006, [120 Stat. 1559][/us/stat/120/1559].)
 
 <table>
 
@@ -76,7 +76,7 @@ Sept. 7, 1916, ch. 451, § 12 (2d sentence words after 2d comma), 39 Stat. 732
 ----------
 ----------
 
-[/us/pl/109/304/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs8%2Fb
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1559
 
 

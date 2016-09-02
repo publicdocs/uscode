@@ -19,11 +19,11 @@
 
     (b) A master or other individual in charge of a documented vessel who knowingly fails to report in compliance with this section is liable to the United States Government for a civil penalty of not more than $5,000.
 
-(Added [Pub. L. 101–225, title II, § 214(a)(2)][/us/pl/101/225/s214/a/2], Dec. 12, 1989, [103 Stat. 1914][/us/stat/103/1914].)
+(Added [Pub. L. 101–225, title II][/us/pl/101/225/tII], § 214(a)(2), Dec. 12, 1989, [103 Stat. 1914][/us/stat/103/1914].)
 
  __Prior Provisions__ 
 
-    A prior section 10104, [Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 561][/us/stat/97/561], related to regulations, prior to repeal by [Pub. L. 101–225, § 214(a)(1)][/us/pl/101/225/s214/a/1].
+    A prior section 10104, [Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 561][/us/stat/97/561], related to regulations, prior to repeal by [Pub. L. 101–225][/us/pl/101/225], § 214(a)(1).
 
 ----------
 
@@ -32,10 +32,10 @@
 ----------
 ----------
 
-[/us/pl/101/225/s214/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F225%2Fs214%2Fa%2F2
+[/us/pl/101/225/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F225%2FtII
 [/us/stat/103/1914]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1914
 [/us/pl/98/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F89
 [/us/stat/97/561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F561
-[/us/pl/101/225/s214/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F225%2Fs214%2Fa%2F1
+[/us/pl/101/225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F225
 
 

@@ -67,7 +67,7 @@
 
     Notwithstanding any other provision of this chapter, the Secretary or Administrator may make a determination that an application under this title requires additional equity because of increased risk factors associated with markets, technology, or financial structures.
 
-([Pub. L. 109–304, § 8(c)][/us/pl/109/304/s8/c], Oct. 6, 2006, [120 Stat. 1608][/us/stat/120/1608]; [Pub. L. 109–163, div. C, title XXXV, § 3507(a)(1)(D)][/us/pl/109/163/s3507/a/1/D], (2)(D), (b)(3)(A), (4), Jan. 6, 2006, [119 Stat. 3555][/us/stat/119/3555], 3556; [Pub. L. 110–181, div. C, title XXXV, § 3522(a)(4)][/us/pl/110/181/s3522/a/4], (b), Jan. 28, 2008, [122 Stat. 597][/us/stat/122/597], 598.)
+([Pub. L. 109–304][/us/pl/109/304], § 8(c), Oct. 6, 2006, [120 Stat. 1608][/us/stat/120/1608]; [Pub. L. 109–163, div. C, title XXXV][/us/pl/109/163/dC/tXXXV], § 3507(a)(1)(D), (2)(D), (b)(3)(A), (4), Jan. 6, 2006, [119 Stat. 3555][/us/stat/119/3555], 3556; [Pub. L. 110–181, div. C, title XXXV][/us/pl/110/181/dC/tXXXV], § 3522(a)(4), (b), Jan. 28, 2008, [122 Stat. 597][/us/stat/122/597], 598.)
 
 <table>
 
@@ -175,19 +175,19 @@ June 29, 1936, ch. 858, title XI, § 1104A(f)(2), (3), as added Pub. L. 108–
 
  __Amendments__ 
 
-    2008—[Pub. L. 110–181, § 3522(b)][/us/pl/110/181/s3522/b], repealed [Pub. L. 109–163, § 3507(a)(1)(D)][/us/pl/109/163/s3507/a/1/D], (2)(D), (b)(3)(A), (4). See 2006 Amendment note below.
+    2008—[Pub. L. 110–181][/us/pl/110/181], § 3522(b), repealed [Pub. L. 109–163][/us/pl/109/163], § 3507(a)(1)(D), (2)(D), (b)(3)(A), (4). See 2006 Amendment note below.
 
-    Subsec. (a). [Pub. L. 110–181, § 3522(a)(4)(A)][/us/pl/110/181/s3522/a/4/A], (B), incorporated the substance of the amendment by [Pub. L. 109–163, § 3507(a)(2)(D)][/us/pl/109/163/s3507/a/2/D], (b)(3)(A), into this section by substituting in the heading, “Administrator” for “Secretary of Transportation” and, in introductory provisions, “Administrator may” for “Secretary of Transportation may”, “Administrator finds” for “Secretary finds”, and “Administrator shall” for “Secretary shall”. See 2006 Amendment note below and [section 18(a) of Pub. L. 109–304][/us/pl/109/304/s18/a], set out as a Legislative Purpose and Construction note preceding [section 101 of this title][/us/usc/t46/s101].
+    Subsec. (a). [Pub. L. 110–181][/us/pl/110/181], § 3522(a)(4)(A), (B), incorporated the substance of the amendment by [Pub. L. 109–163][/us/pl/109/163], § 3507(a)(2)(D), (b)(3)(A), into this section by substituting in the heading, “Administrator” for “Secretary of Transportation” and, in introductory provisions, “Administrator may” for “Secretary of Transportation may”, “Administrator finds” for “Secretary finds”, and “Administrator shall” for “Secretary shall”. See 2006 Amendment note below and [section 18(a) of Pub. L. 109–304][/us/pl/109/304/s18/a], set out as a Legislative Purpose and Construction note preceding [section 101 of this title][/us/usc/t46/s101].
 
-    Subsec. (b). [Pub. L. 110–181, § 3522(a)(4)(C)][/us/pl/110/181/s3522/a/4/C], (D), struck out “of Commerce” after “Secretary” in heading and the first time appearing in introductory provisions.
+    Subsec. (b). [Pub. L. 110–181][/us/pl/110/181], § 3522(a)(4)(C), (D), struck out “of Commerce” after “Secretary” in heading and the first time appearing in introductory provisions.
 
-    Subsec. (c). [Pub. L. 110–181, § 3522(a)(4)(D)][/us/pl/110/181/s3522/a/4/D], struck out “of Commerce” after “Secretary”.
+    Subsec. (c). [Pub. L. 110–181][/us/pl/110/181], § 3522(a)(4)(D), struck out “of Commerce” after “Secretary”.
 
-    Subsec. (d). [Pub. L. 110–181, § 3522(a)(4)(E)][/us/pl/110/181/s3522/a/4/E], incorporated the substance of the amendment by [Pub. L. 109–163, § 3507(a)(1)(D)][/us/pl/109/163/s3507/a/1/D], (b)(4)(A), (C), into this section by inserting “or Administrator” after “The Secretary” and substituting “or financial structures. A third party independent analysis conducted under this subsection shall be performed by a private sector expert in assessing such risk factors who is selected by the Secretary or Administrator.” for “financial structures, or other risk factors identified by the Secretary. Any independent analysis conducted under this subsection shall be performed by a party chosen by the Secretary.” See 2006 Amendment note below and [section 18(a) of Pub. L. 109–304][/us/pl/109/304/s18/a], set out as a Legislative Purpose and Construction note preceding [section 101 of this title][/us/usc/t46/s101].
+    Subsec. (d). [Pub. L. 110–181][/us/pl/110/181], § 3522(a)(4)(E), incorporated the substance of the amendment by [Pub. L. 109–163][/us/pl/109/163], § 3507(a)(1)(D), (b)(4)(A), (C), into this section by inserting “or Administrator” after “The Secretary” and substituting “or financial structures. A third party independent analysis conducted under this subsection shall be performed by a private sector expert in assessing such risk factors who is selected by the Secretary or Administrator.” for “financial structures, or other risk factors identified by the Secretary. Any independent analysis conducted under this subsection shall be performed by a party chosen by the Secretary.” See 2006 Amendment note below and [section 18(a) of Pub. L. 109–304][/us/pl/109/304/s18/a], set out as a Legislative Purpose and Construction note preceding [section 101 of this title][/us/usc/t46/s101].
 
-    Subsec. (e). [Pub. L. 110–181, § 3522(a)(4)(F)][/us/pl/110/181/s3522/a/4/F], incorporated the substance of the amendment by [Pub. L. 109–163, § 3507(a)(1)(D)][/us/pl/109/163/s3507/a/1/D], (b)(4)(B), into this section by inserting “or Administrator” after “chapter, the Secretary” and substituting “or financial structures” for “financial structures, or other risk factors identified by the Secretary”. See 2006 Amendment note below and [section 18(a) of Pub. L. 109–304][/us/pl/109/304/s18/a], set out as a Legislative Purpose and Construction note preceding [section 101 of this title][/us/usc/t46/s101].
+    Subsec. (e). [Pub. L. 110–181][/us/pl/110/181], § 3522(a)(4)(F), incorporated the substance of the amendment by [Pub. L. 109–163][/us/pl/109/163], § 3507(a)(1)(D), (b)(4)(B), into this section by inserting “or Administrator” after “chapter, the Secretary” and substituting “or financial structures” for “financial structures, or other risk factors identified by the Secretary”. See 2006 Amendment note below and [section 18(a) of Pub. L. 109–304][/us/pl/109/304/s18/a], set out as a Legislative Purpose and Construction note preceding [section 101 of this title][/us/usc/t46/s101].
 
-    2006—[Pub. L. 109–163, § 3507(a)(1)(D)][/us/pl/109/163/s3507/a/1/D], (2)(D), (b)(3)(A), (4), which directed the amendment of section 1274(d)(1)(A), (f)(2), (3) of the former Appendix to this title from which this section was derived in part, was repealed by [Pub. L. 110–181, § 3522(b)][/us/pl/110/181/s3522/b]. See 2008 Amendment notes for subsecs. (a), (d), and (e) and Historical and Revision notes above.
+    2006—[Pub. L. 109–163][/us/pl/109/163], § 3507(a)(1)(D), (2)(D), (b)(3)(A), (4), which directed the amendment of section 1274(d)(1)(A), (f)(2), (3) of the former Appendix to this title from which this section was derived in part, was repealed by [Pub. L. 110–181][/us/pl/110/181], § 3522(b). See 2008 Amendment notes for subsecs. (a), (d), and (e) and Historical and Revision notes above.
 
 ----------
 
@@ -197,29 +197,29 @@ June 29, 1936, ch. 858, title XI, § 1104A(f)(2), (3), as added Pub. L. 108–
 ----------
 
 [/us/usc/t46/s53701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs53701
-[/us/pl/109/304/s8/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs8%2Fc
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1608
-[/us/pl/109/163/s3507/a/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs3507%2Fa%2F1%2FD
+[/us/pl/109/163/dC/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdC%2FtXXXV
 [/us/stat/119/3555]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3555
-[/us/pl/110/181/s3522/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs3522%2Fa%2F4
+[/us/pl/110/181/dC/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdC%2FtXXXV
 [/us/stat/122/597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F597
-[/us/pl/110/181/s3522/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs3522%2Fb
-[/us/pl/109/163/s3507/a/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs3507%2Fa%2F1%2FD
-[/us/pl/110/181/s3522/a/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs3522%2Fa%2F4%2FA
-[/us/pl/109/163/s3507/a/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs3507%2Fa%2F2%2FD
+[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
+[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
 [/us/pl/109/304/s18/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs18%2Fa
 [/us/usc/t46/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs101
-[/us/pl/110/181/s3522/a/4/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs3522%2Fa%2F4%2FC
-[/us/pl/110/181/s3522/a/4/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs3522%2Fa%2F4%2FD
-[/us/pl/110/181/s3522/a/4/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs3522%2Fa%2F4%2FE
-[/us/pl/109/163/s3507/a/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs3507%2Fa%2F1%2FD
+[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
+[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
+[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
 [/us/pl/109/304/s18/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs18%2Fa
 [/us/usc/t46/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs101
-[/us/pl/110/181/s3522/a/4/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs3522%2Fa%2F4%2FF
-[/us/pl/109/163/s3507/a/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs3507%2Fa%2F1%2FD
+[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
 [/us/pl/109/304/s18/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs18%2Fa
 [/us/usc/t46/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs101
-[/us/pl/109/163/s3507/a/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs3507%2Fa%2F1%2FD
-[/us/pl/110/181/s3522/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs3522%2Fb
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
+[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
 
 

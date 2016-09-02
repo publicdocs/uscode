@@ -77,19 +77,19 @@
 
         (3) certify organizations that offer the curriculum for training and certification.
 
-(Added [Pub. L. 111–281, title VIII, § 828(a)][/us/pl/111/281/s828/a], Oct. 15, 2010, [124 Stat. 3005][/us/stat/124/3005]; amended [Pub. L. 111–330, § 1(16)][/us/pl/111/330/s1/16], Dec. 22, 2010, [124 Stat. 3570][/us/stat/124/3570].)
+(Added [Pub. L. 111–281, title VIII][/us/pl/111/281/tVIII], § 828(a), Oct. 15, 2010, [124 Stat. 3005][/us/stat/124/3005]; amended [Pub. L. 111–330][/us/pl/111/330], § 1(16), Dec. 22, 2010, [124 Stat. 3570][/us/stat/124/3570].)
 
  __References in Text__ 
 
-    Section 109 of the Maritime Transportation Security Act of 2002, referred to in subsec. (c), is [section 109 of title I of Pub. L. 107–295][/us/pl/107/295/s109], which is set out as a note under [section 70101 of this title][/us/usc/t46/s70101].
+    Section 109 of the Maritime Transportation Security Act of 2002, referred to in subsec. (c), is [section 109 of title I of Pub. L. 107–295][/us/pl/107/295/tI/s109], which is set out as a note under [section 70101 of this title][/us/usc/t46/s70101].
 
  __Amendments__ 
 
-    2010—[Pub. L. 111–330][/us/pl/111/330] amended [Pub. L. 111–281, § 828(a)][/us/pl/111/281/s828/a], which enacted this section.
+    2010—[Pub. L. 111–330][/us/pl/111/330] amended [Pub. L. 111–281][/us/pl/111/281], § 828(a), which enacted this section.
 
  __Effective Date of 2010 Amendment__ 
 
-    [Pub. L. 111–330, § 1][/us/pl/111/330/s1], Dec. 22, 2010, [124 Stat. 3569][/us/stat/124/3569], provided that the amendment made by section 1(16) is effective with the enactment of [Pub. L. 111–281][/us/pl/111/281].
+    [Pub. L. 111–330][/us/pl/111/330], § 1, Dec. 22, 2010, [124 Stat. 3569][/us/stat/124/3569], provided that the amendment made by section 1(16) is effective with the enactment of [Pub. L. 111–281][/us/pl/111/281].
 
 ----------
 
@@ -100,15 +100,15 @@
 
 [/us/usc/t46/s70107/b/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs70107%2Fb%2F8
 [/us/usc/t46/s70101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs70101
-[/us/pl/111/281/s828/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs828%2Fa
+[/us/pl/111/281/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2FtVIII
 [/us/stat/124/3005]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3005
-[/us/pl/111/330/s1/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F330%2Fs1%2F16
+[/us/pl/111/330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F330
 [/us/stat/124/3570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3570
-[/us/pl/107/295/s109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295%2Fs109
+[/us/pl/107/295/tI/s109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295%2FtI%2Fs109
 [/us/usc/t46/s70101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs70101
 [/us/pl/111/330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F330
-[/us/pl/111/281/s828/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs828%2Fa
-[/us/pl/111/330/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F330%2Fs1
+[/us/pl/111/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281
+[/us/pl/111/330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F330
 [/us/stat/124/3569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3569
 [/us/pl/111/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281
 

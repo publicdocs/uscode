@@ -39,7 +39,7 @@
 
     Subsection (a) does not apply to a vessel entering other than by sea from a foreign port or place at which tonnage, lighthouse, or other equivalent taxes are not imposed on vessels of the United States.
 
-([Pub. L. 109–304, § 9(b)][/us/pl/109/304/s9/b], Oct. 6, 2006, [120 Stat. 1677][/us/stat/120/1677]; [Pub. L. 109–171, title IV, § 4001][/us/pl/109/171/s4001], Feb. 8, 2006, [120 Stat. 27][/us/stat/120/27]; [Pub. L. 110–181, div. C, title XXXV, § 3524][/us/pl/110/181/s3524], Jan. 28, 2008, [122 Stat. 600][/us/stat/122/600].)
+([Pub. L. 109–304][/us/pl/109/304], § 9(b), Oct. 6, 2006, [120 Stat. 1677][/us/stat/120/1677]; [Pub. L. 109–171, title IV][/us/pl/109/171/tIV], § 4001, Feb. 8, 2006, [120 Stat. 27][/us/stat/120/27]; [Pub. L. 110–181, div. C, title XXXV][/us/pl/110/181/dC/tXXXV], § 3524, Jan. 28, 2008, [122 Stat. 600][/us/stat/122/600].)
 
 <table>
 
@@ -125,11 +125,11 @@ Mar. 8, 1910, ch. 86, 36 Stat. 234; Pub. L. 101–508, title X, § 10402(b), N
 
  __Amendments__ 
 
-    2008—[Pub. L. 110–181, § 3524(b)][/us/pl/110/181/s3524/b], repealed [Pub. L. 109–171, § 4001][/us/pl/109/171/s4001]. See 2006 Amendment note below.
+    2008—[Pub. L. 110–181][/us/pl/110/181], § 3524(b), repealed [Pub. L. 109–171][/us/pl/109/171], § 4001. See 2006 Amendment note below.
 
-    Subsecs. (a), (b). [Pub. L. 110–181, § 3524(a)(1)][/us/pl/110/181/s3524/a/1], incorporated the substance of the amendment by [Pub. L. 109–171, § 4001][/us/pl/109/171/s4001], into this section by substituting “4.5 cents per ton, not to exceed a total of 22.5 cents per ton per year, for fiscal years 2006 through 2010, and 2 cents per ton, not to exceed a total of 10 cents per ton per year, for each fiscal year thereafter,” for “2 cents per ton (but not more than a total of 10 cents per ton per year)” in subsec. (a) and “13.5 cents per ton, not to exceed a total of 67.5 cents per ton per year, for fiscal years 2006 through 2010, and 6 cents per ton, not to exceed a total of 30 cents per ton per year, for each fiscal year thereafter,” for “6 cents per ton (but not more than a total of 30 cents per ton per year)” in subsec. (b). See 2006 Amendment note below and [section 18(a) of Pub. L. 109–304][/us/pl/109/304/s18/a], set out as a Legislative Purpose and Construction note preceding [section 101 of this title][/us/usc/t46/s101].
+    Subsecs. (a), (b). [Pub. L. 110–181][/us/pl/110/181], § 3524(a)(1), incorporated the substance of the amendment by [Pub. L. 109–171][/us/pl/109/171], § 4001, into this section by substituting “4.5 cents per ton, not to exceed a total of 22.5 cents per ton per year, for fiscal years 2006 through 2010, and 2 cents per ton, not to exceed a total of 10 cents per ton per year, for each fiscal year thereafter,” for “2 cents per ton (but not more than a total of 10 cents per ton per year)” in subsec. (a) and “13.5 cents per ton, not to exceed a total of 67.5 cents per ton per year, for fiscal years 2006 through 2010, and 6 cents per ton, not to exceed a total of 30 cents per ton per year, for each fiscal year thereafter,” for “6 cents per ton (but not more than a total of 30 cents per ton per year)” in subsec. (b). See 2006 Amendment note below and [section 18(a) of Pub. L. 109–304][/us/pl/109/304/s18/a], set out as a Legislative Purpose and Construction note preceding [section 101 of this title][/us/usc/t46/s101].
 
-    2006—[Pub. L. 109–171, § 4001][/us/pl/109/171/s4001], which directed the amendment of sections 121 and 132 of the former Appendix to this title from which this section was derived, was repealed by [Pub. L. 110–181, § 3524(b)][/us/pl/110/181/s3524/b]. See 2008 Amendment note for subsecs. (a), (b) and Historical and Revision notes above.
+    2006—[Pub. L. 109–171][/us/pl/109/171], § 4001, which directed the amendment of sections 121 and 132 of the former Appendix to this title from which this section was derived, was repealed by [Pub. L. 110–181][/us/pl/110/181], § 3524(b). See 2008 Amendment note for subsecs. (a), (b) and Historical and Revision notes above.
 
 ----------
 
@@ -139,19 +139,19 @@ Mar. 8, 1910, ch. 86, 36 Stat. 234; Pub. L. 101–508, title X, § 10402(b), N
 ----------
 
 [/us/usc/t46/s2101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs2101
-[/us/pl/109/304/s9/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs9%2Fb
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1677]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1677
-[/us/pl/109/171/s4001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2Fs4001
+[/us/pl/109/171/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2FtIV
 [/us/stat/120/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F27
-[/us/pl/110/181/s3524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs3524
+[/us/pl/110/181/dC/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdC%2FtXXXV
 [/us/stat/122/600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F600
-[/us/pl/110/181/s3524/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs3524%2Fb
-[/us/pl/109/171/s4001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2Fs4001
-[/us/pl/110/181/s3524/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs3524%2Fa%2F1
-[/us/pl/109/171/s4001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2Fs4001
+[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
+[/us/pl/109/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171
+[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
+[/us/pl/109/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171
 [/us/pl/109/304/s18/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs18%2Fa
 [/us/usc/t46/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs101
-[/us/pl/109/171/s4001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2Fs4001
-[/us/pl/110/181/s3524/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs3524%2Fb
+[/us/pl/109/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171
+[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
 
 

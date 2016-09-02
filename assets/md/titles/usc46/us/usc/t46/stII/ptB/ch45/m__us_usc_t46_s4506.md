@@ -15,17 +15,17 @@
 
 ## § 4506. Exemptions
 
-    (a)
+    The Secretary may exempt a vessel from any part of this chapter if, under regulations prescribed by the Secretary (including regulations on special operating conditions), the Secretary finds that—
 
-  <sup>\[1\]</sup>  <sup><sup> 1 So in original. There is no subsec. (b). </sup></sup>  The Secretary may exempt a vessel from any part of this chapter if, under regulations prescribed by the Secretary (including regulations on special operating conditions), the Secretary finds that—
+    (1) good cause exists for granting an exemption; and
 
-        (1) good cause exists for granting an exemption; and
+    (2) the safety of the vessel and those on board will not be adversely affected.
 
-        (2) the safety of the vessel and those on board will not be adversely affected.
-
-(Added [Pub. L. 100–424, § 2(a)][/us/pl/100/424/s2/a], Sept. 9, 1988, [102 Stat. 1587][/us/stat/102/1587]; amended [Pub. L. 102–587, title V, § 5222][/us/pl/102/587/s5222], Nov. 4, 1992, [106 Stat. 5081][/us/stat/106/5081]; [Pub. L. 105–383, title III, § 301(b)(6)][/us/pl/105/383/s301/b/6], Nov. 13, 1998, [112 Stat. 3417][/us/stat/112/3417]; [Pub. L. 111–281, title VI, § 604(b)][/us/pl/111/281/s604/b], Oct. 15, 2010, [124 Stat. 2964][/us/stat/124/2964].)
+(Added [Pub. L. 100–424][/us/pl/100/424], § 2(a), Sept. 9, 1988, [102 Stat. 1587][/us/stat/102/1587]; amended [Pub. L. 102–587, title V][/us/pl/102/587/tV], § 5222, Nov. 4, 1992, [106 Stat. 5081][/us/stat/106/5081]; [Pub. L. 105–383, title III][/us/pl/105/383/tIII], § 301(b)(6), Nov. 13, 1998, [112 Stat. 3417][/us/stat/112/3417]; [Pub. L. 111–281, title VI][/us/pl/111/281/tVI], § 604(b), Oct. 15, 2010, [124 Stat. 2964][/us/stat/124/2964]; [Pub. L. 114–120, title III][/us/pl/114/120/tIII], § 306(a)(5), Feb. 8, 2016, [130 Stat. 54][/us/stat/130/54].)
 
  __Amendments__ 
+
+    2016—[Pub. L. 114–120][/us/pl/114/120] struck out subsec. (a) designation before “The Secretary may”.
 
     2010—Subsec. (b). [Pub. L. 111–281][/us/pl/111/281] struck out subsec. (b) which read as follows: “A vessel to which this chapter applies is exempt from [section 4502(b)(2)(B) of this title][/us/usc/t46/s4502/b/2/B] if it—
 
@@ -52,14 +52,17 @@
 ----------
 ----------
 
-[/us/pl/100/424/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F424%2Fs2%2Fa
+[/us/pl/100/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F424
 [/us/stat/102/1587]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1587
-[/us/pl/102/587/s5222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F587%2Fs5222
+[/us/pl/102/587/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F587%2FtV
 [/us/stat/106/5081]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F5081
-[/us/pl/105/383/s301/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F383%2Fs301%2Fb%2F6
+[/us/pl/105/383/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F383%2FtIII
 [/us/stat/112/3417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3417
-[/us/pl/111/281/s604/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs604%2Fb
+[/us/pl/111/281/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2FtVI
 [/us/stat/124/2964]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2964
+[/us/pl/114/120/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F120%2FtIII
+[/us/stat/130/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F54
+[/us/pl/114/120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F120
 [/us/pl/111/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281
 [/us/usc/t46/s4502/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs4502%2Fb%2F2%2FB
 [/us/pl/105/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F383

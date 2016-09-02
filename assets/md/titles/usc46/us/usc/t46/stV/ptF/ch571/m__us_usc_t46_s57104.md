@@ -31,7 +31,7 @@
 
     A vessel sold from the Fleet under this section may be scrapped in an approved foreign market without obtaining additional separate approval from the Secretary to transfer the vessel to a person not a citizen of the United States.
 
-([Pub. L. 109–304, § 8(c)][/us/pl/109/304/s8/c], Oct. 6, 2006, [120 Stat. 1660][/us/stat/120/1660].)
+([Pub. L. 109–304][/us/pl/109/304], § 8(c), Oct. 6, 2006, [120 Stat. 1660][/us/stat/120/1660].)
 
 <table>
 
@@ -90,7 +90,7 @@ June 29, 1936, ch. 858, title V, § 510(i), as added Pub. L. 86–575, July 5,
 ----------
 ----------
 
-[/us/pl/109/304/s8/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs8%2Fc
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1660]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1660
 
 

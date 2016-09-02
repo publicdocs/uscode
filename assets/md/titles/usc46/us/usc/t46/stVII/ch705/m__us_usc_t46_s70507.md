@@ -17,7 +17,7 @@
 
     (a)  __In General__  __.—__ 
 
-    Property described in section 511(a) of the Comprehensive Drug Abuse Prevention and Control Act of 1970 ([21 U.S.C. 881(a)][/us/usc/t21/s881/a]) that is used or intended for use to commit, or to facilitate the commission of, an offense under [section 70503 of this title][/us/usc/t46/s70503] may be seized and forfeited in the same manner that similar property may be seized and forfeited under section 511 of that Act ([21 U.S.C. 881][/us/usc/t21/s881]).
+    Property described in section 511(a) of the Comprehensive Drug Abuse Prevention and Control Act of 1970 ([21 U.S.C. 881(a)][/us/usc/t21/s881/a]) that is used or intended for use to commit, or to facilitate the commission of, an offense under section 70503 or 70508 of this title may be seized and forfeited in the same manner that similar property may be seized and forfeited under section 511 of that Act ([21 U.S.C. 881][/us/usc/t21/s881]).
 
     (b)  __Prima Facie Evidence of Violation__  __.—__ 
 
@@ -57,7 +57,7 @@
 
         (9) The presence of a controlled substance in the water in the vicinity of the vessel, where given the currents, weather conditions, and course and speed of the vessel, the quantity or other nature is such that it reasonably indicates manufacturing or distribution activity.
 
-([Pub. L. 109–304, § 10(2)][/us/pl/109/304/s10/2], Oct. 6, 2006, [120 Stat. 1688][/us/stat/120/1688].)
+([Pub. L. 109–304][/us/pl/109/304], § 10(2), Oct. 6, 2006, [120 Stat. 1688][/us/stat/120/1688]; [Pub. L. 114–120, title III][/us/pl/114/120/tIII], § 314(d), Feb. 8, 2016, [130 Stat. 59][/us/stat/130/59].)
 
 <table>
 
@@ -105,6 +105,10 @@ Pub. L. 96–350, § 4, Sept. 15, 1980, 94 Stat. 1160; Pub. L. 99–570, title
 
 </table>
 
+ __Amendments__ 
+
+    2016—Subsec. (a). [Pub. L. 114–120][/us/pl/114/120] substituted “section 70503 or 70508” for “section 70503”.
+
 ----------
 
 [Previous](./../../../../..//us/usc/t46/stVII/ch705/m__us_usc_t46_s70506.md) | [Next](./../../../../..//us/usc/t46/stVII/ch705/m__us_usc_t46_s70508.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs70507)
@@ -113,10 +117,12 @@ Pub. L. 96–350, § 4, Sept. 15, 1980, 94 Stat. 1160; Pub. L. 99–570, title
 ----------
 
 [/us/usc/t21/s881/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs881%2Fa
-[/us/usc/t46/s70503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs70503
 [/us/usc/t21/s881]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs881
 [/us/usc/t46/s70503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs70503
-[/us/pl/109/304/s10/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs10%2F2
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1688]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1688
+[/us/pl/114/120/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F120%2FtIII
+[/us/stat/130/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F59
+[/us/pl/114/120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F120
 
 

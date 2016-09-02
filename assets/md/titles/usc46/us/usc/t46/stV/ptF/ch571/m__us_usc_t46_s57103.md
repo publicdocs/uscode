@@ -65,7 +65,7 @@
 
     The Secretary shall include in any conveyance under this section terms under which all right, title, and interest conveyed by the Secretary shall revert to the Government if the Secretary determines the vessel has been used other than as described in the business plan required under subsection (a)(5).
 
-([Pub. L. 109–304, § 8(c)][/us/pl/109/304/s8/c], Oct. 6, 2006, [120 Stat. 1659][/us/stat/120/1659]; [Pub. L. 112–213, title IV, § 408(a)][/us/pl/112/213/s408/a], Dec. 20, 2012, [126 Stat. 1571][/us/stat/126/1571].)
+([Pub. L. 109–304][/us/pl/109/304], § 8(c), Oct. 6, 2006, [120 Stat. 1659][/us/stat/120/1659]; [Pub. L. 112–213, title IV][/us/pl/112/213/tIV], § 408(a), Dec. 20, 2012, [126 Stat. 1571][/us/stat/126/1571].)
 
 <table>
 
@@ -127,9 +127,9 @@ June 29, 1936, ch. 858, title V, § 508(b), as added Pub. L. 108–136, title 
 ----------
 
 [/us/usc/t26/s501/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs501%2Fc%2F3
-[/us/pl/109/304/s8/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs8%2Fc
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1659]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1659
-[/us/pl/112/213/s408/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F213%2Fs408%2Fa
+[/us/pl/112/213/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F213%2FtIV
 [/us/stat/126/1571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1571
 [/us/usc/t46/s1160/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs1160%2Fj
 [/us/pl/112/213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F213

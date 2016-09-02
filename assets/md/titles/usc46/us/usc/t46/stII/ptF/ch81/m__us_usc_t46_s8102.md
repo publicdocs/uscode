@@ -19,7 +19,7 @@
 
     (b) The owner, charterer, managing operator, agent, master, or individual in charge of a fish processing vessel of more than 100 gross tons as measured under [section 14502 of this title][/us/usc/t46/s14502], or an alternate tonnage measured under [section 14302 of this title][/us/usc/t46/s14302] as prescribed by the Secretary under [section 14104 of this title][/us/usc/t46/s14104] shall keep a suitable number of watchmen trained in firefighting on board when hotwork is being done to guard against and give alarm in case of a fire.
 
-([Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 548][/us/stat/97/548]; [Pub. L. 98–364, title IV, § 402(10)][/us/pl/98/364/s402/10], July 17, 1984, [98 Stat. 448][/us/stat/98/448]; [Pub. L. 104–324, title VII, § 726][/us/pl/104/324/s726], Oct. 19, 1996, [110 Stat. 3939][/us/stat/110/3939].)
+([Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 548][/us/stat/97/548]; [Pub. L. 98–364, title IV][/us/pl/98/364/tIV], § 402(10), July 17, 1984, [98 Stat. 448][/us/stat/98/448]; [Pub. L. 104–324, title VII][/us/pl/104/324/tVII], § 726, Oct. 19, 1996, [110 Stat. 3939][/us/stat/110/3939].)
 
 <table>
 
@@ -79,9 +79,9 @@ Source section (U.S. Code)  </td>
 [/us/usc/t46/s14104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs14104
 [/us/pl/98/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F89
 [/us/stat/97/548]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F548
-[/us/pl/98/364/s402/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F364%2Fs402%2F10
+[/us/pl/98/364/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F364%2FtIV
 [/us/stat/98/448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F448
-[/us/pl/104/324/s726]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2Fs726
+[/us/pl/104/324/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2FtVII
 [/us/stat/110/3939]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3939
 [/us/pl/104/324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324
 [/us/usc/t46/s14502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs14502

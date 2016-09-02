@@ -43,7 +43,7 @@
 
     If a person does not pay an assessment of a civil penalty after it has become final or after the appropriate court has entered final judgment in favor of the Commission, the Attorney General at the request of the Commission may seek to collect the amount assessed in an appropriate district court of the United States. The court shall enforce the order of the Commission unless it finds that the order was not regularly made and duly issued.
 
-([Pub. L. 109–304, § 7][/us/pl/109/304/s7], Oct. 6, 2006, [120 Stat. 1544][/us/stat/120/1544].)
+([Pub. L. 109–304][/us/pl/109/304], § 7, Oct. 6, 2006, [120 Stat. 1544][/us/stat/120/1544].)
 
 <table>
 
@@ -182,7 +182,7 @@ Pub. L. 98–237, § 13(c)–(f), Mar. 20, 1984, 98 Stat. 82; Pub. L. 105–25
 ----------
 ----------
 
-[/us/pl/109/304/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs7
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1544]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1544
 
 

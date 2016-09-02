@@ -27,7 +27,7 @@
 
     If the Commission declines review, or if review is not sought, within the time prescribed under subsection (b), the action taken under the delegation of authority is deemed to be the action of the Commission.
 
-([Pub. L. 109–304, § 4][/us/pl/109/304/s4], Oct. 6, 2006, [120 Stat. 1489][/us/stat/120/1489].)
+([Pub. L. 109–304][/us/pl/109/304], § 4, Oct. 6, 2006, [120 Stat. 1489][/us/stat/120/1489].)
 
 <table>
 
@@ -83,7 +83,7 @@ Reorg. Plan No. 7 of 1961, eff. Aug. 12, 1961, § 105(a)–(c), 75 Stat. 841. 
 ----------
 
 [/us/usc/t5/s556/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs556%2Fb
-[/us/pl/109/304/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs4
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1489]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1489
 
 

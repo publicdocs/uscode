@@ -41,7 +41,7 @@
 
     (f) This section does not apply to a documented vessel that has been operated only for pleasure.
 
-([Pub. L. 100–710, title I, § 102(c)][/us/pl/100/710/s102/c], Nov. 23, 1988, [102 Stat. 4747][/us/stat/102/4747]; [Pub. L. 104–324, title XI, § 1118][/us/pl/104/324/s1118], Oct. 19, 1996, [110 Stat. 3973][/us/stat/110/3973]; [Pub. L. 109–304, § 15(32)][/us/pl/109/304/s15/32], Oct. 6, 2006, [120 Stat. 1704][/us/stat/120/1704]; [Pub. L. 111–281, title IX, § 913(c)][/us/pl/111/281/s913/c], Oct. 15, 2010, [124 Stat. 3017][/us/stat/124/3017].)
+([Pub. L. 100–710, title I][/us/pl/100/710/tI], § 102(c), Nov. 23, 1988, [102 Stat. 4747][/us/stat/102/4747]; [Pub. L. 104–324, title XI][/us/pl/104/324/tXI], § 1118, Oct. 19, 1996, [110 Stat. 3973][/us/stat/110/3973]; [Pub. L. 109–304][/us/pl/109/304], § 15(32), Oct. 6, 2006, [120 Stat. 1704][/us/stat/120/1704]; [Pub. L. 111–281, title IX][/us/pl/111/281/tIX], § 913(c), Oct. 15, 2010, [124 Stat. 3017][/us/stat/124/3017].)
 
 <table>
 
@@ -99,11 +99,11 @@ Source section (U.S. Code)  </td>
 
     2010—Subsec. (d). [Pub. L. 111–281][/us/pl/111/281] substituted “Secretary of Transportation” for “Secretary”.
 
-    2006—Subsec. (a)(1). [Pub. L. 109–304, § 15(32)(A)][/us/pl/109/304/s15/32/A], substituted “section 12103” for “section 12102”.
+    2006—Subsec. (a)(1). [Pub. L. 109–304][/us/pl/109/304], § 15(32)(A), substituted “section 12103” for “section 12102”.
 
-    Subsec. (b)(2). [Pub. L. 109–304, § 15(32)(B)(i)][/us/pl/109/304/s15/32/B/i], substituted “chapter 563 of this title” for “section 902 of the Merchant Marine Act, 1936 (46 App. U.S.C. 1242)”.
+    Subsec. (b)(2). [Pub. L. 109–304][/us/pl/109/304], § 15(32)(B)(i), substituted “chapter 563 of this title” for “section 902 of the Merchant Marine Act, 1936 (46 App. U.S.C. 1242)”.
 
-    Subsec. (b)(3). [Pub. L. 109–304, § 15(32)(B)(ii)][/us/pl/109/304/s15/32/B/ii], substituted “sale to a person not a citizen of the United States under [section 12132 of this title][/us/usc/t46/s12132]” for “sale foreign within the terms of the first proviso of section 27 of the Merchant Marine Act, 1920 (46 App. U.S.C. 883)”.
+    Subsec. (b)(3). [Pub. L. 109–304][/us/pl/109/304], § 15(32)(B)(ii), substituted “sale to a person not a citizen of the United States under [section 12132 of this title][/us/usc/t46/s12132]” for “sale foreign within the terms of the first proviso of section 27 of the Merchant Marine Act, 1920 (46 App. U.S.C. 883)”.
 
     1996—Subsec. (f). [Pub. L. 104–324][/us/pl/104/324] added subsec. (f).
 
@@ -116,19 +116,19 @@ Source section (U.S. Code)  </td>
 
 [/us/usc/t46/s12103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs12103
 [/us/usc/t46/s12132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs12132
-[/us/pl/100/710/s102/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F710%2Fs102%2Fc
+[/us/pl/100/710/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F710%2FtI
 [/us/stat/102/4747]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4747
-[/us/pl/104/324/s1118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2Fs1118
+[/us/pl/104/324/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2FtXI
 [/us/stat/110/3973]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3973
-[/us/pl/109/304/s15/32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs15%2F32
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1704
-[/us/pl/111/281/s913/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs913%2Fc
+[/us/pl/111/281/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2FtIX
 [/us/stat/124/3017]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3017
 [/us/usc/t46/s12102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs12102
 [/us/pl/111/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281
-[/us/pl/109/304/s15/32/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs15%2F32%2FA
-[/us/pl/109/304/s15/32/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs15%2F32%2FB%2Fi
-[/us/pl/109/304/s15/32/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs15%2F32%2FB%2Fii
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/usc/t46/s12132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs12132
 [/us/pl/104/324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324
 

@@ -37,7 +37,7 @@
 
     Subsection (a) is not effective until an appropriate vessel has been built and documented under chapter 121 of this title.
 
-([Pub. L. 109–304, § 8(c)][/us/pl/109/304/s8/c], Oct. 6, 2006, [120 Stat. 1634][/us/stat/120/1634]; [Pub. L. 109–241, title IX, § 902][/us/pl/109/241/s902](o), July 11, 2006, [120 Stat. 569][/us/stat/120/569]; [Pub. L. 110–181, div. C, title XXXV, § 3525(a)(4)][/us/pl/110/181/s3525/a/4], (b), Jan. 28, 2008, [122 Stat. 601][/us/stat/122/601].)
+([Pub. L. 109–304][/us/pl/109/304], § 8(c), Oct. 6, 2006, [120 Stat. 1634][/us/stat/120/1634]; [Pub. L. 109–241, title IX][/us/pl/109/241/tIX], § 902(o), July 11, 2006, [120 Stat. 569][/us/stat/120/569]; [Pub. L. 110–181, div. C, title XXXV][/us/pl/110/181/dC/tXXXV], § 3525(a)(4), (b), Jan. 28, 2008, [122 Stat. 601][/us/stat/122/601].)
 
 <table>
 
@@ -97,11 +97,11 @@ June 5, 1920, ch. 250, § 27 (2d–6th sentences, last sentence less provisos)
 
  __Amendments__ 
 
-    2008—[Pub. L. 110–181, § 3525(b)][/us/pl/110/181/s3525/b], repealed [Pub. L. 109–241, § 902][/us/pl/109/241/s902](o). See 2006 Amendment note below.
+    2008—[Pub. L. 110–181][/us/pl/110/181], § 3525(b), repealed [Pub. L. 109–241][/us/pl/109/241], § 902(o). See 2006 Amendment note below.
 
-    Subsec. (b)(3). [Pub. L. 110–181, § 3525(a)(4)][/us/pl/110/181/s3525/a/4], incorporated the substance of the amendment by [Pub. L. 109–241, § 902][/us/pl/109/241/s902](o), into this section by substituting “Secretary of Homeland Security” for “Secretary of the department in which the Coast Guard is operating”. See 2006 Amendment note below and [section 18(a) of Pub. L. 109–304][/us/pl/109/304/s18/a], set out as a Legislative Purpose and Construction note preceding [section 101 of this title][/us/usc/t46/s101].
+    Subsec. (b)(3). [Pub. L. 110–181][/us/pl/110/181], § 3525(a)(4), incorporated the substance of the amendment by [Pub. L. 109–241][/us/pl/109/241], § 902(o), into this section by substituting “Secretary of Homeland Security” for “Secretary of the department in which the Coast Guard is operating”. See 2006 Amendment note below and [section 18(a) of Pub. L. 109–304][/us/pl/109/304/s18/a], set out as a Legislative Purpose and Construction note preceding [section 101 of this title][/us/usc/t46/s101].
 
-    2006—[Pub. L. 109–241, § 902][/us/pl/109/241/s902](o), which directed the amendment of section 883 of the former Appendix to this title from which this section was derived, was repealed by [Pub. L. 110–181, § 3525(b)][/us/pl/110/181/s3525/b]. See 2008 Amendment note for subsec. (b)(3) and Historical and Revision notes above.
+    2006—[Pub. L. 109–241][/us/pl/109/241], § 902(o), which directed the amendment of section 883 of the former Appendix to this title from which this section was derived, was repealed by [Pub. L. 110–181][/us/pl/110/181], § 3525(b). See 2008 Amendment note for subsec. (b)(3) and Historical and Revision notes above.
 
 ----------
 
@@ -112,23 +112,23 @@ June 5, 1920, ch. 250, § 27 (2d–6th sentences, last sentence less provisos)
 
 [/us/usc/t42/s6903/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6903%2F5
 [/us/usc/t46/s55102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs55102
-[/us/pl/109/304/s8/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs8%2Fc
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1634]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1634
-[/us/pl/109/241/s902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241%2Fs902
+[/us/pl/109/241/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241%2FtIX
 [/us/stat/120/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F569
-[/us/pl/110/181/s3525/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs3525%2Fa%2F4
+[/us/pl/110/181/dC/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdC%2FtXXXV
 [/us/stat/122/601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F601
 [/us/usc/t46/s55102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs55102
 [/us/usc/t42/s6903/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6903%2F5
 [/us/usc/t42/s6903/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6903%2F5
 [/us/pl/94/580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F580
-[/us/pl/110/181/s3525/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs3525%2Fb
-[/us/pl/109/241/s902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241%2Fs902
-[/us/pl/110/181/s3525/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs3525%2Fa%2F4
-[/us/pl/109/241/s902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241%2Fs902
+[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
+[/us/pl/109/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241
+[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
+[/us/pl/109/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241
 [/us/pl/109/304/s18/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs18%2Fa
 [/us/usc/t46/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs101
-[/us/pl/109/241/s902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241%2Fs902
-[/us/pl/110/181/s3525/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs3525%2Fb
+[/us/pl/109/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241
+[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
 
 

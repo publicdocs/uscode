@@ -23,7 +23,7 @@
 
     Not later than 1 year after the date of enactment of the SAFE Port Act, the Secretary, in consultation with the Attorney General and the Secretary of State, shall establish the proper forms and process that shall be used for identification and verification of crewmembers.
 
-(Added [Pub. L. 107–295, title I, § 102(a)][/us/pl/107/295/s102/a], Nov. 25, 2002, [116 Stat. 2080][/us/stat/116/2080]; amended [Pub. L. 109–347, title I, § 110][/us/pl/109/347/s110], Oct. 13, 2006, [120 Stat. 1893][/us/stat/120/1893].)
+(Added [Pub. L. 107–295, title I][/us/pl/107/295/tI], § 102(a), Nov. 25, 2002, [116 Stat. 2080][/us/stat/116/2080]; amended [Pub. L. 109–347, title I][/us/pl/109/347/tI], § 110, Oct. 13, 2006, [120 Stat. 1893][/us/stat/120/1893].)
 
  __References in Text__ 
 
@@ -35,7 +35,7 @@
 
  __International Seafarer Identification__ 
 
-[Pub. L. 107–295, title I, § 103][/us/pl/107/295/s103], Nov. 25, 2002, [116 Stat. 2084][/us/stat/116/2084], provided that:
+[Pub. L. 107–295, title I][/us/pl/107/295/tI], § 103, Nov. 25, 2002, [116 Stat. 2084][/us/stat/116/2084], provided that:
 
 >     “(a)  __Treaty Initiative__  __.—__ 
 
@@ -54,13 +54,13 @@
 ----------
 ----------
 
-[/us/pl/107/295/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295%2Fs102%2Fa
+[/us/pl/107/295/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295%2FtI
 [/us/stat/116/2080]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2080
-[/us/pl/109/347/s110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347%2Fs110
+[/us/pl/109/347/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347%2FtI
 [/us/stat/120/1893]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1893
 [/us/pl/109/347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347
 [/us/pl/109/347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347
-[/us/pl/107/295/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295%2Fs103
+[/us/pl/107/295/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295%2FtI
 [/us/stat/116/2084]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2084
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
 

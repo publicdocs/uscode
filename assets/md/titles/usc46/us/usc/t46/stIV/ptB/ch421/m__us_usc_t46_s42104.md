@@ -43,7 +43,7 @@
 
     If a person does not comply with an order or subpoena of the Commission under this section, the Commission may seek enforcement in a district court of the United States having jurisdiction over the parties. If, after hearing, the court determines that the order or subpoena was regularly made and duly issued, the court shall enforce the order or subpoena.
 
-([Pub. L. 109–304, § 7][/us/pl/109/304/s7], Oct. 6, 2006, [120 Stat. 1549][/us/stat/120/1549].)
+([Pub. L. 109–304][/us/pl/109/304], § 7, Oct. 6, 2006, [120 Stat. 1549][/us/stat/120/1549].)
 
 <table>
 
@@ -167,7 +167,7 @@ June 5, 1920, ch. 250, § 19(f), (g); as added Pub. L. 101–595, title I, §�
 [/us/usc/t46/s42101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs42101
 [/us/usc/t46/s42101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs42101
 [/us/usc/t46/s42101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs42101
-[/us/pl/109/304/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs7
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1549
 
 

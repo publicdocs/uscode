@@ -19,7 +19,7 @@
 
     (b) A person failing to comply with [section 6104 of this title][/us/usc/t46/s6104] or a regulation prescribed under that section is liable to the Government for a civil penalty of not more than $5,000.
 
-([Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 536][/us/stat/97/536]; [Pub. L. 98–498, title II, § 212(b)(2)][/us/pl/98/498/s212/b/2], Oct. 19, 1984, [98 Stat. 2306][/us/stat/98/2306]; [Pub. L. 100–424, § 4(b)][/us/pl/100/424/s4/b], Sept. 9, 1988, [102 Stat. 1590][/us/stat/102/1590]; [Pub. L. 104–324, title III][/us/pl/104/324], §§ 306(a), 314(b), Oct. 19, 1996, [110 Stat. 3918][/us/stat/110/3918], 3922.)
+([Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 536][/us/stat/97/536]; [Pub. L. 98–498, title II][/us/pl/98/498/tII], § 212(b)(2), Oct. 19, 1984, [98 Stat. 2306][/us/stat/98/2306]; [Pub. L. 100–424][/us/pl/100/424], § 4(b), Sept. 9, 1988, [102 Stat. 1590][/us/stat/102/1590]; [Pub. L. 104–324, title III][/us/pl/104/324/tIII], §§ 306(a), 314(b), Oct. 19, 1996, [110 Stat. 3918][/us/stat/110/3918], 3922.)
 
 <table>
 
@@ -84,11 +84,11 @@ Source section (U.S. Code)  </td>
 [/us/usc/t46/s6104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs6104
 [/us/pl/98/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F89
 [/us/stat/97/536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F536
-[/us/pl/98/498/s212/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F498%2Fs212%2Fb%2F2
+[/us/pl/98/498/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F498%2FtII
 [/us/stat/98/2306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2306
-[/us/pl/100/424/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F424%2Fs4%2Fb
+[/us/pl/100/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F424
 [/us/stat/102/1590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1590
-[/us/pl/104/324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324
+[/us/pl/104/324/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2FtIII
 [/us/stat/110/3918]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3918
 [/us/pl/104/324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324
 [/us/pl/100/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F424

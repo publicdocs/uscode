@@ -23,7 +23,7 @@
 
     If the Secretary of Transportation finds that the new vessel will have a utility value at least equal to that of the obsolete vessel, the new vessel may be of lesser gross tonnage than the obsolete vessel. However, the gross tonnage of the new vessel must be at least one-third the gross tonnage of the obsolete vessel.
 
-([Pub. L. 109–304, § 8(c)][/us/pl/109/304/s8/c], Oct. 6, 2006, [120 Stat. 1662][/us/stat/120/1662].)
+([Pub. L. 109–304][/us/pl/109/304], § 8(c), Oct. 6, 2006, [120 Stat. 1662][/us/stat/120/1662].)
 
 <table>
 
@@ -78,7 +78,7 @@ June 29, 1936, ch. 858, title V, § 510(c), as added Aug. 4, 1939, ch. 417, §
 ----------
 ----------
 
-[/us/pl/109/304/s8/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs8%2Fc
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1662]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1662
 
 

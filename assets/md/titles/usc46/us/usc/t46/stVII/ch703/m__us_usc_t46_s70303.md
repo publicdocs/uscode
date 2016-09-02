@@ -31,7 +31,7 @@
 
     The President is encouraged to provide antiterrorism assistance related to maritime security under chapter 8 of part II of the Foreign Assistance Act of 1961 ([22 U.S.C. 2349aa][/us/usc/t22/s2349aa] et seq.) to foreign countries, especially for a port that the Secretary determines under subsection (b) does not maintain and administer effective security measures.
 
-([Pub. L. 109–304, § 10(2)][/us/pl/109/304/s10/2], Oct. 6, 2006, [120 Stat. 1684][/us/stat/120/1684].)
+([Pub. L. 109–304][/us/pl/109/304], § 10(2), Oct. 6, 2006, [120 Stat. 1684][/us/stat/120/1684].)
 
 <table>
 
@@ -91,7 +91,7 @@ Pub. L. 99–399, title IX, § 907(a), (b), (d), (e), Aug. 27, 1986, 100 Stat.
 ----------
 
 [/us/usc/t22/s2349aa]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2349aa
-[/us/pl/109/304/s10/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs10%2F2
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1684]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1684
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
 [/us/stat/75/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F424

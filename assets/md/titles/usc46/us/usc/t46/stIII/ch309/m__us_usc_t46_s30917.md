@@ -17,7 +17,7 @@
 
     Amounts recovered in a civil action brought by the United States on a claim arising from the ownership, possession, or operation of a merchant vessel, or the ownership, possession, or carriage of cargo, shall be deposited in the Treasury to the credit of the department of the United States Government, or the federally-owned corporation, having control of the vessel or cargo, for reimbursement of the appropriation, insurance fund, or other fund from which the compensation for which the judgment was recovered was or will be paid.
 
-([Pub. L. 109–304, § 6(c)][/us/pl/109/304/s6/c], Oct. 6, 2006, [120 Stat. 1520][/us/stat/120/1520].)
+([Pub. L. 109–304][/us/pl/109/304], § 6(c), Oct. 6, 2006, [120 Stat. 1520][/us/stat/120/1520].)
 
 <table>
 
@@ -74,7 +74,7 @@ Mar. 9, 1920, ch. 95, § 11, 41 Stat. 528; Pub. L. 97–31, § 12(25)(D), Au
 ----------
 ----------
 
-[/us/pl/109/304/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs6%2Fc
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1520]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1520
 
 

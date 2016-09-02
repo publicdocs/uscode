@@ -129,7 +129,7 @@
 
                 (xiv) Fraudulent entry into a seaport in violation of [section 1036 of title 18][/us/usc/t18/s1036], or a comparable State law.
 
-                (xv) A violation of the chapter 96 of title 18, popularly known as the Racketeer Influenced and Corrupt Organizations Act  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be followed by a comma. </sup></sup>  or a comparable State law, other than any of the violations listed in subparagraph (A)(x).
+                (xv) A violation of the chapter 96 of title 18 (popularly known as the Racketeer Influenced and Corrupt Organizations Act) or a comparable State law, other than any of the violations listed in subparagraph (A)(x).
 
             (C)  __Under want, warrant, or indictment__  __.—__ 
 
@@ -159,7 +159,7 @@
 
         (2)
 
-         The Secretary shall prescribe regulations that establish a waiver process for issuing a transportation security card to an individual found to be otherwise ineligible for such a card under subparagraph (A), (B), or (D)  <sup>\[2\]</sup>  <sup><sup> 2 So in original. Probably should be followed by “of”. </sup></sup>  paragraph (1). In deciding to issue a card to such an individual, the Secretary shall—
+         The Secretary shall prescribe regulations that establish a waiver process for issuing a transportation security card to an individual found to be otherwise ineligible for such a card under subparagraph (A), (B), or (D) of paragraph (1). In deciding to issue a card to such an individual, the Secretary shall—
 
             (A) give consideration to the circumstances of any disqualifying act or offense, restitution made by the individual, Federal and State mitigation remedies, and other factors from which it may be concluded that the individual does not pose a terrorism risk warranting denial of the card; and
 
@@ -337,7 +337,7 @@
 
         The Secretary may not require any such vessel or facility to provide on-site activation capability.
 
-(Added [Pub. L. 107–295, title I, § 102(a)][/us/pl/107/295/s102/a], Nov. 25, 2002, [116 Stat. 2073][/us/stat/116/2073]; amended [Pub. L. 109–241, title III, § 309][/us/pl/109/241/s309], July 11, 2006, [120 Stat. 528][/us/stat/120/528]; [Pub. L. 109–347, title I, § 104(a)][/us/pl/109/347/s104/a], (b), Oct. 13, 2006, [120 Stat. 1888][/us/stat/120/1888], 1890; [Pub. L. 110–53, title XIII, § 1309(a)][/us/pl/110/53/s1309/a], Aug. 3, 2007, [121 Stat. 397][/us/stat/121/397]; [Pub. L. 111–281, title VIII][/us/pl/111/281], §§ 809, 814, 818(a), 819, 823, title IX, § 903(c)(2), Oct. 15, 2010, [124 Stat. 2995][/us/stat/124/2995], 2999–3001, 3003, 3011; [Pub. L. 111–330, § 1(13)][/us/pl/111/330/s1/13], Dec. 22, 2010, [124 Stat. 3570][/us/stat/124/3570].)
+(Added [Pub. L. 107–295, title I][/us/pl/107/295/tI], § 102(a), Nov. 25, 2002, [116 Stat. 2073][/us/stat/116/2073]; amended [Pub. L. 109–241, title III][/us/pl/109/241/tIII], § 309, July 11, 2006, [120 Stat. 528][/us/stat/120/528]; [Pub. L. 109–347, title I][/us/pl/109/347/tI], § 104(a), (b), Oct. 13, 2006, [120 Stat. 1888][/us/stat/120/1888], 1890; [Pub. L. 110–53, title XIII][/us/pl/110/53/tXIII], § 1309(a), Aug. 3, 2007, [121 Stat. 397][/us/stat/121/397]; [Pub. L. 111–281, title VIII][/us/pl/111/281/tVIII], §§ 809, 814, 818(a), 819, 823, title IX, § 903(c)(2), Oct. 15, 2010, [124 Stat. 2995][/us/stat/124/2995], 2999–3001, 3003, 3011; [Pub. L. 111–330][/us/pl/111/330], § 1(13), Dec. 22, 2010, [124 Stat. 3570][/us/stat/124/3570]; [Pub. L. 114–120, title III][/us/pl/114/120/tIII], § 306(a)(9), Feb. 8, 2016, [130 Stat. 54][/us/stat/130/54].)
 
  __References in Text__ 
 
@@ -353,51 +353,55 @@
 
  __Amendments__ 
 
-    2010—Subsec. (b)(2)(B). [Pub. L. 111–281, § 809(1)][/us/pl/111/281/s809/1], inserted “allowed unescorted access to a secure area designated in a vessel security plan approved under [section 70103 of this title][/us/usc/t46/s70103]” after “subtitle II of this title”.
+    2016—Subsec. (c)(1)(B)(xv). [Pub. L. 114–120][/us/pl/114/120], § 306(a)(9)(A), substituted “18 (popularly” for “18, popularly” and “Act)” for “Act”.
 
-    Subsec. (b)(2)(D). [Pub. L. 111–281, § 809(2)][/us/pl/111/281/s809/2], inserted “allowed unescorted access to a secure area designated in a vessel security plan approved under [section 70103 of this title][/us/usc/t46/s70103]” after “tank vessel”.
+    Subsec. (c)(2). [Pub. L. 114–120][/us/pl/114/120], § 306(a)(9)(B), substituted “(D) of paragraph” for “(D) paragraph” in introductory provisions.
 
-    Subsec. (b)(3). [Pub. L. 111–281, § 819][/us/pl/111/281/s819], as amended by [Pub. L. 111–330][/us/pl/111/330], added par. (3).
+    2010—Subsec. (b)(2)(B). [Pub. L. 111–281][/us/pl/111/281], § 809(1), inserted “allowed unescorted access to a secure area designated in a vessel security plan approved under [section 70103 of this title][/us/usc/t46/s70103]” after “subtitle II of this title”.
 
-    Subsec. (c)(3)(C). [Pub. L. 111–281, § 903(c)(2)][/us/pl/111/281/s903/c/2], substituted “Director of National Intelligence” for “National Intelligence Director”.
+    Subsec. (b)(2)(D). [Pub. L. 111–281][/us/pl/111/281], § 809(2), inserted “allowed unescorted access to a secure area designated in a vessel security plan approved under [section 70103 of this title][/us/usc/t46/s70103]” after “tank vessel”.
 
-    Subsec. (n). [Pub. L. 111–281, § 814][/us/pl/111/281/s814], added subsec. (n).
+    Subsec. (b)(3). [Pub. L. 111–281][/us/pl/111/281], § 819, as amended by [Pub. L. 111–330][/us/pl/111/330], added par. (3).
 
-    Subsecs. (o), (p). [Pub. L. 111–281, § 818(a)][/us/pl/111/281/s818/a], added subsecs. (o) and (p).
+    Subsec. (c)(3)(C). [Pub. L. 111–281][/us/pl/111/281], § 903(c)(2), substituted “Director of National Intelligence” for “National Intelligence Director”.
 
-    Subsec. (q). [Pub. L. 111–281, § 823][/us/pl/111/281/s823], added subsec. (q).
+    Subsec. (n). [Pub. L. 111–281][/us/pl/111/281], § 814, added subsec. (n).
 
-    2007—Subsec. (b)(1). [Pub. L. 110–53, § 1309(a)(1)][/us/pl/110/53/s1309/a/1], substituted “determines under subsection (c) that the individual poses a security risk” for “decides that the individual poses a security risk under subsection (c)”.
+    Subsecs. (o), (p). [Pub. L. 111–281][/us/pl/111/281], § 818(a), added subsecs. (o) and (p).
 
-    Subsec. (c)(1). [Pub. L. 110–53, § 1309(a)(2)][/us/pl/110/53/s1309/a/2], inserted heading and amended text of par. (1) generally, substituting provisions relating to disqualifications, consisting of subpars. (A) to (E), for former provisions relating to when individuals may be denied transportation security cards, consisting of subpars. (A) to (D).
+    Subsec. (q). [Pub. L. 111–281][/us/pl/111/281], § 823, added subsec. (q).
 
-    2006—Subsec. (b)(2)(G). [Pub. L. 109–347, § 104(b)(1)][/us/pl/109/347/s104/b/1], added subpar. (G).
+    2007—Subsec. (b)(1). [Pub. L. 110–53][/us/pl/110/53], § 1309(a)(1), substituted “determines under subsection (c) that the individual poses a security risk” for “decides that the individual poses a security risk under subsection (c)”.
 
-    Subsec. (c)(2). [Pub. L. 109–347, § 104(b)(2)][/us/pl/109/347/s104/b/2], inserted “subparagraph (A), (B), or (D)” before “paragraph (1)”.
+    Subsec. (c)(1). [Pub. L. 110–53][/us/pl/110/53], § 1309(a)(2), inserted heading and amended text of par. (1) generally, substituting provisions relating to disqualifications, consisting of subpars. (A) to (E), for former provisions relating to when individuals may be denied transportation security cards, consisting of subpars. (A) to (D).
+
+    2006—Subsec. (b)(2)(G). [Pub. L. 109–347][/us/pl/109/347], § 104(b)(1), added subpar. (G).
+
+    Subsec. (c)(2). [Pub. L. 109–347][/us/pl/109/347], § 104(b)(2), inserted “subparagraph (A), (B), or (D)” before “paragraph (1)”.
 
     Subsec. (c)(3) to (5). [Pub. L. 109–241][/us/pl/109/241] added par. (3) and redesignated former pars. (3) and (4) as (4) and (5), respectively.
 
-    Subsecs. (g) to (m). [Pub. L. 109–347, § 104(a)][/us/pl/109/347/s104/a], added subsecs. (g) to (m).
+    Subsecs. (g) to (m). [Pub. L. 109–347][/us/pl/109/347], § 104(a), added subsecs. (g) to (m).
 
  __Effective Date of 2010 Amendment__ 
 
-    [Pub. L. 111–330, § 1][/us/pl/111/330/s1], Dec. 22, 2010, [124 Stat. 3569][/us/stat/124/3569], provided that the amendment made by section 1(13) is effective with the enactment of [Pub. L. 111–281][/us/pl/111/281].
+    [Pub. L. 111–330][/us/pl/111/330], § 1, Dec. 22, 2010, [124 Stat. 3569][/us/stat/124/3569], provided that the amendment made by section 1(13) is effective with the enactment of [Pub. L. 111–281][/us/pl/111/281].
 
  __Deadline for Section 70105 Regulations__ 
 
-[Pub. L. 109–347, title I, § 104(c)][/us/pl/109/347/s104/c], Oct. 13, 2006, [120 Stat. 1891][/us/stat/120/1891], provided that: 
+[Pub. L. 109–347, title I][/us/pl/109/347/tI], § 104(c), Oct. 13, 2006, [120 Stat. 1891][/us/stat/120/1891], provided that: 
 
 > “Not later than January 1, 2007, the Secretary \[of Homeland Security\] shall promulgate final regulations implementing the requirements for issuing transportation security cards under [section 70105 of title 46][/us/usc/t46/s70105], United States Code. The regulations shall include a background check process to enable newly hired workers to begin working unless the Secretary makes an initial determination that the worker poses a security risk. Such process shall include a check against the consolidated and integrated terrorist watch list maintained by the Federal Government.”
 
  __Transportation Worker Identification Credential Process Reform__ 
 
-[Pub. L. 112–213, title VII, § 709][/us/pl/112/213/s709], Dec. 20, 2012, [126 Stat. 1581][/us/stat/126/1581], provided that: 
+[Pub. L. 112–213, title VII][/us/pl/112/213/tVII], § 709, Dec. 20, 2012, [126 Stat. 1581][/us/stat/126/1581], provided that: 
 
 > “Not later than 270 days after the date of enactment of this Act \[Dec. 20, 2012\], the Secretary of Homeland Security shall reform the process for Transportation Worker Identification Credential enrollment, activation, issuance, and renewal to require, in total, not more than one in-person visit to a designated enrollment center except in cases in which there are extenuating circumstances, as determined by the Secretary, requiring more than one such in-person visit.”
 
  __Pilot Program for Fingerprinting of Maritime Workers__ 
 
-[Pub. L. 111–281, title VIII, § 808][/us/pl/111/281/s808], Oct. 15, 2010, [124 Stat. 2994][/us/stat/124/2994], provided that:
+[Pub. L. 111–281, title VIII][/us/pl/111/281/tVIII], § 808, Oct. 15, 2010, [124 Stat. 2994][/us/stat/124/2994], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -409,7 +413,7 @@
 
  __Assessment of Transportation Security Card Enrollment Sites__ 
 
-[Pub. L. 111–281, title VIII, § 815][/us/pl/111/281/s815], Oct. 15, 2010, [124 Stat. 2999][/us/stat/124/2999], provided that:
+[Pub. L. 111–281, title VIII][/us/pl/111/281/tVIII], § 815, Oct. 15, 2010, [124 Stat. 2999][/us/stat/124/2999], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -425,7 +429,7 @@
 
  __Receipt of Cards__ 
 
-[Pub. L. 111–281, title VIII, § 818(b)][/us/pl/111/281/s818/b], Oct. 15, 2010, [124 Stat. 3000][/us/stat/124/3000], provided that:
+[Pub. L. 111–281, title VIII][/us/pl/111/281/tVIII], § 818(b), Oct. 15, 2010, [124 Stat. 3000][/us/stat/124/3000], provided that:
 
 >     “(1)  __Report by comptroller general__  __.—__ 
 
@@ -437,7 +441,7 @@
 
  __Prohibition of Issuance of Transportation Security Cards to Persons Convicted of Certain Felonies__ 
 
-[Pub. L. 109–347, title I, § 106][/us/pl/109/347/s106], Oct. 13, 2006, [120 Stat. 1891][/us/stat/120/1891], provided that: 
+[Pub. L. 109–347, title I][/us/pl/109/347/tI], § 106, Oct. 13, 2006, [120 Stat. 1891][/us/stat/120/1891], provided that: 
 
 > “The Secretary \[of Homeland Security\], in issuing a final rule pursuant to [section 70105 of title 46][/us/usc/t46/s70105], United States Code, shall provide for the disqualification of individuals who have been found guilty or have been found not guilty by reason of insanity of a felony, involving—
 
@@ -472,18 +476,20 @@
 [/us/usc/t8/s1101/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101%2Fa%2F3
 [/us/usc/t49/s5103a/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs5103a%2Fd
 [/us/usc/t49/s1572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs1572
-[/us/pl/107/295/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295%2Fs102%2Fa
+[/us/pl/107/295/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295%2FtI
 [/us/stat/116/2073]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2073
-[/us/pl/109/241/s309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241%2Fs309
+[/us/pl/109/241/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241%2FtIII
 [/us/stat/120/528]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F528
-[/us/pl/109/347/s104/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347%2Fs104%2Fa
+[/us/pl/109/347/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347%2FtI
 [/us/stat/120/1888]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1888
-[/us/pl/110/53/s1309/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs1309%2Fa
+[/us/pl/110/53/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2FtXIII
 [/us/stat/121/397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F397
-[/us/pl/111/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281
+[/us/pl/111/281/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2FtVIII
 [/us/stat/124/2995]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2995
-[/us/pl/111/330/s1/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F330%2Fs1%2F13
+[/us/pl/111/330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F330
 [/us/stat/124/3570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3570
+[/us/pl/114/120/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F120%2FtIII
+[/us/stat/130/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F54
 [/us/usc/t26/s5845]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs5845
 [/us/act/1952-06-27/ch477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-06-27%2Fch477
 [/us/stat/66/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F163
@@ -492,40 +498,42 @@
 [/us/stat/94/2025]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2025
 [/us/pl/109/347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347
 [/us/usc/t6/s901/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs901%2F1
-[/us/pl/111/281/s809/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs809%2F1
+[/us/pl/114/120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F120
+[/us/pl/114/120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F120
+[/us/pl/111/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281
 [/us/usc/t46/s70103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs70103
-[/us/pl/111/281/s809/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs809%2F2
+[/us/pl/111/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281
 [/us/usc/t46/s70103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs70103
-[/us/pl/111/281/s819]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs819
+[/us/pl/111/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281
 [/us/pl/111/330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F330
-[/us/pl/111/281/s903/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs903%2Fc%2F2
-[/us/pl/111/281/s814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs814
-[/us/pl/111/281/s818/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs818%2Fa
-[/us/pl/111/281/s823]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs823
-[/us/pl/110/53/s1309/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs1309%2Fa%2F1
-[/us/pl/110/53/s1309/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs1309%2Fa%2F2
-[/us/pl/109/347/s104/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347%2Fs104%2Fb%2F1
-[/us/pl/109/347/s104/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347%2Fs104%2Fb%2F2
+[/us/pl/111/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281
+[/us/pl/111/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281
+[/us/pl/111/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281
+[/us/pl/111/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281
+[/us/pl/110/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53
+[/us/pl/110/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53
+[/us/pl/109/347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347
+[/us/pl/109/347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347
 [/us/pl/109/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241
-[/us/pl/109/347/s104/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347%2Fs104%2Fa
-[/us/pl/111/330/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F330%2Fs1
+[/us/pl/109/347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347
+[/us/pl/111/330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F330
 [/us/stat/124/3569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3569
 [/us/pl/111/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281
-[/us/pl/109/347/s104/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347%2Fs104%2Fc
+[/us/pl/109/347/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347%2FtI
 [/us/stat/120/1891]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1891
 [/us/usc/t46/s70105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs70105
-[/us/pl/112/213/s709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F213%2Fs709
+[/us/pl/112/213/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F213%2FtVII
 [/us/stat/126/1581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1581
-[/us/pl/111/281/s808]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs808
+[/us/pl/111/281/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2FtVIII
 [/us/stat/124/2994]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2994
 [/us/usc/t46/s70105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs70105
 [/us/usc/t46/s70105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs70105
-[/us/pl/111/281/s815]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs815
+[/us/pl/111/281/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2FtVIII
 [/us/stat/124/2999]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2999
 [/us/usc/t46/s70105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs70105
-[/us/pl/111/281/s818/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs818%2Fb
+[/us/pl/111/281/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2FtVIII
 [/us/stat/124/3000]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3000
-[/us/pl/109/347/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347%2Fs106
+[/us/pl/109/347/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347%2FtI
 [/us/stat/120/1891]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1891
 [/us/usc/t46/s70105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs70105
 

@@ -17,7 +17,7 @@
 
     Notwithstanding [section 40501(e) of this title][/us/usc/t46/s40501/e] and except for service contracts, a rate, charge, classification, rule, or regulation of a controlled carrier may not become effective, without special permission of the Federal Maritime Commission, until the 30th day after publication.
 
-([Pub. L. 109–304, § 7][/us/pl/109/304/s7], Oct. 6, 2006, [120 Stat. 1536][/us/stat/120/1536].)
+([Pub. L. 109–304][/us/pl/109/304], § 7, Oct. 6, 2006, [120 Stat. 1536][/us/stat/120/1536].)
 
 <table>
 
@@ -73,7 +73,7 @@ Pub. L. 98–237, § 9(c) (1st sentence), Mar. 20, 1984, 98 Stat. 76; Pub. L. 
 ----------
 
 [/us/usc/t46/s40501/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs40501%2Fe
-[/us/pl/109/304/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs7
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1536
 
 

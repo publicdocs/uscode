@@ -17,7 +17,7 @@
 
     Any person who fails to implement or conduct, or who otherwise fails to comply with the requirements prescribed by the Secretary for, chemical testing for dangerous drugs or for evidence of alcohol use, as prescribed under this subtitle or a regulation prescribed by the Secretary to carry out the provisions of this subtitle, is liable to the United States Government for a civil penalty of not more than $5,000 for each violation. Each day of a continuing violation shall constitute a separate violation.
 
-(Added [Pub. L. 104–324, title III, § 303(a)][/us/pl/104/324/s303/a], Oct. 19, 1996, [110 Stat. 3917][/us/stat/110/3917]; amended [Pub. L. 105–383, title III, § 304(b)][/us/pl/105/383/s304/b], Nov. 13, 1998, [112 Stat. 3419][/us/stat/112/3419].)
+(Added [Pub. L. 104–324, title III][/us/pl/104/324/tIII], § 303(a), Oct. 19, 1996, [110 Stat. 3917][/us/stat/110/3917]; amended [Pub. L. 105–383, title III][/us/pl/105/383/tIII], § 304(b), Nov. 13, 1998, [112 Stat. 3419][/us/stat/112/3419].)
 
  __Amendments__ 
 
@@ -30,9 +30,9 @@
 ----------
 ----------
 
-[/us/pl/104/324/s303/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2Fs303%2Fa
+[/us/pl/104/324/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2FtIII
 [/us/stat/110/3917]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3917
-[/us/pl/105/383/s304/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F383%2Fs304%2Fb
+[/us/pl/105/383/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F383%2FtIII
 [/us/stat/112/3419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3419
 [/us/pl/105/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F383
 

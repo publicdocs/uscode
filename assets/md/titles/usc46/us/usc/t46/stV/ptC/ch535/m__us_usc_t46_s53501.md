@@ -145,7 +145,7 @@
 
         (B) an ocean-going towing vessel, an ocean-going barge, or a comparable towing vessel or barge operated on the Great Lakes.
 
-([Pub. L. 109–304, § 8(c)][/us/pl/109/304/s8/c], Oct. 6, 2006, [120 Stat. 1591][/us/stat/120/1591]; [Pub. L. 110–140, title XI, § 1122(a)][/us/pl/110/140/s1122/a], Dec. 19, 2007, [121 Stat. 1762][/us/stat/121/1762].)
+([Pub. L. 109–304][/us/pl/109/304], § 8(c), Oct. 6, 2006, [120 Stat. 1591][/us/stat/120/1591]; [Pub. L. 110–140, title XI][/us/pl/110/140/tXI], § 1122(a), Dec. 19, 2007, [121 Stat. 1762][/us/stat/121/1762].)
 
 <table>
 
@@ -331,9 +331,9 @@ Pub. L. 94–455, title VIII, § 807, Oct. 4, 1976, 90 Stat. 1606.  </td>
 
  __Amendments__ 
 
-    2007—Par. (5)(A)(iii). [Pub. L. 110–140, § 1122(a)(1)][/us/pl/110/140/s1122/a/1], substituted “noncontiguous domestic, or short sea transportation trade” for “or noncontiguous domestic”.
+    2007—Par. (5)(A)(iii). [Pub. L. 110–140][/us/pl/110/140], § 1122(a)(1), substituted “noncontiguous domestic, or short sea transportation trade” for “or noncontiguous domestic”.
 
-    Par. (7). [Pub. L. 110–140, § 1122(a)(2)][/us/pl/110/140/s1122/a/2], added par. (7) relating to short sea transportation trade.
+    Par. (7). [Pub. L. 110–140][/us/pl/110/140], § 1122(a)(2), added par. (7) relating to short sea transportation trade.
 
  __Effective Date of 2007 Amendment__ 
 
@@ -348,15 +348,15 @@ Pub. L. 94–455, title VIII, § 807, Oct. 4, 1976, 90 Stat. 1606.  </td>
 
 [/us/usc/t46/s53502/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs53502%2Fb
 [/us/usc/t46/s53503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs53503
-[/us/pl/109/304/s8/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs8%2Fc
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1591
-[/us/pl/110/140/s1122/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs1122%2Fa
+[/us/pl/110/140/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2FtXI
 [/us/stat/121/1762]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1762
 [/us/act/1936-06-29/ch858]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-06-29%2Fch858
 [/us/stat/49/1985]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F1985
 [/us/usc/t46/s53101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs53101
-[/us/pl/110/140/s1122/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs1122%2Fa%2F1
-[/us/pl/110/140/s1122/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs1122%2Fa%2F2
+[/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
+[/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
 [/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
 [/us/pl/110/140/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs1601
 [/us/usc/t2/s1824]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1824

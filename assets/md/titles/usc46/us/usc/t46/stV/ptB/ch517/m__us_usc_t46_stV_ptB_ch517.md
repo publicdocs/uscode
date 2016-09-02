@@ -67,7 +67,7 @@
 
  __Amendments__ 
 
-    2012—[Pub. L. 112–213, title V, § 502(c)][/us/pl/112/213/s502/c], Dec. 20, 2012, [126 Stat. 1575][/us/stat/126/1575], added item 51705.
+    2012—[Pub. L. 112–213, title V][/us/pl/112/213/tV], § 502(c), Dec. 20, 2012, [126 Stat. 1575][/us/stat/126/1575], added item 51705.
 
 ----------
 
@@ -76,7 +76,7 @@
 ----------
 ----------
 
-[/us/pl/112/213/s502/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F213%2Fs502%2Fc
+[/us/pl/112/213/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F213%2FtV
 [/us/stat/126/1575]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1575
 
 

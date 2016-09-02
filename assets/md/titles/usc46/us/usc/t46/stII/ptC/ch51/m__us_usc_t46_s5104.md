@@ -33,7 +33,7 @@
 
     (e) The Secretary may designate by regulation specific geographic areas that have less severe weather or sea conditions and from which there is adequate time to return to available safe harbors. The Secretary may reduce the minimum freeboard of a vessel operating in these areas.
 
-([Pub. L. 99–509, title V, § 5101(2)][/us/pl/99/509/s5101/2], Oct. 21, 1986, [100 Stat. 1915][/us/stat/100/1915].)
+([Pub. L. 99–509, title V][/us/pl/99/509/tV], § 5101(2), Oct. 21, 1986, [100 Stat. 1915][/us/stat/100/1915].)
 
  __Historical and Revision Notes__ 
 
@@ -58,7 +58,7 @@
 ----------
 ----------
 
-[/us/pl/99/509/s5101/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2Fs5101%2F2
+[/us/pl/99/509/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2FtV
 [/us/stat/100/1915]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1915
 
 

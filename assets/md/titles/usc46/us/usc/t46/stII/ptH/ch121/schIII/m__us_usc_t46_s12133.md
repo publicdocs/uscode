@@ -27,7 +27,7 @@
 
     A person willfully violating subsection (b) shall be fined under title 18, imprisoned for not more than one year, or both.
 
-([Pub. L. 109–304, § 5][/us/pl/109/304/s5], Oct. 6, 2006, [120 Stat. 1505][/us/stat/120/1505].)
+([Pub. L. 109–304][/us/pl/109/304], § 5, Oct. 6, 2006, [120 Stat. 1505][/us/stat/120/1505].)
 
 <table>
 
@@ -98,7 +98,7 @@ R.S. § 4336; Aug. 5, 1935, ch. 438, title III, § 312, 49 Stat. 528; Pub. L
 ----------
 ----------
 
-[/us/pl/109/304/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs5
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1505
 [/us/usc/t19/s1581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1581
 

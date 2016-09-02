@@ -17,7 +17,7 @@
 
     The Secretary of Commerce or Transportation, as a mortgagee under this chapter, may foreclose on a lien arising from a right established under a mortgage under chapter 537 of this title, subject to [section 362(b) of title 11][/us/usc/t11/s362/b].
 
-([Pub. L. 100–710, title I, § 102(c)][/us/pl/100/710/s102/c], Nov. 23, 1988, [102 Stat. 4741][/us/stat/102/4741]; [Pub. L. 101–595, title VI, § 603(13)][/us/pl/101/595/s603/13], Nov. 16, 1990, [104 Stat. 2993][/us/stat/104/2993]; [Pub. L. 109–304, § 15(28)][/us/pl/109/304/s15/28], Oct. 6, 2006, [120 Stat. 1704][/us/stat/120/1704]; [Pub. L. 111–281, title IX, § 913(b)][/us/pl/111/281/s913/b], Oct. 15, 2010, [124 Stat. 3017][/us/stat/124/3017].)
+([Pub. L. 100–710, title I][/us/pl/100/710/tI], § 102(c), Nov. 23, 1988, [102 Stat. 4741][/us/stat/102/4741]; [Pub. L. 101–595, title VI][/us/pl/101/595/tVI], § 603(13), Nov. 16, 1990, [104 Stat. 2993][/us/stat/104/2993]; [Pub. L. 109–304][/us/pl/109/304], § 15(28), Oct. 6, 2006, [120 Stat. 1704][/us/stat/120/1704]; [Pub. L. 111–281, title IX][/us/pl/111/281/tIX], § 913(b), Oct. 15, 2010, [124 Stat. 3017][/us/stat/124/3017].)
 
 <table>
 
@@ -73,13 +73,13 @@ Source section (U.S. Code)  </td>
 ----------
 
 [/us/usc/t11/s362/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs362%2Fb
-[/us/pl/100/710/s102/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F710%2Fs102%2Fc
+[/us/pl/100/710/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F710%2FtI
 [/us/stat/102/4741]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4741
-[/us/pl/101/595/s603/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F595%2Fs603%2F13
+[/us/pl/101/595/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F595%2FtVI
 [/us/stat/104/2993]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2993
-[/us/pl/109/304/s15/28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs15%2F28
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1704
-[/us/pl/111/281/s913/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs913%2Fb
+[/us/pl/111/281/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2FtIX
 [/us/stat/124/3017]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3017
 [/us/pl/111/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281
 [/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304

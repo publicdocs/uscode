@@ -47,7 +47,7 @@
 
     (g) Compliance with this chapter or standards, regulations, or orders prescribed under this chapter does not relieve a person from liability at common law or under State law.
 
-([Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 534][/us/stat/97/534]; [Pub. L. 98–557, § 8(b)][/us/pl/98/557/s8/b], (c), Oct. 30, 1984, [98 Stat. 2862][/us/stat/98/2862]; [Pub. L. 101–650, title III, § 321][/us/pl/101/650/s321], Dec. 1, 1990, [104 Stat. 5117][/us/stat/104/5117]; [Pub. L. 108–293, title IV, § 406][/us/pl/108/293/s406], Aug. 9, 2004, [118 Stat. 1043][/us/stat/118/1043]; [Pub. L. 109–241, title IX, § 901(e)][/us/pl/109/241/s901/e], July 11, 2006, [120 Stat. 564][/us/stat/120/564].)
+([Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 534][/us/stat/97/534]; [Pub. L. 98–557][/us/pl/98/557], § 8(b), (c), Oct. 30, 1984, [98 Stat. 2862][/us/stat/98/2862]; [Pub. L. 101–650, title III][/us/pl/101/650/tIII], § 321, Dec. 1, 1990, [104 Stat. 5117][/us/stat/104/5117]; [Pub. L. 108–293, title IV][/us/pl/108/293/tIV], § 406, Aug. 9, 2004, [118 Stat. 1043][/us/stat/118/1043]; [Pub. L. 109–241, title IX][/us/pl/109/241/tIX], § 901(e), July 11, 2006, [120 Stat. 564][/us/stat/120/564].)
 
 <table>
 
@@ -173,9 +173,9 @@ Source section (U.S. Code)  </td>
 
     “(2) at the time of the order or authorization, the director, officer, or executive employee advised the Secretary in writing of acting under this clause and clause (1) of this subsection.”
 
-    1984—Subsec. (b)(1). [Pub. L. 98–557, § 8(b)][/us/pl/98/557/s8/b], inserted “defect or the” before “nonconformity”.
+    1984—Subsec. (b)(1). [Pub. L. 98–557][/us/pl/98/557], § 8(b), inserted “defect or the” before “nonconformity”.
 
-    Subsec. (f)(1). [Pub. L. 98–557, § 8(c)][/us/pl/98/557/s8/c], inserted provisions relating to advice by the Secretary or manufacturer of the vessel, equipment or component respecting defects creating substantial risk of personal injury to the public.
+    Subsec. (f)(1). [Pub. L. 98–557][/us/pl/98/557], § 8(c), inserted provisions relating to advice by the Secretary or manufacturer of the vessel, equipment or component respecting defects creating substantial risk of personal injury to the public.
 
  __Change of Name__ 
 
@@ -192,19 +192,19 @@ Source section (U.S. Code)  </td>
 [/us/usc/t28/s636/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs636%2Fb
 [/us/pl/98/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F89
 [/us/stat/97/534]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F534
-[/us/pl/98/557/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F557%2Fs8%2Fb
+[/us/pl/98/557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F557
 [/us/stat/98/2862]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2862
-[/us/pl/101/650/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2Fs321
+[/us/pl/101/650/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2FtIII
 [/us/stat/104/5117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F5117
-[/us/pl/108/293/s406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293%2Fs406
+[/us/pl/108/293/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293%2FtIV
 [/us/stat/118/1043]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1043
-[/us/pl/109/241/s901/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241%2Fs901%2Fe
+[/us/pl/109/241/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241%2FtIX
 [/us/stat/120/564]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F564
 [/us/pl/109/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241
 [/us/pl/108/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293
 [/us/usc/t46/s4307/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs4307%2Fa%2F1
-[/us/pl/98/557/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F557%2Fs8%2Fb
-[/us/pl/98/557/s8/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F557%2Fs8%2Fc
+[/us/pl/98/557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F557
+[/us/pl/98/557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F557
 [/us/pl/101/650/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2Fs321
 [/us/usc/t28/s631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs631
 

@@ -23,7 +23,7 @@
 
     (d) The Secretary may terminate a delegation made under this section after giving written notice to the person.
 
-([Pub. L. 99–509, title V, § 5101(3)][/us/pl/99/509/s5101/3], Oct. 21, 1986, [100 Stat. 1919][/us/stat/100/1919]; [Pub. L. 111–281, title III, § 303(b)][/us/pl/111/281/s303/b], Oct. 15, 2010, [124 Stat. 2924][/us/stat/124/2924].)
+([Pub. L. 99–509, title V][/us/pl/99/509/tV], § 5101(3), Oct. 21, 1986, [100 Stat. 1919][/us/stat/100/1919]; [Pub. L. 111–281, title III][/us/pl/111/281/tIII], § 303(b), Oct. 15, 2010, [124 Stat. 2924][/us/stat/124/2924].)
 
  __Historical and Revision Notes__ 
 
@@ -52,9 +52,9 @@
 ----------
 ----------
 
-[/us/pl/99/509/s5101/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2Fs5101%2F3
+[/us/pl/99/509/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2FtV
 [/us/stat/100/1919]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1919
-[/us/pl/111/281/s303/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs303%2Fb
+[/us/pl/111/281/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2FtIII
 [/us/stat/124/2924]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2924
 [/us/usc/t1/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft1%2Fs1
 [/us/pl/111/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281

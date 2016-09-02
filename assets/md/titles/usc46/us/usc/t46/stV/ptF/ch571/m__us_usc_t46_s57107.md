@@ -23,7 +23,7 @@
 
     An obligation incurred or expenditure made by the Secretary under this section does not affect any contract authorization of the Secretary, but instead shall be charged against the existing appropriation or contract authorization of the department or agency.
 
-([Pub. L. 109–304, § 8(c)][/us/pl/109/304/s8/c], Oct. 6, 2006, [120 Stat. 1661][/us/stat/120/1661].)
+([Pub. L. 109–304][/us/pl/109/304], § 8(c), Oct. 6, 2006, [120 Stat. 1661][/us/stat/120/1661].)
 
 <table>
 
@@ -80,7 +80,7 @@ Feb. 6, 1941, ch. 5, § 4, 55 Stat. 6; Pub. L. 97–31, § 12(74), Aug. 6, 1
 ----------
 ----------
 
-[/us/pl/109/304/s8/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs8%2Fc
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1661
 
 

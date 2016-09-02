@@ -17,7 +17,7 @@
 
     A regulation may not give a vessel owned by the United States Government a preference over a vessel owned by citizens of the United States and documented under the laws of the United States.
 
-([Pub. L. 109–304, § 7][/us/pl/109/304/s7], Oct. 6, 2006, [120 Stat. 1549][/us/stat/120/1549].)
+([Pub. L. 109–304][/us/pl/109/304], § 7, Oct. 6, 2006, [120 Stat. 1549][/us/stat/120/1549].)
 
 <table>
 
@@ -72,7 +72,7 @@ June 5, 1920, ch. 250, § 19(d), 41 Stat. 995; Ex. Ord. No. 6166, § 12, eff
 ----------
 ----------
 
-[/us/pl/109/304/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs7
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1549
 
 

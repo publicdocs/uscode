@@ -51,7 +51,7 @@
 
         (12) when a marine casualty occurs, a statement about the casualty and the circumstances under which it occurred, made immediately after the casualty when practicable to do so.
 
-([Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 581][/us/stat/97/581]; [Pub. L. 98–557, § 30][/us/pl/98/557/s30], Oct. 30, 1984, [98 Stat. 2875][/us/stat/98/2875]; [Pub. L. 104–324, title VII, § 742][/us/pl/104/324/s742], Oct. 19, 1996, [110 Stat. 3942][/us/stat/110/3942].)
+([Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 581][/us/stat/97/581]; [Pub. L. 98–557][/us/pl/98/557], § 30, Oct. 30, 1984, [98 Stat. 2875][/us/stat/98/2875]; [Pub. L. 104–324, title VII][/us/pl/104/324/tVII], § 742, Oct. 19, 1996, [110 Stat. 3942][/us/stat/110/3942].)
 
 <table>
 
@@ -111,9 +111,9 @@ Source section (U.S. Code)  </td>
 [/us/usc/t46/s10702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs10702
 [/us/pl/98/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F89
 [/us/stat/97/581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F581
-[/us/pl/98/557/s30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F557%2Fs30
+[/us/pl/98/557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F557
 [/us/stat/98/2875]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2875
-[/us/pl/104/324/s742]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2Fs742
+[/us/pl/104/324/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2FtVII
 [/us/stat/110/3942]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3942
 [/us/pl/104/324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324
 [/us/usc/t46/s14502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs14502

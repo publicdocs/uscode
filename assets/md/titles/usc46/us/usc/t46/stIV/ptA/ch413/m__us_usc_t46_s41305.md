@@ -35,7 +35,7 @@
 
     In any action brought under section 41301, the prevailing party may be awarded reasonable attorney fees.
 
-([Pub. L. 109–304, § 7][/us/pl/109/304/s7], Oct. 6, 2006, [120 Stat. 1546][/us/stat/120/1546]; [Pub. L. 113–281, title IV, § 402][/us/pl/113/281/s402], Dec. 18, 2014, [128 Stat. 3056][/us/stat/128/3056].)
+([Pub. L. 109–304][/us/pl/109/304], § 7, Oct. 6, 2006, [120 Stat. 1546][/us/stat/120/1546]; [Pub. L. 113–281, title IV][/us/pl/113/281/tIV], § 402, Dec. 18, 2014, [128 Stat. 3056][/us/stat/128/3056].)
 
 <table>
 
@@ -87,9 +87,9 @@ Pub. L. 98–237, § 11(g) (less time limit), Mar. 20, 1984, 98 Stat. 80; Pub.
 
  __Amendments__ 
 
-    2014—Subsec. (b). [Pub. L. 113–281, § 402(1)][/us/pl/113/281/s402/1], struck out “, plus reasonable attorney fees” before period at end.
+    2014—Subsec. (b). [Pub. L. 113–281][/us/pl/113/281], § 402(1), struck out “, plus reasonable attorney fees” before period at end.
 
-    Subsec. (e). [Pub. L. 113–281, § 402(2)][/us/pl/113/281/s402/2], added subsec. (e).
+    Subsec. (e). [Pub. L. 113–281][/us/pl/113/281], § 402(2), added subsec. (e).
 
 ----------
 
@@ -99,12 +99,12 @@ Pub. L. 98–237, § 11(g) (less time limit), Mar. 20, 1984, 98 Stat. 80; Pub.
 ----------
 
 [/us/usc/t46/s41301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs41301%2Fa
-[/us/pl/109/304/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs7
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1546
-[/us/pl/113/281/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281%2Fs402
+[/us/pl/113/281/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281%2FtIV
 [/us/stat/128/3056]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3056
 [/us/usc/t46/s41301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs41301%2Fa
-[/us/pl/113/281/s402/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281%2Fs402%2F1
-[/us/pl/113/281/s402/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281%2Fs402%2F2
+[/us/pl/113/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281
+[/us/pl/113/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281
 
 

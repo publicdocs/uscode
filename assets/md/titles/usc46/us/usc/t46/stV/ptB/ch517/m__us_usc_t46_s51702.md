@@ -27,7 +27,7 @@
 
     The Secretary may, under regulations the Secretary may prescribe, provide for the rating and certification of civilian nautical schools as to the adequacy of their course of instruction, the competence of their instructors, and the suitability of the equipment used in their course of instruction.
 
-([Pub. L. 109–304, § 8(b)][/us/pl/109/304/s8/b], Oct. 6, 2006, [120 Stat. 1582][/us/stat/120/1582].)
+([Pub. L. 109–304][/us/pl/109/304], § 8(b), Oct. 6, 2006, [120 Stat. 1582][/us/stat/120/1582].)
 
 <table>
 
@@ -84,7 +84,7 @@ June 29, 1936, ch. 858, title XIII, § 1307, as added Pub. L. 96–453, § 2
 ----------
 ----------
 
-[/us/pl/109/304/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs8%2Fb
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1582
 
 

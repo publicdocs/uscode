@@ -27,7 +27,7 @@
 
     If a person disobeys a subpoena issued under subsection (a), the Secretary may seek an order enforcing the subpoena from the district court of the United States for the district in which the person resides or does business. Process may be served in the judicial district in which the person resides or is found. The court may issue an order to obey the subpoena and punish a refusal to obey as a contempt of court.
 
-([Pub. L. 109–304, § 8(b)][/us/pl/109/304/s8/b], Oct. 6, 2006, [120 Stat. 1566][/us/stat/120/1566].)
+([Pub. L. 109–304][/us/pl/109/304], § 8(b), Oct. 6, 2006, [120 Stat. 1566][/us/stat/120/1566].)
 
 <table>
 
@@ -86,7 +86,7 @@ June 29, 1936, ch. 858, title II, § 214, 49 Stat. 1991; June 23, 1938, ch. 60
 ----------
 ----------
 
-[/us/pl/109/304/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs8%2Fb
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1566]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1566
 [/us/usc/t1/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft1%2Fs1
 

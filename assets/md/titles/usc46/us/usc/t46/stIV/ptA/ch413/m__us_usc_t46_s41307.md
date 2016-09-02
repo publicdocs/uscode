@@ -55,7 +55,7 @@
 
         (2) a court of appeals of the United States, with the approval of the Attorney General.
 
-([Pub. L. 109–304, § 7][/us/pl/109/304/s7], Oct. 6, 2006, [120 Stat. 1547][/us/stat/120/1547].)
+([Pub. L. 109–304][/us/pl/109/304], § 7, Oct. 6, 2006, [120 Stat. 1547][/us/stat/120/1547].)
 
 <table>
 
@@ -198,7 +198,7 @@ Pub. L. 98–237, § 6(g)–(i), (k), Mar. 20, 1984, 98 Stat. 72, 73.  </td>
 
 [/us/usc/t46/s40304/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs40304%2Fc
 [/us/usc/t46/s40304/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs40304%2Fc%2F2
-[/us/pl/109/304/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs7
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1547
 
 

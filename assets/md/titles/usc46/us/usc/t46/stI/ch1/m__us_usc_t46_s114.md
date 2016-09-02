@@ -17,7 +17,7 @@
 
     In this title, the term “United States”, when used in a geographic sense, means the States of the United States, the District of Columbia, Guam, Puerto Rico, the Virgin Islands, American Samoa, the Northern Mariana Islands, and any other territory or possession of the United States.
 
-([Pub. L. 109–304, § 4][/us/pl/109/304/s4], Oct. 6, 2006, [120 Stat. 1487][/us/stat/120/1487].)
+([Pub. L. 109–304][/us/pl/109/304], § 4, Oct. 6, 2006, [120 Stat. 1487][/us/stat/120/1487].)
 
 <table>
 
@@ -88,7 +88,7 @@ June 29, 1936, ch. 858, title IX, § 905(g), 49 Stat. 2016; as added Pub. L. 9
 ----------
 ----------
 
-[/us/pl/109/304/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs4
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1487]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1487
 
 

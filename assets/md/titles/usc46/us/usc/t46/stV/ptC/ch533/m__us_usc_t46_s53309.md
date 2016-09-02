@@ -17,7 +17,7 @@
 
     For any taxable year, amounts on deposit in a construction reserve fund on the last day of the taxable year, for which the requirements of [section 53310 of this title][/us/usc/t46/s53310] have been satisfied (to the extent they apply on the last day of the taxable year), are deemed to have been retained for the reasonable needs of the business within the meaning of section 537(a) of the Internal Revenue Code of 1986 ([26 U.S.C. 537(a)][/us/usc/t26/s537/a]).
 
-([Pub. L. 109–304, § 8(c)][/us/pl/109/304/s8/c], Oct. 6, 2006, [120 Stat. 1589][/us/stat/120/1589].)
+([Pub. L. 109–304][/us/pl/109/304], § 8(c), Oct. 6, 2006, [120 Stat. 1589][/us/stat/120/1589].)
 
 <table>
 
@@ -76,7 +76,7 @@ June 29, 1936, ch. 858, title V, § 511(f), as added Oct. 10, 1940, ch. 849, 5
 
 [/us/usc/t46/s53310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs53310
 [/us/usc/t26/s537/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs537%2Fa
-[/us/pl/109/304/s8/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs8%2Fc
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1589]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1589
 [/us/usc/t26/s537/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs537%2Fa
 [/us/usc/t26/s531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs531

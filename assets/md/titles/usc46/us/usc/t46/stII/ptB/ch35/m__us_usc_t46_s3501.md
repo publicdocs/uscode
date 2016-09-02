@@ -31,7 +31,7 @@
 
     (e) An offshore supply vessel may not carry passengers except in an emergency.
 
-([Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 519][/us/stat/97/519]; [Pub. L. 99–36, § 1(a)(2)][/us/pl/99/36/s1/a/2], May 15, 1985, [99 Stat. 67][/us/stat/99/67].)
+([Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 519][/us/stat/97/519]; [Pub. L. 99–36][/us/pl/99/36], § 1(a)(2), May 15, 1985, [99 Stat. 67][/us/stat/99/67].)
 
 <table>
 
@@ -79,9 +79,9 @@ Source section (U.S. Code)  </td>
 
  __Amendments__ 
 
-    1985—Subsec. (a). [Pub. L. 99–36, § 1(a)(2)(A)][/us/pl/99/36/s1/a/2/A], struck out the comma after “(except a ferry)”.
+    1985—Subsec. (a). [Pub. L. 99–36][/us/pl/99/36], § 1(a)(2)(A), struck out the comma after “(except a ferry)”.
 
-    Subsec. (c). [Pub. L. 99–36, § 1(a)(2)(B)][/us/pl/99/36/s1/a/2/B], substituted “carries more passengers than the number of passengers permitted by the certificate of inspection” for “violates subsection (b) of this section”.
+    Subsec. (c). [Pub. L. 99–36][/us/pl/99/36], § 1(a)(2)(B), substituted “carries more passengers than the number of passengers permitted by the certificate of inspection” for “violates subsection (b) of this section”.
 
  __Effective Date__ 
 
@@ -96,10 +96,10 @@ Source section (U.S. Code)  </td>
 
 [/us/pl/98/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F89
 [/us/stat/97/519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F519
-[/us/pl/99/36/s1/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F36%2Fs1%2Fa%2F2
+[/us/pl/99/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F36
 [/us/stat/99/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F67
-[/us/pl/99/36/s1/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F36%2Fs1%2Fa%2F2%2FA
-[/us/pl/99/36/s1/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F36%2Fs1%2Fa%2F2%2FB
+[/us/pl/99/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F36
+[/us/pl/99/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F36
 [/us/pl/98/89/s2/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F89%2Fs2%2Fg%2F1
 [/us/usc/t46/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs3101
 

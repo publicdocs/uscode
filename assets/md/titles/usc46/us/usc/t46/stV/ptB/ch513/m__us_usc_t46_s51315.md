@@ -43,7 +43,7 @@
 
     Gifts accepted under this section are a gift to or for the use of the Government under the Internal Revenue Code of 1986.
 
-(Added [Pub. L. 110–417, div. C, title XXXV, § 3506(g)(1)][/us/pl/110/417/s3506/g/1], Oct. 14, 2008, [122 Stat. 4764][/us/stat/122/4764].)
+(Added [Pub. L. 110–417, div. C, title XXXV][/us/pl/110/417/dC/tXXXV], § 3506(g)(1), Oct. 14, 2008, [122 Stat. 4764][/us/stat/122/4764].)
 
  __References in Text__ 
 
@@ -56,7 +56,7 @@
 ----------
 ----------
 
-[/us/pl/110/417/s3506/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417%2Fs3506%2Fg%2F1
+[/us/pl/110/417/dC/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417%2FdC%2FtXXXV
 [/us/stat/122/4764]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4764
 
 

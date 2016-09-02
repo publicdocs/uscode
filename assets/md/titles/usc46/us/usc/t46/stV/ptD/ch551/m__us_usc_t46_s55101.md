@@ -29,7 +29,7 @@
 
         (3) the Virgin Islands until the President declares by proclamation that the coastwise laws apply to the Virgin Islands.
 
-([Pub. L. 109–304, § 8(c)][/us/pl/109/304/s8/c], Oct. 6, 2006, [120 Stat. 1632][/us/stat/120/1632]; [Pub. L. 110–181, div. C, title XXXV, § 3527(a)][/us/pl/110/181/s3527/a], Jan. 28, 2008, [122 Stat. 602][/us/stat/122/602].)
+([Pub. L. 109–304][/us/pl/109/304], § 8(c), Oct. 6, 2006, [120 Stat. 1632][/us/stat/120/1632]; [Pub. L. 110–181, div. C, title XXXV][/us/pl/110/181/dC/tXXXV], § 3527(a), Jan. 28, 2008, [122 Stat. 602][/us/stat/122/602].)
 
 <table>
 
@@ -165,9 +165,9 @@ Proc. No. 3215, Dec. 12, 1957, 72 Stat. c19.  </td>
 ----------
 
 [/us/usc/t48/s1801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1801
-[/us/pl/109/304/s8/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs8%2Fc
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1632
-[/us/pl/110/181/s3527/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs3527%2Fa
+[/us/pl/110/181/dC/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdC%2FtXXXV
 [/us/stat/122/602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F602
 [/us/usc/t48/s1801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1801
 [/us/stat/60/1352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F1352

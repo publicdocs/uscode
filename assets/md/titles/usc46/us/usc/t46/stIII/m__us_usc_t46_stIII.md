@@ -101,7 +101,7 @@
 
  __Amendments__ 
 
-    2006—[Pub. L. 109–304, § 6(a)][/us/pl/109/304/s6/a], Oct. 6, 2006, [120 Stat. 1509][/us/stat/120/1509], amended subtitle analysis generally, substituting “General Liability Provisions” for “General” in item for chapter 301, striking out “\[Chapters 303–311—Reserved\]” after item for chapter 301, adding items for chapters 303, 305, 307, 309, and 311, and striking out “\[Chapter 315—Reserved\]” after item for chapter 313.
+    2006—[Pub. L. 109–304][/us/pl/109/304], § 6(a), Oct. 6, 2006, [120 Stat. 1509][/us/stat/120/1509], amended subtitle analysis generally, substituting “General Liability Provisions” for “General” in item for chapter 301, striking out “\[Chapters 303–311—Reserved\]” after item for chapter 301, adding items for chapters 303, 305, 307, 309, and 311, and striking out “\[Chapter 315—Reserved\]” after item for chapter 313.
 
 ----------
 
@@ -110,7 +110,7 @@
 ----------
 ----------
 
-[/us/pl/109/304/s6/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs6%2Fa
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1509
 
 

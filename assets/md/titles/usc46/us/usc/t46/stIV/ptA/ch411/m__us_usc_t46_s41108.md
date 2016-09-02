@@ -45,7 +45,7 @@
 
     Before an order under this section becomes effective, it shall be submitted immediately to the President. The President, within 10 days after receiving it, may disapprove it if the President finds that disapproval is required for reasons of national defense or foreign policy.
 
-([Pub. L. 109–304, § 7][/us/pl/109/304/s7], Oct. 6, 2006, [120 Stat. 1543][/us/stat/120/1543].)
+([Pub. L. 109–304][/us/pl/109/304], § 7, Oct. 6, 2006, [120 Stat. 1543][/us/stat/120/1543].)
 
 <table>
 
@@ -175,7 +175,7 @@ Pub. L. 100–418, title X, § 10002(h) (related to § 13(b)(6)), Aug. 23, 1
 ----------
 
 [/us/usc/t46/s41303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs41303
-[/us/pl/109/304/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs7
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1543]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1543
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/stat/116/2178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2178

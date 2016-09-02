@@ -51,7 +51,7 @@
 
         (2) after entering a port of the United States, becomes documented as a vessel of the United States before leaving that port.
 
-([Pub. L. 109–304, § 9(b)][/us/pl/109/304/s9/b], Oct. 6, 2006, [120 Stat. 1678][/us/stat/120/1678].)
+([Pub. L. 109–304][/us/pl/109/304], § 9(b), Oct. 6, 2006, [120 Stat. 1678][/us/stat/120/1678].)
 
 <table>
 
@@ -144,7 +144,7 @@ Mar. 4, 1915, ch. 171, § 1, 38 Stat. 1193.  </td>
 ----------
 ----------
 
-[/us/pl/109/304/s9/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs9%2Fb
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1678]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1678
 
 

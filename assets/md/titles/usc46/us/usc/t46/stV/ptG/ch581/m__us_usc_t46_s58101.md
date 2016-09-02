@@ -39,7 +39,7 @@
 
     If an application under subsection (b) is approved, a person referred to in this section may not divert, directly or indirectly, money, property, or any other thing of value, used in a foreign-trade operation for which a subsidy is paid by the United States Government, into intercoastal or coastwise operations.
 
-([Pub. L. 109–304, § 8(c)][/us/pl/109/304/s8/c], Oct. 6, 2006, [120 Stat. 1670][/us/stat/120/1670].)
+([Pub. L. 109–304][/us/pl/109/304], § 8(c), Oct. 6, 2006, [120 Stat. 1670][/us/stat/120/1670].)
 
 <table>
 
@@ -102,7 +102,7 @@ June 29, 1936, ch. 858, title VIII, § 805(a), 49 Stat. 2012; Pub. L. 97–31,
 ----------
 ----------
 
-[/us/pl/109/304/s8/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs8%2Fc
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1670]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1670
 [/us/usc/t18/s3559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3559
 

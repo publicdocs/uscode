@@ -125,7 +125,7 @@
 
     The Committee shall terminate on September 30, 2020.
 
-(Added [Pub. L. 113–281, title III, § 310(a)][/us/pl/113/281/s310/a], Dec. 18, 2014, [128 Stat. 3045][/us/stat/128/3045].)
+(Added [Pub. L. 113–281, title III][/us/pl/113/281/tIII], § 310(a), Dec. 18, 2014, [128 Stat. 3045][/us/stat/128/3045].)
 
 ----------
 
@@ -134,7 +134,7 @@
 ----------
 ----------
 
-[/us/pl/113/281/s310/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281%2Fs310%2Fa
+[/us/pl/113/281/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281%2FtIII
 [/us/stat/128/3045]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3045
 
 

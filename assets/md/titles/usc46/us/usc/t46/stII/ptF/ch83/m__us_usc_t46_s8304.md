@@ -43,7 +43,7 @@
 
     (i) An officer or employee of the Customs Service may be designated to enforce this section.
 
-([Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 552][/us/stat/97/552]; [Pub. L. 104–324, title VII, § 730][/us/pl/104/324/s730], Oct. 19, 1996, [110 Stat. 3940][/us/stat/110/3940].)
+([Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 552][/us/stat/97/552]; [Pub. L. 104–324, title VII][/us/pl/104/324/tVII], § 730, Oct. 19, 1996, [110 Stat. 3940][/us/stat/110/3940].)
 
 <table>
 
@@ -126,7 +126,7 @@ Source section (U.S. Code)  </td>
 [/us/usc/t46/s7101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs7101
 [/us/pl/98/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F89
 [/us/stat/97/552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F552
-[/us/pl/104/324/s730]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2Fs730
+[/us/pl/104/324/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2FtVII
 [/us/stat/110/3940]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3940
 [/us/pl/104/324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324
 [/us/usc/t46/s14502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs14502

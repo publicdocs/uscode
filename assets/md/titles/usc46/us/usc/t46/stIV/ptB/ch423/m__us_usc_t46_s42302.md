@@ -31,7 +31,7 @@
 
     The Commission shall complete an investigation under this section and render a decision within 120 days after it is initiated. However, the Commission may extend this 120-day period for an additional 90 days if the Commission is unable to obtain sufficient information to determine whether a condition specified in subsection (a) exists. A notice providing an extension shall state clearly the reasons for the extension.
 
-([Pub. L. 109–304, § 7][/us/pl/109/304/s7], Oct. 6, 2006, [120 Stat. 1552][/us/stat/120/1552].)
+([Pub. L. 109–304][/us/pl/109/304], § 7, Oct. 6, 2006, [120 Stat. 1552][/us/stat/120/1552].)
 
 <table>
 
@@ -116,7 +116,7 @@ Pub. L. 100–418, title X, § 10002(b), (c), Aug. 23, 1988, 102 Stat. 1570; P
 ----------
 ----------
 
-[/us/pl/109/304/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs7
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1552
 
 

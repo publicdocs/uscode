@@ -89,7 +89,7 @@
 
         (2) 2 years before the termination date set forth in paragraph (1) of this subsection, the Committee shall submit to the Congress its recommendation regarding whether the Committee should be renewed and continued beyond the termination date.
 
-([Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 559][/us/stat/97/559]; [Pub. L. 105–383, title III, § 303][/us/pl/105/383/s303], Nov. 13, 1998, [112 Stat. 3418][/us/stat/112/3418]; [Pub. L. 106–554, § 1(a)(4)][/us/pl/106/554/s1/a/4] \[div. A, § 1118\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–209; [Pub. L. 108–293, title IV, § 418(d)][/us/pl/108/293/s418/d], Aug. 9, 2004, [118 Stat. 1049][/us/stat/118/1049]; [Pub. L. 109–304, § 15(23)][/us/pl/109/304/s15/23], Oct. 6, 2006, [120 Stat. 1704][/us/stat/120/1704]; [Pub. L. 111–281, title VI, § 621(a)][/us/pl/111/281/s621/a], Oct. 15, 2010, [124 Stat. 2976][/us/stat/124/2976].)
+([Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 559][/us/stat/97/559]; [Pub. L. 105–383, title III][/us/pl/105/383/tIII], § 303, Nov. 13, 1998, [112 Stat. 3418][/us/stat/112/3418]; [Pub. L. 106–554][/us/pl/106/554], § 1(a)(4) \[div. A, § 1118\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–209; [Pub. L. 108–293, title IV][/us/pl/108/293/tIV], § 418(d), Aug. 9, 2004, [118 Stat. 1049][/us/stat/118/1049]; [Pub. L. 109–304][/us/pl/109/304], § 15(23), Oct. 6, 2006, [120 Stat. 1704][/us/stat/120/1704]; [Pub. L. 111–281, title VI][/us/pl/111/281/tVI], § 621(a), Oct. 15, 2010, [124 Stat. 2976][/us/stat/124/2976].)
 
 <table>
 
@@ -147,15 +147,15 @@ Source section (U.S. Code)  </td>
 
     2004—Subsec. (f)(1). [Pub. L. 108–293][/us/pl/108/293] substituted “September 30, 2010” for “September 30, 2005”.
 
-    2000—Subsec. (b)(2)(A). [Pub. L. 106–554, § 1(a)(4)][/us/pl/106/554/s1/a/4] \[div. A, § 1118(1)\], amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “three members who are practicing Great Lakes pilots and who reflect a regional balance;”.
+    2000—Subsec. (b)(2)(A). [Pub. L. 106–554][/us/pl/106/554], § 1(a)(4) \[div. A, § 1118(1)\], amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “three members who are practicing Great Lakes pilots and who reflect a regional balance;”.
 
-    Subsec. (b)(2)(E). [Pub. L. 106–554, § 1(a)(4)][/us/pl/106/554/s1/a/4] \[div. A, § 1118(2)\], amended subpar. (E) generally. Prior to amendment, subpar. (E) read as follows: “one member representing the interests of the general public, who is an independent expert on the Great Lakes maritime industry.”
+    Subsec. (b)(2)(E). [Pub. L. 106–554][/us/pl/106/554], § 1(a)(4) \[div. A, § 1118(2)\], amended subpar. (E) generally. Prior to amendment, subpar. (E) read as follows: “one member representing the interests of the general public, who is an independent expert on the Great Lakes maritime industry.”
 
-    Subsec. (c)(2). [Pub. L. 106–554, § 1(a)(4)][/us/pl/106/554/s1/a/4] \[div. A, § 1118(3)\], which directed the striking out of second sentence in subsec. (C)(2), was executed by striking out the second sentence in subsec. (c)(2), “The representatives shall, as appropriate, report to and advise the Committee on matters relating to Great Lakes pilotage.”, to reflect the probable intent of Congress.
+    Subsec. (c)(2). [Pub. L. 106–554][/us/pl/106/554], § 1(a)(4) \[div. A, § 1118(3)\], which directed the striking out of second sentence in subsec. (C)(2), was executed by striking out the second sentence in subsec. (c)(2), “The representatives shall, as appropriate, report to and advise the Committee on matters relating to Great Lakes pilotage.”, to reflect the probable intent of Congress.
 
-    Subsec. (d)(3). [Pub. L. 106–554, § 1(a)(4)][/us/pl/106/554/s1/a/4] \[div. A, § 1118(4)\], added par. (3).
+    Subsec. (d)(3). [Pub. L. 106–554][/us/pl/106/554], § 1(a)(4) \[div. A, § 1118(4)\], added par. (3).
 
-    Subsec. (f)(1). [Pub. L. 106–554, § 1(a)(4)][/us/pl/106/554/s1/a/4] \[div. A, § 1118(5)\], substituted “September 30, 2005” for “September 30, 2003”.
+    Subsec. (f)(1). [Pub. L. 106–554][/us/pl/106/554], § 1(a)(4) \[div. A, § 1118(5)\], substituted “September 30, 2005” for “September 30, 2003”.
 
     1998—[Pub. L. 105–383][/us/pl/105/383] amended section generally, substituting provisions consisting of subsecs. (a) to (f) for former provisions consisting of subsecs. (a) to (c).
 
@@ -174,15 +174,15 @@ Source section (U.S. Code)  </td>
 [/us/usc/t5/s5703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5703
 [/us/pl/98/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F89
 [/us/stat/97/559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F559
-[/us/pl/105/383/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F383%2Fs303
+[/us/pl/105/383/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F383%2FtIII
 [/us/stat/112/3418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3418
-[/us/pl/106/554/s1/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F4
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
-[/us/pl/108/293/s418/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293%2Fs418%2Fd
+[/us/pl/108/293/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293%2FtIV
 [/us/stat/118/1049]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1049
-[/us/pl/109/304/s15/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs15%2F23
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1704
-[/us/pl/111/281/s621/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs621%2Fa
+[/us/pl/111/281/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2FtVI
 [/us/stat/124/2976]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2976
 [/us/pl/92/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463
 [/us/pl/97/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F322
@@ -192,11 +192,11 @@ Source section (U.S. Code)  </td>
 [/us/pl/111/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281
 [/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/pl/108/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293
-[/us/pl/106/554/s1/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F4
-[/us/pl/106/554/s1/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F4
-[/us/pl/106/554/s1/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F4
-[/us/pl/106/554/s1/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F4
-[/us/pl/106/554/s1/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F4
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/pl/105/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F383
 [/us/pl/101/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509
 [/us/usc/t5/s5376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5376

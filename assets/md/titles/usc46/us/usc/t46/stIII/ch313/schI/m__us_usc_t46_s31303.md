@@ -17,7 +17,7 @@
 
     If a mortgage covers a vessel and additional property that is not a vessel, this chapter does not authorize a civil action in rem to enforce the rights of the mortgagee under the mortgage against the additional property.
 
-([Pub. L. 100–710, title I, § 102(c)][/us/pl/100/710/s102/c], Nov. 23, 1988, [102 Stat. 4740][/us/stat/102/4740].)
+([Pub. L. 100–710, title I][/us/pl/100/710/tI], § 102(c), Nov. 23, 1988, [102 Stat. 4740][/us/stat/102/4740].)
 
 <table>
 
@@ -64,7 +64,7 @@ Source section (U.S. Code)  </td>
 ----------
 ----------
 
-[/us/pl/100/710/s102/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F710%2Fs102%2Fc
+[/us/pl/100/710/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F710%2FtI
 [/us/stat/102/4740]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4740
 
 

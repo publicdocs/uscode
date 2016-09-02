@@ -115,7 +115,7 @@
 
  __Amendments__ 
 
-    1993—[Pub. L. 103–206, title IV, § 420(b)][/us/pl/103/206/s420/b], Dec. 20, 1993, [107 Stat. 2438][/us/stat/107/2438], struck out item 10707 “Delivery to district court”.
+    1993—[Pub. L. 103–206, title IV][/us/pl/103/206/tIV], § 420(b), Dec. 20, 1993, [107 Stat. 2438][/us/stat/107/2438], struck out item 10707 “Delivery to district court”.
 
 ----------
 
@@ -124,7 +124,7 @@
 ----------
 ----------
 
-[/us/pl/103/206/s420/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F206%2Fs420%2Fb
+[/us/pl/103/206/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F206%2FtIV
 [/us/stat/107/2438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2438
 
 

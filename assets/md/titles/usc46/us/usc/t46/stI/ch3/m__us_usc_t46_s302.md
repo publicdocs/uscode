@@ -17,7 +17,7 @@
 
     A vacancy or vacancies in the membership of the Federal Maritime Commission do not impair the power of the Commission to execute its functions. The affirmative vote of a majority of the Commissioners serving on the Commission is required to dispose of any matter before the Commission.
 
-([Pub. L. 109–304, § 4][/us/pl/109/304/s4], Oct. 6, 2006, [120 Stat. 1489][/us/stat/120/1489].)
+([Pub. L. 109–304][/us/pl/109/304], § 4, Oct. 6, 2006, [120 Stat. 1489][/us/stat/120/1489].)
 
 <table>
 
@@ -72,7 +72,7 @@ Reorg. Plan No. 7 of 1961, eff. Aug. 12, 1961, § 102(d), 75 Stat. 840; Pub. L
 ----------
 ----------
 
-[/us/pl/109/304/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs4
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1489]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1489
 
 

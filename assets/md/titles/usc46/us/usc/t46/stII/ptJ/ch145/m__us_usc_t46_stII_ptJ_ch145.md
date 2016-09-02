@@ -141,7 +141,7 @@ Historical and Revision Notes  </td>
 
  __Amendments__ 
 
-    2010—[Pub. L. 111–281, title III, § 303(j)][/us/pl/111/281/s303/j], Oct. 15, 2010, [124 Stat. 2926][/us/stat/124/2926], added item 14514.
+    2010—[Pub. L. 111–281, title III][/us/pl/111/281/tIII], § 303(j), Oct. 15, 2010, [124 Stat. 2926][/us/stat/124/2926], added item 14514.
 
 ----------
 
@@ -150,7 +150,7 @@ Historical and Revision Notes  </td>
 ----------
 ----------
 
-[/us/pl/111/281/s303/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs303%2Fj
+[/us/pl/111/281/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2FtIII
 [/us/stat/124/2926]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2926
 
 

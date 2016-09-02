@@ -79,7 +79,7 @@
 
     (h) On full and final discharge of the indebtedness under a mortgage deemed to be a preferred mortgage under [section 31322(d) of this title][/us/usc/t46/s31322/d], a mortgagee, on request of the Secretary, a State, or mortgagor, shall provide the Secretary or the State, as appropriate, with an acknowledged certificate of discharge of the indebtedness in a form prescribed by the Secretary or the State, as applicable. If filed with the Secretary, the Secretary shall enter that information in the vessel identification system under chapter 125 of this title.
 
-([Pub. L. 100–710, title I, § 102(c)][/us/pl/100/710/s102/c], Nov. 23, 1988, [102 Stat. 4741][/us/stat/102/4741]; [Pub. L. 101–225, title III, § 303(2)][/us/pl/101/225/s303/2], Dec. 12, 1989, [103 Stat. 1923][/us/stat/103/1923]; [Pub. L. 104–324, title III, § 305][/us/pl/104/324/s305], Oct. 19, 1996, [110 Stat. 3918][/us/stat/110/3918]; [Pub. L. 107–295, title IV, § 420][/us/pl/107/295/s420], Nov. 25, 2002, [116 Stat. 2124][/us/stat/116/2124]; [Pub. L. 111–281, title IX, § 913(a)(1)][/us/pl/111/281/s913/a/1], Oct. 15, 2010, [124 Stat. 3017][/us/stat/124/3017].)
+([Pub. L. 100–710, title I][/us/pl/100/710/tI], § 102(c), Nov. 23, 1988, [102 Stat. 4741][/us/stat/102/4741]; [Pub. L. 101–225, title III][/us/pl/101/225/tIII], § 303(2), Dec. 12, 1989, [103 Stat. 1923][/us/stat/103/1923]; [Pub. L. 104–324, title III][/us/pl/104/324/tIII], § 305, Oct. 19, 1996, [110 Stat. 3918][/us/stat/110/3918]; [Pub. L. 107–295, title IV][/us/pl/107/295/tIV], § 420, Nov. 25, 2002, [116 Stat. 2124][/us/stat/116/2124]; [Pub. L. 111–281, title IX][/us/pl/111/281/tIX], § 913(a)(1), Oct. 15, 2010, [124 Stat. 3017][/us/stat/124/3017].)
 
 <table>
 
@@ -260,15 +260,15 @@ New  </td>
 
 [/us/usc/t46/s31322/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs31322%2Fd
 [/us/usc/t46/s31322/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs31322%2Fd
-[/us/pl/100/710/s102/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F710%2Fs102%2Fc
+[/us/pl/100/710/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F710%2FtI
 [/us/stat/102/4741]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4741
-[/us/pl/101/225/s303/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F225%2Fs303%2F2
+[/us/pl/101/225/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F225%2FtIII
 [/us/stat/103/1923]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1923
-[/us/pl/104/324/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2Fs305
+[/us/pl/104/324/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2FtIII
 [/us/stat/110/3918]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3918
-[/us/pl/107/295/s420]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295%2Fs420
+[/us/pl/107/295/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295%2FtIV
 [/us/stat/116/2124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2124
-[/us/pl/111/281/s913/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs913%2Fa%2F1
+[/us/pl/111/281/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2FtIX
 [/us/stat/124/3017]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3017
 [/us/usc/t46/s12503/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs12503%2Fc
 [/us/pl/111/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281

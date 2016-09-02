@@ -17,7 +17,7 @@
 
     A freight vessel of less than 100 gross tons as measured under [section 14502 of this title][/us/usc/t46/s14502], or an alternate tonnage measured under [section 14302 of this title][/us/usc/t46/s14302] as prescribed by the Secretary under [section 14104 of this title][/us/usc/t46/s14104] shall be operated by an individual licensed by the Secretary to operate that type of vessel in the particular geographic area, under prescribed regulations.
 
-([Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 555][/us/stat/97/555]; [Pub. L. 104–324, title VII, § 733][/us/pl/104/324/s733], Oct. 19, 1996, [110 Stat. 3941][/us/stat/110/3941].)
+([Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 555][/us/stat/97/555]; [Pub. L. 104–324, title VII][/us/pl/104/324/tVII], § 733, Oct. 19, 1996, [110 Stat. 3941][/us/stat/110/3941].)
 
 <table>
 
@@ -73,7 +73,7 @@ Source section (U.S. Code)  </td>
 [/us/usc/t46/s14104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs14104
 [/us/pl/98/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F89
 [/us/stat/97/555]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F555
-[/us/pl/104/324/s733]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2Fs733
+[/us/pl/104/324/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2FtVII
 [/us/stat/110/3941]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3941
 [/us/pl/104/324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324
 [/us/usc/t46/s14502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs14502

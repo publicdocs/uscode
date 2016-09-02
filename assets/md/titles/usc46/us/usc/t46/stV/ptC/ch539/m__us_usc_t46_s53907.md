@@ -23,7 +23,7 @@
 
     The Secretary may not provide reinsurance at rates less than, nor obtain reinsurance at rates more than, the rates established by the Secretary on the same or similar risks or the rates charged by the insurance company for the insurance reinsured, whichever is more advantageous to the Secretary. However, the Secretary may provide an allowance to the insurance company for the costs of services and facilities the company provides, in an amount the Secretary considers reasonable according to good business practice. The allowance to the company may not include any amount for soliciting or stimulating insurance business.
 
-([Pub. L. 109–304, § 8(c)][/us/pl/109/304/s8/c], Oct. 6, 2006, [120 Stat. 1629][/us/stat/120/1629].)
+([Pub. L. 109–304][/us/pl/109/304], § 8(c), Oct. 6, 2006, [120 Stat. 1629][/us/stat/120/1629].)
 
 <table>
 
@@ -80,7 +80,7 @@ June 29, 1936, ch. 858, title XII, § 1207, as added Sept. 7, 1950, ch. 906, 6
 ----------
 ----------
 
-[/us/pl/109/304/s8/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs8%2Fc
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1629
 
 

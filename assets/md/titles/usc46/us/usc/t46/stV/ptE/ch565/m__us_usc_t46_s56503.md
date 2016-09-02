@@ -43,7 +43,7 @@
 
     Under subsection (b)(6), capital of the applicant represented by a vessel of the applicant laid-up or operated under this section shall be included in capital necessarily employed in the applicant’s business. The Secretary may require a vessel laid-up or operated under this section to be security for reimbursement.
 
-([Pub. L. 109–304, § 8(c)][/us/pl/109/304/s8/c], Oct. 6, 2006, [120 Stat. 1657][/us/stat/120/1657].)
+([Pub. L. 109–304][/us/pl/109/304], § 8(c), Oct. 6, 2006, [120 Stat. 1657][/us/stat/120/1657].)
 
 <table>
 
@@ -98,7 +98,7 @@ June 29, 1940, ch. 442, subdiv. (c), 54 Stat. 685; Pub. L. 97–31, § 12(132)
 ----------
 ----------
 
-[/us/pl/109/304/s8/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs8%2Fc
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1657]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1657
 
 

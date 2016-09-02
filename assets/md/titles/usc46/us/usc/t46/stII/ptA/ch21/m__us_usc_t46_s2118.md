@@ -17,17 +17,23 @@
 
     (a)
 
-     In establishing standards for approved equipment required on vessels subject to part B of this title, <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “this subtitle,”. </sup></sup>  the Secretary shall establish standards that are—
+     In establishing standards for approved equipment required on vessels subject to part B of this subtitle, the Secretary shall establish standards that are—
 
         (1) based on performance using the best available technology that is economically achievable; and
 
         (2) operationally practical.
 
-    (b) Using the standards established under subsection (a), the Secretary may also certify lifesaving equipment that is not required to be carried on vessels subject to part B of this title  <sup>\[2\]</sup>  <sup><sup> 2 So in original. Probably should be “this subtitle”. </sup></sup>  to ensure that such equipment is suitable for its intended purpose.
+    (b) Using the standards established under subsection (a), the Secretary may also certify lifesaving equipment that is not required to be carried on vessels subject to part B of this subtitle to ensure that such equipment is suitable for its intended purpose.
 
     (c) At least once every 10 years the Secretary shall review and revise the standards established under subsection (a) to ensure that the standards meet the requirements of this section.
 
-(Added [Pub. L. 111–281, title VI, § 608(a)][/us/pl/111/281/s608/a], Oct. 15, 2010, [124 Stat. 2968][/us/stat/124/2968].)
+(Added [Pub. L. 111–281, title VI][/us/pl/111/281/tVI], § 608(a), Oct. 15, 2010, [124 Stat. 2968][/us/stat/124/2968]; amended [Pub. L. 114–120, title III][/us/pl/114/120/tIII], § 306(a)(2), Feb. 8, 2016, [130 Stat. 54][/us/stat/130/54].)
+
+ __Amendments__ 
+
+    2016—Subsec. (a). [Pub. L. 114–120][/us/pl/114/120], § 306(a)(2)(A), substituted “subtitle,” for “title,”.
+
+    Subsec. (b). [Pub. L. 114–120][/us/pl/114/120], § 306(a)(2)(B), substituted “subtitle” for “title”.
 
 ----------
 
@@ -36,7 +42,11 @@
 ----------
 ----------
 
-[/us/pl/111/281/s608/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs608%2Fa
+[/us/pl/111/281/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2FtVI
 [/us/stat/124/2968]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2968
+[/us/pl/114/120/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F120%2FtIII
+[/us/stat/130/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F54
+[/us/pl/114/120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F120
+[/us/pl/114/120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F120
 
 

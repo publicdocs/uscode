@@ -23,7 +23,7 @@
 
     (d) The Secretary may delegate to a qualified person that has knowledge and experience in the collection of statistical insurance data the authority of the Secretary under this section to compile statistics from insurers.
 
-(Added [Pub. L. 100–424, § 4(a)][/us/pl/100/424/s4/a], Sept. 9, 1988, [102 Stat. 1590][/us/stat/102/1590].)
+(Added [Pub. L. 100–424][/us/pl/100/424], § 4(a), Sept. 9, 1988, [102 Stat. 1590][/us/stat/102/1590].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/100/424/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F424%2Fs4%2Fa
+[/us/pl/100/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F424
 [/us/stat/102/1590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1590
 
 

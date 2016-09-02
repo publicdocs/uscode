@@ -21,7 +21,7 @@
 
     (2) charge fees under [section 12505 of this title][/us/usc/t46/s12505] to a person making information available to or requesting information from the vessel identification system.
 
-(Added [Pub. L. 100–710, title I, § 101(a)][/us/pl/100/710/s101/a], Nov. 23, 1988, [102 Stat. 4737][/us/stat/102/4737].)
+(Added [Pub. L. 100–710, title I][/us/pl/100/710/tI], § 101(a), Nov. 23, 1988, [102 Stat. 4737][/us/stat/102/4737].)
 
  __Historical and Revision Notes__ 
 
@@ -37,7 +37,7 @@
 ----------
 
 [/us/usc/t46/s12505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs12505
-[/us/pl/100/710/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F710%2Fs101%2Fa
+[/us/pl/100/710/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F710%2FtI
 [/us/stat/102/4737]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4737
 
 

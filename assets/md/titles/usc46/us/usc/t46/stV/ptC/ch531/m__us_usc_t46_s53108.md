@@ -33,7 +33,7 @@
 
         (3) at the end of its useful life, such equipment will be replaced with equipment that meets Federal Communications Commission equipment certification standards.
 
-(Added [Pub. L. 108–136, div. C, title XXXV, § 3531(a)][/us/pl/108/136/s3531/a], Nov. 24, 2003, [117 Stat. 1816][/us/stat/117/1816]; amended [Pub. L. 109–304, § 13(a)(7)][/us/pl/109/304/s13/a/7], Oct. 6, 2006, [120 Stat. 1701][/us/stat/120/1701].)
+(Added [Pub. L. 108–136, div. C, title XXXV][/us/pl/108/136/dC/tXXXV], § 3531(a), Nov. 24, 2003, [117 Stat. 1816][/us/stat/117/1816]; amended [Pub. L. 109–304][/us/pl/109/304], § 13(a)(7), Oct. 6, 2006, [120 Stat. 1701][/us/stat/120/1701].)
 
  __Amendments__ 
 
@@ -47,9 +47,9 @@
 ----------
 
 [/us/usc/t46/s55305/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs55305%2Fa
-[/us/pl/108/136/s3531/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs3531%2Fa
+[/us/pl/108/136/dC/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdC%2FtXXXV
 [/us/stat/117/1816]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1816
-[/us/pl/109/304/s13/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs13%2Fa%2F7
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1701
 [/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/usc/t46/s55305/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs55305%2Fa

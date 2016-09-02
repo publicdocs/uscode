@@ -347,11 +347,11 @@ Part G—Restrictions and Penalties  </td>
 
  __Amendments__ 
 
-    2008—[Pub. L. 110–181, div. C, title XXXV, § 3523(a)(6)(E)][/us/pl/110/181/s3523/a/6/E], Jan. 28, 2008, [122 Stat. 600][/us/stat/122/600], added item for chapter 541.
+    2008—[Pub. L. 110–181, div. C, title XXXV][/us/pl/110/181/dC/tXXXV], § 3523(a)(6)(E), Jan. 28, 2008, [122 Stat. 600][/us/stat/122/600], added item for chapter 541.
 
-    2007—[Pub. L. 110–140, title XI, § 1121(b)][/us/pl/110/140/s1121/b], Dec. 19, 2007, [121 Stat. 1762][/us/stat/121/1762], added item for chapter 556.
+    2007—[Pub. L. 110–140, title XI][/us/pl/110/140/tXI], § 1121(b), Dec. 19, 2007, [121 Stat. 1762][/us/stat/121/1762], added item for chapter 556.
 
-    2006—[Pub. L. 109–304, § 8(a)][/us/pl/109/304/s8/a], Oct. 6, 2006, [120 Stat. 1555][/us/stat/120/1555], amended subtitle analysis generally. Prior to amendment, analysis consisted of item for chapter 531 “Maritime Security Fleet”.
+    2006—[Pub. L. 109–304][/us/pl/109/304], § 8(a), Oct. 6, 2006, [120 Stat. 1555][/us/stat/120/1555], amended subtitle analysis generally. Prior to amendment, analysis consisted of item for chapter 531 “Maritime Security Fleet”.
 
 ----------
 
@@ -360,11 +360,11 @@ Part G—Restrictions and Penalties  </td>
 ----------
 ----------
 
-[/us/pl/110/181/s3523/a/6/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs3523%2Fa%2F6%2FE
+[/us/pl/110/181/dC/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdC%2FtXXXV
 [/us/stat/122/600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F600
-[/us/pl/110/140/s1121/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs1121%2Fb
+[/us/pl/110/140/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2FtXI
 [/us/stat/121/1762]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1762
-[/us/pl/109/304/s8/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs8%2Fa
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1555]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1555
 
 

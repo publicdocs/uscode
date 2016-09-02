@@ -25,7 +25,7 @@
 
     (e) A person causing or allowing the alteration, concealment, or removal of a mark placed on a vessel under [section 5103(b) of this title][/us/usc/t46/s5103/b] and the regulations prescribed under this chapter, except to make a lawful change or to escape enemy capture in time of war, commits a class A misdemeanor.
 
-([Pub. L. 99–509, title V, § 5101(2)][/us/pl/99/509/s5101/2], Oct. 21, 1986, [100 Stat. 1918][/us/stat/100/1918]; [Pub. L. 101–380, title IV, § 4302(d)][/us/pl/101/380/s4302/d], Aug. 18, 1990, [104 Stat. 538][/us/stat/104/538].)
+([Pub. L. 99–509, title V][/us/pl/99/509/tV], § 5101(2), Oct. 21, 1986, [100 Stat. 1918][/us/stat/100/1918]; [Pub. L. 101–380, title IV][/us/pl/101/380/tIV], § 4302(d), Aug. 18, 1990, [104 Stat. 538][/us/stat/104/538].)
 
  __Historical and Revision Notes__ 
 
@@ -49,9 +49,9 @@
 
  __Amendments__ 
 
-    1990—Subsec. (d). [Pub. L. 101–380, § 4302(d)(1)][/us/pl/101/380/s4302/d/1], substituted “commits a class A misdemeanor” for “shall be fined not more than $10,000, imprisoned for not more than one year, or both”.
+    1990—Subsec. (d). [Pub. L. 101–380][/us/pl/101/380], § 4302(d)(1), substituted “commits a class A misdemeanor” for “shall be fined not more than $10,000, imprisoned for not more than one year, or both”.
 
-    Subsec. (e). [Pub. L. 101–380, § 4302(d)(2)][/us/pl/101/380/s4302/d/2], substituted “commits a class A misdemeanor” for “shall be fined not more than $10,000, imprisoned for not more than 2 years, or both”.
+    Subsec. (e). [Pub. L. 101–380][/us/pl/101/380], § 4302(d)(2), substituted “commits a class A misdemeanor” for “shall be fined not more than $10,000, imprisoned for not more than 2 years, or both”.
 
  __Effective Date of 1990 Amendment__ 
 
@@ -68,12 +68,12 @@
 [/us/usc/t46/s5112/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs5112%2Fb
 [/us/usc/t46/s5113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs5113
 [/us/usc/t46/s5103/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs5103%2Fb
-[/us/pl/99/509/s5101/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2Fs5101%2F2
+[/us/pl/99/509/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2FtV
 [/us/stat/100/1918]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1918
-[/us/pl/101/380/s4302/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2Fs4302%2Fd
+[/us/pl/101/380/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2FtIV
 [/us/stat/104/538]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F538
-[/us/pl/101/380/s4302/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2Fs4302%2Fd%2F1
-[/us/pl/101/380/s4302/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2Fs4302%2Fd%2F2
+[/us/pl/101/380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380
+[/us/pl/101/380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380
 [/us/pl/101/380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380
 [/us/pl/101/380/s1020]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2Fs1020
 [/us/usc/t33/s2701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2701

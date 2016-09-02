@@ -551,25 +551,25 @@ Part J—Measurement of Vessels  </td>
 
  __Amendments__ 
 
-    2006—[Pub. L. 109–304, § 15(1)][/us/pl/109/304/s15/1], Oct. 6, 2006, [120 Stat. 1702][/us/stat/120/1702], in each chapter item, capitalized first letter of each word containing 4 or more letters, struck out item for chapter 39 “Carriage of animals”, and substituted “Uninspected Commercial Fishing Industry Vessels” for “Fish processing vessels” in item 45.
+    2006—[Pub. L. 109–304][/us/pl/109/304], § 15(1), Oct. 6, 2006, [120 Stat. 1702][/us/stat/120/1702], in each chapter item, capitalized first letter of each word containing 4 or more letters, struck out item for chapter 39 “Carriage of animals”, and substituted “Uninspected Commercial Fishing Industry Vessels” for “Fish processing vessels” in item 45.
 
-    2000—[Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title X, § 1087(g)(6)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–294, substituted “mariner benefits” for “Mariner Benefits” in item 112.
+    2000—[Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title X, § 1087(g)(6)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–294, substituted “mariner benefits” for “Mariner Benefits” in item 112.
 
-    1998—[Pub. L. 105–368, title IV, § 402(b)][/us/pl/105/368/s402/b], Nov. 11, 1998, [112 Stat. 3337][/us/stat/112/3337], added item 112.
+    1998—[Pub. L. 105–368, title IV][/us/pl/105/368/tIV], § 402(b), Nov. 11, 1998, [112 Stat. 3337][/us/stat/112/3337], added item 112.
 
-    1996—[Pub. L. 104–324, title VI, § 602(b)][/us/pl/104/324/s602/b], Oct. 19, 1996, [110 Stat. 3930][/us/stat/110/3930], added item 32.
+    1996—[Pub. L. 104–324, title VI][/us/pl/104/324/tVI], § 602(b), Oct. 19, 1996, [110 Stat. 3930][/us/stat/110/3930], added item 32.
 
-    1992—[Pub. L. 102–587, title V, § 5304][/us/pl/102/587/s5304], Nov. 4, 1992, [106 Stat. 5083][/us/stat/106/5083], added item 47.
+    1992—[Pub. L. 102–587, title V][/us/pl/102/587/tV], § 5304, Nov. 4, 1992, [106 Stat. 5083][/us/stat/106/5083], added item 47.
 
-    1988—[Pub. L. 100–710, title I, § 101(b)][/us/pl/100/710/s101/b], Nov. 23, 1988, [102 Stat. 4738][/us/stat/102/4738], added item 125.
+    1988—[Pub. L. 100–710, title I][/us/pl/100/710/tI], § 101(b), Nov. 23, 1988, [102 Stat. 4738][/us/stat/102/4738], added item 125.
 
-    [Pub. L. 100–424, § 6(b)][/us/pl/100/424/s6/b], Sept. 9, 1988, [102 Stat. 1592][/us/stat/102/1592], added item 106.
+    [Pub. L. 100–424][/us/pl/100/424], § 6(b), Sept. 9, 1988, [102 Stat. 1592][/us/stat/102/1592], added item 106.
 
-    1986—[Pub. L. 99–509, title V, § 5101(1)][/us/pl/99/509/s5101/1], Oct. 21, 1986, [100 Stat. 1913][/us/stat/100/1913], inserted items for parts C and J.
+    1986—[Pub. L. 99–509, title V][/us/pl/99/509/tV], § 5101(1), Oct. 21, 1986, [100 Stat. 1913][/us/stat/100/1913], inserted items for parts C and J.
 
-    1985—[Pub. L. 99–36, § 1(a)(9)(A)][/us/pl/99/36/s1/a/9/A], May 15, 1985, [99 Stat. 67][/us/stat/99/67], substituted “Merchant Seamen Licenses, Certifications, and” for “Licenses, Certificates, and Merchant Mariners’ ” in heading for part E.
+    1985—[Pub. L. 99–36][/us/pl/99/36], § 1(a)(9)(A), May 15, 1985, [99 Stat. 67][/us/stat/99/67], substituted “Merchant Seamen Licenses, Certifications, and” for “Licenses, Certificates, and Merchant Mariners’ ” in heading for part E.
 
-    1984—[Pub. L. 98–364, title IV, § 402(7)(A)][/us/pl/98/364/s402/7/A], July 17, 1984, [98 Stat. 446][/us/stat/98/446], inserted “generally” in item 41, reenacted item 43 without change, and added item 45.
+    1984—[Pub. L. 98–364, title IV][/us/pl/98/364/tIV], § 402(7)(A), July 17, 1984, [98 Stat. 446][/us/stat/98/446], inserted “generally” in item 41, reenacted item 43 without change, and added item 45.
 
 ----------
 
@@ -578,25 +578,25 @@ Part J—Measurement of Vessels  </td>
 ----------
 ----------
 
-[/us/pl/109/304/s15/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs15%2F1
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1702
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
-[/us/pl/105/368/s402/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368%2Fs402%2Fb
+[/us/pl/105/368/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368%2FtIV
 [/us/stat/112/3337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3337
-[/us/pl/104/324/s602/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2Fs602%2Fb
+[/us/pl/104/324/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2FtVI
 [/us/stat/110/3930]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3930
-[/us/pl/102/587/s5304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F587%2Fs5304
+[/us/pl/102/587/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F587%2FtV
 [/us/stat/106/5083]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F5083
-[/us/pl/100/710/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F710%2Fs101%2Fb
+[/us/pl/100/710/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F710%2FtI
 [/us/stat/102/4738]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4738
-[/us/pl/100/424/s6/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F424%2Fs6%2Fb
+[/us/pl/100/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F424
 [/us/stat/102/1592]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1592
-[/us/pl/99/509/s5101/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2Fs5101%2F1
+[/us/pl/99/509/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2FtV
 [/us/stat/100/1913]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1913
-[/us/pl/99/36/s1/a/9/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F36%2Fs1%2Fa%2F9%2FA
+[/us/pl/99/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F36
 [/us/stat/99/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F67
-[/us/pl/98/364/s402/7/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F364%2Fs402%2F7%2FA
+[/us/pl/98/364/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F364%2FtIV
 [/us/stat/98/446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F446
 
 

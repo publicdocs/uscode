@@ -43,7 +43,7 @@
 
         (2) with respect to vessels that are ferries, the sizes of the ferry systems within which the vessels operate.
 
-(Added [Pub. L. 104–324, title VI, § 602(a)][/us/pl/104/324/s602/a], Oct. 19, 1996, [110 Stat. 3928][/us/stat/110/3928]; amended [Pub. L. 108–293, title IV, § 405(b)][/us/pl/108/293/s405/b], Aug. 9, 2004, [118 Stat. 1043][/us/stat/118/1043]; [Pub. L. 111–281, title VI, § 610(b)][/us/pl/111/281/s610/b], Oct. 15, 2010, [124 Stat. 2969][/us/stat/124/2969].)
+(Added [Pub. L. 104–324, title VI][/us/pl/104/324/tVI], § 602(a), Oct. 19, 1996, [110 Stat. 3928][/us/stat/110/3928]; amended [Pub. L. 108–293, title IV][/us/pl/108/293/tIV], § 405(b), Aug. 9, 2004, [118 Stat. 1043][/us/stat/118/1043]; [Pub. L. 111–281, title VI][/us/pl/111/281/tVI], § 610(b), Oct. 15, 2010, [124 Stat. 2969][/us/stat/124/2969].)
 
  __Amendments__ 
 
@@ -59,11 +59,11 @@
 ----------
 
 [/us/usc/t46/s3202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs3202%2Fa
-[/us/pl/104/324/s602/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2Fs602%2Fa
+[/us/pl/104/324/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2FtVI
 [/us/stat/110/3928]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3928
-[/us/pl/108/293/s405/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293%2Fs405%2Fb
+[/us/pl/108/293/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293%2FtIV
 [/us/stat/118/1043]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1043
-[/us/pl/111/281/s610/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs610%2Fb
+[/us/pl/111/281/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2FtVI
 [/us/stat/124/2969]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2969
 [/us/pl/111/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281
 [/us/pl/108/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293

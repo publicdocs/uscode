@@ -71,7 +71,7 @@ Source section (U.S. Code)  </td>
 
  __Construction__ 
 
-[Pub. L. 98–89, § 2(h)][/us/pl/98/89/s2/h], Aug. 26, 1983, [97 Stat. 599][/us/stat/97/599], provided that: 
+[Pub. L. 98–89][/us/pl/98/89], § 2(h), Aug. 26, 1983, [97 Stat. 599][/us/stat/97/599], provided that: 
 
 > “Chapter 63 of title 46 (as enacted by section 1 of this Act) does not supersede section 304(a)(1)(E) of the Independent Safety Board Act of 1974 (49 App. U.S.C. 1903(a)(1)(E)) \[see [49 U.S.C. 1131(a)(1)(E)][/us/usc/t49/s1131/a/1/E], (b)\].”
 
@@ -88,7 +88,7 @@ Source section (U.S. Code)  </td>
 
 [/us/pl/98/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F89
 [/us/stat/97/537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F537
-[/us/pl/98/89/s2/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F89%2Fs2%2Fh
+[/us/pl/98/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F89
 [/us/stat/97/599]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F599
 [/us/usc/t49/s1131/a/1/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs1131%2Fa%2F1%2FE
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542

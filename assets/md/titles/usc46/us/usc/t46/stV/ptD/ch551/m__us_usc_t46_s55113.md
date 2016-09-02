@@ -21,7 +21,7 @@
 
     (2) the foreign country has by its laws accorded to vessels of the United States the same privileges accorded to vessels of the foreign country under this section.
 
-([Pub. L. 109–304, § 8(c)][/us/pl/109/304/s8/c], Oct. 6, 2006, [120 Stat. 1638][/us/stat/120/1638].)
+([Pub. L. 109–304][/us/pl/109/304], § 8(c), Oct. 6, 2006, [120 Stat. 1638][/us/stat/120/1638].)
 
 <table>
 
@@ -76,7 +76,7 @@ Pub. L. 104–324, title XI, § 1117, Oct. 19, 1996, 110 Stat. 3973.  </td>
 ----------
 ----------
 
-[/us/pl/109/304/s8/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs8%2Fc
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1638
 
 

@@ -41,7 +41,7 @@
 
     Subject to the laws of the United States regulating the coastwise trade, a vessel for which a coastwise endorsement is issued may engage in the coastwise trade.
 
-([Pub. L. 109–304, § 5][/us/pl/109/304/s5], Oct. 6, 2006, [120 Stat. 1495][/us/stat/120/1495].)
+([Pub. L. 109–304][/us/pl/109/304], § 5, Oct. 6, 2006, [120 Stat. 1495][/us/stat/120/1495].)
 
 <table>
 
@@ -105,11 +105,11 @@ Source (Statutes at Large)  </td>
 
  __Prior Provisions__ 
 
-    A prior section 12112, [Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 588][/us/stat/97/588]; [Pub. L. 100–710, title I, § 104(a)(4)][/us/pl/100/710/s104/a/4], Nov. 23, 1988, [102 Stat. 4750][/us/stat/102/4750]; [Pub. L. 101–225, title III, § 301(a)(11)][/us/pl/101/225/s301/a/11], Dec. 12, 1989, [103 Stat. 1922][/us/stat/103/1922], originally derived from section 65p of former Title 46, Shipping, related to vessels procured outside the United States, prior to the general amendment of this chapter by [Pub. L. 109–304][/us/pl/109/304]. See [section 12115 of this title][/us/usc/t46/s12115].
+    A prior section 12112, [Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 588][/us/stat/97/588]; [Pub. L. 100–710, title I][/us/pl/100/710/tI], § 104(a)(4), Nov. 23, 1988, [102 Stat. 4750][/us/stat/102/4750]; [Pub. L. 101–225, title III][/us/pl/101/225/tIII], § 301(a)(11), Dec. 12, 1989, [103 Stat. 1922][/us/stat/103/1922], originally derived from section 65p of former Title 46, Shipping, related to vessels procured outside the United States, prior to the general amendment of this chapter by [Pub. L. 109–304][/us/pl/109/304]. See [section 12115 of this title][/us/usc/t46/s12115].
 
  __Certain Vessels Engaged in Alaska Coastwise Trade__ 
 
-[Pub. L. 108–293, title VI, § 608(b)][/us/pl/108/293/s608/b], Aug. 9, 2004, [118 Stat. 1056][/us/stat/118/1056], provided that:
+[Pub. L. 108–293, title VI][/us/pl/108/293/tVI], § 608(b), Aug. 9, 2004, [118 Stat. 1056][/us/stat/118/1056], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -136,17 +136,17 @@ Source (Statutes at Large)  </td>
 
 [/us/usc/t46/s12103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs12103
 [/us/usc/t46/s12107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs12107
-[/us/pl/109/304/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs5
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1495
 [/us/pl/98/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F89
 [/us/stat/97/588]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F588
-[/us/pl/100/710/s104/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F710%2Fs104%2Fa%2F4
+[/us/pl/100/710/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F710%2FtI
 [/us/stat/102/4750]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4750
-[/us/pl/101/225/s301/a/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F225%2Fs301%2Fa%2F11
+[/us/pl/101/225/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F225%2FtIII
 [/us/stat/103/1922]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1922
 [/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/usc/t46/s12115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs12115
-[/us/pl/108/293/s608/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293%2Fs608%2Fb
+[/us/pl/108/293/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293%2FtVI
 [/us/stat/118/1056]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1056
 [/us/usc/t46/s50501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs50501
 [/us/usc/t46/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs101

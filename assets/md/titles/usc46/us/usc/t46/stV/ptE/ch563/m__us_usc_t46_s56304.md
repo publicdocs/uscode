@@ -17,7 +17,7 @@
 
     If the person entitled to compensation disputes the amount of just compensation determined by the Secretary of Transportation under this chapter, the Secretary shall pay the person, as a tentative advance, 75 percent of the amount determined. The person may bring a civil action against the United States to recover just compensation. If the tentative advance paid under this section is greater than the amount of the court’s judgment, the person shall refund the difference.
 
-([Pub. L. 109–304, § 8(c)][/us/pl/109/304/s8/c], Oct. 6, 2006, [120 Stat. 1655][/us/stat/120/1655].)
+([Pub. L. 109–304][/us/pl/109/304], § 8(c), Oct. 6, 2006, [120 Stat. 1655][/us/stat/120/1655].)
 
 <table>
 
@@ -74,7 +74,7 @@ June 29, 1936, ch. 858, title IX, § 902(c) (2d sentence), (d) (1st par. words
 ----------
 ----------
 
-[/us/pl/109/304/s8/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs8%2Fc
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1655]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1655
 
 

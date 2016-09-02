@@ -25,7 +25,7 @@
 
     (b) [Section 4102(a) of this title][/us/usc/t46/s4102/a] does not apply to a vessel propelled by outboard motors when competing in a race previously arranged and announced or, if the vessel is designed and intended only for racing, when operated incidental to tuning up the vessel and its engines for the race.
 
-([Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 529][/us/stat/97/529]; [Pub. L. 100–540, § 2][/us/pl/100/540/s2], Oct. 28, 1988, [102 Stat. 2719][/us/stat/102/2719].)
+([Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 529][/us/stat/97/529]; [Pub. L. 100–540][/us/pl/100/540], § 2, Oct. 28, 1988, [102 Stat. 2719][/us/stat/102/2719].)
 
 <table>
 
@@ -79,7 +79,7 @@ Source section (U.S. Code)  </td>
 [/us/usc/t46/s4102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs4102%2Fa
 [/us/pl/98/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F89
 [/us/stat/97/529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F529
-[/us/pl/100/540/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F540%2Fs2
+[/us/pl/100/540]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F540
 [/us/stat/102/2719]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2719
 [/us/pl/100/540]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F540
 

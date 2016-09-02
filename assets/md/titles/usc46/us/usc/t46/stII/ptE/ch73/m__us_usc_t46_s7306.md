@@ -43,7 +43,7 @@
 
         (6) able seaman—fishing industry.
 
-([Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 542][/us/stat/97/542]; [Pub. L. 98–364, title IV, § 402(9)(C)][/us/pl/98/364/s402/9/C], July 17, 1984, [98 Stat. 448][/us/stat/98/448].)
+([Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 542][/us/stat/97/542]; [Pub. L. 98–364, title IV][/us/pl/98/364/tIV], § 402(9)(C), July 17, 1984, [98 Stat. 448][/us/stat/98/448].)
 
 <table>
 
@@ -95,7 +95,7 @@ Source section (U.S. Code)  </td>
 
  __Acceptance of Certain Services Toward Endorsement as Able Seaman__ 
 
-[Pub. L. 101–595, title VI, § 602(e)(3)][/us/pl/101/595/s602/e/3], Nov. 16, 1990, [104 Stat. 2992][/us/stat/104/2992], provided that: 
+[Pub. L. 101–595, title VI][/us/pl/101/595/tVI], § 602(e)(3), Nov. 16, 1990, [104 Stat. 2992][/us/stat/104/2992], provided that: 
 
 > “For the purposes of chapter 73 of title 46, United States Code, the Secretary of Transportation shall accept the service used by an individual to qualify for an endorsement as able seaman—fishing industry as qualifying service toward an endorsement as an able seaman—
 
@@ -112,12 +112,12 @@ Source section (U.S. Code)  </td>
 
 [/us/pl/98/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F89
 [/us/stat/97/542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F542
-[/us/pl/98/364/s402/9/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F364%2Fs402%2F9%2FC
+[/us/pl/98/364/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F364%2FtIV
 [/us/stat/98/448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F448
 [/us/pl/98/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F364
 [/us/pl/98/89/s2/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F89%2Fs2%2Fg%2F1
 [/us/usc/t46/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs3101
-[/us/pl/101/595/s602/e/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F595%2Fs602%2Fe%2F3
+[/us/pl/101/595/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F595%2FtVI
 [/us/stat/104/2992]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2992
 
 

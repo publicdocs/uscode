@@ -151,7 +151,7 @@ United States of America
 
     Note.—In the place for signature and descriptions of individuals engaged after the first departure of the vessel, the entries are to be made as above, except that the signature of the consul or vice consul, customs officer, or witness before whom the individual is engaged, is to be entered.
 
-([Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 562][/us/stat/97/562]; [Pub. L. 103–206, title IV, § 402][/us/pl/103/206/s402], Dec. 20, 1993, [107 Stat. 2436][/us/stat/107/2436].)
+([Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 562][/us/stat/97/562]; [Pub. L. 103–206, title IV][/us/pl/103/206/tIV], § 402, Dec. 20, 1993, [107 Stat. 2436][/us/stat/107/2436].)
 
 <table>
 
@@ -205,7 +205,7 @@ Source section (U.S. Code)  </td>
 [/us/usc/t46/s10302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs10302
 [/us/pl/98/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F89
 [/us/stat/97/562]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F562
-[/us/pl/103/206/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F206%2Fs402
+[/us/pl/103/206/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F206%2FtIV
 [/us/stat/107/2436]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2436
 [/us/pl/103/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F206
 

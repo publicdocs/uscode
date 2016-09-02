@@ -77,7 +77,7 @@
 
     (7) “Secretary” means the Secretary of the Department of Homeland Security, unless otherwise noted.
 
-([Pub. L. 100–710, title I, § 102(c)][/us/pl/100/710/s102/c], Nov. 23, 1988, [102 Stat. 4739][/us/stat/102/4739]; [Pub. L. 111–281, title IX, § 913(a)(2)][/us/pl/111/281/s913/a/2]–(4), Oct. 15, 2010, [124 Stat. 3017][/us/stat/124/3017].)
+([Pub. L. 100–710, title I][/us/pl/100/710/tI], § 102(c), Nov. 23, 1988, [102 Stat. 4739][/us/stat/102/4739]; [Pub. L. 111–281, title IX][/us/pl/111/281/tIX], § 913(a)(2)–(4), Oct. 15, 2010, [124 Stat. 3017][/us/stat/124/3017].)
 
 <table>
 
@@ -195,7 +195,7 @@ Derived from 46:971–974  </td>
 
  __Effective Date__ 
 
-[Pub. L. 100–710, title I, § 107][/us/pl/100/710/s107], Nov. 23, 1988, [102 Stat. 4752][/us/stat/102/4752], provided that:
+[Pub. L. 100–710, title I][/us/pl/100/710/tI], § 107, Nov. 23, 1988, [102 Stat. 4752][/us/stat/102/4752], provided that:
 
 >     “(a) This title \[see Tables for classification\] and amendments made by this title take effect on January 1, 1989. However, sections 31321 and 31322 of title 46 (as enacted by section 102 of this Act), United States Code (as sections 31321 and 32322 \[probably should be 31322\] apply to vessels for which an application for documentation has been filed), take effect on January 1, 1990.
 
@@ -220,13 +220,13 @@ Derived from 46:971–974  </td>
 [/us/usc/t46/s31321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs31321
 [/us/usc/t46/s31341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs31341
 [/us/usc/t46/s31322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs31322
-[/us/pl/100/710/s102/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F710%2Fs102%2Fc
+[/us/pl/100/710/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F710%2FtI
 [/us/stat/102/4739]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4739
-[/us/pl/111/281/s913/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs913%2Fa%2F2
+[/us/pl/111/281/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2FtIX
 [/us/stat/124/3017]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3017
 [/us/usc/t46/s31321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs31321
 [/us/pl/111/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281
-[/us/pl/100/710/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F710%2Fs107
+[/us/pl/100/710/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F710%2FtI
 [/us/stat/102/4752]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4752
 [/us/usc/t46/s31321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs31321
 [/us/usc/t46/s2101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs2101

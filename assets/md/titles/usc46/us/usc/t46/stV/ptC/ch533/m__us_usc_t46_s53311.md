@@ -25,7 +25,7 @@
 
     (4) the Secretary of Transportation finds and certifies to the Secretary of the Treasury that, for causes within the control of the taxpayer, the entire construction related to that deposited gain is not completed with reasonable dispatch.
 
-([Pub. L. 109–304, § 8(c)][/us/pl/109/304/s8/c], Oct. 6, 2006, [120 Stat. 1590][/us/stat/120/1590].)
+([Pub. L. 109–304][/us/pl/109/304], § 8(c), Oct. 6, 2006, [120 Stat. 1590][/us/stat/120/1590].)
 
 <table>
 
@@ -84,7 +84,7 @@ June 29, 1936, ch. 858, title V, § 511(i), as added Oct. 10, 1940, ch. 849, 5
 
 [/us/usc/t46/s53310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs53310
 [/us/usc/t46/s53310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs53310
-[/us/pl/109/304/s8/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs8%2Fc
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1590
 
 

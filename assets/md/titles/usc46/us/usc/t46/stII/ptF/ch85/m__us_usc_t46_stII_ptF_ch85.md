@@ -57,7 +57,7 @@
 
  __Amendments__ 
 
-    1984—[Pub. L. 98–557, § 29(f)(3)(B)][/us/pl/98/557/s29/f/3/B], Oct. 30, 1984, [98 Stat. 2874][/us/stat/98/2874], added item 8503.
+    1984—[Pub. L. 98–557][/us/pl/98/557], § 29(f)(3)(B), Oct. 30, 1984, [98 Stat. 2874][/us/stat/98/2874], added item 8503.
 
 ----------
 
@@ -66,7 +66,7 @@
 ----------
 ----------
 
-[/us/pl/98/557/s29/f/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F557%2Fs29%2Ff%2F3%2FB
+[/us/pl/98/557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F557
 [/us/stat/98/2874]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2874
 
 

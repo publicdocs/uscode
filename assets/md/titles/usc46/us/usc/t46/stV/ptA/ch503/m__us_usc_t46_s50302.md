@@ -113,7 +113,7 @@
 
         There are authorized to be appropriated to the Fund such sums as may be necessary to carry out the program, taking into account amounts received under paragraph (3)(A)(ii).
 
-([Pub. L. 109–304, § 8(b)][/us/pl/109/304/s8/b], Oct. 6, 2006, [120 Stat. 1564][/us/stat/120/1564]; [Pub. L. 111–84, div. C, title XXXV, § 3512][/us/pl/111/84/s3512], Oct. 28, 2009, [123 Stat. 2722][/us/stat/123/2722]; [Pub. L. 113–66, div. C, title XXXV, § 3505(b)][/us/pl/113/66/s3505/b], Dec. 26, 2013, [127 Stat. 1086][/us/stat/127/1086].)
+([Pub. L. 109–304][/us/pl/109/304], § 8(b), Oct. 6, 2006, [120 Stat. 1564][/us/stat/120/1564]; [Pub. L. 111–84, div. C, title XXXV][/us/pl/111/84/dC/tXXXV], § 3512, Oct. 28, 2009, [123 Stat. 2722][/us/stat/123/2722]; [Pub. L. 113–66, div. C, title XXXV][/us/pl/113/66/dC/tXXXV], § 3505(b), Dec. 26, 2013, [127 Stat. 1086][/us/stat/127/1086].)
 
 <table>
 
@@ -205,7 +205,7 @@ June 5, 1920, ch. 250, § 8, 41 Stat. 992; Exec. Order No. 6166, June 10, 1933
 
  __Strategic Seaports__ 
 
-[Pub. L. 113–66, div. C, title XXXV, § 3505(a)][/us/pl/113/66/s3505/a], Dec. 26, 2013, [127 Stat. 1086][/us/stat/127/1086], provided that:
+[Pub. L. 113–66, div. C, title XXXV][/us/pl/113/66/dC/tXXXV], § 3505(a), Dec. 26, 2013, [127 Stat. 1086][/us/stat/127/1086], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -227,11 +227,11 @@ June 5, 1920, ch. 250, § 8, 41 Stat. 992; Exec. Order No. 6166, June 10, 1933
 [/us/pl/109/59/s9008]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs9008
 [/us/pl/109/59/s10205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs10205
 [/us/pl/110/417/s3512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417%2Fs3512
-[/us/pl/109/304/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs8%2Fb
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1564]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1564
-[/us/pl/111/84/s3512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs3512
+[/us/pl/111/84/dC/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdC%2FtXXXV
 [/us/stat/123/2722]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2722
-[/us/pl/113/66/s3505/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs3505%2Fb
+[/us/pl/113/66/dC/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdC%2FtXXXV
 [/us/stat/127/1086]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1086
 [/us/stat/41/992]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F41%2F992
 [/us/stat/61/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F501
@@ -255,7 +255,7 @@ June 5, 1920, ch. 250, § 8, 41 Stat. 992; Exec. Order No. 6166, June 10, 1933
 [/us/usc/t48/s1421r]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1421r
 [/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
 [/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
-[/us/pl/113/66/s3505/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs3505%2Fa
+[/us/pl/113/66/dC/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdC%2FtXXXV
 [/us/stat/127/1086]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1086
 [/us/usc/t46/s50302/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs50302%2Fc
 

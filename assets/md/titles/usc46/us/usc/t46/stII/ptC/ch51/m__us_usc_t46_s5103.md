@@ -21,7 +21,7 @@
 
     (c) A fishing vessel built on or before July 1, 2013, that undergoes a major conversion completed after the later of July 1, 2013, or the date the Secretary establishes standards for an alternate loadline compliance program, shall comply with such an alternative loadline compliance program that is developed in cooperation with the commercial fishing industry and prescribed by the Secretary.
 
-([Pub. L. 99–509, title V, § 5101(2)][/us/pl/99/509/s5101/2], Oct. 21, 1986, [100 Stat. 1915][/us/stat/100/1915]; [Pub. L. 111–281, title VI, § 604(d)(2)][/us/pl/111/281/s604/d/2], Oct. 15, 2010, [124 Stat. 2965][/us/stat/124/2965]; [Pub. L. 112–213, title III, § 305(d)(2)][/us/pl/112/213/s305/d/2], Dec. 20, 2012, [126 Stat. 1565][/us/stat/126/1565].)
+([Pub. L. 99–509, title V][/us/pl/99/509/tV], § 5101(2), Oct. 21, 1986, [100 Stat. 1915][/us/stat/100/1915]; [Pub. L. 111–281, title VI][/us/pl/111/281/tVI], § 604(d)(2), Oct. 15, 2010, [124 Stat. 2965][/us/stat/124/2965]; [Pub. L. 112–213, title III][/us/pl/112/213/tIII], § 305(d)(2), Dec. 20, 2012, [126 Stat. 1565][/us/stat/126/1565].)
 
  __Historical and Revision Notes__ 
 
@@ -46,11 +46,11 @@
 ----------
 ----------
 
-[/us/pl/99/509/s5101/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2Fs5101%2F2
+[/us/pl/99/509/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2FtV
 [/us/stat/100/1915]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1915
-[/us/pl/111/281/s604/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs604%2Fd%2F2
+[/us/pl/111/281/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2FtVI
 [/us/stat/124/2965]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2965
-[/us/pl/112/213/s305/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F213%2Fs305%2Fd%2F2
+[/us/pl/112/213/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F213%2FtIII
 [/us/stat/126/1565]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1565
 [/us/pl/112/213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F213
 [/us/pl/111/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281

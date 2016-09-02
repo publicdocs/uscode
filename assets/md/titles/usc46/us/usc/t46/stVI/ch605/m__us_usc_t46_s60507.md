@@ -43,7 +43,7 @@
 
         When applicable, the Secretary also may require satisfactory proof that the passengers and cargo were landed at a port described in subsection (c)(2). Until that proof is provided, the Secretary may assume the passengers and cargo were not landed at such a port, and the amount of a toll that otherwise would be imposed is a lien enforceable against the vessel when found in the waters of the United States.
 
-([Pub. L. 109–304, § 9(b)][/us/pl/109/304/s9/b], Oct. 6, 2006, [120 Stat. 1682][/us/stat/120/1682].)
+([Pub. L. 109–304][/us/pl/109/304], § 9(b), Oct. 6, 2006, [120 Stat. 1682][/us/stat/120/1682].)
 
 <table>
 
@@ -154,7 +154,7 @@ July 26, 1892, ch. 248, 27 Stat. 267.  </td>
 ----------
 ----------
 
-[/us/pl/109/304/s9/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs9%2Fb
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1682]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1682
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/stat/116/2178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2178

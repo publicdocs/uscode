@@ -75,13 +75,13 @@
 
             (C) recommendations on how to improve performance of the program.
 
-(Added [Pub. L. 111–281, title V, § 522(a)][/us/pl/111/281/s522/a], Oct. 15, 2010, [124 Stat. 2956][/us/stat/124/2956]; amended [Pub. L. 113–281, title II, § 221(b)(1)(A)][/us/pl/113/281/s221/b/1/A], title III, § 307(a), Dec. 18, 2014, [128 Stat. 3037][/us/stat/128/3037], 3045.)
+(Added [Pub. L. 111–281, title V][/us/pl/111/281/tV], § 522(a), Oct. 15, 2010, [124 Stat. 2956][/us/stat/124/2956]; amended [Pub. L. 113–281, title II][/us/pl/113/281/tII], § 221(b)(1)(A), title III, § 307(a), Dec. 18, 2014, [128 Stat. 3037][/us/stat/128/3037], 3045.)
 
  __Amendments__ 
 
-    2014—Subsec. (b)(1)(D). [Pub. L. 113–281, § 307(a)][/us/pl/113/281/s307/a], substituted “[section 93(c) of title 14][/us/usc/t14/s93/c]” for “section 93(c)”.
+    2014—Subsec. (b)(1)(D). [Pub. L. 113–281][/us/pl/113/281], § 307(a), substituted “[section 93(c) of title 14][/us/usc/t14/s93/c]” for “section 93(c)”.
 
-    Subsec. (d)(2)(B). [Pub. L. 113–281, § 221(b)(1)(A)][/us/pl/113/281/s221/b/1/A], amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “on the program’s mission performance in achieving numerical measurable goals established under subsection (b); and”.
+    Subsec. (d)(2)(B). [Pub. L. 113–281][/us/pl/113/281], § 221(b)(1)(A), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “on the program’s mission performance in achieving numerical measurable goals established under subsection (b); and”.
 
 ----------
 
@@ -92,12 +92,12 @@
 
 [/us/usc/t14/s93/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs93%2Fc
 [/us/usc/t31/s1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105
-[/us/pl/111/281/s522/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs522%2Fa
+[/us/pl/111/281/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2FtV
 [/us/stat/124/2956]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2956
-[/us/pl/113/281/s221/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281%2Fs221%2Fb%2F1%2FA
+[/us/pl/113/281/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281%2FtII
 [/us/stat/128/3037]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3037
-[/us/pl/113/281/s307/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281%2Fs307%2Fa
+[/us/pl/113/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281
 [/us/usc/t14/s93/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs93%2Fc
-[/us/pl/113/281/s221/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281%2Fs221%2Fb%2F1%2FA
+[/us/pl/113/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281
 
 

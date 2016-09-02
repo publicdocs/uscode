@@ -31,7 +31,7 @@
 
         (B) a fish processing vessel entered into service before January 1, 1988, and not more than 1,600 gross tons as measured under [section 14502 of this title][/us/usc/t46/s14502], or an alternate tonnage measured under [section 14302 of this title][/us/usc/t46/s14302] as prescribed by the Secretary under [section 14104 of this title][/us/usc/t46/s14104] or entered into service after December 31, 1987, and having not more than 16 individuals on board primarily employed in the preparation of fish or fish products.
 
-([Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 560][/us/stat/97/560]; [Pub. L. 98–364, title IV, § 402(13)][/us/pl/98/364/s402/13], July 17, 1984, [98 Stat. 449][/us/stat/98/449]; [Pub. L. 98–557, § 33(d)][/us/pl/98/557/s33/d], Oct. 30, 1984, [98 Stat. 2876][/us/stat/98/2876]; [Pub. L. 99–640, § 10(b)(3)][/us/pl/99/640/s10/b/3], Nov. 10, 1986, [100 Stat. 3550][/us/stat/100/3550]; [Pub. L. 104–324, title VII, § 736][/us/pl/104/324/s736], Oct. 19, 1996, [110 Stat. 3941][/us/stat/110/3941].)
+([Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 560][/us/stat/97/560]; [Pub. L. 98–364, title IV][/us/pl/98/364/tIV], § 402(13), July 17, 1984, [98 Stat. 449][/us/stat/98/449]; [Pub. L. 98–557][/us/pl/98/557], § 33(d), Oct. 30, 1984, [98 Stat. 2876][/us/stat/98/2876]; [Pub. L. 99–640][/us/pl/99/640], § 10(b)(3), Nov. 10, 1986, [100 Stat. 3550][/us/stat/100/3550]; [Pub. L. 104–324, title VII][/us/pl/104/324/tVII], § 736, Oct. 19, 1996, [110 Stat. 3941][/us/stat/110/3941].)
 
 <table>
 
@@ -91,13 +91,13 @@ Source section (U.S. Code)  </td>
 [/us/usc/t46/s14104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs14104
 [/us/pl/98/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F89
 [/us/stat/97/560]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F560
-[/us/pl/98/364/s402/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F364%2Fs402%2F13
+[/us/pl/98/364/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F364%2FtIV
 [/us/stat/98/449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F449
-[/us/pl/98/557/s33/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F557%2Fs33%2Fd
+[/us/pl/98/557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F557
 [/us/stat/98/2876]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2876
-[/us/pl/99/640/s10/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F640%2Fs10%2Fb%2F3
+[/us/pl/99/640]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F640
 [/us/stat/100/3550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3550
-[/us/pl/104/324/s736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2Fs736
+[/us/pl/104/324/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2FtVII
 [/us/stat/110/3941]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3941
 [/us/pl/104/324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324
 [/us/usc/t46/s14502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs14502

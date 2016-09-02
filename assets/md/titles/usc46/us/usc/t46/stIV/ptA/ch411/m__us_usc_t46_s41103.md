@@ -49,7 +49,7 @@
 
         (2) may not prevent the conference or its designee from soliciting or receiving information for any of those purposes.
 
-([Pub. L. 109–304, § 7][/us/pl/109/304/s7], Oct. 6, 2006, [120 Stat. 1540][/us/stat/120/1540].)
+([Pub. L. 109–304][/us/pl/109/304], § 7, Oct. 6, 2006, [120 Stat. 1540][/us/stat/120/1540].)
 
 <table>
 
@@ -140,7 +140,7 @@ Pub. L. 98–237, § 10(b)(13), (words after cl. (13)), (d)(3) (related to (b)
 ----------
 ----------
 
-[/us/pl/109/304/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs7
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1540]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1540
 
 

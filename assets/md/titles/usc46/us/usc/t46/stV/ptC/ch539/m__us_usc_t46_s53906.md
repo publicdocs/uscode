@@ -39,7 +39,7 @@
 
     If a court makes a determination as provided under subsection (c)(2), premiums paid under the policy shall be adjusted based on the court’s determination and the rates provided for in the policy.
 
-([Pub. L. 109–304, § 8(c)][/us/pl/109/304/s8/c], Oct. 6, 2006, [120 Stat. 1629][/us/stat/120/1629].)
+([Pub. L. 109–304][/us/pl/109/304], § 8(c), Oct. 6, 2006, [120 Stat. 1629][/us/stat/120/1629].)
 
 <table>
 
@@ -96,7 +96,7 @@ June 29, 1936, ch. 858, title XII, § 1209(a)(2), as added Sept. 7, 1950, ch. 
 ----------
 ----------
 
-[/us/pl/109/304/s8/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs8%2Fc
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1629
 [/us/pl/85/469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F469
 [/us/stat/72/231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F231

@@ -51,7 +51,7 @@
 
     A person violating this section shall be liable to the United States for a civil penalty of not more than $1,000,000.
 
-(Added [Pub. L. 110–407, title II, § 202(a)][/us/pl/110/407/s202/a], Oct. 13, 2008, [122 Stat. 4299][/us/stat/122/4299].)
+(Added [Pub. L. 110–407, title II][/us/pl/110/407/tII], § 202(a), Oct. 13, 2008, [122 Stat. 4299][/us/stat/122/4299].)
 
 ----------
 
@@ -60,7 +60,7 @@
 ----------
 ----------
 
-[/us/pl/110/407/s202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F407%2Fs202%2Fa
+[/us/pl/110/407/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F407%2FtII
 [/us/stat/122/4299]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4299
 
 

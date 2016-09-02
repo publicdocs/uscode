@@ -23,7 +23,7 @@
 
     (3) if a deposit consists in part of a gain not recognized under [section 53306 of this title][/us/usc/t46/s53306], any expenditure, obligation, or withdrawal applied against that deposit shall be deemed to be a gain in the proportion that the part of the deposit consisting of a gain bears to the total amount of the deposit.
 
-([Pub. L. 109–304, § 8(c)][/us/pl/109/304/s8/c], Oct. 6, 2006, [120 Stat. 1589][/us/stat/120/1589].)
+([Pub. L. 109–304][/us/pl/109/304], § 8(c), Oct. 6, 2006, [120 Stat. 1589][/us/stat/120/1589].)
 
 <table>
 
@@ -79,7 +79,7 @@ June 29, 1936, ch. 858, title V, § 511(e), as added Oct. 10, 1940, ch. 849, 5
 ----------
 
 [/us/usc/t46/s53306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs53306
-[/us/pl/109/304/s8/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs8%2Fc
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1589]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1589
 
 

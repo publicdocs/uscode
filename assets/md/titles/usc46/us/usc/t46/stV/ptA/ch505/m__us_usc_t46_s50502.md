@@ -17,7 +17,7 @@
 
     This subtitle applies to receivers, trustees, successors, and assigns of any person to whom this subtitle applies.
 
-([Pub. L. 109–304, § 8(b)][/us/pl/109/304/s8/b], Oct. 6, 2006, [120 Stat. 1567][/us/stat/120/1567].)
+([Pub. L. 109–304][/us/pl/109/304], § 8(b), Oct. 6, 2006, [120 Stat. 1567][/us/stat/120/1567].)
 
 <table>
 
@@ -72,7 +72,7 @@ Sept. 7, 1916, ch. 451, § 2(d), 39 Stat. 729; June 5, 1920, ch. 250, § 38,
 ----------
 ----------
 
-[/us/pl/109/304/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs8%2Fb
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1567]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1567
 
 

@@ -17,7 +17,7 @@
 
     The United States is entitled to the exemptions from and limitations of liability provided by law to an owner, charterer, operator, or agent of a vessel.
 
-([Pub. L. 109–304, § 6(c)][/us/pl/109/304/s6/c], Oct. 6, 2006, [120 Stat. 1519][/us/stat/120/1519].)
+([Pub. L. 109–304][/us/pl/109/304], § 6(c), Oct. 6, 2006, [120 Stat. 1519][/us/stat/120/1519].)
 
 <table>
 
@@ -72,7 +72,7 @@ Mar. 9, 1920, ch. 95, § 6, 41 Stat. 527.  </td>
 ----------
 ----------
 
-[/us/pl/109/304/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs6%2Fc
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1519
 
 

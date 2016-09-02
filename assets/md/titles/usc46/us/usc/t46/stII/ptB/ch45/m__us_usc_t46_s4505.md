@@ -19,9 +19,9 @@
 
     (1) may direct the individual in charge of a vessel to which this chapter applies to immediately take reasonable steps necessary for the safety of individuals on board the vessel if the official observes the vessel being operated in an unsafe condition that the official believes creates an especially hazardous condition, including ordering the individual in charge to return the vessel to a mooring and to remain there until the situation creating the hazard is corrected or ended; and
 
-    (2) may order the individual in charge of an uninspected fish processing vessel that does not have on board the certificate required under [section 4503(1) of this title][/us/usc/t46/s4503/1] to return the vessel to a mooring and to remain there until the vessel is in compliance with that section.
+    (2) may order the individual in charge of an uninspected fish processing vessel that does not have on board the certificate required under section 4503(1)  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be section “4503(a)”. </sup></sup>  of this title to return the vessel to a mooring and to remain there until the vessel is in compliance with that section.
 
-(Added [Pub. L. 100–424, § 2(a)][/us/pl/100/424/s2/a], Sept. 9, 1988, [102 Stat. 1587][/us/stat/102/1587].)
+(Added [Pub. L. 100–424][/us/pl/100/424], § 2(a), Sept. 9, 1988, [102 Stat. 1587][/us/stat/102/1587].)
 
 ----------
 
@@ -30,8 +30,7 @@
 ----------
 ----------
 
-[/us/usc/t46/s4503/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs4503%2F1
-[/us/pl/100/424/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F424%2Fs2%2Fa
+[/us/pl/100/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F424
 [/us/stat/102/1587]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1587
 
 

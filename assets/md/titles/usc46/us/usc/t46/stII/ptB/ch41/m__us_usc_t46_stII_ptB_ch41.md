@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t46/stII/ptB/ch39/m__us_usc_t46_stII_ptB_ch39.md) | [Next](./../../../../../..//us/usc/t46/stII/ptB/ch41/m__us_usc_t46_s4101.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2FstII%2FptB%2Fch41)
+[Previous](./../../../../../..//us/usc/t46/stII/ptB/ch39/m__us_usc_t46_s3901 _us_usc_t46_s3902.md) | [Next](./../../../../../..//us/usc/t46/stII/ptB/ch41/m__us_usc_t46_s4101.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2FstII%2FptB%2Fch41)
 
 #### CHAPTER 41—UNINSPECTED VESSELS GENERALLY
 
@@ -83,13 +83,13 @@
 
  __Amendments__ 
 
-    1990—[Pub. L. 101–595, title VI, § 603(3)(B)][/us/pl/101/595/s603/3/B], Nov. 16, 1990, [104 Stat. 2993][/us/stat/104/2993], struck out item 4104 “Regulations”.
+    1990—[Pub. L. 101–595, title VI][/us/pl/101/595/tVI], § 603(3)(B), Nov. 16, 1990, [104 Stat. 2993][/us/stat/104/2993], struck out item 4104 “Regulations”.
 
-    1984—[Pub. L. 98–364, title IV, § 402(7)(B)][/us/pl/98/364/s402/7/B], July 17, 1984, [98 Stat. 446][/us/stat/98/446], inserted “GENERALLY” in chapter heading.
+    1984—[Pub. L. 98–364, title IV][/us/pl/98/364/tIV], § 402(7)(B), July 17, 1984, [98 Stat. 446][/us/stat/98/446], inserted “GENERALLY” in chapter heading.
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t46/stII/ptB/ch39/m__us_usc_t46_stII_ptB_ch39.md) | [Next](./../../../../../..//us/usc/t46/stII/ptB/ch41/m__us_usc_t46_s4101.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2FstII%2FptB%2Fch41)
+[Previous](./../../../../../..//us/usc/t46/stII/ptB/ch39/m__us_usc_t46_s3901 _us_usc_t46_s3902.md) | [Next](./../../../../../..//us/usc/t46/stII/ptB/ch41/m__us_usc_t46_s4101.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2FstII%2FptB%2Fch41)
 
 ----------
 ----------
@@ -98,9 +98,9 @@
 [/us/stat/36/462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F462
 [/us/pl/76/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F76%2F484
 [/us/stat/54/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F163
-[/us/pl/101/595/s603/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F595%2Fs603%2F3%2FB
+[/us/pl/101/595/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F595%2FtVI
 [/us/stat/104/2993]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2993
-[/us/pl/98/364/s402/7/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F364%2Fs402%2F7%2FB
+[/us/pl/98/364/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F364%2FtIV
 [/us/stat/98/446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F446
 
 

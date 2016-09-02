@@ -41,7 +41,7 @@
 
     In this section, the term “floating dry dock” means equipment with wing walls and a fully submersible deck.
 
-(Added [Pub. L. 113–291, div. C, title XXXV, § 3502(a)][/us/pl/113/291/s3502/a], Dec. 19, 2014, [128 Stat. 3904][/us/stat/128/3904].)
+(Added [Pub. L. 113–291, div. C, title XXXV][/us/pl/113/291/dC/tXXXV], § 3502(a), Dec. 19, 2014, [128 Stat. 3904][/us/stat/128/3904].)
 
  __References in Text__ 
 
@@ -56,7 +56,7 @@
 
 [/us/usc/t46/s55102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs55102
 [/us/usc/t46/s12103/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs12103%2Fb
-[/us/pl/113/291/s3502/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs3502%2Fa
+[/us/pl/113/291/dC/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdC%2FtXXXV
 [/us/stat/128/3904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3904
 [/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
 

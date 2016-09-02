@@ -27,7 +27,7 @@
 
     If the head of a department, agency, or instrumentality of the Government refuses to comply with a request under subsection (a) or objects to a decision of the Commission under subsection (b), the Commission or the head of the department, agency, or instrumentality may submit the facts to the President. The President may establish, suspend, modify, or annul the regulation.
 
-([Pub. L. 109–304, § 7][/us/pl/109/304/s7], Oct. 6, 2006, [120 Stat. 1549][/us/stat/120/1549].)
+([Pub. L. 109–304][/us/pl/109/304], § 7, Oct. 6, 2006, [120 Stat. 1549][/us/stat/120/1549].)
 
 <table>
 
@@ -115,7 +115,7 @@ June 5, 1920, ch. 250, § 19(a)(3), (b), (c), 41 Stat. 995; Ex. Ord. No. 6166,
 ----------
 
 [/us/usc/t46/s50101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs50101
-[/us/pl/109/304/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs7
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1549
 
 

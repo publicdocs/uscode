@@ -17,7 +17,7 @@
 
     A person that violates section 44102 or 44103 of this title is liable to the United States Government for a civil penalty of not more than $5,000, plus $200 for each passage sold, to be assessed by the Federal Maritime Commission. The Commission may remit or mitigate the penalty on terms the Commission considers proper.
 
-([Pub. L. 109–304, § 7][/us/pl/109/304/s7], Oct. 6, 2006, [120 Stat. 1555][/us/stat/120/1555].)
+([Pub. L. 109–304][/us/pl/109/304], § 7, Oct. 6, 2006, [120 Stat. 1555][/us/stat/120/1555].)
 
 <table>
 
@@ -86,7 +86,7 @@ Pub. L. 89–777, §§ 2(c), 3(c), Nov. 6, 1966, 80 Stat. 1357.  </td>
 ----------
 ----------
 
-[/us/pl/109/304/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs7
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1555]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1555
 
 

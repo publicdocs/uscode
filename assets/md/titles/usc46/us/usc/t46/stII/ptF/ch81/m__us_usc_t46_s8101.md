@@ -57,7 +57,7 @@
 
             (B) in written form transmitted within 12 hours after the vessel arrives at its next port.
 
-([Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 547][/us/stat/97/547]; [Pub. L. 98–557, § 29(b)][/us/pl/98/557/s29/b], Oct. 30, 1984, [98 Stat. 2873][/us/stat/98/2873]; [Pub. L. 99–640, § 11(b)][/us/pl/99/640/s11/b], Nov. 10, 1986, [100 Stat. 3550][/us/stat/100/3550]; [Pub. L. 101–380, title IV][/us/pl/101/380], §§ 4104, 4114(c), 4302(e), Aug. 18, 1990, [104 Stat. 511][/us/stat/104/511], 517, 538; [Pub. L. 104–324, title VII, § 725][/us/pl/104/324/s725], Oct. 19, 1996, [110 Stat. 3939][/us/stat/110/3939].)
+([Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 547][/us/stat/97/547]; [Pub. L. 98–557][/us/pl/98/557], § 29(b), Oct. 30, 1984, [98 Stat. 2873][/us/stat/98/2873]; [Pub. L. 99–640][/us/pl/99/640], § 11(b), Nov. 10, 1986, [100 Stat. 3550][/us/stat/100/3550]; [Pub. L. 101–380, title IV][/us/pl/101/380/tIV], §§ 4104, 4114(c), 4302(e), Aug. 18, 1990, [104 Stat. 511][/us/stat/104/511], 517, 538; [Pub. L. 104–324, title VII][/us/pl/104/324/tVII], § 725, Oct. 19, 1996, [110 Stat. 3939][/us/stat/110/3939].)
 
 <table>
 
@@ -117,15 +117,15 @@ Source section (U.S. Code)  </td>
 
     1996—Subsec. (h). [Pub. L. 104–324][/us/pl/104/324] inserted “as measured under [section 14502 of this title][/us/usc/t46/s14502], or an alternate tonnage measured under [section 14302 of this title][/us/usc/t46/s14302] as prescribed by the Secretary under [section 14104 of this title][/us/usc/t46/s14104]” after “100 gross tons”.
 
-    1990—Subsec. (a)(3). [Pub. L. 101–380, § 4114(c)][/us/pl/101/380/s4114/c], added par. (3).
+    1990—Subsec. (a)(3). [Pub. L. 101–380][/us/pl/101/380], § 4114(c), added par. (3).
 
-    Subsec. (e). [Pub. L. 101–380, § 4302(e)(1)][/us/pl/101/380/s4302/e/1], substituted “$1,000” for “$50”.
+    Subsec. (e). [Pub. L. 101–380][/us/pl/101/380], § 4302(e)(1), substituted “$1,000” for “$50”.
 
-    Subsec. (f). [Pub. L. 101–380, § 4302(e)(2)][/us/pl/101/380/s4302/e/2], substituted “$10,000” for “$100, or, for a deficiency of a licensed individual, a penalty of $500”.
+    Subsec. (f). [Pub. L. 101–380][/us/pl/101/380], § 4302(e)(2), substituted “$10,000” for “$100, or, for a deficiency of a licensed individual, a penalty of $500”.
 
-    Subsec. (g). [Pub. L. 101–380, § 4302(e)(3)][/us/pl/101/380/s4302/e/3], substituted “$10,000” for “$500”.
+    Subsec. (g). [Pub. L. 101–380][/us/pl/101/380], § 4302(e)(3), substituted “$10,000” for “$500”.
 
-    Subsec. (i). [Pub. L. 101–380, § 4104][/us/pl/101/380/s4104], added subsec. (i).
+    Subsec. (i). [Pub. L. 101–380][/us/pl/101/380], § 4104, added subsec. (i).
 
     1986—Subsec. (a). [Pub. L. 99–640][/us/pl/99/640] amended subsec. (a) generally, inserting cl. (1) designation before “a sailing school” and adding cl. (2).
 
@@ -147,23 +147,23 @@ Source section (U.S. Code)  </td>
 [/us/usc/t46/s14104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs14104
 [/us/pl/98/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F89
 [/us/stat/97/547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F547
-[/us/pl/98/557/s29/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F557%2Fs29%2Fb
+[/us/pl/98/557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F557
 [/us/stat/98/2873]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2873
-[/us/pl/99/640/s11/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F640%2Fs11%2Fb
+[/us/pl/99/640]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F640
 [/us/stat/100/3550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3550
-[/us/pl/101/380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380
+[/us/pl/101/380/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2FtIV
 [/us/stat/104/511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F511
-[/us/pl/104/324/s725]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2Fs725
+[/us/pl/104/324/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2FtVII
 [/us/stat/110/3939]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3939
 [/us/pl/104/324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324
 [/us/usc/t46/s14502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs14502
 [/us/usc/t46/s14302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs14302
 [/us/usc/t46/s14104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs14104
-[/us/pl/101/380/s4114/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2Fs4114%2Fc
-[/us/pl/101/380/s4302/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2Fs4302%2Fe%2F1
-[/us/pl/101/380/s4302/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2Fs4302%2Fe%2F2
-[/us/pl/101/380/s4302/e/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2Fs4302%2Fe%2F3
-[/us/pl/101/380/s4104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2Fs4104
+[/us/pl/101/380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380
+[/us/pl/101/380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380
+[/us/pl/101/380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380
+[/us/pl/101/380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380
+[/us/pl/101/380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380
 [/us/pl/99/640]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F640
 [/us/pl/98/557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F557
 [/us/pl/101/380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380

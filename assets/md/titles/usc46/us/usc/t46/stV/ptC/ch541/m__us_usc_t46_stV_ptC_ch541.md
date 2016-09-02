@@ -35,7 +35,7 @@
 
  __Prior Provisions__ 
 
-    A prior chapter 541, Miscellaneous, consisting of section 54101 and relating to assistance for small shipyards and maritime communities, added by [Pub. L. 110–181, div. C, title XXXV, § 3523(a)(6)(A)][/us/pl/110/181/s3523/a/6/A], Jan. 28, 2008, [122 Stat. 599][/us/stat/122/599], was repealed by [Pub. L. 110–417, div. C, title XXXV, § 3508(b)][/us/pl/110/417/s3508/b], Oct. 14, 2008, [122 Stat. 4769][/us/stat/122/4769], as amended by [Pub. L. 111–84, div. A, title X, § 1073(c)(14)][/us/pl/111/84/s1073/c/14], Oct. 28, 2009, [123 Stat. 2475][/us/stat/123/2475], effective Oct. 14, 2008, and as if included in [Pub. L. 110–417][/us/pl/110/417] as enacted.
+    A prior chapter 541, Miscellaneous, consisting of section 54101 and relating to assistance for small shipyards and maritime communities, added by [Pub. L. 110–181, div. C, title XXXV][/us/pl/110/181/dC/tXXXV], § 3523(a)(6)(A), Jan. 28, 2008, [122 Stat. 599][/us/stat/122/599], was repealed by [Pub. L. 110–417, div. C, title XXXV][/us/pl/110/417/dC/tXXXV], § 3508(b), Oct. 14, 2008, [122 Stat. 4769][/us/stat/122/4769], as amended by [Pub. L. 111–84, div. A, title X][/us/pl/111/84/dA/tX], § 1073(c)(14), Oct. 28, 2009, [123 Stat. 2475][/us/stat/123/2475], effective Oct. 14, 2008, and as if included in [Pub. L. 110–417][/us/pl/110/417] as enacted.
 
 ----------
 
@@ -44,11 +44,11 @@
 ----------
 ----------
 
-[/us/pl/110/181/s3523/a/6/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs3523%2Fa%2F6%2FA
+[/us/pl/110/181/dC/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdC%2FtXXXV
 [/us/stat/122/599]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F599
-[/us/pl/110/417/s3508/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417%2Fs3508%2Fb
+[/us/pl/110/417/dC/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417%2FdC%2FtXXXV
 [/us/stat/122/4769]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4769
-[/us/pl/111/84/s1073/c/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs1073%2Fc%2F14
+[/us/pl/111/84/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdA%2FtX
 [/us/stat/123/2475]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2475
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 

@@ -31,7 +31,7 @@
 
     An order of the Commission remains in effect for the period specified in the order or until suspended, modified, or set aside by the Commission or a court of competent jurisdiction.
 
-([Pub. L. 109–304, § 7][/us/pl/109/304/s7], Oct. 6, 2006, [120 Stat. 1546][/us/stat/120/1546].)
+([Pub. L. 109–304][/us/pl/109/304], § 7, Oct. 6, 2006, [120 Stat. 1546][/us/stat/120/1546].)
 
 <table>
 
@@ -130,7 +130,7 @@ Pub. L. 98–237, § 14(a), (b), Mar. 20, 1984, 98 Stat. 83.  </td>
 ----------
 ----------
 
-[/us/pl/109/304/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs7
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1546
 
 

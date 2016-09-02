@@ -27,7 +27,7 @@
 
     All Federal entities are authorized to transfer vessels to the National Defense Reserve Fleet without reimbursement subject to the approval of the Secretary of Transportation and the Secretary of the Navy with respect to Ready Reserve Force vessels and the Secretary of Transportation with respect to all other vessels.
 
-([Pub. L. 109–304, § 8(c)][/us/pl/109/304/s8/c], Oct. 6, 2006, [120 Stat. 1658][/us/stat/120/1658]; [Pub. L. 112–213, title IV][/us/pl/112/213], §§ 406, 407, Dec. 20, 2012, [126 Stat. 1571][/us/stat/126/1571].)
+([Pub. L. 109–304][/us/pl/109/304], § 8(c), Oct. 6, 2006, [120 Stat. 1658][/us/stat/120/1658]; [Pub. L. 112–213, title IV][/us/pl/112/213/tIV], §§ 406, 407, Dec. 20, 2012, [126 Stat. 1571][/us/stat/126/1571].)
 
 <table>
 
@@ -85,9 +85,9 @@ June 29, 1936, ch. 858, title V, § 510(j), as added Pub. L. 89–254, § 2,
 
  __Amendments__ 
 
-    2012—Subsec. (a). [Pub. L. 112–213, § 406][/us/pl/112/213/s406], inserted “of 1,500 gross tons or more or such other vessels as the Secretary of Transportation determines are appropriate” after “Administration”.
+    2012—Subsec. (a). [Pub. L. 112–213][/us/pl/112/213], § 406, inserted “of 1,500 gross tons or more or such other vessels as the Secretary of Transportation determines are appropriate” after “Administration”.
 
-    Subsec. (c). [Pub. L. 112–213, § 407][/us/pl/112/213/s407], added subsec. (c).
+    Subsec. (c). [Pub. L. 112–213][/us/pl/112/213], § 407, added subsec. (c).
 
 ----------
 
@@ -96,14 +96,14 @@ June 29, 1936, ch. 858, title V, § 510(j), as added Pub. L. 89–254, § 2,
 ----------
 ----------
 
-[/us/pl/109/304/s8/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs8%2Fc
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1658]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1658
-[/us/pl/112/213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F213
+[/us/pl/112/213/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F213%2FtIV
 [/us/stat/126/1571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1571
 [/us/act/1946-03-08/ch82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-03-08%2Fch82
 [/us/stat/60/49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F49
 [/us/usc/t50/s4405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4405
-[/us/pl/112/213/s406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F213%2Fs406
-[/us/pl/112/213/s407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F213%2Fs407
+[/us/pl/112/213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F213
+[/us/pl/112/213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F213
 
 

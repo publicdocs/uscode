@@ -37,7 +37,7 @@
 
     (b) The Secretary shall waive the application of criteria required by subsection (a)(5) of this section for an individual having a license or certificate (including a renewal of the license or certificate) in effect on October 17, 1978. When the waiver is granted, the Secretary may prescribe conditions for the license or certificate and its renewal, as the Secretary decides are reasonable and necessary for the safety of a vessel on which the individual may be employed.
 
-([Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 556][/us/stat/97/556]; [Pub. L. 101–380, title IV, § 4114(d)][/us/pl/101/380/s4114/d], Aug. 18, 1990, [104 Stat. 517][/us/stat/104/517].)
+([Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 556][/us/stat/97/556]; [Pub. L. 101–380, title IV][/us/pl/101/380/tIV], § 4114(d), Aug. 18, 1990, [104 Stat. 517][/us/stat/104/517].)
 
 <table>
 
@@ -98,7 +98,7 @@ Source section (U.S. Code)  </td>
 
 [/us/pl/98/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F89
 [/us/stat/97/556]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F556
-[/us/pl/101/380/s4114/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2Fs4114%2Fd
+[/us/pl/101/380/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2FtIV
 [/us/stat/104/517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F517
 [/us/pl/101/380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380
 [/us/pl/101/380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380

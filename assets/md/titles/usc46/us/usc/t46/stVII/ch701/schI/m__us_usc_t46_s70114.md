@@ -41,11 +41,11 @@
 
     The Secretary shall prescribe regulations implementing subsection (a), including requirements for the operation and maintenance of the automatic identification systems required under subsection (a).
 
-(Added [Pub. L. 107–295, title I, § 102(a)][/us/pl/107/295/s102/a], Nov. 25, 2002, [116 Stat. 2082][/us/stat/116/2082].)
+(Added [Pub. L. 107–295, title I][/us/pl/107/295/tI], § 102(a), Nov. 25, 2002, [116 Stat. 2082][/us/stat/116/2082].)
 
  __Effective Date__ 
 
-[Pub. L. 107–295, title I, § 102(e)][/us/pl/107/295/s102/e], Nov. 25, 2002, [116 Stat. 2084][/us/stat/116/2084], provided that:
+[Pub. L. 107–295, title I][/us/pl/107/295/tI], § 102(e), Nov. 25, 2002, [116 Stat. 2084][/us/stat/116/2084], provided that:
 
 >     “(1)  __Schedule__  __.—__ 
 
@@ -76,9 +76,9 @@
 ----------
 ----------
 
-[/us/pl/107/295/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295%2Fs102%2Fa
+[/us/pl/107/295/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295%2FtI
 [/us/stat/116/2082]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2082
-[/us/pl/107/295/s102/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295%2Fs102%2Fe
+[/us/pl/107/295/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295%2FtI
 [/us/stat/116/2084]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2084
 [/us/usc/t46/s70114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs70114
 [/us/usc/t33/s1602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1602

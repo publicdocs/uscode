@@ -17,7 +17,7 @@
 
     The Secretary shall maintain records on each merchant mariner’s document issued, including the name and address of the seaman to whom issued and the next of kin of the seaman.
 
-([Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 545][/us/stat/97/545]; [Pub. L. 108–293, title IV, § 403][/us/pl/108/293/s403], Aug. 9, 2004, [118 Stat. 1043][/us/stat/118/1043].)
+([Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 545][/us/stat/97/545]; [Pub. L. 108–293, title IV][/us/pl/108/293/tIV], § 403, Aug. 9, 2004, [118 Stat. 1043][/us/stat/118/1043].)
 
 <table>
 
@@ -70,7 +70,7 @@ Source section (U.S. Code)  </td>
 
 [/us/pl/98/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F89
 [/us/stat/97/545]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F545
-[/us/pl/108/293/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293%2Fs403
+[/us/pl/108/293/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293%2FtIV
 [/us/stat/118/1043]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1043
 [/us/pl/108/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293
 

@@ -35,7 +35,7 @@
 
     (e) A person may not tamper with or falsify a number or other marking required under this section.
 
-(Added [Pub. L. 100–710, title I, § 101(a)][/us/pl/100/710/s101/a], Nov. 23, 1988, [102 Stat. 4736][/us/stat/102/4736].)
+(Added [Pub. L. 100–710, title I][/us/pl/100/710/tI], § 101(a), Nov. 23, 1988, [102 Stat. 4736][/us/stat/102/4736].)
 
  __Historical and Revision Notes__ 
 
@@ -49,7 +49,7 @@
 
  __Vessels Not Having Unique Number; Applicability of Provisions for Number Assignment__ 
 
-[Pub. L. 100–710, title I, § 104(f)][/us/pl/100/710/s104/f], Nov. 23, 1988, [102 Stat. 4751][/us/stat/102/4751], provided that: 
+[Pub. L. 100–710, title I][/us/pl/100/710/tI], § 104(f), Nov. 23, 1988, [102 Stat. 4751][/us/stat/102/4751], provided that: 
 
 > “[Section 12502(a)(1) of title 46][/us/usc/t46/s12502/a/1], United States Code (as enacted by section 101 of this Act), applies to a vessel of the United States that does not have a unique number as prescribed by the Secretary of Transportation under that section until the earlier of the following:
 
@@ -64,9 +64,9 @@
 ----------
 ----------
 
-[/us/pl/100/710/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F710%2Fs101%2Fa
+[/us/pl/100/710/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F710%2FtI
 [/us/stat/102/4736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4736
-[/us/pl/100/710/s104/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F710%2Fs104%2Ff
+[/us/pl/100/710/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F710%2FtI
 [/us/stat/102/4751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4751
 [/us/usc/t46/s12502/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs12502%2Fa%2F1
 

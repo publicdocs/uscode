@@ -35,7 +35,7 @@
 
         (4) otherwise qualifies under the laws of the United States to engage in the coastwise trade or the fisheries, as the case may be.
 
-([Pub. L. 109–304, § 5][/us/pl/109/304/s5], Oct. 6, 2006, [120 Stat. 1499][/us/stat/120/1499].)
+([Pub. L. 109–304][/us/pl/109/304], § 5, Oct. 6, 2006, [120 Stat. 1499][/us/stat/120/1499].)
 
 <table>
 
@@ -97,7 +97,7 @@ Source (Statutes at Large)  </td>
 
  __Prior Provisions__ 
 
-    A prior section 12116, [Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 589][/us/stat/97/589], originally derived from section 65f of former Title 46, Shipping, related to numbers, signal letters, and identification markings, prior to being repealed by [Pub. L. 100–710, title I][/us/pl/100/710], §§ 106(b)(5), 107(a), Nov. 23, 1988, [102 Stat. 4752][/us/stat/102/4752], effective Jan. 1, 1989.
+    A prior section 12116, [Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 589][/us/stat/97/589], originally derived from section 65f of former Title 46, Shipping, related to numbers, signal letters, and identification markings, prior to being repealed by [Pub. L. 100–710, title I][/us/pl/100/710/tI], §§ 106(b)(5), 107(a), Nov. 23, 1988, [102 Stat. 4752][/us/stat/102/4752], effective Jan. 1, 1989.
 
  __Territorial Sea of United States__ 
 
@@ -114,11 +114,11 @@ Source (Statutes at Large)  </td>
 [/us/usc/t46/s14502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs14502
 [/us/usc/t46/s14302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs14302
 [/us/usc/t46/s14104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs14104
-[/us/pl/109/304/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs5
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1499
 [/us/pl/98/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F89
 [/us/stat/97/589]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F589
-[/us/pl/100/710]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F710
+[/us/pl/100/710/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F710%2FtI
 [/us/stat/102/4752]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4752
 [/us/usc/t43/s1331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1331
 

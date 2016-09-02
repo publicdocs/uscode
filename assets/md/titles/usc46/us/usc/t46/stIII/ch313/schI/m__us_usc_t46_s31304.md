@@ -19,7 +19,7 @@
 
     (b) A civil action may be brought to recover for losses referred to in subsection (a) of this section. The district courts have original jurisdiction of the action, regardless of the amount in controversy or the citizenship of the parties. If the plaintiff prevails, the court shall award costs and attorney fees to the plaintiff.
 
-([Pub. L. 100–710, title I, § 102(c)][/us/pl/100/710/s102/c], Nov. 23, 1988, [102 Stat. 4740][/us/stat/102/4740].)
+([Pub. L. 100–710, title I][/us/pl/100/710/tI], § 102(c), Nov. 23, 1988, [102 Stat. 4740][/us/stat/102/4740].)
 
 <table>
 
@@ -66,7 +66,7 @@ Source section (U.S. Code)  </td>
 ----------
 ----------
 
-[/us/pl/100/710/s102/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F710%2Fs102%2Fc
+[/us/pl/100/710/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F710%2FtI
 [/us/stat/102/4740]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4740
 
 

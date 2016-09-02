@@ -17,7 +17,7 @@
 
     In this title, the term “citizen of the United States”, when used in reference to a natural person, means an individual who is a national of the United States as defined in section 101(a)(22) of the Immigration and Nationality Act ([8 U.S.C. 1101(a)(22)][/us/usc/t8/s1101/a/22]).
 
-([Pub. L. 109–304, § 4][/us/pl/109/304/s4], Oct. 6, 2006, [120 Stat. 1486][/us/stat/120/1486].)
+([Pub. L. 109–304][/us/pl/109/304], § 4, Oct. 6, 2006, [120 Stat. 1486][/us/stat/120/1486].)
 
 <table>
 
@@ -73,7 +73,7 @@ Source (Statutes at Large)  </td>
 ----------
 
 [/us/usc/t8/s1101/a/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101%2Fa%2F22
-[/us/pl/109/304/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs4
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1486
 [/us/usc/t48/s1801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1801
 

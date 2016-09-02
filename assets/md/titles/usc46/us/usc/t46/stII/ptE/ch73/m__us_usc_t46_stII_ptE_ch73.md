@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t46/stII/ptE/ch71/m__us_usc_t46_s7115.md) | [Next](./../../../../../..//us/usc/t46/stII/ptE/ch73/m__us_usc_t46_s7301.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2FstII%2FptE%2Fch73)
+[Previous](./../../../../../..//us/usc/t46/stII/ptE/ch71/m__us_usc_t46_s7116.md) | [Next](./../../../../../..//us/usc/t46/stII/ptE/ch73/m__us_usc_t46_s7301.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2FstII%2FptE%2Fch73)
 
 #### CHAPTER 73—MERCHANT MARINERS’ DOCUMENTS
 
@@ -191,16 +191,16 @@
 
  __Amendments__ 
 
-    1984—[Pub. L. 98–364, title IV, § 402(9)(A)][/us/pl/98/364/s402/9/A], July 17, 1984, [98 Stat. 448][/us/stat/98/448], added item 7311a.
+    1984—[Pub. L. 98–364, title IV][/us/pl/98/364/tIV], § 402(9)(A), July 17, 1984, [98 Stat. 448][/us/stat/98/448], added item 7311a.
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t46/stII/ptE/ch71/m__us_usc_t46_s7115.md) | [Next](./../../../../../..//us/usc/t46/stII/ptE/ch73/m__us_usc_t46_s7301.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2FstII%2FptE%2Fch73)
+[Previous](./../../../../../..//us/usc/t46/stII/ptE/ch71/m__us_usc_t46_s7116.md) | [Next](./../../../../../..//us/usc/t46/stII/ptE/ch73/m__us_usc_t46_s7301.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2FstII%2FptE%2Fch73)
 
 ----------
 ----------
 
-[/us/pl/98/364/s402/9/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F364%2Fs402%2F9%2FA
+[/us/pl/98/364/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F364%2FtIV
 [/us/stat/98/448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F448
 
 

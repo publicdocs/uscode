@@ -31,7 +31,7 @@
 
     Under joint regulations, if the Secretary determines that a substantial obligation under an agreement is not being fulfilled, the Secretary, after notice and opportunity for a hearing to the person maintaining the fund, may treat any amount in the fund as an amount withdrawn from the fund in a nonqualified withdrawal.
 
-([Pub. L. 109–304, § 8(c)][/us/pl/109/304/s8/c], Oct. 6, 2006, [120 Stat. 1596][/us/stat/120/1596].)
+([Pub. L. 109–304][/us/pl/109/304], § 8(c), Oct. 6, 2006, [120 Stat. 1596][/us/stat/120/1596].)
 
 <table>
 
@@ -88,7 +88,7 @@ June 29, 1936, ch. 858, title VI, § 607(f), 49 Stat. 2005; June 23, 1938, ch.
 ----------
 ----------
 
-[/us/pl/109/304/s8/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs8%2Fc
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1596
 
 

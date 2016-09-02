@@ -27,7 +27,7 @@
 
     An individual or organization convicted of violating a section referred to in subsection (a) is ineligible, at the discretion of the Secretary of Transportation, to receive any benefit under the construction-differential subsidy or operating-differential subsidy programs, or a charter under chapter 575 of this title, for 5 years after the conviction.
 
-([Pub. L. 109–304, § 8(c)][/us/pl/109/304/s8/c], Oct. 6, 2006, [120 Stat. 1673][/us/stat/120/1673].)
+([Pub. L. 109–304][/us/pl/109/304], § 8(c), Oct. 6, 2006, [120 Stat. 1673][/us/stat/120/1673].)
 
 <table>
 
@@ -88,7 +88,7 @@ June 29, 1936, ch. 858, title VIII, § 806(b), (c), 49 Stat. 2014; Pub. L. 97�
 ----------
 ----------
 
-[/us/pl/109/304/s8/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs8%2Fc
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1673]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1673
 [/us/usc/t18/s3559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3559
 

@@ -25,7 +25,7 @@
 
     (b) The Secretary shall deposit amounts transferred or collected under this section in the general fund of the Treasury as proprietary receipts of the Secretary and ascribed to the vessel identification system.
 
-(Added [Pub. L. 100–710, title I, § 101(a)][/us/pl/100/710/s101/a], Nov. 23, 1988, [102 Stat. 4737][/us/stat/102/4737]; amended [Pub. L. 101–595, title VI, § 603(11)][/us/pl/101/595/s603/11], Nov. 16, 1990, [104 Stat. 2993][/us/stat/104/2993].)
+(Added [Pub. L. 100–710, title I][/us/pl/100/710/tI], § 101(a), Nov. 23, 1988, [102 Stat. 4737][/us/stat/102/4737]; amended [Pub. L. 101–595, title VI][/us/pl/101/595/tVI], § 603(11), Nov. 16, 1990, [104 Stat. 2993][/us/stat/104/2993].)
 
  __Historical and Revision Notes__ 
 
@@ -53,7 +53,7 @@
 
  __Annual Fee Prior to__  __Jan. 1, 1992__ 
 
-[Pub. L. 100–710, title I, § 104(e)(1)][/us/pl/100/710/s104/e/1], Nov. 23, 1988, [102 Stat. 4751][/us/stat/102/4751], provided that: 
+[Pub. L. 100–710, title I][/us/pl/100/710/tI], § 104(e)(1), Nov. 23, 1988, [102 Stat. 4751][/us/stat/102/4751], provided that: 
 
 > “Before January 1, 1992, the annual fee under [section 12505 of title 46][/us/usc/t46/s12505], United States Code (as enacted by section 101 of this Act), is $1.00.”
 
@@ -66,9 +66,9 @@
 
 [/us/usc/t31/s9701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs9701
 [/us/usc/t46/s12503/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs12503%2Fa
-[/us/pl/100/710/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F710%2Fs101%2Fa
+[/us/pl/100/710/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F710%2FtI
 [/us/stat/102/4737]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4737
-[/us/pl/101/595/s603/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F595%2Fs603%2F11
+[/us/pl/101/595/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F595%2FtVI
 [/us/stat/104/2993]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2993
 [/us/usc/t31/s9701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs9701
 [/us/usc/t31/s9701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs9701
@@ -77,7 +77,7 @@
 [/us/pl/101/595]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F595
 [/us/pl/101/595]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F595
 [/us/pl/101/595]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F595
-[/us/pl/100/710/s104/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F710%2Fs104%2Fe%2F1
+[/us/pl/100/710/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F710%2FtI
 [/us/stat/102/4751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4751
 [/us/usc/t46/s12505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs12505
 

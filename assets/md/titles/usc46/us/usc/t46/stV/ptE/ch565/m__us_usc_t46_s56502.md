@@ -35,7 +35,7 @@
 
     Adjustments and arrangements under subsection (a) shall continue in effect only as long as the circumstances described in subsection (a) continue to exist.
 
-([Pub. L. 109–304, § 8(c)][/us/pl/109/304/s8/c], Oct. 6, 2006, [120 Stat. 1657][/us/stat/120/1657].)
+([Pub. L. 109–304][/us/pl/109/304], § 8(c), Oct. 6, 2006, [120 Stat. 1657][/us/stat/120/1657].)
 
 <table>
 
@@ -99,7 +99,7 @@ June 29, 1940, ch. 442, subdivs. (b), (e), 54 Stat. 684, 686; Pub. L. 97–31, �
 [/us/usc/t22/s441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs441
 [/us/usc/t46/s56503/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs56503%2Fb%2F5
 [/us/usc/t22/s441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs441
-[/us/pl/109/304/s8/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs8%2Fc
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1657]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1657
 [/us/act/1939-11-04/ch2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-11-04%2Fch2
 [/us/stat/54/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F4

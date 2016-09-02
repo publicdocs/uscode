@@ -27,7 +27,7 @@
 
     To deter a transportation security incident, the Secretary may collect information from public and private entities to the extent that the information is not provided by other Federal departments and agencies.
 
-(Added [Pub. L. 107–295, title I, § 102(a)][/us/pl/107/295/s102/a], Nov. 25, 2002, [116 Stat. 2082][/us/stat/116/2082]; amended [Pub. L. 108–293, title VIII, § 803(a)][/us/pl/108/293/s803/a], Aug. 9, 2004, [118 Stat. 1080][/us/stat/118/1080].)
+(Added [Pub. L. 107–295, title I][/us/pl/107/295/tI], § 102(a), Nov. 25, 2002, [116 Stat. 2082][/us/stat/116/2082]; amended [Pub. L. 108–293, title VIII][/us/pl/108/293/tVIII], § 803(a), Aug. 9, 2004, [118 Stat. 1080][/us/stat/118/1080].)
 
  __Amendments__ 
 
@@ -40,9 +40,9 @@
 ----------
 ----------
 
-[/us/pl/107/295/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295%2Fs102%2Fa
+[/us/pl/107/295/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295%2FtI
 [/us/stat/116/2082]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2082
-[/us/pl/108/293/s803/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293%2Fs803%2Fa
+[/us/pl/108/293/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293%2FtVIII
 [/us/stat/118/1080]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1080
 [/us/pl/108/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293
 

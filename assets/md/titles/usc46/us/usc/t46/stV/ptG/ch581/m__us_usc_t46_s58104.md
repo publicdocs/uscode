@@ -17,7 +17,7 @@
 
     A willful violation of any provision of sections 58101–58103 of this title constitutes a breach of the contract or charter. On determining that a violation has occurred, the Secretary of Transportation may declare the contract or charter rescinded.
 
-([Pub. L. 109–304, § 8(c)][/us/pl/109/304/s8/c], Oct. 6, 2006, [120 Stat. 1672][/us/stat/120/1672].)
+([Pub. L. 109–304][/us/pl/109/304], § 8(c), Oct. 6, 2006, [120 Stat. 1672][/us/stat/120/1672].)
 
 <table>
 
@@ -74,7 +74,7 @@ June 29, 1936, ch. 858, title VIII, § 805(f), 49 Stat. 2014; Pub. L. 97–31,
 ----------
 ----------
 
-[/us/pl/109/304/s8/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs8%2Fc
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1672]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1672
 [/us/usc/t18/s3559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3559
 

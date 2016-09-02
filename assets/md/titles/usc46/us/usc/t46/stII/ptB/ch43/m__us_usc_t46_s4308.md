@@ -17,7 +17,7 @@
 
     If an official charged with the enforcement of this chapter observes a recreational vessel being operated without sufficient lifesaving or firefighting devices or in an overloaded or other unsafe condition (as defined in regulations prescribed under this chapter) and, in the judgment of the official, the operation creates an especially hazardous condition, the official may direct the individual in charge of the recreational vessel to take immediate and reasonable steps necessary for the safety of individuals on board the vessel, including directing the individual in charge to return to a mooring and to remain there until the situation creating the hazard is corrected or ended.
 
-([Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 532][/us/stat/97/532]; [Pub. L. 99–307, § 1(9)][/us/pl/99/307/s1/9], May 19, 1986, [100 Stat. 445][/us/stat/100/445].)
+([Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 532][/us/stat/97/532]; [Pub. L. 99–307][/us/pl/99/307], § 1(9), May 19, 1986, [100 Stat. 445][/us/stat/100/445].)
 
 <table>
 
@@ -70,7 +70,7 @@ Source section (U.S. Code)  </td>
 
 [/us/pl/98/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F89
 [/us/stat/97/532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F532
-[/us/pl/99/307/s1/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F307%2Fs1%2F9
+[/us/pl/99/307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F307
 [/us/stat/100/445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F445
 [/us/pl/99/307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F307
 

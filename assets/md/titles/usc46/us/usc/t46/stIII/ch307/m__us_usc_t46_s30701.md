@@ -17,7 +17,7 @@
 
     In this chapter, the term “carrier” means the owner, manager, charterer, agent, or master of a vessel.
 
-([Pub. L. 109–304, § 6(c)][/us/pl/109/304/s6/c], Oct. 6, 2006, [120 Stat. 1516][/us/stat/120/1516].)
+([Pub. L. 109–304][/us/pl/109/304], § 6(c), Oct. 6, 2006, [120 Stat. 1516][/us/stat/120/1516].)
 
 <table>
 
@@ -69,7 +69,7 @@ Source (Statutes at Large)  </td>
 
  __Carriage of Goods by Sea Act__ 
 
-[Act Apr. 16, 1936, ch. 229][/us/act/1936-04-16/ch229], [49 Stat. 1207][/us/stat/49/1207], as amended by [Pub. L. 97–31, § 12(146)][/us/pl/97/31/s12/146], Aug. 6, 1981, [95 Stat. 166][/us/stat/95/166], provided:
+[Act Apr. 16, 1936, ch. 229][/us/act/1936-04-16/ch229], [49 Stat. 1207][/us/stat/49/1207], as amended by [Pub. L. 97–31][/us/pl/97/31], § 12(146), Aug. 6, 1981, [95 Stat. 166][/us/stat/95/166], provided:
 
 >     “That every bill of lading or similar document of title which is evidence of a contract for the carriage of goods by sea to or from ports of the United States, in foreign trade, shall have effect subject to the provisions of this Act.
 
@@ -229,7 +229,7 @@ Source (Statutes at Large)  </td>
 
 >     “Sec. 14. Upon the certification of the Secretary of Transportation that the foreign commerce of the United States in its competition with that of foreign nations is prejudiced by the provisions, or any of them, of title I of this Act, or by the laws of any foreign country or countries relating to the carriage of goods by sea, the President of the United States may, from time to time, by proclamation, suspend any or all provisions of said sections for such periods of time or indefinitely as may be designated in the proclamation. The President may at any time rescind such suspension of said sections, and any provisions thereof which may have been suspended shall thereby be reinstated and again apply to contracts thereafter made for the carriage of goods by sea. Any proclamation of suspension or rescission of any such suspension shall take effect on a date named therein, which date shall be not less than ten days from the issue of the proclamation.
 
->     “Any contract for the carriage of goods by sea, subject to the provisions of this Act, effective during any period when title I hereof, or any part thereof, are suspended, shall be subject to all provisions of law now or hereafter applicable to that part of title I which may have thus been suspended. \[As amended [Pub. L. 97–31, § 12(146)][/us/pl/97/31/s12/146], Aug. 6, 1981, [95 Stat. 166][/us/stat/95/166].\]
+>     “Any contract for the carriage of goods by sea, subject to the provisions of this Act, effective during any period when title I hereof, or any part thereof, are suspended, shall be subject to all provisions of law now or hereafter applicable to that part of title I which may have thus been suspended. \[As amended [Pub. L. 97–31][/us/pl/97/31], § 12(146), Aug. 6, 1981, [95 Stat. 166][/us/stat/95/166].\]
 
 > “\[EFFECTIVE DATE\]
 
@@ -246,18 +246,18 @@ Source (Statutes at Large)  </td>
 ----------
 ----------
 
-[/us/pl/109/304/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs6%2Fc
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1516
 [/us/stat/27/445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F27%2F445
 [/us/act/1936-04-16/ch229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-04-16%2Fch229
 [/us/stat/49/1207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F1207
-[/us/pl/97/31/s12/146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F31%2Fs12%2F146
+[/us/pl/97/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F31
 [/us/stat/95/166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F166
 [/us/usc/t46/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs101
 [/us/usc/t46/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs101
 [/us/usc/t49/s25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs25
 [/us/usc/t22/s1394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1394
-[/us/pl/97/31/s12/146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F31%2Fs12%2F146
+[/us/pl/97/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F31
 [/us/stat/95/166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F166
 
 

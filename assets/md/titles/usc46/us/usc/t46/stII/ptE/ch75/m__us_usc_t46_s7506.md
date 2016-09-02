@@ -21,7 +21,7 @@
 
     (2) issue the license, certificate, or document based on that service.
 
-(Added [Pub. L. 104–324, title VII, § 745(a)][/us/pl/104/324/s745/a], Oct. 19, 1996, [110 Stat. 3942][/us/stat/110/3942].)
+(Added [Pub. L. 104–324, title VII][/us/pl/104/324/tVII], § 745(a), Oct. 19, 1996, [110 Stat. 3942][/us/stat/110/3942].)
 
 ----------
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/104/324/s745/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2Fs745%2Fa
+[/us/pl/104/324/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2FtVII
 [/us/stat/110/3942]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3942
 
 

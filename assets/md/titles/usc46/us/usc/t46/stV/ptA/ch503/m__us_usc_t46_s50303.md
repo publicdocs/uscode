@@ -37,7 +37,7 @@
 
     Amounts received by the Secretary from a transaction under this section are available for expenditure by the Secretary as provided in this subtitle.
 
-([Pub. L. 109–304, § 8(b)][/us/pl/109/304/s8/b], Oct. 6, 2006, [120 Stat. 1564][/us/stat/120/1564]; [Pub. L. 110–181, div. C, title XXXV, § 3512][/us/pl/110/181/s3512], Jan. 28, 2008, [122 Stat. 594][/us/stat/122/594].)
+([Pub. L. 109–304][/us/pl/109/304], § 8(b), Oct. 6, 2006, [120 Stat. 1564][/us/stat/120/1564]; [Pub. L. 110–181, div. C, title XXXV][/us/pl/110/181/dC/tXXXV], § 3512, Jan. 28, 2008, [122 Stat. 594][/us/stat/122/594].)
 
 <table>
 
@@ -100,9 +100,9 @@ June 29, 1936, ch. 858, title II, § 202, 49 Stat. 1986; Aug. 26, 1937, ch. 82
 ----------
 ----------
 
-[/us/pl/109/304/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs8%2Fb
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1564]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1564
-[/us/pl/110/181/s3512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs3512
+[/us/pl/110/181/dC/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdC%2FtXXXV
 [/us/stat/122/594]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F594
 [/us/pl/97/31/s12/60/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F31%2Fs12%2F60%2FA
 [/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181

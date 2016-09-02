@@ -27,7 +27,7 @@
 
     (b) The Secretary may prescribe regulations to carry out this chapter.
 
-([Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 541][/us/stat/97/541]; [Pub. L. 98–364, title IV, § 402(9)(B)][/us/pl/98/364/s402/9/B], July 17, 1984, [98 Stat. 448][/us/stat/98/448].)
+([Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 541][/us/stat/97/541]; [Pub. L. 98–364, title IV][/us/pl/98/364/tIV], § 402(9)(B), July 17, 1984, [98 Stat. 448][/us/stat/98/448].)
 
 <table>
 
@@ -73,7 +73,7 @@ Source section (U.S. Code)  </td>
 
  __Merchant Marine Post-Service Career Opportunities__ 
 
-[Pub. L. 113–281, title III, § 305(d)][/us/pl/113/281/s305/d], Dec. 18, 2014, [128 Stat. 3044][/us/stat/128/3044], provided that: 
+[Pub. L. 113–281, title III][/us/pl/113/281/tIII], § 305(d), Dec. 18, 2014, [128 Stat. 3044][/us/stat/128/3044], provided that: 
 
 > “Not later than 180 days after the date of enactment of this Act \[Dec. 18, 2014\], the Commandant of the Coast Guard shall take steps to promote better awareness, on an ongoing basis, among Coast Guard personnel regarding post-service use of Coast Guard training, education, and practical experience in satisfaction of requirements for merchant mariner credentials under section 11.213 of title 46, Code of Federal Regulations.”
 
@@ -86,10 +86,10 @@ Source section (U.S. Code)  </td>
 
 [/us/pl/98/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F89
 [/us/stat/97/541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F541
-[/us/pl/98/364/s402/9/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F364%2Fs402%2F9%2FB
+[/us/pl/98/364/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F364%2FtIV
 [/us/stat/98/448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F448
 [/us/pl/98/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F364
-[/us/pl/113/281/s305/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281%2Fs305%2Fd
+[/us/pl/113/281/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281%2FtIII
 [/us/stat/128/3044]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3044
 
 

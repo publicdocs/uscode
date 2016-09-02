@@ -17,7 +17,7 @@
 
     When a seaman dies in the United States and is entitled at death to claim money, property, or wages from the master or owner of a vessel on which the seaman served, the master or owner shall deliver the money, property, and wages to a district court of the United States within one week of the seaman’s death. If the seaman’s death occurs at sea, such money, property, or wages shall be delivered to a district court or a consular officer within one week of the vessel’s arrival at the first port call after the seaman’s death.
 
-([Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 573][/us/stat/97/573]; [Pub. L. 103–206, title IV, § 419][/us/pl/103/206/s419], Dec. 20, 1993, [107 Stat. 2438][/us/stat/107/2438].)
+([Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 573][/us/stat/97/573]; [Pub. L. 103–206, title IV][/us/pl/103/206/tIV], § 419, Dec. 20, 1993, [107 Stat. 2438][/us/stat/107/2438].)
 
 <table>
 
@@ -70,7 +70,7 @@ Source section (U.S. Code)  </td>
 
 [/us/pl/98/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F89
 [/us/stat/97/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F573
-[/us/pl/103/206/s419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F206%2Fs419
+[/us/pl/103/206/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F206%2FtIV
 [/us/stat/107/2438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2438
 [/us/pl/103/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F206
 

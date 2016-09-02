@@ -143,15 +143,25 @@
 
   </tr>
 
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft46%2Fs7116" data-uslm-ref="/us/usc/t46/s7116">7116.</a>  </td>
+
+    <td> Examinations for merchant mariner credentials.  </td>
+
+  </tr>
+
 </table>
 
  __Amendments__ 
 
-    2010—[Pub. L. 111–281, title II, § 210(c)][/us/pl/111/281/s210/c], Oct. 15, 2010, [124 Stat. 2914][/us/stat/124/2914], added item 7115.
+    2016—[Pub. L. 114–120, title III][/us/pl/114/120/tIII], § 315(b)(2), Feb. 8, 2016, [130 Stat. 62][/us/stat/130/62], added item 7116.
 
-    1990—[Pub. L. 101–380, title IV, § 4102(e)(2)][/us/pl/101/380/s4102/e/2], Aug. 18, 1990, [104 Stat. 510][/us/stat/104/510], substituted “Review of criminal records” for “Renewal of licenses” in item 7109.
+    2010—[Pub. L. 111–281, title II][/us/pl/111/281/tII], § 210(c), Oct. 15, 2010, [124 Stat. 2914][/us/stat/124/2914], added item 7115.
 
-    1984—[Pub. L. 98–364, title IV, § 402(8)(A)][/us/pl/98/364/s402/8/A], July 17, 1984, [98 Stat. 447][/us/stat/98/447], substituted “Oral examinations for licenses” for “Licenses for fishing vessels not subject to inspection” in item 7111.
+    1990—[Pub. L. 101–380, title IV][/us/pl/101/380/tIV], § 4102(e)(2), Aug. 18, 1990, [104 Stat. 510][/us/stat/104/510], substituted “Review of criminal records” for “Renewal of licenses” in item 7109.
+
+    1984—[Pub. L. 98–364, title IV][/us/pl/98/364/tIV], § 402(8)(A), July 17, 1984, [98 Stat. 447][/us/stat/98/447], substituted “Oral examinations for licenses” for “Licenses for fishing vessels not subject to inspection” in item 7111.
 
 ----------
 
@@ -160,11 +170,13 @@
 ----------
 ----------
 
-[/us/pl/111/281/s210/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs210%2Fc
+[/us/pl/114/120/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F120%2FtIII
+[/us/stat/130/62]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F62
+[/us/pl/111/281/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2FtII
 [/us/stat/124/2914]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2914
-[/us/pl/101/380/s4102/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2Fs4102%2Fe%2F2
+[/us/pl/101/380/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2FtIV
 [/us/stat/104/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F510
-[/us/pl/98/364/s402/8/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F364%2Fs402%2F8%2FA
+[/us/pl/98/364/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F364%2FtIV
 [/us/stat/98/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F447
 
 

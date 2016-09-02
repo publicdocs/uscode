@@ -21,7 +21,7 @@
 
     (2) may make available information in the vessel identification system to others.
 
-(Added [Pub. L. 100–710, title I, § 101(a)][/us/pl/100/710/s101/a], Nov. 23, 1988, [102 Stat. 4736][/us/stat/102/4736]; amended [Pub. L. 101–225, title III, § 302(3)][/us/pl/101/225/s302/3], Dec. 12, 1989, [103 Stat. 1923][/us/stat/103/1923].)
+(Added [Pub. L. 100–710, title I][/us/pl/100/710/tI], § 101(a), Nov. 23, 1988, [102 Stat. 4736][/us/stat/102/4736]; amended [Pub. L. 101–225, title III][/us/pl/101/225/tIII], § 302(3), Dec. 12, 1989, [103 Stat. 1923][/us/stat/103/1923].)
 
  __Historical and Revision Notes__ 
 
@@ -41,9 +41,9 @@
 ----------
 
 [/us/usc/t46/s12503/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs12503%2Fa
-[/us/pl/100/710/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F710%2Fs101%2Fa
+[/us/pl/100/710/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F710%2FtI
 [/us/stat/102/4736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4736
-[/us/pl/101/225/s302/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F225%2Fs302%2F3
+[/us/pl/101/225/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F225%2FtIII
 [/us/stat/103/1923]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1923
 [/us/pl/101/225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F225
 

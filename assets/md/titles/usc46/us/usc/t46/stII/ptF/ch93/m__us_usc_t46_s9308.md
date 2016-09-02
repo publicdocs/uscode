@@ -21,7 +21,7 @@
 
     (c) A person violating a regulation prescribed under [section 9303 of this title][/us/usc/t46/s9303] is liable to the Government for a civil penalty of no more than $10,000.
 
-([Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 560][/us/stat/97/560]; [Pub. L. 101–380, title IV, § 4108(b)][/us/pl/101/380/s4108/b], Aug. 18, 1990, [104 Stat. 515][/us/stat/104/515].)
+([Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 560][/us/stat/97/560]; [Pub. L. 101–380, title IV][/us/pl/101/380/tIV], § 4108(b), Aug. 18, 1990, [104 Stat. 515][/us/stat/104/515].)
 
 <table>
 
@@ -81,7 +81,7 @@ Source section (U.S. Code)  </td>
 [/us/usc/t46/s9303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs9303
 [/us/pl/98/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F89
 [/us/stat/97/560]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F560
-[/us/pl/101/380/s4108/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2Fs4108%2Fb
+[/us/pl/101/380/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2FtIV
 [/us/stat/104/515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F515
 [/us/pl/101/380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380
 [/us/pl/101/380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380

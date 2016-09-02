@@ -17,7 +17,7 @@
 
     The Secretary of Transportation shall reject any bid for the charter under this subchapter of a vessel constructed under this subtitle or the Merchant Marine Act, 1936, if the charter hire offered is lower than the minimum charter hire would be if the vessel were chartered under [section 57531 of this title][/us/usc/t46/s57531].
 
-([Pub. L. 109–304, § 8(c)][/us/pl/109/304/s8/c], Oct. 6, 2006, [120 Stat. 1666][/us/stat/120/1666].)
+([Pub. L. 109–304][/us/pl/109/304], § 8(c), Oct. 6, 2006, [120 Stat. 1666][/us/stat/120/1666].)
 
 <table>
 
@@ -77,7 +77,7 @@ June 29, 1936, ch. 858, title VII, § 706(b) (last sentence), as added Aug. 4,
 ----------
 
 [/us/usc/t46/s57531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs57531
-[/us/pl/109/304/s8/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs8%2Fc
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1666]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1666
 [/us/act/1936-06-29/ch858]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-06-29%2Fch858
 [/us/stat/49/1985]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F1985

@@ -41,7 +41,7 @@
 
     To the maximum extent possible, the Secretary shall encourage the development and use of intermodal transport, using containers built to facilitate economical, safe, and expeditious handling of containerized cargo without intermediate reloading when it is being transported over land, air, and sea areas.
 
-([Pub. L. 109–304, § 11][/us/pl/109/304/s11], Oct. 6, 2006, [120 Stat. 1694][/us/stat/120/1694].)
+([Pub. L. 109–304][/us/pl/109/304], § 11, Oct. 6, 2006, [120 Stat. 1694][/us/stat/120/1694].)
 
 <table>
 
@@ -159,7 +159,7 @@ Pub. L. 95–208, § 4(a), (b), (c)(1), (3), (e), Dec. 13, 1977, 91 Stat. 1476
 ----------
 
 [/us/usc/t46/s80506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs80506
-[/us/pl/109/304/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs11
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1694]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1694
 
 

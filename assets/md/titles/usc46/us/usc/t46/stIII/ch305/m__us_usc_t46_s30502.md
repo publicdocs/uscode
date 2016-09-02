@@ -17,7 +17,7 @@
 
     Except as otherwise provided, this chapter (except section 30503) applies to seagoing vessels and vessels used on lakes or rivers or in inland navigation, including canal boats, barges, and lighters.
 
-([Pub. L. 109–304, § 6(c)][/us/pl/109/304/s6/c], Oct. 6, 2006, [120 Stat. 1512][/us/stat/120/1512].)
+([Pub. L. 109–304][/us/pl/109/304], § 6(c), Oct. 6, 2006, [120 Stat. 1512][/us/stat/120/1512].)
 
 <table>
 
@@ -72,7 +72,7 @@ R.S. § 4289; Feb. 18, 1875, ch. 80, § 1 (related to R.S. § 4289), 18 St
 ----------
 ----------
 
-[/us/pl/109/304/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs6%2Fc
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1512
 
 

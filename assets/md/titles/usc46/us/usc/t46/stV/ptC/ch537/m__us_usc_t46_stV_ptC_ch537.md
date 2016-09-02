@@ -275,7 +275,7 @@ SUBCHAPTER III—PARTICULAR PROJECTS  </td>
 
  __Amendments__ 
 
-    2008—[Pub. L. 110–181, div. C, title XXXV, § 3522(a)(10)(A)][/us/pl/110/181/s3522/a/10/A], Jan. 28, 2008, [122 Stat. 598][/us/stat/122/598], inserted “or Administrator” after “Secretary” in items 53722 and 53723.
+    2008—[Pub. L. 110–181, div. C, title XXXV][/us/pl/110/181/dC/tXXXV], § 3522(a)(10)(A), Jan. 28, 2008, [122 Stat. 598][/us/stat/122/598], inserted “or Administrator” after “Secretary” in items 53722 and 53723.
 
 ----------
 
@@ -284,7 +284,7 @@ SUBCHAPTER III—PARTICULAR PROJECTS  </td>
 ----------
 ----------
 
-[/us/pl/110/181/s3522/a/10/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs3522%2Fa%2F10%2FA
+[/us/pl/110/181/dC/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdC%2FtXXXV
 [/us/stat/122/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F598
 
 

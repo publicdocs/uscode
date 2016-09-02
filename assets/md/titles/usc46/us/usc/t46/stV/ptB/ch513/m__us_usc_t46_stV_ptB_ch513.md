@@ -163,13 +163,13 @@
 
  __Amendments__ 
 
-    2011—[Pub. L. 111–383, div. A, title X, § 1075(d)(25)][/us/pl/111/383/s1075/d/25], Jan. 7, 2011, [124 Stat. 4374][/us/stat/124/4374], amended [Pub. L. 111–84, § 3503(b)(1)][/us/pl/111/84/s3503/b/1]. See 2009 Amendment note below.
+    2011—[Pub. L. 111–383, div. A, title X][/us/pl/111/383/dA/tX], § 1075(d)(25), Jan. 7, 2011, [124 Stat. 4374][/us/stat/124/4374], amended [Pub. L. 111–84][/us/pl/111/84], § 3503(b)(1). See 2009 Amendment note below.
 
-    2009—[Pub. L. 111–84, div. C, title XXXV, § 3503(b)(1)][/us/pl/111/84/s3503/b/1], Oct. 28, 2009, [123 Stat. 2719][/us/stat/123/2719], as amended by [Pub. L. 111–383, div. A, title X, § 1075(d)(25)][/us/pl/111/383/s1075/d/25], Jan. 7, 2011, [124 Stat. 4374][/us/stat/124/4374], added item 51317.
+    2009—[Pub. L. 111–84, div. C, title XXXV][/us/pl/111/84/dC/tXXXV], § 3503(b)(1), Oct. 28, 2009, [123 Stat. 2719][/us/stat/123/2719], as amended by [Pub. L. 111–383, div. A, title X][/us/pl/111/383/dA/tX], § 1075(d)(25), Jan. 7, 2011, [124 Stat. 4374][/us/stat/124/4374], added item 51317.
 
-    2008—[Pub. L. 110–417, div. C, title XXXV, § 3506(g)(2)][/us/pl/110/417/s3506/g/2], (h)(2), Oct. 14, 2008, [122 Stat. 4765][/us/stat/122/4765], added items 51315 and 51316.
+    2008—[Pub. L. 110–417, div. C, title XXXV][/us/pl/110/417/dC/tXXXV], § 3506(g)(2), (h)(2), Oct. 14, 2008, [122 Stat. 4765][/us/stat/122/4765], added items 51315 and 51316.
 
-    [Pub. L. 110–181, div. C, title XXXV, § 3523(a)(1)][/us/pl/110/181/s3523/a/1], Jan. 28, 2008, [122 Stat. 598][/us/stat/122/598], substituted “Navy Reserve” for “Naval Reserve” in item 51311.
+    [Pub. L. 110–181, div. C, title XXXV][/us/pl/110/181/dC/tXXXV], § 3523(a)(1), Jan. 28, 2008, [122 Stat. 598][/us/stat/122/598], substituted “Navy Reserve” for “Naval Reserve” in item 51311.
 
 ----------
 
@@ -178,16 +178,16 @@
 ----------
 ----------
 
-[/us/pl/111/383/s1075/d/25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs1075%2Fd%2F25
+[/us/pl/111/383/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtX
 [/us/stat/124/4374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4374
-[/us/pl/111/84/s3503/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs3503%2Fb%2F1
-[/us/pl/111/84/s3503/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs3503%2Fb%2F1
+[/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
+[/us/pl/111/84/dC/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdC%2FtXXXV
 [/us/stat/123/2719]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2719
-[/us/pl/111/383/s1075/d/25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs1075%2Fd%2F25
+[/us/pl/111/383/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtX
 [/us/stat/124/4374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4374
-[/us/pl/110/417/s3506/g/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417%2Fs3506%2Fg%2F2
+[/us/pl/110/417/dC/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417%2FdC%2FtXXXV
 [/us/stat/122/4765]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4765
-[/us/pl/110/181/s3523/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs3523%2Fa%2F1
+[/us/pl/110/181/dC/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdC%2FtXXXV
 [/us/stat/122/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F598
 
 

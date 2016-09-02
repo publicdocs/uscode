@@ -117,7 +117,7 @@
 
         A penalty or forfeiture incurred under this subsection may be remitted or mitigated under [section 2107(b) of this title][/us/usc/t46/s2107/b].
 
-([Pub. L. 109–304, § 5][/us/pl/109/304/s5], Oct. 6, 2006, [120 Stat. 1500][/us/stat/120/1500].)
+([Pub. L. 109–304][/us/pl/109/304], § 5, Oct. 6, 2006, [120 Stat. 1500][/us/stat/120/1500].)
 
 <table>
 
@@ -273,7 +273,7 @@ June 5, 1920, ch. 250, § 27A, as added Pub. L. 85–902, Sept. 2, 1958, 72 St
 
  __Prior Provisions__ 
 
-    A prior section 12118, [Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 589][/us/stat/97/589], originally derived from section 65r of former Title 46, Shipping, related to registration of funnel marks and house flags, prior to being repealed by [Pub. L. 100–710, title I][/us/pl/100/710], §§ 106(b)(5), 107(a), Nov. 23, 1988, [102 Stat. 4752][/us/stat/102/4752], effective Jan. 1, 1989.
+    A prior section 12118, [Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 589][/us/stat/97/589], originally derived from section 65r of former Title 46, Shipping, related to registration of funnel marks and house flags, prior to being repealed by [Pub. L. 100–710, title I][/us/pl/100/710/tI], §§ 106(b)(5), 107(a), Nov. 23, 1988, [102 Stat. 4752][/us/stat/102/4752], effective Jan. 1, 1989.
 
 ----------
 
@@ -288,7 +288,7 @@ June 5, 1920, ch. 250, § 27A, as added Pub. L. 85–902, Sept. 2, 1958, 72 St
 [/us/usc/t46/s14104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs14104
 [/us/usc/t46/s50501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs50501
 [/us/usc/t46/s2107/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs2107%2Fb
-[/us/pl/109/304/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs5
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1500
 [/us/usc/t46/s2101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs2101
 [/us/pl/89/670]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F670
@@ -297,7 +297,7 @@ June 5, 1920, ch. 250, § 27A, as added Pub. L. 85–902, Sept. 2, 1958, 72 St
 [/us/stat/116/2135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2135
 [/us/pl/98/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F89
 [/us/stat/97/589]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F589
-[/us/pl/100/710]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F710
+[/us/pl/100/710/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F710%2FtI
 [/us/stat/102/4752]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4752
 
 

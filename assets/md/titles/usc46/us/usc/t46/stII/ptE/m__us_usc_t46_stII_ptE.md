@@ -21,7 +21,7 @@
 
  __Amendments__ 
 
-    1985—[Pub. L. 99–36, § 1(a)(9)(B)][/us/pl/99/36/s1/a/9/B], May 15, 1985, [99 Stat. 67][/us/stat/99/67], substituted “Merchant Seamen Licenses, Certificates, and” for “Licenses, Certificates, and Merchant Mariners’ ” in part E heading.
+    1985—[Pub. L. 99–36][/us/pl/99/36], § 1(a)(9)(B), May 15, 1985, [99 Stat. 67][/us/stat/99/67], substituted “Merchant Seamen Licenses, Certificates, and” for “Licenses, Certificates, and Merchant Mariners’ ” in part E heading.
 
 ----------
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/99/36/s1/a/9/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F36%2Fs1%2Fa%2F9%2FB
+[/us/pl/99/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F36
 [/us/stat/99/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F67
 
 

@@ -43,7 +43,7 @@
 
     (f) A documented vessel regularly operating on the Great Lakes or between ports on the Great Lakes and the St. Lawrence River is exempt from the requirements of subsection (a) of this section.
 
-([Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 557][/us/stat/97/557]; [Pub. L. 101–380, title IV, § 4108(a)][/us/pl/101/380/s4108/a], Aug. 18, 1990, [104 Stat. 514][/us/stat/104/514]; [Pub. L. 104–324, title XI, § 1115(b)(5)][/us/pl/104/324/s1115/b/5]–(7), Oct. 19, 1996, [110 Stat. 3972][/us/stat/110/3972].)
+([Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 557][/us/stat/97/557]; [Pub. L. 101–380, title IV][/us/pl/101/380/tIV], § 4108(a), Aug. 18, 1990, [104 Stat. 514][/us/stat/104/514]; [Pub. L. 104–324, title XI][/us/pl/104/324/tXI], § 1115(b)(5)–(7), Oct. 19, 1996, [110 Stat. 3972][/us/stat/110/3972].)
 
 <table>
 
@@ -105,11 +105,11 @@ Source section (U.S. Code)  </td>
 
  __Amendments__ 
 
-    1996—Subsec. (a)(1). [Pub. L. 104–324, § 1115(b)(5)][/us/pl/104/324/s1115/b/5], substituted “subsections (d), (e), and (f)” for “subsections (d) and (e)”.
+    1996—Subsec. (a)(1). [Pub. L. 104–324][/us/pl/104/324], § 1115(b)(5), substituted “subsections (d), (e), and (f)” for “subsections (d) and (e)”.
 
-    Subsec. (e). [Pub. L. 104–324, § 1115(b)(6)][/us/pl/104/324/s1115/b/6], substituted “subsection (a)” for “subsections (a) and (b)”.
+    Subsec. (e). [Pub. L. 104–324][/us/pl/104/324], § 1115(b)(6), substituted “subsection (a)” for “subsections (a) and (b)”.
 
-    Subsec. (f). [Pub. L. 104–324, § 1115(b)(7)][/us/pl/104/324/s1115/b/7], added subsec. (f).
+    Subsec. (f). [Pub. L. 104–324][/us/pl/104/324], § 1115(b)(7), added subsec. (f).
 
     1990—Subsec. (b). [Pub. L. 101–380][/us/pl/101/380] amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “An individual of a vessel licensed for navigation on the Great Lakes under [section 7101 of this title][/us/usc/t46/s7101], or equivalent provisions of Canadian law, and qualified for the route being navigated, may serve as the pilot required on waters not designated by the President.”
 
@@ -152,13 +152,13 @@ Source section (U.S. Code)  </td>
 [/us/usc/t46/s7101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs7101
 [/us/pl/98/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F89
 [/us/stat/97/557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F557
-[/us/pl/101/380/s4108/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2Fs4108%2Fa
+[/us/pl/101/380/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2FtIV
 [/us/stat/104/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F514
-[/us/pl/104/324/s1115/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2Fs1115%2Fb%2F5
+[/us/pl/104/324/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2FtXI
 [/us/stat/110/3972]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3972
-[/us/pl/104/324/s1115/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2Fs1115%2Fb%2F5
-[/us/pl/104/324/s1115/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2Fs1115%2Fb%2F6
-[/us/pl/104/324/s1115/b/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2Fs1115%2Fb%2F7
+[/us/pl/104/324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324
+[/us/pl/104/324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324
+[/us/pl/104/324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324
 [/us/pl/101/380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380
 [/us/usc/t46/s7101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs7101
 [/us/pl/101/380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380

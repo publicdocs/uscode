@@ -147,7 +147,7 @@
 
     (g) In this section, the term “state sponsor of terrorism” means any country the government of which the Secretary of State has determined has repeatedly provided support for acts of international terrorism pursuant to section 6(j) of the Export Administration Act of 1979 (as continued in effect under the International Emergency Economic Powers Act), section 620A of the Foreign Assistance Act of 1961, section 40 of the Arms Export Control Act, or any other provision of law.
 
-([Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 516][/us/stat/97/516]; [Pub. L. 104–324, title VI, § 607(a)][/us/pl/104/324/s607/a], (b)(1), Oct. 19, 1996, [110 Stat. 3931][/us/stat/110/3931], 3932; [Pub. L. 108–293, title IV, § 413(a)][/us/pl/108/293/s413/a], Aug. 9, 2004, [118 Stat. 1046][/us/stat/118/1046]; [Pub. L. 111–281, title VI, § 622][/us/pl/111/281/s622], Oct. 15, 2010, [124 Stat. 2978][/us/stat/124/2978]; [Pub. L. 112–213, title III, § 304][/us/pl/112/213/s304], Dec. 20, 2012, [126 Stat. 1563][/us/stat/126/1563]; [Pub. L. 113–281, title III, § 315][/us/pl/113/281/s315], Dec. 18, 2014, [128 Stat. 3050][/us/stat/128/3050].)
+([Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 516][/us/stat/97/516]; [Pub. L. 104–324, title VI][/us/pl/104/324/tVI], § 607(a), (b)(1), Oct. 19, 1996, [110 Stat. 3931][/us/stat/110/3931], 3932; [Pub. L. 108–293, title IV][/us/pl/108/293/tIV], § 413(a), Aug. 9, 2004, [118 Stat. 1046][/us/stat/118/1046]; [Pub. L. 111–281, title VI][/us/pl/111/281/tVI], § 622, Oct. 15, 2010, [124 Stat. 2978][/us/stat/124/2978]; [Pub. L. 112–213, title III][/us/pl/112/213/tIII], § 304, Dec. 20, 2012, [126 Stat. 1563][/us/stat/126/1563]; [Pub. L. 113–281, title III][/us/pl/113/281/tIII], § 315, Dec. 18, 2014, [128 Stat. 3050][/us/stat/128/3050].)
 
 <table>
 
@@ -209,37 +209,37 @@ Source section (U.S. Code)  </td>
 
     2014—Subsecs. (f), (g). [Pub. L. 113–281][/us/pl/113/281] added subsec. (f) and redesignated former subsec. (f) as (g).
 
-    2012—Subsec. (b)(2)(C). [Pub. L. 112–213, § 304(1)][/us/pl/112/213/s304/1], added subpar. (C).
+    2012—Subsec. (b)(2)(C). [Pub. L. 112–213][/us/pl/112/213], § 304(1), added subpar. (C).
 
-    Subsec. (d)(2)(C). [Pub. L. 112–213, § 304(2)][/us/pl/112/213/s304/2], added subpar. (C).
+    Subsec. (d)(2)(C). [Pub. L. 112–213][/us/pl/112/213], § 304(2), added subpar. (C).
 
-    Subsecs. (e), (f). [Pub. L. 112–213, § 304(3)][/us/pl/112/213/s304/3], added subsecs. (e) and (f).
+    Subsecs. (e), (f). [Pub. L. 112–213][/us/pl/112/213], § 304(3), added subsecs. (e) and (f).
 
-    2010—Subsec. (c). [Pub. L. 111–281, § 622(b)][/us/pl/111/281/s622/b], added par. (1) and struck out former par. (1) which read as follows: “A classification society (including an employee or agent of that society) may not review, examine, survey, or certify the construction, repair, or alteration of a vessel in the United States unless—
+    2010—Subsec. (c). [Pub. L. 111–281][/us/pl/111/281], § 622(b), added par. (1) and struck out former par. (1) which read as follows: “A classification society (including an employee or agent of that society) may not review, examine, survey, or certify the construction, repair, or alteration of a vessel in the United States unless—
 
     “(A) the society has applied for approval under this subsection and the Secretary has reviewed and approved that society with respect to the conduct of that society under paragraph (2); or
 
     “(B) the society is a full member of the International Association of Classification Societies.”
 
-    Subsec. (d). [Pub. L. 111–281, § 622(a)][/us/pl/111/281/s622/a], added subsec. (d).
+    Subsec. (d). [Pub. L. 111–281][/us/pl/111/281], § 622(a), added subsec. (d).
 
     2004—Subsec. (c). [Pub. L. 108–293][/us/pl/108/293] added subsec. (c).
 
-    1996—[Pub. L. 104–324, § 607(b)(1)][/us/pl/104/324/s607/b/1], substituted “Classification societies” for “United States classification societies” in section catchline.
+    1996—[Pub. L. 104–324][/us/pl/104/324], § 607(b)(1), substituted “Classification societies” for “United States classification societies” in section catchline.
 
-    Subsec. (a). [Pub. L. 104–324, § 607(a)(3)][/us/pl/104/324/s607/a/3], which directed the substitution of “American Bureau of Shipping” for “Bureau”, was executed by making the substitution the first place appearing, to reflect the probable intent of Congress.
+    Subsec. (a). [Pub. L. 104–324][/us/pl/104/324], § 607(a)(3), which directed the substitution of “American Bureau of Shipping” for “Bureau”, was executed by making the substitution the first place appearing, to reflect the probable intent of Congress.
 
-    [Pub. L. 104–324, § 607(a)(1)][/us/pl/104/324/s607/a/1], (2), redesignated subsec. (b) as (a) and struck out former subsec. (a) which read as follows: “In carrying out this part, the Secretary may rely on reports, documents, and certificates issued by the American Bureau of Shipping or a similar United States classification society, or an agent of the Bureau or society.”
+    [Pub. L. 104–324][/us/pl/104/324], § 607(a)(1), (2), redesignated subsec. (b) as (a) and struck out former subsec. (a) which read as follows: “In carrying out this part, the Secretary may rely on reports, documents, and certificates issued by the American Bureau of Shipping or a similar United States classification society, or an agent of the Bureau or society.”
 
-    Subsec. (b). [Pub. L. 104–324, § 607(a)(2)][/us/pl/104/324/s607/a/2], (4), redesignated subsec. (c) as (b), added pars. (1) and (2), redesignated former par. (2) as (3), and struck out former par. (1) which read as follows: “To the maximum extent practicable, the Secretary may delegate to the Bureau or a similar United States classification society, or an agent of the Bureau or society, the inspection or examination, in the United States or in a foreign country, of a vessel documented or to be documented as a vessel of the United States. The Bureau, society, or agent may issue the certificate of inspection required by this part and other certificates essential to documentation.” Former subsec. (b) redesignated (a).
+    Subsec. (b). [Pub. L. 104–324][/us/pl/104/324], § 607(a)(2), (4), redesignated subsec. (c) as (b), added pars. (1) and (2), redesignated former par. (2) as (3), and struck out former par. (1) which read as follows: “To the maximum extent practicable, the Secretary may delegate to the Bureau or a similar United States classification society, or an agent of the Bureau or society, the inspection or examination, in the United States or in a foreign country, of a vessel documented or to be documented as a vessel of the United States. The Bureau, society, or agent may issue the certificate of inspection required by this part and other certificates essential to documentation.” Former subsec. (b) redesignated (a).
 
-    Subsec. (c). [Pub. L. 104–324, § 607(a)(2)][/us/pl/104/324/s607/a/2], redesignated subsec. (c) as (b).
+    Subsec. (c). [Pub. L. 104–324][/us/pl/104/324], § 607(a)(2), redesignated subsec. (c) as (b).
 
-    Subsec. (d). [Pub. L. 104–324, § 607(a)(1)][/us/pl/104/324/s607/a/1], struck out subsec. (d) which read as follows: “The Secretary also may make an agreement with or use the Bureau or a similar United States classification society, or an agent of the Bureau or society, for reviewing and approving plans required for issuing a certificate of inspection.”
+    Subsec. (d). [Pub. L. 104–324][/us/pl/104/324], § 607(a)(1), struck out subsec. (d) which read as follows: “The Secretary also may make an agreement with or use the Bureau or a similar United States classification society, or an agent of the Bureau or society, for reviewing and approving plans required for issuing a certificate of inspection.”
 
  __Effective Date of 2004 Amendment__ 
 
-[Pub. L. 108–293, title IV, § 413(b)][/us/pl/108/293/s413/b], Aug. 9, 2004, [118 Stat. 1046][/us/stat/118/1046], provided that: 
+[Pub. L. 108–293, title IV][/us/pl/108/293/tIV], § 413(b), Aug. 9, 2004, [118 Stat. 1046][/us/stat/118/1046], provided that: 
 
 > “[Section 3316(c)(1) of title 46][/us/usc/t46/s3316/c/1], United States Code, shall apply with respect to operation as a classification society on or after January 1, 2005.”
 
@@ -259,15 +259,15 @@ Source section (U.S. Code)  </td>
 [/us/usc/t43/s1356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1356
 [/us/pl/98/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F89
 [/us/stat/97/516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F516
-[/us/pl/104/324/s607/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2Fs607%2Fa
+[/us/pl/104/324/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2FtVI
 [/us/stat/110/3931]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3931
-[/us/pl/108/293/s413/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293%2Fs413%2Fa
+[/us/pl/108/293/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293%2FtIV
 [/us/stat/118/1046]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1046
-[/us/pl/111/281/s622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs622
+[/us/pl/111/281/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2FtVI
 [/us/stat/124/2978]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2978
-[/us/pl/112/213/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F213%2Fs304
+[/us/pl/112/213/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F213%2FtIII
 [/us/stat/126/1563]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1563
-[/us/pl/113/281/s315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281%2Fs315
+[/us/pl/113/281/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281%2FtIII
 [/us/stat/128/3050]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3050
 [/us/pl/113/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281
 [/us/usc/t50/s4605/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4605%2Fj
@@ -277,19 +277,19 @@ Source section (U.S. Code)  </td>
 [/us/usc/t22/s2371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2371
 [/us/usc/t22/s2780]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2780
 [/us/pl/113/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281
-[/us/pl/112/213/s304/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F213%2Fs304%2F1
-[/us/pl/112/213/s304/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F213%2Fs304%2F2
-[/us/pl/112/213/s304/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F213%2Fs304%2F3
-[/us/pl/111/281/s622/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs622%2Fb
-[/us/pl/111/281/s622/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs622%2Fa
+[/us/pl/112/213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F213
+[/us/pl/112/213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F213
+[/us/pl/112/213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F213
+[/us/pl/111/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281
+[/us/pl/111/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281
 [/us/pl/108/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293
-[/us/pl/104/324/s607/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2Fs607%2Fb%2F1
-[/us/pl/104/324/s607/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2Fs607%2Fa%2F3
-[/us/pl/104/324/s607/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2Fs607%2Fa%2F1
-[/us/pl/104/324/s607/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2Fs607%2Fa%2F2
-[/us/pl/104/324/s607/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2Fs607%2Fa%2F2
-[/us/pl/104/324/s607/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2Fs607%2Fa%2F1
-[/us/pl/108/293/s413/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293%2Fs413%2Fb
+[/us/pl/104/324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324
+[/us/pl/104/324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324
+[/us/pl/104/324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324
+[/us/pl/104/324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324
+[/us/pl/104/324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324
+[/us/pl/104/324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324
+[/us/pl/108/293/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293%2FtIV
 [/us/stat/118/1046]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1046
 [/us/usc/t46/s3316/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs3316%2Fc%2F1
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542

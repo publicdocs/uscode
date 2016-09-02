@@ -17,7 +17,7 @@
 
     The Federal Maritime Commission may prescribe regulations to carry out its duties and powers.
 
-([Pub. L. 109–304, § 4][/us/pl/109/304/s4], Oct. 6, 2006, [120 Stat. 1489][/us/stat/120/1489].)
+([Pub. L. 109–304][/us/pl/109/304], § 4, Oct. 6, 2006, [120 Stat. 1489][/us/stat/120/1489].)
 
 <table>
 
@@ -90,7 +90,7 @@ Pub. L. 98–237, § 17, Mar. 20, 1984, 98 Stat. 84.  </td>
 ----------
 ----------
 
-[/us/pl/109/304/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs4
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1489]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1489
 
 

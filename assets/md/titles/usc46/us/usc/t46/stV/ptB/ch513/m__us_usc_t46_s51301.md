@@ -23,7 +23,7 @@
 
     The Secretary of Transportation may, subject to the availability of appropriations, expend funds available for United States Merchant Marine Academy operating expenses for recruiting activities, including advertising, in order to obtain recruits for the Academy and cadet applicants.
 
-([Pub. L. 109–304, § 8(b)][/us/pl/109/304/s8/b], Oct. 6, 2006, [120 Stat. 1570][/us/stat/120/1570]; [Pub. L. 111–383, div. C, title XXXV, § 3504][/us/pl/111/383/s3504], Jan. 7, 2011, [124 Stat. 4518][/us/stat/124/4518]; [Pub. L. 112–81, div. C, title XXXV, § 3503][/us/pl/112/81/s3503], Dec. 31, 2011, [125 Stat. 1716][/us/stat/125/1716]; [Pub. L. 112–239, div. A, title X, § 1076(i)][/us/pl/112/239/s1076/i], Jan. 2, 2013, [126 Stat. 1955][/us/stat/126/1955].)
+([Pub. L. 109–304][/us/pl/109/304], § 8(b), Oct. 6, 2006, [120 Stat. 1570][/us/stat/120/1570]; [Pub. L. 111–383, div. C, title XXXV][/us/pl/111/383/dC/tXXXV], § 3504, Jan. 7, 2011, [124 Stat. 4518][/us/stat/124/4518]; [Pub. L. 112–81, div. C, title XXXV][/us/pl/112/81/dC/tXXXV], § 3503, Dec. 31, 2011, [125 Stat. 1716][/us/stat/125/1716]; [Pub. L. 112–239, div. A, title X][/us/pl/112/239/dA/tX], § 1076(i), Jan. 2, 2013, [126 Stat. 1955][/us/stat/126/1955].)
 
 <table>
 
@@ -81,7 +81,7 @@ June 29, 1936, ch. 858, title XIII, § 1303(a), as added Pub. L. 96–453, §�
 
  __Actions To Address Sexual Harassment and Violence at the United States Merchant Marine Academy__ 
 
-[Pub. L. 110–417, div. C, title XXXV, § 3507][/us/pl/110/417/s3507], Oct. 14, 2008, [122 Stat. 4765][/us/stat/122/4765], provided that:
+[Pub. L. 110–417, div. C, title XXXV][/us/pl/110/417/dC/tXXXV], § 3507, Oct. 14, 2008, [122 Stat. 4765][/us/stat/122/4765], provided that:
 
 >     “(a)  __Required Policy__  __.—__ 
 
@@ -166,18 +166,18 @@ June 29, 1936, ch. 858, title XIII, § 1303(a), as added Pub. L. 96–453, §�
 ----------
 ----------
 
-[/us/pl/109/304/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs8%2Fb
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1570
-[/us/pl/111/383/s3504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs3504
+[/us/pl/111/383/dC/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdC%2FtXXXV
 [/us/stat/124/4518]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4518
-[/us/pl/112/81/s3503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs3503
+[/us/pl/112/81/dC/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdC%2FtXXXV
 [/us/stat/125/1716]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1716
-[/us/pl/112/239/s1076/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1076%2Fi
+[/us/pl/112/239/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtX
 [/us/stat/126/1955]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1955
 [/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 [/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
 [/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
-[/us/pl/110/417/s3507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417%2Fs3507
+[/us/pl/110/417/dC/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417%2FdC%2FtXXXV
 [/us/stat/122/4765]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4765
 
 

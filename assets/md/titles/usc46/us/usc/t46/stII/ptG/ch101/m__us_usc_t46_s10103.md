@@ -19,7 +19,7 @@
 
     (b) This section does not apply to a ferry or towing vessel operated in connection with a ferry operation, employed only in trades other than with foreign ports, lakes, bays, sounds, bayous, canals, or harbors.
 
-([Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 560][/us/stat/97/560]; [Pub. L. 103–206, title IV, § 417][/us/pl/103/206/s417], Dec. 20, 1993, [107 Stat. 2438][/us/stat/107/2438].)
+([Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 560][/us/stat/97/560]; [Pub. L. 103–206, title IV][/us/pl/103/206/tIV], § 417, Dec. 20, 1993, [107 Stat. 2438][/us/stat/107/2438].)
 
 <table>
 
@@ -73,7 +73,7 @@ Source section (U.S. Code)  </td>
 [/us/usc/t46/s8701/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs8701%2Fa
 [/us/pl/98/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F89
 [/us/stat/97/560]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F560
-[/us/pl/103/206/s417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F206%2Fs417
+[/us/pl/103/206/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F206%2FtIV
 [/us/stat/107/2438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2438
 [/us/pl/103/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F206
 

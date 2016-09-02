@@ -59,7 +59,7 @@
 
  __Amendments__ 
 
-    2010—[Pub. L. 111–281, title VI, § 607(b)][/us/pl/111/281/s607/b], Oct. 15, 2010, [124 Stat. 2967][/us/stat/124/2967], added item 11304.
+    2010—[Pub. L. 111–281, title VI][/us/pl/111/281/tVI], § 607(b), Oct. 15, 2010, [124 Stat. 2967][/us/stat/124/2967], added item 11304.
 
 ----------
 
@@ -68,7 +68,7 @@
 ----------
 ----------
 
-[/us/pl/111/281/s607/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs607%2Fb
+[/us/pl/111/281/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2FtVI
 [/us/stat/124/2967]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2967
 
 

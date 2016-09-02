@@ -17,7 +17,7 @@
 
     The Convention applies to an owner of a container used in international transport if the owner is domiciled or has its principal office in the United States.
 
-([Pub. L. 109–304, § 11][/us/pl/109/304/s11], Oct. 6, 2006, [120 Stat. 1694][/us/stat/120/1694].)
+([Pub. L. 109–304][/us/pl/109/304], § 11, Oct. 6, 2006, [120 Stat. 1694][/us/stat/120/1694].)
 
 <table>
 
@@ -74,7 +74,7 @@ Pub. L. 95–208, § 3(a) (related to application of Convention), Dec. 13, 197
 ----------
 ----------
 
-[/us/pl/109/304/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs11
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1694]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1694
 
 

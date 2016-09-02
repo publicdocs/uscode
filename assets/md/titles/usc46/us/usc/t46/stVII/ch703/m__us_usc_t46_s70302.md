@@ -27,7 +27,7 @@
 
     (5) other appropriate measures to prevent unlawful acts against passengers and crews on vessels.
 
-([Pub. L. 109–304, § 10(2)][/us/pl/109/304/s10/2], Oct. 6, 2006, [120 Stat. 1683][/us/stat/120/1683].)
+([Pub. L. 109–304][/us/pl/109/304], § 10(2), Oct. 6, 2006, [120 Stat. 1683][/us/stat/120/1683].)
 
 <table>
 
@@ -84,7 +84,7 @@ Pub. L. 99–399, title IX, § 902, Aug. 27, 1986, 100 Stat. 889.  </td>
 ----------
 ----------
 
-[/us/pl/109/304/s10/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs10%2F2
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1683]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1683
 
 

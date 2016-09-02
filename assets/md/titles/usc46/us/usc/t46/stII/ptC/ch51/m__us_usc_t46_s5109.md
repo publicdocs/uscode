@@ -19,7 +19,7 @@
 
     (b) Subsection (a) of this section does not apply to a vessel of a foreign country that does not recognize load lines assigned under this chapter.
 
-([Pub. L. 99–509, title V, § 5101(2)][/us/pl/99/509/s5101/2], Oct. 21, 1986, [100 Stat. 1917][/us/stat/100/1917].)
+([Pub. L. 99–509, title V][/us/pl/99/509/tV], § 5101(2), Oct. 21, 1986, [100 Stat. 1917][/us/stat/100/1917].)
 
  __Historical and Revision Notes__ 
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/99/509/s5101/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2Fs5101%2F2
+[/us/pl/99/509/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2FtV
 [/us/stat/100/1917]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1917
 
 

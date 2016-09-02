@@ -39,7 +39,7 @@
 
         (B) provides satisfactory documentation that the vessel was chartered at least once within the previous 12 months prior to the date of enactment of that Act.
 
-([Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 508][/us/stat/97/508]; [Pub. L. 103–206, title V, § 511(a)][/us/pl/103/206/s511/a], Dec. 20, 1993, [107 Stat. 2441][/us/stat/107/2441]; [Pub. L. 104–324, title VII, § 710][/us/pl/104/324/s710], Oct. 19, 1996, [110 Stat. 3935][/us/stat/110/3935].)
+([Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 508][/us/stat/97/508]; [Pub. L. 103–206, title V][/us/pl/103/206/tV], § 511(a), Dec. 20, 1993, [107 Stat. 2441][/us/stat/107/2441]; [Pub. L. 104–324, title VII][/us/pl/104/324/tVII], § 710, Oct. 19, 1996, [110 Stat. 3935][/us/stat/110/3935].)
 
 <table>
 
@@ -87,9 +87,9 @@ Source section (U.S. Code)  </td>
 
  __Amendments__ 
 
-    1996—Par. (4). [Pub. L. 104–324, § 710(1)][/us/pl/104/324/s710/1], inserted “as measured under [section 14502 of this title][/us/usc/t46/s14502], or an alternate tonnage measured under [section 14302 of this title][/us/usc/t46/s14302] as prescribed by the Secretary under [section 14104 of this title][/us/usc/t46/s14104]” after “less than 300 gross tons”.
+    1996—Par. (4). [Pub. L. 104–324][/us/pl/104/324], § 710(1), inserted “as measured under [section 14502 of this title][/us/usc/t46/s14502], or an alternate tonnage measured under [section 14302 of this title][/us/usc/t46/s14302] as prescribed by the Secretary under [section 14104 of this title][/us/usc/t46/s14104]” after “less than 300 gross tons”.
 
-    Par. (5). [Pub. L. 104–324, § 710(2)][/us/pl/104/324/s710/2], inserted “as measured under [section 14502 of this title][/us/usc/t46/s14502], or an alternate tonnage measured under [section 14302 of this title][/us/usc/t46/s14302] as prescribed by the Secretary under [section 14104 of this title][/us/usc/t46/s14104]” after “less than 500 gross tons”.
+    Par. (5). [Pub. L. 104–324][/us/pl/104/324], § 710(2), inserted “as measured under [section 14502 of this title][/us/usc/t46/s14502], or an alternate tonnage measured under [section 14302 of this title][/us/usc/t46/s14302] as prescribed by the Secretary under [section 14104 of this title][/us/usc/t46/s14104]” after “less than 500 gross tons”.
 
     1993—[Pub. L. 103–206][/us/pl/103/206] amended section catchline and text generally. Prior to amendment, text read as follows: “If the Secretary decides that the application of a provision of part B or F of this subtitle is not necessary in performing the mission of a vessel engaged in excursions or an oceanographic research vessel, the Secretary by regulation may—
 
@@ -117,16 +117,16 @@ Source section (U.S. Code)  </td>
 [/us/usc/t46/s14104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs14104
 [/us/pl/98/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F89
 [/us/stat/97/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F508
-[/us/pl/103/206/s511/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F206%2Fs511%2Fa
+[/us/pl/103/206/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F206%2FtV
 [/us/stat/107/2441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2441
-[/us/pl/104/324/s710]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2Fs710
+[/us/pl/104/324/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2FtVII
 [/us/stat/110/3935]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3935
 [/us/pl/103/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F206
-[/us/pl/104/324/s710/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2Fs710%2F1
+[/us/pl/104/324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324
 [/us/usc/t46/s14502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs14502
 [/us/usc/t46/s14302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs14302
 [/us/usc/t46/s14104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs14104
-[/us/pl/104/324/s710/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2Fs710%2F2
+[/us/pl/104/324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324
 [/us/usc/t46/s14502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs14502
 [/us/usc/t46/s14302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs14302
 [/us/usc/t46/s14104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs14104

@@ -63,7 +63,7 @@
 
  __Amendments__ 
 
-    1988—[Pub. L. 100–424, § 4(c)][/us/pl/100/424/s4/c], Sept. 9, 1988, [102 Stat. 1591][/us/stat/102/1591], added item 6104.
+    1988—[Pub. L. 100–424][/us/pl/100/424], § 4(c), Sept. 9, 1988, [102 Stat. 1591][/us/stat/102/1591], added item 6104.
 
 ----------
 
@@ -72,7 +72,7 @@
 ----------
 ----------
 
-[/us/pl/100/424/s4/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F424%2Fs4%2Fc
+[/us/pl/100/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F424
 [/us/stat/102/1591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1591
 
 

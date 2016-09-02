@@ -29,7 +29,7 @@
 
         (3) is qualified as to sight, hearing, and physical condition to perform the member’s duties.
 
-([Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 544][/us/stat/97/544]; [Pub. L. 104–324, title VII, § 724][/us/pl/104/324/s724], Oct. 19, 1996, [110 Stat. 3939][/us/stat/110/3939].)
+([Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 544][/us/stat/97/544]; [Pub. L. 104–324, title VII][/us/pl/104/324/tVII], § 724, Oct. 19, 1996, [110 Stat. 3939][/us/stat/110/3939].)
 
 <table>
 
@@ -90,7 +90,7 @@ Source section (U.S. Code)  </td>
 [/us/usc/t46/s7314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs7314
 [/us/pl/98/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F89
 [/us/stat/97/544]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F544
-[/us/pl/104/324/s724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2Fs724
+[/us/pl/104/324/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2FtVII
 [/us/stat/110/3939]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3939
 [/us/pl/104/324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324
 [/us/usc/t46/s14502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs14502

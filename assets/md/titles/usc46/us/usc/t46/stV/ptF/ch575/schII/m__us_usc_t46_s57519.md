@@ -17,7 +17,7 @@
 
     A charter under this chapter shall require the charterer to carry, at the charterer’s expense, insurance on the chartered vessel covering all marine and port risks, protection and indemnity risks, and all other hazards and liabilities, adequate to cover damages claimed against and losses sustained by the chartered vessel arising during the term of the charter. The insurance shall be in such form, in such amount, and with such companies as the Secretary of Transportation may require. In accordance with law, any of the insurance risks may be underwritten by the Secretary.
 
-([Pub. L. 109–304, § 8(c)][/us/pl/109/304/s8/c], Oct. 6, 2006, [120 Stat. 1667][/us/stat/120/1667].)
+([Pub. L. 109–304][/us/pl/109/304], § 8(c), Oct. 6, 2006, [120 Stat. 1667][/us/stat/120/1667].)
 
 <table>
 
@@ -72,7 +72,7 @@ June 29, 1936, ch. 858, title VII, § 712(a), 49 Stat. 2010; Aug. 7, 1939, ch.
 ----------
 ----------
 
-[/us/pl/109/304/s8/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs8%2Fc
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1667]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1667
 
 

@@ -21,7 +21,7 @@
 
     (c) A person violating this section, or a regulation prescribed under this section, is liable to the United States Government for a civil penalty of not more than $5,000.
 
-([Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 545][/us/stat/97/545]; [Pub. L. 101–380, title IV, § 4114(e)][/us/pl/101/380/s4114/e], Aug. 18, 1990, [104 Stat. 517][/us/stat/104/517]; [Pub. L. 111–281, title VI, § 605][/us/pl/111/281/s605], Oct. 15, 2010, [124 Stat. 2967][/us/stat/124/2967].)
+([Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 545][/us/stat/97/545]; [Pub. L. 101–380, title IV][/us/pl/101/380/tIV], § 4114(e), Aug. 18, 1990, [104 Stat. 517][/us/stat/104/517]; [Pub. L. 111–281, title VI][/us/pl/111/281/tVI], § 605, Oct. 15, 2010, [124 Stat. 2967][/us/stat/124/2967].)
 
 <table>
 
@@ -82,9 +82,9 @@ Source section (U.S. Code)  </td>
 
 [/us/pl/98/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F89
 [/us/stat/97/545]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F545
-[/us/pl/101/380/s4114/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2Fs4114%2Fe
+[/us/pl/101/380/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2FtIV
 [/us/stat/104/517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F517
-[/us/pl/111/281/s605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs605
+[/us/pl/111/281/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2FtVI
 [/us/stat/124/2967]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2967
 [/us/pl/111/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281
 [/us/pl/101/380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380

@@ -27,7 +27,7 @@
 
     A vessel to which this chapter applies under section 3202(a) may not be operated without having on board a Safety Management Certificate and a copy of a Document of Compliance issued for the vessel under [section 3205 of this title][/us/usc/t46/s3205].
 
-(Added [Pub. L. 104–324, title VI, § 602(a)][/us/pl/104/324/s602/a], Oct. 19, 1996, [110 Stat. 3929][/us/stat/110/3929].)
+(Added [Pub. L. 104–324, title VI][/us/pl/104/324/tVI], § 602(a), Oct. 19, 1996, [110 Stat. 3929][/us/stat/110/3929].)
 
 ----------
 
@@ -38,7 +38,7 @@
 
 [/us/usc/t46/s3203/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs3203%2Fa
 [/us/usc/t46/s3205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs3205
-[/us/pl/104/324/s602/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2Fs602%2Fa
+[/us/pl/104/324/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2FtVI
 [/us/stat/110/3929]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3929
 
 

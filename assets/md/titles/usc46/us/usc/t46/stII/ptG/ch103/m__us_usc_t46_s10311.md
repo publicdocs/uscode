@@ -49,7 +49,7 @@
 
     (e) This section does not apply to a fishing or whaling vessel or a yacht.
 
-([Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 564][/us/stat/97/564]; [Pub. L. 103–206, title IV, § 409][/us/pl/103/206/s409], Dec. 20, 1993, [107 Stat. 2436][/us/stat/107/2436].)
+([Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 564][/us/stat/97/564]; [Pub. L. 103–206, title IV][/us/pl/103/206/tIV], § 409, Dec. 20, 1993, [107 Stat. 2436][/us/stat/107/2436].)
 
 <table>
 
@@ -91,13 +91,13 @@ Source section (U.S. Code)  </td>
 
  __Amendments__ 
 
-    1993—Subsec. (a). [Pub. L. 103–206, § 409(1)][/us/pl/103/206/s409/1], substituted “master or individual in charge” for “shipping commissioner”.
+    1993—Subsec. (a). [Pub. L. 103–206][/us/pl/103/206], § 409(1), substituted “master or individual in charge” for “shipping commissioner”.
 
-    Subsec. (b). [Pub. L. 103–206, § 409(2)][/us/pl/103/206/s409/2], substituted “by the master and the seaman” for “by the master, the seaman, and the shipping commissioner as witness”.
+    Subsec. (b). [Pub. L. 103–206][/us/pl/103/206], § 409(2), substituted “by the master and the seaman” for “by the master, the seaman, and the shipping commissioner as witness”.
 
-    Subsec. (d)(1). [Pub. L. 103–206, § 409(3)][/us/pl/103/206/s409/3], substituted “owner, charterer, managing operator, master, or individual in charge” for “Secretary”.
+    Subsec. (d)(1). [Pub. L. 103–206][/us/pl/103/206], § 409(3), substituted “owner, charterer, managing operator, master, or individual in charge” for “Secretary”.
 
-    Subsec. (d)(2). [Pub. L. 103–206, § 409(4)][/us/pl/103/206/s409/4], substituted “at the request of the seaman” for “at a cost prescribed by regulation”.
+    Subsec. (d)(2). [Pub. L. 103–206][/us/pl/103/206], § 409(4), substituted “at the request of the seaman” for “at a cost prescribed by regulation”.
 
 ----------
 
@@ -108,11 +108,11 @@ Source section (U.S. Code)  </td>
 
 [/us/pl/98/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F89
 [/us/stat/97/564]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F564
-[/us/pl/103/206/s409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F206%2Fs409
+[/us/pl/103/206/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F206%2FtIV
 [/us/stat/107/2436]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2436
-[/us/pl/103/206/s409/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F206%2Fs409%2F1
-[/us/pl/103/206/s409/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F206%2Fs409%2F2
-[/us/pl/103/206/s409/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F206%2Fs409%2F3
-[/us/pl/103/206/s409/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F206%2Fs409%2F4
+[/us/pl/103/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F206
+[/us/pl/103/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F206
+[/us/pl/103/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F206
+[/us/pl/103/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F206
 
 

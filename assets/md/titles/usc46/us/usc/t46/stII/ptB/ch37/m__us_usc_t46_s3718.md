@@ -33,7 +33,7 @@
 
         (2) Clearance or a permit refused or revoked under this subsection may be granted upon filing of a bond or other surety satisfactory to the Secretary.
 
-([Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 527][/us/stat/97/527]; [Pub. L. 101–380, title IV, § 4302(c)][/us/pl/101/380/s4302/c], Aug. 18, 1990, [104 Stat. 538][/us/stat/104/538]; [Pub. L. 104–324, title III, § 312(d)][/us/pl/104/324/s312/d], Oct. 19, 1996, [110 Stat. 3921][/us/stat/110/3921]; [Pub. L. 109–304, § 15(17)][/us/pl/109/304/s15/17], Oct. 6, 2006, [120 Stat. 1703][/us/stat/120/1703].)
+([Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 527][/us/stat/97/527]; [Pub. L. 101–380, title IV][/us/pl/101/380/tIV], § 4302(c), Aug. 18, 1990, [104 Stat. 538][/us/stat/104/538]; [Pub. L. 104–324, title III][/us/pl/104/324/tIII], § 312(d), Oct. 19, 1996, [110 Stat. 3921][/us/stat/110/3921]; [Pub. L. 109–304][/us/pl/109/304], § 15(17), Oct. 6, 2006, [120 Stat. 1703][/us/stat/120/1703].)
 
 <table>
 
@@ -83,9 +83,9 @@ Source section (U.S. Code)  </td>
 
     1996—Subsec. (e). [Pub. L. 104–324][/us/pl/104/324] amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “At the request of the Secretary, the Secretary of the Treasury shall withhold or revoke the clearance required by section 4197 of the Revised Statutes (46 App. U.S.C. 91) of a vessel the owner or operator of which is subject to a penalty under this section. Clearance may be granted on filing a bond or other surety satisfactory to the Secretary.”
 
-    1990—Subsec. (b). [Pub. L. 101–380, § 4302(c)(1)][/us/pl/101/380/s4302/c/1], substituted “commits a class D felony” for “shall be fined not more than $50,000, imprisoned for not more than 5 years, or both”.
+    1990—Subsec. (b). [Pub. L. 101–380][/us/pl/101/380], § 4302(c)(1), substituted “commits a class D felony” for “shall be fined not more than $50,000, imprisoned for not more than 5 years, or both”.
 
-    Subsec. (c). [Pub. L. 101–380, § 4302(c)(2)][/us/pl/101/380/s4302/c/2], substituted “commits a class C felony” for “shall be fined not more than $100,000, imprisoned for not more than 10 years, or both”.
+    Subsec. (c). [Pub. L. 101–380][/us/pl/101/380], § 4302(c)(2), substituted “commits a class C felony” for “shall be fined not more than $100,000, imprisoned for not more than 10 years, or both”.
 
  __Effective Date of 1990 Amendment__ 
 
@@ -101,17 +101,17 @@ Source section (U.S. Code)  </td>
 [/us/usc/t46/s60105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs60105
 [/us/pl/98/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F89
 [/us/stat/97/527]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F527
-[/us/pl/101/380/s4302/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2Fs4302%2Fc
+[/us/pl/101/380/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2FtIV
 [/us/stat/104/538]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F538
-[/us/pl/104/324/s312/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2Fs312%2Fd
+[/us/pl/104/324/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2FtIII
 [/us/stat/110/3921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3921
-[/us/pl/109/304/s15/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs15%2F17
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1703
 [/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/usc/t46/s60105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs60105
 [/us/pl/104/324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324
-[/us/pl/101/380/s4302/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2Fs4302%2Fc%2F1
-[/us/pl/101/380/s4302/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2Fs4302%2Fc%2F2
+[/us/pl/101/380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380
+[/us/pl/101/380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380
 [/us/pl/101/380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380
 [/us/pl/101/380/s1020]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2Fs1020
 [/us/usc/t33/s2701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2701

@@ -35,9 +35,9 @@
 
  __Amendments__ 
 
-    2014—[Pub. L. 113–281, title III, § 301(3)][/us/pl/113/281/s301/3], Dec. 18, 2014, [128 Stat. 3042][/us/stat/128/3042], added item 55501 and struck out former items 55501 “Mobile trade fairs” and 55502 “United States Committee on the Marine Transportation System”.
+    2014—[Pub. L. 113–281, title III][/us/pl/113/281/tIII], § 301(3), Dec. 18, 2014, [128 Stat. 3042][/us/stat/128/3042], added item 55501 and struck out former items 55501 “Mobile trade fairs” and 55502 “United States Committee on the Marine Transportation System”.
 
-    2012—[Pub. L. 112–213, title III, § 310(b)][/us/pl/112/213/s310/b], Dec. 20, 2012, [126 Stat. 1568][/us/stat/126/1568], added item 55502.
+    2012—[Pub. L. 112–213, title III][/us/pl/112/213/tIII], § 310(b), Dec. 20, 2012, [126 Stat. 1568][/us/stat/126/1568], added item 55502.
 
 ----------
 
@@ -46,9 +46,9 @@
 ----------
 ----------
 
-[/us/pl/113/281/s301/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281%2Fs301%2F3
+[/us/pl/113/281/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281%2FtIII
 [/us/stat/128/3042]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3042
-[/us/pl/112/213/s310/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F213%2Fs310%2Fb
+[/us/pl/112/213/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F213%2FtIII
 [/us/stat/126/1568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1568
 
 

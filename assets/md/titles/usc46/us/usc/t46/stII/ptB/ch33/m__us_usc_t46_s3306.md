@@ -79,7 +79,7 @@
 
         (3) In this subsection the term “oil fuel” means any oil used as fuel in connection with the propulsion and auxiliary machinery of the vessel in which such oil is carried.
 
-([Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 513][/us/stat/97/513]; [Pub. L. 98–364, title IV, § 402(5)][/us/pl/98/364/s402/5], July 17, 1984, [98 Stat. 446][/us/stat/98/446]; [Pub. L. 103–206, title V, § 512(a)][/us/pl/103/206/s512/a], Dec. 20, 1993, [107 Stat. 2442][/us/stat/107/2442]; [Pub. L. 104–324, title VI, § 604(a)][/us/pl/104/324/s604/a], (c), title VII, § 712, Oct. 19, 1996, [110 Stat. 3930][/us/stat/110/3930], 3931, 3936; [Pub. L. 108–293, title IV, § 415(b)][/us/pl/108/293/s415/b], Aug. 9, 2004, [118 Stat. 1047][/us/stat/118/1047]; [Pub. L. 109–304, § 15(12)][/us/pl/109/304/s15/12], Oct. 6, 2006, [120 Stat. 1703][/us/stat/120/1703]; [Pub. L. 111–281, title VI, § 612][/us/pl/111/281/s612], Oct. 15, 2010, [124 Stat. 2970][/us/stat/124/2970].)
+([Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 513][/us/stat/97/513]; [Pub. L. 98–364, title IV][/us/pl/98/364/tIV], § 402(5), July 17, 1984, [98 Stat. 446][/us/stat/98/446]; [Pub. L. 103–206, title V][/us/pl/103/206/tV], § 512(a), Dec. 20, 1993, [107 Stat. 2442][/us/stat/107/2442]; [Pub. L. 104–324, title VI][/us/pl/104/324/tVI], § 604(a), (c), title VII, § 712, Oct. 19, 1996, [110 Stat. 3930][/us/stat/110/3930], 3931, 3936; [Pub. L. 108–293, title IV][/us/pl/108/293/tIV], § 415(b), Aug. 9, 2004, [118 Stat. 1047][/us/stat/118/1047]; [Pub. L. 109–304][/us/pl/109/304], § 15(12), Oct. 6, 2006, [120 Stat. 1703][/us/stat/120/1703]; [Pub. L. 111–281, title VI][/us/pl/111/281/tVI], § 612, Oct. 15, 2010, [124 Stat. 2970][/us/stat/124/2970].)
 
 <table>
 
@@ -395,13 +395,13 @@ Source section (U.S. Code)  </td>
 
     2004—Subsec. (j). [Pub. L. 108–293][/us/pl/108/293] added subsec. (j).
 
-    1996—Subsec. (a)(4). [Pub. L. 104–324, § 604(c)][/us/pl/104/324/s604/c], substituted “paragraphs (1), (2), and (3)” for “clauses (1)–(3)”.
+    1996—Subsec. (a)(4). [Pub. L. 104–324][/us/pl/104/324], § 604(c), substituted “paragraphs (1), (2), and (3)” for “clauses (1)–(3)”.
 
-    Subsec. (b). [Pub. L. 104–324, § 604(a)][/us/pl/104/324/s604/a], amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “Equipment subject to regulation under this section may not be used on any vessel without prior approval as prescribed by regulation.”
+    Subsec. (b). [Pub. L. 104–324][/us/pl/104/324], § 604(a), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “Equipment subject to regulation under this section may not be used on any vessel without prior approval as prescribed by regulation.”
 
-    Subsec. (h). [Pub. L. 104–324, § 712(1)][/us/pl/104/324/s712/1], inserted “as measured under [section 14502 of this title][/us/usc/t46/s14502], or an alternate tonnage measured under [section 14302 of this title][/us/usc/t46/s14302] as prescribed by the Secretary under [section 14104 of this title][/us/usc/t46/s14104]” after “300 gross tons”.
+    Subsec. (h). [Pub. L. 104–324][/us/pl/104/324], § 712(1), inserted “as measured under [section 14502 of this title][/us/usc/t46/s14502], or an alternate tonnage measured under [section 14302 of this title][/us/usc/t46/s14302] as prescribed by the Secretary under [section 14104 of this title][/us/usc/t46/s14104]” after “300 gross tons”.
 
-    Subsec. (i). [Pub. L. 104–324, § 712(2)][/us/pl/104/324/s712/2], inserted “as measured under [section 14502 of this title][/us/usc/t46/s14502], or an alternate tonnage measured under [section 14302 of this title][/us/usc/t46/s14302] as prescribed by the Secretary under [section 14104 of this title][/us/usc/t46/s14104]” after “500 gross tons”.
+    Subsec. (i). [Pub. L. 104–324][/us/pl/104/324], § 712(2), inserted “as measured under [section 14502 of this title][/us/usc/t46/s14502], or an alternate tonnage measured under [section 14302 of this title][/us/usc/t46/s14302] as prescribed by the Secretary under [section 14104 of this title][/us/usc/t46/s14104]” after “500 gross tons”.
 
     1993—Subsecs. (h), (i). [Pub. L. 103–206][/us/pl/103/206] added subsecs. (h) and (i).
 
@@ -409,7 +409,7 @@ Source section (U.S. Code)  </td>
 
  __Regulations__ 
 
-[Pub. L. 103–206, title V, § 512(b)][/us/pl/103/206/s512/b], (c), Dec. 20, 1993, [107 Stat. 2442][/us/stat/107/2442], provided that:
+[Pub. L. 103–206, title V][/us/pl/103/206/tV], § 512(b), (c), Dec. 20, 1993, [107 Stat. 2442][/us/stat/107/2442], provided that:
 
 >     “(b) The Secretary of Transportation shall, within twenty-four months of the date of enactment of this Act \[Dec. 20, 1993\], prescribe regulations establishing the structural fire protection, manning, operating, and equipment requirements for vessels which meet the requirements of subsections (h) and (i) of [section 3306 of title 46][/us/usc/t46/s3306], United States Code, as amended by this Act.
 
@@ -417,7 +417,7 @@ Source section (U.S. Code)  </td>
 
  __Towing Vessels__ 
 
-[Pub. L. 111–281, title VII, § 701(c)][/us/pl/111/281/s701/c], Oct. 15, 2010, [124 Stat. 2980][/us/stat/124/2980], provided that: 
+[Pub. L. 111–281, title VII][/us/pl/111/281/tVII], § 701(c), Oct. 15, 2010, [124 Stat. 2980][/us/stat/124/2980], provided that: 
 
 > “No later than 90 days after the date of enactment of this Act \[Oct. 15, 2010\], the Secretary shall issue a notice of proposed rulemaking regarding inspection requirements for towing vessels required under [section 3306(j) of title 46][/us/usc/t46/s3306/j], United States Code. The Secretary shall issue a final rule pursuant to that rulemaking no later than 1 year after the date of enactment of this Act.”
 
@@ -425,7 +425,7 @@ Source section (U.S. Code)  </td>
 
  __Foreign Approvals__ 
 
-[Pub. L. 104–324, title VI, § 604(b)][/us/pl/104/324/s604/b], Oct. 19, 1996, [110 Stat. 3931][/us/stat/110/3931], provided that: 
+[Pub. L. 104–324, title VI][/us/pl/104/324/tVI], § 604(b), Oct. 19, 1996, [110 Stat. 3931][/us/stat/110/3931], provided that: 
 
 > “The Secretary of Transportation, in consultation with other interested Federal agencies, shall work with foreign governments to have those governments approve the use of the same equipment and materials on vessels documented under the laws of those countries that the Secretary requires on United States documented vessels.”
 
@@ -452,46 +452,46 @@ Source section (U.S. Code)  </td>
 [/us/usc/t5/s553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs553
 [/us/pl/98/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F89
 [/us/stat/97/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F513
-[/us/pl/98/364/s402/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F364%2Fs402%2F5
+[/us/pl/98/364/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F364%2FtIV
 [/us/stat/98/446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F446
-[/us/pl/103/206/s512/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F206%2Fs512%2Fa
+[/us/pl/103/206/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F206%2FtV
 [/us/stat/107/2442]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2442
-[/us/pl/104/324/s604/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2Fs604%2Fa
+[/us/pl/104/324/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2FtVI
 [/us/stat/110/3930]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3930
-[/us/pl/108/293/s415/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293%2Fs415%2Fb
+[/us/pl/108/293/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293%2FtIV
 [/us/stat/118/1047]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1047
-[/us/pl/109/304/s15/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs15%2F12
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1703
-[/us/pl/111/281/s612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs612
+[/us/pl/111/281/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2FtVI
 [/us/stat/124/2970]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2970
 [/us/pl/111/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281
 [/us/pl/111/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281
 [/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/usc/t46/s51102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs51102
 [/us/pl/108/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293
-[/us/pl/104/324/s604/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2Fs604%2Fc
-[/us/pl/104/324/s604/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2Fs604%2Fa
-[/us/pl/104/324/s712/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2Fs712%2F1
+[/us/pl/104/324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324
+[/us/pl/104/324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324
+[/us/pl/104/324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324
 [/us/usc/t46/s14502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs14502
 [/us/usc/t46/s14302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs14302
 [/us/usc/t46/s14104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs14104
-[/us/pl/104/324/s712/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2Fs712%2F2
+[/us/pl/104/324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324
 [/us/usc/t46/s14502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs14502
 [/us/usc/t46/s14302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs14302
 [/us/usc/t46/s14104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs14104
 [/us/pl/103/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F206
 [/us/pl/98/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F364
-[/us/pl/103/206/s512/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F206%2Fs512%2Fb
+[/us/pl/103/206/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F206%2FtV
 [/us/stat/107/2442]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2442
 [/us/usc/t46/s3306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs3306
 [/us/usc/t46/s3306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs3306
-[/us/pl/111/281/s701/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs701%2Fc
+[/us/pl/111/281/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2FtVII
 [/us/stat/124/2980]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2980
 [/us/usc/t46/s3306/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs3306%2Fj
 [/us/pl/111/281/s701/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs701%2Fc
 [/us/pl/111/281/s701/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs701%2Fa%2F1
 [/us/usc/t33/s1321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1321
-[/us/pl/104/324/s604/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2Fs604%2Fb
+[/us/pl/104/324/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2FtVI
 [/us/stat/110/3931]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3931
 [/us/usc/t33/s1602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1602
 

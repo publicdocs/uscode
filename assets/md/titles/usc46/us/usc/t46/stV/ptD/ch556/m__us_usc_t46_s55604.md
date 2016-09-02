@@ -23,7 +23,7 @@
 
     (3) solutions to impediments to short sea transportation projects designated under section 55601.
 
-(Added [Pub. L. 110–140, title XI, § 1121(a)][/us/pl/110/140/s1121/a], Dec. 19, 2007, [121 Stat. 1761][/us/stat/121/1761].)
+(Added [Pub. L. 110–140, title XI][/us/pl/110/140/tXI], § 1121(a), Dec. 19, 2007, [121 Stat. 1761][/us/stat/121/1761].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/110/140/s1121/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs1121%2Fa
+[/us/pl/110/140/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2FtXI
 [/us/stat/121/1761]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1761
 
 

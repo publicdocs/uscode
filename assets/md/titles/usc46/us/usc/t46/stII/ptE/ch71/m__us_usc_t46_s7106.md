@@ -23,7 +23,7 @@
 
     A renewed license issued under this part may be issued up to 8 months in advance but is not effective until the date that the previously issued license expires or until the completion of any active suspension or revocation of that previously issued merchant mariner’s document, whichever is later.
 
-([Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 540][/us/stat/97/540]; [Pub. L. 101–380, title IV, § 4102(a)][/us/pl/101/380/s4102/a], Aug. 18, 1990, [104 Stat. 509][/us/stat/104/509]; [Pub. L. 111–281, title VI, § 614(b)][/us/pl/111/281/s614/b], Oct. 15, 2010, [124 Stat. 2970][/us/stat/124/2970].)
+([Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 540][/us/stat/97/540]; [Pub. L. 101–380, title IV][/us/pl/101/380/tIV], § 4102(a), Aug. 18, 1990, [104 Stat. 509][/us/stat/104/509]; [Pub. L. 111–281, title VI][/us/pl/111/281/tVI], § 614(b), Oct. 15, 2010, [124 Stat. 2970][/us/stat/124/2970].)
 
 <table>
 
@@ -85,7 +85,7 @@ Source section (U.S. Code)  </td>
 
  __Termination of Existing Licenses, Certificates, and Documents; Applicability of 1990 Amendment__ 
 
-[Pub. L. 101–380, title IV, § 4102(d)][/us/pl/101/380/s4102/d], Aug. 18, 1990, [104 Stat. 510][/us/stat/104/510], provided that: 
+[Pub. L. 101–380, title IV][/us/pl/101/380/tIV], § 4102(d), Aug. 18, 1990, [104 Stat. 510][/us/stat/104/510], provided that: 
 
 > “A license, certificate of registry, or merchant mariner’s document issued before the date of the enactment of this section \[Aug. 18, 1990\] terminates on the day it would have expired if—
 
@@ -102,16 +102,16 @@ Source section (U.S. Code)  </td>
 
 [/us/pl/98/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F89
 [/us/stat/97/540]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F540
-[/us/pl/101/380/s4102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2Fs4102%2Fa
+[/us/pl/101/380/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2FtIV
 [/us/stat/104/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F509
-[/us/pl/111/281/s614/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs614%2Fb
+[/us/pl/111/281/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2FtVI
 [/us/stat/124/2970]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2970
 [/us/pl/111/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281
 [/us/pl/101/380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380
 [/us/pl/101/380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380
 [/us/pl/101/380/s1020]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2Fs1020
 [/us/usc/t33/s2701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2701
-[/us/pl/101/380/s4102/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2Fs4102%2Fd
+[/us/pl/101/380/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2FtIV
 [/us/stat/104/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F510
 
 

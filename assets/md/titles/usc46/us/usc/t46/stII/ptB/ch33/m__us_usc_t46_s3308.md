@@ -29,7 +29,7 @@
 
         (C) equipped with proper plumbing and mechanical appliances required by law and regulations, and the appliances are in good working condition.
 
-([Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 514][/us/stat/97/514]; [Pub. L. 104–324, title VI, § 603(c)][/us/pl/104/324/s603/c], Oct. 19, 1996, [110 Stat. 3930][/us/stat/110/3930].)
+([Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 514][/us/stat/97/514]; [Pub. L. 104–324, title VI][/us/pl/104/324/tVI], § 603(c), Oct. 19, 1996, [110 Stat. 3930][/us/stat/110/3930].)
 
 <table>
 
@@ -87,7 +87,7 @@ Source section (U.S. Code)  </td>
 [/us/usc/t46/s3307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs3307
 [/us/pl/98/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F89
 [/us/stat/97/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F514
-[/us/pl/104/324/s603/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2Fs603%2Fc
+[/us/pl/104/324/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2FtVI
 [/us/stat/110/3930]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3930
 [/us/pl/104/324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324
 

@@ -47,7 +47,7 @@
 
     The Secretary of Transportation may accept gifts, or enter into cooperative agreements, contracts, or other agreements with academic, public, private, and nongovernmental entities and facilities to carry out the activities authorized under subsection (a).
 
-(Added [Pub. L. 112–213, title IV, § 403(a)][/us/pl/112/213/s403/a], Dec. 20, 2012, [126 Stat. 1569][/us/stat/126/1569].)
+(Added [Pub. L. 112–213, title IV][/us/pl/112/213/tIV], § 403(a), Dec. 20, 2012, [126 Stat. 1569][/us/stat/126/1569].)
 
 ----------
 
@@ -56,7 +56,7 @@
 ----------
 ----------
 
-[/us/pl/112/213/s403/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F213%2Fs403%2Fa
+[/us/pl/112/213/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F213%2FtIV
 [/us/stat/126/1569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1569
 
 

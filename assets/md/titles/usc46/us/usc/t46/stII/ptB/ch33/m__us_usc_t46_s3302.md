@@ -183,7 +183,7 @@
 
         (2) a flammable or combustible liquid, including oil, in bulk.
 
-([Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 510][/us/stat/97/510]; [Pub. L. 98–364, title IV, § 402(3)][/us/pl/98/364/s402/3], July 17, 1984, [98 Stat. 445][/us/stat/98/445]; [Pub. L. 99–307, § 1(3)][/us/pl/99/307/s1/3], (4), May 19, 1986, [100 Stat. 444][/us/stat/100/444]; [Pub. L. 101–595, title III, § 303(a)][/us/pl/101/595/s303/a], title VI, §§ 602(b), 603(2), Nov. 16, 1990, [104 Stat. 2983][/us/stat/104/2983], 2990, 2993; [Pub. L. 103–206, title III, § 311][/us/pl/103/206/s311], Dec. 20, 1993, [107 Stat. 2426][/us/stat/107/2426]; [Pub. L. 104–324, title VII, § 711][/us/pl/104/324/s711], title XI, § 1110, Oct. 19, 1996, [110 Stat. 3935][/us/stat/110/3935], 3969; [Pub. L. 106–65, div. C, title XXXVI, § 3604][/us/pl/106/65/s3604], Oct. 5, 1999, [113 Stat. 976][/us/stat/113/976]; [Pub. L. 107–295, title II, § 208][/us/pl/107/295/s208], Nov. 25, 2002, [116 Stat. 2098][/us/stat/116/2098]; [Pub. L. 109–241, title III, § 311][/us/pl/109/241/s311], July 11, 2006, [120 Stat. 530][/us/stat/120/530]; [Pub. L. 109–304, § 15(11)][/us/pl/109/304/s15/11], Oct. 6, 2006, [120 Stat. 1703][/us/stat/120/1703].)
+([Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 510][/us/stat/97/510]; [Pub. L. 98–364, title IV][/us/pl/98/364/tIV], § 402(3), July 17, 1984, [98 Stat. 445][/us/stat/98/445]; [Pub. L. 99–307][/us/pl/99/307], § 1(3), (4), May 19, 1986, [100 Stat. 444][/us/stat/100/444]; [Pub. L. 101–595, title III][/us/pl/101/595/tIII], § 303(a), title VI, §§ 602(b), 603(2), Nov. 16, 1990, [104 Stat. 2983][/us/stat/104/2983], 2990, 2993; [Pub. L. 103–206, title III][/us/pl/103/206/tIII], § 311, Dec. 20, 1993, [107 Stat. 2426][/us/stat/107/2426]; [Pub. L. 104–324, title VII][/us/pl/104/324/tVII], § 711, title XI, § 1110, Oct. 19, 1996, [110 Stat. 3935][/us/stat/110/3935], 3969; [Pub. L. 106–65, div. C, title XXXVI][/us/pl/106/65/dC/tXXXVI], § 3604, Oct. 5, 1999, [113 Stat. 976][/us/stat/113/976]; [Pub. L. 107–295, title II][/us/pl/107/295/tII], § 208, Nov. 25, 2002, [116 Stat. 2098][/us/stat/116/2098]; [Pub. L. 109–241, title III][/us/pl/109/241/tIII], § 311, July 11, 2006, [120 Stat. 530][/us/stat/120/530]; [Pub. L. 109–304][/us/pl/109/304], § 15(11), Oct. 6, 2006, [120 Stat. 1703][/us/stat/120/1703].)
 
 <table>
 
@@ -235,27 +235,27 @@ Source section (U.S. Code)  </td>
 
  __Amendments__ 
 
-    2006—Subsec. (b). [Pub. L. 109–304, § 15(11)(A)][/us/pl/109/304/s15/11/A], inserted comma after “fishing vessel”.
+    2006—Subsec. (b). [Pub. L. 109–304][/us/pl/109/304], § 15(11)(A), inserted comma after “fishing vessel”.
 
-    Subsec. (c)(2). [Pub. L. 109–241, § 311(a)][/us/pl/109/241/s311/a], amended par. (2) generally. Prior to amendment, par. (2) read as follows: “Except as provided in paragraphs (3) and (4) of this subsection, a fish tender vessel of not more than 500 gross tons as measured under [section 14502 of this title][/us/usc/t46/s14502], or an alternate tonnage measured under [section 14302 of this title][/us/usc/t46/s14302] as prescribed by the Secretary under [section 14104 of this title][/us/usc/t46/s14104] is exempt from section 3301(1), (6), (7), (11), and (12) of this title.”
+    Subsec. (c)(2). [Pub. L. 109–241][/us/pl/109/241], § 311(a), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “Except as provided in paragraphs (3) and (4) of this subsection, a fish tender vessel of not more than 500 gross tons as measured under [section 14502 of this title][/us/usc/t46/s14502], or an alternate tonnage measured under [section 14302 of this title][/us/usc/t46/s14302] as prescribed by the Secretary under [section 14104 of this title][/us/usc/t46/s14104] is exempt from section 3301(1), (6), (7), (11), and (12) of this title.”
 
-    Subsec. (c)(3)(B), (4)(A). [Pub. L. 109–241, § 311(b)][/us/pl/109/241/s311/b], substituted “or less than 500 gross tons as measured under [section 14502 of this title][/us/usc/t46/s14502], or is less than 2,500 gross tons as measured under [section 14302 of this title][/us/usc/t46/s14302]” for “or an alternate tonnage measured under [section 14302 of this title][/us/usc/t46/s14302] as prescribed by the Secretary under [section 14104 of this title][/us/usc/t46/s14104]”.
+    Subsec. (c)(3)(B), (4)(A). [Pub. L. 109–241][/us/pl/109/241], § 311(b), substituted “or less than 500 gross tons as measured under [section 14502 of this title][/us/usc/t46/s14502], or is less than 2,500 gross tons as measured under [section 14302 of this title][/us/usc/t46/s14302]” for “or an alternate tonnage measured under [section 14302 of this title][/us/usc/t46/s14302] as prescribed by the Secretary under [section 14104 of this title][/us/usc/t46/s14104]”.
 
-    Subsec. (j)(2)(B). [Pub. L. 109–304, § 15(11)(B)][/us/pl/109/304/s15/11/B], substituted “chapter 515 of this title” for “section 1304 of the Merchant Marine Act, 1936 (46 App. U.S.C. 1295c)”.
+    Subsec. (j)(2)(B). [Pub. L. 109–304][/us/pl/109/304], § 15(11)(B), substituted “chapter 515 of this title” for “section 1304 of the Merchant Marine Act, 1936 (46 App. U.S.C. 1295c)”.
 
-    Subsec. (l)(1)(C). [Pub. L. 109–304, § 15(11)(C)][/us/pl/109/304/s15/11/C], substituted “Inc.” for “Inc..”.
+    Subsec. (l)(1)(C). [Pub. L. 109–304][/us/pl/109/304], § 15(11)(C), substituted “Inc.” for “Inc..”.
 
     2002—Subsec. (l)(1)(D) to (F). [Pub. L. 107–295][/us/pl/107/295] added subpars. (D) to (F).
 
     1999—Subsec. (l)(1)(C). [Pub. L. 106–65][/us/pl/106/65] substituted “owned by the National Liberty Ship Memorial, Inc.” for “owned by the United States Maritime Administration”.
 
-    1996—Subsec. (b). [Pub. L. 104–324, § 1110(1)][/us/pl/104/324/s1110/1], substituted “Except as provided in subsection (c)(3) of this section, a fishing vessel” for “A fishing vessel,”.
+    1996—Subsec. (b). [Pub. L. 104–324][/us/pl/104/324], § 1110(1), substituted “Except as provided in subsection (c)(3) of this section, a fishing vessel” for “A fishing vessel,”.
 
     Subsec. (c)(1). [Pub. L. 104–324][/us/pl/104/324], §§ 711(1), 1110(2), substituted “Except as provided in paragraph (3) of this subsection, a fish processing vessel” for “A fish processing vessel” and inserted “as measured under [section 14502 of this title][/us/usc/t46/s14502], or an alternate tonnage measured under [section 14302 of this title][/us/usc/t46/s14302] as prescribed by the Secretary under [section 14104 of this title][/us/usc/t46/s14104]” after “5,000 gross tons”.
 
     Subsec. (c)(2). [Pub. L. 104–324][/us/pl/104/324], §§ 711(2), 1110(3), substituted “Except as provided in paragraphs (3) and (4) of this subsection, a fish tender vessel” for “A fish tender vessel” and inserted “as measured under [section 14502 of this title][/us/usc/t46/s14502], or an alternate tonnage measured under [section 14302 of this title][/us/usc/t46/s14302] as prescribed by the Secretary under [section 14104 of this title][/us/usc/t46/s14104]” after “500 gross tons”.
 
-    Subsec. (c)(3). [Pub. L. 104–324, § 1110(4)][/us/pl/104/324/s1110/4], amended par. (3) generally. Prior to amendment, par. (3) read as follows: “A fishing, fish processing, or fish tender vessel of not more than 500 gross tons is exempt from section 3301(1), (6), and (7) of this title if—
+    Subsec. (c)(3). [Pub. L. 104–324][/us/pl/104/324], § 1110(4), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “A fishing, fish processing, or fish tender vessel of not more than 500 gross tons is exempt from section 3301(1), (6), and (7) of this title if—
 
     “(A) when transporting cargo to or from a place in Alaska—
 
@@ -265,25 +265,25 @@ Source section (U.S. Code)  </td>
 
     “(B) in the case of a fish tender vessel, the vessel is not engaged in the Aleutian trade.”
 
-    Subsec. (c)(4)(A). [Pub. L. 104–324, § 711(3)][/us/pl/104/324/s711/3], inserted “as measured under [section 14502 of this title][/us/usc/t46/s14502], or an alternate tonnage measured under [section 14302 of this title][/us/usc/t46/s14302] as prescribed by the Secretary under [section 14104 of this title][/us/usc/t46/s14104]” after “500 gross tons”.
+    Subsec. (c)(4)(A). [Pub. L. 104–324][/us/pl/104/324], § 711(3), inserted “as measured under [section 14502 of this title][/us/usc/t46/s14502], or an alternate tonnage measured under [section 14302 of this title][/us/usc/t46/s14302] as prescribed by the Secretary under [section 14104 of this title][/us/usc/t46/s14104]” after “500 gross tons”.
 
-    Subsec. (d)(1). [Pub. L. 104–324, § 711(4)][/us/pl/104/324/s711/4], inserted “as measured under [section 14502 of this title][/us/usc/t46/s14502], or an alternate tonnage measured under [section 14302 of this title][/us/usc/t46/s14302] as prescribed by the Secretary under [section 14104 of this title][/us/usc/t46/s14104]” after “150 gross tons”.
+    Subsec. (d)(1). [Pub. L. 104–324][/us/pl/104/324], § 711(4), inserted “as measured under [section 14502 of this title][/us/usc/t46/s14502], or an alternate tonnage measured under [section 14302 of this title][/us/usc/t46/s14302] as prescribed by the Secretary under [section 14104 of this title][/us/usc/t46/s14104]” after “150 gross tons”.
 
-    Subsec. (i)(1)(A). [Pub. L. 104–324, § 711(5)][/us/pl/104/324/s711/5], inserted “as measured under [section 14502 of this title][/us/usc/t46/s14502], or an alternate tonnage measured under [section 14302 of this title][/us/usc/t46/s14302] as prescribed by the Secretary under [section 14104 of this title][/us/usc/t46/s14104]” after “300 gross tons”.
+    Subsec. (i)(1)(A). [Pub. L. 104–324][/us/pl/104/324], § 711(5), inserted “as measured under [section 14502 of this title][/us/usc/t46/s14502], or an alternate tonnage measured under [section 14302 of this title][/us/usc/t46/s14302] as prescribed by the Secretary under [section 14104 of this title][/us/usc/t46/s14104]” after “300 gross tons”.
 
-    Subsec. (j). [Pub. L. 104–324, § 711(6)][/us/pl/104/324/s711/6], inserted “as measured under [section 14502 of this title][/us/usc/t46/s14502], or an alternate tonnage measured under [section 14302 of this title][/us/usc/t46/s14302] as prescribed by the Secretary under [section 14104 of this title][/us/usc/t46/s14104]” after “15 gross tons”.
+    Subsec. (j). [Pub. L. 104–324][/us/pl/104/324], § 711(6), inserted “as measured under [section 14502 of this title][/us/usc/t46/s14502], or an alternate tonnage measured under [section 14302 of this title][/us/usc/t46/s14302] as prescribed by the Secretary under [section 14104 of this title][/us/usc/t46/s14104]” after “15 gross tons”.
 
     1993—Subsec. (m). [Pub. L. 103–206][/us/pl/103/206] added subsec. (m).
 
-    1990—Subsec. (c)(3), (4). [Pub. L. 101–595, § 602(b)][/us/pl/101/595/s602/b], added pars. (3) and (4).
+    1990—Subsec. (c)(3), (4). [Pub. L. 101–595][/us/pl/101/595], § 602(b), added pars. (3) and (4).
 
-    Subsec. (j)(2)(B). [Pub. L. 101–595, § 603(2)][/us/pl/101/595/s603/2], substituted “(46 App. U.S.C. 1295c)” for “(46 App. U.S.C. 1295(c))”.
+    Subsec. (j)(2)(B). [Pub. L. 101–595][/us/pl/101/595], § 603(2), substituted “(46 App. U.S.C. 1295c)” for “(46 App. U.S.C. 1295(c))”.
 
-    Subsec. (l). [Pub. L. 101–595, § 303(a)][/us/pl/101/595/s303/a], added subsec. (l).
+    Subsec. (l). [Pub. L. 101–595][/us/pl/101/595], § 303(a), added subsec. (l).
 
-    1986—Subsec. (i)(5). [Pub. L. 99–307, § 1(3)][/us/pl/99/307/s1/3], substituted “charterer” for “charter”.
+    1986—Subsec. (i)(5). [Pub. L. 99–307][/us/pl/99/307], § 1(3), substituted “charterer” for “charter”.
 
-    Subsec. (k). [Pub. L. 99–307, § 1(4)][/us/pl/99/307/s1/4], added subsec. (k).
+    Subsec. (k). [Pub. L. 99–307][/us/pl/99/307], § 1(4), added subsec. (k).
 
     1984—Subsec. (b). [Pub. L. 98–364][/us/pl/98/364] amended subsec. (b) generally, which prior to amendment read as follows: “A motor vessel engaged in fishing as a regular business, including oystering, clamming, crabbing, or the kelp or sponge industry, is exempt from section 3301(1), (4), and (7) of this title.”
 
@@ -307,13 +307,13 @@ Source section (U.S. Code)  </td>
 
  __Vessels Repaired or Retrofitted for Mobile Trade Fair Purposes Deemed Out of Commission__ 
 
-[Pub. L. 100–418, title X, § 10003(b)][/us/pl/100/418/s10003/b], Aug. 23, 1988, [102 Stat. 1573][/us/stat/102/1573], provided that: 
+[Pub. L. 100–418, title X][/us/pl/100/418/tX], § 10003(b), Aug. 23, 1988, [102 Stat. 1573][/us/stat/102/1573], provided that: 
 
 > “For one year after the date of enactment of this Act \[Aug. 23, 1988\], a vessel that is undergoing repair or retrofitting for use solely for mobile trade fair purposes is deemed to be out of commission under [section 3302(e) of title 46][/us/usc/t46/s3302/e], United States Code, during the repair or retrofitting.”
 
  __Exemption of Certain Fishing and Fish Processing Vessels__ 
 
-[Pub. L. 98–364, title IV, § 403][/us/pl/98/364/s403], July 17, 1984, [98 Stat. 450][/us/stat/98/450], as amended by [Pub. L. 99–36, § 3][/us/pl/99/36/s3], May 15, 1985, [99 Stat. 68][/us/stat/99/68]; [Pub. L. 101–225, title III, § 306][/us/pl/101/225/s306], Dec. 12, 1989, [103 Stat. 1925][/us/stat/103/1925], provided that:
+[Pub. L. 98–364, title IV][/us/pl/98/364/tIV], § 403, July 17, 1984, [98 Stat. 450][/us/stat/98/450], as amended by [Pub. L. 99–36][/us/pl/99/36], § 3, May 15, 1985, [99 Stat. 68][/us/stat/99/68]; [Pub. L. 101–225, title III][/us/pl/101/225/tIII], § 306, Dec. 12, 1989, [103 Stat. 1925][/us/stat/103/1925], provided that:
 
 >     “(a) Except as provided in chapter 37 of title 46, United States Code, and before January 1, 1991, a fishing, fish processing, or fish tender vessel, that is (1) not more than 500 gross tons and (2) in operation, or contracted for purchase to be used as a vessel of this type, before July 1, 1984, may transport cargo to or from a place in Alaska not receiving weekly transportation service from a port of the United States by an established water common carrier, except that the service limitation does not apply to transporting cargo of a type not accepted by that carrier.
 
@@ -323,7 +323,7 @@ Source section (U.S. Code)  </td>
 
  __Offshore Supply Vessels; Transition Period for Compliance With Vessel Inspection Provisions__ 
 
-[Pub. L. 98–89, § 2(i)][/us/pl/98/89/s2/i], Aug. 26, 1983, [97 Stat. 599][/us/stat/97/599], provided that: 
+[Pub. L. 98–89][/us/pl/98/89], § 2(i), Aug. 26, 1983, [97 Stat. 599][/us/stat/97/599], provided that: 
 
 > “Each offshore supply vessel described in [section 3302(g) of title 46][/us/usc/t46/s3302/g] (as enacted by section 1 of this Act), that was registered with the Secretary of Transportation under section 4426a(7) of the Revised Statutes \[former [46 U.S.C. 404–1(7)][/us/usc/t46/s404–1/7]\] but that has not been inspected by the Secretary shall be held to be in compliance with all applicable vessel inspection laws pending verification by actual inspection or until one year after the date of enactment of this Act \[Aug. 26, 1983\], whichever is earlier.”
 
@@ -363,39 +363,39 @@ Source section (U.S. Code)  </td>
 [/us/usc/t46/s3301/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs3301%2F6
 [/us/pl/98/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F89
 [/us/stat/97/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F510
-[/us/pl/98/364/s402/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F364%2Fs402%2F3
+[/us/pl/98/364/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F364%2FtIV
 [/us/stat/98/445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F445
-[/us/pl/99/307/s1/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F307%2Fs1%2F3
+[/us/pl/99/307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F307
 [/us/stat/100/444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F444
-[/us/pl/101/595/s303/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F595%2Fs303%2Fa
+[/us/pl/101/595/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F595%2FtIII
 [/us/stat/104/2983]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2983
-[/us/pl/103/206/s311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F206%2Fs311
+[/us/pl/103/206/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F206%2FtIII
 [/us/stat/107/2426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2426
-[/us/pl/104/324/s711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2Fs711
+[/us/pl/104/324/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2FtVII
 [/us/stat/110/3935]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3935
-[/us/pl/106/65/s3604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs3604
+[/us/pl/106/65/dC/tXXXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdC%2FtXXXVI
 [/us/stat/113/976]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F976
-[/us/pl/107/295/s208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295%2Fs208
+[/us/pl/107/295/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295%2FtII
 [/us/stat/116/2098]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2098
-[/us/pl/109/241/s311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241%2Fs311
+[/us/pl/109/241/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241%2FtIII
 [/us/stat/120/530]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F530
-[/us/pl/109/304/s15/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs15%2F11
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1703
-[/us/pl/109/304/s15/11/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs15%2F11%2FA
-[/us/pl/109/241/s311/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241%2Fs311%2Fa
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
+[/us/pl/109/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241
 [/us/usc/t46/s14502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs14502
 [/us/usc/t46/s14302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs14302
 [/us/usc/t46/s14104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs14104
-[/us/pl/109/241/s311/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241%2Fs311%2Fb
+[/us/pl/109/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241
 [/us/usc/t46/s14502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs14502
 [/us/usc/t46/s14302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs14302
 [/us/usc/t46/s14302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs14302
 [/us/usc/t46/s14104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs14104
-[/us/pl/109/304/s15/11/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs15%2F11%2FB
-[/us/pl/109/304/s15/11/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs15%2F11%2FC
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/pl/107/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295
 [/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65
-[/us/pl/104/324/s1110/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2Fs1110%2F1
+[/us/pl/104/324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324
 [/us/pl/104/324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324
 [/us/usc/t46/s14502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs14502
 [/us/usc/t46/s14302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs14302
@@ -404,47 +404,47 @@ Source section (U.S. Code)  </td>
 [/us/usc/t46/s14502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs14502
 [/us/usc/t46/s14302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs14302
 [/us/usc/t46/s14104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs14104
-[/us/pl/104/324/s1110/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2Fs1110%2F4
-[/us/pl/104/324/s711/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2Fs711%2F3
+[/us/pl/104/324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324
+[/us/pl/104/324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324
 [/us/usc/t46/s14502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs14502
 [/us/usc/t46/s14302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs14302
 [/us/usc/t46/s14104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs14104
-[/us/pl/104/324/s711/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2Fs711%2F4
+[/us/pl/104/324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324
 [/us/usc/t46/s14502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs14502
 [/us/usc/t46/s14302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs14302
 [/us/usc/t46/s14104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs14104
-[/us/pl/104/324/s711/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2Fs711%2F5
+[/us/pl/104/324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324
 [/us/usc/t46/s14502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs14502
 [/us/usc/t46/s14302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs14302
 [/us/usc/t46/s14104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs14104
-[/us/pl/104/324/s711/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2Fs711%2F6
+[/us/pl/104/324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324
 [/us/usc/t46/s14502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs14502
 [/us/usc/t46/s14302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs14302
 [/us/usc/t46/s14104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs14104
 [/us/pl/103/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F206
-[/us/pl/101/595/s602/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F595%2Fs602%2Fb
-[/us/pl/101/595/s603/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F595%2Fs603%2F2
-[/us/pl/101/595/s303/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F595%2Fs303%2Fa
-[/us/pl/99/307/s1/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F307%2Fs1%2F3
-[/us/pl/99/307/s1/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F307%2Fs1%2F4
+[/us/pl/101/595]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F595
+[/us/pl/101/595]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F595
+[/us/pl/101/595]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F595
+[/us/pl/99/307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F307
+[/us/pl/99/307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F307
 [/us/pl/98/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F364
 [/us/pl/98/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F364
 [/us/pl/101/595/s602/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F595%2Fs602%2Fb
 [/us/pl/101/595/s602/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F595%2Fs602%2Ff
 [/us/usc/t46/s4502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs4502
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
-[/us/pl/100/418/s10003/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs10003%2Fb
+[/us/pl/100/418/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtX
 [/us/stat/102/1573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1573
 [/us/usc/t46/s3302/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs3302%2Fe
-[/us/pl/98/364/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F364%2Fs403
+[/us/pl/98/364/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F364%2FtIV
 [/us/stat/98/450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F450
-[/us/pl/99/36/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F36%2Fs3
+[/us/pl/99/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F36
 [/us/stat/99/68]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F68
-[/us/pl/101/225/s306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F225%2Fs306
+[/us/pl/101/225/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F225%2FtIII
 [/us/stat/103/1925]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1925
 [/us/usc/t46/s8702/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs8702%2Fb
 [/us/usc/t46/s2101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs2101
-[/us/pl/98/89/s2/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F89%2Fs2%2Fi
+[/us/pl/98/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F89
 [/us/stat/97/599]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F599
 [/us/usc/t46/s3302/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs3302%2Fg
 [/us/usc/t46/s404–1/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs404%E2%80%931%2F7

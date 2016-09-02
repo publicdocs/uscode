@@ -45,7 +45,7 @@
 
         In the case of a refusal to obey a subpoena issued to any person under this section, the Secretary may invoke the aid of the appropriate district court of the United States to compel compliance.
 
-(Added [Pub. L. 112–213, title III, § 308(a)][/us/pl/112/213/s308/a], Dec. 20, 2012, [126 Stat. 1566][/us/stat/126/1566].)
+(Added [Pub. L. 112–213, title III][/us/pl/112/213/tIII], § 308(a), Dec. 20, 2012, [126 Stat. 1566][/us/stat/126/1566].)
 
 ----------
 
@@ -54,7 +54,7 @@
 ----------
 ----------
 
-[/us/pl/112/213/s308/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F213%2Fs308%2Fa
+[/us/pl/112/213/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F213%2FtIII
 [/us/stat/126/1566]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1566
 
 

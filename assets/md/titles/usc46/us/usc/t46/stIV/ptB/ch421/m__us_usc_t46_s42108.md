@@ -17,7 +17,7 @@
 
     A common carrier that accepts or handles cargo for carriage under a tariff or service contract that has been suspended under section 42104(d)(1) or 42106(2) of this title, or after its right to use another tariff or service contract has been suspended under those provisions, is liable to the United States Government for a civil penalty of not more than $50,000 for each day that it is found to be operating under a suspended tariff or service contract.
 
-([Pub. L. 109–304, § 7][/us/pl/109/304/s7], Oct. 6, 2006, [120 Stat. 1551][/us/stat/120/1551].)
+([Pub. L. 109–304][/us/pl/109/304], § 7, Oct. 6, 2006, [120 Stat. 1551][/us/stat/120/1551].)
 
 <table>
 
@@ -72,7 +72,7 @@ June 5, 1920, ch. 250, § 19(k); as added Pub. L. 101–595, title I, § 103
 ----------
 ----------
 
-[/us/pl/109/304/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs7
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1551
 
 

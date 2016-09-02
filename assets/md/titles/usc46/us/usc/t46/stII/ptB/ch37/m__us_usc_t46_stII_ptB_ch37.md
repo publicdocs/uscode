@@ -187,11 +187,11 @@
 
  __Amendments__ 
 
-    2006—[Pub. L. 109–304, § 15(14)][/us/pl/109/304/s15/14], Oct. 6, 2006, [120 Stat. 1703][/us/stat/120/1703], inserted “single hull” before “non-self-propelled” in item 3719.
+    2006—[Pub. L. 109–304][/us/pl/109/304], § 15(14), Oct. 6, 2006, [120 Stat. 1703][/us/stat/120/1703], inserted “single hull” before “non-self-propelled” in item 3719.
 
-    1996—[Pub. L. 104–324, title IX, § 901(c)][/us/pl/104/324/s901/c], Oct. 19, 1996, [110 Stat. 3947][/us/stat/110/3947], added item 3719.
+    1996—[Pub. L. 104–324, title IX][/us/pl/104/324/tIX], § 901(c), Oct. 19, 1996, [110 Stat. 3947][/us/stat/110/3947], added item 3719.
 
-    1990—[Pub. L. 101–380, title IV, § 4115(c)][/us/pl/101/380/s4115/c], Aug. 18, 1990, [104 Stat. 520][/us/stat/104/520], added item 3703a.
+    1990—[Pub. L. 101–380, title IV][/us/pl/101/380/tIV], § 4115(c), Aug. 18, 1990, [104 Stat. 520][/us/stat/104/520], added item 3703a.
 
  __Historical and Revision Notes__ 
 
@@ -206,11 +206,11 @@
 ----------
 ----------
 
-[/us/pl/109/304/s15/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs15%2F14
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1703
-[/us/pl/104/324/s901/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2Fs901%2Fc
+[/us/pl/104/324/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2FtIX
 [/us/stat/110/3947]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3947
-[/us/pl/101/380/s4115/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2Fs4115%2Fc
+[/us/pl/101/380/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2FtIV
 [/us/stat/104/520]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F520
 [/us/usc/t46/s391a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs391a
 

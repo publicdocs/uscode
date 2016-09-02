@@ -31,7 +31,7 @@
 
         (2) The Secretary shall require under paragraph (1) the use of a fire suppression system or other measures to provide adequate assurance that a fire on board a towing vessel that is towing a non-self-propelled tank vessel can be suppressed under reasonably foreseeable circumstances.
 
-([Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 528][/us/stat/97/528]; [Pub. L. 99–640, § 16][/us/pl/99/640/s16], Nov. 10, 1986, [100 Stat. 3552][/us/stat/100/3552]; [Pub. L. 100–424, § 2(c)][/us/pl/100/424/s2/c], Sept. 9, 1988, [102 Stat. 1590][/us/stat/102/1590]; [Pub. L. 100–540, § 1(a)][/us/pl/100/540/s1/a], Oct. 28, 1988, [102 Stat. 2719][/us/stat/102/2719]; [Pub. L. 104–324, title IX, § 902(a)][/us/pl/104/324/s902/a], Oct. 19, 1996, [110 Stat. 3947][/us/stat/110/3947]; [Pub. L. 105–383, title III, § 301(b)(3)][/us/pl/105/383/s301/b/3], Nov. 13, 1998, [112 Stat. 3417][/us/stat/112/3417]; [Pub. L. 111–281, title VI, § 619][/us/pl/111/281/s619], Oct. 15, 2010, [124 Stat. 2975][/us/stat/124/2975].)
+([Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 528][/us/stat/97/528]; [Pub. L. 99–640][/us/pl/99/640], § 16, Nov. 10, 1986, [100 Stat. 3552][/us/stat/100/3552]; [Pub. L. 100–424][/us/pl/100/424], § 2(c), Sept. 9, 1988, [102 Stat. 1590][/us/stat/102/1590]; [Pub. L. 100–540][/us/pl/100/540], § 1(a), Oct. 28, 1988, [102 Stat. 2719][/us/stat/102/2719]; [Pub. L. 104–324, title IX][/us/pl/104/324/tIX], § 902(a), Oct. 19, 1996, [110 Stat. 3947][/us/stat/110/3947]; [Pub. L. 105–383, title III][/us/pl/105/383/tIII], § 301(b)(3), Nov. 13, 1998, [112 Stat. 3417][/us/stat/112/3417]; [Pub. L. 111–281, title VI][/us/pl/111/281/tVI], § 619, Oct. 15, 2010, [124 Stat. 2975][/us/stat/124/2975].)
 
 <table>
 
@@ -123,7 +123,7 @@ Source section (U.S. Code)  </td>
 
  __Regulations__ 
 
-[Pub. L. 104–324, title IX, § 902(b)][/us/pl/104/324/s902/b], Oct. 19, 1996, [110 Stat. 3947][/us/stat/110/3947], provided that: 
+[Pub. L. 104–324, title IX][/us/pl/104/324/tIX], § 902(b), Oct. 19, 1996, [110 Stat. 3947][/us/stat/110/3947], provided that: 
 
 > “The Secretary of the department in which the Coast Guard is operating shall issue regulations establishing the requirement described in subsection (f)(2) of [section 4102 of title 46][/us/usc/t46/s4102], United States Code, as added by this section, by not later than October 1, 1997.”
 
@@ -140,17 +140,17 @@ Source section (U.S. Code)  </td>
 
 [/us/pl/98/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F89
 [/us/stat/97/528]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F528
-[/us/pl/99/640/s16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F640%2Fs16
+[/us/pl/99/640]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F640
 [/us/stat/100/3552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3552
-[/us/pl/100/424/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F424%2Fs2%2Fc
+[/us/pl/100/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F424
 [/us/stat/102/1590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1590
-[/us/pl/100/540/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F540%2Fs1%2Fa
+[/us/pl/100/540]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F540
 [/us/stat/102/2719]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2719
-[/us/pl/104/324/s902/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2Fs902%2Fa
+[/us/pl/104/324/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2FtIX
 [/us/stat/110/3947]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3947
-[/us/pl/105/383/s301/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F383%2Fs301%2Fb%2F3
+[/us/pl/105/383/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F383%2FtIII
 [/us/stat/112/3417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3417
-[/us/pl/111/281/s619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs619
+[/us/pl/111/281/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2FtVI
 [/us/stat/124/2975]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2975
 [/us/pl/111/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281
 [/us/pl/105/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F383
@@ -160,7 +160,7 @@ Source section (U.S. Code)  </td>
 [/us/pl/100/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F424
 [/us/usc/t46/s4502/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs4502%2Fa%2F7
 [/us/pl/99/640]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F640
-[/us/pl/104/324/s902/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2Fs902%2Fb
+[/us/pl/104/324/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2FtIX
 [/us/stat/110/3947]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3947
 [/us/usc/t46/s4102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs4102
 [/us/usc/t43/s1331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1331

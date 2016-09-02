@@ -23,7 +23,7 @@
 
     The Secretary shall define the terms “net voyage profit”, “fair and reasonable overhead expenses”, and “capital necessarily employed” for this section. Each advertisement for bids and each charter shall contain these definitions, stating the formula for determining each of these three amounts.
 
-([Pub. L. 109–304, § 8(c)][/us/pl/109/304/s8/c], Oct. 6, 2006, [120 Stat. 1667][/us/stat/120/1667].)
+([Pub. L. 109–304][/us/pl/109/304], § 8(c), Oct. 6, 2006, [120 Stat. 1667][/us/stat/120/1667].)
 
 <table>
 
@@ -78,7 +78,7 @@ June 29, 1936, ch. 858, title VII, § 709, 49 Stat. 2010; Pub. L. 97–31, §�
 ----------
 ----------
 
-[/us/pl/109/304/s8/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs8%2Fc
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1667]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1667
 
 

@@ -27,7 +27,7 @@
 
         (2) an amount treated as a nonqualified withdrawal under [section 53510(d) of this title][/us/usc/t46/s53510/d].
 
-([Pub. L. 109–304, § 8(c)][/us/pl/109/304/s8/c], Oct. 6, 2006, [120 Stat. 1599][/us/stat/120/1599].)
+([Pub. L. 109–304][/us/pl/109/304], § 8(c), Oct. 6, 2006, [120 Stat. 1599][/us/stat/120/1599].)
 
 <table>
 
@@ -83,7 +83,7 @@ June 29, 1936, ch. 858, title VI, § 607(h)(2) (last sentence), 49 Stat. 2005;
 ----------
 
 [/us/usc/t46/s53510/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs53510%2Fd
-[/us/pl/109/304/s8/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs8%2Fc
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1599]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1599
 
 

@@ -23,7 +23,7 @@
 
     A renewed certificate of registry issued under this part may be issued up to 8 months in advance but is not effective until the date that the previously issued certificate of registry expires or until the completion of any active suspension or revocation of that previously issued merchant mariner’s document, whichever is later.
 
-([Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 540][/us/stat/97/540]; [Pub. L. 101–380, title IV, § 4102(b)][/us/pl/101/380/s4102/b], Aug. 18, 1990, [104 Stat. 509][/us/stat/104/509]; [Pub. L. 111–281, title VI, § 614(c)][/us/pl/111/281/s614/c], Oct. 15, 2010, [124 Stat. 2971][/us/stat/124/2971].)
+([Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 540][/us/stat/97/540]; [Pub. L. 101–380, title IV][/us/pl/101/380/tIV], § 4102(b), Aug. 18, 1990, [104 Stat. 509][/us/stat/104/509]; [Pub. L. 111–281, title VI][/us/pl/111/281/tVI], § 614(c), Oct. 15, 2010, [124 Stat. 2971][/us/stat/124/2971].)
 
 <table>
 
@@ -86,9 +86,9 @@ Source section (U.S. Code)  </td>
 
 [/us/pl/98/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F89
 [/us/stat/97/540]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F540
-[/us/pl/101/380/s4102/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2Fs4102%2Fb
+[/us/pl/101/380/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2FtIV
 [/us/stat/104/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F509
-[/us/pl/111/281/s614/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs614%2Fc
+[/us/pl/111/281/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2FtVI
 [/us/stat/124/2971]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2971
 [/us/pl/111/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281
 [/us/pl/101/380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380

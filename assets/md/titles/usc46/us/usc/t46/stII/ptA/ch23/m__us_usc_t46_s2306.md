@@ -45,7 +45,7 @@
 
     (c) The Secretary may prescribe regulations to carry out this section.
 
-(Added [Pub. L. 98–498, title II, § 212(a)(3)][/us/pl/98/498/s212/a/3], Oct. 19, 1984, [98 Stat. 2305][/us/stat/98/2305]; amended [Pub. L. 109–304, § 15(9)][/us/pl/109/304/s15/9], Oct. 6, 2006, [120 Stat. 1703][/us/stat/120/1703].)
+(Added [Pub. L. 98–498, title II][/us/pl/98/498/tII], § 212(a)(3), Oct. 19, 1984, [98 Stat. 2305][/us/stat/98/2305]; amended [Pub. L. 109–304][/us/pl/109/304], § 15(9), Oct. 6, 2006, [120 Stat. 1703][/us/stat/120/1703].)
 
  __Amendments__ 
 
@@ -53,7 +53,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 98–498, title II, § 214][/us/pl/98/498/s214], Oct. 19, 1984, [98 Stat. 2306][/us/stat/98/2306], provided that: 
+[Pub. L. 98–498, title II][/us/pl/98/498/tII], § 214, Oct. 19, 1984, [98 Stat. 2306][/us/stat/98/2306], provided that: 
 
 > “Sections 211(a) and 212 of this subtitle \[enacting this section and amending sections 2302, 3309, 6101, and 6103 of this title\] are effective one hundred and eighty days after the date of enactment of this Act \[Oct. 19, 1984\].”
 
@@ -69,13 +69,13 @@
 ----------
 
 [/us/usc/t46/s50113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs50113
-[/us/pl/98/498/s212/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F498%2Fs212%2Fa%2F3
+[/us/pl/98/498/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F498%2FtII
 [/us/stat/98/2305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2305
-[/us/pl/109/304/s15/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs15%2F9
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1703
 [/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/usc/t46/s50113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs50113
-[/us/pl/98/498/s214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F498%2Fs214
+[/us/pl/98/498/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F498%2FtII
 [/us/stat/98/2306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2306
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
 

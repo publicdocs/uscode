@@ -19,7 +19,7 @@
 
     (b) The certificate shall be maintained as required by the Secretary.
 
-([Pub. L. 99–509, title V, § 5101(3)][/us/pl/99/509/s5101/3], Oct. 21, 1986, [100 Stat. 1923][/us/stat/100/1923]; [Pub. L. 111–281, title III, § 303(e)(2)][/us/pl/111/281/s303/e/2], Oct. 15, 2010, [124 Stat. 2925][/us/stat/124/2925].)
+([Pub. L. 99–509, title V][/us/pl/99/509/tV], § 5101(3), Oct. 21, 1986, [100 Stat. 1923][/us/stat/100/1923]; [Pub. L. 111–281, title III][/us/pl/111/281/tIII], § 303(e)(2), Oct. 15, 2010, [124 Stat. 2925][/us/stat/124/2925].)
 
  __Historical and Revision Notes__ 
 
@@ -40,9 +40,9 @@
 ----------
 ----------
 
-[/us/pl/99/509/s5101/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2Fs5101%2F3
+[/us/pl/99/509/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2FtV
 [/us/stat/100/1923]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1923
-[/us/pl/111/281/s303/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs303%2Fe%2F2
+[/us/pl/111/281/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2FtIII
 [/us/stat/124/2925]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2925
 [/us/pl/111/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281
 

@@ -15,7 +15,7 @@
 
 ## § 7503. Dangerous drugs as grounds for denial
 
-    \[(a) Repealed. [Pub. L. 101–380, title IV, § 4103(a)(2)(B)][/us/pl/101/380/s4103/a/2/B], Aug. 18, 1990, [104 Stat. 511][/us/stat/104/511].\]
+    \[(a) Repealed. [Pub. L. 101–380, title IV][/us/pl/101/380/tIV], § 4103(a)(2)(B), Aug. 18, 1990, [104 Stat. 511][/us/stat/104/511].\]
 
     (b)
 
@@ -25,7 +25,7 @@
 
         (2) when applying, has ever been a user of, or addicted to, a dangerous drug unless the individual provides satisfactory proof that the individual is cured.
 
-([Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 545][/us/stat/97/545]; [Pub. L. 99–36, § 1(a)(9)(D)][/us/pl/99/36/s1/a/9/D], May 15, 1985, [99 Stat. 68][/us/stat/99/68]; [Pub. L. 101–380, title IV, § 4103(a)(2)(B)][/us/pl/101/380/s4103/a/2/B], Aug. 18, 1990, [104 Stat. 511][/us/stat/104/511].)
+([Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 545][/us/stat/97/545]; [Pub. L. 99–36][/us/pl/99/36], § 1(a)(9)(D), May 15, 1985, [99 Stat. 68][/us/stat/99/68]; [Pub. L. 101–380, title IV][/us/pl/101/380/tIV], § 4103(a)(2)(B), Aug. 18, 1990, [104 Stat. 511][/us/stat/104/511].)
 
 <table>
 
@@ -84,13 +84,13 @@ Source section (U.S. Code)  </td>
 ----------
 ----------
 
-[/us/pl/101/380/s4103/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2Fs4103%2Fa%2F2%2FB
+[/us/pl/101/380/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2FtIV
 [/us/stat/104/511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F511
 [/us/pl/98/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F89
 [/us/stat/97/545]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F545
-[/us/pl/99/36/s1/a/9/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F36%2Fs1%2Fa%2F9%2FD
+[/us/pl/99/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F36
 [/us/stat/99/68]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F68
-[/us/pl/101/380/s4103/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2Fs4103%2Fa%2F2%2FB
+[/us/pl/101/380/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2FtIV
 [/us/stat/104/511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F511
 [/us/pl/101/380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380
 [/us/pl/99/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F36

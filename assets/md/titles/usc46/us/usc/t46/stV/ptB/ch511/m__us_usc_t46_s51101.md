@@ -17,7 +17,7 @@
 
     It is the policy of the United States that merchant marine vessels of the United States should be operated by highly trained and efficient citizens of the United States and that the United States Navy and the merchant marine of the United States should work closely together to promote the maximum integration of the total seapower forces of the United States.
 
-([Pub. L. 109–304, § 8(b)][/us/pl/109/304/s8/b], Oct. 6, 2006, [120 Stat. 1568][/us/stat/120/1568].)
+([Pub. L. 109–304][/us/pl/109/304], § 8(b), Oct. 6, 2006, [120 Stat. 1568][/us/stat/120/1568].)
 
 <table>
 
@@ -88,7 +88,7 @@ June 29, 1936, ch. 858, title XIII, § 1301 (1st sentence), as added Pub. L. 9
 ----------
 ----------
 
-[/us/pl/109/304/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs8%2Fb
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1568
 
 

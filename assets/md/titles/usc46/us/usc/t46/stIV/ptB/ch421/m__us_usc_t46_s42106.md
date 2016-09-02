@@ -27,7 +27,7 @@
 
     (5) take any other action the Commission finds necessary and appropriate to adjust or meet any condition unfavorable to shipping in the foreign trade of the United States.
 
-([Pub. L. 109–304, § 7][/us/pl/109/304/s7], Oct. 6, 2006, [120 Stat. 1550][/us/stat/120/1550].)
+([Pub. L. 109–304][/us/pl/109/304], § 7, Oct. 6, 2006, [120 Stat. 1550][/us/stat/120/1550].)
 
 <table>
 
@@ -83,7 +83,7 @@ June 5, 1920, ch. 250, § 19(i); as added Pub. L. 101–595, title I, § 103
 ----------
 
 [/us/usc/t46/s42101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs42101
-[/us/pl/109/304/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs7
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1550
 
 

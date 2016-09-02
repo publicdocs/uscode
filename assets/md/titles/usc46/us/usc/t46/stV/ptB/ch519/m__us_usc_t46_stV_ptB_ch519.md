@@ -91,7 +91,7 @@
 
  __Amendments__ 
 
-    2008—[Pub. L. 110–181, div. C, title XXXV, § 3523(a)(5)(B)][/us/pl/110/181/s3523/a/5/B], Jan. 28, 2008, [122 Stat. 599][/us/stat/122/599], substituted “Provision of decorations, medals, and replacements” for “Manufacture and sale of awards and replacements.” in item 51907.
+    2008—[Pub. L. 110–181, div. C, title XXXV][/us/pl/110/181/dC/tXXXV], § 3523(a)(5)(B), Jan. 28, 2008, [122 Stat. 599][/us/stat/122/599], substituted “Provision of decorations, medals, and replacements” for “Manufacture and sale of awards and replacements.” in item 51907.
 
 ----------
 
@@ -100,7 +100,7 @@
 ----------
 ----------
 
-[/us/pl/110/181/s3523/a/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs3523%2Fa%2F5%2FB
+[/us/pl/110/181/dC/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdC%2FtXXXV
 [/us/stat/122/599]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F599
 
 

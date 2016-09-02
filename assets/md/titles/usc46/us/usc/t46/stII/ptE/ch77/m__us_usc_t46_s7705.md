@@ -19,7 +19,7 @@
 
     (b) The jurisdictional limits of a subpena issued under this section are the same as, and are enforceable in the same manner as, subpenas issued under chapter 63 of this title.
 
-([Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 547][/us/stat/97/547]; [Pub. L. 99–36, § 1(a)(9)(H)][/us/pl/99/36/s1/a/9/H], May 15, 1985, [99 Stat. 68][/us/stat/99/68].)
+([Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 547][/us/stat/97/547]; [Pub. L. 99–36][/us/pl/99/36], § 1(a)(9)(H), May 15, 1985, [99 Stat. 68][/us/stat/99/68].)
 
 <table>
 
@@ -72,7 +72,7 @@ Source section (U.S. Code)  </td>
 
 [/us/pl/98/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F89
 [/us/stat/97/547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F547
-[/us/pl/99/36/s1/a/9/H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F36%2Fs1%2Fa%2F9%2FH
+[/us/pl/99/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F36
 [/us/stat/99/68]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F68
 [/us/pl/99/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F36
 

@@ -65,7 +65,7 @@
 
         Nothing in paragraph (1) authorizes the employment in the coastwise trade of a vessel that does not meet the requirements of [section 12112 of this title][/us/usc/t46/s12112].
 
-([Pub. L. 109–304, § 5][/us/pl/109/304/s5], Oct. 6, 2006, [120 Stat. 1494][/us/stat/120/1494]; [Pub. L. 109–241, title III, § 310][/us/pl/109/241/s310], July 11, 2006, [120 Stat. 529][/us/stat/120/529]; [Pub. L. 110–181, div. C, title XXXV, § 3525(a)(1)][/us/pl/110/181/s3525/a/1], (b), Jan. 28, 2008, [122 Stat. 600][/us/stat/122/600], 601.)
+([Pub. L. 109–304][/us/pl/109/304], § 5, Oct. 6, 2006, [120 Stat. 1494][/us/stat/120/1494]; [Pub. L. 109–241, title III][/us/pl/109/241/tIII], § 310, July 11, 2006, [120 Stat. 529][/us/stat/120/529]; [Pub. L. 110–181, div. C, title XXXV][/us/pl/110/181/dC/tXXXV], § 3525(a)(1), (b), Jan. 28, 2008, [122 Stat. 600][/us/stat/122/600], 601.)
 
 <table>
 
@@ -141,15 +141,15 @@ Source (Statutes at Large)  </td>
 
  __Prior Provisions__ 
 
-    A prior section 12111, [Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 588][/us/stat/97/588]; [Pub. L. 100–710, title I, § 103(a)][/us/pl/100/710/s103/a], Nov. 23, 1988, [102 Stat. 4749][/us/stat/102/4749]; [Pub. L. 104–324, title III, § 301(d)(2)(A)][/us/pl/104/324/s301/d/2/A], Oct. 19, 1996, [110 Stat. 3916][/us/stat/110/3916]; [Pub. L. 107–295, title II, § 205(c)][/us/pl/107/295/s205/c], Nov. 25, 2002, [116 Stat. 2096][/us/stat/116/2096], originally derived from section 65o of former Title 46, Shipping, related to surrender and invalidation of certificates of documentation, prior to the general amendment of this chapter by [Pub. L. 109–304][/us/pl/109/304]. See sections 12135 and 12136 of this title.
+    A prior section 12111, [Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 588][/us/stat/97/588]; [Pub. L. 100–710, title I][/us/pl/100/710/tI], § 103(a), Nov. 23, 1988, [102 Stat. 4749][/us/stat/102/4749]; [Pub. L. 104–324, title III][/us/pl/104/324/tIII], § 301(d)(2)(A), Oct. 19, 1996, [110 Stat. 3916][/us/stat/110/3916]; [Pub. L. 107–295, title II][/us/pl/107/295/tII], § 205(c), Nov. 25, 2002, [116 Stat. 2096][/us/stat/116/2096], originally derived from section 65o of former Title 46, Shipping, related to surrender and invalidation of certificates of documentation, prior to the general amendment of this chapter by [Pub. L. 109–304][/us/pl/109/304]. See sections 12135 and 12136 of this title.
 
  __Amendments__ 
 
-    2008—[Pub. L. 110–181, § 3525(b)][/us/pl/110/181/s3525/b], repealed [Pub. L. 109–241, § 310][/us/pl/109/241/s310]. See 2006 Amendment note below.
+    2008—[Pub. L. 110–181][/us/pl/110/181], § 3525(b), repealed [Pub. L. 109–241][/us/pl/109/241], § 310. See 2006 Amendment note below.
 
-    Subsec. (d). [Pub. L. 110–181, § 3525(a)(1)][/us/pl/110/181/s3525/a/1], incorporated the substance of the amendment by [Pub. L. 109–241, § 310][/us/pl/109/241/s310], into this section by adding subsec. (d). See 2006 Amendment note below and [section 18(a) of Pub. L. 109–304][/us/pl/109/304/s18/a], set out as a Legislative Purpose and Construction note preceding [section 101 of this title][/us/usc/t46/s101].
+    Subsec. (d). [Pub. L. 110–181][/us/pl/110/181], § 3525(a)(1), incorporated the substance of the amendment by [Pub. L. 109–241][/us/pl/109/241], § 310, into this section by adding subsec. (d). See 2006 Amendment note below and [section 18(a) of Pub. L. 109–304][/us/pl/109/304/s18/a], set out as a Legislative Purpose and Construction note preceding [section 101 of this title][/us/usc/t46/s101].
 
-    2006—[Pub. L. 109–241, § 310][/us/pl/109/241/s310], which directed the amendment of former [section 12105 of this title][/us/usc/t46/s12105] from which this section was derived in part, was repealed by [Pub. L. 110–181, § 3525(b)][/us/pl/110/181/s3525/b]. See 2008 Amendment note for subsec. (d) and Historical and Revision notes above.
+    2006—[Pub. L. 109–241][/us/pl/109/241], § 310, which directed the amendment of former [section 12105 of this title][/us/usc/t46/s12105] from which this section was derived in part, was repealed by [Pub. L. 110–181][/us/pl/110/181], § 3525(b). See 2008 Amendment note for subsec. (d) and Historical and Revision notes above.
 
 ----------
 
@@ -162,29 +162,29 @@ Source (Statutes at Large)  </td>
 [/us/usc/t46/s50501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs50501
 [/us/usc/t43/s1331/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1331%2Fa
 [/us/usc/t46/s12112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs12112
-[/us/pl/109/304/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs5
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1494]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1494
-[/us/pl/109/241/s310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241%2Fs310
+[/us/pl/109/241/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241%2FtIII
 [/us/stat/120/529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F529
-[/us/pl/110/181/s3525/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs3525%2Fa%2F1
+[/us/pl/110/181/dC/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdC%2FtXXXV
 [/us/stat/122/600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F600
 [/us/pl/98/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F89
 [/us/stat/97/588]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F588
-[/us/pl/100/710/s103/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F710%2Fs103%2Fa
+[/us/pl/100/710/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F710%2FtI
 [/us/stat/102/4749]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4749
-[/us/pl/104/324/s301/d/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2Fs301%2Fd%2F2%2FA
+[/us/pl/104/324/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2FtIII
 [/us/stat/110/3916]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3916
-[/us/pl/107/295/s205/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295%2Fs205%2Fc
+[/us/pl/107/295/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295%2FtII
 [/us/stat/116/2096]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2096
 [/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
-[/us/pl/110/181/s3525/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs3525%2Fb
-[/us/pl/109/241/s310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241%2Fs310
-[/us/pl/110/181/s3525/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs3525%2Fa%2F1
-[/us/pl/109/241/s310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241%2Fs310
+[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
+[/us/pl/109/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241
+[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
+[/us/pl/109/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241
 [/us/pl/109/304/s18/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs18%2Fa
 [/us/usc/t46/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs101
-[/us/pl/109/241/s310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241%2Fs310
+[/us/pl/109/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241
 [/us/usc/t46/s12105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs12105
-[/us/pl/110/181/s3525/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs3525%2Fb
+[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
 
 

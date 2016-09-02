@@ -39,7 +39,7 @@
 
     (h) The uniform stripes, decoration, or other insignia worn by a staff officer shall be of gold braid or woven gold or silver material. A crewmember (except a staff officer) may not wear any uniform with a staff officer’s identifying insignia.
 
-([Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 551][/us/stat/97/551]; [Pub. L. 99–36, § 1(a)(4)][/us/pl/99/36/s1/a/4], May 15, 1985, [99 Stat. 67][/us/stat/99/67]; [Pub. L. 109–163, div. A, title V, § 515(f)(3)(A)][/us/pl/109/163/s515/f/3/A], Jan. 6, 2006, [119 Stat. 3236][/us/stat/119/3236].)
+([Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 551][/us/stat/97/551]; [Pub. L. 99–36][/us/pl/99/36], § 1(a)(4), May 15, 1985, [99 Stat. 67][/us/stat/99/67]; [Pub. L. 109–163, div. A, title V][/us/pl/109/163/dA/tV], § 515(f)(3)(A), Jan. 6, 2006, [119 Stat. 3236][/us/stat/119/3236].)
 
 <table>
 
@@ -143,9 +143,9 @@ Source section (U.S. Code)  </td>
 [/us/usc/t46/s7101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs7101
 [/us/pl/98/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F89
 [/us/stat/97/551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F551
-[/us/pl/99/36/s1/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F36%2Fs1%2Fa%2F4
+[/us/pl/99/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F36
 [/us/stat/99/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F67
-[/us/pl/109/163/s515/f/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs515%2Ff%2F3%2FA
+[/us/pl/109/163/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtV
 [/us/stat/119/3236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3236
 [/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
 [/us/pl/99/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F36

@@ -133,7 +133,7 @@
 
         (2) Not later than September 30, 2018, each committee established under this section shall submit to the Congress its recommendation regarding whether the committee should be renewed and continued beyond the termination date.
 
-(Added [Pub. L. 107–295, title I, § 102(a)][/us/pl/107/295/s102/a], Nov. 25, 2002, [116 Stat. 2081][/us/stat/116/2081]; amended [Pub. L. 108–293, title VIII, § 806][/us/pl/108/293/s806], Aug. 9, 2004, [118 Stat. 1082][/us/stat/118/1082]; [Pub. L. 109–241, title IX, § 901(m)][/us/pl/109/241/s901/m], July 11, 2006, [120 Stat. 565][/us/stat/120/565]; [Pub. L. 111–281, title VIII, § 810][/us/pl/111/281/s810], Oct. 15, 2010, [124 Stat. 2995][/us/stat/124/2995].)
+(Added [Pub. L. 107–295, title I][/us/pl/107/295/tI], § 102(a), Nov. 25, 2002, [116 Stat. 2081][/us/stat/116/2081]; amended [Pub. L. 108–293, title VIII][/us/pl/108/293/tVIII], § 806, Aug. 9, 2004, [118 Stat. 1082][/us/stat/118/1082]; [Pub. L. 109–241, title IX][/us/pl/109/241/tIX], § 901(m), July 11, 2006, [120 Stat. 565][/us/stat/120/565]; [Pub. L. 111–281, title VIII][/us/pl/111/281/tVIII], § 810, Oct. 15, 2010, [124 Stat. 2995][/us/stat/124/2995].)
 
  __References in Text__ 
 
@@ -141,11 +141,11 @@
 
  __Amendments__ 
 
-    2010—Subsec. (b)(5). [Pub. L. 111–281, § 810(1)][/us/pl/111/281/s810/1], amended par. (5) generally. Prior to amendment par. (5) read as follows: “The membership of an Area Maritime Security Advisory Committee shall include representatives of the port industry, terminal operators, port labor organizations, and other users of the port areas.”
+    2010—Subsec. (b)(5). [Pub. L. 111–281][/us/pl/111/281], § 810(1), amended par. (5) generally. Prior to amendment par. (5) read as follows: “The membership of an Area Maritime Security Advisory Committee shall include representatives of the port industry, terminal operators, port labor organizations, and other users of the port areas.”
 
-    Subsec. (g)(1)(A). [Pub. L. 111–281, § 810(2)(A)][/us/pl/111/281/s810/2/A], substituted “2020;” for “2008;”.
+    Subsec. (g)(1)(A). [Pub. L. 111–281][/us/pl/111/281], § 810(2)(A), substituted “2020;” for “2008;”.
 
-    Subsec. (g)(2). [Pub. L. 111–281, § 810(2)(B)][/us/pl/111/281/s810/2/B], substituted “2018” for “2006”.
+    Subsec. (g)(2). [Pub. L. 111–281][/us/pl/111/281], § 810(2)(B), substituted “2018” for “2006”.
 
     2006—Subsec. (b)(5). [Pub. L. 109–241][/us/pl/109/241] realigned margins.
 
@@ -160,19 +160,19 @@
 
 [/us/usc/t5/s5332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5332
 [/us/usc/t5/s5703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5703
-[/us/pl/107/295/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295%2Fs102%2Fa
+[/us/pl/107/295/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295%2FtI
 [/us/stat/116/2081]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2081
-[/us/pl/108/293/s806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293%2Fs806
+[/us/pl/108/293/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293%2FtVIII
 [/us/stat/118/1082]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1082
-[/us/pl/109/241/s901/m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241%2Fs901%2Fm
+[/us/pl/109/241/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241%2FtIX
 [/us/stat/120/565]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F565
-[/us/pl/111/281/s810]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs810
+[/us/pl/111/281/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2FtVIII
 [/us/stat/124/2995]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2995
 [/us/pl/92/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463
 [/us/stat/86/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F770
-[/us/pl/111/281/s810/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs810%2F1
-[/us/pl/111/281/s810/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs810%2F2%2FA
-[/us/pl/111/281/s810/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs810%2F2%2FB
+[/us/pl/111/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281
+[/us/pl/111/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281
+[/us/pl/111/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281
 [/us/pl/109/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241
 [/us/pl/108/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293
 

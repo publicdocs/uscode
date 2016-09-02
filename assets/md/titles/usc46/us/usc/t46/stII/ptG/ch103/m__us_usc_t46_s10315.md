@@ -45,7 +45,7 @@
 
         (4) while on board the vessel on which the seaman is employed, the seaman is able to arrange for withdrawal of all funds on deposit in the account in which the wages are deposited.
 
-([Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 567][/us/stat/97/567]; [Pub. L. 111–281, title IX, § 902(a)(2)][/us/pl/111/281/s902/a/2], Oct. 15, 2010, [124 Stat. 3009][/us/stat/124/3009].)
+([Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 567][/us/stat/97/567]; [Pub. L. 111–281, title IX][/us/pl/111/281/tIX], § 902(a)(2), Oct. 15, 2010, [124 Stat. 3009][/us/stat/124/3009].)
 
 <table>
 
@@ -103,7 +103,7 @@ Source section (U.S. Code)  </td>
 [/us/usc/t46/s10302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs10302
 [/us/pl/98/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F89
 [/us/stat/97/567]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F567
-[/us/pl/111/281/s902/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs902%2Fa%2F2
+[/us/pl/111/281/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2FtIX
 [/us/stat/124/3009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3009
 [/us/pl/111/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281
 [/us/pl/101/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73

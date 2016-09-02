@@ -37,7 +37,7 @@
 
     (d) The Secretary shall provide for the accounting, budgeting, and other fiscal procedures that are necessary and reasonable to carry out this section properly and efficiently. Records related to amounts allocated under this chapter shall be made available to the Secretary and the Comptroller General to conduct audits.
 
-([Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 596][/us/stat/97/596]; [Pub. L. 98–369, div. A, title X, § 1011(f)][/us/pl/98/369/s1011/f], July 18, 1984, [98 Stat. 1013][/us/stat/98/1013]; [Pub. L. 101–595, title III, § 312(d)][/us/pl/101/595/s312/d], Nov. 16, 1990, [104 Stat. 2987][/us/stat/104/2987]; [Pub. L. 104–324, title VII, § 746(a)(3)][/us/pl/104/324/s746/a/3], (4), Oct. 19, 1996, [110 Stat. 3943][/us/stat/110/3943]; [Pub. L. 109–304, § 16(c)(6)][/us/pl/109/304/s16/c/6], Oct. 6, 2006, [120 Stat. 1706][/us/stat/120/1706].)
+([Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 596][/us/stat/97/596]; [Pub. L. 98–369, div. A, title X][/us/pl/98/369/dA/tX], § 1011(f), July 18, 1984, [98 Stat. 1013][/us/stat/98/1013]; [Pub. L. 101–595, title III][/us/pl/101/595/tIII], § 312(d), Nov. 16, 1990, [104 Stat. 2987][/us/stat/104/2987]; [Pub. L. 104–324, title VII][/us/pl/104/324/tVII], § 746(a)(3), (4), Oct. 19, 1996, [110 Stat. 3943][/us/stat/110/3943]; [Pub. L. 109–304][/us/pl/109/304], § 16(c)(6), Oct. 6, 2006, [120 Stat. 1706][/us/stat/120/1706].)
 
 <table>
 
@@ -102,13 +102,13 @@ Source section (U.S. Code)  </td>
 [/us/usc/t46/s13106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs13106
 [/us/pl/98/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F89
 [/us/stat/97/596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F596
-[/us/pl/98/369/s1011/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs1011%2Ff
+[/us/pl/98/369/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtX
 [/us/stat/98/1013]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1013
-[/us/pl/101/595/s312/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F595%2Fs312%2Fd
+[/us/pl/101/595/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F595%2FtIII
 [/us/stat/104/2987]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2987
-[/us/pl/104/324/s746/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2Fs746%2Fa%2F3
+[/us/pl/104/324/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2FtVII
 [/us/stat/110/3943]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3943
-[/us/pl/109/304/s16/c/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs16%2Fc%2F6
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1706
 [/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/pl/104/324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324

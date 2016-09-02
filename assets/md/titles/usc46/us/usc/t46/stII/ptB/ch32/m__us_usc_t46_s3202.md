@@ -57,15 +57,15 @@
 
         (5) a public vessel.
 
-(Added [Pub. L. 104–324, title VI, § 602(a)][/us/pl/104/324/s602/a], Oct. 19, 1996, [110 Stat. 3928][/us/stat/110/3928]; amended [Pub. L. 108–293, title IV, § 405(a)][/us/pl/108/293/s405/a], Aug. 9, 2004, [118 Stat. 1043][/us/stat/118/1043]; [Pub. L. 111–281, title VI, § 610(a)][/us/pl/111/281/s610/a], Oct. 15, 2010, [124 Stat. 2969][/us/stat/124/2969].)
+(Added [Pub. L. 104–324, title VI][/us/pl/104/324/tVI], § 602(a), Oct. 19, 1996, [110 Stat. 3928][/us/stat/110/3928]; amended [Pub. L. 108–293, title IV][/us/pl/108/293/tIV], § 405(a), Aug. 9, 2004, [118 Stat. 1043][/us/stat/118/1043]; [Pub. L. 111–281, title VI][/us/pl/111/281/tVI], § 610(a), Oct. 15, 2010, [124 Stat. 2969][/us/stat/124/2969].)
 
  __Amendments__ 
 
-    2010—Subsec. (a). [Pub. L. 111–281, § 610(a)(1)][/us/pl/111/281/s610/a/1], substituted “Foreign Voyages and Foreign Vessels.—” for “Mandatory Application.—” in heading.
+    2010—Subsec. (a). [Pub. L. 111–281][/us/pl/111/281], § 610(a)(1), substituted “Foreign Voyages and Foreign Vessels.—” for “Mandatory Application.—” in heading.
 
-    Subsecs. (b) to (d). [Pub. L. 111–281, § 610(a)(2)][/us/pl/111/281/s610/a/2]–(4), added subsec. (b), redesignated former subsecs. (b) and (c) as (c) and (d), respectively, and, in introductory provisions of subsec. (d), substituted “subsection (c)” for “subsection (b)”.
+    Subsecs. (b) to (d). [Pub. L. 111–281][/us/pl/111/281], § 610(a)(2)–(4), added subsec. (b), redesignated former subsecs. (b) and (c) as (c) and (d), respectively, and, in introductory provisions of subsec. (d), substituted “subsection (c)” for “subsection (b)”.
 
-    Subsec. (d)(4). [Pub. L. 111–281, § 610(a)(5)][/us/pl/111/281/s610/a/5], inserted “that is not described in subsection (b) of this section” after “connecting waters”.
+    Subsec. (d)(4). [Pub. L. 111–281][/us/pl/111/281], § 610(a)(5), inserted “that is not described in subsection (b) of this section” after “connecting waters”.
 
     2004—Subsec. (a). [Pub. L. 108–293][/us/pl/108/293] reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “This chapter applies to the following vessels engaged on a foreign voyage:
 
@@ -86,15 +86,15 @@
 
 [/us/usc/t46/s2101/21/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs2101%2F21%2FA
 [/us/usc/t46/s14302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs14302
-[/us/pl/104/324/s602/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2Fs602%2Fa
+[/us/pl/104/324/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2FtVI
 [/us/stat/110/3928]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3928
-[/us/pl/108/293/s405/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293%2Fs405%2Fa
+[/us/pl/108/293/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293%2FtIV
 [/us/stat/118/1043]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1043
-[/us/pl/111/281/s610/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs610%2Fa
+[/us/pl/111/281/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2FtVI
 [/us/stat/124/2969]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2969
-[/us/pl/111/281/s610/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs610%2Fa%2F1
-[/us/pl/111/281/s610/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs610%2Fa%2F2
-[/us/pl/111/281/s610/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs610%2Fa%2F5
+[/us/pl/111/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281
+[/us/pl/111/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281
+[/us/pl/111/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281
 [/us/pl/108/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293
 [/us/usc/t46/s2101/21/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs2101%2F21%2FA
 

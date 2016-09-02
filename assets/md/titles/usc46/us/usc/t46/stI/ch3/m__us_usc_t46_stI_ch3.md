@@ -79,7 +79,19 @@
 
   </tr>
 
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft46%2Fs308" data-uslm-ref="/us/usc/t46/s308">308.</a>  </td>
+
+    <td> Authorization of appropriations.  </td>
+
+  </tr>
+
 </table>
+
+ __Amendments__ 
+
+    2016—[Pub. L. 114–120, title IV][/us/pl/114/120/tIV], § 401(b), Feb. 8, 2016, [130 Stat. 67][/us/stat/130/67], added item 308.
 
 ----------
 
@@ -88,5 +100,7 @@
 ----------
 ----------
 
+[/us/pl/114/120/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F120%2FtIV
+[/us/stat/130/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F67
 
 

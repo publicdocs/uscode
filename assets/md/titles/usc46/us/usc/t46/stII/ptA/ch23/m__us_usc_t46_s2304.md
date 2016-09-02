@@ -23,7 +23,7 @@
 
     (b) A master or individual violating this section shall be fined not more than $1,000, imprisoned for not more than 2 years, or both.
 
-([Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 509][/us/stat/97/509]; [Pub. L. 109–304, § 15(8)][/us/pl/109/304/s15/8], Oct. 6, 2006, [120 Stat. 1703][/us/stat/120/1703].)
+([Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 509][/us/stat/97/509]; [Pub. L. 109–304][/us/pl/109/304], § 15(8), Oct. 6, 2006, [120 Stat. 1703][/us/stat/120/1703].)
 
 <table>
 
@@ -76,7 +76,7 @@ Source section (U.S. Code)  </td>
 
 [/us/pl/98/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F89
 [/us/stat/97/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F509
-[/us/pl/109/304/s15/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs15%2F8
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1703
 [/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 

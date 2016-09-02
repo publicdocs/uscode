@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t46/stII/ptE/ch75/m__us_usc_t46_s7508.md) | [Next](./../../../../../..//us/usc/t46/stII/ptE/ch77/m__us_usc_t46_s7701.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2FstII%2FptE%2Fch77)
+[Previous](./../../../../../..//us/usc/t46/stII/ptE/ch75/m__us_usc_t46_s7510.md) | [Next](./../../../../../..//us/usc/t46/stII/ptE/ch77/m__us_usc_t46_s7701.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2FstII%2FptE%2Fch77)
 
 #### CHAPTER 77—SUSPENSION AND REVOCATION
 
@@ -75,16 +75,16 @@
 
  __Amendments__ 
 
-    2004—[Pub. L. 108–293, title IV, § 414(b)][/us/pl/108/293/s414/b], Aug. 9, 2004, [118 Stat. 1047][/us/stat/118/1047], added item 7706.
+    2004—[Pub. L. 108–293, title IV][/us/pl/108/293/tIV], § 414(b), Aug. 9, 2004, [118 Stat. 1047][/us/stat/118/1047], added item 7706.
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t46/stII/ptE/ch75/m__us_usc_t46_s7508.md) | [Next](./../../../../../..//us/usc/t46/stII/ptE/ch77/m__us_usc_t46_s7701.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2FstII%2FptE%2Fch77)
+[Previous](./../../../../../..//us/usc/t46/stII/ptE/ch75/m__us_usc_t46_s7510.md) | [Next](./../../../../../..//us/usc/t46/stII/ptE/ch77/m__us_usc_t46_s7701.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2FstII%2FptE%2Fch77)
 
 ----------
 ----------
 
-[/us/pl/108/293/s414/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293%2Fs414%2Fb
+[/us/pl/108/293/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293%2FtIV
 [/us/stat/118/1047]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1047
 
 

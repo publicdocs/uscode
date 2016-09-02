@@ -37,7 +37,7 @@
 
     (f) The owner, charterer, managing operator, agent, master, or licensed individual of a vessel not complying with this section is liable to the United States Government for a civil penalty of at least $50 but not more than $500.
 
-([Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 577][/us/stat/97/577]; [Pub. L. 99–36, § 1(a)(6)][/us/pl/99/36/s1/a/6], May 15, 1985, [99 Stat. 67][/us/stat/99/67]; [Pub. L. 104–324, title VII, § 740][/us/pl/104/324/s740], Oct. 19, 1996, [110 Stat. 3942][/us/stat/110/3942].)
+([Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 577][/us/stat/97/577]; [Pub. L. 99–36][/us/pl/99/36], § 1(a)(6), May 15, 1985, [99 Stat. 67][/us/stat/99/67]; [Pub. L. 104–324, title VII][/us/pl/104/324/tVII], § 740, Oct. 19, 1996, [110 Stat. 3942][/us/stat/110/3942].)
 
 <table>
 
@@ -95,9 +95,9 @@ Source section (U.S. Code)  </td>
 [/us/usc/t46/s14104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs14104
 [/us/pl/98/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F89
 [/us/stat/97/577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F577
-[/us/pl/99/36/s1/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F36%2Fs1%2Fa%2F6
+[/us/pl/99/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F36
 [/us/stat/99/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F67
-[/us/pl/104/324/s740]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2Fs740
+[/us/pl/104/324/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2FtVII
 [/us/stat/110/3942]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3942
 [/us/pl/104/324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324
 [/us/usc/t46/s14502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs14502

@@ -29,7 +29,7 @@
 
     The term “Great Lakes shipping season” means the period each year during which the Saint Lawrence Seaway is open for navigation by vessels, as declared by the Saint Lawrence Seaway Development Corporation.
 
-([Pub. L. 109–304, § 8(c)][/us/pl/109/304/s8/c], Oct. 6, 2006, [120 Stat. 1648][/us/stat/120/1648].)
+([Pub. L. 109–304][/us/pl/109/304], § 8(c), Oct. 6, 2006, [120 Stat. 1648][/us/stat/120/1648].)
 
 <table>
 
@@ -91,7 +91,7 @@ Pub. L. 101–624, title XV, § 1527, Nov. 28, 1990, 104 Stat. 3668.  </td>
 ----------
 
 [/us/usc/t46/s55332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs55332
-[/us/pl/109/304/s8/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs8%2Fc
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1648]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1648
 [/us/usc/t33/s981]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs981
 

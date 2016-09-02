@@ -33,11 +33,11 @@
 
         (5) any other measures the Secretary considers necessary to ensure the security and integrity of international intermodal transport movements.
 
-(Added [Pub. L. 107–295, title I, § 102(a)][/us/pl/107/295/s102/a], Nov. 25, 2002, [116 Stat. 2083][/us/stat/116/2083].)
+(Added [Pub. L. 107–295, title I][/us/pl/107/295/tI], § 102(a), Nov. 25, 2002, [116 Stat. 2083][/us/stat/116/2083].)
 
  __Report on Secure System of Transportation Program__ 
 
-[Pub. L. 107–295, title I, § 110(c)][/us/pl/107/295/s110/c], Nov. 25, 2002, [116 Stat. 2092][/us/stat/116/2092], provided that:
+[Pub. L. 107–295, title I][/us/pl/107/295/tI], § 110(c), Nov. 25, 2002, [116 Stat. 2092][/us/stat/116/2092], provided that:
 
 >     “Within 1 year after the secure system of transportation program is implemented under [section 70116 of title 46][/us/usc/t46/s70116], United States Code, as amended by this Act, the Secretary of the department in which the Coast Guard is operating shall transmit a report to the Senate Committees on Commerce, Science, and Transportation and Finance and the House of Representatives Committees on Transportation and Infrastructure and Ways and Means that—
 
@@ -59,7 +59,7 @@
 
  __Performance Standards__ 
 
-[Pub. L. 107–295, title I, § 111][/us/pl/107/295/s111], Nov. 25, 2002, [116 Stat. 2092][/us/stat/116/2092], provided that: 
+[Pub. L. 107–295, title I][/us/pl/107/295/tI], § 111, Nov. 25, 2002, [116 Stat. 2092][/us/stat/116/2092], provided that: 
 
 > “Not later than January 1, 2004, the Secretary of the department in which the Coast Guard is operating, in consultation with the Transportation Security Oversight Board, shall—
 
@@ -76,14 +76,14 @@
 ----------
 ----------
 
-[/us/pl/107/295/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295%2Fs102%2Fa
+[/us/pl/107/295/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295%2FtI
 [/us/stat/116/2083]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2083
-[/us/pl/107/295/s110/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295%2Fs110%2Fc
+[/us/pl/107/295/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295%2FtI
 [/us/stat/116/2092]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2092
 [/us/usc/t46/s70116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs70116
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
-[/us/pl/107/295/s111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295%2Fs111
+[/us/pl/107/295/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295%2FtI
 [/us/stat/116/2092]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2092
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
 

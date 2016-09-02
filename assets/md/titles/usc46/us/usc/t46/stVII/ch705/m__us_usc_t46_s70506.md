@@ -17,7 +17,7 @@
 
     (a)  __Violations__  __.—__ 
 
-    A person violating [section 70503 of this title][/us/usc/t46/s70503] shall be punished as provided in section 1010 of the Comprehensive Drug Abuse Prevention and Control Act of 1970 ([21 U.S.C. 960][/us/usc/t21/s960]). However, if the offense is a second or subsequent offense as provided in section 1012(b) of that Act ([21 U.S.C. 962(b)][/us/usc/t21/s962/b]), the person shall be punished as provided in section 1012 of that Act ([21 U.S.C. 962][/us/usc/t21/s962]).
+    A person violating paragraph (1) of [section 70503(a) of this title][/us/usc/t46/s70503/a] shall be punished as provided in section 1010 of the Comprehensive Drug Abuse Prevention and Control Act of 1970 ([21 U.S.C. 960][/us/usc/t21/s960]). However, if the offense is a second or subsequent offense as provided in section 1012(b) of that Act ([21 U.S.C. 962(b)][/us/usc/t21/s962/b]), the person shall be punished as provided in section 1012 of that Act ([21 U.S.C. 962][/us/usc/t21/s962]).
 
     (b)  __Attempts and Conspiracies__  __.—__ 
 
@@ -37,7 +37,11 @@
 
         Assessment of a civil penalty under this subsection shall not be considered a conviction for purposes of State or Federal law but may be considered proof of possession if such a determination is relevant.
 
-([Pub. L. 109–304, § 10(2)][/us/pl/109/304/s10/2], Oct. 6, 2006, [120 Stat. 1688][/us/stat/120/1688]; [Pub. L. 111–281, title III, § 302][/us/pl/111/281/s302], Oct. 15, 2010, [124 Stat. 2923][/us/stat/124/2923].)
+    (d)  __Penalty__  __.—__ 
+
+    A person violating paragraph (2) or (3) of section 70503(a) shall be fined in accordance with [section 3571 of title 18][/us/usc/t18/s3571], imprisoned not more than 15 years, or both.
+
+([Pub. L. 109–304][/us/pl/109/304], § 10(2), Oct. 6, 2006, [120 Stat. 1688][/us/stat/120/1688]; [Pub. L. 111–281, title III][/us/pl/111/281/tIII], § 302, Oct. 15, 2010, [124 Stat. 2923][/us/stat/124/2923]; [Pub. L. 114–120, title III][/us/pl/114/120/tIII], § 314(c), Feb. 8, 2016, [130 Stat. 59][/us/stat/130/59].)
 
 <table>
 
@@ -107,6 +111,10 @@ Pub. L. 96–350, § 3(g), (j), Sept. 15, 1980, 94 Stat. 1160; Pub. L. 99–57
 
  __Amendments__ 
 
+    2016—Subsec. (a). [Pub. L. 114–120][/us/pl/114/120], § 314(c)(1), substituted “A person violating paragraph (1) of section 70503(a)” for “A person violating section 70503”.
+
+    Subsec. (d). [Pub. L. 114–120][/us/pl/114/120], § 314(c)(2), added subsec. (d).
+
     2010—Subsec. (c). [Pub. L. 111–281][/us/pl/111/281] added subsec. (c).
 
 ----------
@@ -116,19 +124,24 @@ Pub. L. 96–350, § 3(g), (j), Sept. 15, 1980, 94 Stat. 1160; Pub. L. 99–57
 ----------
 ----------
 
-[/us/usc/t46/s70503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs70503
+[/us/usc/t46/s70503/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs70503%2Fa
 [/us/usc/t21/s960]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs960
 [/us/usc/t21/s962/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs962%2Fb
 [/us/usc/t21/s962]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs962
 [/us/usc/t46/s70503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs70503
 [/us/usc/t21/s812]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs812
-[/us/pl/109/304/s10/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs10%2F2
+[/us/usc/t18/s3571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3571
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1688]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1688
-[/us/pl/111/281/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs302
+[/us/pl/111/281/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2FtIII
 [/us/stat/124/2923]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2923
+[/us/pl/114/120/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F120%2FtIII
+[/us/stat/130/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F59
 [/us/pl/91/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513
 [/us/stat/84/1242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1242
 [/us/usc/t21/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs801
+[/us/pl/114/120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F120
+[/us/pl/114/120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F120
 [/us/pl/111/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281
 
 

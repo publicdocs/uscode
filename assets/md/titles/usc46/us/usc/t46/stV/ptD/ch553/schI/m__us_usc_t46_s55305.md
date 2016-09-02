@@ -59,7 +59,7 @@
 
             (B) in such period, issued an advisory warning that an act of piracy is possible in such waters.
 
-([Pub. L. 109–304, § 8(c)][/us/pl/109/304/s8/c], Oct. 6, 2006, [120 Stat. 1642][/us/stat/120/1642]; [Pub. L. 110–417, div. C, title XXXV, § 3511(a)][/us/pl/110/417/s3511/a], (b), Oct. 14, 2008, [122 Stat. 4769][/us/stat/122/4769]; [Pub. L. 112–213, title V, § 503][/us/pl/112/213/s503], Dec. 20, 2012, [126 Stat. 1575][/us/stat/126/1575]; [Pub. L. 113–281, title III, § 306][/us/pl/113/281/s306], Dec. 18, 2014, [128 Stat. 3044][/us/stat/128/3044].)
+([Pub. L. 109–304][/us/pl/109/304], § 8(c), Oct. 6, 2006, [120 Stat. 1642][/us/stat/120/1642]; [Pub. L. 110–417, div. C, title XXXV][/us/pl/110/417/dC/tXXXV], § 3511(a), (b), Oct. 14, 2008, [122 Stat. 4769][/us/stat/122/4769]; [Pub. L. 112–213, title V][/us/pl/112/213/tV], § 503, Dec. 20, 2012, [126 Stat. 1575][/us/stat/126/1575]; [Pub. L. 113–281, title III][/us/pl/113/281/tIII], § 306, Dec. 18, 2014, [128 Stat. 3044][/us/stat/128/3044].)
 
 <table>
 
@@ -159,9 +159,9 @@ June 29, 1936, ch. 858, title IX, § 901(b), as added Aug. 26, 1954, ch. 936, 
 
  __Amendments__ 
 
-    2014—Subsec. (e)(1). [Pub. L. 113–281, § 306(1)][/us/pl/113/281/s306/1], substituted “reimburse, subject to the availability of appropriations, the owners or operators of vessels” for “provide armed personnel aboard vessels” and “commodities for the cost of providing armed personnel aboard such vessels” for “commodities”.
+    2014—Subsec. (e)(1). [Pub. L. 113–281][/us/pl/113/281], § 306(1), substituted “reimburse, subject to the availability of appropriations, the owners or operators of vessels” for “provide armed personnel aboard vessels” and “commodities for the cost of providing armed personnel aboard such vessels” for “commodities”.
 
-    Subsec. (e)(2), (3). [Pub. L. 113–281, § 306(2)][/us/pl/113/281/s306/2], added par. (2) and struck out former pars. (2) and (3) which read as follows:
+    Subsec. (e)(2), (3). [Pub. L. 113–281][/us/pl/113/281], § 306(2), added par. (2) and struck out former pars. (2) and (3) which read as follows:
 
     “(2) The Secretary of Transportation shall direct each department or agency responsible to provide armed personnel under paragraph (1) to reimburse, subject to the availability of appropriations, the owners or operators of applicable vessels for the cost of providing armed personnel.
 
@@ -169,13 +169,13 @@ June 29, 1936, ch. 858, title IX, § 901(b), as added Aug. 26, 1954, ch. 936, 
 
     2012—Subsec. (e). [Pub. L. 112–213][/us/pl/112/213] added subsec. (e).
 
-    2008—Subsec. (b). [Pub. L. 110–417, § 3511(a)][/us/pl/110/417/s3511/a], substituted “foreign country, organization, or persons” for “foreign country”, “commodities, or provides financing in any way with Federal funds for the account of any persons unless otherwise exempted, within” for “commodities, within”, and “furnishing or obtaining” for “furnishing”.
+    2008—Subsec. (b). [Pub. L. 110–417][/us/pl/110/417], § 3511(a), substituted “foreign country, organization, or persons” for “foreign country”, “commodities, or provides financing in any way with Federal funds for the account of any persons unless otherwise exempted, within” for “commodities, within”, and “furnishing or obtaining” for “furnishing”.
 
-    Subsec. (d). [Pub. L. 110–417, § 3511(b)][/us/pl/110/417/s3511/b], reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “An agency having responsibility under this section shall administer its programs with respect to this section under regulations prescribed by the Secretary of Transportation. The Secretary shall review the administration of those programs and report annually to Congress on their administration.”
+    Subsec. (d). [Pub. L. 110–417][/us/pl/110/417], § 3511(b), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “An agency having responsibility under this section shall administer its programs with respect to this section under regulations prescribed by the Secretary of Transportation. The Secretary shall review the administration of those programs and report annually to Congress on their administration.”
 
  __Regulations__ 
 
-[Pub. L. 110–417, div. C, title XXXV, § 3511(c)][/us/pl/110/417/s3511/c], Oct. 14, 2008, [122 Stat. 4770][/us/stat/122/4770], provided that: 
+[Pub. L. 110–417, div. C, title XXXV][/us/pl/110/417/dC/tXXXV], § 3511(c), Oct. 14, 2008, [122 Stat. 4770][/us/stat/122/4770], provided that: 
 
 > “The Secretary of Transportation shall prescribe such rules as are necessary to carry out [section 55305(d) of title 46][/us/usc/t46/s55305/d], United States Code. The Secretary may prescribe interim rules necessary to carry out section 55305(d) of such title. An interim rule prescribed under this subsection shall remain in effect until superseded by a final rule.”
 
@@ -187,24 +187,24 @@ June 29, 1936, ch. 858, title IX, § 901(b), as added Aug. 26, 1954, ch. 936, 
 ----------
 
 [/us/usc/t41/s421/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs421%2Fc%2F1
-[/us/pl/109/304/s8/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs8%2Fc
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1642]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1642
-[/us/pl/110/417/s3511/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417%2Fs3511%2Fa
+[/us/pl/110/417/dC/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417%2FdC%2FtXXXV
 [/us/stat/122/4769]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4769
-[/us/pl/112/213/s503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F213%2Fs503
+[/us/pl/112/213/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F213%2FtV
 [/us/stat/126/1575]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1575
-[/us/pl/113/281/s306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281%2Fs306
+[/us/pl/113/281/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281%2FtIII
 [/us/stat/128/3044]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3044
 [/us/usc/t41/s1303/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs1303%2Fa%2F1
 [/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3677]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3677
 [/us/usc/t41/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs101
-[/us/pl/113/281/s306/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281%2Fs306%2F1
-[/us/pl/113/281/s306/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281%2Fs306%2F2
+[/us/pl/113/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281
+[/us/pl/113/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281
 [/us/pl/112/213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F213
-[/us/pl/110/417/s3511/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417%2Fs3511%2Fa
-[/us/pl/110/417/s3511/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417%2Fs3511%2Fb
-[/us/pl/110/417/s3511/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417%2Fs3511%2Fc
+[/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
+[/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
+[/us/pl/110/417/dC/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417%2FdC%2FtXXXV
 [/us/stat/122/4770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4770
 [/us/usc/t46/s55305/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs55305%2Fd
 

@@ -17,7 +17,7 @@
 
     The Secretary of Transportation may appoint each year without competition as cadets at the United States Merchant Marine Academy not more than 40 qualified individuals with qualities the Secretary considers to be of special value to the Academy. In making these appointments, the Secretary shall try to achieve a national demographic balance at the Academy.
 
-([Pub. L. 109–304, § 8(b)][/us/pl/109/304/s8/b], Oct. 6, 2006, [120 Stat. 1572][/us/stat/120/1572].)
+([Pub. L. 109–304][/us/pl/109/304], § 8(b), Oct. 6, 2006, [120 Stat. 1572][/us/stat/120/1572].)
 
 <table>
 
@@ -72,7 +72,7 @@ June 29, 1936, ch. 858, title XIII, § 1303(b)(3)(D), as added Pub. L. 96–45
 ----------
 ----------
 
-[/us/pl/109/304/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs8%2Fb
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1572
 
 

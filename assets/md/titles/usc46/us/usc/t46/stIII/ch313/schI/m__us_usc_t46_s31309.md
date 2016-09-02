@@ -17,7 +17,7 @@
 
     Except as otherwise provided in this chapter, a person violating this chapter or a regulation prescribed under this chapter is liable to the United States Government for a civil penalty of not more than $10,000.
 
-([Pub. L. 100–710, title I, § 102(c)][/us/pl/100/710/s102/c], Nov. 23, 1988, [102 Stat. 4741][/us/stat/102/4741].)
+([Pub. L. 100–710, title I][/us/pl/100/710/tI], § 102(c), Nov. 23, 1988, [102 Stat. 4741][/us/stat/102/4741].)
 
 <table>
 
@@ -64,7 +64,7 @@ New  </td>
 ----------
 ----------
 
-[/us/pl/100/710/s102/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F710%2Fs102%2Fc
+[/us/pl/100/710/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F710%2FtI
 [/us/stat/102/4741]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4741
 
 

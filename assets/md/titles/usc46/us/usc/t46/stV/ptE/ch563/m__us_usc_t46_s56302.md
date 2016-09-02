@@ -27,7 +27,7 @@
 
     If the person does not accept the charter and rate of hire, the parties shall proceed as provided in [section 56304 of this title][/us/usc/t46/s56304].
 
-([Pub. L. 109–304, § 8(c)][/us/pl/109/304/s8/c], Oct. 6, 2006, [120 Stat. 1654][/us/stat/120/1654].)
+([Pub. L. 109–304][/us/pl/109/304], § 8(c), Oct. 6, 2006, [120 Stat. 1654][/us/stat/120/1654].)
 
 <table>
 
@@ -87,7 +87,7 @@ June 29, 1936, ch. 858, title IX, § 902(c) (1st sentence); as added Aug. 7, 1
 ----------
 
 [/us/usc/t46/s56304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs56304
-[/us/pl/109/304/s8/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs8%2Fc
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1654
 
 

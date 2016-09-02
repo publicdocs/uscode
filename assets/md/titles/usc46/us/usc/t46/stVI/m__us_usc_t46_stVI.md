@@ -67,7 +67,7 @@ Prior Provisions  </td>
 
 </table>
 
-    A prior subtitle VI, consisting of chapter 701, was redesignated subtitle VII of this title by [Pub. L. 109–241, title IX, § 901(k)(1)][/us/pl/109/241/s901/k/1], July 11, 2006, [120 Stat. 564][/us/stat/120/564]. An identical amendment was made by [Pub. L. 109–304, § 9(a)][/us/pl/109/304/s9/a], Oct. 6, 2006, [120 Stat. 1674][/us/stat/120/1674], prior to its repeal by [Pub. L. 110–181, div. C, title XXXV, § 3529(c)(1)][/us/pl/110/181/s3529/c/1], Jan. 28, 2008, [122 Stat. 603][/us/stat/122/603].
+    A prior subtitle VI, consisting of chapter 701, was redesignated subtitle VII of this title by [Pub. L. 109–241, title IX][/us/pl/109/241/tIX], § 901(k)(1), July 11, 2006, [120 Stat. 564][/us/stat/120/564]. An identical amendment was made by [Pub. L. 109–304][/us/pl/109/304], § 9(a), Oct. 6, 2006, [120 Stat. 1674][/us/stat/120/1674], prior to its repeal by [Pub. L. 110–181, div. C, title XXXV][/us/pl/110/181/dC/tXXXV], § 3529(c)(1), Jan. 28, 2008, [122 Stat. 603][/us/stat/122/603].
 
 ----------
 
@@ -76,11 +76,11 @@ Prior Provisions  </td>
 ----------
 ----------
 
-[/us/pl/109/241/s901/k/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241%2Fs901%2Fk%2F1
+[/us/pl/109/241/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241%2FtIX
 [/us/stat/120/564]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F564
-[/us/pl/109/304/s9/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs9%2Fa
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1674]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1674
-[/us/pl/110/181/s3529/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs3529%2Fc%2F1
+[/us/pl/110/181/dC/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdC%2FtXXXV
 [/us/stat/122/603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F603
 
 

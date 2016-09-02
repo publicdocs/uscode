@@ -47,7 +47,7 @@
 
     (c) If a person not an individual violates this section, the president or chief executive of the person also is subject to any penalty provided under this section.
 
-([Pub. L. 100–710, title I, § 102(c)][/us/pl/100/710/s102/c], Nov. 23, 1988, [102 Stat. 4747][/us/stat/102/4747]; [Pub. L. 104–324, title XI, § 1113(b)(2)][/us/pl/104/324/s1113/b/2], Oct. 19, 1996, [110 Stat. 3970][/us/stat/110/3970]; [Pub. L. 111–281, title IX, § 913(a)(1)][/us/pl/111/281/s913/a/1], (d), Oct. 15, 2010, [124 Stat. 3017][/us/stat/124/3017].)
+([Pub. L. 100–710, title I][/us/pl/100/710/tI], § 102(c), Nov. 23, 1988, [102 Stat. 4747][/us/stat/102/4747]; [Pub. L. 104–324, title XI][/us/pl/104/324/tXI], § 1113(b)(2), Oct. 19, 1996, [110 Stat. 3970][/us/stat/110/3970]; [Pub. L. 111–281, title IX][/us/pl/111/281/tIX], § 913(a)(1), (d), Oct. 15, 2010, [124 Stat. 3017][/us/stat/124/3017].)
 
 <table>
 
@@ -121,15 +121,15 @@ New  </td>
 
  __Amendments__ 
 
-    2010—Subsec. (a)(1)(B). [Pub. L. 111–281, § 913(d)(1)(A)][/us/pl/111/281/s913/d/1/A], inserted “or” after semicolon.
+    2010—Subsec. (a)(1)(B). [Pub. L. 111–281][/us/pl/111/281], § 913(d)(1)(A), inserted “or” after semicolon.
 
-    Subsec. (a)(1)(C). [Pub. L. 111–281, § 913(d)(1)(B)][/us/pl/111/281/s913/d/1/B], substituted “Secretary.” for “Secretary; or”.
+    Subsec. (a)(1)(C). [Pub. L. 111–281][/us/pl/111/281], § 913(d)(1)(B), substituted “Secretary.” for “Secretary; or”.
 
-    [Pub. L. 111–281, § 913(a)(1)][/us/pl/111/281/s913/a/1], struck out “of Transportation” after “Secretary”.
+    [Pub. L. 111–281][/us/pl/111/281], § 913(a)(1), struck out “of Transportation” after “Secretary”.
 
-    Subsec. (a)(1)(D). [Pub. L. 111–281, § 913(d)(1)(C)][/us/pl/111/281/s913/d/1/C], struck out subpar. (D) which read as follows: “with intent to defraud, does not comply with [section 31321(h) of this title][/us/usc/t46/s31321/h].”
+    Subsec. (a)(1)(D). [Pub. L. 111–281][/us/pl/111/281], § 913(d)(1)(C), struck out subpar. (D) which read as follows: “with intent to defraud, does not comply with [section 31321(h) of this title][/us/usc/t46/s31321/h].”
 
-    Subsec. (a)(2)(B) to (D). [Pub. L. 111–281, § 913(d)(2)][/us/pl/111/281/s913/d/2], inserted “or” at end of subpar. (B), substituted “faith.” for “faith; or” at end of subpar. (C), and struck out subpar. (D) which read as follows: “does not comply with [section 31321(h) of this title][/us/usc/t46/s31321/h].”
+    Subsec. (a)(2)(B) to (D). [Pub. L. 111–281][/us/pl/111/281], § 913(d)(2), inserted “or” at end of subpar. (B), substituted “faith.” for “faith; or” at end of subpar. (C), and struck out subpar. (D) which read as follows: “does not comply with [section 31321(h) of this title][/us/usc/t46/s31321/h].”
 
     1996—Subsec. (b). [Pub. L. 104–324][/us/pl/104/324] struck out “31328 or” before “31329” in pars. (1) to (3).
 
@@ -147,18 +147,18 @@ New  </td>
 [/us/usc/t46/s31329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs31329
 [/us/usc/t46/s31329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs31329
 [/us/usc/t46/s31329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs31329
-[/us/pl/100/710/s102/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F710%2Fs102%2Fc
+[/us/pl/100/710/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F710%2FtI
 [/us/stat/102/4747]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4747
-[/us/pl/104/324/s1113/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2Fs1113%2Fb%2F2
+[/us/pl/104/324/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2FtXI
 [/us/stat/110/3970]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3970
-[/us/pl/111/281/s913/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs913%2Fa%2F1
+[/us/pl/111/281/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2FtIX
 [/us/stat/124/3017]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3017
-[/us/pl/111/281/s913/d/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs913%2Fd%2F1%2FA
-[/us/pl/111/281/s913/d/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs913%2Fd%2F1%2FB
-[/us/pl/111/281/s913/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs913%2Fa%2F1
-[/us/pl/111/281/s913/d/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs913%2Fd%2F1%2FC
+[/us/pl/111/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281
+[/us/pl/111/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281
+[/us/pl/111/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281
+[/us/pl/111/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281
 [/us/usc/t46/s31321/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs31321%2Fh
-[/us/pl/111/281/s913/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs913%2Fd%2F2
+[/us/pl/111/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281
 [/us/usc/t46/s31321/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs31321%2Fh
 [/us/pl/104/324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324
 

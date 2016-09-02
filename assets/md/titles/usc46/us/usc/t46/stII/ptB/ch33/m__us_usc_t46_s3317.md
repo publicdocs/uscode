@@ -19,7 +19,7 @@
 
     (b) When an inspection or examination under this part of a documented vessel or a foreign vessel is conducted at a foreign port or place at the request of the owner or managing operator of the vessel, the owner or operator shall reimburse the Secretary for the travel and subsistence expenses incurred by the personnel assigned to perform the inspection or examination. Amounts received as reimbursement for these expenses shall be credited to the appropriation for operating expenses of the Coast Guard.
 
-([Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 517][/us/stat/97/517]; [Pub. L. 102–587, title V, § 5211][/us/pl/102/587/s5211], Nov. 4, 1992, [106 Stat. 5076][/us/stat/106/5076].)
+([Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 517][/us/stat/97/517]; [Pub. L. 102–587, title V][/us/pl/102/587/tV], § 5211, Nov. 4, 1992, [106 Stat. 5076][/us/stat/106/5076].)
 
 <table>
 
@@ -78,7 +78,7 @@ Source section (U.S. Code)  </td>
 
 [/us/pl/98/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F89
 [/us/stat/97/517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F517
-[/us/pl/102/587/s5211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F587%2Fs5211
+[/us/pl/102/587/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F587%2FtV
 [/us/stat/106/5076]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F5076
 [/us/pl/102/587]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F587
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542

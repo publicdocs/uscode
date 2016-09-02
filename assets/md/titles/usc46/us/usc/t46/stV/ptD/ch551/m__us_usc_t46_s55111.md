@@ -43,7 +43,7 @@
 
         In addition to the penalties under paragraph (1), the towing vessel is liable for a penalty of $60 per ton based on the tonnage of each towed vessel.
 
-([Pub. L. 109–304, § 8(c)][/us/pl/109/304/s8/c], Oct. 6, 2006, [120 Stat. 1637][/us/stat/120/1637].)
+([Pub. L. 109–304][/us/pl/109/304], § 8(c), Oct. 6, 2006, [120 Stat. 1637][/us/stat/120/1637].)
 
 <table>
 
@@ -114,7 +114,7 @@ R.S. § 4370; June 11, 1940, ch. 324, 54 Stat. 304; Pub. L. 99–307, § 10,
 ----------
 ----------
 
-[/us/pl/109/304/s8/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs8%2Fc
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1637]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1637
 [/us/usc/t46/s12106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs12106
 [/us/usc/t28/s2461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2461

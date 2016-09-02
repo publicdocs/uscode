@@ -37,7 +37,7 @@
 
     (c) The Secretary shall, by regulation, require certain additional equipment which may include liferafts or other lifesaving equipment, construction standards, or specify additional operating standards for those uninspected passenger vessels defined in [section 2101(42)(A) of this title][/us/usc/t46/s2101/42/A].
 
-([Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 529][/us/stat/97/529]; [Pub. L. 103–206, title V, § 511(b)][/us/pl/103/206/s511/b], Dec. 20, 1993, [107 Stat. 2442][/us/stat/107/2442]; [Pub. L. 113–281, title III, § 319][/us/pl/113/281/s319], Dec. 18, 2014, [128 Stat. 3051][/us/stat/128/3051].)
+([Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 529][/us/stat/97/529]; [Pub. L. 103–206, title V][/us/pl/103/206/tV], § 511(b), Dec. 20, 1993, [107 Stat. 2442][/us/stat/107/2442]; [Pub. L. 113–281, title III][/us/pl/113/281/tIII], § 319, Dec. 18, 2014, [128 Stat. 3051][/us/stat/128/3051].)
 
 <table>
 
@@ -95,9 +95,9 @@ Source section (U.S. Code)  </td>
 [/us/usc/t46/s2101/42/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs2101%2F42%2FA
 [/us/pl/98/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F89
 [/us/stat/97/529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F529
-[/us/pl/103/206/s511/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F206%2Fs511%2Fb
+[/us/pl/103/206/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F206%2FtV
 [/us/stat/107/2442]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2442
-[/us/pl/113/281/s319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281%2Fs319
+[/us/pl/113/281/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281%2FtIII
 [/us/stat/128/3051]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3051
 [/us/pl/113/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281
 [/us/pl/103/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F206

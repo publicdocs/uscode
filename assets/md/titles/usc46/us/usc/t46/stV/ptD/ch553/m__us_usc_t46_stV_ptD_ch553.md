@@ -195,7 +195,7 @@ SUBCHAPTER III—AMERICAN GREAT LAKES VESSELS  </td>
 
  __Amendments__ 
 
-    2013—[Pub. L. 113–67, div. A, title VI, § 602(b)][/us/pl/113/67/s602/b], Dec. 26, 2013, [127 Stat. 1188][/us/stat/127/1188], struck out items 55316 “Financing the transportation of agricultural commodities” and 55317 “Termination of subchapter”.
+    2013—[Pub. L. 113–67, div. A, title VI][/us/pl/113/67/dA/tVI], § 602(b), Dec. 26, 2013, [127 Stat. 1188][/us/stat/127/1188], struck out items 55316 “Financing the transportation of agricultural commodities” and 55317 “Termination of subchapter”.
 
 ----------
 
@@ -204,7 +204,7 @@ SUBCHAPTER III—AMERICAN GREAT LAKES VESSELS  </td>
 ----------
 ----------
 
-[/us/pl/113/67/s602/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs602%2Fb
+[/us/pl/113/67/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2FdA%2FtVI
 [/us/stat/127/1188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1188
 
 

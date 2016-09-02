@@ -17,7 +17,7 @@
 
     In time of war, a hospital vessel is exempt from tonnage taxes, light money, and pilotage charges in the ports of the United States if the vessel is one for which the conditions of the international convention for the exemption of hospital ships from taxation in time of war, concluded at The Hague on December 21, 1904, are satisfied. The President by proclamation shall name the vessels for which the conditions are satisfied and state when the exemption begins and ends.
 
-([Pub. L. 109–304, § 9(b)][/us/pl/109/304/s9/b], Oct. 6, 2006, [120 Stat. 1679][/us/stat/120/1679].)
+([Pub. L. 109–304][/us/pl/109/304], § 9(b), Oct. 6, 2006, [120 Stat. 1679][/us/stat/120/1679].)
 
 <table>
 
@@ -88,7 +88,7 @@ Mar. 24, 1908, ch. 96, 35 Stat. 46.  </td>
 ----------
 ----------
 
-[/us/pl/109/304/s9/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs9%2Fb
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1679]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1679
 
 

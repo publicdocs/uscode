@@ -75,7 +75,7 @@
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft46%2Fs3507" data-uslm-ref="/us/usc/t46/s3507">3507.</a>  </td>
 
-    <td> Passenger vessel security and safety requirements  <sup>[1]</sup>  <sup><sup> 1 So in original. Probably should be followed by a period. </sup></sup>   </td>
+    <td> Passenger vessel security and safety requirements.  </td>
 
   </tr>
 
@@ -83,7 +83,7 @@
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft46%2Fs3508" data-uslm-ref="/us/usc/t46/s3508">3508.</a>  </td>
 
-    <td> Crime scene preservation training for passenger vessel crewmembers  <sup>[1]</sup>   </td>
+    <td> Crime scene preservation training for passenger vessel crewmembers.  </td>
 
   </tr>
 
@@ -95,7 +95,9 @@
 
  __Amendments__ 
 
-    2010—[Pub. L. 111–207, § 3(b)][/us/pl/111/207/s3/b], July 27, 2010, [124 Stat. 2251][/us/stat/124/2251], added items 3507 and 3508.
+    2016—[Pub. L. 114–120, title III][/us/pl/114/120/tIII], § 306(a)(3), Feb. 8, 2016, [130 Stat. 54][/us/stat/130/54], inserted a period at end of items 3507 and 3508.
+
+    2010—[Pub. L. 111–207][/us/pl/111/207], § 3(b), July 27, 2010, [124 Stat. 2251][/us/stat/124/2251], added items 3507 and 3508.
 
 ----------
 
@@ -104,7 +106,9 @@
 ----------
 ----------
 
-[/us/pl/111/207/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F207%2Fs3%2Fb
+[/us/pl/114/120/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F120%2FtIII
+[/us/stat/130/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F54
+[/us/pl/111/207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F207
 [/us/stat/124/2251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2251
 
 

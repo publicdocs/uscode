@@ -95,17 +95,17 @@
 
  __Amendments__ 
 
-    2014—[Pub. L. 113–281, title III, § 310(b)][/us/pl/113/281/s310/b], Dec. 18, 2014, [128 Stat. 3047][/us/stat/128/3047], added item 8108.
+    2014—[Pub. L. 113–281, title III][/us/pl/113/281/tIII], § 310(b), Dec. 18, 2014, [128 Stat. 3047][/us/stat/128/3047], added item 8108.
 
-    2010—[Pub. L. 111–281, title IX][/us/pl/111/281], §§ 903(c)(1), 912(b), Oct. 15, 2010, [124 Stat. 3011][/us/stat/124/3011], 3017, inserted period at end of item 8106 and added item 8107.
+    2010—[Pub. L. 111–281, title IX][/us/pl/111/281/tIX], §§ 903(c)(1), 912(b), Oct. 15, 2010, [124 Stat. 3011][/us/stat/124/3011], 3017, inserted period at end of item 8106 and added item 8107.
 
-    2006—[Pub. L. 109–241, title III, § 312(d)][/us/pl/109/241/s312/d], July 11, 2006, [120 Stat. 534][/us/stat/120/534], added item 8106.
+    2006—[Pub. L. 109–241, title III][/us/pl/109/241/tIII], § 312(d), July 11, 2006, [120 Stat. 534][/us/stat/120/534], added item 8106.
 
-    [Pub. L. 109–163, div. A, title V, § 515(f)(3)(C)][/us/pl/109/163/s515/f/3/C], Jan. 6, 2006, [119 Stat. 3236][/us/stat/119/3236], substituted “Citizenship and Navy Reserve requirements” for “Citizenship and Naval Reserve requirements” in item 8103.
+    [Pub. L. 109–163, div. A, title V][/us/pl/109/163/dA/tV], § 515(f)(3)(C), Jan. 6, 2006, [119 Stat. 3236][/us/stat/119/3236], substituted “Citizenship and Navy Reserve requirements” for “Citizenship and Naval Reserve requirements” in item 8103.
 
-    1996—[Pub. L. 104–324, title XI, § 1146(b)][/us/pl/104/324/s1146/b], Oct. 19, 1996, [110 Stat. 3993][/us/stat/110/3993], added item 8105.
+    1996—[Pub. L. 104–324, title XI][/us/pl/104/324/tXI], § 1146(b), Oct. 19, 1996, [110 Stat. 3993][/us/stat/110/3993], added item 8105.
 
-    1990—[Pub. L. 101–595, title VI, § 603(7)(B)][/us/pl/101/595/s603/7/B], Nov. 16, 1990, [104 Stat. 2993][/us/stat/104/2993], struck out item 8105 “Regulations”.
+    1990—[Pub. L. 101–595, title VI][/us/pl/101/595/tVI], § 603(7)(B), Nov. 16, 1990, [104 Stat. 2993][/us/stat/104/2993], struck out item 8105 “Regulations”.
 
 ----------
 
@@ -114,17 +114,17 @@
 ----------
 ----------
 
-[/us/pl/113/281/s310/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281%2Fs310%2Fb
+[/us/pl/113/281/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281%2FtIII
 [/us/stat/128/3047]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3047
-[/us/pl/111/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281
+[/us/pl/111/281/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2FtIX
 [/us/stat/124/3011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3011
-[/us/pl/109/241/s312/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241%2Fs312%2Fd
+[/us/pl/109/241/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241%2FtIII
 [/us/stat/120/534]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F534
-[/us/pl/109/163/s515/f/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs515%2Ff%2F3%2FC
+[/us/pl/109/163/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtV
 [/us/stat/119/3236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3236
-[/us/pl/104/324/s1146/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2Fs1146%2Fb
+[/us/pl/104/324/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2FtXI
 [/us/stat/110/3993]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3993
-[/us/pl/101/595/s603/7/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F595%2Fs603%2F7%2FB
+[/us/pl/101/595/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F595%2FtVI
 [/us/stat/104/2993]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2993
 
 

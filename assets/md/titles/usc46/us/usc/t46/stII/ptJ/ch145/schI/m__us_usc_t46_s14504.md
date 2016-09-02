@@ -29,7 +29,7 @@
 
     (b) Except as provided in this section and chapter 143 of this title, a vessel that has been measured does not have to be remeasured to obtain another document or endorsement under chapter 121 of this title.
 
-([Pub. L. 99–509, title V, § 5101(3)][/us/pl/99/509/s5101/3], Oct. 21, 1986, [100 Stat. 1923][/us/stat/100/1923].)
+([Pub. L. 99–509, title V][/us/pl/99/509/tV], § 5101(3), Oct. 21, 1986, [100 Stat. 1923][/us/stat/100/1923].)
 
  __Historical and Revision Notes__ 
 
@@ -46,7 +46,7 @@
 ----------
 ----------
 
-[/us/pl/99/509/s5101/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2Fs5101%2F3
+[/us/pl/99/509/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2FtV
 [/us/stat/100/1923]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1923
 
 

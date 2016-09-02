@@ -43,7 +43,7 @@
 
     The Secretary shall account for payments and disbursements involving direct loans made under this chapter in a separate account in the Treasury established for this purpose.
 
-([Pub. L. 109–304, § 8(c)][/us/pl/109/304/s8/c], Oct. 6, 2006, [120 Stat. 1616][/us/stat/120/1616]; [Pub. L. 109–163, div. C, title XXXV, § 3507(a)(1)(B)][/us/pl/109/163/s3507/a/1/B], (D), (c)(2), Jan. 6, 2006, [119 Stat. 3555][/us/stat/119/3555], 3556; [Pub. L. 110–181, div. C, title XXXV, § 3522(a)(7)][/us/pl/110/181/s3522/a/7], (9)(B), (b), Jan. 28, 2008, [122 Stat. 598][/us/stat/122/598].)
+([Pub. L. 109–304][/us/pl/109/304], § 8(c), Oct. 6, 2006, [120 Stat. 1616][/us/stat/120/1616]; [Pub. L. 109–163, div. C, title XXXV][/us/pl/109/163/dC/tXXXV], § 3507(a)(1)(B), (D), (c)(2), Jan. 6, 2006, [119 Stat. 3555][/us/stat/119/3555], 3556; [Pub. L. 110–181, div. C, title XXXV][/us/pl/110/181/dC/tXXXV], § 3522(a)(7), (9)(B), (b), Jan. 28, 2008, [122 Stat. 598][/us/stat/122/598].)
 
 <table>
 
@@ -127,17 +127,17 @@ Pub. L. 85–469, title I, § 101 (par. under heading “Federal Ship Mortgage
 
  __References in Text__ 
 
-    The Federal Credit Reform Act of 1990, referred to in subsec. (a), is title V of [Pub. L. 93–344][/us/pl/93/344], as added by [Pub. L. 101–508, title XIII, § 13201(a)][/us/pl/101/508/s13201/a], Nov. 5, 1990, [104 Stat. 1388–609][/us/stat/104/1388-609], which is classified generally to subchapter III (§ 661 et seq.) of chapter 17A of Title 2, The Congress. For complete classification of this Act to the Code, see Short Title note set out under [section 621 of Title 2][/us/usc/t2/s621] and Tables.
+    The Federal Credit Reform Act of 1990, referred to in subsec. (a), is title V of [Pub. L. 93–344][/us/pl/93/344], as added by [Pub. L. 101–508, title XIII][/us/pl/101/508/tXIII], § 13201(a), Nov. 5, 1990, [104 Stat. 1388–609][/us/stat/104/1388-609], which is classified generally to subchapter III (§ 661 et seq.) of chapter 17A of Title 2, The Congress. For complete classification of this Act to the Code, see Short Title note set out under [section 621 of Title 2][/us/usc/t2/s621] and Tables.
 
  __Amendments__ 
 
-    2008—[Pub. L. 110–181, § 3522(b)][/us/pl/110/181/s3522/b], repealed [Pub. L. 109–163, § 3507(a)(1)(B)][/us/pl/109/163/s3507/a/1/B], (D), (c)(2). See 2006 Amendment note below.
+    2008—[Pub. L. 110–181][/us/pl/110/181], § 3522(b), repealed [Pub. L. 109–163][/us/pl/109/163], § 3507(a)(1)(B), (D), (c)(2). See 2006 Amendment note below.
 
-    Subsec. (b). [Pub. L. 110–181, § 3522(a)(9)(B)][/us/pl/110/181/s3522/a/9/B], incorporated the substance of the amendment by [Pub. L. 109–163, § 3507(a)(1)(B)][/us/pl/109/163/s3507/a/1/B], (D), (c)(2), into this section by substituting “Administrator” for “Secretary of Transportation” wherever appearing in heading and text. See 2006 Amendment note below and [section 18(a) of Pub. L. 109–304][/us/pl/109/304/s18/a], set out as a Legislative Purpose and Construction note preceding [section 101 of this title][/us/usc/t46/s101].
+    Subsec. (b). [Pub. L. 110–181][/us/pl/110/181], § 3522(a)(9)(B), incorporated the substance of the amendment by [Pub. L. 109–163][/us/pl/109/163], § 3507(a)(1)(B), (D), (c)(2), into this section by substituting “Administrator” for “Secretary of Transportation” wherever appearing in heading and text. See 2006 Amendment note below and [section 18(a) of Pub. L. 109–304][/us/pl/109/304/s18/a], set out as a Legislative Purpose and Construction note preceding [section 101 of this title][/us/usc/t46/s101].
 
-    Subsecs. (c), (d). [Pub. L. 110–181, § 3522(a)(7)][/us/pl/110/181/s3522/a/7], struck out “of Commerce” after “Secretary” wherever appearing in headings and text.
+    Subsecs. (c), (d). [Pub. L. 110–181][/us/pl/110/181], § 3522(a)(7), struck out “of Commerce” after “Secretary” wherever appearing in headings and text.
 
-    2006—[Pub. L. 109–163, § 3507(a)(1)(B)][/us/pl/109/163/s3507/a/1/B], (D), (c)(2), which directed the amendment of sections 1272, 1274(g), and 1280 of the former Appendix to this title from which this section was derived, was repealed by [Pub. L. 110–181, § 3522(b)][/us/pl/110/181/s3522/b]. See 2008 Amendment note for subsec. (b) and Historical and Revision notes above.
+    2006—[Pub. L. 109–163][/us/pl/109/163], § 3507(a)(1)(B), (D), (c)(2), which directed the amendment of sections 1272, 1274(g), and 1280 of the former Appendix to this title from which this section was derived, was repealed by [Pub. L. 110–181][/us/pl/110/181], § 3522(b). See 2008 Amendment note for subsec. (b) and Historical and Revision notes above.
 
 ----------
 
@@ -147,25 +147,25 @@ Pub. L. 85–469, title I, § 101 (par. under heading “Federal Ship Mortgage
 ----------
 
 [/us/usc/t2/s661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs661
-[/us/pl/109/304/s8/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs8%2Fc
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1616
-[/us/pl/109/163/s3507/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs3507%2Fa%2F1%2FB
+[/us/pl/109/163/dC/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdC%2FtXXXV
 [/us/stat/119/3555]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3555
-[/us/pl/110/181/s3522/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs3522%2Fa%2F7
+[/us/pl/110/181/dC/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdC%2FtXXXV
 [/us/stat/122/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F598
 [/us/usc/t2/s661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs661
 [/us/pl/93/344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F344
-[/us/pl/101/508/s13201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs13201%2Fa
+[/us/pl/101/508/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtXIII
 [/us/stat/104/1388-609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-609
 [/us/usc/t2/s621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs621
-[/us/pl/110/181/s3522/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs3522%2Fb
-[/us/pl/109/163/s3507/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs3507%2Fa%2F1%2FB
-[/us/pl/110/181/s3522/a/9/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs3522%2Fa%2F9%2FB
-[/us/pl/109/163/s3507/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs3507%2Fa%2F1%2FB
+[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
+[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
 [/us/pl/109/304/s18/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs18%2Fa
 [/us/usc/t46/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs101
-[/us/pl/110/181/s3522/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs3522%2Fa%2F7
-[/us/pl/109/163/s3507/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs3507%2Fa%2F1%2FB
-[/us/pl/110/181/s3522/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs3522%2Fb
+[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
+[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
 
 

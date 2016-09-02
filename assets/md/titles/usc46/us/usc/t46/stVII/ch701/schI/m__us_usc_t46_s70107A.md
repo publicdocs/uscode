@@ -75,7 +75,7 @@
 
     There are authorized to be appropriated $60,000,000 for each of the fiscal years 2007 through 2012 to carry out this section.
 
-(Added [Pub. L. 109–347, title I, § 108(a)][/us/pl/109/347/s108/a], Oct. 13, 2006, [120 Stat. 1892][/us/stat/120/1892]; amended [Pub. L. 111–281, title VIII][/us/pl/111/281], §§ 803, 824, Oct. 15, 2010, [124 Stat. 2990][/us/stat/124/2990], 3003.)
+(Added [Pub. L. 109–347, title I][/us/pl/109/347/tI], § 108(a), Oct. 13, 2006, [120 Stat. 1892][/us/stat/120/1892]; amended [Pub. L. 111–281, title VIII][/us/pl/111/281/tVIII], §§ 803, 824, Oct. 15, 2010, [124 Stat. 2990][/us/stat/124/2990], 3003.)
 
  __References in Text__ 
 
@@ -87,9 +87,9 @@
 
  __Amendments__ 
 
-    2010—Subsec. (b)(1). [Pub. L. 111–281, § 803(3)][/us/pl/111/281/s803/3], added par. (1). Former par. (1) redesignated (2).
+    2010—Subsec. (b)(1). [Pub. L. 111–281][/us/pl/111/281], § 803(3), added par. (1). Former par. (1) redesignated (2).
 
-    Subsec. (b)(2). [Pub. L. 111–281, § 803(2)][/us/pl/111/281/s803/2], (4), redesignated former par. (1) as (2), substituted “existing centers;” for “existing centers, including—” and struck out subpars. (A) and (B) which read as follows:
+    Subsec. (b)(2). [Pub. L. 111–281][/us/pl/111/281], § 803(2), (4), redesignated former par. (1) as (2), substituted “existing centers;” for “existing centers, including—” and struck out subpars. (A) and (B) which read as follows:
 
     “(A) the pilot project interagency operational centers for port security in Miami, Florida; Norfolk/Hampton Roads, Virginia; Charleston, South Carolina; and San Diego, California; and
 
@@ -97,13 +97,13 @@
 
     Former par. (2) redesignated (3).
 
-    Subsec. (b)(3). [Pub. L. 111–281, § 803(1)][/us/pl/111/281/s803/1], (2), (5), redesignated former par. (2) as (3), inserted “and” at end, and struck out former par. (3) which read as follows: “in addition to the Coast Guard, provide, as the Secretary determines appropriate, for participation by representatives of the United States Customs and Border Protection, the United States Immigration and Customs Enforcement, the Transportation Security Administration, the Department of Justice, the Department of Defense, and other Federal agencies, State and local law enforcement or port security personnel, members of the Area Maritime Security Committee, and other public and private sector stakeholders adversely affected by a transportation security incident or transportation disruption; and”.
+    Subsec. (b)(3). [Pub. L. 111–281][/us/pl/111/281], § 803(1), (2), (5), redesignated former par. (2) as (3), inserted “and” at end, and struck out former par. (3) which read as follows: “in addition to the Coast Guard, provide, as the Secretary determines appropriate, for participation by representatives of the United States Customs and Border Protection, the United States Immigration and Customs Enforcement, the Transportation Security Administration, the Department of Justice, the Department of Defense, and other Federal agencies, State and local law enforcement or port security personnel, members of the Area Maritime Security Committee, and other public and private sector stakeholders adversely affected by a transportation security incident or transportation disruption; and”.
 
-    Subsecs. (e) to (g). [Pub. L. 111–281, § 824][/us/pl/111/281/s824], added subsec. (e) and redesignated former subsecs. (e) and (f) as (f) and (g), respectively.
+    Subsecs. (e) to (g). [Pub. L. 111–281][/us/pl/111/281], § 824, added subsec. (e) and redesignated former subsecs. (e) and (f) as (f) and (g), respectively.
 
  __Report Requirement__ 
 
-[Pub. L. 109–347, title I, § 108(b)][/us/pl/109/347/s108/b], Oct. 13, 2006, [120 Stat. 1893][/us/stat/120/1893], provided that: 
+[Pub. L. 109–347, title I][/us/pl/109/347/tI], § 108(b), Oct. 13, 2006, [120 Stat. 1893][/us/stat/120/1893], provided that: 
 
 > “Nothing in this section \[enacting this section\] or the amendments made by this section relieves the Commandant of the Coast Guard from complying with the requirements of section 807 of the Coast Guard and Maritime Transportation Act of 2004 ([Public Law 108–293][/us/pl/108/293]; [118 Stat. 1082][/us/stat/118/1082]). The Commandant shall utilize the information developed in making the report required by that section in carrying out the requirements of this section.”
 
@@ -116,20 +116,20 @@
 
 [/us/usc/t6/s485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs485
 [/us/usc/t6/s481]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs481
-[/us/pl/109/347/s108/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347%2Fs108%2Fa
+[/us/pl/109/347/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347%2FtI
 [/us/stat/120/1892]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1892
-[/us/pl/111/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281
+[/us/pl/111/281/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2FtVIII
 [/us/stat/124/2990]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2990
 [/us/pl/109/347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/stat/116/2252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2252
 [/us/usc/t6/s481]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs481
 [/us/usc/t6/s941/b/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs941%2Fb%2F10
-[/us/pl/111/281/s803/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs803%2F3
-[/us/pl/111/281/s803/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs803%2F2
-[/us/pl/111/281/s803/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs803%2F1
-[/us/pl/111/281/s824]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs824
-[/us/pl/109/347/s108/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347%2Fs108%2Fb
+[/us/pl/111/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281
+[/us/pl/111/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281
+[/us/pl/111/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281
+[/us/pl/111/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281
+[/us/pl/109/347/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347%2FtI
 [/us/stat/120/1893]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1893
 [/us/pl/108/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293
 [/us/stat/118/1082]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1082

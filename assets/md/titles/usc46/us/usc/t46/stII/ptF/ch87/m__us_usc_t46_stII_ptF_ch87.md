@@ -63,7 +63,7 @@
 
  __Amendments__ 
 
-    1988—[Pub. L. 100–239, § 5(f)(2)][/us/pl/100/239/s5/f/2], Jan. 11, 1988, [101 Stat. 1781][/us/stat/101/1781], added item 8704.
+    1988—[Pub. L. 100–239][/us/pl/100/239], § 5(f)(2), Jan. 11, 1988, [101 Stat. 1781][/us/stat/101/1781], added item 8704.
 
 ----------
 
@@ -72,7 +72,7 @@
 ----------
 ----------
 
-[/us/pl/100/239/s5/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F239%2Fs5%2Ff%2F2
+[/us/pl/100/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F239
 [/us/stat/101/1781]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1781
 
 

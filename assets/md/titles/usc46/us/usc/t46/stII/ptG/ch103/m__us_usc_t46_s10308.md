@@ -17,7 +17,7 @@
 
     When a seaman is engaged outside the United States, the agreement required by [section 10302 of this title][/us/usc/t46/s10302] shall be signed in the presence of a consular officer. If a consular officer is not available at the port of engagement, the seaman may be engaged, and the agreement shall be signed in the next port at which a consular officer is available.
 
-([Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 564][/us/stat/97/564]; [Pub. L. 103–206, title IV, § 406][/us/pl/103/206/s406], Dec. 20, 1993, [107 Stat. 2436][/us/stat/107/2436].)
+([Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 564][/us/stat/97/564]; [Pub. L. 103–206, title IV][/us/pl/103/206/tIV], § 406, Dec. 20, 1993, [107 Stat. 2436][/us/stat/107/2436].)
 
 <table>
 
@@ -71,7 +71,7 @@ Source section (U.S. Code)  </td>
 [/us/usc/t46/s10302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs10302
 [/us/pl/98/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F89
 [/us/stat/97/564]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F564
-[/us/pl/103/206/s406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F206%2Fs406
+[/us/pl/103/206/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F206%2FtIV
 [/us/stat/107/2436]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2436
 [/us/pl/103/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F206
 

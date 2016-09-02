@@ -19,7 +19,7 @@
 
     (1) “existing”, when referring to a type of vessel to which this chapter applies, means a vessel that is not a new vessel.
 
-    \[(2) Repealed. [Pub. L. 100–424, § 8(c)(2)][/us/pl/100/424/s8/c/2], Sept. 9, 1988, [102 Stat. 1593][/us/stat/102/1593].\]
+    \[(2) Repealed. [Pub. L. 100–424][/us/pl/100/424], § 8(c)(2), Sept. 9, 1988, [102 Stat. 1593][/us/stat/102/1593].\]
 
     (3)
 
@@ -35,7 +35,7 @@
 
     (4) “person” means an individual (even if not a citizen or national of the United States), a corporation, partnership, association, or other entity (even if not organized or existing under the laws of a State), the United States Government, a State or local government, a government of a foreign country, or an entity of one of those governments.
 
-([Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 521][/us/stat/97/521]; [Pub. L. 99–509, title V, § 5102(b)(5)][/us/pl/99/509/s5102/b/5], Oct. 21, 1986, [100 Stat. 1927][/us/stat/100/1927]; [Pub. L. 100–424, § 8(c)(2)][/us/pl/100/424/s8/c/2], Sept. 9, 1988, [102 Stat. 1593][/us/stat/102/1593].)
+([Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 521][/us/stat/97/521]; [Pub. L. 99–509, title V][/us/pl/99/509/tV], § 5102(b)(5), Oct. 21, 1986, [100 Stat. 1927][/us/stat/100/1927]; [Pub. L. 100–424][/us/pl/100/424], § 8(c)(2), Sept. 9, 1988, [102 Stat. 1593][/us/stat/102/1593].)
 
 <table>
 
@@ -152,13 +152,13 @@ Source section (U.S. Code)  </td>
 ----------
 ----------
 
-[/us/pl/100/424/s8/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F424%2Fs8%2Fc%2F2
+[/us/pl/100/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F424
 [/us/stat/102/1593]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1593
 [/us/pl/98/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F89
 [/us/stat/97/521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F521
-[/us/pl/99/509/s5102/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2Fs5102%2Fb%2F5
+[/us/pl/99/509/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2FtV
 [/us/stat/100/1927]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1927
-[/us/pl/100/424/s8/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F424%2Fs8%2Fc%2F2
+[/us/pl/100/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F424
 [/us/stat/102/1593]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1593
 [/us/pl/100/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F424
 [/us/pl/99/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509

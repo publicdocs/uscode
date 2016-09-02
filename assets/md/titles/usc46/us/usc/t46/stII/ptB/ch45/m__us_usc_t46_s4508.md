@@ -105,7 +105,7 @@
 
         (2) Two years prior to the termination date referred to in paragraph (1) of this subsection, the Committee shall submit to Congress its recommendation regarding whether the Committee should be renewed and continued beyond the termination date.
 
-(Added [Pub. L. 100–424, § 2(a)][/us/pl/100/424/s2/a], Sept. 9, 1988, [102 Stat. 1588][/us/stat/102/1588]; amended [Pub. L. 101–225, title I, § 106][/us/pl/101/225/s106], Dec. 12, 1989, [103 Stat. 1910][/us/stat/103/1910]; [Pub. L. 102–241, § 25][/us/pl/102/241/s25], Dec. 19, 1991, [105 Stat. 2217][/us/stat/105/2217]; [Pub. L. 104–324, title III, § 304(b)][/us/pl/104/324/s304/b], Oct. 19, 1996, [110 Stat. 3917][/us/stat/110/3917]; [Pub. L. 107–295, title III, § 331(a)][/us/pl/107/295/s331/a], Nov. 25, 2002, [116 Stat. 2105][/us/stat/116/2105]; [Pub. L. 108–293, title IV, § 418(a)][/us/pl/108/293/s418/a], Aug. 9, 2004, [118 Stat. 1049][/us/stat/118/1049]; [Pub. L. 109–241, title IX, § 901(g)][/us/pl/109/241/s901/g], July 11, 2006, [120 Stat. 564][/us/stat/120/564]; [Pub. L. 111–281, title VI, § 604(c)(1)][/us/pl/111/281/s604/c/1]–(3), Oct. 15, 2010, [124 Stat. 2964][/us/stat/124/2964], 2965.)
+(Added [Pub. L. 100–424][/us/pl/100/424], § 2(a), Sept. 9, 1988, [102 Stat. 1588][/us/stat/102/1588]; amended [Pub. L. 101–225, title I][/us/pl/101/225/tI], § 106, Dec. 12, 1989, [103 Stat. 1910][/us/stat/103/1910]; [Pub. L. 102–241][/us/pl/102/241], § 25, Dec. 19, 1991, [105 Stat. 2217][/us/stat/105/2217]; [Pub. L. 104–324, title III][/us/pl/104/324/tIII], § 304(b), Oct. 19, 1996, [110 Stat. 3917][/us/stat/110/3917]; [Pub. L. 107–295, title III][/us/pl/107/295/tIII], § 331(a), Nov. 25, 2002, [116 Stat. 2105][/us/stat/116/2105]; [Pub. L. 108–293, title IV][/us/pl/108/293/tIV], § 418(a), Aug. 9, 2004, [118 Stat. 1049][/us/stat/118/1049]; [Pub. L. 109–241, title IX][/us/pl/109/241/tIX], § 901(g), July 11, 2006, [120 Stat. 564][/us/stat/120/564]; [Pub. L. 111–281, title VI][/us/pl/111/281/tVI], § 604(c)(1)–(3), Oct. 15, 2010, [124 Stat. 2964][/us/stat/124/2964], 2965.)
 
  __References in Text__ 
 
@@ -113,37 +113,37 @@
 
  __Amendments__ 
 
-    2010—[Pub. L. 111–281, § 604(c)(1)(A)][/us/pl/111/281/s604/c/1/A], substituted “Commercial Fishing Safety Advisory Committee” for “Commercial Fishing Industry Vessel Safety Advisory Committee” in section catchline.
+    2010—[Pub. L. 111–281][/us/pl/111/281], § 604(c)(1)(A), substituted “Commercial Fishing Safety Advisory Committee” for “Commercial Fishing Industry Vessel Safety Advisory Committee” in section catchline.
 
-    Subsec. (a). [Pub. L. 111–281, § 604(c)(1)(B)][/us/pl/111/281/s604/c/1/B], struck out “Industry Vessel” after “Commercial Fishing” in introductory provisions.
+    Subsec. (a). [Pub. L. 111–281][/us/pl/111/281], § 604(c)(1)(B), struck out “Industry Vessel” after “Commercial Fishing” in introductory provisions.
 
-    Subsec. (b)(1). [Pub. L. 111–281, § 604(c)(2)(A)][/us/pl/111/281/s604/c/2/A], substituted “eighteen” for “seventeen” in introductory provisions.
+    Subsec. (b)(1). [Pub. L. 111–281][/us/pl/111/281], § 604(c)(2)(A), substituted “eighteen” for “seventeen” in introductory provisions.
 
-    Subsec. (b)(1)(A). [Pub. L. 111–281, § 604(c)(2)(B)(i)][/us/pl/111/281/s604/c/2/B/i], substituted “who shall represent the commercial fishing industry and who—” for “from the commercial fishing industry who—” in introductory provisions.
+    Subsec. (b)(1)(A). [Pub. L. 111–281][/us/pl/111/281], § 604(c)(2)(B)(i), substituted “who shall represent the commercial fishing industry and who—” for “from the commercial fishing industry who—” in introductory provisions.
 
-    Subsec. (b)(1)(A)(ii). [Pub. L. 111–281, § 604(c)(2)(B)(ii)][/us/pl/111/281/s604/c/2/B/ii], substituted “a fish processing” for “an uninspected fish processing”.
+    Subsec. (b)(1)(A)(ii). [Pub. L. 111–281][/us/pl/111/281], § 604(c)(2)(B)(ii), substituted “a fish processing” for “an uninspected fish processing”.
 
-    Subsec. (b)(1)(B). [Pub. L. 111–281, § 604(c)(2)(C)][/us/pl/111/281/s604/c/2/C], added subpar. (B) and struck out former subpar. (B) which read as follows: “three members from the general public, including, whenever possible, an independent expert or consultant in maritime safety and a member of a national organization composed of persons representing owners of vessels to which this chapter applies and persons representing the marine insurance industry;”.
+    Subsec. (b)(1)(B). [Pub. L. 111–281][/us/pl/111/281], § 604(c)(2)(C), added subpar. (B) and struck out former subpar. (B) which read as follows: “three members from the general public, including, whenever possible, an independent expert or consultant in maritime safety and a member of a national organization composed of persons representing owners of vessels to which this chapter applies and persons representing the marine insurance industry;”.
 
-    Subsec. (b)(1)(C). [Pub. L. 111–281, § 604(c)(2)(D)(i)][/us/pl/111/281/s604/c/2/D/i], substituted “each of whom shall represent—” for “representing each of—” in introductory provisions.
+    Subsec. (b)(1)(C). [Pub. L. 111–281][/us/pl/111/281], § 604(c)(2)(D)(i), substituted “each of whom shall represent—” for “representing each of—” in introductory provisions.
 
-    Subsec. (b)(1)(C)(i). [Pub. L. 111–281, § 604(c)(2)(D)(ii)][/us/pl/111/281/s604/c/2/D/ii], substituted “and marine engineers;” for “or marine surveyors;”.
+    Subsec. (b)(1)(C)(i). [Pub. L. 111–281][/us/pl/111/281], § 604(c)(2)(D)(ii), substituted “and marine engineers;” for “or marine surveyors;”.
 
-    Subsec. (b)(1)(C)(v). [Pub. L. 111–281, § 604(c)(2)(D)(iii)][/us/pl/111/281/s604/c/2/D/iii]–(v), added cl. (v).
+    Subsec. (b)(1)(C)(v). [Pub. L. 111–281][/us/pl/111/281], § 604(c)(2)(D)(iii)–(v), added cl. (v).
 
-    Subsec. (e)(1). [Pub. L. 111–281, § 604(c)(3)][/us/pl/111/281/s604/c/3], substituted “September 30, 2020” for “September 30, 2010”.
+    Subsec. (e)(1). [Pub. L. 111–281][/us/pl/111/281], § 604(c)(3), substituted “September 30, 2020” for “September 30, 2010”.
 
-    2006—Subsec. (e)(1). [Pub. L. 109–241][/us/pl/109/241] amended directory language of [Pub. L. 108–293, § 418(a)][/us/pl/108/293/s418/a]. See 2004 Amendment note below.
+    2006—Subsec. (e)(1). [Pub. L. 109–241][/us/pl/109/241] amended directory language of [Pub. L. 108–293][/us/pl/108/293], § 418(a). See 2004 Amendment note below.
 
-    2004—Subsec. (e)(1). [Pub. L. 108–293, § 418(a)][/us/pl/108/293/s418/a], as amended by [Pub. L. 109–241][/us/pl/109/241], substituted “on September 30, 2010” for “on September 30, 2005”.
+    2004—Subsec. (e)(1). [Pub. L. 108–293][/us/pl/108/293], § 418(a), as amended by [Pub. L. 109–241][/us/pl/109/241], substituted “on September 30, 2010” for “on September 30, 2005”.
 
-    2002—[Pub. L. 107–295, § 331(a)(1)][/us/pl/107/295/s331/a/1], inserted “Safety” after “Vessel” in section catchline.
+    2002—[Pub. L. 107–295][/us/pl/107/295], § 331(a)(1), inserted “Safety” after “Vessel” in section catchline.
 
-    Subsec. (a). [Pub. L. 107–295, § 331(a)(2)][/us/pl/107/295/s331/a/2], inserted “Safety” after “Vessel” in introductory provisions.
+    Subsec. (a). [Pub. L. 107–295][/us/pl/107/295], § 331(a)(2), inserted “Safety” after “Vessel” in introductory provisions.
 
-    Subsec. (e)(1). [Pub. L. 107–295, § 331(a)(4)][/us/pl/107/295/s331/a/4], substituted “on September 30, 2005” for “on September 30, 2000”.
+    Subsec. (e)(1). [Pub. L. 107–295][/us/pl/107/295], § 331(a)(4), substituted “on September 30, 2005” for “on September 30, 2000”.
 
-    [Pub. L. 107–295, § 331(a)(3)][/us/pl/107/295/s331/a/3], which directed the substitution of “(5 App. U.S.C.)” for “(5 App. U.S.C. 1 et seq.)”, was executed by making substitution for “(5 U.S.C. App. 1 et seq.)”, to reflect the probable intent of Congress.
+    [Pub. L. 107–295][/us/pl/107/295], § 331(a)(3), which directed the substitution of “(5 App. U.S.C.)” for “(5 App. U.S.C. 1 et seq.)”, was executed by making substitution for “(5 U.S.C. App. 1 et seq.)”, to reflect the probable intent of Congress.
 
     1996—Subsec. (e)(1). [Pub. L. 104–324][/us/pl/104/324] substituted “2000” for “1994”.
 
@@ -153,7 +153,7 @@
 
  __Effective Date of 2006 Amendment__ 
 
-    [Pub. L. 109–241, title IX, § 901(g)][/us/pl/109/241/s901/g], July 11, 2006, [120 Stat. 564][/us/stat/120/564], provided that the amendment made by section 901(g) is effective Aug. 9, 2004.
+    [Pub. L. 109–241, title IX][/us/pl/109/241/tIX], § 901(g), July 11, 2006, [120 Stat. 564][/us/stat/120/564], provided that the amendment made by section 901(g) is effective Aug. 9, 2004.
 
  __References in Other Laws to GS–16, 17, or 18 Pay Rates__ 
 
@@ -161,7 +161,7 @@
 
  __Initial Appointments to Commercial Fishing Industry Advisory Committee__ 
 
-[Pub. L. 100–424, § 2(b)][/us/pl/100/424/s2/b], Sept. 9, 1988, [102 Stat. 1589][/us/stat/102/1589], provided that:
+[Pub. L. 100–424][/us/pl/100/424], § 2(b), Sept. 9, 1988, [102 Stat. 1589][/us/stat/102/1589], provided that:
 
 >     “(1)  __Terms of initial appointments__  __.—__ 
 
@@ -184,50 +184,50 @@
 
 [/us/usc/t5/s5332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5332
 [/us/usc/t5/s5703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5703
-[/us/pl/100/424/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F424%2Fs2%2Fa
+[/us/pl/100/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F424
 [/us/stat/102/1588]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1588
-[/us/pl/101/225/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F225%2Fs106
+[/us/pl/101/225/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F225%2FtI
 [/us/stat/103/1910]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1910
-[/us/pl/102/241/s25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F241%2Fs25
+[/us/pl/102/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F241
 [/us/stat/105/2217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F2217
-[/us/pl/104/324/s304/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2Fs304%2Fb
+[/us/pl/104/324/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2FtIII
 [/us/stat/110/3917]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3917
-[/us/pl/107/295/s331/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295%2Fs331%2Fa
+[/us/pl/107/295/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295%2FtIII
 [/us/stat/116/2105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2105
-[/us/pl/108/293/s418/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293%2Fs418%2Fa
+[/us/pl/108/293/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293%2FtIV
 [/us/stat/118/1049]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1049
-[/us/pl/109/241/s901/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241%2Fs901%2Fg
+[/us/pl/109/241/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241%2FtIX
 [/us/stat/120/564]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F564
-[/us/pl/111/281/s604/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs604%2Fc%2F1
+[/us/pl/111/281/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2FtVI
 [/us/stat/124/2964]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2964
 [/us/pl/92/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463
 [/us/stat/86/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F770
-[/us/pl/111/281/s604/c/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs604%2Fc%2F1%2FA
-[/us/pl/111/281/s604/c/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs604%2Fc%2F1%2FB
-[/us/pl/111/281/s604/c/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs604%2Fc%2F2%2FA
-[/us/pl/111/281/s604/c/2/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs604%2Fc%2F2%2FB%2Fi
-[/us/pl/111/281/s604/c/2/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs604%2Fc%2F2%2FB%2Fii
-[/us/pl/111/281/s604/c/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs604%2Fc%2F2%2FC
-[/us/pl/111/281/s604/c/2/D/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs604%2Fc%2F2%2FD%2Fi
-[/us/pl/111/281/s604/c/2/D/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs604%2Fc%2F2%2FD%2Fii
-[/us/pl/111/281/s604/c/2/D/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs604%2Fc%2F2%2FD%2Fiii
-[/us/pl/111/281/s604/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs604%2Fc%2F3
+[/us/pl/111/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281
+[/us/pl/111/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281
+[/us/pl/111/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281
+[/us/pl/111/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281
+[/us/pl/111/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281
+[/us/pl/111/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281
+[/us/pl/111/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281
+[/us/pl/111/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281
+[/us/pl/111/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281
+[/us/pl/111/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281
 [/us/pl/109/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241
-[/us/pl/108/293/s418/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293%2Fs418%2Fa
-[/us/pl/108/293/s418/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293%2Fs418%2Fa
+[/us/pl/108/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293
+[/us/pl/108/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293
 [/us/pl/109/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241
-[/us/pl/107/295/s331/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295%2Fs331%2Fa%2F1
-[/us/pl/107/295/s331/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295%2Fs331%2Fa%2F2
-[/us/pl/107/295/s331/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295%2Fs331%2Fa%2F4
-[/us/pl/107/295/s331/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295%2Fs331%2Fa%2F3
+[/us/pl/107/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295
+[/us/pl/107/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295
+[/us/pl/107/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295
+[/us/pl/107/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295
 [/us/pl/104/324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324
 [/us/pl/102/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F241
 [/us/pl/101/225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F225
-[/us/pl/109/241/s901/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241%2Fs901%2Fg
+[/us/pl/109/241/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241%2FtIX
 [/us/stat/120/564]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F564
 [/us/pl/101/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509
 [/us/usc/t5/s5376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5376
-[/us/pl/100/424/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F424%2Fs2%2Fb
+[/us/pl/100/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F424
 [/us/stat/102/1589]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1589
 [/us/usc/t46/s4508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs4508
 

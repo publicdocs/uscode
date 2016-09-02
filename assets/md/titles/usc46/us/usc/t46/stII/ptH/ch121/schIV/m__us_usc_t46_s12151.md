@@ -47,7 +47,7 @@
 
     In addition to other penalties under this section, the owner of a documented vessel for which a fishery endorsement has been issued is liable to the Government for a civil penalty of not more than $100,000 for each day the vessel engages in fishing (as defined in section 3 of the Magnuson-Stevens Fishery Conservation and Management Act ([16 U.S.C. 1802][/us/usc/t16/s1802])) within the exclusive economic zone, if the owner or the representative or agent of the owner knowingly falsified or concealed a material fact, or knowingly made a false statement or representation, about the eligibility of the vessel under section 12113(c) or (d) of this title in applying for or applying to renew the fishery endorsement.
 
-([Pub. L. 109–304, § 5][/us/pl/109/304/s5], Oct. 6, 2006, [120 Stat. 1508][/us/stat/120/1508]; [Pub. L. 112–213, title III, § 309][/us/pl/112/213/s309], Dec. 20, 2012, [126 Stat. 1566][/us/stat/126/1566].)
+([Pub. L. 109–304][/us/pl/109/304], § 5, Oct. 6, 2006, [120 Stat. 1508][/us/stat/120/1508]; [Pub. L. 112–213, title III][/us/pl/112/213/tIII], § 309, Dec. 20, 2012, [126 Stat. 1566][/us/stat/126/1566].)
 
 <table>
 
@@ -170,9 +170,9 @@ July 14, 1956, ch. 600, § 2 (2d, last sentences), 70 Stat. 544; Pub. L. 86–
 [/us/usc/t46/s12131/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs12131%2Fb
 [/us/usc/t46/s12139/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs12139%2Fb
 [/us/usc/t16/s1802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1802
-[/us/pl/109/304/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs5
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1508
-[/us/pl/112/213/s309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F213%2Fs309
+[/us/pl/112/213/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F213%2FtIII
 [/us/stat/126/1566]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1566
 [/us/pl/112/213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F213
 

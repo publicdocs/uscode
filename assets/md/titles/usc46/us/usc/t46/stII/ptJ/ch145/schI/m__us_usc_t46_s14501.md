@@ -21,7 +21,7 @@
 
     (2) A vessel measured under chapter 143 of this title if the owner requests that the vessel also be measured under this chapter as provided in [section 14305 of this title][/us/usc/t46/s14305].
 
-([Pub. L. 99–509, title V, § 5101(3)][/us/pl/99/509/s5101/3], Oct. 21, 1986, [100 Stat. 1923][/us/stat/100/1923]; [Pub. L. 111–281, title III, § 303(g)][/us/pl/111/281/s303/g], Oct. 15, 2010, [124 Stat. 2925][/us/stat/124/2925].)
+([Pub. L. 99–509, title V][/us/pl/99/509/tV], § 5101(3), Oct. 21, 1986, [100 Stat. 1923][/us/stat/100/1923]; [Pub. L. 111–281, title III][/us/pl/111/281/tIII], § 303(g), Oct. 15, 2010, [124 Stat. 2925][/us/stat/124/2925].)
 
  __Historical and Revision Notes__ 
 
@@ -33,13 +33,13 @@
 
  __Amendments__ 
 
-    2010—Par. (1). [Pub. L. 111–281, § 303(g)(1)][/us/pl/111/281/s303/g/1], amended par. (1) generally. Prior to amendment, par. (1) read as follows: “a vessel not measured under chapter 143 of this title if—
+    2010—Par. (1). [Pub. L. 111–281][/us/pl/111/281], § 303(g)(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “a vessel not measured under chapter 143 of this title if—
 
     “(A) the vessel is to be documented under chapter 121 of this title; or
 
     “(B) the application of a law of the United States to the vessel depends on the vessel’s tonnage.”
 
-    Par. (2). [Pub. L. 111–281, § 303(g)(2)][/us/pl/111/281/s303/g/2], substituted “A vessel” for “a vessel”.
+    Par. (2). [Pub. L. 111–281][/us/pl/111/281], § 303(g)(2), substituted “A vessel” for “a vessel”.
 
 ----------
 
@@ -49,11 +49,11 @@
 ----------
 
 [/us/usc/t46/s14305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs14305
-[/us/pl/99/509/s5101/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2Fs5101%2F3
+[/us/pl/99/509/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2FtV
 [/us/stat/100/1923]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1923
-[/us/pl/111/281/s303/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs303%2Fg
+[/us/pl/111/281/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2FtIII
 [/us/stat/124/2925]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2925
-[/us/pl/111/281/s303/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs303%2Fg%2F1
-[/us/pl/111/281/s303/g/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs303%2Fg%2F2
+[/us/pl/111/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281
+[/us/pl/111/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281
 
 

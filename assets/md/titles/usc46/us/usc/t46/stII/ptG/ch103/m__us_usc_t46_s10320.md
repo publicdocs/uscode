@@ -17,7 +17,7 @@
 
     The Secretary shall prescribe regulations requiring vessel owners to maintain records of seamen on matters of engagement, discharge, and service. A vessel owner shall make these records available to the seaman and the Coast Guard on request.
 
-([Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 569][/us/stat/97/569]; [Pub. L. 103–206, title IV, § 411][/us/pl/103/206/s411], Dec. 20, 1993, [107 Stat. 2437][/us/stat/107/2437].)
+([Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 569][/us/stat/97/569]; [Pub. L. 103–206, title IV][/us/pl/103/206/tIV], § 411, Dec. 20, 1993, [107 Stat. 2437][/us/stat/107/2437].)
 
 <table>
 
@@ -74,7 +74,7 @@ Source section (U.S. Code)  </td>
 
 [/us/pl/98/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F89
 [/us/stat/97/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F569
-[/us/pl/103/206/s411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F206%2Fs411
+[/us/pl/103/206/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F206%2FtIV
 [/us/stat/107/2437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2437
 [/us/pl/103/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F206
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542

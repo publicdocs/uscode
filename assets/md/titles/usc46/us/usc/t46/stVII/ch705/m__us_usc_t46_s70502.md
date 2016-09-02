@@ -107,7 +107,7 @@
 
         The term “submersible vessel” means a vessel that is capable of operating completely below the surface of the water, including both manned and unmanned watercraft.
 
-([Pub. L. 109–304, § 10(2)][/us/pl/109/304/s10/2], Oct. 6, 2006, [120 Stat. 1685][/us/stat/120/1685]; [Pub. L. 109–241, title III, § 303][/us/pl/109/241/s303], July 11, 2006, [120 Stat. 527][/us/stat/120/527]; [Pub. L. 110–181, div. C, title XXXV, § 3525(a)(6)][/us/pl/110/181/s3525/a/6], (b), Jan. 28, 2008, [122 Stat. 601][/us/stat/122/601]; [Pub. L. 110–407, title II, § 203][/us/pl/110/407/s203], Oct. 13, 2008, [122 Stat. 4300][/us/stat/122/4300].)
+([Pub. L. 109–304][/us/pl/109/304], § 10(2), Oct. 6, 2006, [120 Stat. 1685][/us/stat/120/1685]; [Pub. L. 109–241, title III][/us/pl/109/241/tIII], § 303, July 11, 2006, [120 Stat. 527][/us/stat/120/527]; [Pub. L. 110–181, div. C, title XXXV][/us/pl/110/181/dC/tXXXV], § 3525(a)(6), (b), Jan. 28, 2008, [122 Stat. 601][/us/stat/122/601]; [Pub. L. 110–407, title II][/us/pl/110/407/tII], § 203, Oct. 13, 2008, [122 Stat. 4300][/us/stat/122/4300].)
 
 <table>
 
@@ -219,13 +219,13 @@ Pub. L. 96–350, § 3(b), (c), (i), Sept. 15, 1980, 94 Stat. 1160; Pub. L. 99
 
  __Amendments__ 
 
-    2008—[Pub. L. 110–181, § 3525(b)][/us/pl/110/181/s3525/b], repealed [Pub. L. 109–241, § 303][/us/pl/109/241/s303]. See 2006 Amendment note below.
+    2008—[Pub. L. 110–181][/us/pl/110/181], § 3525(b), repealed [Pub. L. 109–241][/us/pl/109/241], § 303. See 2006 Amendment note below.
 
-    Subsec. (d)(2). [Pub. L. 110–181, § 3525(a)(6)][/us/pl/110/181/s3525/a/6], incorporated the substance of the amendment by [Pub. L. 109–241, § 303][/us/pl/109/241/s303], into this section by amending heading and text of par. (2) generally. Prior to amendment, text read as follows: “A claim of registry under paragraph (1)(A) or (C) may be verified or denied by radio, telephone, or similar oral or electronic means. The denial of such a claim is proved conclusively by certification of the Secretary of State or the Secretary’s designee.” See 2006 Amendment note below and [section 18(a) of Pub. L. 109–304][/us/pl/109/304/s18/a], set out as a Legislative Purpose and Construction note preceding [section 101 of this title][/us/usc/t46/s101].
+    Subsec. (d)(2). [Pub. L. 110–181][/us/pl/110/181], § 3525(a)(6), incorporated the substance of the amendment by [Pub. L. 109–241][/us/pl/109/241], § 303, into this section by amending heading and text of par. (2) generally. Prior to amendment, text read as follows: “A claim of registry under paragraph (1)(A) or (C) may be verified or denied by radio, telephone, or similar oral or electronic means. The denial of such a claim is proved conclusively by certification of the Secretary of State or the Secretary’s designee.” See 2006 Amendment note below and [section 18(a) of Pub. L. 109–304][/us/pl/109/304/s18/a], set out as a Legislative Purpose and Construction note preceding [section 101 of this title][/us/usc/t46/s101].
 
     Subsec. (f). [Pub. L. 110–407][/us/pl/110/407] added subsec. (f).
 
-    2006—[Pub. L. 109–241, § 303][/us/pl/109/241/s303], which directed the amendment of section 1903(c)(2) of the former Appendix to this title from which subsec. (d) of this section was derived, was repealed by [Pub. L. 110–181, § 3525(b)][/us/pl/110/181/s3525/b]. See 2008 Amendment note for subsec. (d)(2) and Historical and Revision notes above.
+    2006—[Pub. L. 109–241][/us/pl/109/241], § 303, which directed the amendment of section 1903(c)(2) of the former Appendix to this title from which subsec. (d) of this section was derived, was repealed by [Pub. L. 110–181][/us/pl/110/181], § 3525(b). See 2008 Amendment note for subsec. (d)(2) and Historical and Revision notes above.
 
 ----------
 
@@ -237,22 +237,22 @@ Pub. L. 96–350, § 3(b), (c), (i), Sept. 15, 1980, 94 Stat. 1160; Pub. L. 99
 [/us/usc/t21/s802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs802
 [/us/usc/t43/s1331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1331
 [/us/usc/t19/s1401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1401
-[/us/pl/109/304/s10/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs10%2F2
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1685]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1685
-[/us/pl/109/241/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241%2Fs303
+[/us/pl/109/241/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241%2FtIII
 [/us/stat/120/527]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F527
-[/us/pl/110/181/s3525/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs3525%2Fa%2F6
+[/us/pl/110/181/dC/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdC%2FtXXXV
 [/us/stat/122/601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F601
-[/us/pl/110/407/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F407%2Fs203
+[/us/pl/110/407/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F407%2FtII
 [/us/stat/122/4300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4300
-[/us/pl/110/181/s3525/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs3525%2Fb
-[/us/pl/109/241/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241%2Fs303
-[/us/pl/110/181/s3525/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs3525%2Fa%2F6
-[/us/pl/109/241/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241%2Fs303
+[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
+[/us/pl/109/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241
+[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
+[/us/pl/109/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241
 [/us/pl/109/304/s18/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs18%2Fa
 [/us/usc/t46/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs101
 [/us/pl/110/407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F407
-[/us/pl/109/241/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241%2Fs303
-[/us/pl/110/181/s3525/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs3525%2Fb
+[/us/pl/109/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241
+[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
 
 

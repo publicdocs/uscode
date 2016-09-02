@@ -95,13 +95,13 @@
 
  __Amendments__ 
 
-    2012—[Pub. L. 112–213, title III, § 302(b)][/us/pl/112/213/s302/b], Dec. 20, 2012, [126 Stat. 1563][/us/stat/126/1563], substituted “Limitation of liability for Coast Guard Vessel Traffic Service pilots and non-Federal vessel traffic service operators” for “Limitation of liability for Coast Guard Vessel Traffic Service pilots” in item 2307.
+    2012—[Pub. L. 112–213, title III][/us/pl/112/213/tIII], § 302(b), Dec. 20, 2012, [126 Stat. 1563][/us/stat/126/1563], substituted “Limitation of liability for Coast Guard Vessel Traffic Service pilots and non-Federal vessel traffic service operators” for “Limitation of liability for Coast Guard Vessel Traffic Service pilots” in item 2307.
 
-    2002—[Pub. L. 107–295, title IV, § 431(b)][/us/pl/107/295/s431/b], Nov. 25, 2002, [116 Stat. 2128][/us/stat/116/2128], added item 2307.
+    2002—[Pub. L. 107–295, title IV][/us/pl/107/295/tIV], § 431(b), Nov. 25, 2002, [116 Stat. 2128][/us/stat/116/2128], added item 2307.
 
-    1998—[Pub. L. 105–383, title III][/us/pl/105/383], §§ 302(b), 304(d)(2), Nov. 13, 1998, [112 Stat. 3418][/us/stat/112/3418], 3420, added item 2302, struck out former item 2302 “Penalties for negligent operations”, and added item 2303a.
+    1998—[Pub. L. 105–383, title III][/us/pl/105/383/tIII], §§ 302(b), 304(d)(2), Nov. 13, 1998, [112 Stat. 3418][/us/stat/112/3418], 3420, added item 2302, struck out former item 2302 “Penalties for negligent operations”, and added item 2303a.
 
-    1984—[Pub. L. 98–498, title II, § 212(a)(1)][/us/pl/98/498/s212/a/1], Oct. 19, 1984, [98 Stat. 2305][/us/stat/98/2305], added item 2306.
+    1984—[Pub. L. 98–498, title II][/us/pl/98/498/tII], § 212(a)(1), Oct. 19, 1984, [98 Stat. 2305][/us/stat/98/2305], added item 2306.
 
 ----------
 
@@ -110,13 +110,13 @@
 ----------
 ----------
 
-[/us/pl/112/213/s302/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F213%2Fs302%2Fb
+[/us/pl/112/213/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F213%2FtIII
 [/us/stat/126/1563]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1563
-[/us/pl/107/295/s431/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295%2Fs431%2Fb
+[/us/pl/107/295/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295%2FtIV
 [/us/stat/116/2128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2128
-[/us/pl/105/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F383
+[/us/pl/105/383/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F383%2FtIII
 [/us/stat/112/3418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3418
-[/us/pl/98/498/s212/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F498%2Fs212%2Fa%2F1
+[/us/pl/98/498/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F498%2FtII
 [/us/stat/98/2305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2305
 
 

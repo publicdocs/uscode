@@ -17,7 +17,7 @@
 
     A judgment in a civil action under this chapter may not include interest for the period before the judgment is issued unless the claim is based on a contract providing for interest.
 
-([Pub. L. 109–304, § 6(c)][/us/pl/109/304/s6/c], Oct. 6, 2006, [120 Stat. 1522][/us/stat/120/1522].)
+([Pub. L. 109–304][/us/pl/109/304], § 6(c), Oct. 6, 2006, [120 Stat. 1522][/us/stat/120/1522].)
 
 <table>
 
@@ -72,7 +72,7 @@ Mar. 3, 1925, ch. 428, § 2 (last sentence words after last comma), 43 Stat. 1
 ----------
 ----------
 
-[/us/pl/109/304/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs6%2Fc
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1522
 
 

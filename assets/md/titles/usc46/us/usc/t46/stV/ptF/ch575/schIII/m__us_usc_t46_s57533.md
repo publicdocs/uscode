@@ -17,7 +17,7 @@
 
     The Secretary of Transportation may enter into contracts or other agreements on behalf of the United States to purchase, charter, operate, or otherwise acquire the use of any vessels documented under chapter 121 of this title and any other related real or personal property. The Secretary is authorized to use this authority as the Secretary deems appropriate.
 
-(Added [Pub. L. 110–181, div. C, title XXXV, § 3511(a)][/us/pl/110/181/s3511/a], Jan. 28, 2008, [122 Stat. 593][/us/stat/122/593].)
+(Added [Pub. L. 110–181, div. C, title XXXV][/us/pl/110/181/dC/tXXXV], § 3511(a), Jan. 28, 2008, [122 Stat. 593][/us/stat/122/593].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/110/181/s3511/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs3511%2Fa
+[/us/pl/110/181/dC/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdC%2FtXXXV
 [/us/stat/122/593]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F593
 
 

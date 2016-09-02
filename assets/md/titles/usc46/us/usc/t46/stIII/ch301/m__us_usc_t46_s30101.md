@@ -33,7 +33,7 @@
 
         A civil action described in paragraph (1) may not be brought until the expiration of the 6-month period after the claim has been presented in writing to the agency owning or operating the vessel causing the injury or damage.
 
-([Pub. L. 109–304, § 6(c)][/us/pl/109/304/s6/c], Oct. 6, 2006, [120 Stat. 1509][/us/stat/120/1509].)
+([Pub. L. 109–304][/us/pl/109/304], § 6(c), Oct. 6, 2006, [120 Stat. 1509][/us/stat/120/1509].)
 
 <table>
 
@@ -87,7 +87,7 @@ June 19, 1948, ch. 526, 62 Stat. 496.  </td>
 
  __Prior Provisions__ 
 
-    A prior section 30101, [Pub. L. 100–710, title I, § 102(c)][/us/pl/100/710/s102/c], Nov. 23, 1988, [102 Stat. 4738][/us/stat/102/4738], provided definitions for purposes of this subtitle, prior to repeal by [Pub. L. 109–304, § 6(b)][/us/pl/109/304/s6/b], Oct. 6, 2006, [120 Stat. 1509][/us/stat/120/1509].
+    A prior section 30101, [Pub. L. 100–710, title I][/us/pl/100/710/tI], § 102(c), Nov. 23, 1988, [102 Stat. 4738][/us/stat/102/4738], provided definitions for purposes of this subtitle, prior to repeal by [Pub. L. 109–304][/us/pl/109/304], § 6(b), Oct. 6, 2006, [120 Stat. 1509][/us/stat/120/1509].
 
  __Short Title__ 
 
@@ -100,11 +100,11 @@ June 19, 1948, ch. 526, 62 Stat. 496.  </td>
 ----------
 ----------
 
-[/us/pl/109/304/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs6%2Fc
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1509
-[/us/pl/100/710/s102/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F710%2Fs102%2Fc
+[/us/pl/100/710/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F710%2FtI
 [/us/stat/102/4738]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4738
-[/us/pl/109/304/s6/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs6%2Fb
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1509
 
 

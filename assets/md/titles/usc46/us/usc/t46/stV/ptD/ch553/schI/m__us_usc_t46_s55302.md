@@ -23,7 +23,7 @@
 
     The Administrator of General Services shall prescribe regulations under which agencies may not pay for or reimburse an officer or employee for travel or transportation expenses incurred on a foreign vessel in the absence of satisfactory proof of the necessity of using the vessel.
 
-([Pub. L. 109–304, § 8(c)][/us/pl/109/304/s8/c], Oct. 6, 2006, [120 Stat. 1642][/us/stat/120/1642].)
+([Pub. L. 109–304][/us/pl/109/304], § 8(c), Oct. 6, 2006, [120 Stat. 1642][/us/stat/120/1642].)
 
 <table>
 
@@ -84,7 +84,7 @@ June 29, 1936, ch. 858, title IX, § 901(a), 49 Stat. 2015; Aug. 26, 1954, ch.
 ----------
 ----------
 
-[/us/pl/109/304/s8/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs8%2Fc
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1642]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1642
 [/us/usc/t22/s2393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2393
 

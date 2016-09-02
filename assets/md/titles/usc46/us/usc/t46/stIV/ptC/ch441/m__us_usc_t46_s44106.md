@@ -17,7 +17,7 @@
 
     Part A of this subtitle applies to proceedings conducted by the Federal Maritime Commission under this chapter.
 
-([Pub. L. 109–304, § 7][/us/pl/109/304/s7], Oct. 6, 2006, [120 Stat. 1555][/us/stat/120/1555].)
+([Pub. L. 109–304][/us/pl/109/304], § 7, Oct. 6, 2006, [120 Stat. 1555][/us/stat/120/1555].)
 
 <table>
 
@@ -88,7 +88,7 @@ Pub. L. 89–777, §§ 2(d), 3(d), Nov. 6, 1966, 80 Stat. 1357, 1358; Pub. L. 
 ----------
 ----------
 
-[/us/pl/109/304/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs7
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1555]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1555
 
 

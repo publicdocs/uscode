@@ -23,7 +23,7 @@
 
     Within 10 days after receipt or the effective date of a Commission order referred to in subsection (a), the President, in writing, may request the Commission to stay the effect of the order if the President finds that the stay is required for reasons of national defense or foreign policy. The reasons shall be specified in the request. The Commission shall immediately grant the request by issuing an order in which the President’s request shall be described. During a stay, the President shall, whenever practicable, attempt to resolve the matter by negotiating with representatives of the applicable foreign governments.
 
-([Pub. L. 109–304, § 7][/us/pl/109/304/s7], Oct. 6, 2006, [120 Stat. 1537][/us/stat/120/1537].)
+([Pub. L. 109–304][/us/pl/109/304], § 7, Oct. 6, 2006, [120 Stat. 1537][/us/stat/120/1537].)
 
 <table>
 
@@ -81,7 +81,7 @@ Pub. L. 98–237, § 9(e), Mar. 20, 1984, 98 Stat. 77; Pub. L. 105–258, titl
 ----------
 
 [/us/usc/t46/s40704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs40704
-[/us/pl/109/304/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs7
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1537
 
 

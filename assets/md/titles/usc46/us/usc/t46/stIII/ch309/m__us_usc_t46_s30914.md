@@ -17,7 +17,7 @@
 
     If a privately owned vessel not in the possession of the United States or a federally-owned corporation is arrested or attached in a civil action arising or alleged to have arisen from prior ownership, possession, or operation by the United States or corporation, the vessel shall be released without bond or stipulation on a statement by the United States, through the Attorney General or other authorized law officer, that the United States is interested in the action, desires release of the vessel, and assumes liability for the satisfaction of any judgment obtained by the plaintiff. After the vessel is released, the action shall proceed against the United States in accordance with this chapter.
 
-([Pub. L. 109–304, § 6(c)][/us/pl/109/304/s6/c], Oct. 6, 2006, [120 Stat. 1519][/us/stat/120/1519].)
+([Pub. L. 109–304][/us/pl/109/304], § 6(c), Oct. 6, 2006, [120 Stat. 1519][/us/stat/120/1519].)
 
 <table>
 
@@ -74,7 +74,7 @@ Mar. 9, 1920, ch. 95, § 4, 41 Stat. 526.  </td>
 ----------
 ----------
 
-[/us/pl/109/304/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs6%2Fc
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1519
 
 

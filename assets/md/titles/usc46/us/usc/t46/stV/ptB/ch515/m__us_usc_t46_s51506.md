@@ -29,7 +29,7 @@
 
     As a condition of receiving an annual payment of more than $25,000 under [section 51505 of this title][/us/usc/t46/s51505], a State maritime academy also must agree to admit each year a number of citizens of the United States who meet its admission requirements and reside in a State not supporting that academy. The Secretary shall determine the number of individuals to be admitted by each academy under this subsection. The number may not be more than one-third of the total number of individuals attending the academy at any time.
 
-([Pub. L. 109–304, § 8(b)][/us/pl/109/304/s8/b], Oct. 6, 2006, [120 Stat. 1579][/us/stat/120/1579].)
+([Pub. L. 109–304][/us/pl/109/304], § 8(b), Oct. 6, 2006, [120 Stat. 1579][/us/stat/120/1579].)
 
 <table>
 
@@ -88,7 +88,7 @@ June 29, 1936, ch. 858, title XIII, § 1304(f), as added Pub. L. 96–453, §�
 
 [/us/usc/t46/s7101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs7101
 [/us/usc/t46/s51505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs51505
-[/us/pl/109/304/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs8%2Fb
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1579]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1579
 
 

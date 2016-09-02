@@ -91,7 +91,7 @@ SUBCHAPTER I—GENERAL  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft46%2Fs70107A" data-uslm-ref="/us/usc/t46/s70107A">70107A.</a>  </td>
 
-    <td> Interagency operational centers for port security  <sup>[1]</sup>  <sup><sup> 1 So in original. Probably should be followed by a period. </sup></sup>   </td>
+    <td> Interagency operational centers for port security.  </td>
 
   </tr>
 
@@ -131,7 +131,7 @@ SUBCHAPTER I—GENERAL  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft46%2Fs70112" data-uslm-ref="/us/usc/t46/s70112">70112.</a>  </td>
 
-    <td> Maritime security advisory committees. <sup>[2]</sup>  <sup><sup> 2 So in original. Does not conform to section catchline. </sup></sup>   </td>
+    <td> Maritime Security Advisory Committees.  </td>
 
   </tr>
 
@@ -211,7 +211,7 @@ SUBCHAPTER I—GENERAL  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft46%2Fs70122" data-uslm-ref="/us/usc/t46/s70122">70122.</a>  </td>
 
-    <td> Waterway watch program.  </td>
+    <td> Waterway Watch Program.  </td>
 
   </tr>
 
@@ -267,19 +267,21 @@ SUBCHAPTER II—PORT SECURITY ZONES  </td>
 
  __Amendments__ 
 
-    2010—[Pub. L. 111–281, title VIII, § 828(c)(2)][/us/pl/111/281/s828/c/2], Oct. 15, 2010, [124 Stat. 3007][/us/stat/124/3007], as amended by [Pub. L. 111–330, § 1(17)(B)][/us/pl/111/330/s1/17/B]–(D), Dec. 22, 2010, [124 Stat. 3570][/us/stat/124/3570], added items for subchapters I and II and items 70131 and 70132.
+    2016—[Pub. L. 114–120, title III][/us/pl/114/120/tIII], § 306(a)(8), Feb. 8, 2016, [130 Stat. 54][/us/stat/130/54], inserted a period at end of item 70107A and substituted “Security Advisory Committees” for “security advisory committees” in item 70112 and “Watch Program” for “watch program” in item 70122.
 
-    [Pub. L. 111–281, title II, § 208(b)][/us/pl/111/281/s208/b], title VIII, §§ 801(b), 804(b), 806(c)(2)(C), 807(b), 820(b), 821(c), Oct. 15, 2010, [124 Stat. 2912][/us/stat/124/2912], 2989, 2991, 2993, 3001, 3003, substituted “Deployable, specialized forces” for “Maritime safety and security teams” in item 70106 and “Actions and assistance for foreign ports or facilities and United States territories” for “Actions and assistance for foreign ports and United States territories” in item 70110, struck out item 70117 “Firearms, arrests, and seizure of property”, and added items 70122 to 70125.
+    2010—[Pub. L. 111–281, title VIII][/us/pl/111/281/tVIII], § 828(c)(2), Oct. 15, 2010, [124 Stat. 3007][/us/stat/124/3007], as amended by [Pub. L. 111–330][/us/pl/111/330], § 1(17)(B)–(D), Dec. 22, 2010, [124 Stat. 3570][/us/stat/124/3570], added items for subchapters I and II and items 70131 and 70132.
 
-    2006—[Pub. L. 109–347, title I, § 108(d)][/us/pl/109/347/s108/d], title II, § 233(d), Oct. 13, 2006, [120 Stat. 1893][/us/stat/120/1893], 1918, added item 70107A and substituted “Actions and assistance for foreign ports and United States territories” for “Actions when foreign ports not maintaining effective antiterrorism measures” in item 70110.
+    [Pub. L. 111–281, title II][/us/pl/111/281/tII], § 208(b), title VIII, §§ 801(b), 804(b), 806(c)(2)(C), 807(b), 820(b), 821(c), Oct. 15, 2010, [124 Stat. 2912][/us/stat/124/2912], 2989, 2991, 2993, 3001, 3003, substituted “Deployable, specialized forces” for “Maritime safety and security teams” in item 70106 and “Actions and assistance for foreign ports or facilities and United States territories” for “Actions and assistance for foreign ports and United States territories” in item 70110, struck out item 70117 “Firearms, arrests, and seizure of property”, and added items 70122 to 70125.
 
-    [Pub. L. 109–304, § 15(33)(E)][/us/pl/109/304/s15/33/E], Oct. 6, 2006, [120 Stat. 1705][/us/stat/120/1705], which directed the substitution of items 70117 to 70121 for items 70117 to 70119, was executed by making the substitution for items 70117 “Civil penalty”, 70118 “Enforcement”, 70117 “In rem liability for civil penalties and certain costs”, 70118 “Enforcement by injunction or withholding of clearance”, and 70119 “Civil penalty” to reflect the probable intent of Congress.
+    2006—[Pub. L. 109–347, title I][/us/pl/109/347/tI], § 108(d), title II, § 233(d), Oct. 13, 2006, [120 Stat. 1893][/us/stat/120/1893], 1918, added item 70107A and substituted “Actions and assistance for foreign ports and United States territories” for “Actions when foreign ports not maintaining effective antiterrorism measures” in item 70110.
 
-    [Pub. L. 109–241, § 901][/us/pl/109/241/s901](l)(5), July 11, 2006, [120 Stat. 565][/us/stat/120/565], which directed amendment of analysis by striking items 70117 through the second 70119 and inserting items 70117 “Firearms, arrests, and seizure of property”, 70118 “Enforcement by State and local officers”, 70119 “Civil penalty”, 70120 “In rem liability for civil penalties and certain costs”, and 70121 “Withholding of clearance”, could not be executed because only one item 70119 appeared.
+    [Pub. L. 109–304][/us/pl/109/304], § 15(33)(E), Oct. 6, 2006, [120 Stat. 1705][/us/stat/120/1705], which directed the substitution of items 70117 to 70121 for items 70117 to 70119, was executed by making the substitution for items 70117 “Civil penalty”, 70118 “Enforcement”, 70117 “In rem liability for civil penalties and certain costs”, 70118 “Enforcement by injunction or withholding of clearance”, and 70119 “Civil penalty” to reflect the probable intent of Congress.
 
-    2004—[Pub. L. 108–293, title VIII, § 802(c)][/us/pl/108/293/s802/c], Aug. 9, 2004, [118 Stat. 1080][/us/stat/118/1080], added items 70117 “In rem liability for civil penalties and certain costs”, 70118 “Enforcement by injunction or withholding of clearance”, and 70119 “Civil penalty”, and struck out former item 70119 “Enforcement by State and local officers”.
+    [Pub. L. 109–241][/us/pl/109/241], § 901(l)(5), July 11, 2006, [120 Stat. 565][/us/stat/120/565], which directed amendment of analysis by striking items 70117 through the second 70119 and inserting items 70117 “Firearms, arrests, and seizure of property”, 70118 “Enforcement by State and local officers”, 70119 “Civil penalty”, 70120 “In rem liability for civil penalties and certain costs”, and 70121 “Withholding of clearance”, could not be executed because only one item 70119 appeared.
 
-    [Pub. L. 108–293, title VIII, § 801(b)][/us/pl/108/293/s801/b], Aug. 9, 2004, [118 Stat. 1078][/us/stat/118/1078], added items 70118 “Enforcement” and 70119 “Enforcement by State and local officers”.
+    2004—[Pub. L. 108–293, title VIII][/us/pl/108/293/tVIII], § 802(c), Aug. 9, 2004, [118 Stat. 1080][/us/stat/118/1080], added items 70117 “In rem liability for civil penalties and certain costs”, 70118 “Enforcement by injunction or withholding of clearance”, and 70119 “Civil penalty”, and struck out former item 70119 “Enforcement by State and local officers”.
+
+    [Pub. L. 108–293, title VIII][/us/pl/108/293/tVIII], § 801(b), Aug. 9, 2004, [118 Stat. 1078][/us/stat/118/1078], added items 70118 “Enforcement” and 70119 “Enforcement by State and local officers”.
 
 ----------
 
@@ -288,21 +290,23 @@ SUBCHAPTER II—PORT SECURITY ZONES  </td>
 ----------
 ----------
 
-[/us/pl/111/281/s828/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs828%2Fc%2F2
+[/us/pl/114/120/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F120%2FtIII
+[/us/stat/130/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F54
+[/us/pl/111/281/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2FtVIII
 [/us/stat/124/3007]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3007
-[/us/pl/111/330/s1/17/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F330%2Fs1%2F17%2FB
+[/us/pl/111/330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F330
 [/us/stat/124/3570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3570
-[/us/pl/111/281/s208/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs208%2Fb
+[/us/pl/111/281/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2FtII
 [/us/stat/124/2912]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2912
-[/us/pl/109/347/s108/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347%2Fs108%2Fd
+[/us/pl/109/347/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347%2FtI
 [/us/stat/120/1893]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1893
-[/us/pl/109/304/s15/33/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs15%2F33%2FE
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1705
-[/us/pl/109/241/s901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241%2Fs901
+[/us/pl/109/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241
 [/us/stat/120/565]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F565
-[/us/pl/108/293/s802/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293%2Fs802%2Fc
+[/us/pl/108/293/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293%2FtVIII
 [/us/stat/118/1080]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1080
-[/us/pl/108/293/s801/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293%2Fs801%2Fb
+[/us/pl/108/293/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293%2FtVIII
 [/us/stat/118/1078]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1078
 
 

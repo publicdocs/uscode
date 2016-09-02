@@ -17,7 +17,7 @@
 
     Notwithstanding any other provision of law, the Maritime Administrator may appoint any present employee of the United States Merchant Marine Academy non-appropriated fund instrumentality to a position on the General Schedule of comparable pay. Eligible personnel shall be engaged in work permissibly funded by annual appropriations, and such appointments to the Civil Service shall be without regard to competition, for a term not to exceed 2 years.
 
-(Added [Pub. L. 110–417, div. C, title XXXV, § 3506(h)(1)][/us/pl/110/417/s3506/h/1], Oct. 14, 2008, [122 Stat. 4765][/us/stat/122/4765].)
+(Added [Pub. L. 110–417, div. C, title XXXV][/us/pl/110/417/dC/tXXXV], § 3506(h)(1), Oct. 14, 2008, [122 Stat. 4765][/us/stat/122/4765].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/110/417/s3506/h/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417%2Fs3506%2Fh%2F1
+[/us/pl/110/417/dC/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417%2FdC%2FtXXXV
 [/us/stat/122/4765]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4765
 [/us/usc/t5/s5332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5332
 

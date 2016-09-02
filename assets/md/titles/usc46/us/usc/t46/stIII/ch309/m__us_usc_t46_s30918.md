@@ -17,7 +17,7 @@
 
     The Secretary of each department of the United States Government, and the board of trustees of each federally-owned corporation, shall report to Congress at each session thereof all arbitration awards and settlements agreed to under this chapter since the previous session, for which the time to appeal has expired or been waived.
 
-([Pub. L. 109–304, § 6(c)][/us/pl/109/304/s6/c], Oct. 6, 2006, [120 Stat. 1521][/us/stat/120/1521].)
+([Pub. L. 109–304][/us/pl/109/304], § 6(c), Oct. 6, 2006, [120 Stat. 1521][/us/stat/120/1521].)
 
 <table>
 
@@ -72,7 +72,7 @@ Mar. 9, 1920, ch. 95, § 12, 41 Stat. 528; Aug. 30, 1954, ch. 1076, § 1(26)
 ----------
 ----------
 
-[/us/pl/109/304/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs6%2Fc
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1521
 
 

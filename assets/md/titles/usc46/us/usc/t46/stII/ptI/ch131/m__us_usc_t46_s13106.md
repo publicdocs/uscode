@@ -33,7 +33,7 @@
 
     (b) The Secretary shall decide an issue arising out of the computation made under subsection (a) of this section.
 
-([Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 596][/us/stat/97/596], § 13105; [Pub. L. 98–369, div. A, title X, § 1011(e)][/us/pl/98/369/s1011/e], July 18, 1984, [98 Stat. 1013][/us/stat/98/1013]; [Pub. L. 101–595, title III, § 312(c)][/us/pl/101/595/s312/c], Nov. 16, 1990, [104 Stat. 2987][/us/stat/104/2987]; renumbered § 13106, [Pub. L. 109–304, § 16(b)(1)][/us/pl/109/304/s16/b/1], Oct. 6, 2006, [120 Stat. 1705][/us/stat/120/1705].)
+([Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 596][/us/stat/97/596], § 13105; [Pub. L. 98–369, div. A, title X][/us/pl/98/369/dA/tX], § 1011(e), July 18, 1984, [98 Stat. 1013][/us/stat/98/1013]; [Pub. L. 101–595, title III][/us/pl/101/595/tIII], § 312(c), Nov. 16, 1990, [104 Stat. 2987][/us/stat/104/2987]; renumbered § 13106, [Pub. L. 109–304][/us/pl/109/304], § 16(b)(1), Oct. 6, 2006, [120 Stat. 1705][/us/stat/120/1705].)
 
 <table>
 
@@ -98,11 +98,11 @@ Source section (U.S. Code)  </td>
 
 [/us/pl/98/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F89
 [/us/stat/97/596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F596
-[/us/pl/98/369/s1011/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs1011%2Fe
+[/us/pl/98/369/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtX
 [/us/stat/98/1013]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1013
-[/us/pl/101/595/s312/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F595%2Fs312%2Fc
+[/us/pl/101/595/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F595%2FtIII
 [/us/stat/104/2987]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2987
-[/us/pl/109/304/s16/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs16%2Fb%2F1
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1705
 [/us/usc/t46/s13107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs13107
 [/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304

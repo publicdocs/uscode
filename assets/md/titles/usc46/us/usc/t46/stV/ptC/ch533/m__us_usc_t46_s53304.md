@@ -17,7 +17,7 @@
 
     In this chapter, a vessel is deemed to be constructed or acquired by a taxpayer if constructed or acquired by a corporation when the taxpayer owns at least 95 percent of each class of stock of the corporation.
 
-([Pub. L. 109–304, § 8(c)][/us/pl/109/304/s8/c], Oct. 6, 2006, [120 Stat. 1588][/us/stat/120/1588].)
+([Pub. L. 109–304][/us/pl/109/304], § 8(c), Oct. 6, 2006, [120 Stat. 1588][/us/stat/120/1588].)
 
 <table>
 
@@ -72,7 +72,7 @@ June 29, 1936, ch. 858, title V, § 511(l), as added Oct. 10, 1940, ch. 849, 5
 ----------
 ----------
 
-[/us/pl/109/304/s8/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs8%2Fc
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1588]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1588
 
 

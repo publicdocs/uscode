@@ -47,7 +47,7 @@
 
         Notwithstanding paragraph (1), in the case of an initial burial or columbarium placement after the date of the enactment of this chapter, benefits may be provided under chapter 24 of title 38 by reason of this chapter (regardless of the date of death), and in such a case benefits may be provided under section 2306 of such title.
 
-(Added [Pub. L. 105–368, title IV, § 402(a)][/us/pl/105/368/s402/a], Nov. 11, 1998, [112 Stat. 3336][/us/stat/112/3336].)
+(Added [Pub. L. 105–368, title IV][/us/pl/105/368/tIV], § 402(a), Nov. 11, 1998, [112 Stat. 3336][/us/stat/112/3336].)
 
  __References in Text__ 
 
@@ -61,7 +61,7 @@
 ----------
 
 [/us/usc/t46/s11203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs11203
-[/us/pl/105/368/s402/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368%2Fs402%2Fa
+[/us/pl/105/368/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368%2FtIV
 [/us/stat/112/3336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3336
 [/us/pl/105/368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368
 

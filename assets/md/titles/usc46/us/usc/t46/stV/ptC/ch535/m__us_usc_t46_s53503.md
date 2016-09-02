@@ -23,7 +23,7 @@
 
     The purpose of the agreement shall be to provide replacement vessels, additional vessels, or reconstructed vessels, built in the United States and documented under the laws of the United States, for operation in the United States foreign, Great Lakes, noncontiguous domestic, or short sea transportation trade or in the fisheries of the United States.
 
-([Pub. L. 109–304, § 8(c)][/us/pl/109/304/s8/c], Oct. 6, 2006, [120 Stat. 1593][/us/stat/120/1593]; [Pub. L. 110–140, title XI, § 1122(b)][/us/pl/110/140/s1122/b], Dec. 19, 2007, [121 Stat. 1762][/us/stat/121/1762].)
+([Pub. L. 109–304][/us/pl/109/304], § 8(c), Oct. 6, 2006, [120 Stat. 1593][/us/stat/120/1593]; [Pub. L. 110–140, title XI][/us/pl/110/140/tXI], § 1122(b), Dec. 19, 2007, [121 Stat. 1762][/us/stat/121/1762].)
 
 <table>
 
@@ -100,9 +100,9 @@ June 29, 1936, ch. 858, title VI, § 607(a) (1st sentence), (2d sentence relat
 ----------
 ----------
 
-[/us/pl/109/304/s8/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs8%2Fc
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1593]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1593
-[/us/pl/110/140/s1122/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs1122%2Fb
+[/us/pl/110/140/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2FtXI
 [/us/stat/121/1762]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1762
 [/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
 [/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140

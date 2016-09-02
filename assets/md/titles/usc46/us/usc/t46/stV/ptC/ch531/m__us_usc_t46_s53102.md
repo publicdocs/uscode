@@ -159,7 +159,7 @@
 
         (3) is necessary due to the lack of availability of other vessels and operators that comply with the requirements of this chapter.
 
-(Added [Pub. L. 108–136, div. C, title XXXV, § 3531(a)][/us/pl/108/136/s3531/a], Nov. 24, 2003, [117 Stat. 1805][/us/stat/117/1805]; amended [Pub. L. 109–304, § 13(a)(1)][/us/pl/109/304/s13/a/1], Oct. 6, 2006, [120 Stat. 1700][/us/stat/120/1700]; [Pub. L. 112–239, div. C, title XXXV, § 3508(b)][/us/pl/112/239/s3508/b], Jan. 2, 2013, [126 Stat. 2223][/us/stat/126/2223].)
+(Added [Pub. L. 108–136, div. C, title XXXV][/us/pl/108/136/dC/tXXXV], § 3531(a), Nov. 24, 2003, [117 Stat. 1805][/us/stat/117/1805]; amended [Pub. L. 109–304][/us/pl/109/304], § 13(a)(1), Oct. 6, 2006, [120 Stat. 1700][/us/stat/120/1700]; [Pub. L. 112–239, div. C, title XXXV][/us/pl/112/239/dC/tXXXV], § 3508(b), Jan. 2, 2013, [126 Stat. 2223][/us/stat/126/2223].)
 
  __References in Text__ 
 
@@ -169,15 +169,15 @@
 
     2013—Subsec. (b). [Pub. L. 112–239][/us/pl/112/239] amended subsec. (b) generally. Prior to amendment, subsec. (b) related to vessel eligibility, including provisions for certain roll-on/roll-off and LASH vessels.
 
-    2006—Subsec. (c). [Pub. L. 109–304, § 13(a)(1)(A)][/us/pl/109/304/s13/a/1/A], (B), substituted “section 50501” for “section 2” in the headings of pars. (1), (2), and (4) and substituted “[section 50501 of this title][/us/usc/t46/s50501]” for “section 2 of the Shipping Act, 1916 (46 U.S.C. App. 802)” in pars. (1), (2)(A)(i), (ii)(II), (B), and (4)(B).
+    2006—Subsec. (c). [Pub. L. 109–304][/us/pl/109/304], § 13(a)(1)(A), (B), substituted “section 50501” for “section 2” in the headings of pars. (1), (2), and (4) and substituted “[section 50501 of this title][/us/usc/t46/s50501]” for “section 2 of the Shipping Act, 1916 (46 U.S.C. App. 802)” in pars. (1), (2)(A)(i), (ii)(II), (B), and (4)(B).
 
-    Subsec. (d). [Pub. L. 109–304, § 13(a)(1)(C)][/us/pl/109/304/s13/a/1/C], substituted “[section 501 of this title][/us/usc/t46/s501]” for “the first section of [Public Law 81–891][/us/pl/81/891] ([64 Stat. 1120][/us/stat/64/1120]; 46 U.S.C. App. note prec. 3)”.
+    Subsec. (d). [Pub. L. 109–304][/us/pl/109/304], § 13(a)(1)(C), substituted “[section 501 of this title][/us/usc/t46/s501]” for “the first section of [Public Law 81–891][/us/pl/81/891] ([64 Stat. 1120][/us/stat/64/1120]; 46 U.S.C. App. note prec. 3)”.
 
-    Subsec. (e)(1). [Pub. L. 109–304, § 13(a)(1)(D)][/us/pl/109/304/s13/a/1/D], substituted “documented under chapter 121 of this title,” for “a documented vessel (as that term is defined in [section 12101 of this title][/us/usc/t46/s12101])” in introductory provisions and “documented under chapter 121” for “a documented vessel (as defined in that section)” in subpar. (B).
+    Subsec. (e)(1). [Pub. L. 109–304][/us/pl/109/304], § 13(a)(1)(D), substituted “documented under chapter 121 of this title,” for “a documented vessel (as that term is defined in [section 12101 of this title][/us/usc/t46/s12101])” in introductory provisions and “documented under chapter 121” for “a documented vessel (as defined in that section)” in subpar. (B).
 
  __Vessel Standards__ 
 
-[Pub. L. 104–324, title XI, § 1137][/us/pl/104/324/s1137], Oct. 19, 1996, [110 Stat. 3988][/us/stat/110/3988], as amended by [Pub. L. 108–136, div. C, title XXXV, § 3534(b)(2)][/us/pl/108/136/s3534/b/2], Nov. 24, 2003, [117 Stat. 1818][/us/stat/117/1818], provided that:
+[Pub. L. 104–324, title XI][/us/pl/104/324/tXI], § 1137, Oct. 19, 1996, [110 Stat. 3988][/us/stat/110/3988], as amended by [Pub. L. 108–136, div. C, title XXXV][/us/pl/108/136/dC/tXXXV], § 3534(b)(2), Nov. 24, 2003, [117 Stat. 1818][/us/stat/117/1818], provided that:
 
 >     “(a)  __Certificate of Inspection__  __.—__ 
 
@@ -220,25 +220,25 @@
 [/us/usc/t46/s50501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs50501
 [/us/usc/t46/s50501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs50501
 [/us/usc/t46/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs501
-[/us/pl/108/136/s3531/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs3531%2Fa
+[/us/pl/108/136/dC/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdC%2FtXXXV
 [/us/stat/117/1805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1805
-[/us/pl/109/304/s13/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs13%2Fa%2F1
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1700]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1700
-[/us/pl/112/239/s3508/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs3508%2Fb
+[/us/pl/112/239/dC/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdC%2FtXXXV
 [/us/stat/126/2223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2223
 [/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
 [/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
-[/us/pl/109/304/s13/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs13%2Fa%2F1%2FA
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/usc/t46/s50501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs50501
-[/us/pl/109/304/s13/a/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs13%2Fa%2F1%2FC
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/usc/t46/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs501
 [/us/pl/81/891]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F81%2F891
 [/us/stat/64/1120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1120
-[/us/pl/109/304/s13/a/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs13%2Fa%2F1%2FD
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/usc/t46/s12101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs12101
-[/us/pl/104/324/s1137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2Fs1137
+[/us/pl/104/324/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2FtXI
 [/us/stat/110/3988]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3988
-[/us/pl/108/136/s3534/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs3534%2Fb%2F2
+[/us/pl/108/136/dC/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdC%2FtXXXV
 [/us/stat/117/1818]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1818
 [/us/usc/t46/s53102/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs53102%2Fb
 

@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t46/stII/ptE/ch71/m__us_usc_t46_s7114.md) | [Next](./../../../../../..//us/usc/t46/stII/ptE/ch73/m__us_usc_t46_stII_ptE_ch73.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs7115)
+[Previous](./../../../../../..//us/usc/t46/stII/ptE/ch71/m__us_usc_t46_s7114.md) | [Next](./../../../../../..//us/usc/t46/stII/ptE/ch71/m__us_usc_t46_s7116.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs7115)
 
 ## § 7115. Merchant Mariner Medical Advisory Committee
 
@@ -73,26 +73,26 @@
 
     The Secretary shall furnish to the Committee the personnel and services as are considered necessary for the conduct of its business.
 
-(Added [Pub. L. 111–281, title II, § 210(a)][/us/pl/111/281/s210/a], Oct. 15, 2010, [124 Stat. 2913][/us/stat/124/2913].)
+(Added [Pub. L. 111–281, title II][/us/pl/111/281/tII], § 210(a), Oct. 15, 2010, [124 Stat. 2913][/us/stat/124/2913].)
 
  __First Meeting__ 
 
-[Pub. L. 111–281, title II, § 210(b)][/us/pl/111/281/s210/b], Oct. 15, 2010, [124 Stat. 2914][/us/stat/124/2914], provided that: 
+[Pub. L. 111–281, title II][/us/pl/111/281/tII], § 210(b), Oct. 15, 2010, [124 Stat. 2914][/us/stat/124/2914], provided that: 
 
 > “No later than six months after the date of enactment of this Act \[Oct. 15, 2010\], the Merchant Mariner Medical Advisory Committee established by the amendment made by this section \[enacting this section\] shall hold its first meeting.”
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t46/stII/ptE/ch71/m__us_usc_t46_s7114.md) | [Next](./../../../../../..//us/usc/t46/stII/ptE/ch73/m__us_usc_t46_stII_ptE_ch73.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs7115)
+[Previous](./../../../../../..//us/usc/t46/stII/ptE/ch71/m__us_usc_t46_s7114.md) | [Next](./../../../../../..//us/usc/t46/stII/ptE/ch71/m__us_usc_t46_s7116.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs7115)
 
 ----------
 ----------
 
 [/us/usc/t18/s202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs202%2Fa
 [/us/usc/t5/s5703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5703
-[/us/pl/111/281/s210/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs210%2Fa
+[/us/pl/111/281/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2FtII
 [/us/stat/124/2913]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2913
-[/us/pl/111/281/s210/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs210%2Fb
+[/us/pl/111/281/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2FtII
 [/us/stat/124/2914]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2914
 
 

@@ -111,7 +111,7 @@
 
     In carrying out its purpose and activities, the Committee may consult with marine transportation system-related advisory committees, interested parties, and the public.
 
-(Added [Pub. L. 112–213, title III, § 310(a)][/us/pl/112/213/s310/a], Dec. 20, 2012, [126 Stat. 1567][/us/stat/126/1567], § 55502; renumbered § 55501, [Pub. L. 113–281, title III, § 301(2)][/us/pl/113/281/s301/2], Dec. 18, 2014, [128 Stat. 3042][/us/stat/128/3042].)
+(Added [Pub. L. 112–213, title III][/us/pl/112/213/tIII], § 310(a), Dec. 20, 2012, [126 Stat. 1567][/us/stat/126/1567], § 55502; renumbered § 55501, [Pub. L. 113–281, title III][/us/pl/113/281/tIII], § 301(2), Dec. 18, 2014, [128 Stat. 3042][/us/stat/128/3042].)
 
  __References in Text__ 
 
@@ -119,7 +119,7 @@
 
  __Prior Provisions__ 
 
-    A prior section 55501, [Pub. L. 109–304, § 8(c)][/us/pl/109/304/s8/c], Oct. 6, 2006, [120 Stat. 1650][/us/stat/120/1650], related to mobile trade fairs to show and sell United States products at foreign ports and other global commercial centers, prior to repeal by [Pub. L. 113–281, title III, § 301(1)][/us/pl/113/281/s301/1], Dec. 18, 2014, [128 Stat. 3042][/us/stat/128/3042].
+    A prior section 55501, [Pub. L. 109–304][/us/pl/109/304], § 8(c), Oct. 6, 2006, [120 Stat. 1650][/us/stat/120/1650], related to mobile trade fairs to show and sell United States products at foreign ports and other global commercial centers, prior to repeal by [Pub. L. 113–281, title III][/us/pl/113/281/tIII], § 301(1), Dec. 18, 2014, [128 Stat. 3042][/us/stat/128/3042].
 
  __Amendments__ 
 
@@ -132,14 +132,14 @@
 ----------
 ----------
 
-[/us/pl/112/213/s310/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F213%2Fs310%2Fa
+[/us/pl/112/213/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F213%2FtIII
 [/us/stat/126/1567]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1567
-[/us/pl/113/281/s301/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281%2Fs301%2F2
+[/us/pl/113/281/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281%2FtIII
 [/us/stat/128/3042]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3042
 [/us/pl/112/213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F213
-[/us/pl/109/304/s8/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs8%2Fc
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1650]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1650
-[/us/pl/113/281/s301/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281%2Fs301%2F1
+[/us/pl/113/281/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281%2FtIII
 [/us/stat/128/3042]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3042
 [/us/pl/113/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281
 [/us/usc/t46/s55502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs55502

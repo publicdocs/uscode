@@ -23,7 +23,7 @@
 
     (d) In all other cases of forfeiture of wages, the forfeiture shall be for the benefit of the owner of the vessel.
 
-([Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 584][/us/stat/97/584]; [Pub. L. 103–206, title IV, § 421][/us/pl/103/206/s421], Dec. 20, 1993, [107 Stat. 2438][/us/stat/107/2438].)
+([Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 584][/us/stat/97/584]; [Pub. L. 103–206, title IV][/us/pl/103/206/tIV], § 421, Dec. 20, 1993, [107 Stat. 2438][/us/stat/107/2438].)
 
 <table>
 
@@ -65,9 +65,9 @@ Source section (U.S. Code)  </td>
 
  __Amendments__ 
 
-    1993—Subsec. (a). [Pub. L. 103–206, § 421(1)][/us/pl/103/206/s421/1], substituted “The balance shall be transferred to the appropriate district court of the United States when the voyage is completed.” for “The balance shall be transferred to the Secretary when the voyage is completed, as prescribed by the Secretary.”
+    1993—Subsec. (a). [Pub. L. 103–206][/us/pl/103/206], § 421(1), substituted “The balance shall be transferred to the appropriate district court of the United States when the voyage is completed.” for “The balance shall be transferred to the Secretary when the voyage is completed, as prescribed by the Secretary.”
 
-    Subsec. (b). [Pub. L. 103–206, § 421(2)][/us/pl/103/206/s421/2], struck out at beginning “Within one month of receiving the balance under subsection (a) of this section, the Secretary shall transfer the balance to the appropriate district court of the United States.”
+    Subsec. (b). [Pub. L. 103–206][/us/pl/103/206], § 421(2), struck out at beginning “Within one month of receiving the balance under subsection (a) of this section, the Secretary shall transfer the balance to the appropriate district court of the United States.”
 
 ----------
 
@@ -78,9 +78,9 @@ Source section (U.S. Code)  </td>
 
 [/us/pl/98/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F89
 [/us/stat/97/584]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F584
-[/us/pl/103/206/s421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F206%2Fs421
+[/us/pl/103/206/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F206%2FtIV
 [/us/stat/107/2438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2438
-[/us/pl/103/206/s421/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F206%2Fs421%2F1
-[/us/pl/103/206/s421/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F206%2Fs421%2F2
+[/us/pl/103/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F206
+[/us/pl/103/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F206
 
 

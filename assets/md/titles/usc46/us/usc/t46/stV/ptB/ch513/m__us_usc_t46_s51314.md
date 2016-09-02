@@ -23,7 +23,7 @@
 
     The prohibition specified in subsection (a) does not apply with respect to any item or service provided to cadets for which a charge or fee is imposed as of October 5, 1994, or for calculators, computers, personal and academic supplies, midshipman services such as barber, tailor, or laundry services, and Coast Guard license fees. The Secretary of Transportation shall notify Congress of any change made by the Academy in the amount of a charge or fee authorized under this subsection. Such fees shall be credited to the Maritime Administration’s Operations and Training appropriation, to remain available until expended, for those expenses directly related to the purposes of the fees. Fees collected in excess of actual expenses may be refunded to the Midshipmen through a mechanism approved by the Secretary. The Academy shall maintain a separate and detailed accounting of fee revenue and all associated expenses.
 
-([Pub. L. 109–304, § 8(b)][/us/pl/109/304/s8/b], Oct. 6, 2006, [120 Stat. 1576][/us/stat/120/1576]; [Pub. L. 111–84, div. C, title XXXV, § 3510][/us/pl/111/84/s3510], Oct. 28, 2009, [123 Stat. 2722][/us/stat/123/2722]; [Pub. L. 111–117, div. A, title I, § 176][/us/pl/111/117/s176], Dec. 16, 2009, [123 Stat. 3068][/us/stat/123/3068].)
+([Pub. L. 109–304][/us/pl/109/304], § 8(b), Oct. 6, 2006, [120 Stat. 1576][/us/stat/120/1576]; [Pub. L. 111–84, div. C, title XXXV][/us/pl/111/84/dC/tXXXV], § 3510, Oct. 28, 2009, [123 Stat. 2722][/us/stat/123/2722]; [Pub. L. 111–117, div. A, title I][/us/pl/111/117/dA/tI], § 176, Dec. 16, 2009, [123 Stat. 3068][/us/stat/123/3068].)
 
 <table>
 
@@ -84,11 +84,11 @@ June 29, 1936, ch. 858, title XIII, § 1303(j), as added Pub. L. 108–375, Oc
 ----------
 ----------
 
-[/us/pl/109/304/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs8%2Fb
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1576
-[/us/pl/111/84/s3510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs3510
+[/us/pl/111/84/dC/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdC%2FtXXXV
 [/us/stat/123/2722]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2722
-[/us/pl/111/117/s176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F117%2Fs176
+[/us/pl/111/117/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F117%2FdA%2FtI
 [/us/stat/123/3068]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F3068
 [/us/pl/111/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F117
 [/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84

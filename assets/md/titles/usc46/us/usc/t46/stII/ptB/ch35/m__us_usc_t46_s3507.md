@@ -315,7 +315,7 @@
 
         The term “owner” means the owner, charterer, managing operator, master, or other individual in charge of a vessel.
 
-(Added [Pub. L. 111–207, § 3(a)][/us/pl/111/207/s3/a], July 27, 2010, [124 Stat. 2244][/us/stat/124/2244]; amended [Pub. L. 113–281, title III, § 321][/us/pl/113/281/s321], Dec. 18, 2014, [128 Stat. 3054][/us/stat/128/3054].)
+(Added [Pub. L. 111–207][/us/pl/111/207], § 3(a), July 27, 2010, [124 Stat. 2244][/us/stat/124/2244]; amended [Pub. L. 113–281, title III][/us/pl/113/281/tIII], § 321, Dec. 18, 2014, [128 Stat. 3054][/us/stat/128/3054].)
 
  __References in Text__ 
 
@@ -323,17 +323,17 @@
 
  __Amendments__ 
 
-    2014—Subsec. (g)(3)(A)(ii). [Pub. L. 113–281, § 321(a)(1)][/us/pl/113/281/s321/a/1], substituted “each incident specified in clause (i) to the Internet website maintained by the Secretary of Transportation under paragraph (4)(A)” for “the incident to an Internet based portal maintained by the Secretary”.
+    2014—Subsec. (g)(3)(A)(ii). [Pub. L. 113–281][/us/pl/113/281], § 321(a)(1), substituted “each incident specified in clause (i) to the Internet website maintained by the Secretary of Transportation under paragraph (4)(A)” for “the incident to an Internet based portal maintained by the Secretary”.
 
-    Subsec. (g)(3)(A)(iii). [Pub. L. 113–281, § 321(a)(2)][/us/pl/113/281/s321/a/2], substituted “Internet website maintained by the Secretary of Transportation under paragraph (4)(A)” for “Internet based portal maintained by the Secretary”.
+    Subsec. (g)(3)(A)(iii). [Pub. L. 113–281][/us/pl/113/281], § 321(a)(2), substituted “Internet website maintained by the Secretary of Transportation under paragraph (4)(A)” for “Internet based portal maintained by the Secretary”.
 
-    Subsec. (g)(4)(A). [Pub. L. 113–281, § 321(b)(1)][/us/pl/113/281/s321/b/1], added subpar. (A) and struck out former subpar. (A). Prior to amendment, text read as follows: “The Secretary shall maintain a statistical compilation of all incidents described in paragraph (3)(A)(i) on an Internet site that provides a numerical accounting of the missing persons and alleged crimes recorded in each report filed under paragraph (3)(A)(i) that are no longer under investigation by the Federal Bureau of Investigation. The data shall be updated no less frequently than quarterly, aggregated by cruise line, each cruise line shall be identified by name, and each crime shall be identified as to whether it was committed by a passenger or a crew member.”
+    Subsec. (g)(4)(A). [Pub. L. 113–281][/us/pl/113/281], § 321(b)(1), added subpar. (A) and struck out former subpar. (A). Prior to amendment, text read as follows: “The Secretary shall maintain a statistical compilation of all incidents described in paragraph (3)(A)(i) on an Internet site that provides a numerical accounting of the missing persons and alleged crimes recorded in each report filed under paragraph (3)(A)(i) that are no longer under investigation by the Federal Bureau of Investigation. The data shall be updated no less frequently than quarterly, aggregated by cruise line, each cruise line shall be identified by name, and each crime shall be identified as to whether it was committed by a passenger or a crew member.”
 
-    Subsec. (g)(4)(B). [Pub. L. 113–281, § 321(b)(2)][/us/pl/113/281/s321/b/2], substituted “Secretary of Transportation” for “Secretary”.
+    Subsec. (g)(4)(B). [Pub. L. 113–281][/us/pl/113/281], § 321(b)(2), substituted “Secretary of Transportation” for “Secretary”.
 
  __Findings__ 
 
-[Pub. L. 111–207, § 2][/us/pl/111/207/s2], July 27, 2010, [124 Stat. 2243][/us/stat/124/2243], provided that: 
+[Pub. L. 111–207][/us/pl/111/207], § 2, July 27, 2010, [124 Stat. 2243][/us/stat/124/2243], provided that: 
 
 > “The Congress makes the following findings:
 
@@ -370,16 +370,16 @@
 ----------
 ----------
 
-[/us/pl/111/207/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F207%2Fs3%2Fa
+[/us/pl/111/207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F207
 [/us/stat/124/2244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2244
-[/us/pl/113/281/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281%2Fs321
+[/us/pl/113/281/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281%2FtIII
 [/us/stat/128/3054]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3054
 [/us/pl/111/207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F207
-[/us/pl/113/281/s321/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281%2Fs321%2Fa%2F1
-[/us/pl/113/281/s321/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281%2Fs321%2Fa%2F2
-[/us/pl/113/281/s321/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281%2Fs321%2Fb%2F1
-[/us/pl/113/281/s321/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281%2Fs321%2Fb%2F2
-[/us/pl/111/207/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F207%2Fs2
+[/us/pl/113/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281
+[/us/pl/113/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281
+[/us/pl/113/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281
+[/us/pl/113/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281
+[/us/pl/111/207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F207
 [/us/stat/124/2243]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2243
 
 

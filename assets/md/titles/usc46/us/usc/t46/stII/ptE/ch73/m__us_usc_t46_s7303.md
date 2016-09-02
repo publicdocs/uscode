@@ -17,7 +17,7 @@
 
     A merchant mariner’s document shall be retained by the seaman to whom issued. The document shall contain the signature, notations of nationality, age, and physical description, the photograph, and the home address of the seaman. In addition, the document shall specify the rate or ratings in which the seaman is qualified to serve.
 
-([Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 542][/us/stat/97/542]; [Pub. L. 107–295, title IV, § 421][/us/pl/107/295/s421], Nov. 25, 2002, [116 Stat. 2125][/us/stat/116/2125].)
+([Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 542][/us/stat/97/542]; [Pub. L. 107–295, title IV][/us/pl/107/295/tIV], § 421, Nov. 25, 2002, [116 Stat. 2125][/us/stat/116/2125].)
 
 <table>
 
@@ -70,7 +70,7 @@ Source section (U.S. Code)  </td>
 
 [/us/pl/98/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F89
 [/us/stat/97/542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F542
-[/us/pl/107/295/s421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295%2Fs421
+[/us/pl/107/295/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295%2FtIV
 [/us/stat/116/2125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2125
 [/us/pl/107/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295
 

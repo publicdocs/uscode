@@ -15,7 +15,7 @@
 
 ## § 55314. Transportation requirements for certain exports sponsored by the Secretary of Agriculture
 
-    \[(a) Repealed. [Pub. L. 112–141, div. F, title I, § 100124(a)(1)][/us/pl/112/141/s100124/a/1], July 6, 2012, [126 Stat. 915][/us/stat/126/915].\]
+    \[(a) Repealed. [Pub. L. 112–141, div. F, title I][/us/pl/112/141/dF/tI], § 100124(a)(1), July 6, 2012, [126 Stat. 915][/us/stat/126/915].\]
 
     (b)  __Applicable Export Activity__  __.—__ 
 
@@ -41,9 +41,9 @@
 
         (7) under which agricultural commodities owned or controlled by or under loan from the Corporation are exchanged or bartered for materials, goods, equipment, or services produced in foreign countries, except export activities described in [section 55313(5) of this title][/us/usc/t46/s55313/5].
 
-    \[(c) Repealed. [Pub. L. 112–141, div. F, title I, § 100124(a)(1)][/us/pl/112/141/s100124/a/1], July 6, 2012, [126 Stat. 915][/us/stat/126/915].\]
+    \[(c) Repealed. [Pub. L. 112–141, div. F, title I][/us/pl/112/141/dF/tI], § 100124(a)(1), July 6, 2012, [126 Stat. 915][/us/stat/126/915].\]
 
-([Pub. L. 109–304, § 8(c)][/us/pl/109/304/s8/c], Oct. 6, 2006, [120 Stat. 1645][/us/stat/120/1645]; [Pub. L. 110–246, title III, § 3001(b)(1)(A)][/us/pl/110/246/s3001/b/1/A], (2)(Y), June 18, 2008, [122 Stat. 1820][/us/stat/122/1820], 1821; [Pub. L. 110–417, div. C, title XXXV, § 3511(d)][/us/pl/110/417/s3511/d], Oct. 14, 2008, [122 Stat. 4770][/us/stat/122/4770]; [Pub. L. 111–84, div. A, title X, § 1073(c)(15)][/us/pl/111/84/s1073/c/15], Oct. 28, 2009, [123 Stat. 2475][/us/stat/123/2475]; [Pub. L. 112–141, div. F, title I, § 100124(a)][/us/pl/112/141/s100124/a], July 6, 2012, [126 Stat. 915][/us/stat/126/915].)
+([Pub. L. 109–304][/us/pl/109/304], § 8(c), Oct. 6, 2006, [120 Stat. 1645][/us/stat/120/1645]; [Pub. L. 110–246, title III][/us/pl/110/246/tIII], § 3001(b)(1)(A), (2)(Y), June 18, 2008, [122 Stat. 1820][/us/stat/122/1820], 1821; [Pub. L. 110–417, div. C, title XXXV][/us/pl/110/417/dC/tXXXV], § 3511(d), Oct. 14, 2008, [122 Stat. 4770][/us/stat/122/4770]; [Pub. L. 111–84, div. A, title X][/us/pl/111/84/dA/tX], § 1073(c)(15), Oct. 28, 2009, [123 Stat. 2475][/us/stat/123/2475]; [Pub. L. 112–141, div. F, title I][/us/pl/112/141/dF/tI], § 100124(a), July 6, 2012, [126 Stat. 915][/us/stat/126/915].)
 
 <table>
 
@@ -163,23 +163,23 @@ June 29, 1936, ch. 858, title IX, § 901k, as added Pub. L. 99–198, title XI
 
  __Amendments__ 
 
-    2012—Subsec. (a). [Pub. L. 112–141, § 100124(a)(1)][/us/pl/112/141/s100124/a/1], struck out subsec. (a), which related to minimum tonnage of agricultural commodities and their products.
+    2012—Subsec. (a). [Pub. L. 112–141][/us/pl/112/141], § 100124(a)(1), struck out subsec. (a), which related to minimum tonnage of agricultural commodities and their products.
 
-    Subsec. (b). [Pub. L. 112–141, § 100124(a)(2)][/us/pl/112/141/s100124/a/2], substituted “The activities specified in this subsection are export activities” for “This section applies to export activity” in introductory provisions.
+    Subsec. (b). [Pub. L. 112–141][/us/pl/112/141], § 100124(a)(2), substituted “The activities specified in this subsection are export activities” for “This section applies to export activity” in introductory provisions.
 
-    Subsec. (c). [Pub. L. 112–141, § 100124(a)(1)][/us/pl/112/141/s100124/a/1], struck out subsec. (c), which related to additional requirements for this section and [section 55305 of this title][/us/usc/t46/s55305].
+    Subsec. (c). [Pub. L. 112–141][/us/pl/112/141], § 100124(a)(1), struck out subsec. (c), which related to additional requirements for this section and [section 55305 of this title][/us/usc/t46/s55305].
 
-    2009—Subsec. (a). [Pub. L. 111–84][/us/pl/111/84] amended directory language of [Pub. L. 110–417, § 3511(d)][/us/pl/110/417/s3511/d]. See 2008 Amendment notes below.
+    2009—Subsec. (a). [Pub. L. 111–84][/us/pl/111/84] amended directory language of [Pub. L. 110–417][/us/pl/110/417], § 3511(d). See 2008 Amendment notes below.
 
-    2008—Subsec. (a). [Pub. L. 110–417, § 3511(d)][/us/pl/110/417/s3511/d], as amended by [Pub. L. 111–84][/us/pl/111/84], substituted “fiscal” for “calendar” in two places in text.
+    2008—Subsec. (a). [Pub. L. 110–417][/us/pl/110/417], § 3511(d), as amended by [Pub. L. 111–84][/us/pl/111/84], substituted “fiscal” for “calendar” in two places in text.
 
-    Subsec. (a)(2). [Pub. L. 110–417, § 3511(d)][/us/pl/110/417/s3511/d], as amended by [Pub. L. 111–84][/us/pl/111/84], which directed substitution of “fiscal” for “calendar” in heading, was executed by substituting “Fiscal” for “Calendar” to reflect the probable intent of Congress.
+    Subsec. (a)(2). [Pub. L. 110–417][/us/pl/110/417], § 3511(d), as amended by [Pub. L. 111–84][/us/pl/111/84], which directed substitution of “fiscal” for “calendar” in heading, was executed by substituting “Fiscal” for “Calendar” to reflect the probable intent of Congress.
 
     Subsecs. (b)(1), (c)(2). [Pub. L. 110–246][/us/pl/110/246] substituted “Food for Peace Act” for “Agricultural Trade Development and Assistance Act of 1954”.
 
  __Effective Date of 2009 Amendment__ 
 
-    [Pub. L. 111–84, div. A, title X, § 1073(c)][/us/pl/111/84/s1073/c], Oct. 28, 2009, [123 Stat. 2474][/us/stat/123/2474], provided that the amendment made by section 1073(c)(15) is effective as of Oct. 14, 2008, and as if included in [Pub. L. 110–417][/us/pl/110/417] as enacted.
+    [Pub. L. 111–84, div. A, title X][/us/pl/111/84/dA/tX], § 1073(c), Oct. 28, 2009, [123 Stat. 2474][/us/stat/123/2474], provided that the amendment made by section 1073(c)(15) is effective as of Oct. 14, 2008, and as if included in [Pub. L. 110–417][/us/pl/110/417] as enacted.
 
  __Effective Date of 2008 Amendment__ 
 
@@ -192,39 +192,39 @@ June 29, 1936, ch. 858, title IX, § 901k, as added Pub. L. 99–198, title XI
 ----------
 ----------
 
-[/us/pl/112/141/s100124/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs100124%2Fa%2F1
+[/us/pl/112/141/dF/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdF%2FtI
 [/us/stat/126/915]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F915
 [/us/usc/t7/s1691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1691
 [/us/usc/t7/s1431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1431
 [/us/usc/t7/s1736f–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1736f%E2%80%931
 [/us/usc/t46/s55313/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs55313%2F5
-[/us/pl/112/141/s100124/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs100124%2Fa%2F1
+[/us/pl/112/141/dF/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdF%2FtI
 [/us/stat/126/915]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F915
-[/us/pl/109/304/s8/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs8%2Fc
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1645
-[/us/pl/110/246/s3001/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs3001%2Fb%2F1%2FA
+[/us/pl/110/246/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2FtIII
 [/us/stat/122/1820]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1820
-[/us/pl/110/417/s3511/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417%2Fs3511%2Fd
+[/us/pl/110/417/dC/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417%2FdC%2FtXXXV
 [/us/stat/122/4770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4770
-[/us/pl/111/84/s1073/c/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs1073%2Fc%2F15
+[/us/pl/111/84/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdA%2FtX
 [/us/stat/123/2475]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2475
-[/us/pl/112/141/s100124/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs100124%2Fa
+[/us/pl/112/141/dF/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdF%2FtI
 [/us/stat/126/915]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F915
 [/us/act/1954-07-10/ch469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-07-10%2Fch469
 [/us/stat/68/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F454
 [/us/usc/t7/s1691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1691
-[/us/pl/112/141/s100124/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs100124%2Fa%2F1
-[/us/pl/112/141/s100124/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs100124%2Fa%2F2
-[/us/pl/112/141/s100124/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs100124%2Fa%2F1
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/usc/t46/s55305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs55305
 [/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
-[/us/pl/110/417/s3511/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417%2Fs3511%2Fd
-[/us/pl/110/417/s3511/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417%2Fs3511%2Fd
+[/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
+[/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
-[/us/pl/110/417/s3511/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417%2Fs3511%2Fd
+[/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
-[/us/pl/111/84/s1073/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs1073%2Fc
+[/us/pl/111/84/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdA%2FtX
 [/us/stat/123/2474]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2474
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246

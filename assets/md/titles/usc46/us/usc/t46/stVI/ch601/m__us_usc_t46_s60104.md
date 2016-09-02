@@ -27,7 +27,7 @@
 
     The master of a vessel failing to deposit the certificate of documentation as required by subsection (a) is liable to the United States Government for a civil penalty of $500. The consular officer shall bring an action to recover the penalty in any court of competent jurisdiction. The action shall be brought in the name of the consular officer for the benefit of the United States.
 
-([Pub. L. 109–304, § 9(b)][/us/pl/109/304/s9/b], Oct. 6, 2006, [120 Stat. 1675][/us/stat/120/1675].)
+([Pub. L. 109–304][/us/pl/109/304], § 9(b), Oct. 6, 2006, [120 Stat. 1675][/us/stat/120/1675].)
 
 <table>
 
@@ -104,7 +104,7 @@ R.S. § 4310; Apr. 5, 1906, ch. 1366, § 3, 34 Stat. 100.  </td>
 ----------
 ----------
 
-[/us/pl/109/304/s9/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs9%2Fb
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1675
 [/us/usc/t22/s4205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4205
 [/us/stat/34/99]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F34%2F99

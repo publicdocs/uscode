@@ -55,7 +55,7 @@
 
     (e) The Secretary may prescribe the minimum number of licensed individuals for an oil spill response vessel.
 
-([Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 550][/us/stat/97/550]; [Pub. L. 98–557, § 29(c)][/us/pl/98/557/s29/c], (d), Oct. 30, 1984, [98 Stat. 2873][/us/stat/98/2873], 2874; [Pub. L. 99–640, § 11(d)][/us/pl/99/640/s11/d], Nov. 10, 1986, [100 Stat. 3550][/us/stat/100/3550]; [Pub. L. 100–448, § 7][/us/pl/100/448/s7], Sept. 28, 1988, [102 Stat. 1842][/us/stat/102/1842]; [Pub. L. 103–206, title III, § 322(b)][/us/pl/103/206/s322/b], Dec. 20, 1993, [107 Stat. 2428][/us/stat/107/2428]; [Pub. L. 104–324, title VII, § 729][/us/pl/104/324/s729], title XI, § 1104(d), Oct. 19, 1996, [110 Stat. 3940][/us/stat/110/3940], 3967; [Pub. L. 111–281, title VI, § 617(c)][/us/pl/111/281/s617/c], Oct. 15, 2010, [124 Stat. 2973][/us/stat/124/2973].)
+([Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 550][/us/stat/97/550]; [Pub. L. 98–557][/us/pl/98/557], § 29(c), (d), Oct. 30, 1984, [98 Stat. 2873][/us/stat/98/2873], 2874; [Pub. L. 99–640][/us/pl/99/640], § 11(d), Nov. 10, 1986, [100 Stat. 3550][/us/stat/100/3550]; [Pub. L. 100–448][/us/pl/100/448], § 7, Sept. 28, 1988, [102 Stat. 1842][/us/stat/102/1842]; [Pub. L. 103–206, title III][/us/pl/103/206/tIII], § 322(b), Dec. 20, 1993, [107 Stat. 2428][/us/stat/107/2428]; [Pub. L. 104–324, title VII][/us/pl/104/324/tVII], § 729, title XI, § 1104(d), Oct. 19, 1996, [110 Stat. 3940][/us/stat/110/3940], 3967; [Pub. L. 111–281, title VI][/us/pl/111/281/tVI], § 617(c), Oct. 15, 2010, [124 Stat. 2973][/us/stat/124/2973].)
 
 <table>
 
@@ -105,17 +105,17 @@ Source section (U.S. Code)  </td>
 
     2010—Subsec. (b). [Pub. L. 111–281][/us/pl/111/281] amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “An offshore supply vessel on a voyage of less than 600 miles shall have a licensed mate. However, if the vessel is on a voyage of at least 600 miles, the vessel shall have 2 licensed mates. An offshore supply vessel of more than 200 gross tons as measured under [section 14502 of this title][/us/usc/t46/s14502], or an alternate tonnage measured under [section 14302 of this title][/us/usc/t46/s14302] as prescribed by the Secretary under [section 14104 of this title][/us/usc/t46/s14104] may not be operated without a licensed engineer.”
 
-    1996—Subsec. (a)(2). [Pub. L. 104–324, § 729(1)][/us/pl/104/324/s729/1], inserted “as measured under [section 14502 of this title][/us/usc/t46/s14502], or an alternate tonnage measured under [section 14302 of this title][/us/usc/t46/s14302] as prescribed by the Secretary under [section 14104 of this title][/us/usc/t46/s14104]” after “1,000 gross tons”.
+    1996—Subsec. (a)(2). [Pub. L. 104–324][/us/pl/104/324], § 729(1), inserted “as measured under [section 14502 of this title][/us/usc/t46/s14502], or an alternate tonnage measured under [section 14302 of this title][/us/usc/t46/s14302] as prescribed by the Secretary under [section 14104 of this title][/us/usc/t46/s14104]” after “1,000 gross tons”.
 
-    Subsec. (a)(3). [Pub. L. 104–324, § 729(2)][/us/pl/104/324/s729/2], inserted “as measured under [section 14502 of this title][/us/usc/t46/s14502], or an alternate tonnage measured under [section 14302 of this title][/us/usc/t46/s14302] as prescribed by the Secretary under [section 14104 of this title][/us/usc/t46/s14104]” after “1,000 gross tons”.
+    Subsec. (a)(3). [Pub. L. 104–324][/us/pl/104/324], § 729(2), inserted “as measured under [section 14502 of this title][/us/usc/t46/s14502], or an alternate tonnage measured under [section 14302 of this title][/us/usc/t46/s14302] as prescribed by the Secretary under [section 14104 of this title][/us/usc/t46/s14104]” after “1,000 gross tons”.
 
-    Subsec. (a)(4). [Pub. L. 104–324, § 729(3)][/us/pl/104/324/s729/3], inserted “as measured under [section 14502 of this title][/us/usc/t46/s14502], or an alternate tonnage measured under [section 14302 of this title][/us/usc/t46/s14302] as prescribed by the Secretary under [section 14104 of this title][/us/usc/t46/s14104]” after “200 gross tons”.
+    Subsec. (a)(4). [Pub. L. 104–324][/us/pl/104/324], § 729(3), inserted “as measured under [section 14502 of this title][/us/usc/t46/s14502], or an alternate tonnage measured under [section 14302 of this title][/us/usc/t46/s14302] as prescribed by the Secretary under [section 14104 of this title][/us/usc/t46/s14104]” after “200 gross tons”.
 
-    Subsec. (a)(5). [Pub. L. 104–324, § 729(4)][/us/pl/104/324/s729/4], inserted “as measured under [section 14502 of this title][/us/usc/t46/s14502], or an alternate tonnage measured under [section 14302 of this title][/us/usc/t46/s14302] as prescribed by the Secretary under [section 14104 of this title][/us/usc/t46/s14104]” after “300 gross tons”.
+    Subsec. (a)(5). [Pub. L. 104–324][/us/pl/104/324], § 729(4), inserted “as measured under [section 14502 of this title][/us/usc/t46/s14502], or an alternate tonnage measured under [section 14302 of this title][/us/usc/t46/s14302] as prescribed by the Secretary under [section 14104 of this title][/us/usc/t46/s14104]” after “300 gross tons”.
 
-    Subsec. (b). [Pub. L. 104–324, § 729(5)][/us/pl/104/324/s729/5], inserted “as measured under [section 14502 of this title][/us/usc/t46/s14502], or an alternate tonnage measured under [section 14302 of this title][/us/usc/t46/s14302] as prescribed by the Secretary under [section 14104 of this title][/us/usc/t46/s14104]” after “200 gross tons”.
+    Subsec. (b). [Pub. L. 104–324][/us/pl/104/324], § 729(5), inserted “as measured under [section 14502 of this title][/us/usc/t46/s14502], or an alternate tonnage measured under [section 14302 of this title][/us/usc/t46/s14302] as prescribed by the Secretary under [section 14104 of this title][/us/usc/t46/s14104]” after “200 gross tons”.
 
-    Subsec. (e). [Pub. L. 104–324, § 1104(d)][/us/pl/104/324/s1104/d], amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “A vessel used only to respond to a discharge of oil or a hazardous substance shall have—
+    Subsec. (e). [Pub. L. 104–324][/us/pl/104/324], § 1104(d), amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “A vessel used only to respond to a discharge of oil or a hazardous substance shall have—
 
     “(1) two licensed mates when the vessel is engaged in an operation over 12 hours in duration;
 
@@ -129,9 +129,9 @@ Source section (U.S. Code)  </td>
 
     1986—Subsec. (c). [Pub. L. 99–640][/us/pl/99/640] inserted “, a mobile offshore drilling unit when on location,”.
 
-    1984—Subsec. (a). [Pub. L. 98–557, § 29(c)][/us/pl/98/557/s29/c], in provisions preceding par. (1) inserted exception for the Great Lakes and substituted provisions relating to inspection under chapter 33 of this title for provisions relating to applicability of part B of this subtitle.
+    1984—Subsec. (a). [Pub. L. 98–557][/us/pl/98/557], § 29(c), in provisions preceding par. (1) inserted exception for the Great Lakes and substituted provisions relating to inspection under chapter 33 of this title for provisions relating to applicability of part B of this subtitle.
 
-    Subsec. (a)(1). [Pub. L. 98–557, § 29(d)][/us/pl/98/557/s29/d], inserted “propelled by machinery or carrying passengers”.
+    Subsec. (a)(1). [Pub. L. 98–557][/us/pl/98/557], § 29(d), inserted “propelled by machinery or carrying passengers”.
 
 ----------
 
@@ -162,47 +162,47 @@ Source section (U.S. Code)  </td>
 [/us/usc/t46/s14104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs14104
 [/us/pl/98/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F89
 [/us/stat/97/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F550
-[/us/pl/98/557/s29/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F557%2Fs29%2Fc
+[/us/pl/98/557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F557
 [/us/stat/98/2873]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2873
-[/us/pl/99/640/s11/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F640%2Fs11%2Fd
+[/us/pl/99/640]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F640
 [/us/stat/100/3550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3550
-[/us/pl/100/448/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F448%2Fs7
+[/us/pl/100/448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F448
 [/us/stat/102/1842]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1842
-[/us/pl/103/206/s322/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F206%2Fs322%2Fb
+[/us/pl/103/206/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F206%2FtIII
 [/us/stat/107/2428]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2428
-[/us/pl/104/324/s729]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2Fs729
+[/us/pl/104/324/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2FtVII
 [/us/stat/110/3940]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3940
-[/us/pl/111/281/s617/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs617%2Fc
+[/us/pl/111/281/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2FtVI
 [/us/stat/124/2973]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2973
 [/us/pl/111/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281
 [/us/usc/t46/s14502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs14502
 [/us/usc/t46/s14302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs14302
 [/us/usc/t46/s14104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs14104
-[/us/pl/104/324/s729/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2Fs729%2F1
+[/us/pl/104/324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324
 [/us/usc/t46/s14502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs14502
 [/us/usc/t46/s14302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs14302
 [/us/usc/t46/s14104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs14104
-[/us/pl/104/324/s729/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2Fs729%2F2
+[/us/pl/104/324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324
 [/us/usc/t46/s14502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs14502
 [/us/usc/t46/s14302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs14302
 [/us/usc/t46/s14104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs14104
-[/us/pl/104/324/s729/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2Fs729%2F3
+[/us/pl/104/324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324
 [/us/usc/t46/s14502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs14502
 [/us/usc/t46/s14302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs14302
 [/us/usc/t46/s14104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs14104
-[/us/pl/104/324/s729/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2Fs729%2F4
+[/us/pl/104/324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324
 [/us/usc/t46/s14502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs14502
 [/us/usc/t46/s14302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs14302
 [/us/usc/t46/s14104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs14104
-[/us/pl/104/324/s729/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2Fs729%2F5
+[/us/pl/104/324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324
 [/us/usc/t46/s14502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs14502
 [/us/usc/t46/s14302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs14302
 [/us/usc/t46/s14104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs14104
-[/us/pl/104/324/s1104/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2Fs1104%2Fd
+[/us/pl/104/324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324
 [/us/pl/103/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F206
 [/us/pl/100/448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F448
 [/us/pl/99/640]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F640
-[/us/pl/98/557/s29/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F557%2Fs29%2Fc
-[/us/pl/98/557/s29/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F557%2Fs29%2Fd
+[/us/pl/98/557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F557
+[/us/pl/98/557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F557
 
 

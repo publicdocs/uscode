@@ -35,7 +35,7 @@
 
     (d) This section does not apply to a fishing or whaling vessel or a yacht.
 
-([Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 571][/us/stat/97/571]; [Pub. L. 99–640, § 10(b)(4)][/us/pl/99/640/s10/b/4], Nov. 10, 1986, [100 Stat. 3550][/us/stat/100/3550]; [Pub. L. 103–206, title IV, § 414][/us/pl/103/206/s414], Dec. 20, 1993, [107 Stat. 2437][/us/stat/107/2437].)
+([Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 571][/us/stat/97/571]; [Pub. L. 99–640][/us/pl/99/640], § 10(b)(4), Nov. 10, 1986, [100 Stat. 3550][/us/stat/100/3550]; [Pub. L. 103–206, title IV][/us/pl/103/206/tIV], § 414, Dec. 20, 1993, [107 Stat. 2437][/us/stat/107/2437].)
 
 <table>
 
@@ -79,9 +79,9 @@ Source section (U.S. Code)  </td>
 
  __Amendments__ 
 
-    1993—Subsec. (a)(2). [Pub. L. 103–206, § 414(1)][/us/pl/103/206/s414/1], substituted “$5,000” for “$100”.
+    1993—Subsec. (a)(2). [Pub. L. 103–206][/us/pl/103/206], § 414(1), substituted “$5,000” for “$100”.
 
-    Subsec. (b). [Pub. L. 103–206, § 414(2)][/us/pl/103/206/s414/2], substituted “$5,000” for “$500”.
+    Subsec. (b). [Pub. L. 103–206][/us/pl/103/206], § 414(2), substituted “$5,000” for “$500”.
 
     1986—Subsec. (d). [Pub. L. 99–640][/us/pl/99/640] struck out last sentence which read as follows: “However, this section applies to a vessel taking oysters.”
 
@@ -95,12 +95,12 @@ Source section (U.S. Code)  </td>
 [/us/usc/t46/s10502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs10502
 [/us/pl/98/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F89
 [/us/stat/97/571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F571
-[/us/pl/99/640/s10/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F640%2Fs10%2Fb%2F4
+[/us/pl/99/640]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F640
 [/us/stat/100/3550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3550
-[/us/pl/103/206/s414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F206%2Fs414
+[/us/pl/103/206/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F206%2FtIV
 [/us/stat/107/2437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2437
-[/us/pl/103/206/s414/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F206%2Fs414%2F1
-[/us/pl/103/206/s414/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F206%2Fs414%2F2
+[/us/pl/103/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F206
+[/us/pl/103/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F206
 [/us/pl/99/640]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F640
 
 

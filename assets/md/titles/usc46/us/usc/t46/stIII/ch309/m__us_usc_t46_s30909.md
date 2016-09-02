@@ -17,7 +17,7 @@
 
     Neither the United States nor a federally-owned corporation may be required to give a bond or admiralty stipulation in a civil action under this chapter.
 
-([Pub. L. 109–304, § 6(c)][/us/pl/109/304/s6/c], Oct. 6, 2006, [120 Stat. 1519][/us/stat/120/1519].)
+([Pub. L. 109–304][/us/pl/109/304], § 6(c), Oct. 6, 2006, [120 Stat. 1519][/us/stat/120/1519].)
 
 <table>
 
@@ -74,7 +74,7 @@ Mar. 9, 1920, ch. 95, § 3 (last sentence), 41 Stat. 526; Pub. L. 97–31, §�
 ----------
 ----------
 
-[/us/pl/109/304/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs6%2Fc
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1519
 
 

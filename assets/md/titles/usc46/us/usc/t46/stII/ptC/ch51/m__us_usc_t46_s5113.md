@@ -25,7 +25,7 @@
 
     (e) The owner of a vessel is liable for the cost incident to a petition for review and any required survey if the vessel is found to be in violation of this chapter or a regulation prescribed under this chapter.
 
-([Pub. L. 99–509, title V, § 5101(2)][/us/pl/99/509/s5101/2], Oct. 21, 1986, [100 Stat. 1918][/us/stat/100/1918]; [Pub. L. 109–304, § 15(20)][/us/pl/109/304/s15/20], Oct. 6, 2006, [120 Stat. 1703][/us/stat/120/1703].)
+([Pub. L. 99–509, title V][/us/pl/99/509/tV], § 5101(2), Oct. 21, 1986, [100 Stat. 1918][/us/stat/100/1918]; [Pub. L. 109–304][/us/pl/109/304], § 15(20), Oct. 6, 2006, [120 Stat. 1703][/us/stat/120/1703].)
 
  __Historical and Revision Notes__ 
 
@@ -47,9 +47,9 @@
 ----------
 
 [/us/usc/t46/s60105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs60105
-[/us/pl/99/509/s5101/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2Fs5101%2F2
+[/us/pl/99/509/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2FtV
 [/us/stat/100/1918]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1918
-[/us/pl/109/304/s15/20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs15%2F20
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1703
 [/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/usc/t46/s60105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs60105

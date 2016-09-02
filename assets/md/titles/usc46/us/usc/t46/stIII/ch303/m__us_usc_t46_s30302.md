@@ -17,7 +17,7 @@
 
     When the death of an individual is caused by wrongful act, neglect, or default occurring on the high seas beyond 3 nautical miles from the shore of the United States, the personal representative of the decedent may bring a civil action in admiralty against the person or vessel responsible. The action shall be for the exclusive benefit of the decedent’s spouse, parent, child, or dependent relative.
 
-([Pub. L. 109–304, § 6(c)][/us/pl/109/304/s6/c], Oct. 6, 2006, [120 Stat. 1511][/us/stat/120/1511].)
+([Pub. L. 109–304][/us/pl/109/304], § 6(c), Oct. 6, 2006, [120 Stat. 1511][/us/stat/120/1511].)
 
 <table>
 
@@ -74,7 +74,7 @@ Mar. 30, 1920, ch. 111, § 1(a), 41 Stat. 537; Pub. L. 106–181, title IV, §
 ----------
 ----------
 
-[/us/pl/109/304/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs6%2Fc
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1511
 [/us/usc/t28/s1333]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1333
 [/us/usc/t1/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft1%2Fs1

@@ -69,13 +69,47 @@
 
     The absence of an inspection of a foreign port shall not bar the Secretary from making a finding that a port in a foreign country does not maintain effective antiterrorism measures.
 
-(Added [Pub. L. 107–295, title I, § 102(a)][/us/pl/107/295/s102/a], Nov. 25, 2002, [116 Stat. 2079][/us/stat/116/2079]; amended [Pub. L. 109–347, title II, § 234][/us/pl/109/347/s234], Oct. 13, 2006, [120 Stat. 1918][/us/stat/120/1918]; [Pub. L. 111–281, title VIII, § 806(a)(1)][/us/pl/111/281/s806/a/1], (c)(2)(B), Oct. 15, 2010, [124 Stat. 2992][/us/stat/124/2992], 2993.)
+    (f) __Recognition of Assessment Conducted by Other Entities.—__ 
+
+        (1)  __Certification and treatment of assessments__  __.—__ 
+
+        For the purposes of this section and section 70109, the Secretary may treat an assessment that a foreign government (including, for the purposes of this subsection, an entity of or operating under the auspices of the European Union) or international organization has conducted as an assessment that the Secretary has conducted for the purposes of subsection (a), provided that the Secretary certifies that the foreign government or international organization has—
+
+            (A) conducted the assessment in accordance with subsection (b); and
+
+            (B) provided the Secretary with sufficient information pertaining to its assessment (including, but not limited to, information on the outcome of the assessment).
+
+        (2)  __Authorization to enter into an agreement__  __.—__ 
+
+        For the purposes of this section and section 70109, the Secretary, in consultation with the Secretary of State, may enter into an agreement with a foreign government (including, for the purposes of this subsection, an entity of or operating under the auspices of the European Union) or international organization, under which parties to the agreement—
+
+            (A) conduct an assessment, required under subsection (a);
+
+            (B) share information pertaining to such assessment (including, but not limited to, information on the outcome of the assessment); or
+
+            (C) both.
+
+        (3)  __Limitations__  __.—__ 
+
+        Nothing in this subsection shall be construed to—
+
+            (A) require the Secretary to recognize an assessment that a foreign government or an international organization has conducted; or
+
+            (B) limit the discretion or ability of the Secretary to conduct an assessment under this section.
+
+        (4)  __Notification to congress__  __.—__ 
+
+        Not later than 30 days before entering into an agreement or arrangement with a foreign government under paragraph (2), the Secretary shall notify the Committee on Homeland Security and the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate of the proposed terms of such agreement or arrangement.
+
+(Added [Pub. L. 107–295, title I][/us/pl/107/295/tI], § 102(a), Nov. 25, 2002, [116 Stat. 2079][/us/stat/116/2079]; amended [Pub. L. 109–347, title II][/us/pl/109/347/tII], § 234, Oct. 13, 2006, [120 Stat. 1918][/us/stat/120/1918]; [Pub. L. 111–281, title VIII][/us/pl/111/281/tVIII], § 806(a)(1), (c)(2)(B), Oct. 15, 2010, [124 Stat. 2992][/us/stat/124/2992], 2993; [Pub. L. 114–120, title III][/us/pl/114/120/tIII], § 317, Feb. 8, 2016, [130 Stat. 62][/us/stat/130/62].)
 
  __Amendments__ 
 
-    2010—Subsec. (c)(2) to (4). [Pub. L. 111–281, § 806(c)(2)(B)][/us/pl/111/281/s806/c/2/B], redesignated pars. (3) and (4) as (2) and (3), respectively, and struck out former par. (2) which read as follows: “the Secretary of the Treasury;”.
+    2016—Subsec. (f). [Pub. L. 114–120][/us/pl/114/120] added subsec. (f).
 
-    Subsec. (e). [Pub. L. 111–281, § 806(a)(1)][/us/pl/111/281/s806/a/1], added subsec. (e).
+    2010—Subsec. (c)(2) to (4). [Pub. L. 111–281][/us/pl/111/281], § 806(c)(2)(B), redesignated pars. (3) and (4) as (2) and (3), respectively, and struck out former par. (2) which read as follows: “the Secretary of the Treasury;”.
+
+    Subsec. (e). [Pub. L. 111–281][/us/pl/111/281], § 806(a)(1), added subsec. (e).
 
     2006—Subsec. (d). [Pub. L. 109–347][/us/pl/109/347] added subsec. (d).
 
@@ -86,14 +120,17 @@
 ----------
 ----------
 
-[/us/pl/107/295/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295%2Fs102%2Fa
+[/us/pl/107/295/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295%2FtI
 [/us/stat/116/2079]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2079
-[/us/pl/109/347/s234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347%2Fs234
+[/us/pl/109/347/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347%2FtII
 [/us/stat/120/1918]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1918
-[/us/pl/111/281/s806/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs806%2Fa%2F1
+[/us/pl/111/281/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2FtVIII
 [/us/stat/124/2992]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2992
-[/us/pl/111/281/s806/c/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs806%2Fc%2F2%2FB
-[/us/pl/111/281/s806/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs806%2Fa%2F1
+[/us/pl/114/120/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F120%2FtIII
+[/us/stat/130/62]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F62
+[/us/pl/114/120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F120
+[/us/pl/111/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281
+[/us/pl/111/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281
 [/us/pl/109/347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347
 
 

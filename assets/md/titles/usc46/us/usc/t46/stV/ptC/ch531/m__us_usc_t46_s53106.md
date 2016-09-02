@@ -85,29 +85,29 @@
 
         In this subsection the term “participates in a noncontiguous domestic trade” means directly or indirectly owns, charters, or operates a vessel engaged in transportation of cargo between a point in the contiguous 48 States and a point in Alaska, Hawaii, or Puerto Rico, other than a point in Alaska north of the Arctic Circle.
 
-(Added [Pub. L. 108–136, div. C, title XXXV, § 3531(a)][/us/pl/108/136/s3531/a], Nov. 24, 2003, [117 Stat. 1813][/us/stat/117/1813]; amended [Pub. L. 109–304, § 13(a)(5)][/us/pl/109/304/s13/a/5], Oct. 6, 2006, [120 Stat. 1701][/us/stat/120/1701]; [Pub. L. 109–364, div. C, title XXXV, § 3502(c)][/us/pl/109/364/s3502/c], Oct. 17, 2006, [120 Stat. 2516][/us/stat/120/2516]; [Pub. L. 111–383, div. C, title XXXV, § 3502(2)][/us/pl/111/383/s3502/2], Jan. 7, 2011, [124 Stat. 4518][/us/stat/124/4518]; [Pub. L. 112–239, div. C, title XXXV, § 3508(f)][/us/pl/112/239/s3508/f], Jan. 2, 2013, [126 Stat. 2225][/us/stat/126/2225]; [Pub. L. 114–113, div. O, title I, § 101(e)(1)][/us/pl/114/113/s101/e/1], Dec. 18, 2015, [129 Stat. 2988][/us/stat/129/2988].)
+(Added [Pub. L. 108–136, div. C, title XXXV][/us/pl/108/136/dC/tXXXV], § 3531(a), Nov. 24, 2003, [117 Stat. 1813][/us/stat/117/1813]; amended [Pub. L. 109–304][/us/pl/109/304], § 13(a)(5), Oct. 6, 2006, [120 Stat. 1701][/us/stat/120/1701]; [Pub. L. 109–364, div. C, title XXXV][/us/pl/109/364/dC/tXXXV], § 3502(c), Oct. 17, 2006, [120 Stat. 2516][/us/stat/120/2516]; [Pub. L. 111–383, div. C, title XXXV][/us/pl/111/383/dC/tXXXV], § 3502(2), Jan. 7, 2011, [124 Stat. 4518][/us/stat/124/4518]; [Pub. L. 112–239, div. C, title XXXV][/us/pl/112/239/dC/tXXXV], § 3508(f), Jan. 2, 2013, [126 Stat. 2225][/us/stat/126/2225]; [Pub. L. 114–113, div. O, title I][/us/pl/114/113/dO/tI], § 101(e)(1), Dec. 18, 2015, [129 Stat. 2988][/us/stat/129/2988].)
 
  __Amendments__ 
 
-    2015—Subsec. (a)(1)(B). [Pub. L. 114–113, § 101(e)(1)(A)][/us/pl/114/113/s101/e/1/A], struck out comma before “for each”.
+    2015—Subsec. (a)(1)(B). [Pub. L. 114–113][/us/pl/114/113], § 101(e)(1)(A), struck out comma before “for each”.
 
-    Subsec. (a)(1)(C). [Pub. L. 114–113, § 101(e)(1)(B)][/us/pl/114/113/s101/e/1/B], substituted “and 2015;” for “2015, 2016, 2017, and 2018;”.
+    Subsec. (a)(1)(C). [Pub. L. 114–113][/us/pl/114/113], § 101(e)(1)(B), substituted “and 2015;” for “2015, 2016, 2017, and 2018;”.
 
-    Subsec. (a)(1)(D) to (G). [Pub. L. 114–113, § 101(e)(1)(C)][/us/pl/114/113/s101/e/1/C], (D), added subpars. (D) to (F), redesignated former subpar. (E) as (G), and struck out former subpar. (D) which read as follows: “$3,500,000 for each of fiscal years 2019, 2020, and 2021; and”.
+    Subsec. (a)(1)(D) to (G). [Pub. L. 114–113][/us/pl/114/113], § 101(e)(1)(C), (D), added subpars. (D) to (F), redesignated former subpar. (E) as (G), and struck out former subpar. (D) which read as follows: “$3,500,000 for each of fiscal years 2019, 2020, and 2021; and”.
 
-    2013—Subsec. (a)(1)(B) to (E). [Pub. L. 112–239, § 3508(f)(1)][/us/pl/112/239/s3508/f/1], added subpars. (C) to (E) and struck out former subpar. (C) which read as follows: “$3,100,000 for each of fiscal years 2012 though 2025.”
+    2013—Subsec. (a)(1)(B) to (E). [Pub. L. 112–239][/us/pl/112/239], § 3508(f)(1), added subpars. (C) to (E) and struck out former subpar. (C) which read as follows: “$3,100,000 for each of fiscal years 2012 though 2025.”
 
-    Subsec. (c)(3)(C). [Pub. L. 112–239, § 3508(f)(2)][/us/pl/112/239/s3508/f/2], substituted “a lighter aboard ship vessel.” for “a LASH vessel.”
+    Subsec. (c)(3)(C). [Pub. L. 112–239][/us/pl/112/239], § 3508(f)(2), substituted “a lighter aboard ship vessel.” for “a LASH vessel.”
 
-    Subsec. (f). [Pub. L. 112–239, § 3508(f)(3)][/us/pl/112/239/s3508/f/3], struck out subsec. (f). Text read as follows: “If the amount available for a fiscal year for making payments under operating agreements under this chapter is not sufficient to pay the full amount authorized under each agreement pursuant to this section for such fiscal year, the amount available shall be allocated among such agreements in a manner that gives priority to payments for vessels that are subject to agreements under section 3517 of the Maritime Security Act of 2003 ([46 U.S.C. 53101][/us/usc/t46/s53101] note).”
+    Subsec. (f). [Pub. L. 112–239][/us/pl/112/239], § 3508(f)(3), struck out subsec. (f). Text read as follows: “If the amount available for a fiscal year for making payments under operating agreements under this chapter is not sufficient to pay the full amount authorized under each agreement pursuant to this section for such fiscal year, the amount available shall be allocated among such agreements in a manner that gives priority to payments for vessels that are subject to agreements under section 3517 of the Maritime Security Act of 2003 ([46 U.S.C. 53101][/us/usc/t46/s53101] note).”
 
     2011—Subsec. (a)(1)(C). [Pub. L. 111–383][/us/pl/111/383] substituted “for each of fiscal years 2012 though 2025” for “for each fiscal years 2012, 2013, 2014, and 2015”.
 
-    2006—Subsec. (d)(1). [Pub. L. 109–304, § 13(a)(5)(A)][/us/pl/109/304/s13/a/5/A], substituted “section 55302(a), 55304, 55305, or 55314 of this title, [section 2631 of title 10][/us/usc/t10/s2631]” for “[section 2631 of title 10][/us/usc/t10/s2631], United States Code, the Act of March 26, 1934 (46 U.S.C. App. 1241–1), section 901(a), 901(b), or 901b of the Merchant Marine Act, 1936 (46 U.S.C. App. 1241(a), 1241(b), or 1241f)”.
+    2006—Subsec. (d)(1). [Pub. L. 109–304][/us/pl/109/304], § 13(a)(5)(A), substituted “section 55302(a), 55304, 55305, or 55314 of this title, [section 2631 of title 10][/us/usc/t10/s2631]” for “[section 2631 of title 10][/us/usc/t10/s2631], United States Code, the Act of March 26, 1934 (46 U.S.C. App. 1241–1), section 901(a), 901(b), or 901b of the Merchant Marine Act, 1936 (46 U.S.C. App. 1241(a), 1241(b), or 1241f)”.
 
-    Subsec. (d)(2). [Pub. L. 109–304, § 13(a)(5)(B)][/us/pl/109/304/s13/a/5/B], substituted “section 55302(a), 55305, or 55314 of this title” for “section 901(a), 901(b), or 901b of the Merchant Marine Act, 1936 (46 U.S.C. App. 1241(a), 1241(b), or 1241f),”.
+    Subsec. (d)(2). [Pub. L. 109–304][/us/pl/109/304], § 13(a)(5)(B), substituted “section 55302(a), 55305, or 55314 of this title” for “section 901(a), 901(b), or 901b of the Merchant Marine Act, 1936 (46 U.S.C. App. 1241(a), 1241(b), or 1241f),”.
 
-    Subsec. (e)(2). [Pub. L. 109–304, § 13(a)(5)(C)][/us/pl/109/304/s13/a/5/C], substituted “[section 50501 of this title][/us/usc/t46/s50501], applying the 75 percent ownership requirement of that section” for “section 2(c) of the Shipping Act, 1916 (46 U.S.C. App. 802(c))”.
+    Subsec. (e)(2). [Pub. L. 109–304][/us/pl/109/304], § 13(a)(5)(C), substituted “[section 50501 of this title][/us/usc/t46/s50501], applying the 75 percent ownership requirement of that section” for “section 2(c) of the Shipping Act, 1916 (46 U.S.C. App. 802(c))”.
 
     Subsec. (f). [Pub. L. 109–364][/us/pl/109/364] added subsec. (f).
 
@@ -124,31 +124,31 @@
 
 [/us/usc/t10/s2631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2631
 [/us/usc/t46/s50501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs50501
-[/us/pl/108/136/s3531/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs3531%2Fa
+[/us/pl/108/136/dC/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdC%2FtXXXV
 [/us/stat/117/1813]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1813
-[/us/pl/109/304/s13/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs13%2Fa%2F5
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1701
-[/us/pl/109/364/s3502/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs3502%2Fc
+[/us/pl/109/364/dC/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdC%2FtXXXV
 [/us/stat/120/2516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2516
-[/us/pl/111/383/s3502/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs3502%2F2
+[/us/pl/111/383/dC/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdC%2FtXXXV
 [/us/stat/124/4518]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4518
-[/us/pl/112/239/s3508/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs3508%2Ff
+[/us/pl/112/239/dC/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdC%2FtXXXV
 [/us/stat/126/2225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2225
-[/us/pl/114/113/s101/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs101%2Fe%2F1
+[/us/pl/114/113/dO/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdO%2FtI
 [/us/stat/129/2988]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2988
-[/us/pl/114/113/s101/e/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs101%2Fe%2F1%2FA
-[/us/pl/114/113/s101/e/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs101%2Fe%2F1%2FB
-[/us/pl/114/113/s101/e/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs101%2Fe%2F1%2FC
-[/us/pl/112/239/s3508/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs3508%2Ff%2F1
-[/us/pl/112/239/s3508/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs3508%2Ff%2F2
-[/us/pl/112/239/s3508/f/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs3508%2Ff%2F3
+[/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
+[/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
+[/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 [/us/usc/t46/s53101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs53101
 [/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
-[/us/pl/109/304/s13/a/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs13%2Fa%2F5%2FA
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/usc/t10/s2631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2631
 [/us/usc/t10/s2631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2631
-[/us/pl/109/304/s13/a/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs13%2Fa%2F5%2FB
-[/us/pl/109/304/s13/a/5/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs13%2Fa%2F5%2FC
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/usc/t46/s50501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs50501
 [/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
 [/us/pl/112/239/s3508/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs3508%2Ff%2F2

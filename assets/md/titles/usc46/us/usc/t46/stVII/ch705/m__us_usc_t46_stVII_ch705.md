@@ -43,7 +43,7 @@
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft46%2Fs70503" data-uslm-ref="/us/usc/t46/s70503">70503.</a>  </td>
 
-    <td> Manufacture, distribution, or possession of controlled substances on vessels.  </td>
+    <td> Prohibited acts.  </td>
 
   </tr>
 
@@ -83,7 +83,7 @@
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft46%2Fs70508" data-uslm-ref="/us/usc/t46/s70508">70508.</a>  </td>
 
-    <td> Operation of submersible vessel or semi-submersible vessel without nationality  <sup>[1]</sup>  <sup><sup> 1 So in original. Probably should be followed by a period. </sup></sup>   </td>
+    <td> Operation of submersible vessel or semi-submersible vessel without nationality.  </td>
 
   </tr>
 
@@ -91,7 +91,9 @@
 
  __Amendments__ 
 
-    2008—[Pub. L. 110–407, title II, § 202(b)(1)][/us/pl/110/407/s202/b/1], Oct. 13, 2008, [122 Stat. 4300][/us/stat/122/4300], added item 70508.
+    2016—[Pub. L. 114–120, title III][/us/pl/114/120/tIII], §§ 306(a)(12), 314(e)(2), Feb. 8, 2016, [130 Stat. 55][/us/stat/130/55], 59, inserted period at end of item 70508, added item 70503, and struck out former item 70503 “Manufacture, distribution, or possession of controlled substances on vessels.”
+
+    2008—[Pub. L. 110–407, title II][/us/pl/110/407/tII], § 202(b)(1), Oct. 13, 2008, [122 Stat. 4300][/us/stat/122/4300], added item 70508.
 
 ----------
 
@@ -100,7 +102,9 @@
 ----------
 ----------
 
-[/us/pl/110/407/s202/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F407%2Fs202%2Fb%2F1
+[/us/pl/114/120/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F120%2FtIII
+[/us/stat/130/55]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F55
+[/us/pl/110/407/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F407%2FtII
 [/us/stat/122/4300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4300
 
 

@@ -77,29 +77,29 @@
 
             (C) may only lend, lease, or otherwise provide equipment that the Secretary has first determined is not required by the Coast Guard for the performance of its missions.
 
-(Added [Pub. L. 107–295, title I, § 102(a)][/us/pl/107/295/s102/a], Nov. 25, 2002, [116 Stat. 2080][/us/stat/116/2080]; amended [Pub. L. 109–347, title II, § 233(b)][/us/pl/109/347/s233/b], Oct. 13, 2006, [120 Stat. 1917][/us/stat/120/1917]; [Pub. L. 111–281, title VIII, § 806(a)(3)][/us/pl/111/281/s806/a/3]–(c)(2)(A), Oct. 15, 2010, [124 Stat. 2992][/us/stat/124/2992], 2993; [Pub. L. 111–330, § 1(12)][/us/pl/111/330/s1/12], Dec. 22, 2010, [124 Stat. 3570][/us/stat/124/3570].)
+(Added [Pub. L. 107–295, title I][/us/pl/107/295/tI], § 102(a), Nov. 25, 2002, [116 Stat. 2080][/us/stat/116/2080]; amended [Pub. L. 109–347, title II][/us/pl/109/347/tII], § 233(b), Oct. 13, 2006, [120 Stat. 1917][/us/stat/120/1917]; [Pub. L. 111–281, title VIII][/us/pl/111/281/tVIII], § 806(a)(3)–(c)(2)(A), Oct. 15, 2010, [124 Stat. 2992][/us/stat/124/2992], 2993; [Pub. L. 111–330][/us/pl/111/330], § 1(12), Dec. 22, 2010, [124 Stat. 3570][/us/stat/124/3570].)
 
  __Amendments__ 
 
-    2010—[Pub. L. 111–281, § 806(c)(2)(A)(i)][/us/pl/111/281/s806/c/2/A/i], as amended by [Pub. L. 111–330][/us/pl/111/330], inserted “or facilities” after “ports” in section catchline.
+    2010—[Pub. L. 111–281][/us/pl/111/281], § 806(c)(2)(A)(i), as amended by [Pub. L. 111–330][/us/pl/111/330], inserted “or facilities” after “ports” in section catchline.
 
-    [Pub. L. 111–281, § 806(c)(2)(A)(ii)][/us/pl/111/281/s806/c/2/A/ii], inserted “or facility” after “port” wherever appearing except in subsec. (f), which was added by [Pub. L. 111–281, § 806(b)][/us/pl/111/281/s806/b], to reflect the probable intent of Congress.
+    [Pub. L. 111–281][/us/pl/111/281], § 806(c)(2)(A)(ii), inserted “or facility” after “port” wherever appearing except in subsec. (f), which was added by [Pub. L. 111–281][/us/pl/111/281], § 806(b), to reflect the probable intent of Congress.
 
-    Subsec. (a). [Pub. L. 111–281, § 806(a)(3)][/us/pl/111/281/s806/a/3], substituted “Unless the Secretary finds that a foreign port maintains effective antiterrorism measures,” for “If the Secretary finds that a foreign port does not maintain effective antiterrorism measures,”.
+    Subsec. (a). [Pub. L. 111–281][/us/pl/111/281], § 806(a)(3), substituted “Unless the Secretary finds that a foreign port maintains effective antiterrorism measures,” for “If the Secretary finds that a foreign port does not maintain effective antiterrorism measures,”.
 
-    Subsec. (e). [Pub. L. 111–281, § 806(c)(2)(A)(iii)][/us/pl/111/281/s806/c/2/A/iii], substituted “Ports, Facilities,” for “Ports” in heading.
+    Subsec. (e). [Pub. L. 111–281][/us/pl/111/281], § 806(c)(2)(A)(iii), substituted “Ports, Facilities,” for “Ports” in heading.
 
-    Subsec. (e)(1). [Pub. L. 111–281, § 806(c)(1)][/us/pl/111/281/s806/c/1], substituted “The Secretary shall establish a strategic plan to utilize those assistance programs to assist ports and facilities that are found by the Secretary under subsection (a) not to maintain effective antiterrorism measures in the implementation of port security antiterrorism measures.” for “The Secretary shall establish a program to utilize the programs that are capable of implementing port security antiterrorism measures at ports in foreign countries and territories of the United States that the Secretary finds to lack effective antiterrorism measures.”
+    Subsec. (e)(1). [Pub. L. 111–281][/us/pl/111/281], § 806(c)(1), substituted “The Secretary shall establish a strategic plan to utilize those assistance programs to assist ports and facilities that are found by the Secretary under subsection (a) not to maintain effective antiterrorism measures in the implementation of port security antiterrorism measures.” for “The Secretary shall establish a program to utilize the programs that are capable of implementing port security antiterrorism measures at ports in foreign countries and territories of the United States that the Secretary finds to lack effective antiterrorism measures.”
 
-    Subsec. (f). [Pub. L. 111–281, § 806(b)][/us/pl/111/281/s806/b], added subsec. (f).
+    Subsec. (f). [Pub. L. 111–281][/us/pl/111/281], § 806(b), added subsec. (f).
 
-    2006—[Pub. L. 109–347, § 233(b)(1)][/us/pl/109/347/s233/b/1], substituted “Actions and assistance for foreign ports and United States territories” for “Actions when foreign ports not maintaining effective antiterrorism measures” in section catchline.
+    2006—[Pub. L. 109–347][/us/pl/109/347], § 233(b)(1), substituted “Actions and assistance for foreign ports and United States territories” for “Actions when foreign ports not maintaining effective antiterrorism measures” in section catchline.
 
-    Subsec. (e). [Pub. L. 109–347, § 233(b)(2)][/us/pl/109/347/s233/b/2], added subsec. (e).
+    Subsec. (e). [Pub. L. 109–347][/us/pl/109/347], § 233(b)(2), added subsec. (e).
 
  __Effective Date of 2010 Amendment__ 
 
-    [Pub. L. 111–330, § 1][/us/pl/111/330/s1], Dec. 22, 2010, [124 Stat. 3569][/us/stat/124/3569], provided that the amendment made by section 1(12) is effective with the enactment of [Pub. L. 111–281][/us/pl/111/281].
+    [Pub. L. 111–330][/us/pl/111/330], § 1, Dec. 22, 2010, [124 Stat. 3569][/us/stat/124/3569], provided that the amendment made by section 1(12) is effective with the enactment of [Pub. L. 111–281][/us/pl/111/281].
 
 ----------
 
@@ -109,25 +109,25 @@
 ----------
 
 [/us/usc/t46/s70108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs70108
-[/us/pl/107/295/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295%2Fs102%2Fa
+[/us/pl/107/295/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295%2FtI
 [/us/stat/116/2080]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2080
-[/us/pl/109/347/s233/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347%2Fs233%2Fb
+[/us/pl/109/347/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347%2FtII
 [/us/stat/120/1917]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1917
-[/us/pl/111/281/s806/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs806%2Fa%2F3
+[/us/pl/111/281/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2FtVIII
 [/us/stat/124/2992]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2992
-[/us/pl/111/330/s1/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F330%2Fs1%2F12
-[/us/stat/124/3570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3570
-[/us/pl/111/281/s806/c/2/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs806%2Fc%2F2%2FA%2Fi
 [/us/pl/111/330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F330
-[/us/pl/111/281/s806/c/2/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs806%2Fc%2F2%2FA%2Fii
-[/us/pl/111/281/s806/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs806%2Fb
-[/us/pl/111/281/s806/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs806%2Fa%2F3
-[/us/pl/111/281/s806/c/2/A/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs806%2Fc%2F2%2FA%2Fiii
-[/us/pl/111/281/s806/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs806%2Fc%2F1
-[/us/pl/111/281/s806/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs806%2Fb
-[/us/pl/109/347/s233/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347%2Fs233%2Fb%2F1
-[/us/pl/109/347/s233/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347%2Fs233%2Fb%2F2
-[/us/pl/111/330/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F330%2Fs1
+[/us/stat/124/3570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3570
+[/us/pl/111/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281
+[/us/pl/111/330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F330
+[/us/pl/111/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281
+[/us/pl/111/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281
+[/us/pl/111/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281
+[/us/pl/111/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281
+[/us/pl/111/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281
+[/us/pl/111/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281
+[/us/pl/109/347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347
+[/us/pl/109/347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347
+[/us/pl/111/330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F330
 [/us/stat/124/3569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3569
 [/us/pl/111/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281
 

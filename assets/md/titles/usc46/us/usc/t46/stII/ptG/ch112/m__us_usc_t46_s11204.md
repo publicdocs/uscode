@@ -23,7 +23,7 @@
 
     Amounts received by the Secretary under this section shall be deposited in the General Fund of the Treasury as offsetting receipts of the department in which the Coast Guard is operating and ascribed to Coast Guard activities. Amounts received by the Secretary of Defense under this section shall be deposited in the General Fund of the Treasury as offsetting receipts of the Department of Defense. In either case, such amounts shall be available, subject to appropriation, for the administrative costs of processing applications under [section 11203 of this title][/us/usc/t46/s11203].
 
-(Added [Pub. L. 105–368, title IV, § 402(a)][/us/pl/105/368/s402/a], Nov. 11, 1998, [112 Stat. 3337][/us/stat/112/3337].)
+(Added [Pub. L. 105–368, title IV][/us/pl/105/368/tIV], § 402(a), Nov. 11, 1998, [112 Stat. 3337][/us/stat/112/3337].)
 
  __Transfer of Functions__ 
 
@@ -38,7 +38,7 @@
 
 [/us/usc/t46/s11203/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs11203%2Fa
 [/us/usc/t46/s11203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs11203
-[/us/pl/105/368/s402/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368%2Fs402%2Fa
+[/us/pl/105/368/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368%2FtIV
 [/us/stat/112/3337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3337
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
 

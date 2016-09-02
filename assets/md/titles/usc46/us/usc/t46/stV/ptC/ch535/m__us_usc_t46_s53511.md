@@ -181,7 +181,7 @@
 
         A nonqualified withdrawal excluded from gross income under paragraph (1) shall be excluded in determining taxable income under section 172(b)(2) of such Code ([26 U.S.C. 172(b)(2)][/us/usc/t26/s172/b/2]).
 
-([Pub. L. 109–304, § 8(c)][/us/pl/109/304/s8/c], Oct. 6, 2006, [120 Stat. 1597][/us/stat/120/1597]; [Pub. L. 112–240, title I, § 102(c)(1)(E)][/us/pl/112/240/s102/c/1/E], Jan. 2, 2013, [126 Stat. 2319][/us/stat/126/2319].)
+([Pub. L. 109–304][/us/pl/109/304], § 8(c), Oct. 6, 2006, [120 Stat. 1597][/us/stat/120/1597]; [Pub. L. 112–240, title I][/us/pl/112/240/tI], § 102(c)(1)(E), Jan. 2, 2013, [126 Stat. 2319][/us/stat/126/2319].)
 
 <table>
 
@@ -243,11 +243,11 @@ June 29, 1936, ch. 858, title VI, § 607(h) (less (2) (last sentence)), 49 Sta
 
  __Application of Sunset Provision to Subsection (f)(2)__ 
 
-[Pub. L. 110–181, div. C, title XXXV, § 3528][/us/pl/110/181/s3528], Jan. 28, 2008, [122 Stat. 603][/us/stat/122/603], provided that: 
+[Pub. L. 110–181, div. C, title XXXV][/us/pl/110/181/dC/tXXXV], § 3528, Jan. 28, 2008, [122 Stat. 603][/us/stat/122/603], provided that: 
 
 > “For purposes of section 303 of the Jobs and Growth Tax Relief Reconciliation Act of 2003 ([Public Law 108–27][/us/pl/108/27], \[former\] [26 U.S.C. 1][/us/usc/t26/s1] note), the amendment made by section 301(a)(2)(E) of that Act \[which amended section 1177(h)(6)(A) of the former Appendix to this title from which subsec. (f)(2) of this section was derived by substituting “15 percent” for “20 percent”\] shall be deemed to have been made to [section 53511(f)(2) of title 46][/us/usc/t46/s53511/f/2], United States Code.”
 
-    \[[Section 303 of Pub. L. 108–27][/us/pl/108/27/s303] was repealed by [Pub. L. 112–240, title I, § 102(a)][/us/pl/112/240/s102/a], Jan. 2, 2013, [126 Stat. 2318][/us/stat/126/2318].\]
+    \[[Section 303 of Pub. L. 108–27][/us/pl/108/27/s303] was repealed by [Pub. L. 112–240, title I][/us/pl/112/240/tI], § 102(a), Jan. 2, 2013, [126 Stat. 2318][/us/stat/126/2318].\]
 
 ----------
 
@@ -265,21 +265,21 @@ June 29, 1936, ch. 858, title VI, § 607(h) (less (2) (last sentence)), 49 Sta
 [/us/usc/t26/s1/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1%2Fh
 [/us/usc/t26/s172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs172
 [/us/usc/t26/s172/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs172%2Fb%2F2
-[/us/pl/109/304/s8/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs8%2Fc
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1597
-[/us/pl/112/240/s102/c/1/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs102%2Fc%2F1%2FE
+[/us/pl/112/240/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2FtI
 [/us/stat/126/2319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2319
 [/us/pl/112/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240
 [/us/pl/112/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240
 [/us/pl/112/240/s102/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs102%2Fd%2F1
 [/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
-[/us/pl/110/181/s3528]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs3528
+[/us/pl/110/181/dC/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdC%2FtXXXV
 [/us/stat/122/603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F603
 [/us/pl/108/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F27
 [/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
 [/us/usc/t46/s53511/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs53511%2Ff%2F2
 [/us/pl/108/27/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F27%2Fs303
-[/us/pl/112/240/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs102%2Fa
+[/us/pl/112/240/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2FtI
 [/us/stat/126/2318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2318
 
 

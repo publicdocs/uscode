@@ -73,7 +73,7 @@
 
         (2) implement a program requiring a State maritime academy to share its training vessel with another State maritime academy, except with the express consent of Congress.
 
-([Pub. L. 109–304, § 8(b)][/us/pl/109/304/s8/b], Oct. 6, 2006, [120 Stat. 1577][/us/stat/120/1577]; [Pub. L. 109–163, div. C, title XXXV, § 3502(b)][/us/pl/109/163/s3502/b], Jan. 6, 2006, [119 Stat. 3548][/us/stat/119/3548]; [Pub. L. 110–181, div. C, title XXXV, § 3523(a)(2)][/us/pl/110/181/s3523/a/2], (b), Jan. 28, 2008, [122 Stat. 599][/us/stat/122/599], 600.)
+([Pub. L. 109–304][/us/pl/109/304], § 8(b), Oct. 6, 2006, [120 Stat. 1577][/us/stat/120/1577]; [Pub. L. 109–163, div. C, title XXXV][/us/pl/109/163/dC/tXXXV], § 3502(b), Jan. 6, 2006, [119 Stat. 3548][/us/stat/119/3548]; [Pub. L. 110–181, div. C, title XXXV][/us/pl/110/181/dC/tXXXV], § 3523(a)(2), (b), Jan. 28, 2008, [122 Stat. 599][/us/stat/122/599], 600.)
 
 <table>
 
@@ -257,11 +257,11 @@ Pub. L. 101–115, § 4, Oct. 13, 1989, 103 Stat. 692; Pub. L. 101–595, titl
 
  __Amendments__ 
 
-    2008—[Pub. L. 110–181, § 3523(b)][/us/pl/110/181/s3523/b], repealed [Pub. L. 109–163, § 3502(b)][/us/pl/109/163/s3502/b]. See 2006 Amendment note below.
+    2008—[Pub. L. 110–181][/us/pl/110/181], § 3523(b), repealed [Pub. L. 109–163][/us/pl/109/163], § 3502(b). See 2006 Amendment note below.
 
-    Subsec. (f). [Pub. L. 110–181, § 3523(a)(2)][/us/pl/110/181/s3523/a/2], incorporated the substance of the amendment by [Pub. L. 109–163, § 3502(b)][/us/pl/109/163/s3502/b], by amending heading and text of subsec. (f) generally. Prior to amendment, text read as follows: “The Secretary may pay to a State maritime academy the costs of fuel used by a vessel provided under this section while used for training.” See 2006 Amendment note below and [section 18(a) of Pub. L. 109–304][/us/pl/109/304/s18/a], set out as a Legislative Purpose and Construction note preceding [section 101 of this title][/us/usc/t46/s101].
+    Subsec. (f). [Pub. L. 110–181][/us/pl/110/181], § 3523(a)(2), incorporated the substance of the amendment by [Pub. L. 109–163][/us/pl/109/163], § 3502(b), by amending heading and text of subsec. (f) generally. Prior to amendment, text read as follows: “The Secretary may pay to a State maritime academy the costs of fuel used by a vessel provided under this section while used for training.” See 2006 Amendment note below and [section 18(a) of Pub. L. 109–304][/us/pl/109/304/s18/a], set out as a Legislative Purpose and Construction note preceding [section 101 of this title][/us/usc/t46/s101].
 
-    2006—[Pub. L. 109–163, § 3502(b)][/us/pl/109/163/s3502/b], which directed the amendment of section 1295c(c)(2) of the former Appendix to this title from which subsec. (f) of this section was derived, was repealed by [Pub. L. 110–181, § 3523(b)][/us/pl/110/181/s3523/b]. See 2008 Amendment note for subsec. (f) and Historical and Revision notes above.
+    2006—[Pub. L. 109–163][/us/pl/109/163], § 3502(b), which directed the amendment of section 1295c(c)(2) of the former Appendix to this title from which subsec. (f) of this section was derived, was repealed by [Pub. L. 110–181][/us/pl/110/181], § 3523(b). See 2008 Amendment note for subsec. (f) and Historical and Revision notes above.
 
 ----------
 
@@ -271,20 +271,20 @@ Pub. L. 101–115, § 4, Oct. 13, 1989, 103 Stat. 692; Pub. L. 101–595, titl
 ----------
 
 [/us/usc/t46/s51506/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs51506%2Fa
-[/us/pl/109/304/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs8%2Fb
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1577
-[/us/pl/109/163/s3502/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs3502%2Fb
+[/us/pl/109/163/dC/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdC%2FtXXXV
 [/us/stat/119/3548]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3548
-[/us/pl/110/181/s3523/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs3523%2Fa%2F2
+[/us/pl/110/181/dC/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdC%2FtXXXV
 [/us/stat/122/599]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F599
 [/us/pl/101/115/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F115%2Fs4
-[/us/pl/110/181/s3523/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs3523%2Fb
-[/us/pl/109/163/s3502/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs3502%2Fb
-[/us/pl/110/181/s3523/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs3523%2Fa%2F2
-[/us/pl/109/163/s3502/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs3502%2Fb
+[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
+[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
 [/us/pl/109/304/s18/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs18%2Fa
 [/us/usc/t46/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs101
-[/us/pl/109/163/s3502/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs3502%2Fb
-[/us/pl/110/181/s3523/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs3523%2Fb
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
+[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
 
 

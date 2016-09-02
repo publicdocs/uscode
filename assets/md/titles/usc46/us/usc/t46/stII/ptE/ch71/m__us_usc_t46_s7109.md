@@ -17,7 +17,7 @@
 
     The Secretary may review the criminal record of each holder of a license or certificate of registry issued under this part who applies for renewal of that license or certificate of registry.
 
-([Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 540][/us/stat/97/540]; [Pub. L. 101–380, title IV, § 4102(e)(1)][/us/pl/101/380/s4102/e/1], Aug. 18, 1990, [104 Stat. 510][/us/stat/104/510].)
+([Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 540][/us/stat/97/540]; [Pub. L. 101–380, title IV][/us/pl/101/380/tIV], § 4102(e)(1), Aug. 18, 1990, [104 Stat. 510][/us/stat/104/510].)
 
 <table>
 
@@ -76,7 +76,7 @@ Source section (U.S. Code)  </td>
 
 [/us/pl/98/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F89
 [/us/stat/97/540]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F540
-[/us/pl/101/380/s4102/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2Fs4102%2Fe%2F1
+[/us/pl/101/380/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2FtIV
 [/us/stat/104/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F510
 [/us/pl/101/380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380
 [/us/pl/101/380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380

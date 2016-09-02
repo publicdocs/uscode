@@ -19,7 +19,7 @@
 
     (b) The Secretary shall prescribe regulations requiring that each fishing vessel, fish processing vessel, and fish tender vessel shall have on board a placard displayed in a prominent location accessible to the crew describing the seaman’s duty under subsection (a) of this section.
 
-([Pub. L. 100–424, § 6(a)][/us/pl/100/424/s6/a], Sept. 9, 1988, [102 Stat. 1592][/us/stat/102/1592].)
+([Pub. L. 100–424][/us/pl/100/424], § 6(a), Sept. 9, 1988, [102 Stat. 1592][/us/stat/102/1592].)
 
 <table>
 
@@ -64,7 +64,7 @@ New  </td>
 ----------
 ----------
 
-[/us/pl/100/424/s6/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F424%2Fs6%2Fa
+[/us/pl/100/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F424
 [/us/stat/102/1592]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1592
 
 

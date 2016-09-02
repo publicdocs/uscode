@@ -47,11 +47,11 @@
 
     The Commandant shall publish an annual report of the activities of the services provided for in this section. A copy of the report shall be provided to each interested foreign government and to each agency assisting in the work.
 
-([Pub. L. 109–304, § 11][/us/pl/109/304/s11], Oct. 6, 2006, [120 Stat. 1692][/us/stat/120/1692]; [Pub. L. 113–281, title III, § 314(a)(2)][/us/pl/113/281/s314/a/2], Dec. 18, 2014, [128 Stat. 3049][/us/stat/128/3049].)
+([Pub. L. 109–304][/us/pl/109/304], § 11, Oct. 6, 2006, [120 Stat. 1692][/us/stat/120/1692]; [Pub. L. 113–281, title III][/us/pl/113/281/tIII], § 314(a)(2), Dec. 18, 2014, [128 Stat. 3049][/us/stat/128/3049].)
 
  __Amendment of Section__ 
 
-    [Pub. L. 113–281, title III, § 314(a)(2)][/us/pl/113/281/s314/a/2], (c), Dec. 18, 2014, [128 Stat. 3049][/us/stat/128/3049], provided that, effective Jan. 1, 2017, this section is amended:
+    [Pub. L. 113–281, title III][/us/pl/113/281/tIII], § 314(a)(2), (c), Dec. 18, 2014, [128 Stat. 3049][/us/stat/128/3049], provided that, effective Jan. 1, 2017, this section is amended:
 
     (1) in subsection (b), by striking “An ice patrol vessel” and inserting “The ice patrol”;
 
@@ -111,11 +111,11 @@ June 25, 1936, ch. 807, § 2, 49 Stat. 1922; Pub. L. 89–670, § 6(b)(1), O
 
  __Amendments__ 
 
-    2014—Subsec. (b). [Pub. L. 113–281, § 314(a)(2)(A)][/us/pl/113/281/s314/a/2/A], substituted “The ice patrol” for “An ice patrol vessel”.
+    2014—Subsec. (b). [Pub. L. 113–281][/us/pl/113/281], § 314(a)(2)(A), substituted “The ice patrol” for “An ice patrol vessel”.
 
-    Subsec. (c)(1). [Pub. L. 113–281, § 314(a)(2)(B)][/us/pl/113/281/s314/a/2/B], substituted “The ice patrol” for “An ice patrol vessel” in introductory provisions.
+    Subsec. (c)(1). [Pub. L. 113–281][/us/pl/113/281], § 314(a)(2)(B), substituted “The ice patrol” for “An ice patrol vessel” in introductory provisions.
 
-    Subsec. (d). [Pub. L. 113–281, § 314(a)(2)(C)][/us/pl/113/281/s314/a/2/C], substituted “aircraft” for “vessels”.
+    Subsec. (d). [Pub. L. 113–281][/us/pl/113/281], § 314(a)(2)(C), substituted “aircraft” for “vessels”.
 
  __Effective Date of 2014 Amendment__ 
 
@@ -129,18 +129,18 @@ June 25, 1936, ch. 807, § 2, 49 Stat. 1922; Pub. L. 89–670, § 6(b)(1), O
 ----------
 
 [/us/usc/t46/s80301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs80301
-[/us/pl/109/304/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs11
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1692]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1692
-[/us/pl/113/281/s314/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281%2Fs314%2Fa%2F2
+[/us/pl/113/281/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281%2FtIII
 [/us/stat/128/3049]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3049
-[/us/pl/113/281/s314/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281%2Fs314%2Fa%2F2
+[/us/pl/113/281/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281%2FtIII
 [/us/stat/128/3049]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3049
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/stat/116/2249]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2249
 [/us/stat/116/2314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2314
-[/us/pl/113/281/s314/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281%2Fs314%2Fa%2F2%2FA
-[/us/pl/113/281/s314/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281%2Fs314%2Fa%2F2%2FB
-[/us/pl/113/281/s314/a/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281%2Fs314%2Fa%2F2%2FC
+[/us/pl/113/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281
+[/us/pl/113/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281
+[/us/pl/113/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281
 [/us/pl/113/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281
 [/us/pl/113/281/s314/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281%2Fs314%2Fc
 [/us/usc/t46/s80301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs80301

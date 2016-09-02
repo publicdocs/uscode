@@ -19,7 +19,7 @@
 
     (b) On application of the owner or master of a vessel of the United States used in foreign trade, the Secretary may attach an appendix to the vessel’s register stating the measurement of spaces that may be deducted from gross tonnage under laws and regulations of other countries but not under those of the United States.
 
-([Pub. L. 99–509, title V, § 5101(3)][/us/pl/99/509/s5101/3], Oct. 21, 1986, [100 Stat. 1924][/us/stat/100/1924].)
+([Pub. L. 99–509, title V][/us/pl/99/509/tV], § 5101(3), Oct. 21, 1986, [100 Stat. 1924][/us/stat/100/1924].)
 
  __Historical and Revision Notes__ 
 
@@ -33,7 +33,7 @@
 
  __References in Text__ 
 
-    Sections 4151 and 4153 of the Revised Statutes, referred to in subsec. (a), were classified to sections 75 and 77, respectively, of the former Appendix to this title and were repealed by [Pub. L. 99–509, title V, § 5104(b)][/us/pl/99/509/s5104/b], Oct. 21, 1986, [100 Stat. 1928][/us/stat/100/1928].
+    Sections 4151 and 4153 of the Revised Statutes, referred to in subsec. (a), were classified to sections 75 and 77, respectively, of the former Appendix to this title and were repealed by [Pub. L. 99–509, title V][/us/pl/99/509/tV], § 5104(b), Oct. 21, 1986, [100 Stat. 1928][/us/stat/100/1928].
 
 ----------
 
@@ -42,9 +42,9 @@
 ----------
 ----------
 
-[/us/pl/99/509/s5101/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2Fs5101%2F3
+[/us/pl/99/509/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2FtV
 [/us/stat/100/1924]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1924
-[/us/pl/99/509/s5104/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2Fs5104%2Fb
+[/us/pl/99/509/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2FtV
 [/us/stat/100/1928]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1928
 
 

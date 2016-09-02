@@ -27,7 +27,7 @@
 
     The Secretary of State shall notify Congress immediately of any change in the status of a travel advisory issued under this section.
 
-([Pub. L. 109–304, § 10(2)][/us/pl/109/304/s10/2], Oct. 6, 2006, [120 Stat. 1684][/us/stat/120/1684].)
+([Pub. L. 109–304][/us/pl/109/304], § 10(2), Oct. 6, 2006, [120 Stat. 1684][/us/stat/120/1684].)
 
 <table>
 
@@ -85,7 +85,7 @@ Pub. L. 99–399, title IX, § 908, Aug. 27, 1986, 100 Stat. 891; Pub. L. 105�
 ----------
 
 [/us/usc/t46/s70303/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs70303%2Fb
-[/us/pl/109/304/s10/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs10%2F2
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1684]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1684
 
 

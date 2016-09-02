@@ -31,7 +31,7 @@
 
     A response plan required under this subsection for a vessel or facility may be included in the security plan prepared under section 70103(c).
 
-(Added [Pub. L. 107–295, title I, § 102(a)][/us/pl/107/295/s102/a], Nov. 25, 2002, [116 Stat. 2072][/us/stat/116/2072]; amended [Pub. L. 109–295, title VI, § 612(c)][/us/pl/109/295/s612/c], Oct. 4, 2006, [120 Stat. 1410][/us/stat/120/1410].)
+(Added [Pub. L. 107–295, title I][/us/pl/107/295/tI], § 102(a), Nov. 25, 2002, [116 Stat. 2072][/us/stat/116/2072]; amended [Pub. L. 109–295, title VI][/us/pl/109/295/tVI], § 612(c), Oct. 4, 2006, [120 Stat. 1410][/us/stat/120/1410].)
 
  __Change of Name__ 
 
@@ -45,7 +45,7 @@
 
  __Deadline__ 
 
-[Pub. L. 107–295, title I, § 102(c)][/us/pl/107/295/s102/c], Nov. 25, 2002, [116 Stat. 2084][/us/stat/116/2084], provided that: 
+[Pub. L. 107–295, title I][/us/pl/107/295/tI], § 102(c), Nov. 25, 2002, [116 Stat. 2084][/us/stat/116/2084], provided that: 
 
 > “The Secretary shall establish the plans required under [section 70104(a)(1) of title 46][/us/usc/t46/s70104/a/1], United States Code, as enacted by this Act, before April 1, 2003.”
 
@@ -56,9 +56,9 @@
 ----------
 ----------
 
-[/us/pl/107/295/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295%2Fs102%2Fa
+[/us/pl/107/295/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295%2FtI
 [/us/stat/116/2072]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2072
-[/us/pl/109/295/s612/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2Fs612%2Fc
+[/us/pl/109/295/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2FtVI
 [/us/stat/120/1410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1410
 [/us/pl/109/295/s612/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2Fs612%2Fc
 [/us/usc/t6/s313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs313
@@ -67,7 +67,7 @@
 [/us/usc/t6/s313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs313
 [/us/usc/t6/s315/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs315%2Fa%2F1
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
-[/us/pl/107/295/s102/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295%2Fs102%2Fc
+[/us/pl/107/295/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295%2FtI
 [/us/stat/116/2084]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2084
 [/us/usc/t46/s70104/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs70104%2Fa%2F1
 

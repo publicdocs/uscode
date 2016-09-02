@@ -27,7 +27,7 @@
 
     (c) Unless otherwise provided, this chapter does not apply to a foreign vessel.
 
-([Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 561][/us/stat/97/561]; [Pub. L. 104–324, title VII, § 737][/us/pl/104/324/s737], Oct. 19, 1996, [110 Stat. 3941][/us/stat/110/3941]; [Pub. L. 109–241, title III, § 312(c)(2)][/us/pl/109/241/s312/c/2], July 11, 2006, [120 Stat. 533][/us/stat/120/533].)
+([Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 561][/us/stat/97/561]; [Pub. L. 104–324, title VII][/us/pl/104/324/tVII], § 737, Oct. 19, 1996, [110 Stat. 3941][/us/stat/110/3941]; [Pub. L. 109–241, title III][/us/pl/109/241/tIII], § 312(c)(2), July 11, 2006, [120 Stat. 533][/us/stat/120/533].)
 
 <table>
 
@@ -89,9 +89,9 @@ Source section (U.S. Code)  </td>
 [/us/usc/t46/s14104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs14104
 [/us/pl/98/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F89
 [/us/stat/97/561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F561
-[/us/pl/104/324/s737]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2Fs737
+[/us/pl/104/324/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2FtVII
 [/us/stat/110/3941]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3941
-[/us/pl/109/241/s312/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241%2Fs312%2Fc%2F2
+[/us/pl/109/241/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241%2FtIII
 [/us/stat/120/533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F533
 [/us/pl/109/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241
 [/us/pl/104/324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324

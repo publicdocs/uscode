@@ -23,7 +23,7 @@
 
     A vessel transporting property described in subsection (a) to a foreign port may be seized by, and forfeited to, the United States Government. A forfeiture under this subsection accrues half to the informer and half to the Government.
 
-([Pub. L. 109–304, § 11][/us/pl/109/304/s11], Oct. 6, 2006, [120 Stat. 1690][/us/stat/120/1690].)
+([Pub. L. 109–304][/us/pl/109/304], § 11, Oct. 6, 2006, [120 Stat. 1690][/us/stat/120/1690].)
 
 <table>
 
@@ -98,7 +98,7 @@ R.S. § 4240.  </td>
 ----------
 ----------
 
-[/us/pl/109/304/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs11
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1690
 
 

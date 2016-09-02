@@ -233,13 +233,13 @@
 
             In this subsection, the term “especially hazardous cargo” means anhydrous ammonia, ammonium nitrate, chlorine, liquefied natural gas, liquiefied petroleum gas, and any other substance, material, or group or class of material, in a particular amount and form that the Secretary determines by regulation poses a significant risk of creating a transportation security incident while being transported in maritime commerce.
 
-(Added [Pub. L. 107–295, title I, § 102(a)][/us/pl/107/295/s102/a], Nov. 25, 2002, [116 Stat. 2069][/us/stat/116/2069]; amended [Pub. L. 108–458, title IV, § 4072(a)][/us/pl/108/458/s4072/a], Dec. 17, 2004, [118 Stat. 3730][/us/stat/118/3730]; [Pub. L. 109–347, title I][/us/pl/109/347], §§ 101–103, 113(c), Oct. 13, 2006, [120 Stat. 1887][/us/stat/120/1887], 1888, 1896; [Pub. L. 111–83, title V, § 561(b)][/us/pl/111/83/s561/b], Oct. 28, 2009, [123 Stat. 2182][/us/stat/123/2182]; [Pub. L. 111–281, title VIII][/us/pl/111/281], §§ 812(c), 826, Oct. 15, 2010, [124 Stat. 2997][/us/stat/124/2997], 3004.)
+(Added [Pub. L. 107–295, title I][/us/pl/107/295/tI], § 102(a), Nov. 25, 2002, [116 Stat. 2069][/us/stat/116/2069]; amended [Pub. L. 108–458, title IV][/us/pl/108/458/tIV], § 4072(a), Dec. 17, 2004, [118 Stat. 3730][/us/stat/118/3730]; [Pub. L. 109–347, title I][/us/pl/109/347/tI], §§ 101–103, 113(c), Oct. 13, 2006, [120 Stat. 1887][/us/stat/120/1887], 1888, 1896; [Pub. L. 111–83, title V][/us/pl/111/83/tV], § 561(b), Oct. 28, 2009, [123 Stat. 2182][/us/stat/123/2182]; [Pub. L. 111–281, title VIII][/us/pl/111/281/tVIII], §§ 812(c), 826, Oct. 15, 2010, [124 Stat. 2997][/us/stat/124/2997], 3004.)
 
  __Amendments__ 
 
-    2010—Subsec. (b)(2)(E) to (H). [Pub. L. 111–281, § 826][/us/pl/111/281/s826], added subpar. (E) and redesignated former subpars. (E) to (G) as (F) to (H), respectively.
+    2010—Subsec. (b)(2)(E) to (H). [Pub. L. 111–281][/us/pl/111/281], § 826, added subpar. (E) and redesignated former subpars. (E) to (G) as (F) to (H), respectively.
 
-    Subsec. (e). [Pub. L. 111–281, § 812(c)][/us/pl/111/281/s812/c], added subsec.(e).
+    Subsec. (e). [Pub. L. 111–281][/us/pl/111/281], § 812(c), added subsec.(e).
 
     2009—Subsec. (d). [Pub. L. 111–83][/us/pl/111/83] amended subsec. (d) generally. Prior to amendment, text read as follows: “Notwithstanding any other provision of law, information developed under this chapter is not required to be disclosed to the public, including—
 
@@ -247,21 +247,21 @@
 
     “(2) other information related to security plans, procedures, or programs for vessels or facilities authorized under this chapter.”
 
-    2006—Subsec. (b)(2)(F), (G). [Pub. L. 109–347, § 101][/us/pl/109/347/s101], added subpar. (F) and redesignated former subpar. (F) as (G).
+    2006—Subsec. (b)(2)(F), (G). [Pub. L. 109–347][/us/pl/109/347], § 101, added subpar. (F) and redesignated former subpar. (F) as (G).
 
-    Subsec. (c)(3)(C)(ii). [Pub. L. 109–347, § 102(1)(A)][/us/pl/109/347/s102/1/A], substituted “facility, including access by persons engaged in the surface transportation of intermodal containers in or out of a port facility” for “facility”.
+    Subsec. (c)(3)(C)(ii). [Pub. L. 109–347][/us/pl/109/347], § 102(1)(A), substituted “facility, including access by persons engaged in the surface transportation of intermodal containers in or out of a port facility” for “facility”.
 
-    Subsec. (c)(3)(F), (G). [Pub. L. 109–347, § 113(c)][/us/pl/109/347/s113/c], added subpar. (F) and redesignated former subpar. (F) as (G). Former subpar. (G) redesignated (H).
+    Subsec. (c)(3)(F), (G). [Pub. L. 109–347][/us/pl/109/347], § 113(c), added subpar. (F) and redesignated former subpar. (F) as (G). Former subpar. (G) redesignated (H).
 
-    Subsec. (c)(3)(H). [Pub. L. 109–347, § 113(c)(1)][/us/pl/109/347/s113/c/1], redesignated subpar. (G) as (H). Former subpar. (H) redesignated (I).
+    Subsec. (c)(3)(H). [Pub. L. 109–347][/us/pl/109/347], § 113(c)(1), redesignated subpar. (G) as (H). Former subpar. (H) redesignated (I).
 
-    [Pub. L. 109–347, § 102(1)(B)][/us/pl/109/347/s102/1/B]–(D), added subpar. (H).
+    [Pub. L. 109–347][/us/pl/109/347], § 102(1)(B)–(D), added subpar. (H).
 
-    Subsec. (c)(3)(I). [Pub. L. 109–347, § 113(c)(1)][/us/pl/109/347/s113/c/1], redesignated subpar. (H) as (I).
+    Subsec. (c)(3)(I). [Pub. L. 109–347][/us/pl/109/347], § 113(c)(1), redesignated subpar. (H) as (I).
 
-    Subsec. (c)(4)(D). [Pub. L. 109–347, § 103][/us/pl/109/347/s103], amended subpar. (D) generally. Prior to amendment, subpar. (D) read as follows: “review each plan periodically thereafter.”
+    Subsec. (c)(4)(D). [Pub. L. 109–347][/us/pl/109/347], § 103, amended subpar. (D) generally. Prior to amendment, subpar. (D) read as follows: “review each plan periodically thereafter.”
 
-    Subsec. (c)(8). [Pub. L. 109–347, § 102(2)][/us/pl/109/347/s102/2], added par. (8).
+    Subsec. (c)(8). [Pub. L. 109–347][/us/pl/109/347], § 102(2), added par. (8).
 
     2004—Subsec. (a)(1). [Pub. L. 108–458][/us/pl/108/458] substituted “Not later than April 1, 2005, the Secretary” for “The Secretary”.
 
@@ -271,19 +271,19 @@
 
  __Seamen’s Shoreside Access__ 
 
-[Pub. L. 111–281, title VIII, § 811][/us/pl/111/281/s811], Oct. 15, 2010, [124 Stat. 2995][/us/stat/124/2995], provided that: 
+[Pub. L. 111–281, title VIII][/us/pl/111/281/tVIII], § 811, Oct. 15, 2010, [124 Stat. 2995][/us/stat/124/2995], provided that: 
 
 > “Each facility security plan approved under [section 70103(c) of title 46][/us/usc/t46/s70103/c], United States Code, shall provide a system for seamen assigned to a vessel at that facility, pilots, and representatives of seamen’s welfare and labor organizations to board and depart the vessel through the facility in a timely manner at no cost to the individual.”
 
  __Risk Assessment Tool__ 
 
-[Pub. L. 109–347, title I, § 111][/us/pl/109/347/s111], Oct. 13, 2006, [120 Stat. 1894][/us/stat/120/1894], provided that: 
+[Pub. L. 109–347, title I][/us/pl/109/347/tI], § 111, Oct. 13, 2006, [120 Stat. 1894][/us/stat/120/1894], provided that: 
 
 > “In updating Area Maritime Security Plans required under section 70103(b)(2)(F) \[now section 70103(b)(2)(G)\] of title 46, United States Code, and in applying for grants under section 70107 of such title, the Secretary of the Department in which the Coast Guard is operating shall make available, and Area Maritime Security Committees may use a risk assessment tool that uses standardized risk criteria, such as the Maritime Security Risk Assessment Tool used by the Coast Guard.”
 
  __Revision of Port Security Planning Guide__ 
 
-[Pub. L. 107–295, title I, § 113][/us/pl/107/295/s113], Nov. 25, 2002, [116 Stat. 2093][/us/stat/116/2093], provided that: 
+[Pub. L. 107–295, title I][/us/pl/107/295/tI], § 113, Nov. 25, 2002, [116 Stat. 2093][/us/stat/116/2093], provided that: 
 
 > “The Secretary of Transportation, acting through the Maritime Administration and after consultation with the National Maritime Security Advisory Committee and the Coast Guard, shall publish a revised version of the document entitled ‘Port Security: A National Planning Guide’, incorporating the requirements prescribed under chapter 701 of title 46, United States Code, as amended by this Act, within 3 years after the date of enactment of this Act \[Nov. 25, 2002\], and make that revised document available on the Internet.”
 
@@ -295,35 +295,35 @@
 ----------
 
 [/us/usc/t6/s942]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs942
-[/us/pl/107/295/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295%2Fs102%2Fa
+[/us/pl/107/295/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295%2FtI
 [/us/stat/116/2069]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2069
-[/us/pl/108/458/s4072/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs4072%2Fa
+[/us/pl/108/458/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2FtIV
 [/us/stat/118/3730]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3730
-[/us/pl/109/347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347
+[/us/pl/109/347/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347%2FtI
 [/us/stat/120/1887]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1887
-[/us/pl/111/83/s561/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F83%2Fs561%2Fb
+[/us/pl/111/83/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F83%2FtV
 [/us/stat/123/2182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2182
-[/us/pl/111/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281
+[/us/pl/111/281/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2FtVIII
 [/us/stat/124/2997]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2997
-[/us/pl/111/281/s826]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs826
-[/us/pl/111/281/s812/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs812%2Fc
+[/us/pl/111/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281
+[/us/pl/111/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281
 [/us/pl/111/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F83
-[/us/pl/109/347/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347%2Fs101
-[/us/pl/109/347/s102/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347%2Fs102%2F1%2FA
-[/us/pl/109/347/s113/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347%2Fs113%2Fc
-[/us/pl/109/347/s113/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347%2Fs113%2Fc%2F1
-[/us/pl/109/347/s102/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347%2Fs102%2F1%2FB
-[/us/pl/109/347/s113/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347%2Fs113%2Fc%2F1
-[/us/pl/109/347/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347%2Fs103
-[/us/pl/109/347/s102/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347%2Fs102%2F2
+[/us/pl/109/347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347
+[/us/pl/109/347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347
+[/us/pl/109/347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347
+[/us/pl/109/347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347
+[/us/pl/109/347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347
+[/us/pl/109/347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347
+[/us/pl/109/347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347
+[/us/pl/109/347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347
 [/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
-[/us/pl/111/281/s811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs811
+[/us/pl/111/281/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2FtVIII
 [/us/stat/124/2995]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2995
 [/us/usc/t46/s70103/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs70103%2Fc
-[/us/pl/109/347/s111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347%2Fs111
+[/us/pl/109/347/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347%2FtI
 [/us/stat/120/1894]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1894
-[/us/pl/107/295/s113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295%2Fs113
+[/us/pl/107/295/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295%2FtI
 [/us/stat/116/2093]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2093
 
 

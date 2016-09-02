@@ -63,7 +63,7 @@
 
     The Administrator may accept the transfer of amounts from a department, agency, or instrumentality of the United States Government and may use those amounts to cover the cost (as defined in section 502 of the Federal Credit Reform Act of 1990 ([2 U.S.C. 661a][/us/usc/t2/s661a])) of making guarantees or commitments to guarantee under this section.
 
-([Pub. L. 109–304, § 8(c)][/us/pl/109/304/s8/c], Oct. 6, 2006, [120 Stat. 1623][/us/stat/120/1623]; [Pub. L. 109–163, div. C, title XXXV, § 3507(a)(2)(K)][/us/pl/109/163/s3507/a/2/K], Jan. 6, 2006, [119 Stat. 3555][/us/stat/119/3555]; [Pub. L. 110–181, div. C, title XXXV, § 3522(a)(9)(F)][/us/pl/110/181/s3522/a/9/F], (b), Jan. 28, 2008, [122 Stat. 598][/us/stat/122/598].)
+([Pub. L. 109–304][/us/pl/109/304], § 8(c), Oct. 6, 2006, [120 Stat. 1623][/us/stat/120/1623]; [Pub. L. 109–163, div. C, title XXXV][/us/pl/109/163/dC/tXXXV], § 3507(a)(2)(K), Jan. 6, 2006, [119 Stat. 3555][/us/stat/119/3555]; [Pub. L. 110–181, div. C, title XXXV][/us/pl/110/181/dC/tXXXV], § 3522(a)(9)(F), (b), Jan. 28, 2008, [122 Stat. 598][/us/stat/122/598].)
 
 <table>
 
@@ -189,11 +189,11 @@ Pub. L. 103–160, title XIII, § 1358, Nov. 30, 1993, 107 Stat. 1816.  </td>
 
  __Amendments__ 
 
-    2008—[Pub. L. 110–181, § 3522(b)][/us/pl/110/181/s3522/b], repealed [Pub. L. 109–163, § 3507(a)(2)(K)][/us/pl/109/163/s3507/a/2/K]. See 2006 Amendment note below.
+    2008—[Pub. L. 110–181][/us/pl/110/181], § 3522(b), repealed [Pub. L. 109–163][/us/pl/109/163], § 3507(a)(2)(K). See 2006 Amendment note below.
 
-    Subsecs. (b), (e). [Pub. L. 110–181, § 3522(a)(9)(F)][/us/pl/110/181/s3522/a/9/F], incorporated the substance of the amendment by [Pub. L. 109–163, § 3507(a)(2)(K)][/us/pl/109/163/s3507/a/2/K], into this section by substituting “Administrator” for “Secretary”. See 2006 Amendment note below and [section 18(a) of Pub. L. 109–304][/us/pl/109/304/s18/a], set out as a Legislative Purpose and Construction note preceding [section 101 of this title][/us/usc/t46/s101].
+    Subsecs. (b), (e). [Pub. L. 110–181][/us/pl/110/181], § 3522(a)(9)(F), incorporated the substance of the amendment by [Pub. L. 109–163][/us/pl/109/163], § 3507(a)(2)(K), into this section by substituting “Administrator” for “Secretary”. See 2006 Amendment note below and [section 18(a) of Pub. L. 109–304][/us/pl/109/304/s18/a], set out as a Legislative Purpose and Construction note preceding [section 101 of this title][/us/usc/t46/s101].
 
-    2006—[Pub. L. 109–163, § 3507(a)(2)(K)][/us/pl/109/163/s3507/a/2/K], which directed the amendment of section 1279e of the former Appendix to this title from which this section was derived, was repealed by [Pub. L. 110–181, § 3522(b)][/us/pl/110/181/s3522/b]. See 2008 Amendment note for subsecs. (b), (e) and Historical and Revision notes above.
+    2006—[Pub. L. 109–163][/us/pl/109/163], § 3507(a)(2)(K), which directed the amendment of section 1279e of the former Appendix to this title from which this section was derived, was repealed by [Pub. L. 110–181][/us/pl/110/181], § 3522(b). See 2008 Amendment note for subsecs. (b), (e) and Historical and Revision notes above.
 
 ----------
 
@@ -203,19 +203,19 @@ Pub. L. 103–160, title XIII, § 1358, Nov. 30, 1993, 107 Stat. 1816.  </td>
 ----------
 
 [/us/usc/t2/s661a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs661a
-[/us/pl/109/304/s8/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs8%2Fc
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1623
-[/us/pl/109/163/s3507/a/2/K]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs3507%2Fa%2F2%2FK
+[/us/pl/109/163/dC/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdC%2FtXXXV
 [/us/stat/119/3555]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3555
-[/us/pl/110/181/s3522/a/9/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs3522%2Fa%2F9%2FF
+[/us/pl/110/181/dC/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdC%2FtXXXV
 [/us/stat/122/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F598
-[/us/pl/110/181/s3522/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs3522%2Fb
-[/us/pl/109/163/s3507/a/2/K]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs3507%2Fa%2F2%2FK
-[/us/pl/110/181/s3522/a/9/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs3522%2Fa%2F9%2FF
-[/us/pl/109/163/s3507/a/2/K]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs3507%2Fa%2F2%2FK
+[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
+[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
 [/us/pl/109/304/s18/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs18%2Fa
 [/us/usc/t46/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs101
-[/us/pl/109/163/s3507/a/2/K]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs3507%2Fa%2F2%2FK
-[/us/pl/110/181/s3522/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs3522%2Fb
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
+[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
 
 

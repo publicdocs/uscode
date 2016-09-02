@@ -87,7 +87,7 @@
 
     Unless the parties agree otherwise, the exclusive remedy for a breach of a service contract is an action in an appropriate court. The contract dispute resolution forum may not be controlled by or in any way affiliated with a controlled carrier or by the government that owns or controls the carrier.
 
-([Pub. L. 109–304, § 7][/us/pl/109/304/s7], Oct. 6, 2006, [120 Stat. 1533][/us/stat/120/1533].)
+([Pub. L. 109–304][/us/pl/109/304], § 7, Oct. 6, 2006, [120 Stat. 1533][/us/stat/120/1533].)
 
 <table>
 
@@ -219,7 +219,7 @@ Pub. L. 98–237, § 8(c), Mar. 20, 1984, 98 Stat. 75; restated Pub. L. 105–
 ----------
 
 [/us/usc/t29/s151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs151
-[/us/pl/109/304/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs7
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1533
 [/us/usc/t29/s151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs151
 [/us/usc/t29/s141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs141

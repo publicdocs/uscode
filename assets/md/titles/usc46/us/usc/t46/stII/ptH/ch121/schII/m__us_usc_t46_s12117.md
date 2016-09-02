@@ -37,7 +37,7 @@
 
     A vessel satisfying subsection (a) is deemed to be owned only by citizens of the United States under sections 12103, 12132, and 50501 of this title.
 
-([Pub. L. 109–304, § 5][/us/pl/109/304/s5], Oct. 6, 2006, [120 Stat. 1499][/us/stat/120/1499].)
+([Pub. L. 109–304][/us/pl/109/304], § 5, Oct. 6, 2006, [120 Stat. 1499][/us/stat/120/1499].)
 
 <table>
 
@@ -85,7 +85,7 @@ Source (Statutes at Large)  </td>
 
  __Prior Provisions__ 
 
-    A prior section 12117, [Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 589][/us/stat/97/589]; [Pub. L. 100–710, title I, § 104(a)(4)][/us/pl/100/710/s104/a/4], Nov. 23, 1988, [102 Stat. 4750][/us/stat/102/4750], originally derived from section 65q of former Title 46, Shipping, related to recording of United States built vessels, prior to the general amendment of this chapter by [Pub. L. 109–304][/us/pl/109/304]. See [section 12137 of this title][/us/usc/t46/s12137].
+    A prior section 12117, [Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 589][/us/stat/97/589]; [Pub. L. 100–710, title I][/us/pl/100/710/tI], § 104(a)(4), Nov. 23, 1988, [102 Stat. 4750][/us/stat/102/4750], originally derived from section 65q of former Title 46, Shipping, related to recording of United States built vessels, prior to the general amendment of this chapter by [Pub. L. 109–304][/us/pl/109/304]. See [section 12137 of this title][/us/usc/t46/s12137].
 
 ----------
 
@@ -95,11 +95,11 @@ Source (Statutes at Large)  </td>
 ----------
 
 [/us/usc/t46/s12103/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs12103%2Fb
-[/us/pl/109/304/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs5
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1499
 [/us/pl/98/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F89
 [/us/stat/97/589]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F589
-[/us/pl/100/710/s104/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F710%2Fs104%2Fa%2F4
+[/us/pl/100/710/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F710%2FtI
 [/us/stat/102/4750]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4750
 [/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/usc/t46/s12137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs12137

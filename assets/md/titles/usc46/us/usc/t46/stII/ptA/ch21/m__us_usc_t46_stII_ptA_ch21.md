@@ -175,15 +175,15 @@
 
  __Amendments__ 
 
-    2010—[Pub. L. 111–281, title V, § 522(b)][/us/pl/111/281/s522/b], title VI, § 608(b), Oct. 15, 2010, [124 Stat. 2957][/us/stat/124/2957], 2968, added items 2116 to 2118.
+    2010—[Pub. L. 111–281, title V][/us/pl/111/281/tV], § 522(b), title VI, § 608(b), Oct. 15, 2010, [124 Stat. 2957][/us/stat/124/2957], 2968, added items 2116 to 2118.
 
-    2008—[Pub. L. 110–181, div. C, title XXXV, § 3529(a)(1)][/us/pl/110/181/s3529/a/1], Jan. 28, 2008, [122 Stat. 603][/us/stat/122/603], struck out item 2108 “Refund of penalties”.
+    2008—[Pub. L. 110–181, div. C, title XXXV][/us/pl/110/181/dC/tXXXV], § 3529(a)(1), Jan. 28, 2008, [122 Stat. 603][/us/stat/122/603], struck out item 2108 “Refund of penalties”.
 
-    1996—[Pub. L. 104–324, title III, § 303(b)][/us/pl/104/324/s303/b], Oct. 19, 1996, [110 Stat. 3917][/us/stat/110/3917], added item 2115.
+    1996—[Pub. L. 104–324, title III][/us/pl/104/324/tIII], § 303(b), Oct. 19, 1996, [110 Stat. 3917][/us/stat/110/3917], added item 2115.
 
-    1990—[Pub. L. 101–508, title X, § 10401(b)][/us/pl/101/508/s10401/b], Nov. 5, 1990, [104 Stat. 1388–398][/us/stat/104/1388-398], substituted “Fees” for “Fees prohibited” in item 2110.
+    1990—[Pub. L. 101–508, title X][/us/pl/101/508/tX], § 10401(b), Nov. 5, 1990, [104 Stat. 1388–398][/us/stat/104/1388-398], substituted “Fees” for “Fees prohibited” in item 2110.
 
-    1984—[Pub. L. 98–557, § 13(b)][/us/pl/98/557/s13/b], Oct. 30, 1984, [98 Stat. 2864][/us/stat/98/2864], added item 2114.
+    1984—[Pub. L. 98–557][/us/pl/98/557], § 13(b), Oct. 30, 1984, [98 Stat. 2864][/us/stat/98/2864], added item 2114.
 
 ----------
 
@@ -192,15 +192,15 @@
 ----------
 ----------
 
-[/us/pl/111/281/s522/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs522%2Fb
+[/us/pl/111/281/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2FtV
 [/us/stat/124/2957]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2957
-[/us/pl/110/181/s3529/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs3529%2Fa%2F1
+[/us/pl/110/181/dC/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdC%2FtXXXV
 [/us/stat/122/603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F603
-[/us/pl/104/324/s303/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2Fs303%2Fb
+[/us/pl/104/324/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2FtIII
 [/us/stat/110/3917]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3917
-[/us/pl/101/508/s10401/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs10401%2Fb
+[/us/pl/101/508/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtX
 [/us/stat/104/1388-398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-398
-[/us/pl/98/557/s13/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F557%2Fs13%2Fb
+[/us/pl/98/557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F557
 [/us/stat/98/2864]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2864
 
 

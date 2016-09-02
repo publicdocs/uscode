@@ -83,7 +83,7 @@
 
  __Amendments__ 
 
-    2008—[Pub. L. 110–375, § 1(2)][/us/pl/110/375/s1/2], Oct. 8, 2008, [122 Stat. 4055][/us/stat/122/4055], struck out item 80102 “License to salvage on Florida coast”.
+    2008—[Pub. L. 110–375][/us/pl/110/375], § 1(2), Oct. 8, 2008, [122 Stat. 4055][/us/stat/122/4055], struck out item 80102 “License to salvage on Florida coast”.
 
 ----------
 
@@ -92,7 +92,7 @@
 ----------
 ----------
 
-[/us/pl/110/375/s1/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F375%2Fs1%2F2
+[/us/pl/110/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F375
 [/us/stat/122/4055]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4055
 
 

@@ -17,7 +17,7 @@
 
     A contractor receiving an operating-differential subsidy, or a charterer under chapter 575 of this title, may not unjustly discriminate in any manner so as to give preference, directly or indirectly, to cargo in which the contractor or charterer has a direct or indirect ownership, purchase, or vending interest.
 
-([Pub. L. 109–304, § 8(c)][/us/pl/109/304/s8/c], Oct. 6, 2006, [120 Stat. 1672][/us/stat/120/1672].)
+([Pub. L. 109–304][/us/pl/109/304], § 8(c), Oct. 6, 2006, [120 Stat. 1672][/us/stat/120/1672].)
 
 <table>
 
@@ -74,7 +74,7 @@ June 29, 1936, ch. 858, title VIII, § 808, 49 Stat. 2015.  </td>
 ----------
 ----------
 
-[/us/pl/109/304/s8/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs8%2Fc
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1672]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1672
 [/us/usc/t18/s3559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3559
 

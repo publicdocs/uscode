@@ -117,7 +117,7 @@
 
     (h) For purposes of this section a “lender syndicate” means an arrangement established for the combined extension of credit of not less than $20,000,000 made up of four or more entities that each have a beneficial interest, held through an agent, under a trust arrangement established pursuant to subsection (f), no one of which may exercise powers thereunder without the concurrence of at least one other unaffiliated beneficiary.
 
-([Pub. L. 100–710, title I, § 102(c)][/us/pl/100/710/s102/c], Nov. 23, 1988, [102 Stat. 4743][/us/stat/102/4743]; [Pub. L. 101–225, title III, § 303(3)][/us/pl/101/225/s303/3], Dec. 12, 1989, [103 Stat. 1923][/us/stat/103/1923]; [Pub. L. 104–324, title XI, § 1113(a)][/us/pl/104/324/s1113/a], Oct. 19, 1996, [110 Stat. 3970][/us/stat/110/3970]; [Pub. L. 105–277, div. C, title II, § 202(b)][/us/pl/105/277/s202/b], Oct. 21, 1998, [112 Stat. 2681–618][/us/stat/112/2681-618]; [Pub. L. 105–383, title IV, § 401(c)(1)][/us/pl/105/383/s401/c/1]–(4), Nov. 13, 1998, [112 Stat. 3425][/us/stat/112/3425]; [Pub. L. 106–31, title III, § 3027(a)(1)][/us/pl/106/31/s3027/a/1], May 21, 1999, [113 Stat. 101][/us/stat/113/101]; [Pub. L. 107–20, title II, § 2202(b)][/us/pl/107/20/s2202/b], (c), July 24, 2001, [115 Stat. 168][/us/stat/115/168], 169; [Pub. L. 109–304][/us/pl/109/304], §§ 15(29), 16(c)(7), Oct. 6, 2006, [120 Stat. 1704][/us/stat/120/1704], 1706.)
+([Pub. L. 100–710, title I][/us/pl/100/710/tI], § 102(c), Nov. 23, 1988, [102 Stat. 4743][/us/stat/102/4743]; [Pub. L. 101–225, title III][/us/pl/101/225/tIII], § 303(3), Dec. 12, 1989, [103 Stat. 1923][/us/stat/103/1923]; [Pub. L. 104–324, title XI][/us/pl/104/324/tXI], § 1113(a), Oct. 19, 1996, [110 Stat. 3970][/us/stat/110/3970]; [Pub. L. 105–277, div. C, title II][/us/pl/105/277/dC/tII], § 202(b), Oct. 21, 1998, [112 Stat. 2681–618][/us/stat/112/2681-618]; [Pub. L. 105–383, title IV][/us/pl/105/383/tIV], § 401(c)(1)–(4), Nov. 13, 1998, [112 Stat. 3425][/us/stat/112/3425]; [Pub. L. 106–31, title III][/us/pl/106/31/tIII], § 3027(a)(1), May 21, 1999, [113 Stat. 101][/us/stat/113/101]; [Pub. L. 107–20, title II][/us/pl/107/20/tII], § 2202(b), (c), July 24, 2001, [115 Stat. 168][/us/stat/115/168], 169; [Pub. L. 109–304][/us/pl/109/304], §§ 15(29), 16(c)(7), Oct. 6, 2006, [120 Stat. 1704][/us/stat/120/1704], 1706.)
 
 <table>
 
@@ -249,51 +249,51 @@ New  </td>
 
  __Amendments__ 
 
-    2006—Subsec. (a)(4)(A). [Pub. L. 109–304, § 15(29)(A)][/us/pl/109/304/s15/29/A], substituted “section 12113(c)” for “section 12102(c)”.
+    2006—Subsec. (a)(4)(A). [Pub. L. 109–304][/us/pl/109/304], § 15(29)(A), substituted “section 12113(c)” for “section 12102(c)”.
 
-    Subsec. (a)(4)(E). [Pub. L. 109–304, § 15(29)(B)][/us/pl/109/304/s15/29/B], substituted “for purposes of documentation under section 12103” for “under section 12102(a)”.
+    Subsec. (a)(4)(E). [Pub. L. 109–304][/us/pl/109/304], § 15(29)(B), substituted “for purposes of documentation under section 12103” for “under section 12102(a)”.
 
-    Subsec. (d)(1)(A). [Pub. L. 109–304, § 16(c)(7)][/us/pl/109/304/s16/c/7], substituted “section 13107(b)(8)” for “section 13106(b)(8)”.
+    Subsec. (d)(1)(A). [Pub. L. 109–304][/us/pl/109/304], § 16(c)(7), substituted “section 13107(b)(8)” for “section 13106(b)(8)”.
 
-    Subsec. (f)(2). [Pub. L. 109–304, § 15(29)(C)][/us/pl/109/304/s15/29/C], substituted “section 12113(c)” for “section 12102(c)”.
+    Subsec. (f)(2). [Pub. L. 109–304][/us/pl/109/304], § 15(29)(C), substituted “section 12113(c)” for “section 12102(c)”.
 
-    2001—Subsec. (a)(4)(B) to (F). [Pub. L. 107–20, § 2202(b)][/us/pl/107/20/s2202/b], added subpars. (B) to (F) and struck out former subpars. (B) and (C) which read as follows:
+    2001—Subsec. (a)(4)(B) to (F). [Pub. L. 107–20][/us/pl/107/20], § 2202(b), added subpars. (B) to (F) and struck out former subpars. (B) and (C) which read as follows:
 
     “(B) a state or federally chartered financial institution that satisfies the controlling interest criteria of section 2(b) of the Shipping Act, 1916 ([46 U.S.C. 802(b)][/us/usc/t46/s802/b]);
 
     “(C) a person that complies with the provisions of [section 12102(c)(4) of this title][/us/usc/t46/s12102/c/4].”
 
-    Subsecs. (f) to (h). [Pub. L. 107–20, § 2202(c)][/us/pl/107/20/s2202/c], added subsecs. (f) to (h).
+    Subsecs. (f) to (h). [Pub. L. 107–20][/us/pl/107/20], § 2202(c), added subsecs. (f) to (h).
 
-    1999—Subsec. (a)(4). [Pub. L. 106–31][/us/pl/106/31] made technical amendment to directory language of [Pub. L. 105–277, § 202(b)][/us/pl/105/277/s202/b]. See 1998 Amendment note below.
+    1999—Subsec. (a)(4). [Pub. L. 106–31][/us/pl/106/31] made technical amendment to directory language of [Pub. L. 105–277][/us/pl/105/277], § 202(b). See 1998 Amendment note below.
 
-    1998—Subsec. (a)(4). [Pub. L. 105–277, § 202(b)][/us/pl/105/277/s202/b], as amended by [Pub. L. 106–31][/us/pl/106/31], added par. (4).
+    1998—Subsec. (a)(4). [Pub. L. 105–277][/us/pl/105/277], § 202(b), as amended by [Pub. L. 106–31][/us/pl/106/31], added par. (4).
 
-    Subsec. (b). [Pub. L. 105–383, § 401(c)(1)][/us/pl/105/383/s401/c/1], added subsec. (b) and struck out former subsec. (b) which read as follows: “A preferred mortgage filed or recorded under this chapter may have any rate of interest that the parties to the mortgage agree to.”
+    Subsec. (b). [Pub. L. 105–383][/us/pl/105/383], § 401(c)(1), added subsec. (b) and struck out former subsec. (b) which read as follows: “A preferred mortgage filed or recorded under this chapter may have any rate of interest that the parties to the mortgage agree to.”
 
-    Subsec. (d)(1). [Pub. L. 105–383, § 401(c)(2)][/us/pl/105/383/s401/c/2], substituted “mortgage, security agreement, or instrument” for “mortgage or instrument” in introductory provisions and subpar. (B).
+    Subsec. (d)(1). [Pub. L. 105–383][/us/pl/105/383], § 401(c)(2), substituted “mortgage, security agreement, or instrument” for “mortgage or instrument” in introductory provisions and subpar. (B).
 
-    Subsec. (d)(2). [Pub. L. 105–383, § 401(c)(4)][/us/pl/105/383/s401/c/4], substituted “mortgages, security agreements, or instruments” for “mortgages or instruments” in introductory provisions.
+    Subsec. (d)(2). [Pub. L. 105–383][/us/pl/105/383], § 401(c)(4), substituted “mortgages, security agreements, or instruments” for “mortgages or instruments” in introductory provisions.
 
-    Subsec. (d)(3). [Pub. L. 105–383, § 401(c)(3)][/us/pl/105/383/s401/c/3], added par. (3) and struck out former par. (3) which read as follows: “A preferred mortgage under this subsection continues to be a preferred mortgage if the vessel is no longer titled in the State where the mortgage was made.”
+    Subsec. (d)(3). [Pub. L. 105–383][/us/pl/105/383], § 401(c)(3), added par. (3) and struck out former par. (3) which read as follows: “A preferred mortgage under this subsection continues to be a preferred mortgage if the vessel is no longer titled in the State where the mortgage was made.”
 
     1996—Subsec. (a). [Pub. L. 104–324][/us/pl/104/324] amended subsec. (a) generally. Prior to amendment, subsec. (a) consisted of 2 pars. with substantially similar provisions defining a preferred mortgage except that it included a mortgage with a State, the United States Government, a federally insured depository institution, or specified individual as mortgagee.
 
-    1989—Subsec. (a)(2). [Pub. L. 101–225, § 303(3)(A)][/us/pl/101/225/s303/3/A], amended par. (2) generally. Prior to amendment, par. (2) read as follows: “Paragraph (1)(D) of this subsection does not apply to a vessel operated only as a fishing vessel, fish processing vessel, or a fish tender vessel (as defined in [section 2101 of this title][/us/usc/t46/s2101]) or to a vessel operated only for pleasure.”
+    1989—Subsec. (a)(2). [Pub. L. 101–225][/us/pl/101/225], § 303(3)(A), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “Paragraph (1)(D) of this subsection does not apply to a vessel operated only as a fishing vessel, fish processing vessel, or a fish tender vessel (as defined in [section 2101 of this title][/us/usc/t46/s2101]) or to a vessel operated only for pleasure.”
 
-    Subsec. (d)(1). [Pub. L. 101–225, § 303(3)(B)][/us/pl/101/225/s303/3/B], substituted “granting a security interest perfected under State law” for “representing financing of a vessel under State law that is made under applicable State law”.
+    Subsec. (d)(1). [Pub. L. 101–225][/us/pl/101/225], § 303(3)(B), substituted “granting a security interest perfected under State law” for “representing financing of a vessel under State law that is made under applicable State law”.
 
-    Subsec. (e). [Pub. L. 101–225, § 303(3)(C)][/us/pl/101/225/s303/3/C], substituted “the status of the preferred mortgage” for “the validity of the preferred mortgage” in pars. (1) and (2).
+    Subsec. (e). [Pub. L. 101–225][/us/pl/101/225], § 303(3)(C), substituted “the status of the preferred mortgage” for “the validity of the preferred mortgage” in pars. (1) and (2).
 
  __Effective Date of 2001 Amendment__ 
 
-[Pub. L. 107–20, title II, § 2202(d)][/us/pl/107/20/s2202/d], July 24, 2001, [115 Stat. 170][/us/stat/115/170], provided that: 
+[Pub. L. 107–20, title II][/us/pl/107/20/tII], § 2202(d), July 24, 2001, [115 Stat. 170][/us/stat/115/170], provided that: 
 
 > “[Section 31322 of title 46][/us/usc/t46/s31322], United States Code as amended in this section, and as amended by section 202(b) of the American Fisheries Act ([Public Law 105–277][/us/pl/105/277], division C, title II) shall not take effect until April 1, 2003, nor shall the Secretary of Transportation, in determining whether a vessel owner complies with the requirements of [section 12102(c) of title 46][/us/usc/t46/s12102/c], United States Code \[now [46 U.S.C. 12113(b)(2)][/us/usc/t46/s12113/b/2] to (d)\], consider the citizenship status of a lender, in its capacity as a lender with respect to that vessel owner, until after April 1, 2003.”
 
  __Effective Date of 1998 Amendment__ 
 
-[Pub. L. 105–277, div. C, title II, § 203(a)][/us/pl/105/277/s203/a], Oct. 21, 1998, [112 Stat. 2681–619][/us/stat/112/2681-619], provided that: 
+[Pub. L. 105–277, div. C, title II][/us/pl/105/277/dC/tII], § 203(a), Oct. 21, 1998, [112 Stat. 2681–619][/us/stat/112/2681-619], provided that: 
 
 > “The amendments made by section 202 \[amending this section and former [section 12102 of this title][/us/usc/t46/s12102]\] shall take effect on October 1, 2001.”
 
@@ -313,19 +313,19 @@ New  </td>
 [/us/usc/t46/s12103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs12103
 [/us/usc/t46/s13107/b/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs13107%2Fb%2F8
 [/us/usc/t46/s12113/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs12113%2Fc
-[/us/pl/100/710/s102/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F710%2Fs102%2Fc
+[/us/pl/100/710/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F710%2FtI
 [/us/stat/102/4743]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4743
-[/us/pl/101/225/s303/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F225%2Fs303%2F3
+[/us/pl/101/225/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F225%2FtIII
 [/us/stat/103/1923]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1923
-[/us/pl/104/324/s1113/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2Fs1113%2Fa
+[/us/pl/104/324/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2FtXI
 [/us/stat/110/3970]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3970
-[/us/pl/105/277/s202/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs202%2Fb
+[/us/pl/105/277/dC/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdC%2FtII
 [/us/stat/112/2681-618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-618
-[/us/pl/105/383/s401/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F383%2Fs401%2Fc%2F1
+[/us/pl/105/383/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F383%2FtIV
 [/us/stat/112/3425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3425
-[/us/pl/106/31/s3027/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F31%2Fs3027%2Fa%2F1
+[/us/pl/106/31/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F31%2FtIII
 [/us/stat/113/101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F101
-[/us/pl/107/20/s2202/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F20%2Fs2202%2Fb
+[/us/pl/107/20/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F20%2FtII
 [/us/stat/115/168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F168
 [/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1704
@@ -333,34 +333,34 @@ New  </td>
 [/us/usc/t46/s13106/b/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs13106%2Fb%2F8
 [/us/pl/99/626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F626
 [/us/usc/t46/s31322/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs31322%2Fa
-[/us/pl/109/304/s15/29/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs15%2F29%2FA
-[/us/pl/109/304/s15/29/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs15%2F29%2FB
-[/us/pl/109/304/s16/c/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs16%2Fc%2F7
-[/us/pl/109/304/s15/29/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs15%2F29%2FC
-[/us/pl/107/20/s2202/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F20%2Fs2202%2Fb
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
+[/us/pl/107/20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F20
 [/us/usc/t46/s802/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs802%2Fb
 [/us/usc/t46/s12102/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs12102%2Fc%2F4
-[/us/pl/107/20/s2202/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F20%2Fs2202%2Fc
+[/us/pl/107/20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F20
 [/us/pl/106/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F31
-[/us/pl/105/277/s202/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs202%2Fb
-[/us/pl/105/277/s202/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs202%2Fb
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/pl/106/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F31
-[/us/pl/105/383/s401/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F383%2Fs401%2Fc%2F1
-[/us/pl/105/383/s401/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F383%2Fs401%2Fc%2F2
-[/us/pl/105/383/s401/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F383%2Fs401%2Fc%2F4
-[/us/pl/105/383/s401/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F383%2Fs401%2Fc%2F3
+[/us/pl/105/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F383
+[/us/pl/105/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F383
+[/us/pl/105/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F383
+[/us/pl/105/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F383
 [/us/pl/104/324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324
-[/us/pl/101/225/s303/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F225%2Fs303%2F3%2FA
+[/us/pl/101/225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F225
 [/us/usc/t46/s2101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs2101
-[/us/pl/101/225/s303/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F225%2Fs303%2F3%2FB
-[/us/pl/101/225/s303/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F225%2Fs303%2F3%2FC
-[/us/pl/107/20/s2202/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F20%2Fs2202%2Fd
+[/us/pl/101/225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F225
+[/us/pl/101/225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F225
+[/us/pl/107/20/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F20%2FtII
 [/us/stat/115/170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F170
 [/us/usc/t46/s31322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs31322
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/usc/t46/s12102/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs12102%2Fc
 [/us/usc/t46/s12113/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs12113%2Fb%2F2
-[/us/pl/105/277/s203/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs203%2Fa
+[/us/pl/105/277/dC/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdC%2FtII
 [/us/stat/112/2681-619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-619
 [/us/usc/t46/s12102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs12102
 [/us/pl/100/710/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F710%2Fs107

@@ -23,7 +23,7 @@
 
     An operator not filing a report, account, record, or memorandum required by the Secretary under this section is liable to the United States Government for a civil penalty of $50 for each day of the violation. A penalty imposed under this section on the operator of a vessel constitutes a lien on the vessel involved in the violation. A civil action in rem to enforce the lien may be brought in the district court of the United States for any district in which the vessel is found. The Secretary may remit or mitigate any penalty imposed under this section.
 
-([Pub. L. 109–304, § 8(b)][/us/pl/109/304/s8/b], Oct. 6, 2006, [120 Stat. 1562][/us/stat/120/1562].)
+([Pub. L. 109–304][/us/pl/109/304], § 8(b), Oct. 6, 2006, [120 Stat. 1562][/us/stat/120/1562].)
 
 <table>
 
@@ -78,7 +78,7 @@ June 29, 1936, ch. 858, title II, § 212(A), as added June 25, 1956, ch. 437, 
 ----------
 ----------
 
-[/us/pl/109/304/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs8%2Fb
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1562]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1562
 
 

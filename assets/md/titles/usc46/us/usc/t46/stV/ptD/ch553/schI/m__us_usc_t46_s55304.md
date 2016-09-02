@@ -17,7 +17,7 @@
 
     It is the sense of Congress that any loans made by an instrumentality of the United States Government to foster the exporting of agricultural or other products shall provide that the products may be transported only on vessels of the United States unless, as to any or all of those products, the Secretary of Transportation, after investigation, certifies to the instrumentality that vessels of the United States are not available in sufficient number, in sufficient tonnage capacity, on necessary schedules, or at reasonable rates.
 
-([Pub. L. 109–304, § 8(c)][/us/pl/109/304/s8/c], Oct. 6, 2006, [120 Stat. 1642][/us/stat/120/1642].)
+([Pub. L. 109–304][/us/pl/109/304], § 8(c), Oct. 6, 2006, [120 Stat. 1642][/us/stat/120/1642].)
 
 <table>
 
@@ -74,7 +74,7 @@ Mar. 26, 1934, ch. 90, 48 Stat. 500; June 29, 1936, ch. 858, § 204, 49 Stat. 
 ----------
 ----------
 
-[/us/pl/109/304/s8/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs8%2Fc
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1642]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1642
 [/us/stat/48/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F500
 

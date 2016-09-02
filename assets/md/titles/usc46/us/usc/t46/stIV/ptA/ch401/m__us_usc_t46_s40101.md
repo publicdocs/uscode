@@ -25,7 +25,7 @@
 
     (4) promote the growth and development of United States exports through competitive and efficient ocean transportation and by placing a greater reliance on the marketplace.
 
-([Pub. L. 109–304, § 7][/us/pl/109/304/s7], Oct. 6, 2006, [120 Stat. 1523][/us/stat/120/1523].)
+([Pub. L. 109–304][/us/pl/109/304], § 7, Oct. 6, 2006, [120 Stat. 1523][/us/stat/120/1523].)
 
 <table>
 
@@ -75,7 +75,7 @@ Pub. L. 98–237, § 2, Mar. 20, 1984, 98 Stat. 67; Pub. L. 105–258, title I
 
  __Effects on Certain Agreements and Contracts__ 
 
-[Pub. L. 98–237, § 20(d)][/us/pl/98/237/s20/d], Mar. 20, 1984, [98 Stat. 90][/us/stat/98/90]; [Pub. L. 105–258, title I, § 117(1)][/us/pl/105/258/s117/1], Oct. 14, 1998, [112 Stat. 1914][/us/stat/112/1914], provided that: 
+[Pub. L. 98–237][/us/pl/98/237], § 20(d), Mar. 20, 1984, [98 Stat. 90][/us/stat/98/90]; [Pub. L. 105–258, title I][/us/pl/105/258/tI], § 117(1), Oct. 14, 1998, [112 Stat. 1914][/us/stat/112/1914], provided that: 
 
 > “All agreements, contracts, modifications, licenses, and exemptions previously issued, approved, or effective under the Shipping Act, 1916 \[former 46 U.S.C. App. 801 et seq., see Disposition Table preceding [section 101 of this title][/us/usc/t46/s101]\], or the Shipping Act of 1984 \[former 46 U.S.C. App. 1701 et seq., see Disposition Table preceding [section 101 of this title][/us/usc/t46/s101]\], shall continue in force and effect as if issued or effective under this Act, as amended by the Ocean Shipping Reform Act of 1998 \[[Pub. L. 105–258][/us/pl/105/258], Oct. 14, 1998, [112 Stat. 1902][/us/stat/112/1902]\], and all new agreements, contracts, and modifications to existing, pending, or new contracts or agreements shall be considered under this Act, as amended by the Ocean Shipping Reform Act of 1998.”
 
@@ -86,11 +86,11 @@ Pub. L. 98–237, § 2, Mar. 20, 1984, 98 Stat. 67; Pub. L. 105–258, title I
 ----------
 ----------
 
-[/us/pl/109/304/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs7
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1523
-[/us/pl/98/237/s20/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F237%2Fs20%2Fd
+[/us/pl/98/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F237
 [/us/stat/98/90]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F90
-[/us/pl/105/258/s117/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F258%2Fs117%2F1
+[/us/pl/105/258/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F258%2FtI
 [/us/stat/112/1914]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1914
 [/us/usc/t46/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs101
 [/us/usc/t46/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs101

@@ -27,7 +27,7 @@
 
         (3) to have the vessel proceed to a place to make repairs necessary to obtain a certificate of inspection.
 
-([Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 515][/us/stat/97/515]; [Pub. L. 98–498, title II, § 211(b)][/us/pl/98/498/s211/b], Oct. 19, 1984, [98 Stat. 2304][/us/stat/98/2304].)
+([Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 515][/us/stat/97/515]; [Pub. L. 98–498, title II][/us/pl/98/498/tII], § 211(b), Oct. 19, 1984, [98 Stat. 2304][/us/stat/98/2304].)
 
 <table>
 
@@ -85,7 +85,7 @@ Source section (U.S. Code)  </td>
 [/us/usc/t46/s3309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs3309
 [/us/pl/98/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F89
 [/us/stat/97/515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F515
-[/us/pl/98/498/s211/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F498%2Fs211%2Fb
+[/us/pl/98/498/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F498%2FtII
 [/us/stat/98/2304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2304
 [/us/pl/98/498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F498
 

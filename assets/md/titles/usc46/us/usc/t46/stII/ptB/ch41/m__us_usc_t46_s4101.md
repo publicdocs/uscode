@@ -21,7 +21,7 @@
 
     (2) owned in the United States and operating on the high seas.
 
-([Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 528][/us/stat/97/528]; [Pub. L. 100–424, § 8(b)][/us/pl/100/424/s8/b], Sept. 9, 1988, [102 Stat. 1593][/us/stat/102/1593].)
+([Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 528][/us/stat/97/528]; [Pub. L. 100–424][/us/pl/100/424], § 8(b), Sept. 9, 1988, [102 Stat. 1593][/us/stat/102/1593].)
 
 <table>
 
@@ -78,7 +78,7 @@ Source section (U.S. Code)  </td>
 
 [/us/pl/98/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F89
 [/us/stat/97/528]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F528
-[/us/pl/100/424/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F424%2Fs8%2Fb
+[/us/pl/100/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F424
 [/us/stat/102/1593]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1593
 [/us/pl/100/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F424
 [/us/pl/98/89/s2/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F89%2Fs2%2Fg%2F1

@@ -41,13 +41,13 @@
 
     (b) A seaman alleging discharge or discrimination in violation of subsection (a) of this section, or another person at the seaman’s request, may file a complaint with respect to such allegation in the same manner as a complaint may be filed under subsection (b) of [section 31105 of title 49][/us/usc/t49/s31105]. Such complaint shall be subject to the procedures, requirements, and rights described in that section, including with respect to the right to file an objection, the right of a person to file for a petition for review under subsection (c) of that section, and the requirement to bring a civil action under subsection (d) of that section.
 
-(Added [Pub. L. 98–557, § 13(a)][/us/pl/98/557/s13/a], Oct. 30, 1984, [98 Stat. 2863][/us/stat/98/2863]; amended [Pub. L. 107–295, title IV, § 428][/us/pl/107/295/s428], Nov. 25, 2002, [116 Stat. 2127][/us/stat/116/2127]; [Pub. L. 111–281, title VI, § 611(a)][/us/pl/111/281/s611/a], Oct. 15, 2010, [124 Stat. 2969][/us/stat/124/2969].)
+(Added [Pub. L. 98–557][/us/pl/98/557], § 13(a), Oct. 30, 1984, [98 Stat. 2863][/us/stat/98/2863]; amended [Pub. L. 107–295, title IV][/us/pl/107/295/tIV], § 428, Nov. 25, 2002, [116 Stat. 2127][/us/stat/116/2127]; [Pub. L. 111–281, title VI][/us/pl/111/281/tVI], § 611(a), Oct. 15, 2010, [124 Stat. 2969][/us/stat/124/2969].)
 
  __Amendments__ 
 
-    2010—Subsec. (a)(1)(C) to (G). [Pub. L. 111–281, § 611(a)(1)][/us/pl/111/281/s611/a/1]–(3), added subpars. (C) to (G).
+    2010—Subsec. (a)(1)(C) to (G). [Pub. L. 111–281][/us/pl/111/281], § 611(a)(1)–(3), added subpars. (C) to (G).
 
-    Subsec. (b). [Pub. L. 111–281, § 611(a)(4)][/us/pl/111/281/s611/a/4], amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “A seaman discharged or otherwise discriminated against in violation of this section may bring an action in an appropriate district court of the United States. In that action, the court may order any appropriate relief, including—
+    Subsec. (b). [Pub. L. 111–281][/us/pl/111/281], § 611(a)(4), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “A seaman discharged or otherwise discriminated against in violation of this section may bring an action in an appropriate district court of the United States. In that action, the court may order any appropriate relief, including—
 
     “(1) restraining violations of this section;
 
@@ -57,13 +57,13 @@
 
     “(4) an award of costs and reasonable attorney’s fees to a prevailing employer not exceeding $1,000 if the court finds that a complaint filed under this section is frivolous or has been brought in bad faith.”
 
-    2002—Subsec. (a). [Pub. L. 107–295, § 428(a)][/us/pl/107/295/s428/a], amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “An owner, charterer, managing operator, agent, master, or individual in charge of a vessel may not discharge or in any manner discriminate against a seaman because the seaman in good faith has reported or is about to report to the Coast Guard that the seaman believes that a violation of this subtitle, or a regulation issued under this subtitle, has occurred.”
+    2002—Subsec. (a). [Pub. L. 107–295][/us/pl/107/295], § 428(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “An owner, charterer, managing operator, agent, master, or individual in charge of a vessel may not discharge or in any manner discriminate against a seaman because the seaman in good faith has reported or is about to report to the Coast Guard that the seaman believes that a violation of this subtitle, or a regulation issued under this subtitle, has occurred.”
 
-    Subsec. (b)(3), (4). [Pub. L. 107–295, § 428(b)][/us/pl/107/295/s428/b], added pars. (3) and (4).
+    Subsec. (b)(3), (4). [Pub. L. 107–295][/us/pl/107/295], § 428(b), added pars. (3) and (4).
 
  __Savings Provision__ 
 
-[Pub. L. 111–281, title VI, § 611(b)][/us/pl/111/281/s611/b], Oct. 15, 2010, [124 Stat. 2970][/us/stat/124/2970], provided that: 
+[Pub. L. 111–281, title VI][/us/pl/111/281/tVI], § 611(b), Oct. 15, 2010, [124 Stat. 2970][/us/stat/124/2970], provided that: 
 
 > “This section \[amending this section\] shall not affect the application of [section 2114(b) of title 46][/us/usc/t46/s2114/b], United States Code, as in effect before the date of enactment of this Act \[Oct. 15, 2010\], to an action filed under that section before that date.”
 
@@ -79,17 +79,17 @@
 ----------
 
 [/us/usc/t49/s31105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs31105
-[/us/pl/98/557/s13/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F557%2Fs13%2Fa
+[/us/pl/98/557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F557
 [/us/stat/98/2863]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2863
-[/us/pl/107/295/s428]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295%2Fs428
+[/us/pl/107/295/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295%2FtIV
 [/us/stat/116/2127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2127
-[/us/pl/111/281/s611/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs611%2Fa
+[/us/pl/111/281/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2FtVI
 [/us/stat/124/2969]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2969
-[/us/pl/111/281/s611/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs611%2Fa%2F1
-[/us/pl/111/281/s611/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs611%2Fa%2F4
-[/us/pl/107/295/s428/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295%2Fs428%2Fa
-[/us/pl/107/295/s428/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295%2Fs428%2Fb
-[/us/pl/111/281/s611/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs611%2Fb
+[/us/pl/111/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281
+[/us/pl/111/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281
+[/us/pl/107/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295
+[/us/pl/107/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295
+[/us/pl/111/281/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2FtVI
 [/us/stat/124/2970]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2970
 [/us/usc/t46/s2114/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs2114%2Fb
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542

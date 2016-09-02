@@ -37,7 +37,7 @@
 
     If goods are imported without payment of the duty required by this section, the goods and the vessel in which they are imported may be seized by, and forfeited to, the United States Government.
 
-([Pub. L. 109–304, § 9(b)][/us/pl/109/304/s9/b], Oct. 6, 2006, [120 Stat. 1680][/us/stat/120/1680].)
+([Pub. L. 109–304][/us/pl/109/304], § 9(b), Oct. 6, 2006, [120 Stat. 1680][/us/stat/120/1680].)
 
 <table>
 
@@ -130,7 +130,7 @@ Oct. 3, 1913, ch. 16, § IV(J)(2), 38 Stat. 196.  </td>
 ----------
 ----------
 
-[/us/pl/109/304/s9/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs9%2Fb
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1680]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1680
 
 

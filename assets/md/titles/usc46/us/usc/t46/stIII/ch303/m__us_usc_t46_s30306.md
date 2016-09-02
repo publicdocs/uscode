@@ -17,7 +17,7 @@
 
     When a cause of action exists under the law of a foreign country for death by wrongful act, neglect, or default on the high seas, a civil action in admiralty may be brought in a court of the United States based on the foreign cause of action, without abatement of the amount for which recovery is authorized.
 
-([Pub. L. 109–304, § 6(c)][/us/pl/109/304/s6/c], Oct. 6, 2006, [120 Stat. 1511][/us/stat/120/1511].)
+([Pub. L. 109–304][/us/pl/109/304], § 6(c), Oct. 6, 2006, [120 Stat. 1511][/us/stat/120/1511].)
 
 <table>
 
@@ -74,7 +74,7 @@ Mar. 30, 1920, ch. 111, § 4, 41 Stat. 537.  </td>
 ----------
 ----------
 
-[/us/pl/109/304/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs6%2Fc
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1511
 
 

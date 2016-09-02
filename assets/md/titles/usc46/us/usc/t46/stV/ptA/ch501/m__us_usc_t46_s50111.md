@@ -27,7 +27,7 @@
 
         (2) addresses any other matter with respect to the Maritime Administration that the Secretary determines is appropriate.
 
-([Pub. L. 109–304, § 8(b)][/us/pl/109/304/s8/b], Oct. 6, 2006, [120 Stat. 1560][/us/stat/120/1560]; [Pub. L. 114–92, div. A, title X, § 1074(c)(1)][/us/pl/114/92/s1074/c/1], Nov. 25, 2015, [129 Stat. 996][/us/stat/129/996].)
+([Pub. L. 109–304][/us/pl/109/304], § 8(b), Oct. 6, 2006, [120 Stat. 1560][/us/stat/120/1560]; [Pub. L. 114–92, div. A, title X][/us/pl/114/92/dA/tX], § 1074(c)(1), Nov. 25, 2015, [129 Stat. 996][/us/stat/129/996].)
 
 <table>
 
@@ -169,9 +169,9 @@ June 29, 1936, ch. 858, title II, § 212(g), 49 Stat. 1990; Pub. L. 90–268, 
 ----------
 
 [/us/usc/t31/s1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105
-[/us/pl/109/304/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs8%2Fb
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1560]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1560
-[/us/pl/114/92/s1074/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1074%2Fc%2F1
+[/us/pl/114/92/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtX
 [/us/stat/129/996]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F996
 [/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
 

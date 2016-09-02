@@ -17,7 +17,7 @@
 
     Except as provided in sections 2304 and 2306 of this title, this chapter applies to a vessel operated on waters subject to the jurisdiction of the United States (including the territorial sea of the United States as described in Presidential Proclamation No. 5928 of December 27, 1988) and, for a vessel owned in the United States, on the high seas.
 
-([Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 508][/us/stat/97/508]; [Pub. L. 98–498, title II, § 212(a)(2)][/us/pl/98/498/s212/a/2], Oct. 19, 1984, [98 Stat. 2305][/us/stat/98/2305]; [Pub. L. 105–383, title III, § 301(b)(2)][/us/pl/105/383/s301/b/2], Nov. 13, 1998, [112 Stat. 3417][/us/stat/112/3417]; [Pub. L. 109–304, § 15(7)][/us/pl/109/304/s15/7], Oct. 6, 2006, [120 Stat. 1702][/us/stat/120/1702].)
+([Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 508][/us/stat/97/508]; [Pub. L. 98–498, title II][/us/pl/98/498/tII], § 212(a)(2), Oct. 19, 1984, [98 Stat. 2305][/us/stat/98/2305]; [Pub. L. 105–383, title III][/us/pl/105/383/tIII], § 301(b)(2), Nov. 13, 1998, [112 Stat. 3417][/us/stat/112/3417]; [Pub. L. 109–304][/us/pl/109/304], § 15(7), Oct. 6, 2006, [120 Stat. 1702][/us/stat/120/1702].)
 
 <table>
 
@@ -82,11 +82,11 @@ Source section (U.S. Code)  </td>
 
 [/us/pl/98/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F89
 [/us/stat/97/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F508
-[/us/pl/98/498/s212/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F498%2Fs212%2Fa%2F2
+[/us/pl/98/498/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F498%2FtII
 [/us/stat/98/2305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2305
-[/us/pl/105/383/s301/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F383%2Fs301%2Fb%2F2
+[/us/pl/105/383/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F383%2FtIII
 [/us/stat/112/3417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3417
-[/us/pl/109/304/s15/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs15%2F7
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1702
 [/us/usc/t43/s1331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1331
 [/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304

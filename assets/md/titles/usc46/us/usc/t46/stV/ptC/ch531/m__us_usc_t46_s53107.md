@@ -81,7 +81,7 @@
 
         Except as may be expressly agreed to in an Emergency Preparedness Agreement, or as otherwise provided by law, the Government shall not be liable for disruption of a contractor’s commercial business or other consequential damages to a contractor arising from activation of commercial transportation resources under an Emergency Preparedness Agreement.
 
-(Added [Pub. L. 108–136, div. C, title XXXV, § 3531(a)][/us/pl/108/136/s3531/a], Nov. 24, 2003, [117 Stat. 1814][/us/stat/117/1814]; amended [Pub. L. 109–304, § 13(a)(6)][/us/pl/109/304/s13/a/6], Oct. 6, 2006, [120 Stat. 1701][/us/stat/120/1701]; [Pub. L. 111–84, div. C, title XXXV, § 3505][/us/pl/111/84/s3505], Oct. 28, 2009, [123 Stat. 2720][/us/stat/123/2720]; [Pub. L. 112–239, div. C, title XXXV, § 3508(g)][/us/pl/112/239/s3508/g], Jan. 2, 2013, [126 Stat. 2225][/us/stat/126/2225].)
+(Added [Pub. L. 108–136, div. C, title XXXV][/us/pl/108/136/dC/tXXXV], § 3531(a), Nov. 24, 2003, [117 Stat. 1814][/us/stat/117/1814]; amended [Pub. L. 109–304][/us/pl/109/304], § 13(a)(6), Oct. 6, 2006, [120 Stat. 1701][/us/stat/120/1701]; [Pub. L. 111–84, div. C, title XXXV][/us/pl/111/84/dC/tXXXV], § 3505, Oct. 28, 2009, [123 Stat. 2720][/us/stat/123/2720]; [Pub. L. 112–239, div. C, title XXXV][/us/pl/112/239/dC/tXXXV], § 3508(g), Jan. 2, 2013, [126 Stat. 2225][/us/stat/126/2225].)
 
  __References in Text__ 
 
@@ -105,13 +105,13 @@
 [/us/usc/t10/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101
 [/us/usc/t10/s2631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2631
 [/us/usc/t10/s2631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2631
-[/us/pl/108/136/s3531/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs3531%2Fa
+[/us/pl/108/136/dC/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdC%2FtXXXV
 [/us/stat/117/1814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1814
-[/us/pl/109/304/s13/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs13%2Fa%2F6
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1701
-[/us/pl/111/84/s3505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs3505
+[/us/pl/111/84/dC/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdC%2FtXXXV
 [/us/stat/123/2720]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2720
-[/us/pl/112/239/s3508/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs3508%2Fg
+[/us/pl/112/239/dC/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdC%2FtXXXV
 [/us/stat/126/2225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2225
 [/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
 [/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239

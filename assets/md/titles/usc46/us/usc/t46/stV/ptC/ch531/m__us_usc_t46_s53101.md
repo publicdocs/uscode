@@ -91,21 +91,21 @@
 
     The term “United States-documented vessel” means a vessel documented under chapter 121 of this title.
 
-(Added [Pub. L. 108–136, div. C, title XXXV, § 3531(a)][/us/pl/108/136/s3531/a], Nov. 24, 2003, [117 Stat. 1803][/us/stat/117/1803]; amended [Pub. L. 112–239, div. C, title XXXV, § 3508(a)][/us/pl/112/239/s3508/a], Jan. 2, 2013, [126 Stat. 2223][/us/stat/126/2223].)
+(Added [Pub. L. 108–136, div. C, title XXXV][/us/pl/108/136/dC/tXXXV], § 3531(a), Nov. 24, 2003, [117 Stat. 1803][/us/stat/117/1803]; amended [Pub. L. 112–239, div. C, title XXXV][/us/pl/112/239/dC/tXXXV], § 3508(a), Jan. 2, 2013, [126 Stat. 2223][/us/stat/126/2223].)
 
  __Amendments__ 
 
-    2013—Par. (4). [Pub. L. 112–239, § 3508(a)(1)][/us/pl/112/239/s3508/a/1], amended par. (4) generally. Prior to amendment, par. (4) defined “foreign commerce”.
+    2013—Par. (4). [Pub. L. 112–239][/us/pl/112/239], § 3508(a)(1), amended par. (4) generally. Prior to amendment, par. (4) defined “foreign commerce”.
 
-    Par. (5). [Pub. L. 112–239, § 3508(a)(4)][/us/pl/112/239/s3508/a/4], amended par. (5) generally. Prior to amendment, par. (5) defined “participating fleet vessel”.
+    Par. (5). [Pub. L. 112–239][/us/pl/112/239], § 3508(a)(4), amended par. (5) generally. Prior to amendment, par. (5) defined “participating fleet vessel”.
 
-    [Pub. L. 112–239, § 3508(a)(2)][/us/pl/112/239/s3508/a/2], (3), redesignated par. (6) as (5) and struck out former par. (5). Prior to amendment, text of par. (5) read as follows: “The term ‘LASH vessel’ means a lighter aboard ship vessel.”
+    [Pub. L. 112–239][/us/pl/112/239], § 3508(a)(2), (3), redesignated par. (6) as (5) and struck out former par. (5). Prior to amendment, text of par. (5) read as follows: “The term ‘LASH vessel’ means a lighter aboard ship vessel.”
 
-    Pars. (6) to (13). [Pub. L. 112–239, § 3508(a)(3)][/us/pl/112/239/s3508/a/3], redesignated pars. (7) to (13) as (6) to (12), respectively. Former par. (6) redesignated (5).
+    Pars. (6) to (13). [Pub. L. 112–239][/us/pl/112/239], § 3508(a)(3), redesignated pars. (7) to (13) as (6) to (12), respectively. Former par. (6) redesignated (5).
 
  __Effective Date of 2013 Amendment__ 
 
-[Pub. L. 112–239, div. C, title XXXV, § 3508(j)][/us/pl/112/239/s3508/j], Jan. 2, 2013, [126 Stat. 2226][/us/stat/126/2226], provided that: 
+[Pub. L. 112–239, div. C, title XXXV][/us/pl/112/239/dC/tXXXV], § 3508(j), Jan. 2, 2013, [126 Stat. 2226][/us/stat/126/2226], provided that: 
 
 > “The amendments made by—
 
@@ -115,7 +115,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 108–136, div. C, title XXXV, § 3537][/us/pl/108/136/s3537], Nov. 24, 2003, [117 Stat. 1819][/us/stat/117/1819], provided that:
+[Pub. L. 108–136, div. C, title XXXV][/us/pl/108/136/dC/tXXXV], § 3537, Nov. 24, 2003, [117 Stat. 1819][/us/stat/117/1819], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -127,15 +127,15 @@
 
  __Temporary Program Authorizing Contracts With Adjunct Professors at the United States Merchant Marine Academy and for Other Purposes__ 
 
-    [Pub. L. 110–417, div. C, title XXXV, § 3506(a)][/us/pl/110/417/s3506/a]–(f), Oct. 14, 2008, [122 Stat. 4763][/us/stat/122/4763], 4764, which authorized establishment of a temporary program for the purpose of contracting with not more than 25 individuals as personal services contractors to provide services as adjunct professors at the United States Merchant Marine Academy, was repealed by [Pub. L. 111–84, div. C, title XXXV, § 3503(b)(2)][/us/pl/111/84/s3503/b/2], Oct. 28, 2009, [123 Stat. 2719][/us/stat/123/2719]. See [section 51317 of this title][/us/usc/t46/s51317].
+    [Pub. L. 110–417, div. C, title XXXV][/us/pl/110/417/dC/tXXXV], § 3506(a)–(f), Oct. 14, 2008, [122 Stat. 4763][/us/stat/122/4763], 4764, which authorized establishment of a temporary program for the purpose of contracting with not more than 25 individuals as personal services contractors to provide services as adjunct professors at the United States Merchant Marine Academy, was repealed by [Pub. L. 111–84, div. C, title XXXV][/us/pl/111/84/dC/tXXXV], § 3503(b)(2), Oct. 28, 2009, [123 Stat. 2719][/us/stat/123/2719]. See [section 51317 of this title][/us/usc/t46/s51317].
 
  __Assistance for Small Shipyards and Maritime Communities__ 
 
-    [Pub. L. 109–163, div. C, title XXXV, § 3506][/us/pl/109/163/s3506], Jan. 6, 2006, [119 Stat. 3553][/us/stat/119/3553], formerly set out as a note under this section, was transferred to and renumbered as [section 54101 of this title][/us/usc/t46/s54101] by [Pub. L. 110–181, div. C, title XXXV, § 3523(a)(6)(B)][/us/pl/110/181/s3523/a/6/B], Jan. 28, 2008, [122 Stat. 599][/us/stat/122/599]. Later, [Pub. L. 110–417, div. C, title XXXV, § 3508(b)][/us/pl/110/417/s3508/b], Oct. 14, 2008, [122 Stat. 4769][/us/stat/122/4769], directed repeal of [section 3506 of Pub. L. 109–163][/us/pl/109/163/s3506]. [Pub. L. 110–417, § 3508(b)][/us/pl/110/417/s3508/b], was itself amended generally by [Pub. L. 111–84, div. A, title X, § 1073(c)(14)][/us/pl/111/84/s1073/c/14], Oct. 28, 2009, [123 Stat. 2475][/us/stat/123/2475], effective Oct. 14, 2008, and as if included in [Pub. L. 110–417][/us/pl/110/417] as enacted, and, as so amended, [Pub. L. 110–417, § 3508(b)][/us/pl/110/417/s3508/b], no longer directed the repeal of [section 3506 of Pub. L. 109–163][/us/pl/109/163/s3506]. [Section 3506 of Pub. L. 109–163][/us/pl/109/163/s3506] was subsequently repealed by [Pub. L. 111–383, div. A, title X, § 1075(m)][/us/pl/111/383/s1075/m], Jan. 7, 2011, [124 Stat. 4378][/us/stat/124/4378].
+    [Pub. L. 109–163, div. C, title XXXV][/us/pl/109/163/dC/tXXXV], § 3506, Jan. 6, 2006, [119 Stat. 3553][/us/stat/119/3553], formerly set out as a note under this section, was transferred to and renumbered as [section 54101 of this title][/us/usc/t46/s54101] by [Pub. L. 110–181, div. C, title XXXV][/us/pl/110/181/dC/tXXXV], § 3523(a)(6)(B), Jan. 28, 2008, [122 Stat. 599][/us/stat/122/599]. Later, [Pub. L. 110–417, div. C, title XXXV][/us/pl/110/417/dC/tXXXV], § 3508(b), Oct. 14, 2008, [122 Stat. 4769][/us/stat/122/4769], directed repeal of [section 3506 of Pub. L. 109–163][/us/pl/109/163/s3506]. [Pub. L. 110–417][/us/pl/110/417], § 3508(b), was itself amended generally by [Pub. L. 111–84, div. A, title X][/us/pl/111/84/dA/tX], § 1073(c)(14), Oct. 28, 2009, [123 Stat. 2475][/us/stat/123/2475], effective Oct. 14, 2008, and as if included in [Pub. L. 110–417][/us/pl/110/417] as enacted, and, as so amended, [Pub. L. 110–417][/us/pl/110/417], § 3508(b), no longer directed the repeal of [section 3506 of Pub. L. 109–163][/us/pl/109/163/s3506]. [Section 3506 of Pub. L. 109–163][/us/pl/109/163/s3506] was subsequently repealed by [Pub. L. 111–383, div. A, title X][/us/pl/111/383/dA/tX], § 1075(m), Jan. 7, 2011, [124 Stat. 4378][/us/stat/124/4378].
 
  __Maintenance and Repair Reimbursement Pilot Program__ 
 
-[Pub. L. 108–136, div. C, title XXXV, § 3517][/us/pl/108/136/s3517], Nov. 24, 2003, [117 Stat. 1796][/us/stat/117/1796], as amended by [Pub. L. 109–163, div. C, title XXXV, § 3503][/us/pl/109/163/s3503], Jan. 6, 2006, [119 Stat. 3548][/us/stat/119/3548]; [Pub. L. 110–417, div. C, title XXXV, § 3505][/us/pl/110/417/s3505], Oct. 14, 2008, [122 Stat. 4763][/us/stat/122/4763], provided that:
+[Pub. L. 108–136, div. C, title XXXV][/us/pl/108/136/dC/tXXXV], § 3517, Nov. 24, 2003, [117 Stat. 1796][/us/stat/117/1796], as amended by [Pub. L. 109–163, div. C, title XXXV][/us/pl/109/163/dC/tXXXV], § 3503, Jan. 6, 2006, [119 Stat. 3548][/us/stat/119/3548]; [Pub. L. 110–417, div. C, title XXXV][/us/pl/110/417/dC/tXXXV], § 3505, Oct. 14, 2008, [122 Stat. 4763][/us/stat/122/4763], provided that:
 
 >     “(a) __Authority to Enter Agreements.—__ 
 
@@ -285,7 +285,7 @@
 
  __National Defense Tank Vessel Construction Assistance__ 
 
-[Pub. L. 108–136, div. C, title XXXV][/us/pl/108/136], subtitle D, Nov. 24, 2003, [117 Stat. 1820][/us/stat/117/1820], as amended by [Pub. L. 108–375, div. C, title XXXV, § 3503][/us/pl/108/375/s3503], Oct. 28, 2004, [118 Stat. 2195][/us/stat/118/2195]; [Pub. L. 109–163, div. C, title XXXV, § 3504][/us/pl/109/163/s3504], Jan. 6, 2006, [119 Stat. 3551][/us/stat/119/3551]; [Pub. L. 109–364, div. C, title XXXV, § 3502(b)(2)][/us/pl/109/364/s3502/b/2], Oct. 17, 2006, [120 Stat. 2516][/us/stat/120/2516], provided that:
+[Pub. L. 108–136, div. C, title XXXV][/us/pl/108/136/dC/tXXXV], subtitle D, Nov. 24, 2003, [117 Stat. 1820][/us/stat/117/1820], as amended by [Pub. L. 108–375, div. C, title XXXV][/us/pl/108/375/dC/tXXXV], § 3503, Oct. 28, 2004, [118 Stat. 2195][/us/stat/118/2195]; [Pub. L. 109–163, div. C, title XXXV][/us/pl/109/163/dC/tXXXV], § 3504, Jan. 6, 2006, [119 Stat. 3551][/us/stat/119/3551]; [Pub. L. 109–364, div. C, title XXXV][/us/pl/109/364/dC/tXXXV], § 3502(b)(2), Oct. 17, 2006, [120 Stat. 2516][/us/stat/120/2516], provided that:
 
 > “SEC. 3541. __NATIONAL DEFENSE TANK VESSEL CONSTRUCTION PROGRAM.__ 
 
@@ -393,18 +393,18 @@
 ----------
 
 [/us/usc/t46/s2101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs2101
-[/us/pl/108/136/s3531/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs3531%2Fa
+[/us/pl/108/136/dC/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdC%2FtXXXV
 [/us/stat/117/1803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1803
-[/us/pl/112/239/s3508/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs3508%2Fa
+[/us/pl/112/239/dC/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdC%2FtXXXV
 [/us/stat/126/2223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2223
-[/us/pl/112/239/s3508/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs3508%2Fa%2F1
-[/us/pl/112/239/s3508/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs3508%2Fa%2F4
-[/us/pl/112/239/s3508/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs3508%2Fa%2F2
-[/us/pl/112/239/s3508/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs3508%2Fa%2F3
-[/us/pl/112/239/s3508/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs3508%2Fj
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/112/239/dC/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdC%2FtXXXV
 [/us/stat/126/2226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2226
 [/us/usc/t46/s53106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs53106
-[/us/pl/108/136/s3537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs3537
+[/us/pl/108/136/dC/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdC%2FtXXXV
 [/us/stat/117/1819]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1819
 [/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
 [/us/usc/t46/s12102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs12102
@@ -412,45 +412,45 @@
 [/us/usc/t46/s53102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs53102
 [/us/usc/t46/s12102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs12102
 [/us/usc/t46/s53110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs53110
-[/us/pl/110/417/s3506/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417%2Fs3506%2Fa
+[/us/pl/110/417/dC/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417%2FdC%2FtXXXV
 [/us/stat/122/4763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4763
-[/us/pl/111/84/s3503/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs3503%2Fb%2F2
+[/us/pl/111/84/dC/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdC%2FtXXXV
 [/us/stat/123/2719]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2719
 [/us/usc/t46/s51317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs51317
-[/us/pl/109/163/s3506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs3506
+[/us/pl/109/163/dC/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdC%2FtXXXV
 [/us/stat/119/3553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3553
 [/us/usc/t46/s54101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs54101
-[/us/pl/110/181/s3523/a/6/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs3523%2Fa%2F6%2FB
+[/us/pl/110/181/dC/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdC%2FtXXXV
 [/us/stat/122/599]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F599
-[/us/pl/110/417/s3508/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417%2Fs3508%2Fb
+[/us/pl/110/417/dC/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417%2FdC%2FtXXXV
 [/us/stat/122/4769]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4769
 [/us/pl/109/163/s3506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs3506
-[/us/pl/110/417/s3508/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417%2Fs3508%2Fb
-[/us/pl/111/84/s1073/c/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs1073%2Fc%2F14
+[/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
+[/us/pl/111/84/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdA%2FtX
 [/us/stat/123/2475]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2475
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
-[/us/pl/110/417/s3508/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417%2Fs3508%2Fb
+[/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/pl/109/163/s3506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs3506
 [/us/pl/109/163/s3506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs3506
-[/us/pl/111/383/s1075/m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs1075%2Fm
+[/us/pl/111/383/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtX
 [/us/stat/124/4378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4378
-[/us/pl/108/136/s3517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs3517
+[/us/pl/108/136/dC/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdC%2FtXXXV
 [/us/stat/117/1796]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1796
-[/us/pl/109/163/s3503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs3503
+[/us/pl/109/163/dC/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdC%2FtXXXV
 [/us/stat/119/3548]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3548
-[/us/pl/110/417/s3505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417%2Fs3505
+[/us/pl/110/417/dC/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417%2FdC%2FtXXXV
 [/us/stat/122/4763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4763
 [/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
 [/us/usc/t5/s553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs553
 [/us/usc/t46/s53102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs53102
 [/us/usc/t46/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs101
-[/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
+[/us/pl/108/136/dC/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdC%2FtXXXV
 [/us/stat/117/1820]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1820
-[/us/pl/108/375/s3503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs3503
+[/us/pl/108/375/dC/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdC%2FtXXXV
 [/us/stat/118/2195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2195
-[/us/pl/109/163/s3504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs3504
+[/us/pl/109/163/dC/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdC%2FtXXXV
 [/us/stat/119/3551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3551
-[/us/pl/109/364/s3502/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs3502%2Fb%2F2
+[/us/pl/109/364/dC/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdC%2FtXXXV
 [/us/stat/120/2516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2516
 [/us/usc/t46/s50501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs50501
 [/us/usc/t46/s56101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs56101%2Fc

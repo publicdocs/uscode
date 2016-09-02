@@ -41,7 +41,7 @@
 
         A person opposing an official of the Government enforcing this section shall be fined under title 18, imprisoned for not more than 2 years, or both.
 
-([Pub. L. 109–304, § 9(b)][/us/pl/109/304/s9/b], Oct. 6, 2006, [120 Stat. 1681][/us/stat/120/1681].)
+([Pub. L. 109–304][/us/pl/109/304], § 9(b), Oct. 6, 2006, [120 Stat. 1681][/us/stat/120/1681].)
 
 <table>
 
@@ -108,7 +108,7 @@ June 19, 1886, ch. 421, § 17, 24 Stat. 82.  </td>
 ----------
 ----------
 
-[/us/pl/109/304/s9/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs9%2Fb
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1681
 
 

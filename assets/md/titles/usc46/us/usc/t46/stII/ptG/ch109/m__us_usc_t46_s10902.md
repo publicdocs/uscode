@@ -45,7 +45,7 @@
 
             (C) uses provisions certified to be of bad quality or unfit for use.
 
-([Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 575][/us/stat/97/575]; [Pub. L. 103–206, title IV, § 422(b)][/us/pl/103/206/s422/b], Dec. 20, 1993, [107 Stat. 2439][/us/stat/107/2439].)
+([Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 575][/us/stat/97/575]; [Pub. L. 103–206, title IV][/us/pl/103/206/tIV], § 422(b), Dec. 20, 1993, [107 Stat. 2439][/us/stat/107/2439].)
 
 <table>
 
@@ -99,9 +99,9 @@ Source section (U.S. Code)  </td>
 
  __Amendments__ 
 
-    1993—Subsec. (b)(1). [Pub. L. 103–206, § 422(b)(1)][/us/pl/103/206/s422/b/1], inserted “Secretary,” after “The complaint may be made to the” and struck out “Coast Guard shipping commissioner,” after “consular officer,”.
+    1993—Subsec. (b)(1). [Pub. L. 103–206][/us/pl/103/206], § 422(b)(1), inserted “Secretary,” after “The complaint may be made to the” and struck out “Coast Guard shipping commissioner,” after “consular officer,”.
 
-    Subsec. (b)(2), (3). [Pub. L. 103–206, § 422(b)(2)][/us/pl/103/206/s422/b/2], substituted “The Secretary, officer,” for “The officer, commissioner,”.
+    Subsec. (b)(2), (3). [Pub. L. 103–206][/us/pl/103/206], § 422(b)(2), substituted “The Secretary, officer,” for “The officer, commissioner,”.
 
  __Transfer of Functions__ 
 
@@ -116,10 +116,10 @@ Source section (U.S. Code)  </td>
 
 [/us/pl/98/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F89
 [/us/stat/97/575]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F575
-[/us/pl/103/206/s422/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F206%2Fs422%2Fb
+[/us/pl/103/206/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F206%2FtIV
 [/us/stat/107/2439]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2439
-[/us/pl/103/206/s422/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F206%2Fs422%2Fb%2F1
-[/us/pl/103/206/s422/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F206%2Fs422%2Fb%2F2
+[/us/pl/103/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F206
+[/us/pl/103/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F206
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
 
 

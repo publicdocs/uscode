@@ -47,7 +47,7 @@
 
     (15) towing vessels.
 
-([Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 510][/us/stat/97/510]; [Pub. L. 98–364, title IV, § 402(2)][/us/pl/98/364/s402/2], July 17, 1984, [98 Stat. 445][/us/stat/98/445]; [Pub. L. 102–587, title V, § 5208(b)][/us/pl/102/587/s5208/b], Nov. 4, 1992, [106 Stat. 5076][/us/stat/106/5076]; [Pub. L. 104–324, title XI, § 1104(g)][/us/pl/104/324/s1104/g], Oct. 19, 1996, [110 Stat. 3967][/us/stat/110/3967]; [Pub. L. 108–293, title IV, § 415(a)][/us/pl/108/293/s415/a], Aug. 9, 2004, [118 Stat. 1047][/us/stat/118/1047].)
+([Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 510][/us/stat/97/510]; [Pub. L. 98–364, title IV][/us/pl/98/364/tIV], § 402(2), July 17, 1984, [98 Stat. 445][/us/stat/98/445]; [Pub. L. 102–587, title V][/us/pl/102/587/tV], § 5208(b), Nov. 4, 1992, [106 Stat. 5076][/us/stat/106/5076]; [Pub. L. 104–324, title XI][/us/pl/104/324/tXI], § 1104(g), Oct. 19, 1996, [110 Stat. 3967][/us/stat/110/3967]; [Pub. L. 108–293, title IV][/us/pl/108/293/tIV], § 415(a), Aug. 9, 2004, [118 Stat. 1047][/us/stat/118/1047].)
 
 <table>
 
@@ -227,7 +227,7 @@ Source section (U.S. Code)  </td>
 
  __Pilot Program__ 
 
-[Pub. L. 105–383, title IV, § 412(b)][/us/pl/105/383/s412/b], Nov. 13, 1998, [112 Stat. 3432][/us/stat/112/3432], provided that:
+[Pub. L. 105–383, title IV][/us/pl/105/383/tIV], § 412(b), Nov. 13, 1998, [112 Stat. 3432][/us/stat/112/3432], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -245,7 +245,7 @@ Source section (U.S. Code)  </td>
 
  __Small Passenger Vessel Pilot Inspection Program With State of Minnesota__ 
 
-[Pub. L. 104–324, title XI, § 1122][/us/pl/104/324/s1122], Oct. 19, 1996, [110 Stat. 3979][/us/stat/110/3979], provided that:
+[Pub. L. 104–324, title XI][/us/pl/104/324/tXI], § 1122, Oct. 19, 1996, [110 Stat. 3979][/us/stat/110/3979], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -290,13 +290,13 @@ Source section (U.S. Code)  </td>
 
 [/us/pl/98/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F89
 [/us/stat/97/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F510
-[/us/pl/98/364/s402/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F364%2Fs402%2F2
+[/us/pl/98/364/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F364%2FtIV
 [/us/stat/98/445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F445
-[/us/pl/102/587/s5208/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F587%2Fs5208%2Fb
+[/us/pl/102/587/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F587%2FtV
 [/us/stat/106/5076]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F5076
-[/us/pl/104/324/s1104/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2Fs1104%2Fg
+[/us/pl/104/324/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2FtXI
 [/us/stat/110/3967]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3967
-[/us/pl/108/293/s415/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293%2Fs415%2Fa
+[/us/pl/108/293/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293%2FtIV
 [/us/stat/118/1047]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1047
 [/us/pl/108/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293
 [/us/pl/104/324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324
@@ -307,10 +307,10 @@ Source section (U.S. Code)  </td>
 [/us/usc/t46/s2101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs2101
 [/us/pl/98/89/s2/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F89%2Fs2%2Fg%2F1
 [/us/usc/t46/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs3101
-[/us/pl/105/383/s412/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F383%2Fs412%2Fb
+[/us/pl/105/383/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F383%2FtIV
 [/us/stat/112/3432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3432
 [/us/usc/t46/s3301/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs3301%2F7
-[/us/pl/104/324/s1122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2Fs1122
+[/us/pl/104/324/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2FtXI
 [/us/stat/110/3979]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3979
 [/us/usc/t46/s3317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs3317
 [/us/usc/t46/s2101/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs2101%2F35

@@ -87,7 +87,7 @@
 
  __Amendments__ 
 
-    2010—[Pub. L. 111–281, title III, § 303(e)(3)][/us/pl/111/281/s303/e/3], Oct. 15, 2010, [124 Stat. 2925][/us/stat/124/2925], substituted “Tonnage Certificate” for “International Tonnage Certificate (1969)” in item 14303.
+    2010—[Pub. L. 111–281, title III][/us/pl/111/281/tIII], § 303(e)(3), Oct. 15, 2010, [124 Stat. 2925][/us/stat/124/2925], substituted “Tonnage Certificate” for “International Tonnage Certificate (1969)” in item 14303.
 
 ----------
 
@@ -96,7 +96,7 @@
 ----------
 ----------
 
-[/us/pl/111/281/s303/e/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs303%2Fe%2F3
+[/us/pl/111/281/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2FtIII
 [/us/stat/124/2925]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2925
 
 

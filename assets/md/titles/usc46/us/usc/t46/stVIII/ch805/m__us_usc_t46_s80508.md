@@ -43,7 +43,7 @@
 
     The Secretary of State, with the concurrence of the Secretary of the department in which the Coast Guard is operating, shall appoint an arbitrator when one is required to resolve a dispute within the meaning of article XIII of the Convention.
 
-([Pub. L. 109–304, § 11][/us/pl/109/304/s11], Oct. 6, 2006, [120 Stat. 1697][/us/stat/120/1697].)
+([Pub. L. 109–304][/us/pl/109/304], § 11, Oct. 6, 2006, [120 Stat. 1697][/us/stat/120/1697].)
 
 <table>
 
@@ -98,7 +98,7 @@ Pub. L. 95–208, § 8, Dec. 13, 1977, 91 Stat. 1479.  </td>
 ----------
 ----------
 
-[/us/pl/109/304/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs11
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1697]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1697
 
 

@@ -19,7 +19,7 @@
 
     (b) On compliance with this chapter, the master shall obtain a written certificate of compliance from the consular officer or court clerk. Clearance may be granted to a foreign-bound vessel only when the certificate is received at the office of customs.
 
-([Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 572][/us/stat/97/572]; [Pub. L. 103–206, title IV, § 422(a)][/us/pl/103/206/s422/a], Dec. 20, 1993, [107 Stat. 2438][/us/stat/107/2438].)
+([Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 572][/us/stat/97/572]; [Pub. L. 103–206, title IV][/us/pl/103/206/tIV], § 422(a), Dec. 20, 1993, [107 Stat. 2438][/us/stat/107/2438].)
 
 <table>
 
@@ -72,7 +72,7 @@ Source section (U.S. Code)  </td>
 
 [/us/pl/98/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F89
 [/us/stat/97/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F572
-[/us/pl/103/206/s422/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F206%2Fs422%2Fa
+[/us/pl/103/206/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F206%2FtIV
 [/us/stat/107/2438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2438
 [/us/pl/103/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F206
 

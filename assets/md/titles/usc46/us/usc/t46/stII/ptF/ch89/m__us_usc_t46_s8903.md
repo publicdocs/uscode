@@ -17,7 +17,7 @@
 
     A self-propelled, uninspected passenger vessel shall be operated by an individual licensed by the Secretary to operate that type of vessel, under prescribed regulations.
 
-([Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 555][/us/stat/97/555]; [Pub. L. 99–307, § 1(14)(B)][/us/pl/99/307/s1/14/B], (C), May 19, 1986, [100 Stat. 446][/us/stat/100/446].)
+([Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 555][/us/stat/97/555]; [Pub. L. 99–307][/us/pl/99/307], § 1(14)(B), (C), May 19, 1986, [100 Stat. 446][/us/stat/100/446].)
 
 <table>
 
@@ -70,7 +70,7 @@ Source section (U.S. Code)  </td>
 
 [/us/pl/98/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F89
 [/us/stat/97/555]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F555
-[/us/pl/99/307/s1/14/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F307%2Fs1%2F14%2FB
+[/us/pl/99/307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F307
 [/us/stat/100/446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F446
 [/us/pl/99/307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F307
 

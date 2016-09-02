@@ -57,7 +57,7 @@
 
         (3) As used in this subsection, the term “Government-impelled cargo” means cargo for which a Federal agency contracts directly for shipping by water or for which (or the freight of which) a Federal agency provides financing, including financing by grant, loan, or loan guarantee, resulting in shipment of the cargo by water.
 
-([Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 508][/us/stat/97/508]; [Pub. L. 98–557, § 7(a)][/us/pl/98/557/s7/a], Oct. 30, 1984, [98 Stat. 2862][/us/stat/98/2862]; [Pub. L. 101–380, title IV][/us/pl/101/380], §§ 4105(b)(2), 4302(a), Aug. 18, 1990, [104 Stat. 513][/us/stat/104/513], 537; [Pub. L. 102–587, title V, § 5102][/us/pl/102/587/s5102], Nov. 4, 1992, [106 Stat. 5071][/us/stat/106/5071]; [Pub. L. 105–383, title III][/us/pl/105/383], §§ 302(a), 304(c), title IV, § 408(a), Nov. 13, 1998, [112 Stat. 3417][/us/stat/112/3417], 3419, 3430; [Pub. L. 107–295, title III, § 325][/us/pl/107/295/s325], Nov. 25, 2002, [116 Stat. 2105][/us/stat/116/2105].)
+([Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 508][/us/stat/97/508]; [Pub. L. 98–557][/us/pl/98/557], § 7(a), Oct. 30, 1984, [98 Stat. 2862][/us/stat/98/2862]; [Pub. L. 101–380, title IV][/us/pl/101/380/tIV], §§ 4105(b)(2), 4302(a), Aug. 18, 1990, [104 Stat. 513][/us/stat/104/513], 537; [Pub. L. 102–587, title V][/us/pl/102/587/tV], § 5102, Nov. 4, 1992, [106 Stat. 5071][/us/stat/106/5071]; [Pub. L. 105–383, title III][/us/pl/105/383/tIII], §§ 302(a), 304(c), title IV, § 408(a), Nov. 13, 1998, [112 Stat. 3417][/us/stat/112/3417], 3419, 3430; [Pub. L. 107–295, title III][/us/pl/107/295/tIII], § 325, Nov. 25, 2002, [116 Stat. 2105][/us/stat/116/2105].)
 
 <table>
 
@@ -129,29 +129,29 @@ Source section (U.S. Code)  </td>
 
     2002—Subsec. (a). [Pub. L. 107–295][/us/pl/107/295] substituted “$5,000 in the case of a recreational vessel, or $25,000 in the case of any other vessel” for “$1,000”
 
-    1998—[Pub. L. 105–383, § 302(a)(1)][/us/pl/105/383/s302/a/1], substituted “Penalties for negligent operations and interfering with safe operation” for “Penalties for negligent operations” in section catchline.
+    1998—[Pub. L. 105–383][/us/pl/105/383], § 302(a)(1), substituted “Penalties for negligent operations and interfering with safe operation” for “Penalties for negligent operations” in section catchline.
 
-    Subsec. (a). [Pub. L. 105–383, § 302(a)(2)][/us/pl/105/383/s302/a/2], substituted “or interfering with the safe operation of a vessel, so as to endanger” for “that endangers”.
+    Subsec. (a). [Pub. L. 105–383][/us/pl/105/383], § 302(a)(2), substituted “or interfering with the safe operation of a vessel, so as to endanger” for “that endangers”.
 
-    Subsec. (c)(1). [Pub. L. 105–383, § 304(c)][/us/pl/105/383/s304/c], substituted “$5,000; or” for “$1,000 for a first violation and not more than $5,000 for a subsequent violation; or”.
+    Subsec. (c)(1). [Pub. L. 105–383][/us/pl/105/383], § 304(c), substituted “$5,000; or” for “$1,000 for a first violation and not more than $5,000 for a subsequent violation; or”.
 
-    Subsec. (e). [Pub. L. 105–383, § 408(a)][/us/pl/105/383/s408/a], added subsec. (e).
+    Subsec. (e). [Pub. L. 105–383][/us/pl/105/383], § 408(a), added subsec. (e).
 
     1992—Subsec. (c)(1). [Pub. L. 102–587][/us/pl/102/587] substituted “$1,000 for a first violation and not more than $5,000 for a subsequent violation” for “$1,000”.
 
-    1990—Subsec. (b). [Pub. L. 101–380, § 4302(a)(1)][/us/pl/101/380/s4302/a/1], substituted “commits a class A misdemeanor” for “shall be fined not more than $5,000, imprisoned for not more than one year, or both”.
+    1990—Subsec. (b). [Pub. L. 101–380][/us/pl/101/380], § 4302(a)(1), substituted “commits a class A misdemeanor” for “shall be fined not more than $5,000, imprisoned for not more than one year, or both”.
 
     Subsec. (c). [Pub. L. 101–380][/us/pl/101/380], §§ 4105(b)(2), 4302(a)(2)(A), substituted “under the influence of alcohol, or a dangerous drug in violation of a law of the United States” for “intoxicated” and struck out “, shall be” after “by the Secretary by regulation”.
 
-    Subsec. (c)(1). [Pub. L. 101–380, § 4302(a)(2)(B)][/us/pl/101/380/s4302/a/2/B], substituted “is liable” for “liable”.
+    Subsec. (c)(1). [Pub. L. 101–380][/us/pl/101/380], § 4302(a)(2)(B), substituted “is liable” for “liable”.
 
-    Subsec. (c)(2). [Pub. L. 101–380, § 4302(a)(2)(C)][/us/pl/101/380/s4302/a/2/C], amended par. (2) generally. Prior to amendment, par. (2) read as follows: “fined not more than $5,000, imprisoned for not more than one year, or both.”
+    Subsec. (c)(2). [Pub. L. 101–380][/us/pl/101/380], § 4302(a)(2)(C), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “fined not more than $5,000, imprisoned for not more than one year, or both.”
 
     1984—Subsecs. (c), (d). [Pub. L. 98–557][/us/pl/98/557] added subsec. (c) and redesignated former subsec. (c) as (d).
 
  __Effective Date of 1998 Amendment__ 
 
-[Pub. L. 105–383, title IV, § 408(b)][/us/pl/105/383/s408/b], Nov. 13, 1998, [112 Stat. 3431][/us/stat/112/3431], provided that: 
+[Pub. L. 105–383, title IV][/us/pl/105/383/tIV], § 408(b), Nov. 13, 1998, [112 Stat. 3431][/us/stat/112/3431], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] takes effect January 1, 1999.”
 
@@ -168,32 +168,32 @@ Source section (U.S. Code)  </td>
 
 [/us/pl/98/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F89
 [/us/stat/97/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F508
-[/us/pl/98/557/s7/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F557%2Fs7%2Fa
+[/us/pl/98/557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F557
 [/us/stat/98/2862]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2862
-[/us/pl/101/380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380
+[/us/pl/101/380/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2FtIV
 [/us/stat/104/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F513
-[/us/pl/102/587/s5102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F587%2Fs5102
+[/us/pl/102/587/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F587%2FtV
 [/us/stat/106/5071]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F5071
-[/us/pl/105/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F383
+[/us/pl/105/383/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F383%2FtIII
 [/us/stat/112/3417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3417
-[/us/pl/107/295/s325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295%2Fs325
+[/us/pl/107/295/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295%2FtIII
 [/us/stat/116/2105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2105
 [/us/stat/54/167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F167
 [/us/pl/92/75]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F75
 [/us/stat/85/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F217
 [/us/usc/t46/s1461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs1461
 [/us/pl/107/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295
-[/us/pl/105/383/s302/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F383%2Fs302%2Fa%2F1
-[/us/pl/105/383/s302/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F383%2Fs302%2Fa%2F2
-[/us/pl/105/383/s304/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F383%2Fs304%2Fc
-[/us/pl/105/383/s408/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F383%2Fs408%2Fa
+[/us/pl/105/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F383
+[/us/pl/105/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F383
+[/us/pl/105/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F383
+[/us/pl/105/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F383
 [/us/pl/102/587]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F587
-[/us/pl/101/380/s4302/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2Fs4302%2Fa%2F1
 [/us/pl/101/380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380
-[/us/pl/101/380/s4302/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2Fs4302%2Fa%2F2%2FB
-[/us/pl/101/380/s4302/a/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2Fs4302%2Fa%2F2%2FC
+[/us/pl/101/380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380
+[/us/pl/101/380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380
+[/us/pl/101/380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380
 [/us/pl/98/557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F557
-[/us/pl/105/383/s408/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F383%2Fs408%2Fb
+[/us/pl/105/383/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F383%2FtIV
 [/us/stat/112/3431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3431
 [/us/pl/101/380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380
 [/us/pl/101/380/s1020]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2Fs1020

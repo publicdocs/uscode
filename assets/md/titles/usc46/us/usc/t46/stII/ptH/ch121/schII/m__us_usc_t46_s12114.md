@@ -27,7 +27,7 @@
 
     A vessel for which a recreational endorsement is issued may proceed between a port of the United States and a port of a foreign country without entering or clearing with the Secretary of Homeland Security. However, a recreational vessel is subject to the requirements for reporting arrivals under section 433 of the Tariff Act of 1930 ([19 U.S.C. 1433][/us/usc/t19/s1433]), and individuals on the vessel are subject to applicable customs regulations.
 
-([Pub. L. 109–304, § 5][/us/pl/109/304/s5], Oct. 6, 2006, [120 Stat. 1498][/us/stat/120/1498].)
+([Pub. L. 109–304][/us/pl/109/304], § 5, Oct. 6, 2006, [120 Stat. 1498][/us/stat/120/1498].)
 
 <table>
 
@@ -119,7 +119,7 @@ Source (Statutes at Large)  </td>
 
  __Prior Provisions__ 
 
-    A prior section 12114, [Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 589][/us/stat/97/589]; [Pub. L. 99–36, § 1(a)(8)][/us/pl/99/36/s1/a/8], May 15, 1985, [99 Stat. 67][/us/stat/99/67], originally derived from section 65c of former Title 46, Shipping, related to home ports, prior to being repealed by [Pub. L. 100–710, title I][/us/pl/100/710], §§ 106(b)(5), 107(a), Nov. 23, 1988, [102 Stat. 4752][/us/stat/102/4752], effective Jan. 1, 1989.
+    A prior section 12114, [Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 589][/us/stat/97/589]; [Pub. L. 99–36][/us/pl/99/36], § 1(a)(8), May 15, 1985, [99 Stat. 67][/us/stat/99/67], originally derived from section 65c of former Title 46, Shipping, related to home ports, prior to being repealed by [Pub. L. 100–710, title I][/us/pl/100/710/tI], §§ 106(b)(5), 107(a), Nov. 23, 1988, [102 Stat. 4752][/us/stat/102/4752], effective Jan. 1, 1989.
 
 ----------
 
@@ -130,15 +130,15 @@ Source (Statutes at Large)  </td>
 
 [/us/usc/t46/s12103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs12103
 [/us/usc/t19/s1433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1433
-[/us/pl/109/304/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs5
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1498
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/stat/116/2178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2178
 [/us/pl/98/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F89
 [/us/stat/97/589]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F589
-[/us/pl/99/36/s1/a/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F36%2Fs1%2Fa%2F8
+[/us/pl/99/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F36
 [/us/stat/99/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F67
-[/us/pl/100/710]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F710
+[/us/pl/100/710/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F710%2FtI
 [/us/stat/102/4752]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4752
 
 

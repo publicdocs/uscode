@@ -27,7 +27,7 @@
 
         (2) is in effect before July 19, 1994, is not enumerated in [section 14305 of this title][/us/usc/t46/s14305], and is identified by the Secretary by regulation as a law to which this chapter applies.
 
-([Pub. L. 99–509, title V, § 5101(3)][/us/pl/99/509/s5101/3], Oct. 21, 1986, [100 Stat. 1921][/us/stat/100/1921]; [Pub. L. 111–281, title III, § 303(d)][/us/pl/111/281/s303/d], Oct. 15, 2010, [124 Stat. 2924][/us/stat/124/2924].)
+([Pub. L. 99–509, title V][/us/pl/99/509/tV], § 5101(3), Oct. 21, 1986, [100 Stat. 1921][/us/stat/100/1921]; [Pub. L. 111–281, title III][/us/pl/111/281/tIII], § 303(d), Oct. 15, 2010, [124 Stat. 2924][/us/stat/124/2924].)
 
  __Historical and Revision Notes__ 
 
@@ -49,9 +49,9 @@
 ----------
 
 [/us/usc/t46/s14305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs14305
-[/us/pl/99/509/s5101/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2Fs5101%2F3
+[/us/pl/99/509/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2FtV
 [/us/stat/100/1921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1921
-[/us/pl/111/281/s303/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs303%2Fd
+[/us/pl/111/281/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2FtIII
 [/us/stat/124/2924]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2924
 [/us/pl/111/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281
 [/us/usc/t22/s3792/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3792%2Fa

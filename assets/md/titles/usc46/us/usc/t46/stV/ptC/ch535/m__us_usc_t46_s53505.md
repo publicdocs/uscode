@@ -31,7 +31,7 @@
 
     For a lessee, the maximum amount that may be deposited for an agreement vessel under subsection (a)(2) for any period shall be reduced by any amount the owner is required or permitted, under the capital construction fund agreement, to deposit for that period for the vessel under subsection (a)(2).
 
-([Pub. L. 109–304, § 8(c)][/us/pl/109/304/s8/c], Oct. 6, 2006, [120 Stat. 1593][/us/stat/120/1593].)
+([Pub. L. 109–304][/us/pl/109/304], § 8(c), Oct. 6, 2006, [120 Stat. 1593][/us/stat/120/1593].)
 
 <table>
 
@@ -89,7 +89,7 @@ June 29, 1936, ch. 858, title VI, § 607(b)(1), (2), 49 Stat. 2005; June 23, 1
 ----------
 
 [/us/usc/t26/s167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs167
-[/us/pl/109/304/s8/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs8%2Fc
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1593]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1593
 
 

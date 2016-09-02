@@ -23,7 +23,7 @@
 
     (d) A person knowingly making a false statement of a material fact in a declaration filed under this section shall be fined under title 18, imprisoned for not more than 5 years, or both.
 
-([Pub. L. 100–710, title I, § 102(c)][/us/pl/100/710/s102/c], Nov. 23, 1988, [102 Stat. 4741][/us/stat/102/4741]; [Pub. L. 101–225, title III, § 303(1)][/us/pl/101/225/s303/1], Dec. 12, 1989, [103 Stat. 1923][/us/stat/103/1923]; [Pub. L. 109–304, § 15(27)][/us/pl/109/304/s15/27], Oct. 6, 2006, [120 Stat. 1704][/us/stat/120/1704]; [Pub. L. 111–281, title IX, § 913(a)(1)][/us/pl/111/281/s913/a/1], Oct. 15, 2010, [124 Stat. 3017][/us/stat/124/3017].)
+([Pub. L. 100–710, title I][/us/pl/100/710/tI], § 102(c), Nov. 23, 1988, [102 Stat. 4741][/us/stat/102/4741]; [Pub. L. 101–225, title III][/us/pl/101/225/tIII], § 303(1), Dec. 12, 1989, [103 Stat. 1923][/us/stat/103/1923]; [Pub. L. 109–304][/us/pl/109/304], § 15(27), Oct. 6, 2006, [120 Stat. 1704][/us/stat/120/1704]; [Pub. L. 111–281, title IX][/us/pl/111/281/tIX], § 913(a)(1), Oct. 15, 2010, [124 Stat. 3017][/us/stat/124/3017].)
 
 <table>
 
@@ -75,9 +75,9 @@ Source section (U.S. Code)  </td>
 
     2006—Subsec. (a). [Pub. L. 109–304][/us/pl/109/304] substituted “section 56102 or 56103 of this title” for “section 9 or 37 of the Shipping Act, 1916 (46 App. U.S.C. 808, 835)”.
 
-    1989—Subsec. (a). [Pub. L. 101–225, § 303(1)(A)][/us/pl/101/225/s303/1/A], substituted “Except as provided by the Secretary of Transportation, when” for “When” and “Secretary for filing” for “Secretary of Transportation for filing”.
+    1989—Subsec. (a). [Pub. L. 101–225][/us/pl/101/225], § 303(1)(A), substituted “Except as provided by the Secretary of Transportation, when” for “When” and “Secretary for filing” for “Secretary of Transportation for filing”.
 
-    Subsec. (c). [Pub. L. 101–225, § 303(1)(B)][/us/pl/101/225/s303/1/B], substituted “Except as provided by the Secretary, an” for “An”.
+    Subsec. (c). [Pub. L. 101–225][/us/pl/101/225], § 303(1)(B), substituted “Except as provided by the Secretary, an” for “An”.
 
 ----------
 
@@ -86,17 +86,17 @@ Source section (U.S. Code)  </td>
 ----------
 ----------
 
-[/us/pl/100/710/s102/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F710%2Fs102%2Fc
+[/us/pl/100/710/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F710%2FtI
 [/us/stat/102/4741]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4741
-[/us/pl/101/225/s303/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F225%2Fs303%2F1
+[/us/pl/101/225/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F225%2FtIII
 [/us/stat/103/1923]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1923
-[/us/pl/109/304/s15/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs15%2F27
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1704
-[/us/pl/111/281/s913/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs913%2Fa%2F1
+[/us/pl/111/281/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2FtIX
 [/us/stat/124/3017]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3017
 [/us/pl/111/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281
 [/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
-[/us/pl/101/225/s303/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F225%2Fs303%2F1%2FA
-[/us/pl/101/225/s303/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F225%2Fs303%2F1%2FB
+[/us/pl/101/225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F225
+[/us/pl/101/225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F225
 
 

@@ -15,13 +15,13 @@
 
 ## § 7704. Dangerous drugs as grounds for revocation
 
-    \[(a) Repealed. [Pub. L. 101–380, title IV, § 4103(a)(2)(B)][/us/pl/101/380/s4103/a/2/B], Aug. 18, 1990, [104 Stat. 511][/us/stat/104/511].\]
+    \[(a) Repealed. [Pub. L. 101–380, title IV][/us/pl/101/380/tIV], § 4103(a)(2)(B), Aug. 18, 1990, [104 Stat. 511][/us/stat/104/511].\]
 
     (b) If it is shown at a hearing under this chapter that a holder of a license, certificate of registry, or merchant mariner’s document issued under this part, within 10 years before the beginning of the proceedings, has been convicted of violating a dangerous drug law of the United States or of a State, the license, certificate, or document shall be suspended or revoked.
 
     (c) If it is shown that a holder has been a user of, or addicted to, a dangerous drug, the license, certificate of registry, or merchant mariner’s document shall be revoked unless the holder provides satisfactory proof that the holder is cured.
 
-([Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 546][/us/stat/97/546]; [Pub. L. 99–36, § 1(a)(9)(F)][/us/pl/99/36/s1/a/9/F], (G), May 15, 1985, [99 Stat. 68][/us/stat/99/68]; [Pub. L. 101–380, title IV, § 4103(a)(2)(B)][/us/pl/101/380/s4103/a/2/B], Aug. 18, 1990, [104 Stat. 511][/us/stat/104/511]; [Pub. L. 108–293, title IV, § 402][/us/pl/108/293/s402], Aug. 9, 2004, [118 Stat. 1043][/us/stat/118/1043].)
+([Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 546][/us/stat/97/546]; [Pub. L. 99–36][/us/pl/99/36], § 1(a)(9)(F), (G), May 15, 1985, [99 Stat. 68][/us/stat/99/68]; [Pub. L. 101–380, title IV][/us/pl/101/380/tIV], § 4103(a)(2)(B), Aug. 18, 1990, [104 Stat. 511][/us/stat/104/511]; [Pub. L. 108–293, title IV][/us/pl/108/293/tIV], § 402, Aug. 9, 2004, [118 Stat. 1043][/us/stat/118/1043].)
 
 <table>
 
@@ -95,9 +95,9 @@ Source section (U.S. Code)  </td>
 
     1990—Subsec. (a). [Pub. L. 101–380][/us/pl/101/380] struck out subsec. (a) which defined “dangerous drug” for purpose of this section as narcotic drug, controlled substance, and marihuana.
 
-    1985—Subsec. (b). [Pub. L. 99–36, § 1(a)(9)(F)][/us/pl/99/36/s1/a/9/F], substituted “merchant mariner’s document” for first reference to “document”.
+    1985—Subsec. (b). [Pub. L. 99–36][/us/pl/99/36], § 1(a)(9)(F), substituted “merchant mariner’s document” for first reference to “document”.
 
-    Subsec. (c). [Pub. L. 99–36, § 1(a)(9)(G)][/us/pl/99/36/s1/a/9/G], substituted “certificate of registry, or merchant mariner’s document” for “certificate, or document”.
+    Subsec. (c). [Pub. L. 99–36][/us/pl/99/36], § 1(a)(9)(G), substituted “certificate of registry, or merchant mariner’s document” for “certificate, or document”.
 
  __Effective Date of 1990 Amendment__ 
 
@@ -110,20 +110,20 @@ Source section (U.S. Code)  </td>
 ----------
 ----------
 
-[/us/pl/101/380/s4103/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2Fs4103%2Fa%2F2%2FB
+[/us/pl/101/380/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2FtIV
 [/us/stat/104/511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F511
 [/us/pl/98/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F89
 [/us/stat/97/546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F546
-[/us/pl/99/36/s1/a/9/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F36%2Fs1%2Fa%2F9%2FF
+[/us/pl/99/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F36
 [/us/stat/99/68]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F68
-[/us/pl/101/380/s4103/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2Fs4103%2Fa%2F2%2FB
+[/us/pl/101/380/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2FtIV
 [/us/stat/104/511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F511
-[/us/pl/108/293/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293%2Fs402
+[/us/pl/108/293/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293%2FtIV
 [/us/stat/118/1043]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1043
 [/us/pl/108/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293
 [/us/pl/101/380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380
-[/us/pl/99/36/s1/a/9/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F36%2Fs1%2Fa%2F9%2FF
-[/us/pl/99/36/s1/a/9/G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F36%2Fs1%2Fa%2F9%2FG
+[/us/pl/99/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F36
+[/us/pl/99/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F36
 [/us/pl/101/380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380
 [/us/pl/101/380/s1020]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2Fs1020
 [/us/usc/t33/s2701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2701

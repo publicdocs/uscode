@@ -45,7 +45,7 @@
 
     (b) A foreign vessel to which chapter 37 of this title applies that has on board oil or hazardous material in bulk as cargo or cargo residue shall have a specified number of personnel certified as tankerman or equivalent, as required by the Secretary, when the vessel transfers oil or hazardous material in a port or place subject to the jurisdiction of the United States. The requirement of this subsection shall be noted in applicable terminal operating procedures. A transfer operation may take place only if the crewmember in charge is capable of clearly understanding instructions in English.
 
-([Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 556][/us/stat/97/556]; [Pub. L. 101–380, title IV, § 4106(a)][/us/pl/101/380/s4106/a], Aug. 18, 1990, [104 Stat. 513][/us/stat/104/513].)
+([Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 556][/us/stat/97/556]; [Pub. L. 101–380, title IV][/us/pl/101/380/tIV], § 4106(a), Aug. 18, 1990, [104 Stat. 513][/us/stat/104/513].)
 
 <table>
 
@@ -122,7 +122,7 @@ Source section (U.S. Code)  </td>
 
 [/us/pl/98/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F89
 [/us/stat/97/556]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F556
-[/us/pl/101/380/s4106/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2Fs4106%2Fa
+[/us/pl/101/380/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2FtIV
 [/us/stat/104/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F513
 [/us/pl/101/380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380
 [/us/pl/101/380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380

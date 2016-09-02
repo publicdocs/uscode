@@ -23,7 +23,7 @@
 
     An entity operating a non-Federal vessel traffic information service or advisory service pursuant to a duly executed written agreement with the Coast Guard, and any pilot acting on behalf of such entity, is not liable for damages caused by or related to information, advice, or communication assistance provided by such entity or pilot while so operating or acting unless the acts or omissions of such entity or pilot constitute gross negligence or willful misconduct.
 
-(Added [Pub. L. 107–295, title IV, § 431(a)][/us/pl/107/295/s431/a], Nov. 25, 2002, [116 Stat. 2128][/us/stat/116/2128]; amended [Pub. L. 112–213, title III, § 302(a)][/us/pl/112/213/s302/a], Dec. 20, 2012, [126 Stat. 1562][/us/stat/126/1562].)
+(Added [Pub. L. 107–295, title IV][/us/pl/107/295/tIV], § 431(a), Nov. 25, 2002, [116 Stat. 2128][/us/stat/116/2128]; amended [Pub. L. 112–213, title III][/us/pl/112/213/tIII], § 302(a), Dec. 20, 2012, [126 Stat. 1562][/us/stat/126/1562].)
 
  __Amendments__ 
 
@@ -40,9 +40,9 @@
 ----------
 ----------
 
-[/us/pl/107/295/s431/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295%2Fs431%2Fa
+[/us/pl/107/295/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295%2FtIV
 [/us/stat/116/2128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2128
-[/us/pl/112/213/s302/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F213%2Fs302%2Fa
+[/us/pl/112/213/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F213%2FtIII
 [/us/stat/126/1562]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1562
 [/us/pl/112/213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F213
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542

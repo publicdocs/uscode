@@ -39,7 +39,7 @@
 
         (2) agree to limit the payment of compensation to an ocean freight forwarder to less than 1.25 percent of the aggregate of all rates and charges applicable under a tariff and assessed against the cargo on which the services of the ocean freight forwarder are provided.
 
-([Pub. L. 109–304, § 7][/us/pl/109/304/s7], Oct. 6, 2006, [120 Stat. 1539][/us/stat/120/1539].)
+([Pub. L. 109–304][/us/pl/109/304], § 7, Oct. 6, 2006, [120 Stat. 1539][/us/stat/120/1539].)
 
 <table>
 
@@ -99,7 +99,7 @@ Pub. L. 98–237, § 19(e), Mar. 20, 1984, 98 Stat. 88; Pub. L. 105–258, tit
 ----------
 
 [/us/usc/t46/s40901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs40901
-[/us/pl/109/304/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs7
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1539]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1539
 
 

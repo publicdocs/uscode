@@ -29,7 +29,7 @@
 
     (c) A State whose recreational boating safety program has been approved by the Secretary is eligible for allocation and distribution of amounts under this chapter to assist that State in developing, carrying out, and financing its program. Matching amounts shall be allocated and distributed among eligible States by the Secretary as provided by [section 13104 of this title][/us/usc/t46/s13104].
 
-([Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 592][/us/stat/97/592], § 13101; [Pub. L. 98–369, div. A, title X, § 1011(b)][/us/pl/98/369/s1011/b], July 18, 1984, [98 Stat. 1013][/us/stat/98/1013]; [Pub. L. 101–595, title III, § 312(a)][/us/pl/101/595/s312/a], Nov. 16, 1990, [104 Stat. 2987][/us/stat/104/2987]; renumbered § 13102 and amended [Pub. L. 109–304, § 16(b)(1)][/us/pl/109/304/s16/b/1], (c)(3), Oct. 6, 2006, [120 Stat. 1705][/us/stat/120/1705], 1706; [Pub. L. 113–287, § 5(n)][/us/pl/113/287/s5/n], Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272].)
+([Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 592][/us/stat/97/592], § 13101; [Pub. L. 98–369, div. A, title X][/us/pl/98/369/dA/tX], § 1011(b), July 18, 1984, [98 Stat. 1013][/us/stat/98/1013]; [Pub. L. 101–595, title III][/us/pl/101/595/tIII], § 312(a), Nov. 16, 1990, [104 Stat. 2987][/us/stat/104/2987]; renumbered § 13102 and amended [Pub. L. 109–304][/us/pl/109/304], § 16(b)(1), (c)(3), Oct. 6, 2006, [120 Stat. 1705][/us/stat/120/1705], 1706; [Pub. L. 113–287][/us/pl/113/287], § 5(n), Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272].)
 
 <table>
 
@@ -85,27 +85,27 @@ Source section (U.S. Code)  </td>
 
  __Amendments__ 
 
-    2014—Subsec. (b)(2). [Pub. L. 113–287, § 5(n)][/us/pl/113/287/s5/n], substituted “chapter 2003 of title 54, United States Code,” for “the Land and Water Conservation Fund Act of 1965 ([16 U.S.C. 460][/us/usc/t16/s460]l–4—460l–11)”.
+    2014—Subsec. (b)(2). [Pub. L. 113–287][/us/pl/113/287], § 5(n), substituted “chapter 2003 of title 54, United States Code,” for “the Land and Water Conservation Fund Act of 1965 ([16 U.S.C. 460][/us/usc/t16/s460]l–4—460l–11)”.
 
-    2006—[Pub. L. 109–304, § 16(b)(1)][/us/pl/109/304/s16/b/1], renumbered [section 13101 of this title][/us/usc/t46/s13101] as this section.
+    2006—[Pub. L. 109–304][/us/pl/109/304], § 16(b)(1), renumbered [section 13101 of this title][/us/usc/t46/s13101] as this section.
 
-    Subsec. (c). [Pub. L. 109–304, § 16(c)(3)][/us/pl/109/304/s16/c/3], substituted “section 13104” for “section 13103”.
+    Subsec. (c). [Pub. L. 109–304][/us/pl/109/304], § 16(c)(3), substituted “section 13104” for “section 13103”.
 
     1990—Subsec. (b)(2). [Pub. L. 101–595][/us/pl/101/595] substituted “the Federal Aid in Sport Fish Restoration Act of 1950 ([16 U.S.C. 777–777k][/us/usc/t16/s777–777k]), and with the guidelines developed under those Acts; and” for “and with the guidelines developed under that Act; and”.
 
-    1984—Subsec. (a). [Pub. L. 98–369, § 1011(b)][/us/pl/98/369/s1011/b], struck out “and facility improvement” after “in boating safety”, struck out “and facilities improvement” in two places after “recreational boating safety”, and substituted “shall” for “may” in second sentence.
+    1984—Subsec. (a). [Pub. L. 98–369][/us/pl/98/369], § 1011(b), struck out “and facility improvement” after “in boating safety”, struck out “and facilities improvement” in two places after “recreational boating safety”, and substituted “shall” for “may” in second sentence.
 
-    Subsec. (c). [Pub. L. 98–369, § 1011(b)(1)(B)][/us/pl/98/369/s1011/b/1/B], struck out “and facilities improvement” after “recreational boating safety”.
+    Subsec. (c). [Pub. L. 98–369][/us/pl/98/369], § 1011(b)(1)(B), struck out “and facilities improvement” after “recreational boating safety”.
 
  __Effective Date of 1984 Amendment__ 
 
-[Pub. L. 98–369, div. A, title X][/us/pl/98/369], subtitle B, part I, subpart A (§§ 1010–1013), § 1013, July 18, 1984, [98 Stat. 1014][/us/stat/98/1014], provided that: 
+[Pub. L. 98–369, div. A, title X][/us/pl/98/369/dA/tX], subtitle B, part I, subpart A (§§ 1010–1013), § 1013, July 18, 1984, [98 Stat. 1014][/us/stat/98/1014], provided that: 
 
 > “The amendments made by this subpart \[amending this section and sections 2102, 13102, 13103, 13105, 13106, 13108, and 13109 of this title and enacting a provision set out as a note under this section\] shall take effect on October 1, 1984, and shall apply with respect to fiscal years beginning after September 30, 1984.”
 
  __Survey of Fuel Use by Recreational Vessels__ 
 
-[Pub. L. 100–448, § 6(d)][/us/pl/100/448/s6/d], Sept. 28, 1988, [102 Stat. 1841][/us/stat/102/1841], provided that:
+[Pub. L. 100–448][/us/pl/100/448], § 6(d), Sept. 28, 1988, [102 Stat. 1841][/us/stat/102/1841], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -133,7 +133,7 @@ Source section (U.S. Code)  </td>
 
  __Congressional Declaration of Policy for 1984 Amendment__ 
 
-[Pub. L. 98–369, div. A, title X][/us/pl/98/369], subtitle B, part I (§§ 1010–1017), § 1010, July 18, 1984, [98 Stat. 1012][/us/stat/98/1012], provided that: 
+[Pub. L. 98–369, div. A, title X][/us/pl/98/369/dA/tX], subtitle B, part I (§§ 1010–1017), § 1010, July 18, 1984, [98 Stat. 1012][/us/stat/98/1012], provided that: 
 
 > “It is declared to be the policy of Congress and the purpose of this part \[enacting sections 4162 and 9504 of Title 26, Internal Revenue Code, amending this section, sections 2102, 13102, 13103, 13105, 13106, 13108, and 13109 of this title, sections 777, 777b to 777e, 777g, and 777k of Title 16, Conservation, and sections 4161 and 9503 of Title 26, repealing [section 13107 of this title][/us/usc/t46/s13107], and enacting provisions set out as notes under this section, [section 777 of Title 16][/us/usc/t16/s777], and sections 4161, 4162, and 9504 of Title 26\] to improve recreational boating safety and to foster greater development, use, and enjoyment of all waters of the United States by encouraging and assisting participation by the States, the boating industry, and the boating public in activities related to increasing boating safety; by authorizing the establishment of national construction and performance standards for boats and associated equipment; by creating more flexible authority governing the use of boats and equipment; and by facilitating the provision of services by the United States Coast Guard on behalf of boating safety. It is further declared to be the policy of Congress to encourage greater and continuing uniformity of boating laws and regulations among the States and the Federal Government, to encourage and assist the States in exercising their authorities in boating safety, to foster greater cooperation and assistance between the Federal Government and the States in administering and enforcing Federal and State laws and regulations pertaining to boating safety, and to equitably utilize taxes paid on fuel use in motor boats in a manner which enhances boating safety.”
 
@@ -151,13 +151,13 @@ Source section (U.S. Code)  </td>
 [/us/usc/t46/s13104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs13104
 [/us/pl/98/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F89
 [/us/stat/97/592]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F592
-[/us/pl/98/369/s1011/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs1011%2Fb
+[/us/pl/98/369/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtX
 [/us/stat/98/1013]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1013
-[/us/pl/101/595/s312/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F595%2Fs312%2Fa
+[/us/pl/101/595/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F595%2FtIII
 [/us/stat/104/2987]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2987
-[/us/pl/109/304/s16/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs16%2Fb%2F1
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1705
-[/us/pl/113/287/s5/n]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs5%2Fn
+[/us/pl/113/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287
 [/us/stat/128/3272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3272
 [/us/act/1950-08-09/ch658]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-08-09%2Fch658
 [/us/stat/64/430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F430
@@ -167,22 +167,22 @@ Source section (U.S. Code)  </td>
 [/us/stat/86/1280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1280
 [/us/usc/t16/s1451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1451
 [/us/usc/t46/s13103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs13103
-[/us/pl/113/287/s5/n]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs5%2Fn
+[/us/pl/113/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287
 [/us/usc/t16/s460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460
-[/us/pl/109/304/s16/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs16%2Fb%2F1
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/usc/t46/s13101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs13101
-[/us/pl/109/304/s16/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs16%2Fc%2F3
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/pl/101/595]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F595
 [/us/usc/t16/s777–777k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs777%E2%80%93777k
-[/us/pl/98/369/s1011/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs1011%2Fb
-[/us/pl/98/369/s1011/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs1011%2Fb%2F1%2FB
 [/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/98/369/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtX
 [/us/stat/98/1014]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1014
-[/us/pl/100/448/s6/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F448%2Fs6%2Fd
+[/us/pl/100/448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F448
 [/us/stat/102/1841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1841
 [/us/stat/64/430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F430
 [/us/usc/t16/s777]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs777
-[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/98/369/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtX
 [/us/stat/98/1012]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1012
 [/us/usc/t46/s13107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs13107
 [/us/usc/t16/s777]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs777

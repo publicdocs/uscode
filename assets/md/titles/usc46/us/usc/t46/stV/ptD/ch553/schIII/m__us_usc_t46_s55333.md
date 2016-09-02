@@ -17,7 +17,7 @@
 
     The 3-year documentation requirement of [section 55305(a) of this title][/us/usc/t46/s55305/a] does not apply to a vessel designated as an American Great Lakes vessel during the period of its designation.
 
-([Pub. L. 109–304, § 8(c)][/us/pl/109/304/s8/c], Oct. 6, 2006, [120 Stat. 1649][/us/stat/120/1649].)
+([Pub. L. 109–304][/us/pl/109/304], § 8(c), Oct. 6, 2006, [120 Stat. 1649][/us/stat/120/1649].)
 
 <table>
 
@@ -75,7 +75,7 @@ Pub. L. 101–624, title XV, § 1521, Nov. 28, 1990, 104 Stat. 3665.  </td>
 ----------
 
 [/us/usc/t46/s55305/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs55305%2Fa
-[/us/pl/109/304/s8/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs8%2Fc
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1649
 
 

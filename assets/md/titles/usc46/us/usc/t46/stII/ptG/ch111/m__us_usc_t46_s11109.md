@@ -21,7 +21,7 @@
 
     (c) This section applies to an individual employed on a fishing vessel or any fish processing vessel.
 
-([Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 580][/us/stat/97/580]; [Pub. L. 98–364, title IV, § 402(15)][/us/pl/98/364/s402/15], July 17, 1984, [98 Stat. 450][/us/stat/98/450].)
+([Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 580][/us/stat/97/580]; [Pub. L. 98–364, title IV][/us/pl/98/364/tIV], § 402(15), July 17, 1984, [98 Stat. 450][/us/stat/98/450].)
 
 <table>
 
@@ -75,7 +75,7 @@ Source section (U.S. Code)  </td>
 [/us/usc/t46/s10315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs10315
 [/us/pl/98/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F89
 [/us/stat/97/580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F580
-[/us/pl/98/364/s402/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F364%2Fs402%2F15
+[/us/pl/98/364/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F364%2FtIV
 [/us/stat/98/450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F450
 [/us/pl/98/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F364
 
