@@ -17,7 +17,7 @@
 
     Any person who brings an action for infringement knowing that registration of the design was obtained by a false or fraudulent representation materially affecting the rights under this chapter, shall be liable in the sum of $10,000, or such part of that amount as the court may determine. That amount shall be to compensate the defendant and shall be charged against the plaintiff and paid to the defendant, in addition to such costs and attorney’s fees of the defendant as may be assessed by the court.
 
-(Added [Pub. L. 105–304, title V, § 502][/us/pl/105/304/s502], Oct. 28, 1998, [112 Stat. 2915][/us/stat/112/2915].)
+(Added [Pub. L. 105–304, title V][/us/pl/105/304/tV], § 502, Oct. 28, 1998, [112 Stat. 2915][/us/stat/112/2915].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/105/304/s502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F304%2Fs502
+[/us/pl/105/304/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F304%2FtV
 [/us/stat/112/2915]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2915
 
 

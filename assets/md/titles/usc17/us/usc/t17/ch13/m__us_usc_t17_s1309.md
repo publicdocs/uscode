@@ -51,7 +51,7 @@
 
     It is not an infringement of the exclusive rights of a design owner for a person to reproduce the design in a useful article or in any other form solely for the purpose of teaching, analyzing, or evaluating the appearance, concepts, or techniques embodied in the design, or the function of the useful article embodying the design.
 
-(Added [Pub. L. 105–304, title V, § 502][/us/pl/105/304/s502], Oct. 28, 1998, [112 Stat. 2908][/us/stat/112/2908].)
+(Added [Pub. L. 105–304, title V][/us/pl/105/304/tV], § 502, Oct. 28, 1998, [112 Stat. 2908][/us/stat/112/2908].)
 
 ----------
 
@@ -60,7 +60,7 @@
 ----------
 ----------
 
-[/us/pl/105/304/s502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F304%2Fs502
+[/us/pl/105/304/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F304%2FtV
 [/us/stat/112/2908]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2908
 
 

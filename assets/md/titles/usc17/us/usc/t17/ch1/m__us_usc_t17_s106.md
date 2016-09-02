@@ -29,7 +29,7 @@
 
     (6) in the case of sound recordings, to perform the copyrighted work publicly by means of a digital audio transmission.
 
-([Pub. L. 94–553, title I, § 101][/us/pl/94/553/s101], Oct. 19, 1976, [90 Stat. 2546][/us/stat/90/2546]; [Pub. L. 101–318, § 3(d)][/us/pl/101/318/s3/d], July 3, 1990, [104 Stat. 288][/us/stat/104/288]; [Pub. L. 101–650, title VII, § 704(b)(2)][/us/pl/101/650/s704/b/2], Dec. 1, 1990, [104 Stat. 5134][/us/stat/104/5134]; [Pub. L. 104–39, § 2][/us/pl/104/39/s2], Nov. 1, 1995, [109 Stat. 336][/us/stat/109/336]; [Pub. L. 106–44, § 1(g)(2)][/us/pl/106/44/s1/g/2], Aug. 5, 1999, [113 Stat. 222][/us/stat/113/222]; [Pub. L. 107–273, div. C, title III, § 13210(4)(A)][/us/pl/107/273/s13210/4/A], Nov. 2, 2002, [116 Stat. 1909][/us/stat/116/1909].)
+([Pub. L. 94–553, title I][/us/pl/94/553/tI], § 101, Oct. 19, 1976, [90 Stat. 2546][/us/stat/90/2546]; [Pub. L. 101–318][/us/pl/101/318], § 3(d), July 3, 1990, [104 Stat. 288][/us/stat/104/288]; [Pub. L. 101–650, title VII][/us/pl/101/650/tVII], § 704(b)(2), Dec. 1, 1990, [104 Stat. 5134][/us/stat/104/5134]; [Pub. L. 104–39][/us/pl/104/39], § 2, Nov. 1, 1995, [109 Stat. 336][/us/stat/109/336]; [Pub. L. 106–44][/us/pl/106/44], § 1(g)(2), Aug. 5, 1999, [113 Stat. 222][/us/stat/113/222]; [Pub. L. 107–273, div. C, title III][/us/pl/107/273/dC/tIII], § 13210(4)(A), Nov. 2, 2002, [116 Stat. 1909][/us/stat/116/1909].)
 
  __Historical and Revision Notes__ 
 
@@ -97,7 +97,7 @@ Definitions. Under the definitions of “perform,” “display,” “publicly,
 
     Amendment by [Pub. L. 101–650][/us/pl/101/650] applicable to any architectural work created on or after Dec. 1, 1990, and any architectural work, that, on Dec. 1, 1990, is unconstructed and embodied in unpublished plans or drawings, except that protection for such architectural work under this title terminates on Dec. 31, 2002, unless the work is constructed by that date, see [section 706 of Pub. L. 101–650][/us/pl/101/650/s706], set out as a note under [section 101 of this title][/us/usc/t17/s101].
 
-[Pub. L. 101–318, § 3(e)(3)][/us/pl/101/318/s3/e/3], July 3, 1990, [104 Stat. 289][/us/stat/104/289], provided that: 
+[Pub. L. 101–318][/us/pl/101/318], § 3(e)(3), July 3, 1990, [104 Stat. 289][/us/stat/104/289], provided that: 
 
 > “The amendment made by subsection (d) \[amending this section\] shall be effective as of November 16, 1988.”
 
@@ -108,17 +108,17 @@ Definitions. Under the definitions of “perform,” “display,” “publicly,
 ----------
 ----------
 
-[/us/pl/94/553/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F553%2Fs101
+[/us/pl/94/553/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F553%2FtI
 [/us/stat/90/2546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2546
-[/us/pl/101/318/s3/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F318%2Fs3%2Fd
+[/us/pl/101/318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F318
 [/us/stat/104/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F288
-[/us/pl/101/650/s704/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2Fs704%2Fb%2F2
+[/us/pl/101/650/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2FtVII
 [/us/stat/104/5134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F5134
-[/us/pl/104/39/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F39%2Fs2
+[/us/pl/104/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F39
 [/us/stat/109/336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F336
-[/us/pl/106/44/s1/g/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F44%2Fs1%2Fg%2F2
+[/us/pl/106/44]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F44
 [/us/stat/113/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F222
-[/us/pl/107/273/s13210/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs13210%2F4%2FA
+[/us/pl/107/273/dC/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdC%2FtIII
 [/us/stat/116/1909]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1909
 [/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
 [/us/pl/106/44]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F44
@@ -131,7 +131,7 @@ Definitions. Under the definitions of “perform,” “display,” “publicly,
 [/us/pl/101/650]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650
 [/us/pl/101/650/s706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2Fs706
 [/us/usc/t17/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft17%2Fs101
-[/us/pl/101/318/s3/e/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F318%2Fs3%2Fe%2F3
+[/us/pl/101/318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F318
 [/us/stat/104/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F289
 
 

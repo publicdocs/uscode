@@ -39,7 +39,7 @@
 
     (c) In no case does protection under this chapter for a mask work extend to any idea, procedure, process, system, method of operation, concept, principle, or discovery, regardless of the form in which it is described, explained, illustrated, or embodied in such work.
 
-(Added [Pub. L. 98–620, title III, § 302][/us/pl/98/620/s302], Nov. 8, 1984, [98 Stat. 3348][/us/stat/98/3348]; amended [Pub. L. 100–159, § 3][/us/pl/100/159/s3], Nov. 9, 1987, [101 Stat. 900][/us/stat/101/900].)
+(Added [Pub. L. 98–620, title III][/us/pl/98/620/tIII], § 302, Nov. 8, 1984, [98 Stat. 3348][/us/stat/98/3348]; amended [Pub. L. 100–159][/us/pl/100/159], § 3, Nov. 9, 1987, [101 Stat. 900][/us/stat/101/900].)
 
  __Amendments__ 
 
@@ -60,9 +60,9 @@
 ----------
 ----------
 
-[/us/pl/98/620/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620%2Fs302
+[/us/pl/98/620/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620%2FtIII
 [/us/stat/98/3348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3348
-[/us/pl/100/159/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F159%2Fs3
+[/us/pl/100/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F159
 [/us/stat/101/900]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F900
 [/us/pl/100/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F159
 [/us/usc/t17/s901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft17%2Fs901

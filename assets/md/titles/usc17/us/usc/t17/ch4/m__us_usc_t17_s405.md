@@ -33,7 +33,7 @@
 
     Protection under this title is not affected by the removal, destruction, or obliteration of the notice, without the authorization of the copyright owner, from any publicly distributed copies or phonorecords.
 
-([Pub. L. 94–553, title I, § 101][/us/pl/94/553/s101], Oct. 19, 1976, [90 Stat. 2578][/us/stat/90/2578]; [Pub. L. 100–568, § 7(e)][/us/pl/100/568/s7/e], Oct. 31, 1988, [102 Stat. 2858][/us/stat/102/2858]; [Pub. L. 105–80, § 12(a)(10)][/us/pl/105/80/s12/a/10], Nov. 13, 1997, [111 Stat. 1535][/us/stat/111/1535].)
+([Pub. L. 94–553, title I][/us/pl/94/553/tI], § 101, Oct. 19, 1976, [90 Stat. 2578][/us/stat/90/2578]; [Pub. L. 100–568][/us/pl/100/568], § 7(e), Oct. 31, 1988, [102 Stat. 2858][/us/stat/102/2858]; [Pub. L. 105–80][/us/pl/105/80], § 12(a)(10), Nov. 13, 1997, [111 Stat. 1535][/us/stat/111/1535].)
 
  __Historical and Revision Notes__ 
 
@@ -73,11 +73,11 @@
 
     1997—Subsec. (b). [Pub. L. 105–80][/us/pl/105/80] substituted “condition for permitting the continuation” for “condition or permitting the continuation”.
 
-    1988—[Pub. L. 100–568, § 7(e)(3)][/us/pl/100/568/s7/e/3], substituted “notice on certain copies and phonorecords” for “notice” in section catchline.
+    1988—[Pub. L. 100–568][/us/pl/100/568], § 7(e)(3), substituted “notice on certain copies and phonorecords” for “notice” in section catchline.
 
-    Subsec. (a). [Pub. L. 100–568, § 7(e)(1)][/us/pl/100/568/s7/e/1], substituted “With respect to copies and phonorecords publicly distributed by authority of the copyright owner before the effective date of the Berne Convention Implementation Act of 1988, the omission of the copyright notice described in” for “The omission of the copyright notice prescribed by”.
+    Subsec. (a). [Pub. L. 100–568][/us/pl/100/568], § 7(e)(1), substituted “With respect to copies and phonorecords publicly distributed by authority of the copyright owner before the effective date of the Berne Convention Implementation Act of 1988, the omission of the copyright notice described in” for “The omission of the copyright notice prescribed by”.
 
-    Subsec. (b). [Pub. L. 100–568, § 7(e)(2)][/us/pl/100/568/s7/e/2], substituted “omitted and which was publicly distributed by authority of the copyright owner before the effective date of the Berne Convention Implementation Act of 1988,” for “omitted,”.
+    Subsec. (b). [Pub. L. 100–568][/us/pl/100/568], § 7(e)(2), substituted “omitted and which was publicly distributed by authority of the copyright owner before the effective date of the Berne Convention Implementation Act of 1988,” for “omitted,”.
 
  __Effective Date of 1988 Amendment__ 
 
@@ -90,18 +90,18 @@
 ----------
 ----------
 
-[/us/pl/94/553/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F553%2Fs101
+[/us/pl/94/553/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F553%2FtI
 [/us/stat/90/2578]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2578
-[/us/pl/100/568/s7/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F568%2Fs7%2Fe
+[/us/pl/100/568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F568
 [/us/stat/102/2858]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2858
-[/us/pl/105/80/s12/a/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F80%2Fs12%2Fa%2F10
+[/us/pl/105/80]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F80
 [/us/stat/111/1535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1535
 [/us/pl/100/568/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F568%2Fs13
 [/us/usc/t17/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft17%2Fs101
 [/us/pl/105/80]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F80
-[/us/pl/100/568/s7/e/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F568%2Fs7%2Fe%2F3
-[/us/pl/100/568/s7/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F568%2Fs7%2Fe%2F1
-[/us/pl/100/568/s7/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F568%2Fs7%2Fe%2F2
+[/us/pl/100/568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F568
+[/us/pl/100/568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F568
+[/us/pl/100/568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F568
 [/us/pl/100/568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F568
 [/us/pl/100/568/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F568%2Fs13
 [/us/usc/t17/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft17%2Fs101

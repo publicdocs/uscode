@@ -29,7 +29,7 @@
 
     (d) The provisions of subsections (a), (b), and (c) apply only with respect to those units of an infringing semiconductor chip product that an innocent purchaser purchased before having notice of protection with respect to the mask work embodied in the semiconductor chip product.
 
-(Added [Pub. L. 98–620, title III, § 302][/us/pl/98/620/s302], Nov. 8, 1984, [98 Stat. 3350][/us/stat/98/3350].)
+(Added [Pub. L. 98–620, title III][/us/pl/98/620/tIII], § 302, Nov. 8, 1984, [98 Stat. 3350][/us/stat/98/3350].)
 
 ----------
 
@@ -38,7 +38,7 @@
 ----------
 ----------
 
-[/us/pl/98/620/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620%2Fs302
+[/us/pl/98/620/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620%2FtIII
 [/us/stat/98/3350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3350
 
 

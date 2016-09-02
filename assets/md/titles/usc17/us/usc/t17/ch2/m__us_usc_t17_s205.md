@@ -43,7 +43,7 @@
 
         (2) the license was taken in good faith before recordation of the transfer and without notice of it.
 
-([Pub. L. 94–553, title I, § 101][/us/pl/94/553/s101], Oct. 19, 1976, [90 Stat. 2571][/us/stat/90/2571]; [Pub. L. 100–568, § 5][/us/pl/100/568/s5], Oct. 31, 1988, [102 Stat. 2857][/us/stat/102/2857]; [Pub. L. 111–295, § 3(b)][/us/pl/111/295/s3/b], Dec. 9, 2010, [124 Stat. 3180][/us/stat/124/3180].)
+([Pub. L. 94–553, title I][/us/pl/94/553/tI], § 101, Oct. 19, 1976, [90 Stat. 2571][/us/stat/90/2571]; [Pub. L. 100–568][/us/pl/100/568], § 5, Oct. 31, 1988, [102 Stat. 2857][/us/stat/102/2857]; [Pub. L. 111–295][/us/pl/111/295], § 3(b), Dec. 9, 2010, [124 Stat. 3180][/us/stat/124/3180].)
 
  __Historical and Revision Notes__ 
 
@@ -67,7 +67,7 @@
 
  __Recordation of Shareware__ 
 
-[Pub. L. 101–650, title VIII, § 805][/us/pl/101/650/s805], Dec. 1, 1990, [104 Stat. 5136][/us/stat/104/5136], provided that:
+[Pub. L. 101–650, title VIII][/us/pl/101/650/tVIII], § 805, Dec. 1, 1990, [104 Stat. 5136][/us/stat/104/5136], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -96,18 +96,18 @@
 ----------
 ----------
 
-[/us/pl/94/553/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F553%2Fs101
+[/us/pl/94/553/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F553%2FtI
 [/us/stat/90/2571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2571
-[/us/pl/100/568/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F568%2Fs5
+[/us/pl/100/568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F568
 [/us/stat/102/2857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2857
-[/us/pl/111/295/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F295%2Fs3%2Fb
+[/us/pl/111/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F295
 [/us/stat/124/3180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3180
 [/us/pl/111/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F295
 [/us/pl/100/568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F568
 [/us/pl/100/568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F568
 [/us/pl/100/568/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F568%2Fs13
 [/us/usc/t17/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft17%2Fs101
-[/us/pl/101/650/s805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2Fs805
+[/us/pl/101/650/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2FtVIII
 [/us/stat/104/5136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F5136
 [/us/usc/t17/s708]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft17%2Fs708
 [/us/usc/t17/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft17%2Fs101

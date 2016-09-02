@@ -19,7 +19,7 @@
 
     (b) With respect to copies and phonorecords publicly distributed by authority of the copyright owner before the effective date of the Berne Convention Implementation Act of 1988, where the person named in a single notice applicable to a collective work as a whole is not the owner of copyright in a separate contribution that does not bear its own notice, the case is governed by the provisions of section 406(a).
 
-([Pub. L. 94–553, title I, § 101][/us/pl/94/553/s101], Oct. 19, 1976, [90 Stat. 2577][/us/stat/90/2577]; [Pub. L. 100–568, § 7(d)][/us/pl/100/568/s7/d], Oct. 31, 1988, [102 Stat. 2858][/us/stat/102/2858].)
+([Pub. L. 94–553, title I][/us/pl/94/553/tI], § 101, Oct. 19, 1976, [90 Stat. 2577][/us/stat/90/2577]; [Pub. L. 100–568][/us/pl/100/568], § 7(d), Oct. 31, 1988, [102 Stat. 2858][/us/stat/102/2858].)
 
  __Historical and Revision Notes__ 
 
@@ -43,9 +43,9 @@
 
  __Amendments__ 
 
-    1988—Subsec. (a). [Pub. L. 100–568, § 7(d)(1)][/us/pl/100/568/s7/d/1], substituted “to invoke the provisions of section 401(d) or 402(d), as applicable” for “to satisfy the requirements of sections 401 through 403”.
+    1988—Subsec. (a). [Pub. L. 100–568][/us/pl/100/568], § 7(d)(1), substituted “to invoke the provisions of section 401(d) or 402(d), as applicable” for “to satisfy the requirements of sections 401 through 403”.
 
-    Subsec. (b). [Pub. L. 100–568, § 7(d)(2)][/us/pl/100/568/s7/d/2], substituted “With respect to copies and phonorecords publicly distributed by authority of the copyright owner before the effective date of the Berne Convention Implementation Act of 1988, where” for “Where”.
+    Subsec. (b). [Pub. L. 100–568][/us/pl/100/568], § 7(d)(2), substituted “With respect to copies and phonorecords publicly distributed by authority of the copyright owner before the effective date of the Berne Convention Implementation Act of 1988, where” for “Where”.
 
  __Effective Date of 1988 Amendment__ 
 
@@ -58,14 +58,14 @@
 ----------
 ----------
 
-[/us/pl/94/553/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F553%2Fs101
+[/us/pl/94/553/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F553%2FtI
 [/us/stat/90/2577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2577
-[/us/pl/100/568/s7/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F568%2Fs7%2Fd
+[/us/pl/100/568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F568
 [/us/stat/102/2858]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2858
 [/us/pl/100/568/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F568%2Fs13
 [/us/usc/t17/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft17%2Fs101
-[/us/pl/100/568/s7/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F568%2Fs7%2Fd%2F1
-[/us/pl/100/568/s7/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F568%2Fs7%2Fd%2F2
+[/us/pl/100/568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F568
+[/us/pl/100/568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F568
 [/us/pl/100/568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F568
 [/us/pl/100/568/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F568%2Fs13
 [/us/usc/t17/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft17%2Fs101

@@ -37,7 +37,7 @@
 
     If a notice of copyright in the form and position specified by this section appears on the published copy or copies to which a defendant in a copyright infringement suit had access, then no weight shall be given to such a defendant’s interposition of a defense based on innocent infringement in mitigation of actual or statutory damages, except as provided in the last sentence of section 504(c)(2).
 
-([Pub. L. 94–553, title I, § 101][/us/pl/94/553/s101], Oct. 19, 1976, [90 Stat. 2576][/us/stat/90/2576]; [Pub. L. 100–568, § 7(a)][/us/pl/100/568/s7/a], Oct. 31, 1988, [102 Stat. 2857][/us/stat/102/2857].)
+([Pub. L. 94–553, title I][/us/pl/94/553/tI], § 101, Oct. 19, 1976, [90 Stat. 2576][/us/stat/90/2576]; [Pub. L. 100–568][/us/pl/100/568], § 7(a), Oct. 31, 1988, [102 Stat. 2857][/us/stat/102/2857].)
 
  __Historical and Revision Notes__ 
 
@@ -69,11 +69,11 @@
 
  __Amendments__ 
 
-    1988—Subsec. (a). [Pub. L. 100–568, § 7(a)(1)][/us/pl/100/568/s7/a/1], (2), substituted “General provisions” for “General requirement” in heading, and “may be placed on” for “shall be placed on all” in text.
+    1988—Subsec. (a). [Pub. L. 100–568][/us/pl/100/568], § 7(a)(1), (2), substituted “General provisions” for “General requirement” in heading, and “may be placed on” for “shall be placed on all” in text.
 
-    Subsec. (b). [Pub. L. 100–568, § 7(a)(3)][/us/pl/100/568/s7/a/3], substituted “If a notice appears on the copies, it” for “The notice appearing on the copies”.
+    Subsec. (b). [Pub. L. 100–568][/us/pl/100/568], § 7(a)(3), substituted “If a notice appears on the copies, it” for “The notice appearing on the copies”.
 
-    Subsec. (d). [Pub. L. 100–568, § 7(a)(4)][/us/pl/100/568/s7/a/4], added subsec. (d).
+    Subsec. (d). [Pub. L. 100–568][/us/pl/100/568], § 7(a)(4), added subsec. (d).
 
  __Effective Date of 1988 Amendment__ 
 
@@ -81,7 +81,7 @@
 
  __Compliance With Predecessor Notice Provisions; Copies Distributed After__  __Dec. 31, 1977__ 
 
-[Pub. L. 94–553, title I, § 108][/us/pl/94/553/s108], Oct. 19, 1976, [90 Stat. 2600][/us/stat/90/2600], provided that: 
+[Pub. L. 94–553, title I][/us/pl/94/553/tI], § 108, Oct. 19, 1976, [90 Stat. 2600][/us/stat/90/2600], provided that: 
 
 > “The notice provisions of sections 401 through 403 of title 17 as amended by the first section of this Act \[sections 401 through 403 of this title\] apply to all copies or phonorecords publicly distributed on or after January 1, 1978. However, in the case of a work published before January 1, 1978, compliance with the notice provisions of title 17 either as it existed on December 31, 1977, or as amended by the first section of this Act, is adequate with respect to copies publicly distributed after December 31, 1977.”
 
@@ -92,17 +92,17 @@
 ----------
 ----------
 
-[/us/pl/94/553/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F553%2Fs101
+[/us/pl/94/553/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F553%2FtI
 [/us/stat/90/2576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2576
-[/us/pl/100/568/s7/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F568%2Fs7%2Fa
+[/us/pl/100/568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F568
 [/us/stat/102/2857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2857
-[/us/pl/100/568/s7/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F568%2Fs7%2Fa%2F1
-[/us/pl/100/568/s7/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F568%2Fs7%2Fa%2F3
-[/us/pl/100/568/s7/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F568%2Fs7%2Fa%2F4
+[/us/pl/100/568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F568
+[/us/pl/100/568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F568
+[/us/pl/100/568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F568
 [/us/pl/100/568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F568
 [/us/pl/100/568/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F568%2Fs13
 [/us/usc/t17/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft17%2Fs101
-[/us/pl/94/553/s108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F553%2Fs108
+[/us/pl/94/553/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F553%2FtI
 [/us/stat/90/2600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2600
 
 

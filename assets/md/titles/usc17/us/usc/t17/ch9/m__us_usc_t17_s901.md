@@ -51,11 +51,11 @@
 
     (b) For purposes of this chapter, the distribution or importation of a product incorporating a semiconductor chip product as a part thereof is a distribution or importation of that semiconductor chip product.
 
-(Added [Pub. L. 98–620, title III, § 302][/us/pl/98/620/s302], Nov. 8, 1984, [98 Stat. 3347][/us/stat/98/3347].)
+(Added [Pub. L. 98–620, title III][/us/pl/98/620/tIII], § 302, Nov. 8, 1984, [98 Stat. 3347][/us/stat/98/3347].)
 
  __Authorization of Appropriations__ 
 
-[Pub. L. 98–620, title III, § 304][/us/pl/98/620/s304], Nov. 8, 1984, [98 Stat. 3356][/us/stat/98/3356], provided that: 
+[Pub. L. 98–620, title III][/us/pl/98/620/tIII], § 304, Nov. 8, 1984, [98 Stat. 3356][/us/stat/98/3356], provided that: 
 
 > “There are authorized to be appropriated such sums as may be necessary to carry out the purposes of this title and the amendments made by this title \[enacting this chapter\].”
 
@@ -66,9 +66,9 @@
 ----------
 ----------
 
-[/us/pl/98/620/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620%2Fs302
+[/us/pl/98/620/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620%2FtIII
 [/us/stat/98/3347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3347
-[/us/pl/98/620/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620%2Fs304
+[/us/pl/98/620/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620%2FtIII
 [/us/stat/98/3356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3356
 
 

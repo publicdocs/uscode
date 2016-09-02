@@ -49,7 +49,7 @@
 
             (C) activities violating legal or equitable rights which extend beyond the life of the author.
 
-([Pub. L. 94–553, title I, § 101][/us/pl/94/553/s101], Oct. 19, 1976, [90 Stat. 2572][/us/stat/90/2572]; [Pub. L. 100–568, § 6][/us/pl/100/568/s6], Oct. 31, 1988, [102 Stat. 2857][/us/stat/102/2857]; [Pub. L. 101–650, title VI, § 605][/us/pl/101/650/s605], title VII, § 705, Dec. 1, 1990, [104 Stat. 5131][/us/stat/104/5131], 5134; [Pub. L. 105–298, title I, § 102(a)][/us/pl/105/298/s102/a], Oct. 27, 1998, [112 Stat. 2827][/us/stat/112/2827].)
+([Pub. L. 94–553, title I][/us/pl/94/553/tI], § 101, Oct. 19, 1976, [90 Stat. 2572][/us/stat/90/2572]; [Pub. L. 100–568][/us/pl/100/568], § 6, Oct. 31, 1988, [102 Stat. 2857][/us/stat/102/2857]; [Pub. L. 101–650, title VI][/us/pl/101/650/tVI], § 605, title VII, § 705, Dec. 1, 1990, [104 Stat. 5131][/us/stat/104/5131], 5134; [Pub. L. 105–298, title I][/us/pl/105/298/tI], § 102(a), Oct. 27, 1998, [112 Stat. 2827][/us/stat/112/2827].)
 
  __Historical and Revision Notes__ 
 
@@ -113,9 +113,9 @@
 
     1998—Subsec. (c). [Pub. L. 105–298][/us/pl/105/298] substituted “2067” for “2047” wherever appearing.
 
-    1990—Subsec. (b)(4). [Pub. L. 101–650, § 705][/us/pl/101/650/s705], added par. (4).
+    1990—Subsec. (b)(4). [Pub. L. 101–650][/us/pl/101/650], § 705, added par. (4).
 
-    Subsec. (f). [Pub. L. 101–650, § 605][/us/pl/101/650/s605], added subsec. (f).
+    Subsec. (f). [Pub. L. 101–650][/us/pl/101/650], § 605, added subsec. (f).
 
     1988—Subsec. (e). [Pub. L. 100–568][/us/pl/100/568] added subsec. (e).
 
@@ -136,20 +136,20 @@
 ----------
 ----------
 
-[/us/pl/94/553/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F553%2Fs101
+[/us/pl/94/553/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F553%2FtI
 [/us/stat/90/2572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2572
-[/us/pl/100/568/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F568%2Fs6
+[/us/pl/100/568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F568
 [/us/stat/102/2857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2857
-[/us/pl/101/650/s605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2Fs605
+[/us/pl/101/650/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2FtVI
 [/us/stat/104/5131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F5131
-[/us/pl/105/298/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F298%2Fs102%2Fa
+[/us/pl/105/298/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F298%2FtI
 [/us/stat/112/2827]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2827
 [/us/usc/t28/s1338]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1338
 [/us/pl/101/650]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650
 [/us/usc/t17/s106A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft17%2Fs106A
 [/us/pl/105/298]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F298
-[/us/pl/101/650/s705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2Fs705
-[/us/pl/101/650/s605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2Fs605
+[/us/pl/101/650]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650
+[/us/pl/101/650]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650
 [/us/pl/100/568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F568
 [/us/pl/101/650/s605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2Fs605
 [/us/pl/101/650/s610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2Fs610

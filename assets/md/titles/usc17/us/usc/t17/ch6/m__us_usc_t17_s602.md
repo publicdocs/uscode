@@ -39,7 +39,7 @@
 
     In a case where the making of the copies or phonorecords would have constituted an infringement of copyright if this title had been applicable, their importation is prohibited. In a case where the copies or phonorecords were lawfully made, United States Customs and Border Protection has no authority to prevent their importation. In either case, the Secretary of the Treasury is authorized to prescribe, by regulation, a procedure under which any person claiming an interest in the copyright in a particular work may, upon payment of a specified fee, be entitled to notification by United States Customs and Border Protection of the importation of articles that appear to be copies or phonorecords of the work.
 
-([Pub. L. 94–553, title I, § 101][/us/pl/94/553/s101], Oct. 19, 1976, [90 Stat. 2589][/us/stat/90/2589]; [Pub. L. 110–403, title I, § 105(b)][/us/pl/110/403/s105/b], (c)(1), Oct. 13, 2008, [122 Stat. 4259][/us/stat/122/4259], 4260; [Pub. L. 111–295, § 4(c)][/us/pl/111/295/s4/c], Dec. 9, 2010, [124 Stat. 3181][/us/stat/124/3181].)
+([Pub. L. 94–553, title I][/us/pl/94/553/tI], § 101, Oct. 19, 1976, [90 Stat. 2589][/us/stat/90/2589]; [Pub. L. 110–403, title I][/us/pl/110/403/tI], § 105(b), (c)(1), Oct. 13, 2008, [122 Stat. 4259][/us/stat/122/4259], 4260; [Pub. L. 111–295][/us/pl/111/295], § 4(c), Dec. 9, 2010, [124 Stat. 3181][/us/stat/124/3181].)
 
  __Historical and Revision Notes__ 
 
@@ -59,11 +59,11 @@ Scope of the Section. Section 602, which has nothing to do with the manufacturin
 
     2010—Subsec. (b). [Pub. L. 111–295][/us/pl/111/295] struck out “unless the provisions of section 601 are applicable” after “prevent their importation” in second sentence.
 
-    2008—[Pub. L. 110–403, § 105(c)(1)(A)][/us/pl/110/403/s105/c/1/A], inserted “or exportation” after “importation” in section catchline.
+    2008—[Pub. L. 110–403][/us/pl/110/403], § 105(c)(1)(A), inserted “or exportation” after “importation” in section catchline.
 
-    Subsec. (a). [Pub. L. 110–403, § 105(b)][/us/pl/110/403/s105/b], inserted heading, designated introductory provisions as par. (1), struck out “This subsection does not apply to—” at end in par. (1), added par. (2) and par. (3) designation, heading, and introductory provisions, redesignated former pars. (1) to (3) as subpars. (A) to (C) of par. (3), respectively, and realigned margins, inserted “or exportation” after “importation” in par. (3)(A), and substituted “importation or exportation, for the private use of the importer or exporter” for “importation, for the private use of the importer” and inserted “or departing from the United States” after “United States” in par. (3)(B).
+    Subsec. (a). [Pub. L. 110–403][/us/pl/110/403], § 105(b), inserted heading, designated introductory provisions as par. (1), struck out “This subsection does not apply to—” at end in par. (1), added par. (2) and par. (3) designation, heading, and introductory provisions, redesignated former pars. (1) to (3) as subpars. (A) to (C) of par. (3), respectively, and realigned margins, inserted “or exportation” after “importation” in par. (3)(A), and substituted “importation or exportation, for the private use of the importer or exporter” for “importation, for the private use of the importer” and inserted “or departing from the United States” after “United States” in par. (3)(B).
 
-    Subsec. (b). [Pub. L. 110–403, § 105(c)(1)(B)][/us/pl/110/403/s105/c/1/B], inserted heading and substituted “United States Customs and Border Protection has” for “the United States Customs Service has” and “United States Customs and Border Protection of” for “the Customs Service of”.
+    Subsec. (b). [Pub. L. 110–403][/us/pl/110/403], § 105(c)(1)(B), inserted heading and substituted “United States Customs and Border Protection has” for “the United States Customs Service has” and “United States Customs and Border Protection of” for “the Customs Service of”.
 
 ----------
 
@@ -72,15 +72,15 @@ Scope of the Section. Section 602, which has nothing to do with the manufacturin
 ----------
 ----------
 
-[/us/pl/94/553/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F553%2Fs101
+[/us/pl/94/553/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F553%2FtI
 [/us/stat/90/2589]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2589
-[/us/pl/110/403/s105/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F403%2Fs105%2Fb
+[/us/pl/110/403/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F403%2FtI
 [/us/stat/122/4259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4259
-[/us/pl/111/295/s4/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F295%2Fs4%2Fc
+[/us/pl/111/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F295
 [/us/stat/124/3181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3181
 [/us/pl/111/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F295
-[/us/pl/110/403/s105/c/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F403%2Fs105%2Fc%2F1%2FA
-[/us/pl/110/403/s105/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F403%2Fs105%2Fb
-[/us/pl/110/403/s105/c/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F403%2Fs105%2Fc%2F1%2FB
+[/us/pl/110/403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F403
+[/us/pl/110/403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F403
+[/us/pl/110/403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F403
 
 

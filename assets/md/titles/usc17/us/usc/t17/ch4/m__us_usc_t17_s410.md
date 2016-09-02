@@ -23,7 +23,7 @@
 
     (d) The effective date of a copyright registration is the day on which an application, deposit, and fee, which are later determined by the Register of Copyrights or by a court of competent jurisdiction to be acceptable for registration, have all been received in the Copyright Office.
 
-([Pub. L. 94–553, title I, § 101][/us/pl/94/553/s101], Oct. 19, 1976, [90 Stat. 2582][/us/stat/90/2582].)
+([Pub. L. 94–553, title I][/us/pl/94/553/tI], § 101, Oct. 19, 1976, [90 Stat. 2582][/us/stat/90/2582].)
 
  __Historical and Revision Notes__ 
 
@@ -39,7 +39,7 @@
 
  __Registration of Claims to Copyrights and Recordation of Assignments of Copyrights and Other Instruments Under Predecessor Provisions__ 
 
-[Pub. L. 94–553, title I, § 109][/us/pl/94/553/s109], Oct. 19, 1976, [90 Stat. 2600][/us/stat/90/2600], provided that: 
+[Pub. L. 94–553, title I][/us/pl/94/553/tI], § 109, Oct. 19, 1976, [90 Stat. 2600][/us/stat/90/2600], provided that: 
 
 > “The registration of claims to copyright for which the required deposit, application, and fee were received in the Copyright Office before January 1, 1978, and the recordation of assignments of copyright or other instruments received in the Copyright Office before January 1, 1978, shall be made in accordance with title 17 as it existed on December 31, 1977.”
 
@@ -50,9 +50,9 @@
 ----------
 ----------
 
-[/us/pl/94/553/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F553%2Fs101
+[/us/pl/94/553/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F553%2FtI
 [/us/stat/90/2582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2582
-[/us/pl/94/553/s109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F553%2Fs109
+[/us/pl/94/553/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F553%2FtI
 [/us/stat/90/2600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2600
 
 

@@ -29,7 +29,7 @@
 
     Articles imported in violation of the rights set forth in section 1308 are subject to seizure and forfeiture in the same manner as property imported in violation of the customs laws. Any such forfeited articles shall be destroyed as directed by the Secretary of the Treasury or the court, as the case may be, except that the articles may be returned to the country of export whenever it is shown to the satisfaction of the Secretary of the Treasury that the importer had no reasonable grounds for believing that his or her acts constituted a violation of the law.
 
-(Added [Pub. L. 105–304, title V, § 502][/us/pl/105/304/s502], Oct. 28, 1998, [112 Stat. 2916][/us/stat/112/2916].)
+(Added [Pub. L. 105–304, title V][/us/pl/105/304/tV], § 502, Oct. 28, 1998, [112 Stat. 2916][/us/stat/112/2916].)
 
  __References in Text__ 
 
@@ -42,7 +42,7 @@
 ----------
 ----------
 
-[/us/pl/105/304/s502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F304%2Fs502
+[/us/pl/105/304/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F304%2FtV
 [/us/stat/112/2916]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2916
 [/us/usc/t19/s1337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1337
 

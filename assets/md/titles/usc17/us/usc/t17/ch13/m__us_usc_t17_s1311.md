@@ -17,7 +17,7 @@
 
     An application for registration of a design filed in the United States by any person who has, or whose legal representative or predecessor or successor in title has, previously filed an application for registration of the same design in a foreign country which extends to designs of owners who are citizens of the United States, or to applications filed under this chapter, similar protection to that provided under this chapter shall have that same effect as if filed in the United States on the date on which the application was first filed in such foreign country, if the application in the United States is filed within 6 months after the earliest date on which any such foreign application was filed.
 
-(Added [Pub. L. 105–304, title V, § 502][/us/pl/105/304/s502], Oct. 28, 1998, [112 Stat. 2910][/us/stat/112/2910].)
+(Added [Pub. L. 105–304, title V][/us/pl/105/304/tV], § 502, Oct. 28, 1998, [112 Stat. 2910][/us/stat/112/2910].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/105/304/s502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F304%2Fs502
+[/us/pl/105/304/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F304%2FtV
 [/us/stat/112/2910]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2910
 
 

@@ -57,7 +57,7 @@
 
     (e) Notwithstanding the provisions of sections 106(4) and 106(5), in the case of an electronic audiovisual game intended for use in coin-operated equipment, the owner of a particular copy of such a game lawfully made under this title, is entitled, without the authority of the copyright owner of the game, to publicly perform or display that game in coin-operated equipment, except that this subsection shall not apply to any work of authorship embodied in the audiovisual game if the copyright owner of the electronic audiovisual game is not also the copyright owner of the work of authorship.
 
-([Pub. L. 94–553, title I, § 101][/us/pl/94/553/s101], Oct. 19, 1976, [90 Stat. 2548][/us/stat/90/2548]; [Pub. L. 98–450, § 2][/us/pl/98/450/s2], Oct. 4, 1984, [98 Stat. 1727][/us/stat/98/1727]; [Pub. L. 100–617, § 2][/us/pl/100/617/s2], Nov. 5, 1988, [102 Stat. 3194][/us/stat/102/3194]; [Pub. L. 101–650, title VIII][/us/pl/101/650], §§ 802, 803, Dec. 1, 1990, [104 Stat. 5134][/us/stat/104/5134], 5135; [Pub. L. 103–465, title V, § 514(b)][/us/pl/103/465/s514/b], Dec. 8, 1994, [108 Stat. 4981][/us/stat/108/4981]; [Pub. L. 105–80, § 12(a)(5)][/us/pl/105/80/s12/a/5], Nov. 13, 1997, [111 Stat. 1534][/us/stat/111/1534]; [Pub. L. 110–403, title II, § 209(a)(1)][/us/pl/110/403/s209/a/1], Oct. 13, 2008, [122 Stat. 4264][/us/stat/122/4264].)
+([Pub. L. 94–553, title I][/us/pl/94/553/tI], § 101, Oct. 19, 1976, [90 Stat. 2548][/us/stat/90/2548]; [Pub. L. 98–450][/us/pl/98/450], § 2, Oct. 4, 1984, [98 Stat. 1727][/us/stat/98/1727]; [Pub. L. 100–617][/us/pl/100/617], § 2, Nov. 5, 1988, [102 Stat. 3194][/us/stat/102/3194]; [Pub. L. 101–650, title VIII][/us/pl/101/650/tVIII], §§ 802, 803, Dec. 1, 1990, [104 Stat. 5134][/us/stat/104/5134], 5135; [Pub. L. 103–465, title V][/us/pl/103/465/tV], § 514(b), Dec. 8, 1994, [108 Stat. 4981][/us/stat/108/4981]; [Pub. L. 105–80][/us/pl/105/80], § 12(a)(5), Nov. 13, 1997, [111 Stat. 1534][/us/stat/111/1534]; [Pub. L. 110–403, title II][/us/pl/110/403/tII], § 209(a)(1), Oct. 13, 2008, [122 Stat. 4264][/us/stat/122/4264].)
 
  __Historical and Revision Notes__ 
 
@@ -107,15 +107,15 @@
 
     whichever occurs first.”
 
-    1990—Subsec. (b)(1). [Pub. L. 101–650, § 802(2)][/us/pl/101/650/s802/2], added par. (1) and struck out former par. (1) which read as follows: “Notwithstanding the provisions of subsection (a), unless authorized by the owners of copyright in the sound recording and in the musical works embodied therein, the owner of a particular phonorecord may not, for purposes of direct or indirect commercial advantage, dispose of, or authorize the disposal of, the possession of that phonorecord by rental, lease, or lending, or by any other act or practice in the nature of rental, lease, or lending. Nothing in the preceding sentence shall apply to the rental, lease, or lending of a phonorecord for nonprofit purposes by a nonprofit library or nonprofit educational institution.”
+    1990—Subsec. (b)(1). [Pub. L. 101–650][/us/pl/101/650], § 802(2), added par. (1) and struck out former par. (1) which read as follows: “Notwithstanding the provisions of subsection (a), unless authorized by the owners of copyright in the sound recording and in the musical works embodied therein, the owner of a particular phonorecord may not, for purposes of direct or indirect commercial advantage, dispose of, or authorize the disposal of, the possession of that phonorecord by rental, lease, or lending, or by any other act or practice in the nature of rental, lease, or lending. Nothing in the preceding sentence shall apply to the rental, lease, or lending of a phonorecord for nonprofit purposes by a nonprofit library or nonprofit educational institution.”
 
-    Subsec. (b)(2), (3). [Pub. L. 101–650, § 802(1)][/us/pl/101/650/s802/1], (2), added par. (2) and redesignated former pars. (2) and (3) as (3) and (4), respectively.
+    Subsec. (b)(2), (3). [Pub. L. 101–650][/us/pl/101/650], § 802(1), (2), added par. (2) and redesignated former pars. (2) and (3) as (3) and (4), respectively.
 
-    Subsec. (b)(4). [Pub. L. 101–650, § 802(3)][/us/pl/101/650/s802/3], added par. (4) and struck out former par. (4) which read as follows: “Any person who distributes a phonorecord in violation of clause (1) is an infringer of copyright under [section 501 of this title][/us/usc/t17/s501] and is subject to the remedies set forth in sections 502, 503, 504, 505, and 509. Such violation shall not be a criminal offense under section 506 or cause such person to be subject to the criminal penalties set forth in [section 2319 of title 18][/us/usc/t18/s2319].”
+    Subsec. (b)(4). [Pub. L. 101–650][/us/pl/101/650], § 802(3), added par. (4) and struck out former par. (4) which read as follows: “Any person who distributes a phonorecord in violation of clause (1) is an infringer of copyright under [section 501 of this title][/us/usc/t17/s501] and is subject to the remedies set forth in sections 502, 503, 504, 505, and 509. Such violation shall not be a criminal offense under section 506 or cause such person to be subject to the criminal penalties set forth in [section 2319 of title 18][/us/usc/t18/s2319].”
 
-    [Pub. L. 101–650, § 802(1)][/us/pl/101/650/s802/1], redesignated par. (3) as (4).
+    [Pub. L. 101–650][/us/pl/101/650], § 802(1), redesignated par. (3) as (4).
 
-    Subsec. (e). [Pub. L. 101–650, § 803][/us/pl/101/650/s803], added subsec. (e).
+    Subsec. (e). [Pub. L. 101–650][/us/pl/101/650], § 803, added subsec. (e).
 
     1988—Subsec. (d). [Pub. L. 100–617][/us/pl/100/617] substituted “(a) and (c)” for “(a) and (b)” and “copyright” for “coyright”.
 
@@ -123,7 +123,7 @@
 
  __Effective Date of 1990 Amendment__ 
 
-[Pub. L. 101–650, title VIII, § 804][/us/pl/101/650/s804], Dec. 1, 1990, [104 Stat. 5136][/us/stat/104/5136], as amended by [Pub. L. 103–465, title V, § 511][/us/pl/103/465/s511], Dec. 8, 1994, [108 Stat. 4974][/us/stat/108/4974], provided that:
+[Pub. L. 101–650, title VIII][/us/pl/101/650/tVIII], § 804, Dec. 1, 1990, [104 Stat. 5136][/us/stat/104/5136], as amended by [Pub. L. 103–465, title V][/us/pl/103/465/tV], § 511, Dec. 8, 1994, [108 Stat. 4974][/us/stat/108/4974], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -139,7 +139,7 @@
 
  __Effective Date of 1984 Amendment__ 
 
-[Pub. L. 98–450, § 4][/us/pl/98/450/s4], Oct. 4, 1984, [98 Stat. 1728][/us/stat/98/1728], as amended by [Pub. L. 100–617, § 1][/us/pl/100/617/s1], Nov. 5, 1988, [102 Stat. 3194][/us/stat/102/3194]; [Pub. L. 103–182, title III, § 332][/us/pl/103/182/s332], Dec. 8, 1993, [107 Stat. 2114][/us/stat/107/2114], provided that:
+[Pub. L. 98–450][/us/pl/98/450], § 4, Oct. 4, 1984, [98 Stat. 1728][/us/stat/98/1728], as amended by [Pub. L. 100–617][/us/pl/100/617], § 1, Nov. 5, 1988, [102 Stat. 3194][/us/stat/102/3194]; [Pub. L. 103–182, title III][/us/pl/103/182/tIII], § 332, Dec. 8, 1993, [107 Stat. 2114][/us/stat/107/2114], provided that:
 
 >     “(a) The amendments made by this Act \[amending this section and [section 115 of this title][/us/usc/t17/s115] and enacting provisions set out as a note under [section 101 of this title][/us/usc/t17/s101]\] shall take effect on the date of the enactment of this Act \[Oct. 4, 1984\].
 
@@ -149,7 +149,7 @@
 
  __Evaluation of Impact of Copyright Law and Amendments on Electronic Commerce and Technological Development__ 
 
-[Pub. L. 105–304, title I, § 104][/us/pl/105/304/s104], Oct. 28, 1998, [112 Stat. 2876][/us/stat/112/2876], provided that:
+[Pub. L. 105–304, title I][/us/pl/105/304/tI], § 104, Oct. 28, 1998, [112 Stat. 2876][/us/stat/112/2876], provided that:
 
 >     “(a)  __Evaluation by the Register of Copyrights and the Assistant Secretary for Communications and Information__  __.—__ 
 
@@ -172,19 +172,19 @@
 
 [/us/usc/t17/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft17%2Fs501
 [/us/usc/t18/s2319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2319
-[/us/pl/94/553/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F553%2Fs101
+[/us/pl/94/553/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F553%2FtI
 [/us/stat/90/2548]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2548
-[/us/pl/98/450/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F450%2Fs2
+[/us/pl/98/450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F450
 [/us/stat/98/1727]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1727
-[/us/pl/100/617/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F617%2Fs2
+[/us/pl/100/617]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F617
 [/us/stat/102/3194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3194
-[/us/pl/101/650]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650
+[/us/pl/101/650/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2FtVIII
 [/us/stat/104/5134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F5134
-[/us/pl/103/465/s514/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs514%2Fb
+[/us/pl/103/465/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2FtV
 [/us/stat/108/4981]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4981
-[/us/pl/105/80/s12/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F80%2Fs12%2Fa%2F5
+[/us/pl/105/80]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F80
 [/us/stat/111/1534]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1534
-[/us/pl/110/403/s209/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F403%2Fs209%2Fa%2F1
+[/us/pl/110/403/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F403%2FtII
 [/us/stat/122/4264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4264
 [/us/pl/101/650]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650
 [/us/usc/t15/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs12
@@ -194,26 +194,26 @@
 [/us/pl/110/403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F403
 [/us/pl/105/80]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F80
 [/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
-[/us/pl/101/650/s802/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2Fs802%2F2
-[/us/pl/101/650/s802/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2Fs802%2F1
-[/us/pl/101/650/s802/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2Fs802%2F3
+[/us/pl/101/650]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650
+[/us/pl/101/650]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650
+[/us/pl/101/650]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650
 [/us/usc/t17/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft17%2Fs501
 [/us/usc/t18/s2319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2319
-[/us/pl/101/650/s802/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2Fs802%2F1
-[/us/pl/101/650/s803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2Fs803
+[/us/pl/101/650]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650
+[/us/pl/101/650]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650
 [/us/pl/100/617]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F617
 [/us/pl/98/450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F450
-[/us/pl/101/650/s804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2Fs804
+[/us/pl/101/650/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2FtVIII
 [/us/stat/104/5136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F5136
-[/us/pl/103/465/s511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs511
+[/us/pl/103/465/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2FtV
 [/us/stat/108/4974]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4974
 [/us/usc/t17/s109/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft17%2Fs109%2Fb
 [/us/usc/t17/s109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft17%2Fs109
-[/us/pl/98/450/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F450%2Fs4
+[/us/pl/98/450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F450
 [/us/stat/98/1728]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1728
-[/us/pl/100/617/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F617%2Fs1
+[/us/pl/100/617]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F617
 [/us/stat/102/3194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3194
-[/us/pl/103/182/s332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs332
+[/us/pl/103/182/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2FtIII
 [/us/stat/107/2114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2114
 [/us/usc/t17/s115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft17%2Fs115
 [/us/usc/t17/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft17%2Fs101
@@ -223,7 +223,7 @@
 [/us/pl/98/450/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F450%2Fs4
 [/us/pl/103/182/s335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs335
 [/us/usc/t15/s1052]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1052
-[/us/pl/105/304/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F304%2Fs104
+[/us/pl/105/304/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F304%2FtI
 [/us/stat/112/2876]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2876
 
 

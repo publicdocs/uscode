@@ -17,7 +17,7 @@
 
     Whoever knowingly makes a false representation materially affecting the rights obtainable under this chapter for the purpose of obtaining registration of a design under this chapter shall pay a penalty of not less than $500 and not more than $1,000, and any rights or privileges that individual may have in the design under this chapter shall be forfeited.
 
-(Added [Pub. L. 105–304, title V, § 502][/us/pl/105/304/s502], Oct. 28, 1998, [112 Stat. 2915][/us/stat/112/2915].)
+(Added [Pub. L. 105–304, title V][/us/pl/105/304/tV], § 502, Oct. 28, 1998, [112 Stat. 2915][/us/stat/112/2915].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/105/304/s502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F304%2Fs502
+[/us/pl/105/304/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F304%2FtV
 [/us/stat/112/2915]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2915
 
 

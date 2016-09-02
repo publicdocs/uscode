@@ -37,7 +37,7 @@
 
         (2) In a suit described in paragraph (1) for a violation described in that paragraph, remedies (including remedies both at law and in equity) are available for the violation to the same extent as such remedies are available for such a violation in a suit against any public or private entity other than a State, instrumentality of a State, or officer or employee of a State acting in his or her official capacity. Such remedies include actual damages and profits under subsection (b), statutory damages under subsection (c), impounding and disposition of infringing articles under subsection (e), and costs and attorney’s fees under subsection (f).
 
-(Added [Pub. L. 98–620, title III, § 302][/us/pl/98/620/s302], Nov. 8, 1984, [98 Stat. 3353][/us/stat/98/3353]; amended [Pub. L. 101–553, § 2(b)(2)][/us/pl/101/553/s2/b/2], Nov. 15, 1990, [104 Stat. 2750][/us/stat/104/2750].)
+(Added [Pub. L. 98–620, title III][/us/pl/98/620/tIII], § 302, Nov. 8, 1984, [98 Stat. 3353][/us/stat/98/3353]; amended [Pub. L. 101–553][/us/pl/101/553], § 2(b)(2), Nov. 15, 1990, [104 Stat. 2750][/us/stat/104/2750].)
 
  __Amendments__ 
 
@@ -54,9 +54,9 @@
 ----------
 ----------
 
-[/us/pl/98/620/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620%2Fs302
+[/us/pl/98/620/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620%2FtIII
 [/us/stat/98/3353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3353
-[/us/pl/101/553/s2/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F553%2Fs2%2Fb%2F2
+[/us/pl/101/553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F553
 [/us/stat/104/2750]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2750
 [/us/pl/101/553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F553
 [/us/pl/101/553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F553

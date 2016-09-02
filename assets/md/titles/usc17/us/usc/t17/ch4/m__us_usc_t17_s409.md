@@ -39,7 +39,7 @@
 
     If an application is submitted for the renewed and extended term provided for in section 304(a)(3)(A) and an original term registration has not been made, the Register may request information with respect to the existence, ownership, or duration of the copyright for the original term.
 
-([Pub. L. 94–553, title I, § 101][/us/pl/94/553/s101], Oct. 19, 1976, [90 Stat. 2582][/us/stat/90/2582]; [Pub. L. 102–307, title I, § 102(b)(1)][/us/pl/102/307/s102/b/1], June 26, 1992, [106 Stat. 266][/us/stat/106/266]; [Pub. L. 111–295, § 4(b)(2)][/us/pl/111/295/s4/b/2], Dec. 9, 2010, [124 Stat. 3180][/us/stat/124/3180].)
+([Pub. L. 94–553, title I][/us/pl/94/553/tI], § 101, Oct. 19, 1976, [90 Stat. 2582][/us/stat/90/2582]; [Pub. L. 102–307, title I][/us/pl/102/307/tI], § 102(b)(1), June 26, 1992, [106 Stat. 266][/us/stat/106/266]; [Pub. L. 111–295][/us/pl/111/295], § 4(b)(2), Dec. 9, 2010, [124 Stat. 3180][/us/stat/124/3180].)
 
  __Historical and Revision Notes__ 
 
@@ -68,11 +68,11 @@
 ----------
 ----------
 
-[/us/pl/94/553/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F553%2Fs101
+[/us/pl/94/553/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F553%2FtI
 [/us/stat/90/2582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2582
-[/us/pl/102/307/s102/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F307%2Fs102%2Fb%2F1
+[/us/pl/102/307/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F307%2FtI
 [/us/stat/106/266]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F266
-[/us/pl/111/295/s4/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F295%2Fs4%2Fb%2F2
+[/us/pl/111/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F295
 [/us/stat/124/3180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3180
 [/us/pl/111/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F295
 [/us/pl/102/307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F307

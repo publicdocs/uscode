@@ -309,7 +309,7 @@
 
         Any violation of paragraph (1) of this subsection shall be treated as a violation of subsection (b)(1) of this section. Any violation of paragraph (2) of this subsection shall be deemed an “act of circumvention” for the purposes of section 1203(c)(3)(A) of this chapter.
 
-(Added [Pub. L. 105–304, title I, § 103(a)][/us/pl/105/304/s103/a], Oct. 28, 1998, [112 Stat. 2863][/us/stat/112/2863]; amended [Pub. L. 106–113, div. B, § 1000(a)(9)][/us/pl/106/113/s1000/a/9] \[title V, § 5006\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–594.)
+(Added [Pub. L. 105–304, title I][/us/pl/105/304/tI], § 103(a), Oct. 28, 1998, [112 Stat. 2863][/us/stat/112/2863]; amended [Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(9) \[title V, § 5006\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–594.)
 
  __References in Text__ 
 
@@ -388,9 +388,9 @@
 
 [/us/usc/t18/s1030]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1030
 [/us/usc/t18/s1030]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1030
-[/us/pl/105/304/s103/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F304%2Fs103%2Fa
+[/us/pl/105/304/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F304%2FtI
 [/us/stat/112/2863]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2863
-[/us/pl/106/113/s1000/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F9
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
 [/us/pl/105/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F304
 [/us/pl/99/474]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F474

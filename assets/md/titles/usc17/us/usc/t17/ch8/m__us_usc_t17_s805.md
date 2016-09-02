@@ -25,23 +25,23 @@
 
     shall remain in effect for such period of time as would otherwise apply under such determination, except that the Copyright Royalty Judges shall adjust the rates pursuant to the voluntary negotiations to reflect national monetary inflation during the additional period the rates remain in effect.
 
-(Added [Pub. L. 108–419, § 3(a)][/us/pl/108/419/s3/a], Nov. 30, 2004, [118 Stat. 2360][/us/stat/118/2360].)
+(Added [Pub. L. 108–419][/us/pl/108/419], § 3(a), Nov. 30, 2004, [118 Stat. 2360][/us/stat/118/2360].)
 
  __Prior Provisions__ 
 
-    Prior sections 805 to 810 were repealed by [Pub. L. 103–198, § 2(e)][/us/pl/103/198/s2/e], Dec. 17, 1993, [107 Stat. 2308][/us/stat/107/2308].
+    Prior sections 805 to 810 were repealed by [Pub. L. 103–198][/us/pl/103/198], § 2(e), Dec. 17, 1993, [107 Stat. 2308][/us/stat/107/2308].
 
-    Section 805, [Pub. L. 94–553, title I, § 101][/us/pl/94/553/s101], Oct. 19, 1976, [90 Stat. 2598][/us/stat/90/2598], related to staff of Copyright Royalty Tribunal.
+    Section 805, [Pub. L. 94–553, title I][/us/pl/94/553/tI], § 101, Oct. 19, 1976, [90 Stat. 2598][/us/stat/90/2598], related to staff of Copyright Royalty Tribunal.
 
-    Section 806, [Pub. L. 94–553, title I, § 101][/us/pl/94/553/s101], Oct. 19, 1976, [90 Stat. 2598][/us/stat/90/2598], related to administrative support of Tribunal.
+    Section 806, [Pub. L. 94–553, title I][/us/pl/94/553/tI], § 101, Oct. 19, 1976, [90 Stat. 2598][/us/stat/90/2598], related to administrative support of Tribunal.
 
-    Section 807, [Pub. L. 94–553, title I, § 101][/us/pl/94/553/s101], Oct. 19, 1976, [90 Stat. 2598][/us/stat/90/2598], related to deduction of costs of proceedings involving distribution of royalty fees.
+    Section 807, [Pub. L. 94–553, title I][/us/pl/94/553/tI], § 101, Oct. 19, 1976, [90 Stat. 2598][/us/stat/90/2598], related to deduction of costs of proceedings involving distribution of royalty fees.
 
-    Section 808, [Pub. L. 94–553, title I, § 101][/us/pl/94/553/s101], Oct. 19, 1976, [90 Stat. 2598][/us/stat/90/2598], related to reporting requirements of the Tribunal.
+    Section 808, [Pub. L. 94–553, title I][/us/pl/94/553/tI], § 101, Oct. 19, 1976, [90 Stat. 2598][/us/stat/90/2598], related to reporting requirements of the Tribunal.
 
-    Section 809, [Pub. L. 94–553, title I, § 101][/us/pl/94/553/s101], Oct. 19, 1976, [90 Stat. 2598][/us/stat/90/2598], related to effective date of final determinations of Tribunal.
+    Section 809, [Pub. L. 94–553, title I][/us/pl/94/553/tI], § 101, Oct. 19, 1976, [90 Stat. 2598][/us/stat/90/2598], related to effective date of final determinations of Tribunal.
 
-    Section 810, [Pub. L. 94–553, title I, § 101][/us/pl/94/553/s101], Oct. 19, 1976, [90 Stat. 2598][/us/stat/90/2598], related to judicial review of final decisions of Tribunal.
+    Section 810, [Pub. L. 94–553, title I][/us/pl/94/553/tI], § 101, Oct. 19, 1976, [90 Stat. 2598][/us/stat/90/2598], related to judicial review of final decisions of Tribunal.
 
 ----------
 
@@ -50,21 +50,21 @@
 ----------
 ----------
 
-[/us/pl/108/419/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F419%2Fs3%2Fa
+[/us/pl/108/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F419
 [/us/stat/118/2360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2360
-[/us/pl/103/198/s2/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F198%2Fs2%2Fe
+[/us/pl/103/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F198
 [/us/stat/107/2308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2308
-[/us/pl/94/553/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F553%2Fs101
+[/us/pl/94/553/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F553%2FtI
 [/us/stat/90/2598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2598
-[/us/pl/94/553/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F553%2Fs101
+[/us/pl/94/553/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F553%2FtI
 [/us/stat/90/2598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2598
-[/us/pl/94/553/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F553%2Fs101
+[/us/pl/94/553/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F553%2FtI
 [/us/stat/90/2598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2598
-[/us/pl/94/553/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F553%2Fs101
+[/us/pl/94/553/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F553%2FtI
 [/us/stat/90/2598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2598
-[/us/pl/94/553/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F553%2Fs101
+[/us/pl/94/553/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F553%2FtI
 [/us/stat/90/2598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2598
-[/us/pl/94/553/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F553%2Fs101
+[/us/pl/94/553/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F553%2FtI
 [/us/stat/90/2598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2598
 
 

@@ -31,7 +31,7 @@
 
     An assignment, grant, conveyance, or mortgage under subsection (b) shall be void as against any subsequent purchaser or mortgagee for a valuable consideration, unless it is recorded in the Office of the Administrator within 3 months after its date of execution or before the date of such subsequent purchase or mortgage.
 
-(Added [Pub. L. 105–304, title V, § 502][/us/pl/105/304/s502], Oct. 28, 1998, [112 Stat. 2913][/us/stat/112/2913]; amended [Pub. L. 106–44, § 1(f)(2)][/us/pl/106/44/s1/f/2], Aug. 5, 1999, [113 Stat. 222][/us/stat/113/222].)
+(Added [Pub. L. 105–304, title V][/us/pl/105/304/tV], § 502, Oct. 28, 1998, [112 Stat. 2913][/us/stat/112/2913]; amended [Pub. L. 106–44][/us/pl/106/44], § 1(f)(2), Aug. 5, 1999, [113 Stat. 222][/us/stat/113/222].)
 
  __Amendments__ 
 
@@ -44,9 +44,9 @@
 ----------
 ----------
 
-[/us/pl/105/304/s502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F304%2Fs502
+[/us/pl/105/304/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F304%2FtV
 [/us/stat/112/2913]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2913
-[/us/pl/106/44/s1/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F44%2Fs1%2Ff%2F2
+[/us/pl/106/44]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F44
 [/us/stat/113/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F222
 [/us/pl/106/44]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F44
 

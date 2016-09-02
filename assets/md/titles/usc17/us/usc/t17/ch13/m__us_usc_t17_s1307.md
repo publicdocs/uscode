@@ -23,7 +23,7 @@
 
     The omission of the notice prescribed in section 1306 shall prevent any recovery under section 1323 against a person who began an undertaking leading to infringement under this chapter before receiving written notice of the design protection. No injunction shall be issued under this chapter with respect to such undertaking unless the owner of the design reimburses that person for any reasonable expenditure or contractual obligation in connection with such undertaking that was incurred before receiving written notice of the design protection, as the court in its discretion directs. The burden of providing written notice of design protection shall be on the owner of the design.
 
-(Added [Pub. L. 105–304, title V, § 502][/us/pl/105/304/s502], Oct. 28, 1998, [112 Stat. 2907][/us/stat/112/2907].)
+(Added [Pub. L. 105–304, title V][/us/pl/105/304/tV], § 502, Oct. 28, 1998, [112 Stat. 2907][/us/stat/112/2907].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/105/304/s502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F304%2Fs502
+[/us/pl/105/304/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F304%2FtV
 [/us/stat/112/2907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2907
 
 

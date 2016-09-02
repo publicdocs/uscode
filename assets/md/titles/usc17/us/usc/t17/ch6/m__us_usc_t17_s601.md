@@ -13,9 +13,9 @@
 
 [Previous](./../../../..//us/usc/t17/ch6/m__us_usc_t17_ch6.md) | [Next](./../../../..//us/usc/t17/ch6/m__us_usc_t17_s602.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft17%2Fs601)
 
-## \[§ 601. Repealed. [Pub. L. 111–295, § 4(a)][/us/pl/111/295/s4/a], Dec. 9, 2010, [124 Stat. 3180][/us/stat/124/3180]\]
+## \[§ 601. Repealed. [Pub. L. 111–295][/us/pl/111/295], § 4(a), Dec. 9, 2010, [124 Stat. 3180][/us/stat/124/3180]\]
 
-    Section, [Pub. L. 94–553, title I, § 101][/us/pl/94/553/s101], Oct. 19, 1976, [90 Stat. 2588][/us/stat/90/2588]; [Pub. L. 97–215][/us/pl/97/215], July 13, 1982, [96 Stat. 178][/us/stat/96/178]; [Pub. L. 105–80, § 12(a)(15)][/us/pl/105/80/s12/a/15], (16), Nov. 13, 1997, [111 Stat. 1535][/us/stat/111/1535]; [Pub. L. 110–403, title I, § 105(c)(2)][/us/pl/110/403/s105/c/2], Oct. 13, 2008, [122 Stat. 4260][/us/stat/122/4260], related to manufacture, importation, and public distribution of certain copies of nondramatic English-language literary material protected under this title.
+    Section, [Pub. L. 94–553, title I][/us/pl/94/553/tI], § 101, Oct. 19, 1976, [90 Stat. 2588][/us/stat/90/2588]; [Pub. L. 97–215][/us/pl/97/215], July 13, 1982, [96 Stat. 178][/us/stat/96/178]; [Pub. L. 105–80][/us/pl/105/80], § 12(a)(15), (16), Nov. 13, 1997, [111 Stat. 1535][/us/stat/111/1535]; [Pub. L. 110–403, title I][/us/pl/110/403/tI], § 105(c)(2), Oct. 13, 2008, [122 Stat. 4260][/us/stat/122/4260], related to manufacture, importation, and public distribution of certain copies of nondramatic English-language literary material protected under this title.
 
 ----------
 
@@ -24,15 +24,15 @@
 ----------
 ----------
 
-[/us/pl/111/295/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F295%2Fs4%2Fa
+[/us/pl/111/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F295
 [/us/stat/124/3180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3180
-[/us/pl/94/553/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F553%2Fs101
+[/us/pl/94/553/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F553%2FtI
 [/us/stat/90/2588]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2588
 [/us/pl/97/215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F215
 [/us/stat/96/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F178
-[/us/pl/105/80/s12/a/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F80%2Fs12%2Fa%2F15
+[/us/pl/105/80]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F80
 [/us/stat/111/1535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1535
-[/us/pl/110/403/s105/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F403%2Fs105%2Fc%2F2
+[/us/pl/110/403/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F403%2FtI
 [/us/stat/122/4260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4260
 
 

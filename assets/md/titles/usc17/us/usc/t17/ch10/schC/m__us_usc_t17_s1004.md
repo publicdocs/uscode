@@ -39,7 +39,7 @@
 
     The royalty payment due under section 1003 for each digital audio recording medium imported into and distributed in the United States, or manufactured and distributed in the United States, shall be 3 percent of the transfer price. Only the first person to manufacture and distribute or import and distribute such medium shall be required to pay the royalty with respect to such medium.
 
-(Added [Pub. L. 102–563, § 2][/us/pl/102/563/s2], Oct. 28, 1992, [106 Stat. 4241][/us/stat/106/4241]; amended [Pub. L. 103–198, § 6(b)(1)][/us/pl/103/198/s6/b/1], Dec. 17, 1993, [107 Stat. 2312][/us/stat/107/2312]; [Pub. L. 108–419, § 5(i)(1)][/us/pl/108/419/s5/i/1], Nov. 30, 2004, [118 Stat. 2368][/us/stat/118/2368].)
+(Added [Pub. L. 102–563][/us/pl/102/563], § 2, Oct. 28, 1992, [106 Stat. 4241][/us/stat/106/4241]; amended [Pub. L. 103–198][/us/pl/103/198], § 6(b)(1), Dec. 17, 1993, [107 Stat. 2312][/us/stat/107/2312]; [Pub. L. 108–419][/us/pl/108/419], § 5(i)(1), Nov. 30, 2004, [118 Stat. 2368][/us/stat/118/2368].)
 
  __References in Text__ 
 
@@ -62,11 +62,11 @@
 ----------
 ----------
 
-[/us/pl/102/563/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F563%2Fs2
+[/us/pl/102/563]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F563
 [/us/stat/106/4241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4241
-[/us/pl/103/198/s6/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F198%2Fs6%2Fb%2F1
+[/us/pl/103/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F198
 [/us/stat/107/2312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2312
-[/us/pl/108/419/s5/i/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F419%2Fs5%2Fi%2F1
+[/us/pl/108/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F419
 [/us/stat/118/2368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2368
 [/us/usc/t17/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft17%2Fs1001
 [/us/pl/108/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F419

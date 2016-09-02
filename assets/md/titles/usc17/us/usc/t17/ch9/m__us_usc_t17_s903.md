@@ -27,7 +27,7 @@
 
     (d) Mask works prepared by an officer or employee of the United States Government as part of that person’s official duties are not protected under this chapter, but the United States Government is not precluded from receiving and holding exclusive rights in mask works transferred to the Government under subsection (b).
 
-(Added [Pub. L. 98–620, title III, § 302][/us/pl/98/620/s302], Nov. 8, 1984, [98 Stat. 3349][/us/stat/98/3349].)
+(Added [Pub. L. 98–620, title III][/us/pl/98/620/tIII], § 302, Nov. 8, 1984, [98 Stat. 3349][/us/stat/98/3349].)
 
 ----------
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/98/620/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620%2Fs302
+[/us/pl/98/620/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620%2FtIII
 [/us/stat/98/3349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3349
 
 

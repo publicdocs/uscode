@@ -27,7 +27,7 @@
 
     All publications of the Copyright Office shall be furnished to depository libraries as specified under [section 1905 of title 44][/us/usc/t44/s1905], and, aside from those furnished free of charge, shall be offered for sale to the public at prices based on the cost of reproduction and distribution.
 
-([Pub. L. 94–553, title I, § 101][/us/pl/94/553/s101], Oct. 19, 1976, [90 Stat. 2592][/us/stat/90/2592].)
+([Pub. L. 94–553, title I][/us/pl/94/553/tI], § 101, Oct. 19, 1976, [90 Stat. 2592][/us/stat/90/2592].)
 
 ----------
 
@@ -37,7 +37,7 @@
 ----------
 
 [/us/usc/t44/s1905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs1905
-[/us/pl/94/553/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F553%2Fs101
+[/us/pl/94/553/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F553%2FtI
 [/us/stat/90/2592]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2592
 
 

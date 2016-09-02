@@ -37,7 +37,7 @@
 
     If a notice of copyright in the form and position specified by this section appears on the published phonorecord or phonorecords to which a defendant in a copyright infringement suit had access, then no weight shall be given to such a defendant’s interposition of a defense based on innocent infringement in mitigation of actual or statutory damages, except as provided in the last sentence of section 504(c)(2).
 
-([Pub. L. 94–553, title I, § 101][/us/pl/94/553/s101], Oct. 19, 1976, [90 Stat. 2577][/us/stat/90/2577]; [Pub. L. 100–568, § 7(b)][/us/pl/100/568/s7/b], Oct. 31, 1988, [102 Stat. 2857][/us/stat/102/2857].)
+([Pub. L. 94–553, title I][/us/pl/94/553/tI], § 101, Oct. 19, 1976, [90 Stat. 2577][/us/stat/90/2577]; [Pub. L. 100–568][/us/pl/100/568], § 7(b), Oct. 31, 1988, [102 Stat. 2857][/us/stat/102/2857].)
 
  __Historical and Revision Notes__ 
 
@@ -51,11 +51,11 @@
 
  __Amendments__ 
 
-    1988—Subsec. (a). [Pub. L. 100–568, § 7(b)(1)][/us/pl/100/568/s7/b/1], (2), substituted “General provisions” for “General requirement” in heading, and “may be placed on” for “shall be placed on all” in text.
+    1988—Subsec. (a). [Pub. L. 100–568][/us/pl/100/568], § 7(b)(1), (2), substituted “General provisions” for “General requirement” in heading, and “may be placed on” for “shall be placed on all” in text.
 
-    Subsec. (b). [Pub. L. 100–568, § 7(b)(3)][/us/pl/100/568/s7/b/3], substituted “If a notice appears on the phonorecords, it” for “The notice appearing on the phonorecords”.
+    Subsec. (b). [Pub. L. 100–568][/us/pl/100/568], § 7(b)(3), substituted “If a notice appears on the phonorecords, it” for “The notice appearing on the phonorecords”.
 
-    Subsec. (d). [Pub. L. 100–568, § 7(b)(4)][/us/pl/100/568/s7/b/4], added subsec. (d).
+    Subsec. (d). [Pub. L. 100–568][/us/pl/100/568], § 7(b)(4), added subsec. (d).
 
  __Effective Date of 1988 Amendment__ 
 
@@ -68,13 +68,13 @@
 ----------
 ----------
 
-[/us/pl/94/553/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F553%2Fs101
+[/us/pl/94/553/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F553%2FtI
 [/us/stat/90/2577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2577
-[/us/pl/100/568/s7/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F568%2Fs7%2Fb
+[/us/pl/100/568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F568
 [/us/stat/102/2857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2857
-[/us/pl/100/568/s7/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F568%2Fs7%2Fb%2F1
-[/us/pl/100/568/s7/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F568%2Fs7%2Fb%2F3
-[/us/pl/100/568/s7/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F568%2Fs7%2Fb%2F4
+[/us/pl/100/568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F568
+[/us/pl/100/568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F568
+[/us/pl/100/568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F568
 [/us/pl/100/568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F568
 [/us/pl/100/568/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F568%2Fs13
 [/us/usc/t17/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft17%2Fs101

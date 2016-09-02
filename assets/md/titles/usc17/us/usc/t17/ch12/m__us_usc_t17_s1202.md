@@ -103,7 +103,7 @@
 
             (B) the term “cable system” has the meaning given that term in section 602 of the Communications Act of 1934 ([47 U.S.C. 522][/us/usc/t47/s522]).
 
-(Added [Pub. L. 105–304, title I, § 103(a)][/us/pl/105/304/s103/a], Oct. 28, 1998, [112 Stat. 2872][/us/stat/112/2872]; amended [Pub. L. 106–44, § 1(e)][/us/pl/106/44/s1/e], Aug. 5, 1999, [113 Stat. 222][/us/stat/113/222].)
+(Added [Pub. L. 105–304, title I][/us/pl/105/304/tI], § 103(a), Oct. 28, 1998, [112 Stat. 2872][/us/stat/112/2872]; amended [Pub. L. 106–44][/us/pl/106/44], § 1(e), Aug. 5, 1999, [113 Stat. 222][/us/stat/113/222].)
 
  __References in Text__ 
 
@@ -122,9 +122,9 @@
 
 [/us/usc/t47/s153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs153
 [/us/usc/t47/s522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs522
-[/us/pl/105/304/s103/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F304%2Fs103%2Fa
+[/us/pl/105/304/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F304%2FtI
 [/us/stat/112/2872]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2872
-[/us/pl/106/44/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F44%2Fs1%2Fe
+[/us/pl/106/44]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F44
 [/us/stat/113/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F222
 [/us/pl/105/304/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F304%2Fs105
 [/us/usc/t17/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft17%2Fs101

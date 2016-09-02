@@ -95,7 +95,7 @@
 
     As used in this section, the following term has the following meaning: A “digital phonorecord delivery” is each individual delivery of a phonorecord by digital transmission of a sound recording which results in a specifically identifiable reproduction by or for any transmission recipient of a phonorecord of that sound recording, regardless of whether the digital transmission is also a public performance of the sound recording or any nondramatic musical work embodied therein. A digital phonorecord delivery does not result from a real-time, non-interactive subscription transmission of a sound recording where no reproduction of the sound recording or the musical work embodied therein is made from the inception of the transmission through to its receipt by the transmission recipient in order to make the sound recording audible.
 
-([Pub. L. 94–553, title I, § 101][/us/pl/94/553/s101], Oct. 19, 1976, [90 Stat. 2561][/us/stat/90/2561]; [Pub. L. 98–450, § 3][/us/pl/98/450/s3], Oct. 4, 1984, [98 Stat. 1727][/us/stat/98/1727]; [Pub. L. 104–39, § 4][/us/pl/104/39/s4], Nov. 1, 1995, [109 Stat. 344][/us/stat/109/344]; [Pub. L. 105–80][/us/pl/105/80], §§ 4, 10, 12(a)(7), Nov. 13, 1997, [111 Stat. 1531][/us/stat/111/1531], 1534; [Pub. L. 108–419, § 5(d)][/us/pl/108/419/s5/d], Nov. 30, 2004, [118 Stat. 2364][/us/stat/118/2364]; [Pub. L. 109–303, § 4(c)][/us/pl/109/303/s4/c], Oct. 6, 2006, [120 Stat. 1482][/us/stat/120/1482]; [Pub. L. 110–403, title II, § 209(a)(3)][/us/pl/110/403/s209/a/3], Oct. 13, 2008, [122 Stat. 4264][/us/stat/122/4264]; [Pub. L. 111–295, § 6(g)][/us/pl/111/295/s6/g], Dec. 9, 2010, [124 Stat. 3181][/us/stat/124/3181].)
+([Pub. L. 94–553, title I][/us/pl/94/553/tI], § 101, Oct. 19, 1976, [90 Stat. 2561][/us/stat/90/2561]; [Pub. L. 98–450][/us/pl/98/450], § 3, Oct. 4, 1984, [98 Stat. 1727][/us/stat/98/1727]; [Pub. L. 104–39][/us/pl/104/39], § 4, Nov. 1, 1995, [109 Stat. 344][/us/stat/109/344]; [Pub. L. 105–80][/us/pl/105/80], §§ 4, 10, 12(a)(7), Nov. 13, 1997, [111 Stat. 1531][/us/stat/111/1531], 1534; [Pub. L. 108–419][/us/pl/108/419], § 5(d), Nov. 30, 2004, [118 Stat. 2364][/us/stat/118/2364]; [Pub. L. 109–303][/us/pl/109/303], § 4(c), Oct. 6, 2006, [120 Stat. 1482][/us/stat/120/1482]; [Pub. L. 110–403, title II][/us/pl/110/403/tII], § 209(a)(3), Oct. 13, 2008, [122 Stat. 4264][/us/stat/122/4264]; [Pub. L. 111–295][/us/pl/111/295], § 6(g), Dec. 9, 2010, [124 Stat. 3181][/us/stat/124/3181].)
 
  __Historical and Revision Notes__ 
 
@@ -147,49 +147,49 @@ The final sentence of clause (1) provides that a person may not obtain a compuls
 
  __Amendments__ 
 
-    2010—Subsec. (c)(3)(G)(i). [Pub. L. 111–295][/us/pl/111/295] made technical correction to directory language of [Pub. L. 110–403, § 209(a)(3)(A)][/us/pl/110/403/s209/a/3/A]. See 2008 Amendment note below.
+    2010—Subsec. (c)(3)(G)(i). [Pub. L. 111–295][/us/pl/111/295] made technical correction to directory language of [Pub. L. 110–403][/us/pl/110/403], § 209(a)(3)(A). See 2008 Amendment note below.
 
-    2008—Subsec. (c)(3)(G)(i). [Pub. L. 110–403, § 209(a)(3)(A)][/us/pl/110/403/s209/a/3/A], as amended by [Pub. L. 111–295][/us/pl/111/295] struck out “and section 509” after “506” in introductory provisions.
+    2008—Subsec. (c)(3)(G)(i). [Pub. L. 110–403][/us/pl/110/403], § 209(a)(3)(A), as amended by [Pub. L. 111–295][/us/pl/111/295] struck out “and section 509” after “506” in introductory provisions.
 
-    Subsec. (c)(6). [Pub. L. 110–403, § 209(a)(3)(B)][/us/pl/110/403/s209/a/3/B], struck out “and 509” before period at end.
+    Subsec. (c)(6). [Pub. L. 110–403][/us/pl/110/403], § 209(a)(3)(B), struck out “and 509” before period at end.
 
-    2006—Subsec. (c)(3)(B). [Pub. L. 109–303, § 4(c)(1)][/us/pl/109/303/s4/c/1], substituted “this subparagraph and subparagraphs (C) through (E)” for “subparagraphs (B) through (F)”.
+    2006—Subsec. (c)(3)(B). [Pub. L. 109–303][/us/pl/109/303], § 4(c)(1), substituted “this subparagraph and subparagraphs (C) through (E)” for “subparagraphs (B) through (F)”.
 
-    Subsec. (c)(3)(D). [Pub. L. 109–303, § 4(c)(2)][/us/pl/109/303/s4/c/2], inserted “in subparagraphs (B) and (C)” after “described” in third sentence.
+    Subsec. (c)(3)(D). [Pub. L. 109–303][/us/pl/109/303], § 4(c)(2), inserted “in subparagraphs (B) and (C)” after “described” in third sentence.
 
-    Subsec. (c)(3)(E)(i), (ii)(I). [Pub. L. 109–303, § 4(c)(3)][/us/pl/109/303/s4/c/3], substituted “(C) and (D)” for “(C) or (D)” wherever appearing.
+    Subsec. (c)(3)(E)(i), (ii)(I). [Pub. L. 109–303][/us/pl/109/303], § 4(c)(3), substituted “(C) and (D)” for “(C) or (D)” wherever appearing.
 
-    2004—Subsec. (c)(3)(A)(ii). [Pub. L. 108–419, § 5(d)(1)][/us/pl/108/419/s5/d/1], substituted “(E)” for “(F)”.
+    2004—Subsec. (c)(3)(A)(ii). [Pub. L. 108–419][/us/pl/108/419], § 5(d)(1), substituted “(E)” for “(F)”.
 
-    Subsec. (c)(3)(B). [Pub. L. 108–419, § 5(d)(2)(C)][/us/pl/108/419/s5/d/2/C], which directed substitution of “this subparagraph and subparagraphs (C) through (E)” for “subparagraphs (C) through (F)”, could not be executed because “subparagraphs (C) through (F)” does not appear in text.
+    Subsec. (c)(3)(B). [Pub. L. 108–419][/us/pl/108/419], § 5(d)(2)(C), which directed substitution of “this subparagraph and subparagraphs (C) through (E)” for “subparagraphs (C) through (F)”, could not be executed because “subparagraphs (C) through (F)” does not appear in text.
 
-    [Pub. L. 108–419, § 5(d)(2)(A)][/us/pl/108/419/s5/d/2/A], (B), substituted “under this section” for “under this paragraph” and inserted “on a nonexclusive basis” after “common agents”.
+    [Pub. L. 108–419][/us/pl/108/419], § 5(d)(2)(A), (B), substituted “under this section” for “under this paragraph” and inserted “on a nonexclusive basis” after “common agents”.
 
-    Subsec. (c)(3)(C). [Pub. L. 108–419, § 5(d)(3)][/us/pl/108/419/s5/d/3], substituted first sentence for former first sentence which read: “During the period of June 30, 1996, through December 31, 1996, the Librarian of Congress shall cause notice to be published in the Federal Register of the initiation of voluntary negotiation proceedings for the purpose of determining reasonable terms and rates of royalty payments for the activities specified by subparagraph (A) during the period beginning January 1, 1998, and ending on the effective date of any new terms and rates established pursuant to subparagraph (C), (D) or (F), or such other date (regarding digital phonorecord deliveries) as the parties may agree.”, substituted “Copyright Royalty Judges” for “Librarian of Congress” in third sentence, and struck out “negotiation” before “proceeding” in last sentence.
+    Subsec. (c)(3)(C). [Pub. L. 108–419][/us/pl/108/419], § 5(d)(3), substituted first sentence for former first sentence which read: “During the period of June 30, 1996, through December 31, 1996, the Librarian of Congress shall cause notice to be published in the Federal Register of the initiation of voluntary negotiation proceedings for the purpose of determining reasonable terms and rates of royalty payments for the activities specified by subparagraph (A) during the period beginning January 1, 1998, and ending on the effective date of any new terms and rates established pursuant to subparagraph (C), (D) or (F), or such other date (regarding digital phonorecord deliveries) as the parties may agree.”, substituted “Copyright Royalty Judges” for “Librarian of Congress” in third sentence, and struck out “negotiation” before “proceeding” in last sentence.
 
-    Subsec. (c)(3)(D). [Pub. L. 108–419, § 5(d)(4)][/us/pl/108/419/s5/d/4], substituted first sentence for former first sentence which read: “In the absence of license agreements negotiated under subparagraphs (B) and (C), upon the filing of a petition in accordance with section 803(a)(1), the Librarian of Congress shall, pursuant to chapter 8, convene a copyright arbitration royalty panel to determine a schedule of rates and terms which, subject to subparagraph (E), shall be binding on all copyright owners of nondramatic musical works and persons entitled to obtain a compulsory license under subsection (a)(1) during the period beginning January 1, 1998, and ending on the effective date of any new terms and rates established pursuant to subparagraph (C), (D) or (F), or such other date (regarding digital phonorecord deliveries) as may be determined pursuant to subparagraphs (B) and (C).”, substituted “Copyright Royalty Judges may consider” for “copyright arbitration royalty panel may consider” and “described” for “negotiated as provided in subparagraphs (B) and (C)” in third sentence, and “Copyright Royalty Judges shall also establish” for “Librarian of Congress shall also establish” in last sentence.
+    Subsec. (c)(3)(D). [Pub. L. 108–419][/us/pl/108/419], § 5(d)(4), substituted first sentence for former first sentence which read: “In the absence of license agreements negotiated under subparagraphs (B) and (C), upon the filing of a petition in accordance with section 803(a)(1), the Librarian of Congress shall, pursuant to chapter 8, convene a copyright arbitration royalty panel to determine a schedule of rates and terms which, subject to subparagraph (E), shall be binding on all copyright owners of nondramatic musical works and persons entitled to obtain a compulsory license under subsection (a)(1) during the period beginning January 1, 1998, and ending on the effective date of any new terms and rates established pursuant to subparagraph (C), (D) or (F), or such other date (regarding digital phonorecord deliveries) as may be determined pursuant to subparagraphs (B) and (C).”, substituted “Copyright Royalty Judges may consider” for “copyright arbitration royalty panel may consider” and “described” for “negotiated as provided in subparagraphs (B) and (C)” in third sentence, and “Copyright Royalty Judges shall also establish” for “Librarian of Congress shall also establish” in last sentence.
 
-    Subsec. (c)(3)(E)(i). [Pub. L. 108–419, § 5(d)(5)(A)][/us/pl/108/419/s5/d/5/A], substituted “Librarian of Congress and Copyright Royalty Judges” for “Librarian of Congress” in first sentence and “(C) or (D) shall be given effect as to digital phonorecord deliveries” for “(C), (D) or (F) shall be given effect” in second sentence.
+    Subsec. (c)(3)(E)(i). [Pub. L. 108–419][/us/pl/108/419], § 5(d)(5)(A), substituted “Librarian of Congress and Copyright Royalty Judges” for “Librarian of Congress” in first sentence and “(C) or (D) shall be given effect as to digital phonorecord deliveries” for “(C), (D) or (F) shall be given effect” in second sentence.
 
-    Subsec. (c)(3)(E)(ii)(I). [Pub. L. 108–419, § 5(d)(5)(B)][/us/pl/108/419/s5/d/5/B], substituted “(C) or (D)” for “(C), (D) or (F)” in two places.
+    Subsec. (c)(3)(E)(ii)(I). [Pub. L. 108–419][/us/pl/108/419], § 5(d)(5)(B), substituted “(C) or (D)” for “(C), (D) or (F)” in two places.
 
-    Subsec. (c)(3)(F) to (L). [Pub. L. 108–419, § 5(d)(6)][/us/pl/108/419/s5/d/6], redesignated subpars. (G) to (L) as (F) to (K), respectively, and struck out former subpar. (F), which read as follows: “The procedures specified in subparagraphs (C) and (D) shall be repeated and concluded, in accordance with regulations that the Librarian of Congress shall prescribe, in each fifth calendar year after 1997, except to the extent that different years for the repeating and concluding of such proceedings may be determined in accordance with subparagraphs (B) and (C).”
+    Subsec. (c)(3)(F) to (L). [Pub. L. 108–419][/us/pl/108/419], § 5(d)(6), redesignated subpars. (G) to (L) as (F) to (K), respectively, and struck out former subpar. (F), which read as follows: “The procedures specified in subparagraphs (C) and (D) shall be repeated and concluded, in accordance with regulations that the Librarian of Congress shall prescribe, in each fifth calendar year after 1997, except to the extent that different years for the repeating and concluding of such proceedings may be determined in accordance with subparagraphs (B) and (C).”
 
-    1997—Subsec. (c)(3)(D). [Pub. L. 105–80, § 4][/us/pl/105/80/s4], struck out “and publish in the Federal Register” before “a schedule of rates and terms”.
+    1997—Subsec. (c)(3)(D). [Pub. L. 105–80][/us/pl/105/80], § 4, struck out “and publish in the Federal Register” before “a schedule of rates and terms”.
 
-    Subsec. (c)(3)(E)(i). [Pub. L. 105–80, § 12(a)(7)(A)][/us/pl/105/80/s12/a/7/A], substituted “paragraphs (1) and (3) of section 106” for “sections 106(1) and (3)” in two places.
+    Subsec. (c)(3)(E)(i). [Pub. L. 105–80][/us/pl/105/80], § 12(a)(7)(A), substituted “paragraphs (1) and (3) of section 106” for “sections 106(1) and (3)” in two places.
 
-    Subsec. (c)(3)(E)(ii)(II). [Pub. L. 105–80, § 12(a)(7)(A)][/us/pl/105/80/s12/a/7/A], substituted “paragraphs (1) and (3) of section 106” for “sections 106(1) and 106(3)”.
+    Subsec. (c)(3)(E)(ii)(II). [Pub. L. 105–80][/us/pl/105/80], § 12(a)(7)(A), substituted “paragraphs (1) and (3) of section 106” for “sections 106(1) and 106(3)”.
 
-    Subsec. (d). [Pub. L. 105–80, § 10][/us/pl/105/80/s10], amended directory language of [Pub. L. 104–39, § 4][/us/pl/104/39/s4]. See 1995 Amendment note below.
+    Subsec. (d). [Pub. L. 105–80][/us/pl/105/80], § 10, amended directory language of [Pub. L. 104–39][/us/pl/104/39], § 4. See 1995 Amendment note below.
 
-    1995—Subsec. (a)(1). [Pub. L. 104–39, § 4(1)][/us/pl/104/39/s4/1], substituted “any other person, including those who make phonorecords or digital phonorecord deliveries,” for “any other person” in first sentence and inserted before period at end of second sentence “, including by means of a digital phonorecord delivery”.
+    1995—Subsec. (a)(1). [Pub. L. 104–39][/us/pl/104/39], § 4(1), substituted “any other person, including those who make phonorecords or digital phonorecord deliveries,” for “any other person” in first sentence and inserted before period at end of second sentence “, including by means of a digital phonorecord delivery”.
 
-    Subsec. (c)(2). [Pub. L. 104–39, § 4(2)][/us/pl/104/39/s4/2], inserted “and other than as provided in paragraph (3),” after “For this purpose,” in second sentence.
+    Subsec. (c)(2). [Pub. L. 104–39][/us/pl/104/39], § 4(2), inserted “and other than as provided in paragraph (3),” after “For this purpose,” in second sentence.
 
-    Subsec. (c)(3) to (6). [Pub. L. 104–39, § 4(3)][/us/pl/104/39/s4/3], added par. (3) and redesignated former pars. (3) to (5) as (4) to (6), respectively.
+    Subsec. (c)(3) to (6). [Pub. L. 104–39][/us/pl/104/39], § 4(3), added par. (3) and redesignated former pars. (3) to (5) as (4) to (6), respectively.
 
-    Subsec. (d). [Pub. L. 104–39, § 4(4)][/us/pl/104/39/s4/4], as renumbered by [Pub. L. 105–80, § 10][/us/pl/105/80/s10], added subsec. (d).
+    Subsec. (d). [Pub. L. 104–39][/us/pl/104/39], § 4(4), as renumbered by [Pub. L. 105–80][/us/pl/105/80], § 10, added subsec. (d).
 
     1984—Subsec. (c)(3) to (5). [Pub. L. 98–450][/us/pl/98/450] added par. (3) and redesignated existing pars. (3) and (4) as (4) and (5), respectively.
 
@@ -207,7 +207,7 @@ The final sentence of clause (1) provides that a person may not obtain a compuls
 
  __Persons Operating Under Predecessor Compulsory Licensing Provisions__ 
 
-[Pub. L. 94–553, title I, § 106][/us/pl/94/553/s106], Oct. 19, 1976, [90 Stat. 2599][/us/stat/90/2599], provided that: 
+[Pub. L. 94–553, title I][/us/pl/94/553/tI], § 106, Oct. 19, 1976, [90 Stat. 2599][/us/stat/90/2599], provided that: 
 
 > “In any case where, before January 1, 1978, a person has lawfully made parts of instruments serving to reproduce mechanically a copyrighted work under the compulsory license provisions of [section 1(e) of title 17][/us/usc/t17/s1/e] as it existed on December 31, 1977, such person may continue to make and distribute such parts embodying the same mechanical reproduction without obtaining a new compulsory license under the terms of [section 115 of title 17][/us/usc/t17/s115] as amended by the first section of this Act \[this section\]. However, such parts made on or after January 1, 1978, constitute phonorecords and are otherwise subject to the provisions of said section 115 \[this section\].”
 
@@ -221,49 +221,49 @@ The final sentence of clause (1) provides that a person may not obtain a compuls
 [/us/usc/t17/s106/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft17%2Fs106%2F6
 [/us/usc/t17/s106/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft17%2Fs106%2F4
 [/us/usc/t17/s1002/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft17%2Fs1002%2Fe
-[/us/pl/94/553/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F553%2Fs101
+[/us/pl/94/553/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F553%2FtI
 [/us/stat/90/2561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2561
-[/us/pl/98/450/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F450%2Fs3
+[/us/pl/98/450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F450
 [/us/stat/98/1727]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1727
-[/us/pl/104/39/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F39%2Fs4
+[/us/pl/104/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F39
 [/us/stat/109/344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F344
 [/us/pl/105/80]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F80
 [/us/stat/111/1531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1531
-[/us/pl/108/419/s5/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F419%2Fs5%2Fd
+[/us/pl/108/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F419
 [/us/stat/118/2364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2364
-[/us/pl/109/303/s4/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F303%2Fs4%2Fc
+[/us/pl/109/303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F303
 [/us/stat/120/1482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1482
-[/us/pl/110/403/s209/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F403%2Fs209%2Fa%2F3
+[/us/pl/110/403/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F403%2FtII
 [/us/stat/122/4264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4264
-[/us/pl/111/295/s6/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F295%2Fs6%2Fg
+[/us/pl/111/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F295
 [/us/stat/124/3181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3181
 [/us/pl/104/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F39
 [/us/pl/111/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F295
-[/us/pl/110/403/s209/a/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F403%2Fs209%2Fa%2F3%2FA
-[/us/pl/110/403/s209/a/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F403%2Fs209%2Fa%2F3%2FA
+[/us/pl/110/403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F403
+[/us/pl/110/403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F403
 [/us/pl/111/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F295
-[/us/pl/110/403/s209/a/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F403%2Fs209%2Fa%2F3%2FB
-[/us/pl/109/303/s4/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F303%2Fs4%2Fc%2F1
-[/us/pl/109/303/s4/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F303%2Fs4%2Fc%2F2
-[/us/pl/109/303/s4/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F303%2Fs4%2Fc%2F3
-[/us/pl/108/419/s5/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F419%2Fs5%2Fd%2F1
-[/us/pl/108/419/s5/d/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F419%2Fs5%2Fd%2F2%2FC
-[/us/pl/108/419/s5/d/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F419%2Fs5%2Fd%2F2%2FA
-[/us/pl/108/419/s5/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F419%2Fs5%2Fd%2F3
-[/us/pl/108/419/s5/d/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F419%2Fs5%2Fd%2F4
-[/us/pl/108/419/s5/d/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F419%2Fs5%2Fd%2F5%2FA
-[/us/pl/108/419/s5/d/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F419%2Fs5%2Fd%2F5%2FB
-[/us/pl/108/419/s5/d/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F419%2Fs5%2Fd%2F6
-[/us/pl/105/80/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F80%2Fs4
-[/us/pl/105/80/s12/a/7/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F80%2Fs12%2Fa%2F7%2FA
-[/us/pl/105/80/s12/a/7/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F80%2Fs12%2Fa%2F7%2FA
-[/us/pl/105/80/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F80%2Fs10
-[/us/pl/104/39/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F39%2Fs4
-[/us/pl/104/39/s4/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F39%2Fs4%2F1
-[/us/pl/104/39/s4/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F39%2Fs4%2F2
-[/us/pl/104/39/s4/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F39%2Fs4%2F3
-[/us/pl/104/39/s4/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F39%2Fs4%2F4
-[/us/pl/105/80/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F80%2Fs10
+[/us/pl/110/403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F403
+[/us/pl/109/303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F303
+[/us/pl/109/303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F303
+[/us/pl/109/303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F303
+[/us/pl/108/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F419
+[/us/pl/108/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F419
+[/us/pl/108/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F419
+[/us/pl/108/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F419
+[/us/pl/108/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F419
+[/us/pl/108/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F419
+[/us/pl/108/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F419
+[/us/pl/108/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F419
+[/us/pl/105/80]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F80
+[/us/pl/105/80]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F80
+[/us/pl/105/80]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F80
+[/us/pl/105/80]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F80
+[/us/pl/104/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F39
+[/us/pl/104/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F39
+[/us/pl/104/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F39
+[/us/pl/104/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F39
+[/us/pl/104/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F39
+[/us/pl/105/80]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F80
 [/us/pl/98/450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F450
 [/us/pl/109/303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F303
 [/us/pl/108/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F419
@@ -275,7 +275,7 @@ The final sentence of clause (1) provides that a person may not obtain a compuls
 [/us/pl/104/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F39
 [/us/pl/104/39/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F39%2Fs6
 [/us/usc/t17/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft17%2Fs101
-[/us/pl/94/553/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F553%2Fs106
+[/us/pl/94/553/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F553%2FtI
 [/us/stat/90/2599]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2599
 [/us/usc/t17/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft17%2Fs1%2Fe
 [/us/usc/t17/s115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft17%2Fs115

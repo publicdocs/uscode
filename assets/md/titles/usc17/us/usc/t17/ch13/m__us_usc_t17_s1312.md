@@ -35,7 +35,7 @@
 
         (2) Whenever a written declaration under paragraph (1) is used, the document containing the declaration shall state that willful false statements are punishable by fine or imprisonment, or both, pursuant to [section 1001 of title 18][/us/usc/t18/s1001], and may jeopardize the validity of the application or document or a registration resulting therefrom.
 
-(Added [Pub. L. 105–304, title V, § 502][/us/pl/105/304/s502], Oct. 28, 1998, [112 Stat. 2911][/us/stat/112/2911].)
+(Added [Pub. L. 105–304, title V][/us/pl/105/304/tV], § 502, Oct. 28, 1998, [112 Stat. 2911][/us/stat/112/2911].)
 
 ----------
 
@@ -45,7 +45,7 @@
 ----------
 
 [/us/usc/t18/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1001
-[/us/pl/105/304/s502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F304%2Fs502
+[/us/pl/105/304/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F304%2FtV
 [/us/stat/112/2911]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2911
 
 

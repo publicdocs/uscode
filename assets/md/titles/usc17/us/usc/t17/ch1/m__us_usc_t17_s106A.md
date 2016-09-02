@@ -65,7 +65,7 @@
 
         (2) Ownership of the rights conferred by subsection (a) with respect to a work of visual art is distinct from ownership of any copy of that work, or of a copyright or any exclusive right under a copyright in that work. Transfer of ownership of any copy of a work of visual art, or of a copyright or any exclusive right under a copyright, shall not constitute a waiver of the rights conferred by subsection (a). Except as may otherwise be agreed by the author in a written instrument signed by the author, a waiver of the rights conferred by subsection (a) with respect to a work of visual art shall not constitute a transfer of ownership of any copy of that work, or of ownership of a copyright or of any exclusive right under a copyright in that work.
 
-(Added [Pub. L. 101–650, title VI, § 603(a)][/us/pl/101/650/s603/a], Dec. 1, 1990, [104 Stat. 5128][/us/stat/104/5128].)
+(Added [Pub. L. 101–650, title VI][/us/pl/101/650/tVI], § 603(a), Dec. 1, 1990, [104 Stat. 5128][/us/stat/104/5128].)
 
  __References in Text__ 
 
@@ -73,7 +73,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 101–650, title VI, § 610][/us/pl/101/650/s610], Dec. 1, 1990, [104 Stat. 5132][/us/stat/104/5132], provided that:
+[Pub. L. 101–650, title VI][/us/pl/101/650/tVI], § 610, Dec. 1, 1990, [104 Stat. 5132][/us/stat/104/5132], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -93,7 +93,7 @@
 
  __Studies by Copyright Office__ 
 
-[Pub. L. 101–650, title VI, § 608][/us/pl/101/650/s608], Dec. 1, 1990, [104 Stat. 5132][/us/stat/104/5132], provided that:
+[Pub. L. 101–650, title VI][/us/pl/101/650/tVI], § 608, Dec. 1, 1990, [104 Stat. 5132][/us/stat/104/5132], provided that:
 
 >     “(a) __Study on Waiver of Rights Provision.—__ 
 
@@ -130,14 +130,14 @@
 ----------
 ----------
 
-[/us/pl/101/650/s603/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2Fs603%2Fa
+[/us/pl/101/650/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2FtVI
 [/us/stat/104/5128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F5128
 [/us/pl/101/650]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650
-[/us/pl/101/650/s610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2Fs610
+[/us/pl/101/650/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2FtVI
 [/us/stat/104/5132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F5132
 [/us/usc/t17/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft17%2Fs101
 [/us/usc/t17/s106A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft17%2Fs106A
-[/us/pl/101/650/s608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2Fs608
+[/us/pl/101/650/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2FtVI
 [/us/stat/104/5132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F5132
 [/us/usc/t17/s106A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft17%2Fs106A
 

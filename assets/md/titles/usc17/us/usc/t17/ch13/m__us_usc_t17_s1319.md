@@ -17,7 +17,7 @@
 
     The Administrator may, by a certificate of correction under seal, correct any error in a registration incurred through the fault of the Office, or, upon payment of the required fee, any error of a clerical or typographical nature occurring in good faith but not through the fault of the Office. Such registration, together with the certificate, shall thereafter have the same effect as if it had been originally issued in such corrected form.
 
-(Added [Pub. L. 105–304, title V, § 502][/us/pl/105/304/s502], Oct. 28, 1998, [112 Stat. 2913][/us/stat/112/2913].)
+(Added [Pub. L. 105–304, title V][/us/pl/105/304/tV], § 502, Oct. 28, 1998, [112 Stat. 2913][/us/stat/112/2913].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/105/304/s502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F304%2Fs502
+[/us/pl/105/304/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F304%2FtV
 [/us/stat/112/2913]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2913
 
 

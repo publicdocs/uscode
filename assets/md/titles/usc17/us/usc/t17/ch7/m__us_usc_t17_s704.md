@@ -25,7 +25,7 @@
 
     (e) The depositor of copies, phonorecords, or identifying material under section 408, or the copyright owner of record, may request retention, under the control of the Copyright Office, of one or more of such articles for the full term of copyright in the work. The Register of Copyrights shall prescribe, by regulation, the conditions under which such requests are to be made and granted, and shall fix the fee to be charged under section 708(a) if the request is granted.
 
-([Pub. L. 94–553, title I, § 101][/us/pl/94/553/s101], Oct. 19, 1976, [90 Stat. 2591][/us/stat/90/2591]; [Pub. L. 101–318, § 2(c)][/us/pl/101/318/s2/c], July 3, 1990, [104 Stat. 288][/us/stat/104/288]; [Pub. L. 111–295, § 6(e)][/us/pl/111/295/s6/e], Dec. 9, 2010, [124 Stat. 3181][/us/stat/124/3181].)
+([Pub. L. 94–553, title I][/us/pl/94/553/tI], § 101, Oct. 19, 1976, [90 Stat. 2591][/us/stat/90/2591]; [Pub. L. 101–318][/us/pl/101/318], § 2(c), July 3, 1990, [104 Stat. 288][/us/stat/104/288]; [Pub. L. 111–295][/us/pl/111/295], § 6(e), Dec. 9, 2010, [124 Stat. 3181][/us/stat/124/3181].)
 
  __Amendments__ 
 
@@ -45,11 +45,11 @@
 ----------
 
 [/us/usc/t44/s2901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs2901
-[/us/pl/94/553/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F553%2Fs101
+[/us/pl/94/553/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F553%2FtI
 [/us/stat/90/2591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2591
-[/us/pl/101/318/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F318%2Fs2%2Fc
+[/us/pl/101/318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F318
 [/us/stat/104/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F288
-[/us/pl/111/295/s6/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F295%2Fs6%2Fe
+[/us/pl/111/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F295
 [/us/stat/124/3181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3181
 [/us/pl/111/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F295
 [/us/pl/101/318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F318

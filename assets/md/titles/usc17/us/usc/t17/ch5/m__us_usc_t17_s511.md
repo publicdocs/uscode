@@ -23,7 +23,7 @@
 
     In a suit described in subsection (a) for a violation described in that subsection, remedies (including remedies both at law and in equity) are available for the violation to the same extent as such remedies are available for such a violation in a suit against any public or private entity other than a State, instrumentality of a State, or officer or employee of a State acting in his or her official capacity. Such remedies include impounding and disposition of infringing articles under section 503, actual damages and profits and statutory damages under section 504, costs and attorney’s fees under section 505, and the remedies provided in section 510.
 
-(Added [Pub. L. 101–553, § 2(a)(2)][/us/pl/101/553/s2/a/2], Nov. 15, 1990, [104 Stat. 2749][/us/stat/104/2749]; amended [Pub. L. 106–44, § 1(g)(6)][/us/pl/106/44/s1/g/6], Aug. 5, 1999, [113 Stat. 222][/us/stat/113/222]; [Pub. L. 107–273, div. C, title III, § 13210(4)(C)][/us/pl/107/273/s13210/4/C], Nov. 2, 2002, [116 Stat. 1909][/us/stat/116/1909].)
+(Added [Pub. L. 101–553][/us/pl/101/553], § 2(a)(2), Nov. 15, 1990, [104 Stat. 2749][/us/stat/104/2749]; amended [Pub. L. 106–44][/us/pl/106/44], § 1(g)(6), Aug. 5, 1999, [113 Stat. 222][/us/stat/113/222]; [Pub. L. 107–273, div. C, title III][/us/pl/107/273/dC/tIII], § 13210(4)(C), Nov. 2, 2002, [116 Stat. 1909][/us/stat/116/1909].)
 
  __Amendments__ 
 
@@ -42,11 +42,11 @@
 ----------
 ----------
 
-[/us/pl/101/553/s2/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F553%2Fs2%2Fa%2F2
+[/us/pl/101/553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F553
 [/us/stat/104/2749]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2749
-[/us/pl/106/44/s1/g/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F44%2Fs1%2Fg%2F6
+[/us/pl/106/44]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F44
 [/us/stat/113/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F222
-[/us/pl/107/273/s13210/4/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs13210%2F4%2FC
+[/us/pl/107/273/dC/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdC%2FtIII
 [/us/stat/116/1909]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1909
 [/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
 [/us/pl/106/44]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F44

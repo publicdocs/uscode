@@ -29,7 +29,7 @@
 
     (g) Any applicant for registration under this section who is dissatisfied with the refusal of the Register of Copyrights to issue a certificate of registration under this section may seek judicial review of that refusal by bringing an action for such review in an appropriate United States district court not later than sixty days after the refusal. The provisions of chapter 7 of title 5 shall apply to such judicial review. The failure of the Register of Copyrights to issue a certificate of registration within four months after an application for registration is filed shall be deemed to be a refusal to issue a certificate of registration for purposes of this subsection and section 910(b)(2), except that, upon a showing of good cause, the district court may shorten such four-month period.
 
-(Added [Pub. L. 98–620, title III, § 302][/us/pl/98/620/s302], Nov. 8, 1984, [98 Stat. 3351][/us/stat/98/3351].)
+(Added [Pub. L. 98–620, title III][/us/pl/98/620/tIII], § 302, Nov. 8, 1984, [98 Stat. 3351][/us/stat/98/3351].)
 
 ----------
 
@@ -38,7 +38,7 @@
 ----------
 ----------
 
-[/us/pl/98/620/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620%2Fs302
+[/us/pl/98/620/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620%2FtIII
 [/us/stat/98/3351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3351
 
 

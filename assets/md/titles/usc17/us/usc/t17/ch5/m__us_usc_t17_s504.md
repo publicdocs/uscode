@@ -45,7 +45,7 @@
 
     In any case in which the court finds that a defendant proprietor of an establishment who claims as a defense that its activities were exempt under section 110(5) did not have reasonable grounds to believe that its use of a copyrighted work was exempt under such section, the plaintiff shall be entitled to, in addition to any award of damages under this section, an additional award of two times the amount of the license fee that the proprietor of the establishment concerned should have paid the plaintiff for such use during the preceding period of up to 3 years.
 
-([Pub. L. 94–553, title I, § 101][/us/pl/94/553/s101], Oct. 19, 1976, [90 Stat. 2585][/us/stat/90/2585]; [Pub. L. 100–568, § 10(b)][/us/pl/100/568/s10/b], Oct. 31, 1988, [102 Stat. 2860][/us/stat/102/2860]; [Pub. L. 105–80, § 12(a)(13)][/us/pl/105/80/s12/a/13], Nov. 13, 1997, [111 Stat. 1535][/us/stat/111/1535]; [Pub. L. 105–298, title II, § 204][/us/pl/105/298/s204], Oct. 27, 1998, [112 Stat. 2833][/us/stat/112/2833]; [Pub. L. 106–160, § 2][/us/pl/106/160/s2], Dec. 9, 1999, [113 Stat. 1774][/us/stat/113/1774]; [Pub. L. 108–482, title II, § 203][/us/pl/108/482/s203], Dec. 23, 2004, [118 Stat. 3916][/us/stat/118/3916]; [Pub. L. 111–295, § 6(f)(2)][/us/pl/111/295/s6/f/2], Dec. 9, 2010, [124 Stat. 3181][/us/stat/124/3181].)
+([Pub. L. 94–553, title I][/us/pl/94/553/tI], § 101, Oct. 19, 1976, [90 Stat. 2585][/us/stat/90/2585]; [Pub. L. 100–568][/us/pl/100/568], § 10(b), Oct. 31, 1988, [102 Stat. 2860][/us/stat/102/2860]; [Pub. L. 105–80][/us/pl/105/80], § 12(a)(13), Nov. 13, 1997, [111 Stat. 1535][/us/stat/111/1535]; [Pub. L. 105–298, title II][/us/pl/105/298/tII], § 204, Oct. 27, 1998, [112 Stat. 2833][/us/stat/112/2833]; [Pub. L. 106–160][/us/pl/106/160], § 2, Dec. 9, 1999, [113 Stat. 1774][/us/stat/113/1774]; [Pub. L. 108–482, title II][/us/pl/108/482/tII], § 203, Dec. 23, 2004, [118 Stat. 3916][/us/stat/118/3916]; [Pub. L. 111–295][/us/pl/111/295], § 6(f)(2), Dec. 9, 2010, [124 Stat. 3181][/us/stat/124/3181].)
 
  __Historical and Revision Notes__ 
 
@@ -85,21 +85,21 @@ For information regarding constitutionality of certain provisions of this sectio
 
     2004—Subsec. (c)(3). [Pub. L. 108–482][/us/pl/108/482] added par. (3).
 
-    1999—Subsec. (c)(1). [Pub. L. 106–160, § 2(1)][/us/pl/106/160/s2/1], substituted “$750” for “$500” and “$30,000” for “$20,000”.
+    1999—Subsec. (c)(1). [Pub. L. 106–160][/us/pl/106/160], § 2(1), substituted “$750” for “$500” and “$30,000” for “$20,000”.
 
-    Subsec. (c)(2). [Pub. L. 106–160, § 2(2)][/us/pl/106/160/s2/2], substituted “$150,000” for “$100,000”.
+    Subsec. (c)(2). [Pub. L. 106–160][/us/pl/106/160], § 2(2), substituted “$150,000” for “$100,000”.
 
     1998—Subsec. (d). [Pub. L. 105–298][/us/pl/105/298] added subsec. (d).
 
     1997—Subsec. (c)(2). [Pub. L. 105–80][/us/pl/105/80] substituted “the court in its discretion” for “the court it its discretion”.
 
-    1988—Subsec. (c)(1). [Pub. L. 100–568, § 10(b)(1)][/us/pl/100/568/s10/b/1], substituted “$500” for “$250” and “$20,000” for “$10,000”.
+    1988—Subsec. (c)(1). [Pub. L. 100–568][/us/pl/100/568], § 10(b)(1), substituted “$500” for “$250” and “$20,000” for “$10,000”.
 
-    Subsec. (c)(2). [Pub. L. 100–568, § 10(b)(2)][/us/pl/100/568/s10/b/2], substituted “$100,000” for “$50,000” and “$200” for “$100”.
+    Subsec. (c)(2). [Pub. L. 100–568][/us/pl/100/568], § 10(b)(2), substituted “$100,000” for “$50,000” and “$200” for “$100”.
 
  __Effective Date of 1999 Amendment__ 
 
-[Pub. L. 106–160, § 4][/us/pl/106/160/s4], Dec. 9, 1999, [113 Stat. 1774][/us/stat/113/1774], provided that: 
+[Pub. L. 106–160][/us/pl/106/160], § 4, Dec. 9, 1999, [113 Stat. 1774][/us/stat/113/1774], provided that: 
 
 > “The amendments made by section 2 \[amending this section\] shall apply to any action brought on or after the date of the enactment of this Act \[Dec. 9, 1999\], regardless of the date on which the alleged activity that is the basis of the action occurred.”
 
@@ -119,30 +119,30 @@ For information regarding constitutionality of certain provisions of this sectio
 ----------
 
 [/us/usc/t15/s1127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1127
-[/us/pl/94/553/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F553%2Fs101
+[/us/pl/94/553/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F553%2FtI
 [/us/stat/90/2585]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2585
-[/us/pl/100/568/s10/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F568%2Fs10%2Fb
+[/us/pl/100/568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F568
 [/us/stat/102/2860]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2860
-[/us/pl/105/80/s12/a/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F80%2Fs12%2Fa%2F13
+[/us/pl/105/80]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F80
 [/us/stat/111/1535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1535
-[/us/pl/105/298/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F298%2Fs204
+[/us/pl/105/298/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F298%2FtII
 [/us/stat/112/2833]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2833
-[/us/pl/106/160/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F160%2Fs2
+[/us/pl/106/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F160
 [/us/stat/113/1774]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1774
-[/us/pl/108/482/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F482%2Fs203
+[/us/pl/108/482/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F482%2FtII
 [/us/stat/118/3916]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3916
-[/us/pl/111/295/s6/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F295%2Fs6%2Ff%2F2
+[/us/pl/111/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F295
 [/us/stat/124/3181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3181
 [/us/pl/94/553/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F553%2Fs101
 [/us/pl/111/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F295
 [/us/pl/108/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F482
-[/us/pl/106/160/s2/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F160%2Fs2%2F1
-[/us/pl/106/160/s2/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F160%2Fs2%2F2
+[/us/pl/106/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F160
+[/us/pl/106/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F160
 [/us/pl/105/298]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F298
 [/us/pl/105/80]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F80
-[/us/pl/100/568/s10/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F568%2Fs10%2Fb%2F1
-[/us/pl/100/568/s10/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F568%2Fs10%2Fb%2F2
-[/us/pl/106/160/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F160%2Fs4
+[/us/pl/100/568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F568
+[/us/pl/100/568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F568
+[/us/pl/106/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F160
 [/us/stat/113/1774]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1774
 [/us/pl/105/298]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F298
 [/us/pl/105/298/s207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F298%2Fs207

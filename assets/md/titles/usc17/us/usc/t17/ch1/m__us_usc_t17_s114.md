@@ -371,7 +371,7 @@
 
         (15) A “transmission” is either an initial transmission or a retransmission.
 
-([Pub. L. 94–553, title I, § 101][/us/pl/94/553/s101], Oct. 19, 1976, [90 Stat. 2560][/us/stat/90/2560]; [Pub. L. 104–39, § 3][/us/pl/104/39/s3], Nov. 1, 1995, [109 Stat. 336][/us/stat/109/336]; [Pub. L. 105–80, § 3][/us/pl/105/80/s3], Nov. 13, 1997, [111 Stat. 1531][/us/stat/111/1531]; [Pub. L. 105–304, title IV, § 405(a)(1)][/us/pl/105/304/s405/a/1]–(4), Oct. 28, 1998, [112 Stat. 2890–2897][/us/stat/112/2890-2897]; [Pub. L. 107–321][/us/pl/107/321], §§ 4, 5(b), (c), Dec. 4, 2002, [116 Stat. 2781][/us/stat/116/2781], 2784; [Pub. L. 108–419, § 5(c)][/us/pl/108/419/s5/c], Nov. 30, 2004, [118 Stat. 2362][/us/stat/118/2362]; [Pub. L. 109–303, § 4(b)][/us/pl/109/303/s4/b], Oct. 6, 2006, [120 Stat. 1481][/us/stat/120/1481]; [Pub. L. 110–435, § 2][/us/pl/110/435/s2], Oct. 16, 2008, [122 Stat. 4974][/us/stat/122/4974]; [Pub. L. 111–36, § 2][/us/pl/111/36/s2], June 30, 2009, [123 Stat. 1926][/us/stat/123/1926]; [Pub. L. 111–295][/us/pl/111/295], §§ 5(c), 6(b), (f)(1), Dec. 9, 2010, [124 Stat. 3181][/us/stat/124/3181].)
+([Pub. L. 94–553, title I][/us/pl/94/553/tI], § 101, Oct. 19, 1976, [90 Stat. 2560][/us/stat/90/2560]; [Pub. L. 104–39][/us/pl/104/39], § 3, Nov. 1, 1995, [109 Stat. 336][/us/stat/109/336]; [Pub. L. 105–80][/us/pl/105/80], § 3, Nov. 13, 1997, [111 Stat. 1531][/us/stat/111/1531]; [Pub. L. 105–304, title IV][/us/pl/105/304/tIV], § 405(a)(1)–(4), Oct. 28, 1998, [112 Stat. 2890–2897][/us/stat/112/2890-2897]; [Pub. L. 107–321][/us/pl/107/321], §§ 4, 5(b), (c), Dec. 4, 2002, [116 Stat. 2781][/us/stat/116/2781], 2784; [Pub. L. 108–419][/us/pl/108/419], § 5(c), Nov. 30, 2004, [118 Stat. 2362][/us/stat/118/2362]; [Pub. L. 109–303][/us/pl/109/303], § 4(b), Oct. 6, 2006, [120 Stat. 1481][/us/stat/120/1481]; [Pub. L. 110–435][/us/pl/110/435], § 2, Oct. 16, 2008, [122 Stat. 4974][/us/stat/122/4974]; [Pub. L. 111–36][/us/pl/111/36], § 2, June 30, 2009, [123 Stat. 1926][/us/stat/123/1926]; [Pub. L. 111–295][/us/pl/111/295], §§ 5(c), 6(b), (f)(1), Dec. 9, 2010, [124 Stat. 3181][/us/stat/124/3181].)
 
  __Historical and Revision Notes__ 
 
@@ -409,61 +409,61 @@
 
  __Amendments__ 
 
-    2010—Subsec. (b). [Pub. L. 111–295, § 6(f)(1)][/us/pl/111/295/s6/f/1], substituted “118(f)” for “118(g)”.
+    2010—Subsec. (b). [Pub. L. 111–295][/us/pl/111/295], § 6(f)(1), substituted “118(f)” for “118(g)”.
 
-    Subsec. (f)(2)(B). [Pub. L. 111–295, § 6(b)][/us/pl/111/295/s6/b], substituted “Judges shall base their decision” for “Judges shall base its decision” in introductory provisions.
+    Subsec. (f)(2)(B). [Pub. L. 111–295][/us/pl/111/295], § 6(b), substituted “Judges shall base their decision” for “Judges shall base its decision” in introductory provisions.
 
-    Subsec. (f)(2)(C). [Pub. L. 111–295, § 5(c)][/us/pl/111/295/s5/c], substituted “eligible nonsubscription services and new subscription services” for “preexisting subscription digital audio transmission services or preexisting satellite digital radio audio services”.
+    Subsec. (f)(2)(C). [Pub. L. 111–295][/us/pl/111/295], § 5(c), substituted “eligible nonsubscription services and new subscription services” for “preexisting subscription digital audio transmission services or preexisting satellite digital radio audio services”.
 
-    2009—Subsec. (f)(5)(D). [Pub. L. 111–36, § 2(1)][/us/pl/111/36/s2/1], substituted “2008, the Webcaster Settlement Act of 2009,” for “2008”.
+    2009—Subsec. (f)(5)(D). [Pub. L. 111–36][/us/pl/111/36], § 2(1), substituted “2008, the Webcaster Settlement Act of 2009,” for “2008”.
 
-    Subsec. (f)(5)(E)(iii). [Pub. L. 111–36, § 2(2)][/us/pl/111/36/s2/2], struck out “to make eligible nonsubscription transmissions and ephemeral recordings” after “therefor”.
+    Subsec. (f)(5)(E)(iii). [Pub. L. 111–36][/us/pl/111/36], § 2(2), struck out “to make eligible nonsubscription transmissions and ephemeral recordings” after “therefor”.
 
-    Subsec. (f)(5)(F). [Pub. L. 111–36, § 2(3)][/us/pl/111/36/s2/3], substituted “at 11:59 p.m. Eastern time on the 30th day after the date of the enactment of the Webcaster Settlement Act of 2009” for “February 15, 2009”.
+    Subsec. (f)(5)(F). [Pub. L. 111–36][/us/pl/111/36], § 2(3), substituted “at 11:59 p.m. Eastern time on the 30th day after the date of the enactment of the Webcaster Settlement Act of 2009” for “February 15, 2009”.
 
-    2008—Subsec. (f)(5)(A). [Pub. L. 110–435, § 2(1)][/us/pl/110/435/s2/1], substituted “commercial” for “small commercial” wherever appearing, in first sentence substituted “for a period of not more than 11 years beginning on January 1, 2005” for “during the period beginning on October 28, 1998, and ending on December 31, 2004” and “the Copyright Royalty Judges” for “a copyright arbitration royalty panel or decision by the Librarian of Congress”, and in second sentence substituted “webcasters may include” for “webcasters shall include”.
+    2008—Subsec. (f)(5)(A). [Pub. L. 110–435][/us/pl/110/435], § 2(1), substituted “commercial” for “small commercial” wherever appearing, in first sentence substituted “for a period of not more than 11 years beginning on January 1, 2005” for “during the period beginning on October 28, 1998, and ending on December 31, 2004” and “the Copyright Royalty Judges” for “a copyright arbitration royalty panel or decision by the Librarian of Congress”, and in second sentence substituted “webcasters may include” for “webcasters shall include”.
 
-    Subsec. (f)(5)(B). [Pub. L. 110–435, § 2(2)][/us/pl/110/435/s2/2], substituted “commercial” for “small commercial”.
+    Subsec. (f)(5)(B). [Pub. L. 110–435][/us/pl/110/435], § 2(2), substituted “commercial” for “small commercial”.
 
-    Subsec. (f)(5)(C). [Pub. L. 110–435, § 2(3)][/us/pl/110/435/s2/3], substituted “Copyright Royalty Judges” for “Librarian of Congress” and “webcasters” for “small webcasters” and inserted at end “This subparagraph shall not apply to the extent that the receiving agent and a webcaster that is party to an agreement entered into pursuant to subparagraph (A) expressly authorize the submission of the agreement in a proceeding under this subsection.”
+    Subsec. (f)(5)(C). [Pub. L. 110–435][/us/pl/110/435], § 2(3), substituted “Copyright Royalty Judges” for “Librarian of Congress” and “webcasters” for “small webcasters” and inserted at end “This subparagraph shall not apply to the extent that the receiving agent and a webcaster that is party to an agreement entered into pursuant to subparagraph (A) expressly authorize the submission of the agreement in a proceeding under this subsection.”
 
-    Subsec. (f)(5)(D). [Pub. L. 110–435, § 2(4)(B)][/us/pl/110/435/s2/4/B], substituted “Copyright Royalty Judges of May 1, 2007” for “Librarian of Congress of July 8, 2002”.
+    Subsec. (f)(5)(D). [Pub. L. 110–435][/us/pl/110/435], § 2(4)(B), substituted “Copyright Royalty Judges of May 1, 2007” for “Librarian of Congress of July 8, 2002”.
 
-    [Pub. L. 110–435, § 2(4)(A)][/us/pl/110/435/s2/4/A], which directed substitution of “the Webcaster Settlement Act of 2008” for “the Small Webcasters Settlement Act of 2002”, was executed by making the substitution for “the Small Webcaster Settlement Act of 2002”, to reflect the probable intent of Congress.
+    [Pub. L. 110–435][/us/pl/110/435], § 2(4)(A), which directed substitution of “the Webcaster Settlement Act of 2008” for “the Small Webcasters Settlement Act of 2002”, was executed by making the substitution for “the Small Webcaster Settlement Act of 2002”, to reflect the probable intent of Congress.
 
-    Subsec. (f)(5)(F). [Pub. L. 110–435, § 2(5)][/us/pl/110/435/s2/5], substituted “February 15, 2009” for “December 15, 2002, except with respect to noncommercial webcasters for whom the authority shall expire May 31, 2003”.
+    Subsec. (f)(5)(F). [Pub. L. 110–435][/us/pl/110/435], § 2(5), substituted “February 15, 2009” for “December 15, 2002, except with respect to noncommercial webcasters for whom the authority shall expire May 31, 2003”.
 
-    2006—Subsec. (f)(1)(A). [Pub. L. 109–303, § 4(b)(1)][/us/pl/109/303/s4/b/1], substituted “except in the case of a different transitional period provided under section 6(b)(3) of the Copyright Royalty and Distribution Reform Act of 2004, or such other period as the parties may agree.” for “except where a different transitional period is provided under section 6(b)(3) of the Copyright Royalty and Distribution Reform Act of 2004 or such other period.”
+    2006—Subsec. (f)(1)(A). [Pub. L. 109–303][/us/pl/109/303], § 4(b)(1), substituted “except in the case of a different transitional period provided under section 6(b)(3) of the Copyright Royalty and Distribution Reform Act of 2004, or such other period as the parties may agree.” for “except where a different transitional period is provided under section 6(b)(3) of the Copyright Royalty and Distribution Reform Act of 2004 or such other period.”
 
-    Subsec. (f)(2)(A). [Pub. L. 109–303, § 4(b)(2)][/us/pl/109/303/s4/b/2], amended subpar. (A) generally. Prior to amendment, subpar. (A) related to rates and terms of royalty payments for subscription transmissions by eligible nonsubscription transmission services and new subscription services.
+    Subsec. (f)(2)(A). [Pub. L. 109–303][/us/pl/109/303], § 4(b)(2), amended subpar. (A) generally. Prior to amendment, subpar. (A) related to rates and terms of royalty payments for subscription transmissions by eligible nonsubscription transmission services and new subscription services.
 
-    Subsec. (f)(2)(B). [Pub. L. 109–303, § 4(b)(3)][/us/pl/109/303/s4/b/3], substituted “described in” for “negotiated under” in concluding provisions.
+    Subsec. (f)(2)(B). [Pub. L. 109–303][/us/pl/109/303], § 4(b)(3), substituted “described in” for “negotiated under” in concluding provisions.
 
-    2004—Subsec. (f)(1)(A). [Pub. L. 108–419, § 5(c)(1)(A)][/us/pl/108/419/s5/c/1/A], substituted first sentence for former first sentence which read: “No later than 30 days after the enactment of the Digital Performance Right in Sound Recordings Act of 1995, the Librarian of Congress shall cause notice to be published in the Federal Register of the initiation of voluntary negotiation proceedings for the purpose of determining reasonable terms and rates of royalty payments for subscription transmissions by preexisting subscription services and transmissions by preexisting satellite digital audio radio services specified by subsection (d)(2) of this section during the period beginning on the effective date of such Act and ending on December 31, 2001, or, if a copyright arbitration royalty panel is convened, ending 30 days after the Librarian issues and publishes in the Federal Register an order adopting the determination of the copyright arbitration royalty panel or an order setting the terms and rates (if the Librarian rejects the panel’s determination).”, substituted “Copyright Royalty Judges” for “Librarian of Congress” in third sentence, and struck out “negotiation” before “proceeding” in fourth sentence.
+    2004—Subsec. (f)(1)(A). [Pub. L. 108–419][/us/pl/108/419], § 5(c)(1)(A), substituted first sentence for former first sentence which read: “No later than 30 days after the enactment of the Digital Performance Right in Sound Recordings Act of 1995, the Librarian of Congress shall cause notice to be published in the Federal Register of the initiation of voluntary negotiation proceedings for the purpose of determining reasonable terms and rates of royalty payments for subscription transmissions by preexisting subscription services and transmissions by preexisting satellite digital audio radio services specified by subsection (d)(2) of this section during the period beginning on the effective date of such Act and ending on December 31, 2001, or, if a copyright arbitration royalty panel is convened, ending 30 days after the Librarian issues and publishes in the Federal Register an order adopting the determination of the copyright arbitration royalty panel or an order setting the terms and rates (if the Librarian rejects the panel’s determination).”, substituted “Copyright Royalty Judges” for “Librarian of Congress” in third sentence, and struck out “negotiation” before “proceeding” in fourth sentence.
 
-    Subsec. (f)(1)(B). [Pub. L. 108–419, § 5(c)(1)(B)][/us/pl/108/419/s5/c/1/B], substituted first sentence for former first sentence which read: “In the absence of license agreements negotiated under subparagraph (A), during the 60-day period commencing 6 months after publication of the notice specified in subparagraph (A), and upon the filing of a petition in accordance with section 803(a)(1), the Librarian of Congress shall, pursuant to chapter 8, convene a copyright arbitration royalty panel to determine and publish in the Federal Register a schedule of rates and terms which, subject to paragraph (3), shall be binding on all copyright owners of sound recordings and entities performing sound recordings affected by this paragraph.” and, in second sentence, substituted “Copyright Royalty Judges may consider” for “copyright arbitration royalty panel may consider” and “described” for “negotiated as provided”.
+    Subsec. (f)(1)(B). [Pub. L. 108–419][/us/pl/108/419], § 5(c)(1)(B), substituted first sentence for former first sentence which read: “In the absence of license agreements negotiated under subparagraph (A), during the 60-day period commencing 6 months after publication of the notice specified in subparagraph (A), and upon the filing of a petition in accordance with section 803(a)(1), the Librarian of Congress shall, pursuant to chapter 8, convene a copyright arbitration royalty panel to determine and publish in the Federal Register a schedule of rates and terms which, subject to paragraph (3), shall be binding on all copyright owners of sound recordings and entities performing sound recordings affected by this paragraph.” and, in second sentence, substituted “Copyright Royalty Judges may consider” for “copyright arbitration royalty panel may consider” and “described” for “negotiated as provided”.
 
-    Subsec. (f)(1)(C). [Pub. L. 108–419, § 5(c)(1)(C)][/us/pl/108/419/s5/c/1/C], amended subpar. (C) generally. Prior to amendment, subpar. (C) related to repetition of publication of notices of the initiation of voluntary negotiation proceedings as specified in subpar. (A) and repetition of the procedures specified in subpar. (B).
+    Subsec. (f)(1)(C). [Pub. L. 108–419][/us/pl/108/419], § 5(c)(1)(C), amended subpar. (C) generally. Prior to amendment, subpar. (C) related to repetition of publication of notices of the initiation of voluntary negotiation proceedings as specified in subpar. (A) and repetition of the procedures specified in subpar. (B).
 
-    Subsec. (f)(2)(A). [Pub. L. 108–419, § 5(c)(2)(A)(ii)][/us/pl/108/419/s5/c/2/A/ii], (iii), substituted “Copyright Royalty Judges” for “Librarian of Congress” in third sentence and struck out “negotiation” after “parties to each” in fourth sentence.
+    Subsec. (f)(2)(A). [Pub. L. 108–419][/us/pl/108/419], § 5(c)(2)(A)(ii), (iii), substituted “Copyright Royalty Judges” for “Librarian of Congress” in third sentence and struck out “negotiation” after “parties to each” in fourth sentence.
 
-    [Pub. L. 108–419, § 5(c)(2)(A)(i)][/us/pl/108/419/s5/c/2/A/i], which directed the general amendment of the first paragraph, was executed by making the amendment to first sentence of subpar. (A) to reflect the probable intent of Congress. Prior to amendment, first sentence read as follows: “No later than 30 days after the date of the enactment of the Digital Millennium Copyright Act, the Librarian of Congress shall cause notice to be published in the Federal Register of the initiation of voluntary negotiation proceedings for the purpose of determining reasonable terms and rates of royalty payments for public performances of sound recordings by means of eligible nonsubscription transmissions and transmissions by new subscription services specified by subsection (d)(2) during the period beginning on the date of the enactment of such Act and ending on December 31, 2000, or such other date as the parties may agree.”
+    [Pub. L. 108–419][/us/pl/108/419], § 5(c)(2)(A)(i), which directed the general amendment of the first paragraph, was executed by making the amendment to first sentence of subpar. (A) to reflect the probable intent of Congress. Prior to amendment, first sentence read as follows: “No later than 30 days after the date of the enactment of the Digital Millennium Copyright Act, the Librarian of Congress shall cause notice to be published in the Federal Register of the initiation of voluntary negotiation proceedings for the purpose of determining reasonable terms and rates of royalty payments for public performances of sound recordings by means of eligible nonsubscription transmissions and transmissions by new subscription services specified by subsection (d)(2) during the period beginning on the date of the enactment of such Act and ending on December 31, 2000, or such other date as the parties may agree.”
 
-    Subsec. (f)(2)(B). [Pub. L. 108–419, § 5(c)(2)(B)(iii)][/us/pl/108/419/s5/c/2/B/iii], which directed substitution of “described in” for “negotiated as provided” in last sentence, could not be executed because “negotiated as provided” does not appear in text.
+    Subsec. (f)(2)(B). [Pub. L. 108–419][/us/pl/108/419], § 5(c)(2)(B)(iii), which directed substitution of “described in” for “negotiated as provided” in last sentence, could not be executed because “negotiated as provided” does not appear in text.
 
-    [Pub. L. 108–419, § 5(c)(2)(B)(ii)][/us/pl/108/419/s5/c/2/B/ii], substituted “Copyright Royalty Judges” for “copyright arbitration royalty panel” wherever appearing after first sentence.
+    [Pub. L. 108–419][/us/pl/108/419], § 5(c)(2)(B)(ii), substituted “Copyright Royalty Judges” for “copyright arbitration royalty panel” wherever appearing after first sentence.
 
-    [Pub. L. 108–419, § 5(c)(2)(B)(i)][/us/pl/108/419/s5/c/2/B/i], substituted first sentence for former first sentence which read: “In the absence of license agreements negotiated under subparagraph (A), during the 60-day period commencing 6 months after publication of the notice specified in subparagraph (A), and upon the filing of a petition in accordance with section 803(a)(1), the Librarian of Congress shall, pursuant to chapter 8, convene a copyright arbitration royalty panel to determine and publish in the Federal Register a schedule of rates and terms which, subject to paragraph (3), shall be binding on all copyright owners of sound recordings and entities performing sound recordings affected by this paragraph during the period beginning on the date of the enactment of the Digital Millennium Copyright Act and ending on December 31, 2000, or such other date as the parties may agree.”
+    [Pub. L. 108–419][/us/pl/108/419], § 5(c)(2)(B)(i), substituted first sentence for former first sentence which read: “In the absence of license agreements negotiated under subparagraph (A), during the 60-day period commencing 6 months after publication of the notice specified in subparagraph (A), and upon the filing of a petition in accordance with section 803(a)(1), the Librarian of Congress shall, pursuant to chapter 8, convene a copyright arbitration royalty panel to determine and publish in the Federal Register a schedule of rates and terms which, subject to paragraph (3), shall be binding on all copyright owners of sound recordings and entities performing sound recordings affected by this paragraph during the period beginning on the date of the enactment of the Digital Millennium Copyright Act and ending on December 31, 2000, or such other date as the parties may agree.”
 
-    Subsec. (f)(2)(C). [Pub. L. 108–419, § 5(c)(2)(C)][/us/pl/108/419/s5/c/2/C], amended subpar. (C) generally. Prior to amendment, subpar. (C) related to repetition of publication of notices of the initiation of voluntary negotiation proceedings as specified in subpar. (A) and repetition of the procedures specified in subpar. (B).
+    Subsec. (f)(2)(C). [Pub. L. 108–419][/us/pl/108/419], § 5(c)(2)(C), amended subpar. (C) generally. Prior to amendment, subpar. (C) related to repetition of publication of notices of the initiation of voluntary negotiation proceedings as specified in subpar. (A) and repetition of the procedures specified in subpar. (B).
 
-    Subsec. (f)(3). [Pub. L. 108–419, § 5(c)(3)][/us/pl/108/419/s5/c/3], substituted “decision by the Librarian of Congress or determination by the Copyright Royalty Judges” for “determination by a copyright arbitration royalty panel or decision by the Librarian of Congress”.
+    Subsec. (f)(3). [Pub. L. 108–419][/us/pl/108/419], § 5(c)(3), substituted “decision by the Librarian of Congress or determination by the Copyright Royalty Judges” for “determination by a copyright arbitration royalty panel or decision by the Librarian of Congress”.
 
-    Subsec. (f)(4). [Pub. L. 108–419, § 5(c)(4)][/us/pl/108/419/s5/c/4], substituted “Copyright Royalty Judges” for “Librarian of Congress” in two places and inserted after first sentence in subpar. (A) “The notice and recordkeeping rules in effect on the day before the effective date of the Copyright Royalty and Distribution Reform Act of 2004 shall remain in effect unless and until new regulations are promulgated by the Copyright Royalty Judges. If new regulations are promulgated under this subparagraph, the Copyright Royalty Judges shall take into account the substance and effect of the rules in effect on the day before the effective date of the Copyright Royalty and Distribution Reform Act of 2004 and shall, to the extent practicable, avoid significant disruption of the functions of any designated agent authorized to collect and distribute royalty fees.”
+    Subsec. (f)(4). [Pub. L. 108–419][/us/pl/108/419], § 5(c)(4), substituted “Copyright Royalty Judges” for “Librarian of Congress” in two places and inserted after first sentence in subpar. (A) “The notice and recordkeeping rules in effect on the day before the effective date of the Copyright Royalty and Distribution Reform Act of 2004 shall remain in effect unless and until new regulations are promulgated by the Copyright Royalty Judges. If new regulations are promulgated under this subparagraph, the Copyright Royalty Judges shall take into account the substance and effect of the rules in effect on the day before the effective date of the Copyright Royalty and Distribution Reform Act of 2004 and shall, to the extent practicable, avoid significant disruption of the functions of any designated agent authorized to collect and distribute royalty fees.”
 
-    2002—Subsec. (f)(5). [Pub. L. 107–321, § 4][/us/pl/107/321/s4], added par. (5).
+    2002—Subsec. (f)(5). [Pub. L. 107–321][/us/pl/107/321], § 4, added par. (5).
 
-    Subsec. (g)(2). [Pub. L. 107–321, § 5(c)][/us/pl/107/321/s5/c], amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The copyright owner of the exclusive right under [section 106(6) of this title][/us/usc/t17/s106/6] to publicly perform a sound recording by means of a digital audio transmission shall allocate to recording artists in the following manner its receipts from the statutory licensing of transmission performances of the sound recording in accordance with subsection (f) of this section:
+    Subsec. (g)(2). [Pub. L. 107–321][/us/pl/107/321], § 5(c), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The copyright owner of the exclusive right under [section 106(6) of this title][/us/usc/t17/s106/6] to publicly perform a sound recording by means of a digital audio transmission shall allocate to recording artists in the following manner its receipts from the statutory licensing of transmission performances of the sound recording in accordance with subsection (f) of this section:
 
     “(A) 2½ percent of the receipts shall be deposited in an escrow account managed by an independent administrator jointly appointed by copyright owners of sound recordings and the American Federation of Musicians (or any successor entity) to be distributed to nonfeatured musicians (whether or not members of the American Federation of Musicians) who have performed on sound recordings.
 
@@ -471,9 +471,9 @@
 
     “(C) 45 percent of the receipts shall be allocated, on a per sound recording basis, to the recording artist or artists featured on such sound recording (or the persons conveying rights in the artists’ performance in the sound recordings).”
 
-    Subsec. (g)(3), (4). [Pub. L. 107–321, § 5(b)][/us/pl/107/321/s5/b], added pars. (3) and (4).
+    Subsec. (g)(3), (4). [Pub. L. 107–321][/us/pl/107/321], § 5(b), added pars. (3) and (4).
 
-    1998—Subsec. (d)(1)(A). [Pub. L. 105–304, § 405(a)(1)(A)][/us/pl/105/304/s405/a/1/A], added subpar. (A) and struck out former subpar. (A) which read as follows:
+    1998—Subsec. (d)(1)(A). [Pub. L. 105–304][/us/pl/105/304], § 405(a)(1)(A), added subpar. (A) and struck out former subpar. (A) which read as follows:
 
     “(A)(i) a nonsubscription transmission other than a retransmission;
 
@@ -481,7 +481,7 @@
 
     “(iii) a nonsubscription broadcast transmission;”.
 
-    Subsec. (d)(2). [Pub. L. 105–304, § 405(a)(1)(B)][/us/pl/105/304/s405/a/1/B], amended heading and text of par. (2) generally. Prior to amendment, text read as follows: “In the case of a subscription transmission not exempt under subsection (d)(1), the performance of a sound recording publicly by means of a digital audio transmission shall be subject to statutory licensing, in accordance with subsection (f) of this section, if—
+    Subsec. (d)(2). [Pub. L. 105–304][/us/pl/105/304], § 405(a)(1)(B), amended heading and text of par. (2) generally. Prior to amendment, text read as follows: “In the case of a subscription transmission not exempt under subsection (d)(1), the performance of a sound recording publicly by means of a digital audio transmission shall be subject to statutory licensing, in accordance with subsection (f) of this section, if—
 
     “(A) the transmission is not part of an interactive service;
 
@@ -493,49 +493,49 @@
 
     “(E) except as provided in [section 1002(e) of this title][/us/usc/t17/s1002/e], the transmission of the sound recording is accompanied by the information encoded in that sound recording, if any, by or under the authority of the copyright owner of that sound recording, that identifies the title of the sound recording, the featured recording artist who performs on the sound recording, and related information, including information concerning the underlying musical work and its writer.”
 
-    Subsec. (f). [Pub. L. 105–304, § 405(a)(2)(A)][/us/pl/105/304/s405/a/2/A], substituted “Certain Nonexempt” for “Nonexempt Subscription” in heading.
+    Subsec. (f). [Pub. L. 105–304][/us/pl/105/304], § 405(a)(2)(A), substituted “Certain Nonexempt” for “Nonexempt Subscription” in heading.
 
-    Subsec. (f)(1)(A). [Pub. L. 105–304, § 405(a)(2)(B)][/us/pl/105/304/s405/a/2/B], designated existing provisions as subpar. (A), in first sentence, substituted “subscription transmissions by preexisting subscription services and transmissions by preexisting satellite digital audio radio services” for “the activities” and “2001” for “2000”, and amended third sentence generally. Prior to amendment, third sentence read as follows: “Any copyright owners of sound recordings or any entities performing sound recordings affected by this section may submit to the Librarian of Congress licenses covering such activities with respect to such sound recordings.”
+    Subsec. (f)(1)(A). [Pub. L. 105–304][/us/pl/105/304], § 405(a)(2)(B), designated existing provisions as subpar. (A), in first sentence, substituted “subscription transmissions by preexisting subscription services and transmissions by preexisting satellite digital audio radio services” for “the activities” and “2001” for “2000”, and amended third sentence generally. Prior to amendment, third sentence read as follows: “Any copyright owners of sound recordings or any entities performing sound recordings affected by this section may submit to the Librarian of Congress licenses covering such activities with respect to such sound recordings.”
 
-    Subsec. (f)(1)(B), (C). [Pub. L. 105–304, § 405(a)(2)(C)][/us/pl/105/304/s405/a/2/C], added subpars. (B) and (C).
+    Subsec. (f)(1)(B), (C). [Pub. L. 105–304][/us/pl/105/304], § 405(a)(2)(C), added subpars. (B) and (C).
 
-    Subsec. (f)(2) to (5). [Pub. L. 105–304, § 405(a)(2)(C)][/us/pl/105/304/s405/a/2/C], added pars. (2) to (4) and struck out former pars. (2) to (5), which provided: in par. (2) that Librarian of Congress would convene a copyright arbitration royalty panel to determine schedule of rates and terms, that panel could consider rates and terms for comparable types of services under voluntary license agreements, and that requirements would be established by which copyright owners would receive notice of use of their recordings; in par. (3) that voluntarily negotiated license agreements would be given effect in lieu of determination by panel or decision by Librarian; in par. (4) that publication of notice of negotiations would be repeated no later than 30 days after petition was filed, in the first week of January, 2000, and at 5-year intervals thereafter, and that par. (2) procedures would be repeated upon filing of petition during a 60-day period commencing six months after publication of notice or on July 1, 2000 and at 5-year intervals thereafter; and in par. (5) that performance by non-exempt subscription transmission without infringing copyright was permissible by compliance with notice requirements and payment of royalty fees or agreement to pay such fees.
+    Subsec. (f)(2) to (5). [Pub. L. 105–304][/us/pl/105/304], § 405(a)(2)(C), added pars. (2) to (4) and struck out former pars. (2) to (5), which provided: in par. (2) that Librarian of Congress would convene a copyright arbitration royalty panel to determine schedule of rates and terms, that panel could consider rates and terms for comparable types of services under voluntary license agreements, and that requirements would be established by which copyright owners would receive notice of use of their recordings; in par. (3) that voluntarily negotiated license agreements would be given effect in lieu of determination by panel or decision by Librarian; in par. (4) that publication of notice of negotiations would be repeated no later than 30 days after petition was filed, in the first week of January, 2000, and at 5-year intervals thereafter, and that par. (2) procedures would be repeated upon filing of petition during a 60-day period commencing six months after publication of notice or on July 1, 2000 and at 5-year intervals thereafter; and in par. (5) that performance by non-exempt subscription transmission without infringing copyright was permissible by compliance with notice requirements and payment of royalty fees or agreement to pay such fees.
 
-    Subsec. (g). [Pub. L. 105–304, § 405(a)(3)(A)][/us/pl/105/304/s405/a/3/A], struck out “Subscription” before “Transmissions” in heading.
+    Subsec. (g). [Pub. L. 105–304][/us/pl/105/304], § 405(a)(3)(A), struck out “Subscription” before “Transmissions” in heading.
 
-    Subsec. (g)(1). [Pub. L. 105–304, § 405(a)(3)(B)][/us/pl/105/304/s405/a/3/B], substituted “transmission licensed under a statutory license” for “subscription transmission licensed” in introductory provisions.
+    Subsec. (g)(1). [Pub. L. 105–304][/us/pl/105/304], § 405(a)(3)(B), substituted “transmission licensed under a statutory license” for “subscription transmission licensed” in introductory provisions.
 
-    Subsec. (g)(1)(A), (B). [Pub. L. 105–304, § 405(a)(3)(C)][/us/pl/105/304/s405/a/3/C], struck out “subscription” before “transmission”.
+    Subsec. (g)(1)(A), (B). [Pub. L. 105–304][/us/pl/105/304], § 405(a)(3)(C), struck out “subscription” before “transmission”.
 
-    Subsec. (g)(2). [Pub. L. 105–304, § 405(a)(3)(D)][/us/pl/105/304/s405/a/3/D], struck out “subscription” before “transmission performances” in introductory provisions.
+    Subsec. (g)(2). [Pub. L. 105–304][/us/pl/105/304], § 405(a)(3)(D), struck out “subscription” before “transmission performances” in introductory provisions.
 
-    Subsec. (j)(2), (3). [Pub. L. 105–304, § 405(a)(4)(A)][/us/pl/105/304/s405/a/4/A], (B), added par. (2) and redesignated former par. (2) as (3). Former par. (3) redesignated (5).
+    Subsec. (j)(2), (3). [Pub. L. 105–304][/us/pl/105/304], § 405(a)(4)(A), (B), added par. (2) and redesignated former par. (2) as (3). Former par. (3) redesignated (5).
 
-    Subsec. (j)(4). [Pub. L. 105–304, § 405(a)(4)(A)][/us/pl/105/304/s405/a/4/A], (C), added par. (4) and struck out former par. (4) which read as follows: “An ‘interactive service’ is one that enables a member of the public to receive, on request, a transmission of a particular sound recording chosen by or on behalf of the recipient. The ability of individuals to request that particular sound recordings be performed for reception by the public at large does not make a service interactive. If an entity offers both interactive and non-interactive services (either concurrently or at different times), the non-interactive component shall not be treated as part of an interactive service.”
+    Subsec. (j)(4). [Pub. L. 105–304][/us/pl/105/304], § 405(a)(4)(A), (C), added par. (4) and struck out former par. (4) which read as follows: “An ‘interactive service’ is one that enables a member of the public to receive, on request, a transmission of a particular sound recording chosen by or on behalf of the recipient. The ability of individuals to request that particular sound recordings be performed for reception by the public at large does not make a service interactive. If an entity offers both interactive and non-interactive services (either concurrently or at different times), the non-interactive component shall not be treated as part of an interactive service.”
 
-    Subsec. (j)(5). [Pub. L. 105–304, § 405(a)(4)(A)][/us/pl/105/304/s405/a/4/A], redesignated par. (3) as (5). Former par. (5) redesignated (9).
+    Subsec. (j)(5). [Pub. L. 105–304][/us/pl/105/304], § 405(a)(4)(A), redesignated par. (3) as (5). Former par. (5) redesignated (9).
 
-    Subsec. (j)(6) to (8). [Pub. L. 105–304, § 405(a)(4)(A)][/us/pl/105/304/s405/a/4/A], (D), added pars. (6) to (8). Former pars. (6) to (8) redesignated (12) to (14), respectively.
+    Subsec. (j)(6) to (8). [Pub. L. 105–304][/us/pl/105/304], § 405(a)(4)(A), (D), added pars. (6) to (8). Former pars. (6) to (8) redesignated (12) to (14), respectively.
 
-    Subsec. (j)(9). [Pub. L. 105–304, § 405(a)(4)(A)][/us/pl/105/304/s405/a/4/A], redesignated par. (5) as (9) and struck out former par. (9) which read as follows: “A ‘transmission’ includes both an initial transmission and a retransmission.”
+    Subsec. (j)(9). [Pub. L. 105–304][/us/pl/105/304], § 405(a)(4)(A), redesignated par. (5) as (9) and struck out former par. (9) which read as follows: “A ‘transmission’ includes both an initial transmission and a retransmission.”
 
-    Subsec. (j)(10), (11). [Pub. L. 105–304, § 405(a)(4)(E)][/us/pl/105/304/s405/a/4/E], added pars. (10) and (11).
+    Subsec. (j)(10), (11). [Pub. L. 105–304][/us/pl/105/304], § 405(a)(4)(E), added pars. (10) and (11).
 
-    Subsec. (j)(12) to (14). [Pub. L. 105–304, § 405(a)(4)(A)][/us/pl/105/304/s405/a/4/A], redesignated pars. (6) to (8) as (12) to (14), respectively.
+    Subsec. (j)(12) to (14). [Pub. L. 105–304][/us/pl/105/304], § 405(a)(4)(A), redesignated pars. (6) to (8) as (12) to (14), respectively.
 
-    Subsec. (j)(15). [Pub. L. 105–304, § 405(a)(4)(F)][/us/pl/105/304/s405/a/4/F], added par. (15).
+    Subsec. (j)(15). [Pub. L. 105–304][/us/pl/105/304], § 405(a)(4)(F), added par. (15).
 
-    1997—Subsec. (f)(1). [Pub. L. 105–80, § 3(1)][/us/pl/105/80/s3/1], inserted “, or, if a copyright arbitration royalty panel is convened, ending 30 days after the Librarian issues and publishes in the Federal Register an order adopting the determination of the copyright arbitration royalty panel or an order setting the terms and rates (if the Librarian rejects the panel’s determination)” after “December 31, 2000”.
+    1997—Subsec. (f)(1). [Pub. L. 105–80][/us/pl/105/80], § 3(1), inserted “, or, if a copyright arbitration royalty panel is convened, ending 30 days after the Librarian issues and publishes in the Federal Register an order adopting the determination of the copyright arbitration royalty panel or an order setting the terms and rates (if the Librarian rejects the panel’s determination)” after “December 31, 2000”.
 
-    Subsec. (f)(2). [Pub. L. 105–80, § 3(2)][/us/pl/105/80/s3/2], struck out “and publish in the Federal Register” before “a schedule of rates and terms”.
+    Subsec. (f)(2). [Pub. L. 105–80][/us/pl/105/80], § 3(2), struck out “and publish in the Federal Register” before “a schedule of rates and terms”.
 
-    1995—Subsec. (a). [Pub. L. 104–39, § 3(1)][/us/pl/104/39/s3/1], substituted “(3) and (6) of section 106” for “and (3) of section 106”.
+    1995—Subsec. (a). [Pub. L. 104–39][/us/pl/104/39], § 3(1), substituted “(3) and (6) of section 106” for “and (3) of section 106”.
 
-    Subsec. (b). [Pub. L. 104–39, § 3(2)][/us/pl/104/39/s3/2], substituted “phonorecords or copies” for “phonorecords, or of copies of motion pictures and other audiovisual works,” in first sentence.
+    Subsec. (b). [Pub. L. 104–39][/us/pl/104/39], § 3(2), substituted “phonorecords or copies” for “phonorecords, or of copies of motion pictures and other audiovisual works,” in first sentence.
 
-    Subsec. (d). [Pub. L. 104–39, § 3(3)][/us/pl/104/39/s3/3], added subsec. (d) and struck out former subsec. (d), which read as follows: “On January 3, 1978, the Register of Copyrights, after consulting with representatives of owners of copyrighted materials, representatives of the broadcasting, recording, motion picture, entertainment industries, and arts organizations, representatives of organized labor and performers of copyrighted materials, shall submit to the Congress a report setting forth recommendations as to whether this section should be amended to provide for performers and copyright owners of copyrighted material any performance rights in such material. The report should describe the status of such rights in foreign countries, the views of major interested parties, and specific legislative or other recommendations, if any.”
+    Subsec. (d). [Pub. L. 104–39][/us/pl/104/39], § 3(3), added subsec. (d) and struck out former subsec. (d), which read as follows: “On January 3, 1978, the Register of Copyrights, after consulting with representatives of owners of copyrighted materials, representatives of the broadcasting, recording, motion picture, entertainment industries, and arts organizations, representatives of organized labor and performers of copyrighted materials, shall submit to the Congress a report setting forth recommendations as to whether this section should be amended to provide for performers and copyright owners of copyrighted material any performance rights in such material. The report should describe the status of such rights in foreign countries, the views of major interested parties, and specific legislative or other recommendations, if any.”
 
-    Subsecs. (e) to (j). [Pub. L. 104–39, § 3(4)][/us/pl/104/39/s3/4], added subsecs. (e) to (j).
+    Subsecs. (e) to (j). [Pub. L. 104–39][/us/pl/104/39], § 3(4), added subsecs. (e) to (j).
 
  __Effective Date of 2006 Amendment__ 
 
@@ -549,7 +549,7 @@
 
     Amendment by section 405(a)(1), (2)(A), (B)(i)(I), (II), (ii), (3), (4) of [Pub. L. 105–304][/us/pl/105/304] effective Oct. 28, 1998, except as otherwise provided, see [section 407 of Pub. L. 105–304][/us/pl/105/304/s407], set out as a note under [section 108 of this title][/us/usc/t17/s108].
 
-[Pub. L. 105–304, title IV, § 405(a)(5)][/us/pl/105/304/s405/a/5], Oct. 28, 1998, [112 Stat. 2899][/us/stat/112/2899], provided that: 
+[Pub. L. 105–304, title IV][/us/pl/105/304/tIV], § 405(a)(5), Oct. 28, 1998, [112 Stat. 2899][/us/stat/112/2899], provided that: 
 
 > “The amendment made by paragraph (2)(B)(i)(III) of this subsection \[amending this section\] shall be deemed to have been enacted as part of the Digital Performance Right in Sound Recordings Act of 1995 \[[Pub. L. 104–39][/us/pl/104/39]\], and the publication of notice of proceedings under [section 114(f)(1) of title 17][/us/usc/t17/s114/f/1], United States Code, as in effect upon the effective date of that Act \[see Effective Date of 1995 Amendment note set out under [section 101 of this title][/us/usc/t17/s101]\], for the determination of royalty payments shall be deemed to have been made for the period beginning on the effective date of that Act and ending on December 1, 2001.”
 
@@ -559,13 +559,13 @@
 
  __Construction of 1998 Amendment__ 
 
-[Pub. L. 105–304, title IV, § 405(a)(6)][/us/pl/105/304/s405/a/6], Oct. 28, 1998, [112 Stat. 2899][/us/stat/112/2899], provided that: 
+[Pub. L. 105–304, title IV][/us/pl/105/304/tIV], § 405(a)(6), Oct. 28, 1998, [112 Stat. 2899][/us/stat/112/2899], provided that: 
 
 > “The amendments made by this subsection \[amending this section\] do not annul, limit, or otherwise impair the rights that are preserved by [section 114 of title 17][/us/usc/t17/s114], United States Code, including the rights preserved by subsections (c), (d)(4), and (i) of such section.”
 
  __Findings Relating to__  __[__  __Pub. L. 107–321__  __][/us/pl/107/321]__ 
 
-[Pub. L. 107–321, § 2][/us/pl/107/321/s2], Dec. 4, 2002, [116 Stat. 2780][/us/stat/116/2780], provided that: 
+[Pub. L. 107–321][/us/pl/107/321], § 2, Dec. 4, 2002, [116 Stat. 2780][/us/stat/116/2780], provided that: 
 
 > “Congress finds the following:
 
@@ -583,7 +583,7 @@
 
 >     “(7) It is, nevertheless, in the public interest for the parties to be able to enter into such an agreement without fear of liability for deviating from the fees and terms of the July 8 order, if it is clear that the agreement will not be admissible as evidence or otherwise taken into account in any government proceeding involving the setting or adjustment of the royalties payable to copyright owners of sound recordings for the public performance or reproduction in ephemeral phonorecords or copies of such works, the determination of terms or conditions related thereto, or the establishment of notice or recordkeeping requirements.”
 
-[Pub. L. 107–321, § 5(a)][/us/pl/107/321/s5/a], Dec. 4, 2002, [116 Stat. 2783][/us/stat/116/2783], provided that: 
+[Pub. L. 107–321][/us/pl/107/321], § 5(a), Dec. 4, 2002, [116 Stat. 2783][/us/stat/116/2783], provided that: 
 
 > “Congress finds that—
 
@@ -597,7 +597,7 @@
 
  __Suspension of Certain Payments__ 
 
-[Pub. L. 107–321, § 3][/us/pl/107/321/s3], Dec. 4, 2002, [116 Stat. 2781][/us/stat/116/2781], provided that:
+[Pub. L. 107–321][/us/pl/107/321], § 3, Dec. 4, 2002, [116 Stat. 2781][/us/stat/116/2781], provided that:
 
 >     “(a) __Noncommercial Webcasters.—__ 
 
@@ -625,7 +625,7 @@
 
  __Report to Congress__ 
 
-[Pub. L. 107–321, § 6][/us/pl/107/321/s6], Dec. 4, 2002, [116 Stat. 2785][/us/stat/116/2785], provided that: 
+[Pub. L. 107–321][/us/pl/107/321], § 6, Dec. 4, 2002, [116 Stat. 2785][/us/stat/116/2785], provided that: 
 
 > “By not later than June 1, 2004, the Comptroller General of the United States, in consultation with the Register of Copyrights, shall conduct and submit to the Committee on the Judiciary of the House of Representatives and the Committee on the Judiciary of the Senate a study concerning the economic arrangements among small commercial webcasters covered by agreements entered into pursuant to [section 114(f)(5)(A) of title 17][/us/usc/t17/s114/f/5/A], United States Code, as added by section 4 of this Act, and third parties, and the effect of those arrangements on royalty fees payable on a percentage of revenue or expense basis.”
 
@@ -641,23 +641,23 @@
 [/us/usc/t47/s522/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs522%2F12
 [/us/usc/t26/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs501
 [/us/usc/t17/s106/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft17%2Fs106%2F6
-[/us/pl/94/553/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F553%2Fs101
+[/us/pl/94/553/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F553%2FtI
 [/us/stat/90/2560]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2560
-[/us/pl/104/39/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F39%2Fs3
+[/us/pl/104/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F39
 [/us/stat/109/336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F336
-[/us/pl/105/80/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F80%2Fs3
+[/us/pl/105/80]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F80
 [/us/stat/111/1531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1531
-[/us/pl/105/304/s405/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F304%2Fs405%2Fa%2F1
+[/us/pl/105/304/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F304%2FtIV
 [/us/stat/112/2890-2897]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2890-2897
 [/us/pl/107/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F321
 [/us/stat/116/2781]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2781
-[/us/pl/108/419/s5/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F419%2Fs5%2Fc
+[/us/pl/108/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F419
 [/us/stat/118/2362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2362
-[/us/pl/109/303/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F303%2Fs4%2Fb
+[/us/pl/109/303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F303
 [/us/stat/120/1481]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1481
-[/us/pl/110/435/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F435%2Fs2
+[/us/pl/110/435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F435
 [/us/stat/122/4974]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4974
-[/us/pl/111/36/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F36%2Fs2
+[/us/pl/111/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F36
 [/us/stat/123/1926]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1926
 [/us/pl/111/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F295
 [/us/stat/124/3181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3181
@@ -677,61 +677,61 @@
 [/us/usc/t17/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft17%2Fs101
 [/us/usc/t17/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft17%2Fs101
 [/us/pl/111/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F36
-[/us/pl/111/295/s6/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F295%2Fs6%2Ff%2F1
-[/us/pl/111/295/s6/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F295%2Fs6%2Fb
-[/us/pl/111/295/s5/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F295%2Fs5%2Fc
-[/us/pl/111/36/s2/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F36%2Fs2%2F1
-[/us/pl/111/36/s2/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F36%2Fs2%2F2
-[/us/pl/111/36/s2/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F36%2Fs2%2F3
-[/us/pl/110/435/s2/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F435%2Fs2%2F1
-[/us/pl/110/435/s2/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F435%2Fs2%2F2
-[/us/pl/110/435/s2/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F435%2Fs2%2F3
-[/us/pl/110/435/s2/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F435%2Fs2%2F4%2FB
-[/us/pl/110/435/s2/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F435%2Fs2%2F4%2FA
-[/us/pl/110/435/s2/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F435%2Fs2%2F5
-[/us/pl/109/303/s4/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F303%2Fs4%2Fb%2F1
-[/us/pl/109/303/s4/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F303%2Fs4%2Fb%2F2
-[/us/pl/109/303/s4/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F303%2Fs4%2Fb%2F3
-[/us/pl/108/419/s5/c/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F419%2Fs5%2Fc%2F1%2FA
-[/us/pl/108/419/s5/c/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F419%2Fs5%2Fc%2F1%2FB
-[/us/pl/108/419/s5/c/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F419%2Fs5%2Fc%2F1%2FC
-[/us/pl/108/419/s5/c/2/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F419%2Fs5%2Fc%2F2%2FA%2Fii
-[/us/pl/108/419/s5/c/2/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F419%2Fs5%2Fc%2F2%2FA%2Fi
-[/us/pl/108/419/s5/c/2/B/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F419%2Fs5%2Fc%2F2%2FB%2Fiii
-[/us/pl/108/419/s5/c/2/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F419%2Fs5%2Fc%2F2%2FB%2Fii
-[/us/pl/108/419/s5/c/2/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F419%2Fs5%2Fc%2F2%2FB%2Fi
-[/us/pl/108/419/s5/c/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F419%2Fs5%2Fc%2F2%2FC
-[/us/pl/108/419/s5/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F419%2Fs5%2Fc%2F3
-[/us/pl/108/419/s5/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F419%2Fs5%2Fc%2F4
-[/us/pl/107/321/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F321%2Fs4
-[/us/pl/107/321/s5/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F321%2Fs5%2Fc
+[/us/pl/111/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F295
+[/us/pl/111/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F295
+[/us/pl/111/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F295
+[/us/pl/111/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F36
+[/us/pl/111/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F36
+[/us/pl/111/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F36
+[/us/pl/110/435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F435
+[/us/pl/110/435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F435
+[/us/pl/110/435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F435
+[/us/pl/110/435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F435
+[/us/pl/110/435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F435
+[/us/pl/110/435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F435
+[/us/pl/109/303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F303
+[/us/pl/109/303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F303
+[/us/pl/109/303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F303
+[/us/pl/108/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F419
+[/us/pl/108/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F419
+[/us/pl/108/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F419
+[/us/pl/108/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F419
+[/us/pl/108/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F419
+[/us/pl/108/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F419
+[/us/pl/108/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F419
+[/us/pl/108/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F419
+[/us/pl/108/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F419
+[/us/pl/108/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F419
+[/us/pl/108/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F419
+[/us/pl/107/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F321
+[/us/pl/107/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F321
 [/us/usc/t17/s106/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft17%2Fs106%2F6
-[/us/pl/107/321/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F321%2Fs5%2Fb
-[/us/pl/105/304/s405/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F304%2Fs405%2Fa%2F1%2FA
-[/us/pl/105/304/s405/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F304%2Fs405%2Fa%2F1%2FB
+[/us/pl/107/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F321
+[/us/pl/105/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F304
+[/us/pl/105/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F304
 [/us/usc/t17/s1002/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft17%2Fs1002%2Fe
-[/us/pl/105/304/s405/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F304%2Fs405%2Fa%2F2%2FA
-[/us/pl/105/304/s405/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F304%2Fs405%2Fa%2F2%2FB
-[/us/pl/105/304/s405/a/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F304%2Fs405%2Fa%2F2%2FC
-[/us/pl/105/304/s405/a/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F304%2Fs405%2Fa%2F2%2FC
-[/us/pl/105/304/s405/a/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F304%2Fs405%2Fa%2F3%2FA
-[/us/pl/105/304/s405/a/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F304%2Fs405%2Fa%2F3%2FB
-[/us/pl/105/304/s405/a/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F304%2Fs405%2Fa%2F3%2FC
-[/us/pl/105/304/s405/a/3/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F304%2Fs405%2Fa%2F3%2FD
-[/us/pl/105/304/s405/a/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F304%2Fs405%2Fa%2F4%2FA
-[/us/pl/105/304/s405/a/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F304%2Fs405%2Fa%2F4%2FA
-[/us/pl/105/304/s405/a/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F304%2Fs405%2Fa%2F4%2FA
-[/us/pl/105/304/s405/a/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F304%2Fs405%2Fa%2F4%2FA
-[/us/pl/105/304/s405/a/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F304%2Fs405%2Fa%2F4%2FA
-[/us/pl/105/304/s405/a/4/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F304%2Fs405%2Fa%2F4%2FE
-[/us/pl/105/304/s405/a/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F304%2Fs405%2Fa%2F4%2FA
-[/us/pl/105/304/s405/a/4/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F304%2Fs405%2Fa%2F4%2FF
-[/us/pl/105/80/s3/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F80%2Fs3%2F1
-[/us/pl/105/80/s3/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F80%2Fs3%2F2
-[/us/pl/104/39/s3/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F39%2Fs3%2F1
-[/us/pl/104/39/s3/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F39%2Fs3%2F2
-[/us/pl/104/39/s3/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F39%2Fs3%2F3
-[/us/pl/104/39/s3/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F39%2Fs3%2F4
+[/us/pl/105/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F304
+[/us/pl/105/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F304
+[/us/pl/105/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F304
+[/us/pl/105/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F304
+[/us/pl/105/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F304
+[/us/pl/105/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F304
+[/us/pl/105/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F304
+[/us/pl/105/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F304
+[/us/pl/105/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F304
+[/us/pl/105/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F304
+[/us/pl/105/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F304
+[/us/pl/105/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F304
+[/us/pl/105/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F304
+[/us/pl/105/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F304
+[/us/pl/105/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F304
+[/us/pl/105/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F304
+[/us/pl/105/80]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F80
+[/us/pl/105/80]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F80
+[/us/pl/104/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F39
+[/us/pl/104/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F39
+[/us/pl/104/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F39
+[/us/pl/104/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F39
 [/us/pl/109/303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F303
 [/us/pl/108/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F419
 [/us/pl/109/303/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F303%2Fs6
@@ -742,7 +742,7 @@
 [/us/pl/105/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F304
 [/us/pl/105/304/s407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F304%2Fs407
 [/us/usc/t17/s108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft17%2Fs108
-[/us/pl/105/304/s405/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F304%2Fs405%2Fa%2F5
+[/us/pl/105/304/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F304%2FtIV
 [/us/stat/112/2899]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2899
 [/us/pl/104/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F39
 [/us/usc/t17/s114/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft17%2Fs114%2Ff%2F1
@@ -750,23 +750,23 @@
 [/us/pl/104/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F39
 [/us/pl/104/39/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F39%2Fs6
 [/us/usc/t17/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft17%2Fs101
-[/us/pl/105/304/s405/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F304%2Fs405%2Fa%2F6
+[/us/pl/105/304/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F304%2FtIV
 [/us/stat/112/2899]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2899
 [/us/usc/t17/s114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft17%2Fs114
 [/us/pl/107/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F321
-[/us/pl/107/321/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F321%2Fs2
+[/us/pl/107/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F321
 [/us/stat/116/2780]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2780
 [/us/usc/t17/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft17%2Fs101
-[/us/pl/107/321/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F321%2Fs5%2Fa
+[/us/pl/107/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F321
 [/us/stat/116/2783]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2783
 [/us/usc/t17/s114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft17%2Fs114
-[/us/pl/107/321/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F321%2Fs3
+[/us/pl/107/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F321
 [/us/stat/116/2781]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2781
 [/us/usc/t17/s114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft17%2Fs114
 [/us/usc/t17/s112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft17%2Fs112
 [/us/usc/t17/s114/f/5/E/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft17%2Fs114%2Ff%2F5%2FE%2Fi
 [/us/usc/t17/s114/f/5/E/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft17%2Fs114%2Ff%2F5%2FE%2Fiii
-[/us/pl/107/321/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F321%2Fs6
+[/us/pl/107/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F321
 [/us/stat/116/2785]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2785
 [/us/usc/t17/s114/f/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft17%2Fs114%2Ff%2F5%2FA
 

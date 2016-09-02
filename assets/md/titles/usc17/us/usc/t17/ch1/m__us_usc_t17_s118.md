@@ -45,7 +45,7 @@
 
     (f) As used in this section, the term “public broadcasting entity” means a noncommercial educational broadcast station as defined in [section 397 of title 47][/us/usc/t47/s397] and any nonprofit institution or organization engaged in the activities described in paragraph (2) of subsection (c).
 
-([Pub. L. 94–553, title I, § 101][/us/pl/94/553/s101], Oct. 19, 1976, [90 Stat. 2565][/us/stat/90/2565]; [Pub. L. 103–198, § 4][/us/pl/103/198/s4], Dec. 17, 1993, [107 Stat. 2309][/us/stat/107/2309]; [Pub. L. 106–44, § 1(g)(3)][/us/pl/106/44/s1/g/3], Aug. 5, 1999, [113 Stat. 222][/us/stat/113/222]; [Pub. L. 107–273, div. C, title III, § 13210(7)][/us/pl/107/273/s13210/7], Nov. 2, 2002, [116 Stat. 1909][/us/stat/116/1909]; [Pub. L. 108–419, § 5(f)][/us/pl/108/419/s5/f], Nov. 30, 2004, [118 Stat. 2365][/us/stat/118/2365]; [Pub. L. 109–303, § 4(d)][/us/pl/109/303/s4/d], Oct. 6, 2006, [120 Stat. 1482][/us/stat/120/1482].)
+([Pub. L. 94–553, title I][/us/pl/94/553/tI], § 101, Oct. 19, 1976, [90 Stat. 2565][/us/stat/90/2565]; [Pub. L. 103–198][/us/pl/103/198], § 4, Dec. 17, 1993, [107 Stat. 2309][/us/stat/107/2309]; [Pub. L. 106–44][/us/pl/106/44], § 1(g)(3), Aug. 5, 1999, [113 Stat. 222][/us/stat/113/222]; [Pub. L. 107–273, div. C, title III][/us/pl/107/273/dC/tIII], § 13210(7), Nov. 2, 2002, [116 Stat. 1909][/us/stat/116/1909]; [Pub. L. 108–419][/us/pl/108/419], § 5(f), Nov. 30, 2004, [118 Stat. 2365][/us/stat/118/2365]; [Pub. L. 109–303][/us/pl/109/303], § 4(d), Oct. 6, 2006, [120 Stat. 1482][/us/stat/120/1482].)
 
  __Historical and Revision Notes__ 
 
@@ -97,57 +97,57 @@
 
  __References in Text__ 
 
-    Subsection (d), referred to in subsec. (a), was redesignated as subsection (c) of this section by [Pub. L. 108–419, § 5(f)(2)][/us/pl/108/419/s5/f/2], Nov. 30, 2004, [118 Stat. 2366][/us/stat/118/2366].
+    Subsection (d), referred to in subsec. (a), was redesignated as subsection (c) of this section by [Pub. L. 108–419][/us/pl/108/419], § 5(f)(2), Nov. 30, 2004, [118 Stat. 2366][/us/stat/118/2366].
 
  __Amendments__ 
 
-    2006—Subsec. (b)(3). [Pub. L. 109–303, § 4(d)(1)][/us/pl/109/303/s4/d/1], substituted “owners of copyright in works” for “copyright owners in works”.
+    2006—Subsec. (b)(3). [Pub. L. 109–303][/us/pl/109/303], § 4(d)(1), substituted “owners of copyright in works” for “copyright owners in works”.
 
-    Subsec. (c). [Pub. L. 109–303, § 4(d)(2)][/us/pl/109/303/s4/d/2], substituted “established by the Copyright Royalty Judges under subsection (b)(4), engage” for “established by the Copyright Royalty Judges under subsection (b)(4), to the extent that they were accepted by the Librarian of Congress, engage” in introductory provisions and “(f)” for “(g)” in par. (1).
+    Subsec. (c). [Pub. L. 109–303][/us/pl/109/303], § 4(d)(2), substituted “established by the Copyright Royalty Judges under subsection (b)(4), engage” for “established by the Copyright Royalty Judges under subsection (b)(4), to the extent that they were accepted by the Librarian of Congress, engage” in introductory provisions and “(f)” for “(g)” in par. (1).
 
-    2004—Subsec. (b)(1). [Pub. L. 108–419, § 5(f)(1)(A)][/us/pl/108/419/s5/f/1/A], substituted “Copyright Royalty Judges” for “Librarian of Congress” in first sentence and struck out at end “The Librarian of Congress shall proceed on the basis of the proposals submitted as well as any other relevant information. The Librarian of Congress shall permit any interested party to submit information relevant to such proceedings.”
+    2004—Subsec. (b)(1). [Pub. L. 108–419][/us/pl/108/419], § 5(f)(1)(A), substituted “Copyright Royalty Judges” for “Librarian of Congress” in first sentence and struck out at end “The Librarian of Congress shall proceed on the basis of the proposals submitted as well as any other relevant information. The Librarian of Congress shall permit any interested party to submit information relevant to such proceedings.”
 
-    Subsec. (b)(2). [Pub. L. 108–419, § 5(f)(1)(B)][/us/pl/108/419/s5/f/1/B], substituted “Librarian of Congress or the Copyright Royalty Judges, if copies of such agreements are filed with the Copyright Royalty Judges within 30 days of execution in accordance with regulations that the Copyright Royalty Judges shall issue” for “Librarian of Congress: Provided, That copies of such agreements are filed in the Copyright Office within thirty days of execution in accordance with regulations that the Register of Copyrights shall prescribe”.
+    Subsec. (b)(2). [Pub. L. 108–419][/us/pl/108/419], § 5(f)(1)(B), substituted “Librarian of Congress or the Copyright Royalty Judges, if copies of such agreements are filed with the Copyright Royalty Judges within 30 days of execution in accordance with regulations that the Copyright Royalty Judges shall issue” for “Librarian of Congress: Provided, That copies of such agreements are filed in the Copyright Office within thirty days of execution in accordance with regulations that the Register of Copyrights shall prescribe”.
 
-    Subsec. (b)(3), (4). [Pub. L. 108–419, § 5(f)(1)(C)][/us/pl/108/419/s5/f/1/C], added pars. (3) and (4), redesignated second and third sentences of former par. (3) as second and third sentences of par. (4), substituted “Copyright Royalty Judges” for “copyright arbitration royalty panel” and “paragraph (2) or (3)” for “paragraph (2)” in second sentence of par. (4), substituted “Copyright Royalty Judges” for “Librarian of Congress” in last sentence of par. (4), and struck out “(3) In the absence of license agreements negotiated under paragraph (2), the Librarian of Congress shall, pursuant to chapter 8, convene a copyright arbitration royalty panel to determine and publish in the Federal Register a schedule of rates and terms which, subject to paragraph (2), shall be binding on all owners of copyright in works specified by this subsection and public broadcasting entities, regardless of whether such copyright owners have submitted proposals to the Librarian of Congress.”
+    Subsec. (b)(3), (4). [Pub. L. 108–419][/us/pl/108/419], § 5(f)(1)(C), added pars. (3) and (4), redesignated second and third sentences of former par. (3) as second and third sentences of par. (4), substituted “Copyright Royalty Judges” for “copyright arbitration royalty panel” and “paragraph (2) or (3)” for “paragraph (2)” in second sentence of par. (4), substituted “Copyright Royalty Judges” for “Librarian of Congress” in last sentence of par. (4), and struck out “(3) In the absence of license agreements negotiated under paragraph (2), the Librarian of Congress shall, pursuant to chapter 8, convene a copyright arbitration royalty panel to determine and publish in the Federal Register a schedule of rates and terms which, subject to paragraph (2), shall be binding on all owners of copyright in works specified by this subsection and public broadcasting entities, regardless of whether such copyright owners have submitted proposals to the Librarian of Congress.”
 
-    Subsec. (c). [Pub. L. 108–419, § 5(f)(3)(C)][/us/pl/108/419/s5/f/3/C], which directed substitution of “the Copyright Royalty Judges under subsection (b)(3), to the extent that they were accepted by the Librarian of Congress” for “a copyright arbitration royalty panel under subsection (b)(3)” in introductory provisions, was executed before the amendment by [Pub. L. 108–419, § 5(f)(3)(B)][/us/pl/108/419/s5/f/3/B], to reflect the probable intent of Congress. See below.
+    Subsec. (c). [Pub. L. 108–419][/us/pl/108/419], § 5(f)(3)(C), which directed substitution of “the Copyright Royalty Judges under subsection (b)(3), to the extent that they were accepted by the Librarian of Congress” for “a copyright arbitration royalty panel under subsection (b)(3)” in introductory provisions, was executed before the amendment by [Pub. L. 108–419][/us/pl/108/419], § 5(f)(3)(B), to reflect the probable intent of Congress. See below.
 
-    [Pub. L. 108–419, § 5(f)(3)(B)][/us/pl/108/419/s5/f/3/B], substituted “(b)(4)” for “(b)(3)” in introductory provisions. See above.
+    [Pub. L. 108–419][/us/pl/108/419], § 5(f)(3)(B), substituted “(b)(4)” for “(b)(3)” in introductory provisions. See above.
 
-    [Pub. L. 108–419, § 5(f)(3)(A)][/us/pl/108/419/s5/f/3/A], substituted “(b)(2) or (3)” for “(b)(2)” in introductory provisions.
+    [Pub. L. 108–419][/us/pl/108/419], § 5(f)(3)(A), substituted “(b)(2) or (3)” for “(b)(2)” in introductory provisions.
 
-    [Pub. L. 108–419, § 5(f)(2)][/us/pl/108/419/s5/f/2], redesignated subsec. (d) as (c) and struck out former subsec. (c) which read as follows: “The initial procedure specified in subsection (b) shall be repeated and concluded between June 30 and December 31, 1997, and at five-year intervals thereafter, in accordance with regulations that the Librarian of Congress shall prescribe.”
+    [Pub. L. 108–419][/us/pl/108/419], § 5(f)(2), redesignated subsec. (d) as (c) and struck out former subsec. (c) which read as follows: “The initial procedure specified in subsection (b) shall be repeated and concluded between June 30 and December 31, 1997, and at five-year intervals thereafter, in accordance with regulations that the Librarian of Congress shall prescribe.”
 
-    Subsec. (d). [Pub. L. 108–419, § 5(f)(2)][/us/pl/108/419/s5/f/2], (4), redesignated subsec. (e) as (d) and substituted “with the Copyright Royalty Judges” for “in the Copyright Office” and “Copyright Royalty Judges shall prescribe as provided in section 803(b)(6)” for “Register of Copyrights shall prescribe”. Former subsec. (d) redesignated (c).
+    Subsec. (d). [Pub. L. 108–419][/us/pl/108/419], § 5(f)(2), (4), redesignated subsec. (e) as (d) and substituted “with the Copyright Royalty Judges” for “in the Copyright Office” and “Copyright Royalty Judges shall prescribe as provided in section 803(b)(6)” for “Register of Copyrights shall prescribe”. Former subsec. (d) redesignated (c).
 
-    Subsec. (e). [Pub. L. 108–419, § 5(f)(2)][/us/pl/108/419/s5/f/2], redesignated subsec. (f) as (e). Former subsec. (e) redesignated (d).
+    Subsec. (e). [Pub. L. 108–419][/us/pl/108/419], § 5(f)(2), redesignated subsec. (f) as (e). Former subsec. (e) redesignated (d).
 
-    Subsec. (f). [Pub. L. 108–419, § 5(f)(2)][/us/pl/108/419/s5/f/2], (5), redesignated subsec. (g) as (f) and substituted “(c)” for “(d)”. Former subsec. (f) redesignated (e).
+    Subsec. (f). [Pub. L. 108–419][/us/pl/108/419], § 5(f)(2), (5), redesignated subsec. (g) as (f) and substituted “(c)” for “(d)”. Former subsec. (f) redesignated (e).
 
-    Subsec. (g). [Pub. L. 108–419, § 5(f)(2)][/us/pl/108/419/s5/f/2], redesignated subsec. (g) as (f).
+    Subsec. (g). [Pub. L. 108–419][/us/pl/108/419], § 5(f)(2), redesignated subsec. (g) as (f).
 
     2002—Subsec. (b)(1). [Pub. L. 107–273][/us/pl/107/273] struck out “to it” after “proposals submitted” in second sentence.
 
     1999—Subsec. (e). [Pub. L. 106–44][/us/pl/106/44] struck out “(1)” before “Owners of” and struck out par. (2) which read as follows: “On January 3, 1980, the Register of Copyrights, after consulting with authors and other owners of copyright in nondramatic literary works and their representatives, and with public broadcasting entities and their representatives, shall submit to the Congress a report setting forth the extent to which voluntary licensing arrangements have been reached with respect to the use of nondramatic literary works by such broadcast stations. The report should also describe any problems that may have arisen, and present legislative or other recommendations, if warranted.”
 
-    1993—Subsec. (b). [Pub. L. 103–198, § 4(1)(A)][/us/pl/103/198/s4/1/A], (B), struck out first two sentences which read as follows: “Not later than thirty days after the Copyright Royalty Tribunal has been constituted in accordance with section 802, the Chairman of the Tribunal shall cause notice to be published in the Federal Register of the initiation of proceedings for the purpose of determining reasonable terms and rates of royalty payments for the activities specified by subsection (d) with respect to published nondramatic musical works and published pictorial, graphic, and sculptural works during a period beginning as provided in clause (3) of this subsection and ending on December 31, 1982. Copyright owners and public broadcasting entities shall negotiate in good faith and cooperate fully with the Tribunal in an effort to reach reasonable and expeditious results.”, and in third sentence substituted “published nondramatic musical works and published pictorial, graphic, and sculptural works” for “works specified by this subsection”.
+    1993—Subsec. (b). [Pub. L. 103–198][/us/pl/103/198], § 4(1)(A), (B), struck out first two sentences which read as follows: “Not later than thirty days after the Copyright Royalty Tribunal has been constituted in accordance with section 802, the Chairman of the Tribunal shall cause notice to be published in the Federal Register of the initiation of proceedings for the purpose of determining reasonable terms and rates of royalty payments for the activities specified by subsection (d) with respect to published nondramatic musical works and published pictorial, graphic, and sculptural works during a period beginning as provided in clause (3) of this subsection and ending on December 31, 1982. Copyright owners and public broadcasting entities shall negotiate in good faith and cooperate fully with the Tribunal in an effort to reach reasonable and expeditious results.”, and in third sentence substituted “published nondramatic musical works and published pictorial, graphic, and sculptural works” for “works specified by this subsection”.
 
-    Subsec. (b)(1). [Pub. L. 103–198, § 4(1)(C)][/us/pl/103/198/s4/1/C], struck out “, within one hundred and twenty days after publication of the notice specified in this subsection,” after “broadcasting entity may” and substituted “Librarian of Congress” for “Copyright Royalty Tribunal” wherever appearing.
+    Subsec. (b)(1). [Pub. L. 103–198][/us/pl/103/198], § 4(1)(C), struck out “, within one hundred and twenty days after publication of the notice specified in this subsection,” after “broadcasting entity may” and substituted “Librarian of Congress” for “Copyright Royalty Tribunal” wherever appearing.
 
-    Subsec. (b)(2). [Pub. L. 103–198, § 4(1)(D)][/us/pl/103/198/s4/1/D], substituted “Librarian of Congress” for “Tribunal”.
+    Subsec. (b)(2). [Pub. L. 103–198][/us/pl/103/198], § 4(1)(D), substituted “Librarian of Congress” for “Tribunal”.
 
-    Subsec. (b)(3). [Pub. L. 103–198, § 4(1)(E)(ii)][/us/pl/103/198/s4/1/E/ii], (iii), in second sentence, substituted “copyright arbitration royalty panel” for “Copyright Royalty Tribunal” and “paragraph (2)” for “clause (2) of this subsection”, and in last sentence, substituted “Librarian of Congress” for “Copyright Royalty Tribunal”.
+    Subsec. (b)(3). [Pub. L. 103–198][/us/pl/103/198], § 4(1)(E)(ii), (iii), in second sentence, substituted “copyright arbitration royalty panel” for “Copyright Royalty Tribunal” and “paragraph (2)” for “clause (2) of this subsection”, and in last sentence, substituted “Librarian of Congress” for “Copyright Royalty Tribunal”.
 
-    [Pub. L. 103–198, § 4(1)(E)(i)][/us/pl/103/198/s4/1/E/i], substituted first sentence for former first sentence which read as follows: “Within six months, but not earlier than one hundred and twenty days, from the date of publication of the notice specified in this subsection the Copyright Royalty Tribunal shall make a determination and publish in the Federal Register a schedule of rates and terms which, subject to clause (2) of this subsection, shall be binding on all owners of copyright in works specified by this subsection and public broadcasting entities, regardless of whether or not such copyright owners and public broadcasting entities have submitted proposals to the Tribunal.”
+    [Pub. L. 103–198][/us/pl/103/198], § 4(1)(E)(i), substituted first sentence for former first sentence which read as follows: “Within six months, but not earlier than one hundred and twenty days, from the date of publication of the notice specified in this subsection the Copyright Royalty Tribunal shall make a determination and publish in the Federal Register a schedule of rates and terms which, subject to clause (2) of this subsection, shall be binding on all owners of copyright in works specified by this subsection and public broadcasting entities, regardless of whether or not such copyright owners and public broadcasting entities have submitted proposals to the Tribunal.”
 
-    Subsec. (b)(4). [Pub. L. 103–198, § 4(1)(F)][/us/pl/103/198/s4/1/F], struck out par. (4) which read as follows: “With respect to the period beginning on the effective date of this title and ending on the date of publication of such rates and terms, this title shall not afford to owners of copyright or public broadcasting entities any greater or lesser rights with respect to the activities specified in subsection (d) as applied to works specified in this subsection than those afforded under the law in effect on December 31, 1977, as held applicable and construed by a court in an action brought under this title.”
+    Subsec. (b)(4). [Pub. L. 103–198][/us/pl/103/198], § 4(1)(F), struck out par. (4) which read as follows: “With respect to the period beginning on the effective date of this title and ending on the date of publication of such rates and terms, this title shall not afford to owners of copyright or public broadcasting entities any greater or lesser rights with respect to the activities specified in subsection (d) as applied to works specified in this subsection than those afforded under the law in effect on December 31, 1977, as held applicable and construed by a court in an action brought under this title.”
 
-    Subsec. (c). [Pub. L. 103–198, § 4(2)][/us/pl/103/198/s4/2], substituted “1997” for “1982” and “Librarian of Congress” for “Copyright Royalty Tribunal”.
+    Subsec. (c). [Pub. L. 103–198][/us/pl/103/198], § 4(2), substituted “1997” for “1982” and “Librarian of Congress” for “Copyright Royalty Tribunal”.
 
-    Subsec. (d). [Pub. L. 103–198, § 4(3)][/us/pl/103/198/s4/3], in introductory provisions, struck out “to the transitional provisions of subsection (b)(4), and” after “Subject” and substituted “a copyright arbitration royalty panel” for “the Copyright Royalty Tribunal”, and in pars. (2) and (3), substituted “paragraph” for “clause” wherever appearing.
+    Subsec. (d). [Pub. L. 103–198][/us/pl/103/198], § 4(3), in introductory provisions, struck out “to the transitional provisions of subsection (b)(4), and” after “Subject” and substituted “a copyright arbitration royalty panel” for “the Copyright Royalty Tribunal”, and in pars. (2) and (3), substituted “paragraph” for “clause” wherever appearing.
 
-    Subsec. (g). [Pub. L. 103–198, § 4(4)][/us/pl/103/198/s4/4], substituted “paragraph” for “clause”.
+    Subsec. (g). [Pub. L. 103–198][/us/pl/103/198], § 4(4), substituted “paragraph” for “clause”.
 
  __Effective Date of 2006 Amendment__ 
 
@@ -169,48 +169,48 @@
 ----------
 
 [/us/usc/t47/s397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs397
-[/us/pl/94/553/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F553%2Fs101
+[/us/pl/94/553/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F553%2FtI
 [/us/stat/90/2565]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2565
-[/us/pl/103/198/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F198%2Fs4
+[/us/pl/103/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F198
 [/us/stat/107/2309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2309
-[/us/pl/106/44/s1/g/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F44%2Fs1%2Fg%2F3
+[/us/pl/106/44]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F44
 [/us/stat/113/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F222
-[/us/pl/107/273/s13210/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs13210%2F7
+[/us/pl/107/273/dC/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdC%2FtIII
 [/us/stat/116/1909]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1909
-[/us/pl/108/419/s5/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F419%2Fs5%2Ff
+[/us/pl/108/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F419
 [/us/stat/118/2365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2365
-[/us/pl/109/303/s4/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F303%2Fs4%2Fd
+[/us/pl/109/303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F303
 [/us/stat/120/1482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1482
 [/us/usc/t47/s390]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs390
 [/us/usc/t47/s390]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs390
 [/us/usc/t15/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1
-[/us/pl/108/419/s5/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F419%2Fs5%2Ff%2F2
+[/us/pl/108/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F419
 [/us/stat/118/2366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2366
-[/us/pl/109/303/s4/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F303%2Fs4%2Fd%2F1
-[/us/pl/109/303/s4/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F303%2Fs4%2Fd%2F2
-[/us/pl/108/419/s5/f/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F419%2Fs5%2Ff%2F1%2FA
-[/us/pl/108/419/s5/f/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F419%2Fs5%2Ff%2F1%2FB
-[/us/pl/108/419/s5/f/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F419%2Fs5%2Ff%2F1%2FC
-[/us/pl/108/419/s5/f/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F419%2Fs5%2Ff%2F3%2FC
-[/us/pl/108/419/s5/f/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F419%2Fs5%2Ff%2F3%2FB
-[/us/pl/108/419/s5/f/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F419%2Fs5%2Ff%2F3%2FB
-[/us/pl/108/419/s5/f/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F419%2Fs5%2Ff%2F3%2FA
-[/us/pl/108/419/s5/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F419%2Fs5%2Ff%2F2
-[/us/pl/108/419/s5/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F419%2Fs5%2Ff%2F2
-[/us/pl/108/419/s5/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F419%2Fs5%2Ff%2F2
-[/us/pl/108/419/s5/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F419%2Fs5%2Ff%2F2
-[/us/pl/108/419/s5/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F419%2Fs5%2Ff%2F2
+[/us/pl/109/303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F303
+[/us/pl/109/303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F303
+[/us/pl/108/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F419
+[/us/pl/108/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F419
+[/us/pl/108/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F419
+[/us/pl/108/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F419
+[/us/pl/108/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F419
+[/us/pl/108/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F419
+[/us/pl/108/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F419
+[/us/pl/108/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F419
+[/us/pl/108/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F419
+[/us/pl/108/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F419
+[/us/pl/108/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F419
+[/us/pl/108/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F419
 [/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
 [/us/pl/106/44]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F44
-[/us/pl/103/198/s4/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F198%2Fs4%2F1%2FA
-[/us/pl/103/198/s4/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F198%2Fs4%2F1%2FC
-[/us/pl/103/198/s4/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F198%2Fs4%2F1%2FD
-[/us/pl/103/198/s4/1/E/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F198%2Fs4%2F1%2FE%2Fii
-[/us/pl/103/198/s4/1/E/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F198%2Fs4%2F1%2FE%2Fi
-[/us/pl/103/198/s4/1/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F198%2Fs4%2F1%2FF
-[/us/pl/103/198/s4/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F198%2Fs4%2F2
-[/us/pl/103/198/s4/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F198%2Fs4%2F3
-[/us/pl/103/198/s4/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F198%2Fs4%2F4
+[/us/pl/103/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F198
+[/us/pl/103/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F198
+[/us/pl/103/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F198
+[/us/pl/103/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F198
+[/us/pl/103/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F198
+[/us/pl/103/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F198
+[/us/pl/103/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F198
+[/us/pl/103/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F198
+[/us/pl/103/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F198
 [/us/pl/109/303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F303
 [/us/pl/108/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F419
 [/us/pl/109/303/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F303%2Fs6

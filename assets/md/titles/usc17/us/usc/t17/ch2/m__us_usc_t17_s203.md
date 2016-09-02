@@ -61,7 +61,7 @@
 
         (6) Unless and until termination is effected under this section, the grant, if it does not provide otherwise, continues in effect for the term of copyright provided by this title.
 
-([Pub. L. 94–553, title I, § 101][/us/pl/94/553/s101], Oct. 19, 1976, [90 Stat. 2569][/us/stat/90/2569]; [Pub. L. 105–298, title I, § 103][/us/pl/105/298/s103], Oct. 27, 1998, [112 Stat. 2829][/us/stat/112/2829]; [Pub. L. 107–273, div. C, title III, § 13210(9)][/us/pl/107/273/s13210/9], Nov. 2, 2002, [116 Stat. 1909][/us/stat/116/1909].)
+([Pub. L. 94–553, title I][/us/pl/94/553/tI], § 101, Oct. 19, 1976, [90 Stat. 2569][/us/stat/90/2569]; [Pub. L. 105–298, title I][/us/pl/105/298/tI], § 103, Oct. 27, 1998, [112 Stat. 2829][/us/stat/112/2829]; [Pub. L. 107–273, div. C, title III][/us/pl/107/273/dC/tIII], § 13210(9), Nov. 2, 2002, [116 Stat. 1909][/us/stat/116/1909].)
 
  __Historical and Revision Notes__ 
 
@@ -109,9 +109,9 @@ As an example of how these time-limit requirements would operate in practice, we
 
     2002—Subsec. (a)(2)(A) to (C). [Pub. L. 107–273][/us/pl/107/273], in subpars. (A) to (C), substituted “The” for “the” and, in subpars. (A) and (B), substituted period for semicolon at end.
 
-    1998—Subsec. (a)(2). [Pub. L. 105–298, § 103(1)][/us/pl/105/298/s103/1], struck out “by his widow or her widower and his or her children or grandchildren” after “exercised,” in introductory provisions.
+    1998—Subsec. (a)(2). [Pub. L. 105–298][/us/pl/105/298], § 103(1), struck out “by his widow or her widower and his or her children or grandchildren” after “exercised,” in introductory provisions.
 
-    Subsec. (a)(2)(D). [Pub. L. 105–298, § 103(2)][/us/pl/105/298/s103/2], added subpar. (D).
+    Subsec. (a)(2)(D). [Pub. L. 105–298][/us/pl/105/298], § 103(2), added subpar. (D).
 
 ----------
 
@@ -120,14 +120,14 @@ As an example of how these time-limit requirements would operate in practice, we
 ----------
 ----------
 
-[/us/pl/94/553/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F553%2Fs101
+[/us/pl/94/553/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F553%2FtI
 [/us/stat/90/2569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2569
-[/us/pl/105/298/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F298%2Fs103
+[/us/pl/105/298/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F298%2FtI
 [/us/stat/112/2829]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2829
-[/us/pl/107/273/s13210/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs13210%2F9
+[/us/pl/107/273/dC/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdC%2FtIII
 [/us/stat/116/1909]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1909
 [/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
-[/us/pl/105/298/s103/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F298%2Fs103%2F1
-[/us/pl/105/298/s103/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F298%2Fs103%2F2
+[/us/pl/105/298]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F298
+[/us/pl/105/298]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F298
 
 

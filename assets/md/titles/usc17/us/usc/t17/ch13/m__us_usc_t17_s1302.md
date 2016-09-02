@@ -27,7 +27,7 @@
 
     (5) embodied in a useful article that was made public by the designer or owner in the United States or a foreign country more than 2 years before the date of the application for registration under this chapter.
 
-(Added [Pub. L. 105–304, title V, § 502][/us/pl/105/304/s502], Oct. 28, 1998, [112 Stat. 2906][/us/stat/112/2906]; amended [Pub. L. 106–44, § 1(f)(1)][/us/pl/106/44/s1/f/1], Aug. 5, 1999, [113 Stat. 222][/us/stat/113/222].)
+(Added [Pub. L. 105–304, title V][/us/pl/105/304/tV], § 502, Oct. 28, 1998, [112 Stat. 2906][/us/stat/112/2906]; amended [Pub. L. 106–44][/us/pl/106/44], § 1(f)(1), Aug. 5, 1999, [113 Stat. 222][/us/stat/113/222].)
 
  __Amendments__ 
 
@@ -40,9 +40,9 @@
 ----------
 ----------
 
-[/us/pl/105/304/s502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F304%2Fs502
+[/us/pl/105/304/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F304%2FtV
 [/us/stat/112/2906]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2906
-[/us/pl/106/44/s1/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F44%2Fs1%2Ff%2F1
+[/us/pl/106/44]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F44
 [/us/stat/113/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F222
 [/us/pl/106/44]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F44
 

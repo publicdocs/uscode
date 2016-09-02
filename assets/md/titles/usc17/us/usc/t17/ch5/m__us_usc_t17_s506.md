@@ -71,7 +71,7 @@
 
     Nothing in this section applies to infringement of the rights conferred by section 106A(a).
 
-([Pub. L. 94–553, title I, § 101][/us/pl/94/553/s101], Oct. 19, 1976, [90 Stat. 2586][/us/stat/90/2586]; [Pub. L. 97–180, § 5][/us/pl/97/180/s5], May 24, 1982, [96 Stat. 93][/us/stat/96/93]; [Pub. L. 101–650, title VI, § 606(b)][/us/pl/101/650/s606/b], Dec. 1, 1990, [104 Stat. 5131][/us/stat/104/5131]; [Pub. L. 105–147, § 2(b)][/us/pl/105/147/s2/b], Dec. 16, 1997, [111 Stat. 2678][/us/stat/111/2678]; [Pub. L. 109–9, title I, § 103(a)][/us/pl/109/9/s103/a], Apr. 27, 2005, [119 Stat. 220][/us/stat/119/220]; [Pub. L. 110–403, title II, § 201(a)][/us/pl/110/403/s201/a], Oct. 13, 2008, [122 Stat. 4260][/us/stat/122/4260].)
+([Pub. L. 94–553, title I][/us/pl/94/553/tI], § 101, Oct. 19, 1976, [90 Stat. 2586][/us/stat/90/2586]; [Pub. L. 97–180][/us/pl/97/180], § 5, May 24, 1982, [96 Stat. 93][/us/stat/96/93]; [Pub. L. 101–650, title VI][/us/pl/101/650/tVI], § 606(b), Dec. 1, 1990, [104 Stat. 5131][/us/stat/104/5131]; [Pub. L. 105–147][/us/pl/105/147], § 2(b), Dec. 16, 1997, [111 Stat. 2678][/us/stat/111/2678]; [Pub. L. 109–9, title I][/us/pl/109/9/tI], § 103(a), Apr. 27, 2005, [119 Stat. 220][/us/stat/119/220]; [Pub. L. 110–403, title II][/us/pl/110/403/tII], § 201(a), Oct. 13, 2008, [122 Stat. 4260][/us/stat/122/4260].)
 
  __Historical and Revision Notes__ 
 
@@ -114,17 +114,17 @@ Four types of criminal offenses actionable under the bill are listed in section 
 
 [/us/usc/t18/s2319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2319
 [/us/usc/t18/s2323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2323
-[/us/pl/94/553/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F553%2Fs101
+[/us/pl/94/553/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F553%2FtI
 [/us/stat/90/2586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2586
-[/us/pl/97/180/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F180%2Fs5
+[/us/pl/97/180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F180
 [/us/stat/96/93]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F93
-[/us/pl/101/650/s606/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2Fs606%2Fb
+[/us/pl/101/650/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2FtVI
 [/us/stat/104/5131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F5131
-[/us/pl/105/147/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F147%2Fs2%2Fb
+[/us/pl/105/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F147
 [/us/stat/111/2678]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2678
-[/us/pl/109/9/s103/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F9%2Fs103%2Fa
+[/us/pl/109/9/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F9%2FtI
 [/us/stat/119/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F220
-[/us/pl/110/403/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F403%2Fs201%2Fa
+[/us/pl/110/403/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F403%2FtII
 [/us/stat/122/4260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4260
 [/us/pl/110/403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F403
 [/us/pl/109/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F9

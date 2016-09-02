@@ -33,7 +33,7 @@
 
     Where copies or phonorecords publicly distributed before the effective date of the Berne Convention Implementation Act of 1988 by authority of the copyright owner contain no name or no date that could reasonably be considered a part of the notice, the work is considered to have been published without any notice and is governed by the provisions of section 405 as in effect on the day before the effective date of the Berne Convention Implementation Act of 1988.
 
-([Pub. L. 94–553, title I, § 101][/us/pl/94/553/s101], Oct. 19, 1976, [90 Stat. 2578][/us/stat/90/2578]; [Pub. L. 100–568, § 7(f)][/us/pl/100/568/s7/f], Oct. 31, 1988, [102 Stat. 2858][/us/stat/102/2858].)
+([Pub. L. 94–553, title I][/us/pl/94/553/tI], § 101, Oct. 19, 1976, [90 Stat. 2578][/us/stat/90/2578]; [Pub. L. 100–568][/us/pl/100/568], § 7(f), Oct. 31, 1988, [102 Stat. 2858][/us/stat/102/2858].)
 
  __Historical and Revision Notes__ 
 
@@ -57,13 +57,13 @@
 
  __Amendments__ 
 
-    1988—[Pub. L. 100–568, § 7(f)(4)][/us/pl/100/568/s7/f/4], substituted “date on certain copies and phonorecords” for “date” in section catchline.
+    1988—[Pub. L. 100–568][/us/pl/100/568], § 7(f)(4), substituted “date on certain copies and phonorecords” for “date” in section catchline.
 
-    Subsec. (a). [Pub. L. 100–568, § 7(f)(1)][/us/pl/100/568/s7/f/1], substituted “With respect to copies and phonorecords publicly distributed by authority of the copyright owner before the effective date of the Berne Convention Implementation Act of 1988, where” for “Where”.
+    Subsec. (a). [Pub. L. 100–568][/us/pl/100/568], § 7(f)(1), substituted “With respect to copies and phonorecords publicly distributed by authority of the copyright owner before the effective date of the Berne Convention Implementation Act of 1988, where” for “Where”.
 
-    Subsec. (b). [Pub. L. 100–568, § 7(f)(2)][/us/pl/100/568/s7/f/2], inserted “before the effective date of the Berne Convention Implementation Act of 1988” after “distributed”.
+    Subsec. (b). [Pub. L. 100–568][/us/pl/100/568], § 7(f)(2), inserted “before the effective date of the Berne Convention Implementation Act of 1988” after “distributed”.
 
-    Subsec. (c). [Pub. L. 100–568, § 7(f)(3)][/us/pl/100/568/s7/f/3], inserted “before the effective date of the Berne Convention Implementation Act of 1988” after “publicly distributed” and “as in effect on the day before the effective date of the Berne Convention Implementation Act of 1988” after “section 405”.
+    Subsec. (c). [Pub. L. 100–568][/us/pl/100/568], § 7(f)(3), inserted “before the effective date of the Berne Convention Implementation Act of 1988” after “publicly distributed” and “as in effect on the day before the effective date of the Berne Convention Implementation Act of 1988” after “section 405”.
 
  __Effective Date of 1988 Amendment__ 
 
@@ -76,16 +76,16 @@
 ----------
 ----------
 
-[/us/pl/94/553/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F553%2Fs101
+[/us/pl/94/553/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F553%2FtI
 [/us/stat/90/2578]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2578
-[/us/pl/100/568/s7/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F568%2Fs7%2Ff
+[/us/pl/100/568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F568
 [/us/stat/102/2858]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2858
 [/us/pl/100/568/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F568%2Fs13
 [/us/usc/t17/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft17%2Fs101
-[/us/pl/100/568/s7/f/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F568%2Fs7%2Ff%2F4
-[/us/pl/100/568/s7/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F568%2Fs7%2Ff%2F1
-[/us/pl/100/568/s7/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F568%2Fs7%2Ff%2F2
-[/us/pl/100/568/s7/f/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F568%2Fs7%2Ff%2F3
+[/us/pl/100/568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F568
+[/us/pl/100/568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F568
+[/us/pl/100/568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F568
+[/us/pl/100/568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F568
 [/us/pl/100/568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F568
 [/us/pl/100/568/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F568%2Fs13
 [/us/usc/t17/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft17%2Fs101

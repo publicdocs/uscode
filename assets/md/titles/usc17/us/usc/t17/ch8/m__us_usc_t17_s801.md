@@ -125,27 +125,27 @@
 
     On and after the date of the enactment of the Copyright Royalty and Distribution Reform Act of 2004, in any case in which time limits are prescribed under this title for performance of an action with or by the Copyright Royalty Judges, and in which the last day of the prescribed period falls on a Saturday, Sunday, holiday, or other nonbusiness day within the District of Columbia or the Federal Government, the action may be taken on the next succeeding business day, and is effective as of the date when the period expired.
 
-(Added [Pub. L. 108–419, § 3(a)][/us/pl/108/419/s3/a], Nov. 30, 2004, [118 Stat. 2341][/us/stat/118/2341]; amended [Pub. L. 109–303][/us/pl/109/303], §§ 3(1), (2), 5, Oct. 6, 2006, [120 Stat. 1478][/us/stat/120/1478], 1483.)
+(Added [Pub. L. 108–419][/us/pl/108/419], § 3(a), Nov. 30, 2004, [118 Stat. 2341][/us/stat/118/2341]; amended [Pub. L. 109–303][/us/pl/109/303], §§ 3(1), (2), 5, Oct. 6, 2006, [120 Stat. 1478][/us/stat/120/1478], 1483.)
 
  __References in Text__ 
 
-    [Section 111(d)(1)(D) of this title][/us/usc/t17/s111/d/1/D], referred to in subsec. (b)(2)(D), was amended generally by [Pub. L. 111–175, title I, § 104(c)(1)(C)][/us/pl/111/175/s104/c/1/C], May 27, 2010, [124 Stat. 1232][/us/stat/124/1232], and, as so amended, no longer relates to gross receipts limitations.
+    [Section 111(d)(1)(D) of this title][/us/usc/t17/s111/d/1/D], referred to in subsec. (b)(2)(D), was amended generally by [Pub. L. 111–175, title I][/us/pl/111/175/tI], § 104(c)(1)(C), May 27, 2010, [124 Stat. 1232][/us/stat/124/1232], and, as so amended, no longer relates to gross receipts limitations.
 
     The date of the enactment of the Copyright Royalty and Distribution Reform Act of 2004, referred to in subsec. (f), is the date of the enactment of [Pub. L. 108–419][/us/pl/108/419], which was approved Nov. 30, 2004.
 
  __Prior Provisions__ 
 
-    A prior section 801, [Pub. L. 94–553, title I, § 101][/us/pl/94/553/s101], Oct. 19, 1976, [90 Stat. 2594][/us/stat/90/2594]; [Pub. L. 99–397, § 2(c)][/us/pl/99/397/s2/c], (d), Aug. 27, 1986, [100 Stat. 848][/us/stat/100/848]; [Pub. L. 100–568, § 11(1)][/us/pl/100/568/s11/1], Oct. 31, 1988, [102 Stat. 2860][/us/stat/102/2860]; [Pub. L. 100–667, title II, § 202(4)][/us/pl/100/667/s202/4], Nov. 16, 1988, [102 Stat. 3958][/us/stat/102/3958]; [Pub. L. 101–318, § 3(b)][/us/pl/101/318/s3/b], July 3, 1990, [104 Stat. 288][/us/stat/104/288]; [Pub. L. 102–563, § 3(a)(1)][/us/pl/102/563/s3/a/1], Oct. 28, 1992, [106 Stat. 4247][/us/stat/106/4247]; [Pub. L. 103–198, § 2(a)][/us/pl/103/198/s2/a], Dec. 17, 1993, [107 Stat. 2304][/us/stat/107/2304]; [Pub. L. 104–39, § 5(d)(1)][/us/pl/104/39/s5/d/1], Nov. 1, 1995, [109 Stat. 348][/us/stat/109/348]; [Pub. L. 105–80][/us/pl/105/80], §§ 8(a), 12(a)(19), Nov. 13, 1997, [111 Stat. 1533][/us/stat/111/1533], 1535; [Pub. L. 105–304, title IV, § 405(e)(1)][/us/pl/105/304/s405/e/1], Oct. 28, 1998, [112 Stat. 2902][/us/stat/112/2902], related to the establishment and purpose of copyright arbitration royalty panels, prior to the general amendment of this chapter by [Pub. L. 108–419][/us/pl/108/419].
+    A prior section 801, [Pub. L. 94–553, title I][/us/pl/94/553/tI], § 101, Oct. 19, 1976, [90 Stat. 2594][/us/stat/90/2594]; [Pub. L. 99–397][/us/pl/99/397], § 2(c), (d), Aug. 27, 1986, [100 Stat. 848][/us/stat/100/848]; [Pub. L. 100–568][/us/pl/100/568], § 11(1), Oct. 31, 1988, [102 Stat. 2860][/us/stat/102/2860]; [Pub. L. 100–667, title II][/us/pl/100/667/tII], § 202(4), Nov. 16, 1988, [102 Stat. 3958][/us/stat/102/3958]; [Pub. L. 101–318][/us/pl/101/318], § 3(b), July 3, 1990, [104 Stat. 288][/us/stat/104/288]; [Pub. L. 102–563][/us/pl/102/563], § 3(a)(1), Oct. 28, 1992, [106 Stat. 4247][/us/stat/106/4247]; [Pub. L. 103–198][/us/pl/103/198], § 2(a), Dec. 17, 1993, [107 Stat. 2304][/us/stat/107/2304]; [Pub. L. 104–39][/us/pl/104/39], § 5(d)(1), Nov. 1, 1995, [109 Stat. 348][/us/stat/109/348]; [Pub. L. 105–80][/us/pl/105/80], §§ 8(a), 12(a)(19), Nov. 13, 1997, [111 Stat. 1533][/us/stat/111/1533], 1535; [Pub. L. 105–304, title IV][/us/pl/105/304/tIV], § 405(e)(1), Oct. 28, 1998, [112 Stat. 2902][/us/stat/112/2902], related to the establishment and purpose of copyright arbitration royalty panels, prior to the general amendment of this chapter by [Pub. L. 108–419][/us/pl/108/419].
 
  __Amendments__ 
 
-    2006—Subsec. (b)(1). [Pub. L. 109–303, § 3(1)][/us/pl/109/303/s3/1], substituted “119, and 1004” for “119 and 1004”.
+    2006—Subsec. (b)(1). [Pub. L. 109–303][/us/pl/109/303], § 3(1), substituted “119, and 1004” for “119 and 1004”.
 
-    Subsec. (b)(3)(C). [Pub. L. 109–303, § 5(1)][/us/pl/109/303/s5/1], added introductory provisions and struck out former introductory provisions which read as follows: “The Copyright Royalty Judges may make a partial distribution of such fees during the pendency of the proceeding under subparagraph (B) if all participants under section 803(b)(2) in the proceeding that are entitled to receive those fees that are to be partially distributed—”.
+    Subsec. (b)(3)(C). [Pub. L. 109–303][/us/pl/109/303], § 5(1), added introductory provisions and struck out former introductory provisions which read as follows: “The Copyright Royalty Judges may make a partial distribution of such fees during the pendency of the proceeding under subparagraph (B) if all participants under section 803(b)(2) in the proceeding that are entitled to receive those fees that are to be partially distributed—”.
 
-    Subsec. (b)(3)(C)(i). [Pub. L. 109–303, § 5(2)][/us/pl/109/303/s5/2], substituted “the” for “such”.
+    Subsec. (b)(3)(C)(i). [Pub. L. 109–303][/us/pl/109/303], § 5(2), substituted “the” for “such”.
 
-    Subsec. (f). [Pub. L. 109–303, § 3(2)][/us/pl/109/303/s3/2], added subsec. (f).
+    Subsec. (f). [Pub. L. 109–303][/us/pl/109/303], § 3(2), added subsec. (f).
 
  __Effective Date of 2006 Amendment__ 
 
@@ -153,7 +153,7 @@
 
  __Effective Date; Transition Provisions__ 
 
-[Pub. L. 108–419, § 6][/us/pl/108/419/s6], Nov. 30, 2004, [118 Stat. 2369][/us/stat/118/2369], as amended by [Pub. L. 109–303, § 4(h)][/us/pl/109/303/s4/h], Oct. 6, 2006, [120 Stat. 1483][/us/stat/120/1483], provided that:
+[Pub. L. 108–419][/us/pl/108/419], § 6, Nov. 30, 2004, [118 Stat. 2369][/us/stat/118/2369], as amended by [Pub. L. 109–303][/us/pl/109/303], § 4(h), Oct. 6, 2006, [120 Stat. 1483][/us/stat/120/1483], provided that:
 
 >     “(a)  __Effective Date__  __.—__ 
 
@@ -188,47 +188,47 @@
 ----------
 ----------
 
-[/us/pl/108/419/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F419%2Fs3%2Fa
+[/us/pl/108/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F419
 [/us/stat/118/2341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2341
 [/us/pl/109/303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F303
 [/us/stat/120/1478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1478
 [/us/usc/t17/s111/d/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft17%2Fs111%2Fd%2F1%2FD
-[/us/pl/111/175/s104/c/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175%2Fs104%2Fc%2F1%2FC
+[/us/pl/111/175/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175%2FtI
 [/us/stat/124/1232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1232
 [/us/pl/108/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F419
-[/us/pl/94/553/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F553%2Fs101
+[/us/pl/94/553/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F553%2FtI
 [/us/stat/90/2594]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2594
-[/us/pl/99/397/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F397%2Fs2%2Fc
+[/us/pl/99/397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F397
 [/us/stat/100/848]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F848
-[/us/pl/100/568/s11/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F568%2Fs11%2F1
+[/us/pl/100/568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F568
 [/us/stat/102/2860]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2860
-[/us/pl/100/667/s202/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F667%2Fs202%2F4
+[/us/pl/100/667/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F667%2FtII
 [/us/stat/102/3958]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3958
-[/us/pl/101/318/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F318%2Fs3%2Fb
+[/us/pl/101/318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F318
 [/us/stat/104/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F288
-[/us/pl/102/563/s3/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F563%2Fs3%2Fa%2F1
+[/us/pl/102/563]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F563
 [/us/stat/106/4247]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4247
-[/us/pl/103/198/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F198%2Fs2%2Fa
+[/us/pl/103/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F198
 [/us/stat/107/2304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2304
-[/us/pl/104/39/s5/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F39%2Fs5%2Fd%2F1
+[/us/pl/104/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F39
 [/us/stat/109/348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F348
 [/us/pl/105/80]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F80
 [/us/stat/111/1533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1533
-[/us/pl/105/304/s405/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F304%2Fs405%2Fe%2F1
+[/us/pl/105/304/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F304%2FtIV
 [/us/stat/112/2902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2902
 [/us/pl/108/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F419
-[/us/pl/109/303/s3/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F303%2Fs3%2F1
-[/us/pl/109/303/s5/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F303%2Fs5%2F1
-[/us/pl/109/303/s5/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F303%2Fs5%2F2
-[/us/pl/109/303/s3/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F303%2Fs3%2F2
+[/us/pl/109/303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F303
+[/us/pl/109/303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F303
+[/us/pl/109/303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F303
+[/us/pl/109/303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F303
 [/us/pl/109/303/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F303%2Fs3
 [/us/pl/108/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F419
 [/us/pl/109/303/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F303%2Fs5
 [/us/pl/109/303/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F303%2Fs6
 [/us/usc/t17/s111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft17%2Fs111
-[/us/pl/108/419/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F419%2Fs6
+[/us/pl/108/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F419
 [/us/stat/118/2369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2369
-[/us/pl/109/303/s4/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F303%2Fs4%2Fh
+[/us/pl/109/303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F303
 [/us/stat/120/1483]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1483
 [/us/usc/t17/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft17%2Fs101
 [/us/usc/t17/s802/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft17%2Fs802%2Fd

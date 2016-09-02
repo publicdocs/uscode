@@ -75,7 +75,7 @@
 
                 In the case of a nonprofit library, archives, educational institution, or public broadcasting entity, the court shall remit damages in any case in which the library, archives, educational institution, or public broadcasting entity sustains the burden of proving, and the court finds, that the library, archives, educational institution, or public broadcasting entity was not aware and had no reason to believe that its acts constituted a violation.
 
-(Added [Pub. L. 105–304, title I, § 103(a)][/us/pl/105/304/s103/a], Oct. 28, 1998, [112 Stat. 2874][/us/stat/112/2874]; amended [Pub. L. 106–113, div. B, § 1000(a)(9)][/us/pl/106/113/s1000/a/9] \[title V, § 5004(a)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–593; [Pub. L. 111–295, § 6(f)(3)][/us/pl/111/295/s6/f/3], Dec. 9, 2010, [124 Stat. 3181][/us/stat/124/3181].)
+(Added [Pub. L. 105–304, title I][/us/pl/105/304/tI], § 103(a), Oct. 28, 1998, [112 Stat. 2874][/us/stat/112/2874]; amended [Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(9) \[title V, § 5004(a)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–593; [Pub. L. 111–295][/us/pl/111/295], § 6(f)(3), Dec. 9, 2010, [124 Stat. 3181][/us/stat/124/3181].)
 
  __Amendments__ 
 
@@ -90,11 +90,11 @@
 ----------
 ----------
 
-[/us/pl/105/304/s103/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F304%2Fs103%2Fa
+[/us/pl/105/304/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F304%2FtI
 [/us/stat/112/2874]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2874
-[/us/pl/106/113/s1000/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F9
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
-[/us/pl/111/295/s6/f/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F295%2Fs6%2Ff%2F3
+[/us/pl/111/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F295
 [/us/stat/124/3181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3181
 [/us/pl/111/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F295
 [/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113

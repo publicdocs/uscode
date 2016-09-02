@@ -27,7 +27,7 @@
 
     The fact that a work is unpublished shall not itself bar a finding of fair use if such finding is made upon consideration of all the above factors.
 
-([Pub. L. 94–553, title I, § 101][/us/pl/94/553/s101], Oct. 19, 1976, [90 Stat. 2546][/us/stat/90/2546]; [Pub. L. 101–650, title VI, § 607][/us/pl/101/650/s607], Dec. 1, 1990, [104 Stat. 5132][/us/stat/104/5132]; [Pub. L. 102–492][/us/pl/102/492], Oct. 24, 1992, [106 Stat. 3145][/us/stat/106/3145].)
+([Pub. L. 94–553, title I][/us/pl/94/553/tI], § 101, Oct. 19, 1976, [90 Stat. 2546][/us/stat/90/2546]; [Pub. L. 101–650, title VI][/us/pl/101/650/tVI], § 607, Dec. 1, 1990, [104 Stat. 5132][/us/stat/104/5132]; [Pub. L. 102–492][/us/pl/102/492], Oct. 24, 1992, [106 Stat. 3145][/us/stat/106/3145].)
 
  __Historical and Revision Notes__ 
 
@@ -252,9 +252,9 @@ During the consideration of the revision bill in the 94th Congress it was propos
 ----------
 ----------
 
-[/us/pl/94/553/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F553%2Fs101
+[/us/pl/94/553/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F553%2FtI
 [/us/stat/90/2546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2546
-[/us/pl/101/650/s607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2Fs607
+[/us/pl/101/650/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2FtVI
 [/us/stat/104/5132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F5132
 [/us/pl/102/492]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F492
 [/us/stat/106/3145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3145

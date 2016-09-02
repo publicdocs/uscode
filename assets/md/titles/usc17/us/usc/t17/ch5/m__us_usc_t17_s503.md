@@ -33,7 +33,7 @@
 
     (b) As part of a final judgment or decree, the court may order the destruction or other reasonable disposition of all copies or phonorecords found to have been made or used in violation of the copyright owner’s exclusive rights, and of all plates, molds, matrices, masters, tapes, film negatives, or other articles by means of which such copies or phonorecords may be reproduced.
 
-([Pub. L. 94–553, title I, § 101][/us/pl/94/553/s101], Oct. 19, 1976, [90 Stat. 2585][/us/stat/90/2585]; [Pub. L. 110–403, title I, § 102(a)][/us/pl/110/403/s102/a], Oct. 13, 2008, [122 Stat. 4258][/us/stat/122/4258]; [Pub. L. 111–295, § 6(d)][/us/pl/111/295/s6/d], Dec. 9, 2010, [124 Stat. 3181][/us/stat/124/3181].)
+([Pub. L. 94–553, title I][/us/pl/94/553/tI], § 101, Oct. 19, 1976, [90 Stat. 2585][/us/stat/90/2585]; [Pub. L. 110–403, title I][/us/pl/110/403/tI], § 102(a), Oct. 13, 2008, [122 Stat. 4258][/us/stat/122/4258]; [Pub. L. 111–295][/us/pl/111/295], § 6(d), Dec. 9, 2010, [124 Stat. 3181][/us/stat/124/3181].)
 
  __Historical and Revision Notes__ 
 
@@ -66,11 +66,11 @@
 
 [/us/usc/t15/s1116/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1116%2Fd%2F2
 [/us/usc/t17/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft17%2Fs501
-[/us/pl/94/553/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F553%2Fs101
+[/us/pl/94/553/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F553%2FtI
 [/us/stat/90/2585]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2585
-[/us/pl/110/403/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F403%2Fs102%2Fa
+[/us/pl/110/403/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F403%2FtI
 [/us/stat/122/4258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4258
-[/us/pl/111/295/s6/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F295%2Fs6%2Fd
+[/us/pl/111/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F295
 [/us/stat/124/3181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3181
 [/us/act/1946-07-05/ch540]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-07-05%2Fch540
 [/us/stat/60/427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F427

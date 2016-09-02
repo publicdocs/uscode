@@ -23,7 +23,7 @@
 
     Notwithstanding the provisions of section 106(2), the owners of a building embodying an architectural work may, without the consent of the author or copyright owner of the architectural work, make or authorize the making of alterations to such building, and destroy or authorize the destruction of such building.
 
-(Added [Pub. L. 101–650, title VII, § 704(a)][/us/pl/101/650/s704/a], Dec. 1, 1990, [104 Stat. 5133][/us/stat/104/5133].)
+(Added [Pub. L. 101–650, title VII][/us/pl/101/650/tVII], § 704(a), Dec. 1, 1990, [104 Stat. 5133][/us/stat/104/5133].)
 
  __Effective Date__ 
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/101/650/s704/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2Fs704%2Fa
+[/us/pl/101/650/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2FtVII
 [/us/stat/104/5133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F5133
 [/us/pl/101/650/s706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2Fs706
 [/us/usc/t17/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft17%2Fs101

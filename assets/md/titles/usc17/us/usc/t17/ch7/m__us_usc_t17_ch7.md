@@ -137,9 +137,9 @@ Administrative Procedure Act. Under an amendment to section 701 adopted by the C
 
  __Amendments__ 
 
-    2000—[Pub. L. 106–379, § 3(a)(1)][/us/pl/106/379/s3/a/1], Oct. 27, 2000, [114 Stat. 1445][/us/stat/114/1445], struck out item 710 “Reproduction for use of the blind and physically handicapped: Voluntary licensing forms and procedures.”
+    2000—[Pub. L. 106–379][/us/pl/106/379], § 3(a)(1), Oct. 27, 2000, [114 Stat. 1445][/us/stat/114/1445], struck out item 710 “Reproduction for use of the blind and physically handicapped: Voluntary licensing forms and procedures.”
 
-    1997—[Pub. L. 105–80, § 12(a)(17)][/us/pl/105/80/s12/a/17], Nov. 13, 1997, [111 Stat. 1535][/us/stat/111/1535], substituted “Reproduction” for “Reproductions” in item 710.
+    1997—[Pub. L. 105–80][/us/pl/105/80], § 12(a)(17), Nov. 13, 1997, [111 Stat. 1535][/us/stat/111/1535], substituted “Reproduction” for “Reproductions” in item 710.
 
 ----------
 
@@ -150,9 +150,9 @@ Administrative Procedure Act. Under an amendment to section 701 adopted by the C
 
 [/us/usc/t5/s551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs551
 [/us/usc/t5/s552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552
-[/us/pl/106/379/s3/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F379%2Fs3%2Fa%2F1
+[/us/pl/106/379]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F379
 [/us/stat/114/1445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1445
-[/us/pl/105/80/s12/a/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F80%2Fs12%2Fa%2F17
+[/us/pl/105/80]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F80
 [/us/stat/111/1535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1535
 
 

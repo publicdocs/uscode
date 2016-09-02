@@ -25,7 +25,7 @@
 
     (b) Notwithstanding the provisions of section 905(2), the owner of a particular semiconductor chip product made by the owner of the mask work, or by any person authorized by the owner of the mask work, may import, distribute, or otherwise dispose of or use, but not reproduce, that particular semiconductor chip product without the authority of the owner of the mask work.
 
-(Added [Pub. L. 98–620, title III, § 302][/us/pl/98/620/s302], Nov. 8, 1984, [98 Stat. 3350][/us/stat/98/3350].)
+(Added [Pub. L. 98–620, title III][/us/pl/98/620/tIII], § 302, Nov. 8, 1984, [98 Stat. 3350][/us/stat/98/3350].)
 
 ----------
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/pl/98/620/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620%2Fs302
+[/us/pl/98/620/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620%2FtIII
 [/us/stat/98/3350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3350
 
 

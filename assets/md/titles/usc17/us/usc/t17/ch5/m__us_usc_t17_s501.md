@@ -31,7 +31,7 @@
 
         (2) A television broadcast station may file a civil action against any satellite carrier that has refused to carry television broadcast signals, as required under section 122(a)(2), to enforce that television broadcast station’s rights under section 338(a) of the Communications Act of 1934.
 
-([Pub. L. 94–553, title I, § 101][/us/pl/94/553/s101], Oct. 19, 1976, [90 Stat. 2584][/us/stat/90/2584]; [Pub. L. 100–568, § 10(a)][/us/pl/100/568/s10/a], Oct. 31, 1988, [102 Stat. 2860][/us/stat/102/2860]; [Pub. L. 100–667, title II, § 202(3)][/us/pl/100/667/s202/3], Nov. 16, 1988, [102 Stat. 3957][/us/stat/102/3957]; [Pub. L. 101–553, § 2(a)(1)][/us/pl/101/553/s2/a/1], Nov. 15, 1990, [104 Stat. 2749][/us/stat/104/2749]; [Pub. L. 101–650, title VI, § 606(a)][/us/pl/101/650/s606/a], Dec. 1, 1990, [104 Stat. 5131][/us/stat/104/5131]; [Pub. L. 106–44, § 1(g)(5)][/us/pl/106/44/s1/g/5], Aug. 5, 1999, [113 Stat. 222][/us/stat/113/222]; [Pub. L. 106–113, div. B, § 1000(a)(9)][/us/pl/106/113/s1000/a/9] \[title I, §§ 1002(b), 1011(b)(3)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–527, 1501A–544; [Pub. L. 107–273, div. C, title III, § 13210(4)(B)][/us/pl/107/273/s13210/4/B], Nov. 2, 2002, [116 Stat. 1909][/us/stat/116/1909].)
+([Pub. L. 94–553, title I][/us/pl/94/553/tI], § 101, Oct. 19, 1976, [90 Stat. 2584][/us/stat/90/2584]; [Pub. L. 100–568][/us/pl/100/568], § 10(a), Oct. 31, 1988, [102 Stat. 2860][/us/stat/102/2860]; [Pub. L. 100–667, title II][/us/pl/100/667/tII], § 202(3), Nov. 16, 1988, [102 Stat. 3957][/us/stat/102/3957]; [Pub. L. 101–553][/us/pl/101/553], § 2(a)(1), Nov. 15, 1990, [104 Stat. 2749][/us/stat/104/2749]; [Pub. L. 101–650, title VI][/us/pl/101/650/tVI], § 606(a), Dec. 1, 1990, [104 Stat. 5131][/us/stat/104/5131]; [Pub. L. 106–44][/us/pl/106/44], § 1(g)(5), Aug. 5, 1999, [113 Stat. 222][/us/stat/113/222]; [Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(9) \[title I, §§ 1002(b), 1011(b)(3)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–527, 1501A–544; [Pub. L. 107–273, div. C, title III][/us/pl/107/273/dC/tIII], § 13210(4)(B), Nov. 2, 2002, [116 Stat. 1909][/us/stat/116/1909].)
 
  __Historical and Revision Notes__ 
 
@@ -53,7 +53,7 @@
 
  __References in Text__ 
 
-    [Section 119(a)(5) of this title][/us/usc/t17/s119/a/5], referred to in subsec. (e), was redesignated as [section 119(a)(4) of this title][/us/usc/t17/s119/a/4] by [Pub. L. 111–175, title I, § 102(h)(1)(B)][/us/pl/111/175/s102/h/1/B], May 27, 2010, [124 Stat. 1224][/us/stat/124/1224].
+    [Section 119(a)(5) of this title][/us/usc/t17/s119/a/5], referred to in subsec. (e), was redesignated as [section 119(a)(4) of this title][/us/usc/t17/s119/a/4] by [Pub. L. 111–175, title I][/us/pl/111/175/tI], § 102(h)(1)(B), May 27, 2010, [124 Stat. 1224][/us/stat/124/1224].
 
     Section 338(a) of the Communications Act of 1934, referred to in subsec. (f)(2), is classified to [section 338(a) of Title 47][/us/usc/t47/s338/a], Telecommunications.
 
@@ -63,9 +63,9 @@
 
     1999—Subsec. (a). [Pub. L. 106–44][/us/pl/106/44] substituted “121” for “118”.
 
-    Subsec. (e). [Pub. L. 106–113, § 1000(a)(9)][/us/pl/106/113/s1000/a/9] \[title I, § 1011(b)(3)\], substituted “performance or display of a work embodied in a primary transmission” for “primary transmission embodying the performance or display of a work”.
+    Subsec. (e). [Pub. L. 106–113][/us/pl/106/113], § 1000(a)(9) \[title I, § 1011(b)(3)\], substituted “performance or display of a work embodied in a primary transmission” for “primary transmission embodying the performance or display of a work”.
 
-    Subsec. (f). [Pub. L. 106–113, § 1000(a)(9)][/us/pl/106/113/s1000/a/9] \[title I, § 1002(b)\], added subsec. (f).
+    Subsec. (f). [Pub. L. 106–113][/us/pl/106/113], § 1000(a)(9) \[title I, § 1002(b)\], added subsec. (f).
 
     1990—Subsec. (a). [Pub. L. 101–650][/us/pl/101/650] inserted “or of the author as provided in section 106A(a)” after “118” and substituted “copyright or right of the author, as the case may be. For purposes of this chapter (other than section 506), any reference to copyright shall be deemed to include the rights conferred by section 106A(a).” for “copyright.”
 
@@ -83,7 +83,7 @@
 
     Amendment by [Pub. L. 101–650][/us/pl/101/650] effective 6 months after Dec. 1, 1990, see [section 610 of Pub. L. 101–650][/us/pl/101/650/s610], set out as an Effective Date note under [section 106A of this title][/us/usc/t17/s106A].
 
-[Pub. L. 101–553, § 3][/us/pl/101/553/s3], Nov. 15, 1990, [104 Stat. 2750][/us/stat/104/2750], provided that: 
+[Pub. L. 101–553][/us/pl/101/553], § 3, Nov. 15, 1990, [104 Stat. 2750][/us/stat/104/2750], provided that: 
 
 > “The amendments made by this Act \[enacting [section 511 of this title][/us/usc/t17/s511] and amending this section and sections 910 and 911 of this title\] shall take effect with respect to violations that occur on or after the date of the enactment of this Act \[Nov. 15, 1990\].”
 
@@ -95,7 +95,7 @@
 
  __Causes of Action Arising Under Predecessor Provisions__ 
 
-[Pub. L. 94–553, title I, § 112][/us/pl/94/553/s112], Oct. 19, 1976, [90 Stat. 2600][/us/stat/90/2600], provided that: 
+[Pub. L. 94–553, title I][/us/pl/94/553/tI], § 112, Oct. 19, 1976, [90 Stat. 2600][/us/stat/90/2600], provided that: 
 
 > “All causes of action that arose under title 17 before January 1, 1978, shall be governed by title 17 as it existed when the cause of action arose.”
 
@@ -106,31 +106,31 @@
 ----------
 ----------
 
-[/us/pl/94/553/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F553%2Fs101
+[/us/pl/94/553/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F553%2FtI
 [/us/stat/90/2584]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2584
-[/us/pl/100/568/s10/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F568%2Fs10%2Fa
+[/us/pl/100/568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F568
 [/us/stat/102/2860]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2860
-[/us/pl/100/667/s202/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F667%2Fs202%2F3
+[/us/pl/100/667/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F667%2FtII
 [/us/stat/102/3957]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3957
-[/us/pl/101/553/s2/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F553%2Fs2%2Fa%2F1
+[/us/pl/101/553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F553
 [/us/stat/104/2749]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2749
-[/us/pl/101/650/s606/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2Fs606%2Fa
+[/us/pl/101/650/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2FtVI
 [/us/stat/104/5131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F5131
-[/us/pl/106/44/s1/g/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F44%2Fs1%2Fg%2F5
+[/us/pl/106/44]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F44
 [/us/stat/113/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F222
-[/us/pl/106/113/s1000/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F9
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
-[/us/pl/107/273/s13210/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs13210%2F4%2FB
+[/us/pl/107/273/dC/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdC%2FtIII
 [/us/stat/116/1909]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1909
 [/us/usc/t17/s119/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft17%2Fs119%2Fa%2F5
 [/us/usc/t17/s119/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft17%2Fs119%2Fa%2F4
-[/us/pl/111/175/s102/h/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175%2Fs102%2Fh%2F1%2FB
+[/us/pl/111/175/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175%2FtI
 [/us/stat/124/1224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1224
 [/us/usc/t47/s338/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs338%2Fa
 [/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
 [/us/pl/106/44]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F44
-[/us/pl/106/113/s1000/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F9
-[/us/pl/106/113/s1000/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F9
+[/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
+[/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
 [/us/pl/101/650]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650
 [/us/pl/101/553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F553
 [/us/pl/100/568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F568
@@ -142,7 +142,7 @@
 [/us/pl/101/650]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650
 [/us/pl/101/650/s610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2Fs610
 [/us/usc/t17/s106A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft17%2Fs106A
-[/us/pl/101/553/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F553%2Fs3
+[/us/pl/101/553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F553
 [/us/stat/104/2750]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2750
 [/us/usc/t17/s511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft17%2Fs511
 [/us/pl/100/667]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F667
@@ -151,7 +151,7 @@
 [/us/pl/100/568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F568
 [/us/pl/100/568/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F568%2Fs13
 [/us/usc/t17/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft17%2Fs101
-[/us/pl/94/553/s112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F553%2Fs112
+[/us/pl/94/553/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F553%2FtI
 [/us/stat/90/2600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2600
 
 

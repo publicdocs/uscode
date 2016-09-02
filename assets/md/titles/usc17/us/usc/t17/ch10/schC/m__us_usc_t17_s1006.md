@@ -55,7 +55,7 @@
 
         (2) for the Musical Works Fund, each musical work was distributed in the form of digital musical recordings or analog musical recordings or disseminated to the public in transmissions.
 
-(Added [Pub. L. 102–563, § 2][/us/pl/102/563/s2], Oct. 28, 1992, [106 Stat. 4242][/us/stat/106/4242]; amended [Pub. L. 103–198, § 6(b)(3)][/us/pl/103/198/s6/b/3], Dec. 17, 1993, [107 Stat. 2312][/us/stat/107/2312]; [Pub. L. 105–80, § 12(a)(24)][/us/pl/105/80/s12/a/24], Nov. 13, 1997, [111 Stat. 1535][/us/stat/111/1535]; [Pub. L. 108–419, § 5(i)(2)][/us/pl/108/419/s5/i/2], Nov. 30, 2004, [118 Stat. 2368][/us/stat/118/2368].)
+(Added [Pub. L. 102–563][/us/pl/102/563], § 2, Oct. 28, 1992, [106 Stat. 4242][/us/stat/106/4242]; amended [Pub. L. 103–198][/us/pl/103/198], § 6(b)(3), Dec. 17, 1993, [107 Stat. 2312][/us/stat/107/2312]; [Pub. L. 105–80][/us/pl/105/80], § 12(a)(24), Nov. 13, 1997, [111 Stat. 1535][/us/stat/111/1535]; [Pub. L. 108–419][/us/pl/108/419], § 5(i)(2), Nov. 30, 2004, [118 Stat. 2368][/us/stat/118/2368].)
 
  __Amendments__ 
 
@@ -76,13 +76,13 @@
 ----------
 ----------
 
-[/us/pl/102/563/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F563%2Fs2
+[/us/pl/102/563]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F563
 [/us/stat/106/4242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4242
-[/us/pl/103/198/s6/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F198%2Fs6%2Fb%2F3
+[/us/pl/103/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F198
 [/us/stat/107/2312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2312
-[/us/pl/105/80/s12/a/24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F80%2Fs12%2Fa%2F24
+[/us/pl/105/80]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F80
 [/us/stat/111/1535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1535
-[/us/pl/108/419/s5/i/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F419%2Fs5%2Fi%2F2
+[/us/pl/108/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F419
 [/us/stat/118/2368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2368
 [/us/pl/108/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F419
 [/us/pl/105/80]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F80

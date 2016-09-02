@@ -45,7 +45,7 @@
 
         (3) The Register of Copyrights shall establish a system of records whereby any author of a work of visual art that has been incorporated in or made part of a building, may record his or her identity and address with the Copyright Office. The Register shall also establish procedures under which any such author may update the information so recorded, and procedures under which owners of buildings may record with the Copyright Office evidence of their efforts to comply with this subsection.
 
-([Pub. L. 94–553, title I, § 101][/us/pl/94/553/s101], Oct. 19, 1976, [90 Stat. 2560][/us/stat/90/2560]; [Pub. L. 101–650, title VI, § 604][/us/pl/101/650/s604], Dec. 1, 1990, [104 Stat. 5130][/us/stat/104/5130].)
+([Pub. L. 94–553, title I][/us/pl/94/553/tI], § 101, Oct. 19, 1976, [90 Stat. 2560][/us/stat/90/2560]; [Pub. L. 101–650, title VI][/us/pl/101/650/tVI], § 604, Dec. 1, 1990, [104 Stat. 5130][/us/stat/104/5130].)
 
  __Historical and Revision Notes__ 
 
@@ -80,9 +80,9 @@
 ----------
 ----------
 
-[/us/pl/94/553/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F553%2Fs101
+[/us/pl/94/553/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F553%2FtI
 [/us/stat/90/2560]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2560
-[/us/pl/101/650/s604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2Fs604
+[/us/pl/101/650/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2FtVI
 [/us/stat/104/5130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F5130
 [/us/pl/101/650]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650
 [/us/usc/t17/s106A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft17%2Fs106A

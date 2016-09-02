@@ -37,7 +37,7 @@
 
         (2) Articles imported in violation of the rights set forth in section 905 are subject to seizure and forfeiture in the same manner as property imported in violation of the customs laws. Any such forfeited articles shall be destroyed as directed by the Secretary of the Treasury or the court, as the case may be, except that the articles may be returned to the country of export whenever it is shown to the satisfaction of the Secretary of the Treasury that the importer had no reasonable grounds for believing that his or her acts constituted a violation of the law.
 
-(Added [Pub. L. 98–620, title III, § 302][/us/pl/98/620/s302], Nov. 8, 1984, [98 Stat. 3352][/us/stat/98/3352]; amended [Pub. L. 101–553, § 2(b)(1)][/us/pl/101/553/s2/b/1], Nov. 15, 1990, [104 Stat. 2750][/us/stat/104/2750]; [Pub. L. 105–80, § 12(a)(23)][/us/pl/105/80/s12/a/23], Nov. 13, 1997, [111 Stat. 1535][/us/stat/111/1535].)
+(Added [Pub. L. 98–620, title III][/us/pl/98/620/tIII], § 302, Nov. 8, 1984, [98 Stat. 3352][/us/stat/98/3352]; amended [Pub. L. 101–553][/us/pl/101/553], § 2(b)(1), Nov. 15, 1990, [104 Stat. 2750][/us/stat/104/2750]; [Pub. L. 105–80][/us/pl/105/80], § 12(a)(23), Nov. 13, 1997, [111 Stat. 1535][/us/stat/111/1535].)
 
  __References in Text__ 
 
@@ -62,11 +62,11 @@
 ----------
 ----------
 
-[/us/pl/98/620/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620%2Fs302
+[/us/pl/98/620/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620%2FtIII
 [/us/stat/98/3352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3352
-[/us/pl/101/553/s2/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F553%2Fs2%2Fb%2F1
+[/us/pl/101/553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F553
 [/us/stat/104/2750]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2750
-[/us/pl/105/80/s12/a/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F80%2Fs12%2Fa%2F23
+[/us/pl/105/80]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F80
 [/us/stat/111/1535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1535
 [/us/usc/t19/s1337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1337
 [/us/pl/105/80]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F80

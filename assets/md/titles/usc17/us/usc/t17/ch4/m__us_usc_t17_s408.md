@@ -93,7 +93,7 @@
 
             (B) 1 month after the copyright owner has learned of the infringement.
 
-([Pub. L. 94–553, title I, § 101][/us/pl/94/553/s101], Oct. 19, 1976, [90 Stat. 2580][/us/stat/90/2580]; [Pub. L. 100–568, § 9(a)][/us/pl/100/568/s9/a], Oct. 31, 1988, [102 Stat. 2859][/us/stat/102/2859]; [Pub. L. 102–307, title I, § 102(e)][/us/pl/102/307/s102/e], June 26, 1992, [106 Stat. 266][/us/stat/106/266]; [Pub. L. 109–9, title I, § 104(a)][/us/pl/109/9/s104/a], Apr. 27, 2005, [119 Stat. 221][/us/stat/119/221].)
+([Pub. L. 94–553, title I][/us/pl/94/553/tI], § 101, Oct. 19, 1976, [90 Stat. 2580][/us/stat/90/2580]; [Pub. L. 100–568][/us/pl/100/568], § 9(a), Oct. 31, 1988, [102 Stat. 2859][/us/stat/102/2859]; [Pub. L. 102–307, title I][/us/pl/102/307/tI], § 102(e), June 26, 1992, [106 Stat. 266][/us/stat/106/266]; [Pub. L. 109–9, title I][/us/pl/109/9/tI], § 104(a), Apr. 27, 2005, [119 Stat. 221][/us/stat/119/221].)
 
  __Historical and Revision Notes__ 
 
@@ -135,9 +135,9 @@
 
     1992—Subsec. (a). [Pub. L. 102–307][/us/pl/102/307] substituted “At any time during the subsistence of the first term of copyright in any published or unpublished work in which the copyright was secured before January 1, 1978, and during the subsistence of any copyright secured on or after that date,” for “At any time during the subsistence of copyright in any published or unpublished work,”.
 
-    1988—Subsec. (a). [Pub. L. 100–568, § 9(a)(1)][/us/pl/100/568/s9/a/1], substituted “Such” for “Subject to the provisions of section 405(a), such”.
+    1988—Subsec. (a). [Pub. L. 100–568][/us/pl/100/568], § 9(a)(1), substituted “Such” for “Subject to the provisions of section 405(a), such”.
 
-    Subsec. (c)(2). [Pub. L. 100–568, § 9(a)(2)][/us/pl/100/568/s9/a/2], substituted “the following conditions:” for “all of the following conditions—”, struck out subpar. (A) which read “if each of the works as first published bore a separate copyright notice, and the name of the owner of copyright in the work, or an abbreviation by which the name can be recognized, or a generally known alternative designation of the owner was the same in each notice; and”, and redesignated subpars. (B) and (C) as (A) and (B), respectively.
+    Subsec. (c)(2). [Pub. L. 100–568][/us/pl/100/568], § 9(a)(2), substituted “the following conditions:” for “all of the following conditions—”, struck out subpar. (A) which read “if each of the works as first published bore a separate copyright notice, and the name of the owner of copyright in the work, or an abbreviation by which the name can be recognized, or a generally known alternative designation of the owner was the same in each notice; and”, and redesignated subpars. (B) and (C) as (A) and (B), respectively.
 
  __Effective Date of 1992 Amendment__ 
 
@@ -154,19 +154,19 @@
 ----------
 ----------
 
-[/us/pl/94/553/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F553%2Fs101
+[/us/pl/94/553/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F553%2FtI
 [/us/stat/90/2580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2580
-[/us/pl/100/568/s9/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F568%2Fs9%2Fa
+[/us/pl/100/568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F568
 [/us/stat/102/2859]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2859
-[/us/pl/102/307/s102/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F307%2Fs102%2Fe
+[/us/pl/102/307/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F307%2FtI
 [/us/stat/106/266]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F266
-[/us/pl/109/9/s104/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F9%2Fs104%2Fa
+[/us/pl/109/9/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F9%2FtI
 [/us/stat/119/221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F221
 [/us/pl/109/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F9
 [/us/pl/109/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F9
 [/us/pl/102/307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F307
-[/us/pl/100/568/s9/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F568%2Fs9%2Fa%2F1
-[/us/pl/100/568/s9/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F568%2Fs9%2Fa%2F2
+[/us/pl/100/568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F568
+[/us/pl/100/568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F568
 [/us/pl/102/307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F307
 [/us/usc/t17/s304/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft17%2Fs304%2Fa
 [/us/pl/102/307/s102/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F307%2Fs102%2Fg

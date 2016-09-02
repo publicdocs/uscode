@@ -37,7 +37,7 @@
 
     When an individual author’s ownership of a copyright, or of any of the exclusive rights under a copyright, has not previously been transferred voluntarily by that individual author, no action by any governmental body or other official or organization purporting to seize, expropriate, transfer, or exercise rights of ownership with respect to the copyright, or any of the exclusive rights under a copyright, shall be given effect under this title, except as provided under title 11.
 
-([Pub. L. 94–553, title I, § 101][/us/pl/94/553/s101], Oct. 19, 1976, [90 Stat. 2568][/us/stat/90/2568]; [Pub. L. 95–598, title III, § 313][/us/pl/95/598/s313], Nov. 6, 1978, [92 Stat. 2676][/us/stat/92/2676].)
+([Pub. L. 94–553, title I][/us/pl/94/553/tI], § 101, Oct. 19, 1976, [90 Stat. 2568][/us/stat/90/2568]; [Pub. L. 95–598, title III][/us/pl/95/598/tIII], § 313, Nov. 6, 1978, [92 Stat. 2676][/us/stat/92/2676].)
 
  __Historical and Revision Notes__ 
 
@@ -92,9 +92,9 @@
 ----------
 ----------
 
-[/us/pl/94/553/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F553%2Fs101
+[/us/pl/94/553/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F553%2FtI
 [/us/stat/90/2568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2568
-[/us/pl/95/598/s313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598%2Fs313
+[/us/pl/95/598/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598%2FtIII
 [/us/stat/92/2676]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2676
 [/us/pl/95/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598
 [/us/pl/95/598/s402/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598%2Fs402%2Fa

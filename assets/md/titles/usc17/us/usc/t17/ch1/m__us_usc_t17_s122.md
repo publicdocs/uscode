@@ -233,7 +233,7 @@
 
             (B) includes a television broadcast station licensed by an appropriate governmental authority of Canada or Mexico if the station broadcasts primarily in the English language and is a network station as defined in section 119(d)(2)(A).
 
-(Added [Pub. L. 106–113, div. B, § 1000(a)(9)][/us/pl/106/113/s1000/a/9] \[title I, § 1002(a)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–523; amended [Pub. L. 107–273, div. C, title III, § 13210(2)(A)][/us/pl/107/273/s13210/2/A], Nov. 2, 2002, [116 Stat. 1909][/us/stat/116/1909]; [Pub. L. 108–447, div. J, title IX][/us/pl/108/447] \[title I, § 111(b)\], Dec. 8, 2004, [118 Stat. 3409][/us/stat/118/3409]; [Pub. L. 110–403, title II, § 209(a)(5)][/us/pl/110/403/s209/a/5], Oct. 13, 2008, [122 Stat. 4264][/us/stat/122/4264]; [Pub. L. 111–175, title I, § 103(a)(1)][/us/pl/111/175/s103/a/1], (b)–(f), May 27, 2010, [124 Stat. 1227–1230][/us/stat/124/1227-1230]; [Pub. L. 113–200, title II, § 204][/us/pl/113/200/s204], Dec. 4, 2014, [128 Stat. 2067][/us/stat/128/2067].)
+(Added [Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(9) \[title I, § 1002(a)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–523; amended [Pub. L. 107–273, div. C, title III][/us/pl/107/273/dC/tIII], § 13210(2)(A), Nov. 2, 2002, [116 Stat. 1909][/us/stat/116/1909]; [Pub. L. 108–447, div. J, title IX][/us/pl/108/447/dJ/tIX] \[title I, § 111(b)\], Dec. 8, 2004, [118 Stat. 3409][/us/stat/118/3409]; [Pub. L. 110–403, title II][/us/pl/110/403/tII], § 209(a)(5), Oct. 13, 2008, [122 Stat. 4264][/us/stat/122/4264]; [Pub. L. 111–175, title I][/us/pl/111/175/tI], § 103(a)(1), (b)–(f), May 27, 2010, [124 Stat. 1227–1230][/us/stat/124/1227-1230]; [Pub. L. 113–200, title II][/us/pl/113/200/tII], § 204, Dec. 4, 2014, [128 Stat. 2067][/us/stat/128/2067].)
 
  __References in Text__ 
 
@@ -243,49 +243,49 @@
 
  __Amendments__ 
 
-    2014—Subsec. (j)(2)(B) to (D). [Pub. L. 113–200, § 204(1)][/us/pl/113/200/s204/1], realigned margins.
+    2014—Subsec. (j)(2)(B) to (D). [Pub. L. 113–200][/us/pl/113/200], § 204(1), realigned margins.
 
-    Subsec. (j)(2)(E). [Pub. L. 113–200, § 204(2)][/us/pl/113/200/s204/2], added subpar. (E).
+    Subsec. (j)(2)(E). [Pub. L. 113–200][/us/pl/113/200], § 204(2), added subpar. (E).
 
-    2010—[Pub. L. 111–175, § 103(a)(1)][/us/pl/111/175/s103/a/1], substituted “of local television programming by satellite” for “by satellite carriers within local markets” in section catchline.
+    2010—[Pub. L. 111–175][/us/pl/111/175], § 103(a)(1), substituted “of local television programming by satellite” for “by satellite carriers within local markets” in section catchline.
 
-    Subsec. (a). [Pub. L. 111–175, § 103(b)][/us/pl/111/175/s103/b], amended subsec. (a) generally. Prior to amendment, subsec. (a) related to secondary transmissions of television broadcast stations by satellite carriers.
+    Subsec. (a). [Pub. L. 111–175][/us/pl/111/175], § 103(b), amended subsec. (a) generally. Prior to amendment, subsec. (a) related to secondary transmissions of television broadcast stations by satellite carriers.
 
-    Subsec. (b)(1). [Pub. L. 111–175, § 103(c)(1)][/us/pl/111/175/s103/c/1], substituted “station—” for “station a list identifying (by name in alphabetical order and street address, including county and zip code) all subscribers to which the satellite carrier makes secondary transmissions of that primary transmission under subsection (a).” and added subpars. (A) and (B).
+    Subsec. (b)(1). [Pub. L. 111–175][/us/pl/111/175], § 103(c)(1), substituted “station—” for “station a list identifying (by name in alphabetical order and street address, including county and zip code) all subscribers to which the satellite carrier makes secondary transmissions of that primary transmission under subsection (a).” and added subpars. (A) and (B).
 
-    Subsec. (b)(2). [Pub. L. 111–175, § 103(c)(2)][/us/pl/111/175/s103/c/2], substituted “network—” for “network a list identifying (by name in alphabetical order and street address, including county and zip code) any subscribers who have been added or dropped as subscribers since the last submission under this subsection.” and added subpars. (A) and (B).
+    Subsec. (b)(2). [Pub. L. 111–175][/us/pl/111/175], § 103(c)(2), substituted “network—” for “network a list identifying (by name in alphabetical order and street address, including county and zip code) any subscribers who have been added or dropped as subscribers since the last submission under this subsection.” and added subpars. (A) and (B).
 
-    Subsec. (c). [Pub. L. 111–175, § 103(d)][/us/pl/111/175/s103/d], inserted “for Certain Secondary Transmissions” after “Required” in heading and substituted “paragraphs (1), (2), and (3) of subsection (a)” for “subsection (a)” in text.
+    Subsec. (c). [Pub. L. 111–175][/us/pl/111/175], § 103(d), inserted “for Certain Secondary Transmissions” after “Required” in heading and substituted “paragraphs (1), (2), and (3) of subsection (a)” for “subsection (a)” in text.
 
-    Subsec. (f)(1). [Pub. L. 111–175, § 103(e)(2)(A)][/us/pl/111/175/s103/e/2/A], substituted “section 119, subject to statutory licensing by reason of paragraph (2)(A), (3), or (4) of subsection (a), or subject to” for “section 119 or” in introductory provisions.
+    Subsec. (f)(1). [Pub. L. 111–175][/us/pl/111/175], § 103(e)(2)(A), substituted “section 119, subject to statutory licensing by reason of paragraph (2)(A), (3), or (4) of subsection (a), or subject to” for “section 119 or” in introductory provisions.
 
-    Subsec. (f)(1)(B). [Pub. L. 111–175, § 103(e)(1)(A)][/us/pl/111/175/s103/e/1/A], substituted “$250” for “$5”.
+    Subsec. (f)(1)(B). [Pub. L. 111–175][/us/pl/111/175], § 103(e)(1)(A), substituted “$250” for “$5”.
 
-    Subsec. (f)(2). [Pub. L. 111–175, § 103(e)(2)(A)][/us/pl/111/175/s103/e/2/A], substituted “section 119, subject to statutory licensing by reason of paragraph (2)(A), (3), or (4) of subsection (a), or subject to” for “section 119 or” in introductory provisions.
+    Subsec. (f)(2). [Pub. L. 111–175][/us/pl/111/175], § 103(e)(2)(A), substituted “section 119, subject to statutory licensing by reason of paragraph (2)(A), (3), or (4) of subsection (a), or subject to” for “section 119 or” in introductory provisions.
 
-    Subsec. (f)(2)(A)(ii), (B)(ii). [Pub. L. 111–175, § 103(e)(1)(B)][/us/pl/111/175/s103/e/1/B], substituted “$2,500,000” for “$250,000”.
+    Subsec. (f)(2)(A)(ii), (B)(ii). [Pub. L. 111–175][/us/pl/111/175], § 103(e)(1)(B), substituted “$2,500,000” for “$250,000”.
 
-    Subsec. (g). [Pub. L. 111–175, § 103(e)(2)(B)][/us/pl/111/175/s103/e/2/B], substituted “section 119, paragraph (2)(A), (3), or (4) of subsection (a), or” for “section 119 or”.
+    Subsec. (g). [Pub. L. 111–175][/us/pl/111/175], § 103(e)(2)(B), substituted “section 119, paragraph (2)(A), (3), or (4) of subsection (a), or” for “section 119 or”.
 
-    Subsec. (j)(1). [Pub. L. 111–175, § 103(f)(1)][/us/pl/111/175/s103/f/1], substituted “that contracts” for “which contracts”.
+    Subsec. (j)(1). [Pub. L. 111–175][/us/pl/111/175], § 103(f)(1), substituted “that contracts” for “which contracts”.
 
-    Subsec. (j)(3). [Pub. L. 111–175, § 103(f)(4)][/us/pl/111/175/s103/f/4], added par. (3). Former par. (3) redesignated (4).
+    Subsec. (j)(3). [Pub. L. 111–175][/us/pl/111/175], § 103(f)(4), added par. (3). Former par. (3) redesignated (4).
 
-    Subsec. (j)(4). [Pub. L. 111–175, § 103(f)(3)][/us/pl/111/175/s103/f/3], redesignated par. (3) as (4) and inserted “non-network station;” after “Network station;” in heading and “ ‘non-network station’,” after “ ‘network station’,” in text. Former par. (4) redesignated (6).
+    Subsec. (j)(4). [Pub. L. 111–175][/us/pl/111/175], § 103(f)(3), redesignated par. (3) as (4) and inserted “non-network station;” after “Network station;” in heading and “ ‘non-network station’,” after “ ‘network station’,” in text. Former par. (4) redesignated (6).
 
-    Subsec. (j)(5). [Pub. L. 111–175, § 103(f)(5)][/us/pl/111/175/s103/f/5], added par. (5). Former par. (5) redesignated (7).
+    Subsec. (j)(5). [Pub. L. 111–175][/us/pl/111/175], § 103(f)(5), added par. (5). Former par. (5) redesignated (7).
 
-    Subsec. (j)(6). [Pub. L. 111–175, § 103(f)(6)][/us/pl/111/175/s103/f/6], amended par. (6) generally. Prior to amendment, text read as follows: “The term ‘subscriber’ means a person who receives a secondary transmission service from a satellite carrier and pays a fee for the service, directly or indirectly, to the satellite carrier or to a distributor.”
+    Subsec. (j)(6). [Pub. L. 111–175][/us/pl/111/175], § 103(f)(6), amended par. (6) generally. Prior to amendment, text read as follows: “The term ‘subscriber’ means a person who receives a secondary transmission service from a satellite carrier and pays a fee for the service, directly or indirectly, to the satellite carrier or to a distributor.”
 
-    [Pub. L. 111–175, § 103(f)(2)][/us/pl/111/175/s103/f/2], redesignated par. (4) as (6).
+    [Pub. L. 111–175][/us/pl/111/175], § 103(f)(2), redesignated par. (4) as (6).
 
-    Subsec. (j)(7). [Pub. L. 111–175, § 103(f)(2)][/us/pl/111/175/s103/f/2], redesignated par. (5) as (7).
+    Subsec. (j)(7). [Pub. L. 111–175][/us/pl/111/175], § 103(f)(2), redesignated par. (5) as (7).
 
-    2008—Subsec. (d). [Pub. L. 110–403, § 209(a)(5)(A)][/us/pl/110/403/s209/a/5/A], struck out “and 509” after “506”.
+    2008—Subsec. (d). [Pub. L. 110–403][/us/pl/110/403], § 209(a)(5)(A), struck out “and 509” after “506”.
 
-    Subsec. (e). [Pub. L. 110–403, § 209(a)(5)(B)][/us/pl/110/403/s209/a/5/B], substituted “section 510” for “sections 509 and 510”.
+    Subsec. (e). [Pub. L. 110–403][/us/pl/110/403], § 209(a)(5)(B), substituted “section 510” for “sections 509 and 510”.
 
-    Subsec. (f)(1). [Pub. L. 110–403, § 209(a)(5)(C)][/us/pl/110/403/s209/a/5/C], struck out “and 509” after “506” in introductory provisions.
+    Subsec. (f)(1). [Pub. L. 110–403][/us/pl/110/403], § 209(a)(5)(C), struck out “and 509” after “506” in introductory provisions.
 
     2004—Subsec. (j)(2)(D). [Pub. L. 108–447][/us/pl/108/447] added subpar. (D).
 
@@ -307,44 +307,44 @@
 ----------
 
 [/us/usc/t47/s338]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs338
-[/us/pl/106/113/s1000/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F9
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
-[/us/pl/107/273/s13210/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs13210%2F2%2FA
+[/us/pl/107/273/dC/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdC%2FtIII
 [/us/stat/116/1909]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1909
-[/us/pl/108/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447
+[/us/pl/108/447/dJ/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2FdJ%2FtIX
 [/us/stat/118/3409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3409
-[/us/pl/110/403/s209/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F403%2Fs209%2Fa%2F5
+[/us/pl/110/403/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F403%2FtII
 [/us/stat/122/4264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4264
-[/us/pl/111/175/s103/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175%2Fs103%2Fa%2F1
+[/us/pl/111/175/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175%2FtI
 [/us/stat/124/1227-1230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1227-1230
-[/us/pl/113/200/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F200%2Fs204
+[/us/pl/113/200/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F200%2FtII
 [/us/stat/128/2067]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2067
 [/us/usc/t47/s397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs397
 [/us/pl/111/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175
 [/us/pl/111/175/s307/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175%2Fs307%2Fa
 [/us/usc/t17/s111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft17%2Fs111
-[/us/pl/113/200/s204/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F200%2Fs204%2F1
-[/us/pl/113/200/s204/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F200%2Fs204%2F2
-[/us/pl/111/175/s103/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175%2Fs103%2Fa%2F1
-[/us/pl/111/175/s103/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175%2Fs103%2Fb
-[/us/pl/111/175/s103/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175%2Fs103%2Fc%2F1
-[/us/pl/111/175/s103/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175%2Fs103%2Fc%2F2
-[/us/pl/111/175/s103/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175%2Fs103%2Fd
-[/us/pl/111/175/s103/e/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175%2Fs103%2Fe%2F2%2FA
-[/us/pl/111/175/s103/e/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175%2Fs103%2Fe%2F1%2FA
-[/us/pl/111/175/s103/e/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175%2Fs103%2Fe%2F2%2FA
-[/us/pl/111/175/s103/e/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175%2Fs103%2Fe%2F1%2FB
-[/us/pl/111/175/s103/e/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175%2Fs103%2Fe%2F2%2FB
-[/us/pl/111/175/s103/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175%2Fs103%2Ff%2F1
-[/us/pl/111/175/s103/f/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175%2Fs103%2Ff%2F4
-[/us/pl/111/175/s103/f/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175%2Fs103%2Ff%2F3
-[/us/pl/111/175/s103/f/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175%2Fs103%2Ff%2F5
-[/us/pl/111/175/s103/f/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175%2Fs103%2Ff%2F6
-[/us/pl/111/175/s103/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175%2Fs103%2Ff%2F2
-[/us/pl/111/175/s103/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175%2Fs103%2Ff%2F2
-[/us/pl/110/403/s209/a/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F403%2Fs209%2Fa%2F5%2FA
-[/us/pl/110/403/s209/a/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F403%2Fs209%2Fa%2F5%2FB
-[/us/pl/110/403/s209/a/5/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F403%2Fs209%2Fa%2F5%2FC
+[/us/pl/113/200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F200
+[/us/pl/113/200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F200
+[/us/pl/111/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175
+[/us/pl/111/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175
+[/us/pl/111/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175
+[/us/pl/111/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175
+[/us/pl/111/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175
+[/us/pl/111/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175
+[/us/pl/111/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175
+[/us/pl/111/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175
+[/us/pl/111/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175
+[/us/pl/111/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175
+[/us/pl/111/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175
+[/us/pl/111/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175
+[/us/pl/111/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175
+[/us/pl/111/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175
+[/us/pl/111/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175
+[/us/pl/111/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175
+[/us/pl/111/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175
+[/us/pl/110/403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F403
+[/us/pl/110/403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F403
+[/us/pl/110/403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F403
 [/us/pl/108/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447
 [/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
 [/us/pl/111/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175

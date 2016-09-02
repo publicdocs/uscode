@@ -37,7 +37,7 @@
 
     (b) In no case does copyright protection for an original work of authorship extend to any idea, procedure, process, system, method of operation, concept, principle, or discovery, regardless of the form in which it is described, explained, illustrated, or embodied in such work.
 
-([Pub. L. 94–553, title I, § 101][/us/pl/94/553/s101], Oct. 19, 1976, [90 Stat. 2544][/us/stat/90/2544]; [Pub. L. 101–650, title VII, § 703][/us/pl/101/650/s703], Dec. 1, 1990, [104 Stat. 5133][/us/stat/104/5133].)
+([Pub. L. 94–553, title I][/us/pl/94/553/tI], § 101, Oct. 19, 1976, [90 Stat. 2544][/us/stat/90/2544]; [Pub. L. 101–650, title VII][/us/pl/101/650/tVII], § 703, Dec. 1, 1990, [104 Stat. 5133][/us/stat/104/5133].)
 
  __Historical and Revision Notes__ 
 
@@ -116,9 +116,9 @@
 ----------
 ----------
 
-[/us/pl/94/553/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F553%2Fs101
+[/us/pl/94/553/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F553%2FtI
 [/us/stat/90/2544]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2544
-[/us/pl/101/650/s703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2Fs703
+[/us/pl/101/650/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2FtVII
 [/us/stat/104/5133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F5133
 [/us/usc/t17/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft17%2Fs5
 [/us/pl/92/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F140

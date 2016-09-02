@@ -47,7 +47,7 @@
 
     Any person who transmits or otherwise communicates to the public any sound recording in digital format is not required under this chapter to transmit or otherwise communicate the information relating to the copyright status of the sound recording. Any such person who does transmit or otherwise communicate such copyright status information shall transmit or communicate such information accurately.
 
-(Added [Pub. L. 102–563, § 2][/us/pl/102/563/s2], Oct. 28, 1992, [106 Stat. 4240][/us/stat/106/4240].)
+(Added [Pub. L. 102–563][/us/pl/102/563], § 2, Oct. 28, 1992, [106 Stat. 4240][/us/stat/106/4240].)
 
 ----------
 
@@ -56,7 +56,7 @@
 ----------
 ----------
 
-[/us/pl/102/563/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F563%2Fs2
+[/us/pl/102/563]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F563
 [/us/stat/106/4240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4240
 
 

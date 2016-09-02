@@ -55,7 +55,7 @@
 
         (2) Two years after the date of the enactment of this chapter, the Secretary of Commerce, in consultation with the Register of Copyrights, shall transmit to the Committees on the Judiciary of the Senate and the House of Representatives a report on the actions taken under this section and on the current status of international recognition of mask work protection. The report shall include such recommendations for modifications of the protection accorded under this chapter to mask works owned by nationals, domiciliaries, or sovereign authorities of foreign nations as the Secretary, in consultation with the Register of Copyrights, considers would promote the purposes of this chapter and international comity with respect to mask work protection. Not later than July 1, 1994, the Secretary of Commerce, in consultation with the Register of Copyrights, shall transmit to the Committees on the Judiciary of the Senate and the House of Representatives a report updating the matters contained in the report transmitted under the preceding sentence.
 
-(Added [Pub. L. 98–620, title III, § 302][/us/pl/98/620/s302], Nov. 8, 1984, [98 Stat. 3355][/us/stat/98/3355]; amended [Pub. L. 100–159][/us/pl/100/159], §§ 2, 4, Nov. 9, 1987, [101 Stat. 899][/us/stat/101/899], 900; [Pub. L. 102–64][/us/pl/102/64], §§ 3, 4, June 28, 1991, [105 Stat. 320][/us/stat/105/320], 321.)
+(Added [Pub. L. 98–620, title III][/us/pl/98/620/tIII], § 302, Nov. 8, 1984, [98 Stat. 3355][/us/stat/98/3355]; amended [Pub. L. 100–159][/us/pl/100/159], §§ 2, 4, Nov. 9, 1987, [101 Stat. 899][/us/stat/101/899], 900; [Pub. L. 102–64][/us/pl/102/64], §§ 3, 4, June 28, 1991, [105 Stat. 320][/us/stat/105/320], 321.)
 
  __References in Text__ 
 
@@ -63,19 +63,19 @@
 
  __Amendments__ 
 
-    1991—Subsec. (a)(1)(B). [Pub. L. 102–64, § 3(1)][/us/pl/102/64/s3/1], inserted “or implementing” after “enacting”.
+    1991—Subsec. (a)(1)(B). [Pub. L. 102–64][/us/pl/102/64], § 3(1), inserted “or implementing” after “enacting”.
 
-    Subsec. (e). [Pub. L. 102–64, § 3(2)][/us/pl/102/64/s3/2], substituted “July 1, 1995” for “July 1, 1991”.
+    Subsec. (e). [Pub. L. 102–64][/us/pl/102/64], § 3(2), substituted “July 1, 1995” for “July 1, 1991”.
 
-    Subsec. (f)(2). [Pub. L. 102–64, § 4][/us/pl/102/64/s4], substituted “July 1, 1994” for “July 1, 1990”.
+    Subsec. (f)(2). [Pub. L. 102–64][/us/pl/102/64], § 4, substituted “July 1, 1994” for “July 1, 1990”.
 
-    1987—Subsec. (e). [Pub. L. 100–159, § 2][/us/pl/100/159/s2], substituted “on July 1, 1991” for “three years after such date of enactment”.
+    1987—Subsec. (e). [Pub. L. 100–159][/us/pl/100/159], § 2, substituted “on July 1, 1991” for “three years after such date of enactment”.
 
-    Subsec. (f)(2). [Pub. L. 100–159, § 4][/us/pl/100/159/s4], which directed the amendment of subsec. (f) by inserting at end “Not later than July 1, 1990, the Secretary of Commerce, in consultation with the Register of Copyrights, shall transmit to the Committees on the Judiciary of the Senate and the House of Representatives a report updating the matters contained in the report transmitted under the preceding sentence.”, was executed by inserting new language at end of par. (2) of subsec. (f) as the probable intent of Congress.
+    Subsec. (f)(2). [Pub. L. 100–159][/us/pl/100/159], § 4, which directed the amendment of subsec. (f) by inserting at end “Not later than July 1, 1990, the Secretary of Commerce, in consultation with the Register of Copyrights, shall transmit to the Committees on the Judiciary of the Senate and the House of Representatives a report updating the matters contained in the report transmitted under the preceding sentence.”, was executed by inserting new language at end of par. (2) of subsec. (f) as the probable intent of Congress.
 
  __Findings and Purposes__ 
 
-[Pub. L. 102–64, § 2][/us/pl/102/64/s2], June 28, 1991, [105 Stat. 320][/us/stat/105/320], provided that:
+[Pub. L. 102–64][/us/pl/102/64], § 2, June 28, 1991, [105 Stat. 320][/us/stat/105/320], provided that:
 
 >     “(a)  __Findings__  __.—__ 
 
@@ -97,7 +97,7 @@
 
 >         “(2) to clarify the Secretary’s authority to issue such interim protection orders.”
 
-[Pub. L. 100–159, § 1][/us/pl/100/159/s1], Nov. 9, 1987, [101 Stat. 899][/us/stat/101/899], as amended by [Pub. L. 105–80, § 12(b)(1)][/us/pl/105/80/s12/b/1], Nov. 13, 1997, [111 Stat. 1536][/us/stat/111/1536], provided that:
+[Pub. L. 100–159][/us/pl/100/159], § 1, Nov. 9, 1987, [101 Stat. 899][/us/stat/101/899], as amended by [Pub. L. 105–80][/us/pl/105/80], § 12(b)(1), Nov. 13, 1997, [111 Stat. 1536][/us/stat/111/1536], provided that:
 
 >     “(a)  __Findings__  __.—__ 
 
@@ -128,27 +128,27 @@
 ----------
 ----------
 
-[/us/pl/98/620/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620%2Fs302
+[/us/pl/98/620/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620%2FtIII
 [/us/stat/98/3355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3355
 [/us/pl/100/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F159
 [/us/stat/101/899]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F899
 [/us/pl/102/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F64
 [/us/stat/105/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F320
 [/us/pl/98/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620
-[/us/pl/102/64/s3/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F64%2Fs3%2F1
-[/us/pl/102/64/s3/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F64%2Fs3%2F2
-[/us/pl/102/64/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F64%2Fs4
-[/us/pl/100/159/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F159%2Fs2
-[/us/pl/100/159/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F159%2Fs4
-[/us/pl/102/64/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F64%2Fs2
+[/us/pl/102/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F64
+[/us/pl/102/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F64
+[/us/pl/102/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F64
+[/us/pl/100/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F159
+[/us/pl/100/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F159
+[/us/pl/102/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F64
 [/us/stat/105/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F320
 [/us/usc/t17/s914]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft17%2Fs914
 [/us/usc/t17/s914]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft17%2Fs914
 [/us/usc/t17/s901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft17%2Fs901
 [/us/usc/t17/s914]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft17%2Fs914
-[/us/pl/100/159/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F159%2Fs1
+[/us/pl/100/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F159
 [/us/stat/101/899]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F899
-[/us/pl/105/80/s12/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F80%2Fs12%2Fb%2F1
+[/us/pl/105/80]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F80
 [/us/stat/111/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1536
 [/us/usc/t17/s914]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft17%2Fs914
 [/us/usc/t17/s914]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft17%2Fs914

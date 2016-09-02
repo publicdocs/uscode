@@ -123,7 +123,7 @@
 
  __Amendments__ 
 
-    2008—[Pub. L. 110–403, title I, § 101(b)(2)][/us/pl/110/403/s101/b/2], Oct. 13, 2008, [122 Stat. 4258][/us/stat/122/4258], inserted “civil” before “infringement” in item 411.
+    2008—[Pub. L. 110–403, title I][/us/pl/110/403/tI], § 101(b)(2), Oct. 13, 2008, [122 Stat. 4258][/us/stat/122/4258], inserted “civil” before “infringement” in item 411.
 
     1988—[Pub. L. 100–568][/us/pl/100/568], §§ 7(g), 9(b)(2), Oct. 31, 1988, [102 Stat. 2859][/us/stat/102/2859], inserted in items 405 and 406 “on certain copies and phonorecords” and substituted in item 411 “Registration and infringement actions” for “Registration as prerequisite to infringement suit”.
 
@@ -134,7 +134,7 @@
 ----------
 ----------
 
-[/us/pl/110/403/s101/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F403%2Fs101%2Fb%2F2
+[/us/pl/110/403/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F403%2FtI
 [/us/stat/122/4258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4258
 [/us/pl/100/568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F568
 [/us/stat/102/2859]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2859

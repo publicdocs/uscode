@@ -249,7 +249,7 @@
 
                 (ii) if the restored work is published on the same day in 2 or more eligible countries, the eligible country which has the most significant contacts with the work.
 
-(Added [Pub. L. 103–182, title III, § 334(a)][/us/pl/103/182/s334/a], Dec. 8, 1993, [107 Stat. 2115][/us/stat/107/2115]; amended [Pub. L. 103–465, title V, § 514(a)][/us/pl/103/465/s514/a], Dec. 8, 1994, [108 Stat. 4976][/us/stat/108/4976]; [Pub. L. 104–295, § 20(e)(2)][/us/pl/104/295/s20/e/2], Oct. 11, 1996, [110 Stat. 3529][/us/stat/110/3529]; [Pub. L. 105–80, § 2][/us/pl/105/80/s2], Nov. 13, 1997, [111 Stat. 1530][/us/stat/111/1530]; [Pub. L. 105–304, title I, § 102(c)][/us/pl/105/304/s102/c], Oct. 28, 1998, [112 Stat. 2862][/us/stat/112/2862].)
+(Added [Pub. L. 103–182, title III][/us/pl/103/182/tIII], § 334(a), Dec. 8, 1993, [107 Stat. 2115][/us/stat/107/2115]; amended [Pub. L. 103–465, title V][/us/pl/103/465/tV], § 514(a), Dec. 8, 1994, [108 Stat. 4976][/us/stat/108/4976]; [Pub. L. 104–295][/us/pl/104/295], § 20(e)(2), Oct. 11, 1996, [110 Stat. 3529][/us/stat/110/3529]; [Pub. L. 105–80][/us/pl/105/80], § 2, Nov. 13, 1997, [111 Stat. 1530][/us/stat/111/1530]; [Pub. L. 105–304, title I][/us/pl/105/304/tI], § 102(c), Oct. 28, 1998, [112 Stat. 2862][/us/stat/112/2862].)
 
  __References in Text__ 
 
@@ -259,13 +259,13 @@
 
  __Amendments__ 
 
-    1998—Subsec. (h)(1)(A) to (E). [Pub. L. 105–304, § 102(c)(1)][/us/pl/105/304/s102/c/1], added subpars. (A) to (E) and struck out former subpars. (A) and (B) which read as follows:
+    1998—Subsec. (h)(1)(A) to (E). [Pub. L. 105–304][/us/pl/105/304], § 102(c)(1), added subpars. (A) to (E) and struck out former subpars. (A) and (B) which read as follows:
 
     “(A) a nation adhering to the Berne Convention or a WTO member country; or
 
     “(B) subject to a Presidential proclamation under subsection (g).”
 
-    Subsec. (h)(3). [Pub. L. 105–304, § 102(c)(2)][/us/pl/105/304/s102/c/2], amended par. (3) generally. Prior to amendment, par. (3) read as follows: “The term ‘eligible country’ means a nation, other than the United States, that—
+    Subsec. (h)(3). [Pub. L. 105–304][/us/pl/105/304], § 102(c)(2), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “The term ‘eligible country’ means a nation, other than the United States, that—
 
     “(A) becomes a WTO member country after the date of the enactment of the Uruguay Round Agreements Act;
 
@@ -275,13 +275,13 @@
 
     For purposes of this section, a nation that is a member of the Berne Convention on the date of the enactment of the Uruguay Round Agreements Act shall be construed to become an eligible country on such date of enactment.”
 
-    Subsec. (h)(6)(E). [Pub. L. 105–304, § 102(c)(3)][/us/pl/105/304/s102/c/3], added subpar. (E).
+    Subsec. (h)(6)(E). [Pub. L. 105–304][/us/pl/105/304], § 102(c)(3), added subpar. (E).
 
-    Subsec. (h)(8)(B)(i). [Pub. L. 105–304, § 102(c)(4)][/us/pl/105/304/s102/c/4], inserted “of which” before “the majority” and struck out “of eligible countries” after “domiciliaries”.
+    Subsec. (h)(8)(B)(i). [Pub. L. 105–304][/us/pl/105/304], § 102(c)(4), inserted “of which” before “the majority” and struck out “of eligible countries” after “domiciliaries”.
 
-    Subsec. (h)(9). [Pub. L. 105–304, § 102(c)(5)][/us/pl/105/304/s102/c/5], struck out par. (9) which read as follows: “The terms ‘WTO Agreement’ and ‘WTO member country’ have the meanings given those terms in paragraphs (9) and (10), respectively, of section 2 of the Uruguay Round Agreements Act.”
+    Subsec. (h)(9). [Pub. L. 105–304][/us/pl/105/304], § 102(c)(5), struck out par. (9) which read as follows: “The terms ‘WTO Agreement’ and ‘WTO member country’ have the meanings given those terms in paragraphs (9) and (10), respectively, of section 2 of the Uruguay Round Agreements Act.”
 
-    1997—Subsec. (d)(3)(A). [Pub. L. 105–80, § 2(1)][/us/pl/105/80/s2/1], amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “In the case of a derivative work that is based upon a restored work and is created—
+    1997—Subsec. (d)(3)(A). [Pub. L. 105–80][/us/pl/105/80], § 2(1), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “In the case of a derivative work that is based upon a restored work and is created—
 
     “(i) before the date of the enactment of the Uruguay Round Agreements Act, if the source country of the derivative work is an eligible country on such date, or
 
@@ -289,9 +289,9 @@
 
     a reliance party may continue to exploit that work for the duration of the restored copyright if the reliance party pays to the owner of the restored copyright reasonable compensation for conduct which would be subject to a remedy for infringement but for the provisions of this paragraph.”
 
-    Subsec. (e)(1)(B)(ii). [Pub. L. 105–80, § 2(2)][/us/pl/105/80/s2/2], struck out at end “Such list shall also be published in the Federal Register on an annual basis for the first 2 years after the applicable date of restoration.”
+    Subsec. (e)(1)(B)(ii). [Pub. L. 105–80][/us/pl/105/80], § 2(2), struck out at end “Such list shall also be published in the Federal Register on an annual basis for the first 2 years after the applicable date of restoration.”
 
-    Subsec. (h)(2), (3). [Pub. L. 105–80, § 2(3)][/us/pl/105/80/s2/3], (4), amended pars. (2) and (3) generally. Prior to amendment, pars. (2) and (3) read as follows:
+    Subsec. (h)(2), (3). [Pub. L. 105–80][/us/pl/105/80], § 2(3), (4), amended pars. (2) and (3) generally. Prior to amendment, pars. (2) and (3) read as follows:
 
     “(2) The ‘date of restoration’ of a restored copyright is the later of—
 
@@ -324,26 +324,26 @@
 ----------
 ----------
 
-[/us/pl/103/182/s334/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs334%2Fa
+[/us/pl/103/182/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2FtIII
 [/us/stat/107/2115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2115
-[/us/pl/103/465/s514/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs514%2Fa
+[/us/pl/103/465/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2FtV
 [/us/stat/108/4976]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4976
-[/us/pl/104/295/s20/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F295%2Fs20%2Fe%2F2
+[/us/pl/104/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F295
 [/us/stat/110/3529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3529
-[/us/pl/105/80/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F80%2Fs2
+[/us/pl/105/80]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F80
 [/us/stat/111/1530]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1530
-[/us/pl/105/304/s102/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F304%2Fs102%2Fc
+[/us/pl/105/304/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F304%2FtI
 [/us/stat/112/2862]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2862
 [/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
 [/us/usc/t19/s3511/d/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3511%2Fd%2F15
-[/us/pl/105/304/s102/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F304%2Fs102%2Fc%2F1
-[/us/pl/105/304/s102/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F304%2Fs102%2Fc%2F2
-[/us/pl/105/304/s102/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F304%2Fs102%2Fc%2F3
-[/us/pl/105/304/s102/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F304%2Fs102%2Fc%2F4
-[/us/pl/105/304/s102/c/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F304%2Fs102%2Fc%2F5
-[/us/pl/105/80/s2/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F80%2Fs2%2F1
-[/us/pl/105/80/s2/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F80%2Fs2%2F2
-[/us/pl/105/80/s2/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F80%2Fs2%2F3
+[/us/pl/105/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F304
+[/us/pl/105/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F304
+[/us/pl/105/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F304
+[/us/pl/105/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F304
+[/us/pl/105/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F304
+[/us/pl/105/80]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F80
+[/us/pl/105/80]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F80
+[/us/pl/105/80]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F80
 [/us/pl/104/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F295
 [/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
 [/us/pl/105/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F304

@@ -35,7 +35,7 @@
 
     (9) For purposes of this section, the term “industry rate” means the license fee a performing rights society has agreed to with, or which has been determined by the court for, a significant segment of the music user industry to which the individual proprietor belongs.
 
-(Added [Pub. L. 105–298, title II, § 203(a)][/us/pl/105/298/s203/a], Oct. 27, 1998, [112 Stat. 2831][/us/stat/112/2831], § 512; renumbered § 513, [Pub. L. 106–44, § 1(c)(1)][/us/pl/106/44/s1/c/1], Aug. 5, 1999, [113 Stat. 221][/us/stat/113/221].)
+(Added [Pub. L. 105–298, title II][/us/pl/105/298/tII], § 203(a), Oct. 27, 1998, [112 Stat. 2831][/us/stat/112/2831], § 512; renumbered § 513, [Pub. L. 106–44][/us/pl/106/44], § 1(c)(1), Aug. 5, 1999, [113 Stat. 221][/us/stat/113/221].)
 
  __Amendments__ 
 
@@ -52,9 +52,9 @@
 ----------
 ----------
 
-[/us/pl/105/298/s203/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F298%2Fs203%2Fa
+[/us/pl/105/298/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F298%2FtII
 [/us/stat/112/2831]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2831
-[/us/pl/106/44/s1/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F44%2Fs1%2Fc%2F1
+[/us/pl/106/44]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F44
 [/us/stat/113/221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F221
 [/us/pl/106/44]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F44
 [/us/usc/t17/s512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft17%2Fs512

@@ -45,7 +45,7 @@
 
     Notwithstanding the provisions of subsection (b), no works other than sound recordings shall be eligible for protection under this title solely by virtue of the adherence of the United States to the Geneva Phonograms Convention or the WIPO Performances and Phonograms Treaty.
 
-([Pub. L. 94–553, title I, § 101][/us/pl/94/553/s101], Oct. 19, 1976, [90 Stat. 2545][/us/stat/90/2545]; [Pub. L. 100–568, § 4(a)(2)][/us/pl/100/568/s4/a/2], (3), Oct. 31, 1988, [102 Stat. 2855][/us/stat/102/2855]; [Pub. L. 105–304, title I, § 102(b)][/us/pl/105/304/s102/b], Oct. 28, 1998, [112 Stat. 2862][/us/stat/112/2862].)
+([Pub. L. 94–553, title I][/us/pl/94/553/tI], § 101, Oct. 19, 1976, [90 Stat. 2545][/us/stat/90/2545]; [Pub. L. 100–568][/us/pl/100/568], § 4(a)(2), (3), Oct. 31, 1988, [102 Stat. 2855][/us/stat/102/2855]; [Pub. L. 105–304, title I][/us/pl/105/304/tI], § 102(b), Oct. 28, 1998, [112 Stat. 2862][/us/stat/112/2862].)
 
  __Historical and Revision Notes__ 
 
@@ -65,23 +65,23 @@
 
  __Amendments__ 
 
-    1998—Subsec. (b). [Pub. L. 105–304, § 102(b)(1)(G)][/us/pl/105/304/s102/b/1/G], inserted concluding provisions.
+    1998—Subsec. (b). [Pub. L. 105–304][/us/pl/105/304], § 102(b)(1)(G), inserted concluding provisions.
 
-    Subsec. (b)(1). [Pub. L. 105–304, § 102(b)(1)(A)][/us/pl/105/304/s102/b/1/A], substituted “treaty party” for “foreign nation that is a party to a copyright treaty to which the United States is also a party”.
+    Subsec. (b)(1). [Pub. L. 105–304][/us/pl/105/304], § 102(b)(1)(A), substituted “treaty party” for “foreign nation that is a party to a copyright treaty to which the United States is also a party”.
 
-    Subsec. (b)(2). [Pub. L. 105–304, § 102(b)(1)(B)][/us/pl/105/304/s102/b/1/B], substituted “treaty party” for “party to the Universal Copyright Convention”.
+    Subsec. (b)(2). [Pub. L. 105–304][/us/pl/105/304], § 102(b)(1)(B), substituted “treaty party” for “party to the Universal Copyright Convention”.
 
-    Subsec. (b)(3). [Pub. L. 105–304, § 102(b)(1)(E)][/us/pl/105/304/s102/b/1/E], added par. (3). Former par. (3) redesignated (5).
+    Subsec. (b)(3). [Pub. L. 105–304][/us/pl/105/304], § 102(b)(1)(E), added par. (3). Former par. (3) redesignated (5).
 
-    Subsec. (b)(4). [Pub. L. 105–304, § 102(b)(1)(F)][/us/pl/105/304/s102/b/1/F], substituted “pictorial, graphic, or sculptural work that is incorporated in a building or other structure, or an architectural work that is embodied in a building and the building or structure is located in the United States or a treaty party” for “Berne Convention work”.
+    Subsec. (b)(4). [Pub. L. 105–304][/us/pl/105/304], § 102(b)(1)(F), substituted “pictorial, graphic, or sculptural work that is incorporated in a building or other structure, or an architectural work that is embodied in a building and the building or structure is located in the United States or a treaty party” for “Berne Convention work”.
 
-    Subsec. (b)(5), (6). [Pub. L. 105–304, § 102(b)(1)(C)][/us/pl/105/304/s102/b/1/C], (D), redesignated par. (3) as (5) and transferred it to appear after par. (4) and redesignated former par. (5) as (6).
+    Subsec. (b)(5), (6). [Pub. L. 105–304][/us/pl/105/304], § 102(b)(1)(C), (D), redesignated par. (3) as (5) and transferred it to appear after par. (4) and redesignated former par. (5) as (6).
 
-    Subsec. (d). [Pub. L. 105–304, § 102(b)(2)][/us/pl/105/304/s102/b/2], added subsec. (d).
+    Subsec. (d). [Pub. L. 105–304][/us/pl/105/304], § 102(b)(2), added subsec. (d).
 
-    1988—Subsec. (b)(4), (5). [Pub. L. 100–568, § 4(a)(2)][/us/pl/100/568/s4/a/2], added par. (4) and redesignated former par. (4) as (5).
+    1988—Subsec. (b)(4), (5). [Pub. L. 100–568][/us/pl/100/568], § 4(a)(2), added par. (4) and redesignated former par. (4) as (5).
 
-    Subsec. (c). [Pub. L. 100–568, § 4(a)(3)][/us/pl/100/568/s4/a/3], added subsec. (c).
+    Subsec. (c). [Pub. L. 100–568][/us/pl/100/568], § 4(a)(3), added subsec. (c).
 
  __Effective Date of 1998 Amendment__ 
 
@@ -121,7 +121,7 @@
 
  __Presidential Proclamations Issued Under Predecessor Provisions__ 
 
-[Pub. L. 94–553, title I, § 104][/us/pl/94/553/s104], Oct. 19, 1976, [90 Stat. 2599][/us/stat/90/2599], provided that: 
+[Pub. L. 94–553, title I][/us/pl/94/553/tI], § 104, Oct. 19, 1976, [90 Stat. 2599][/us/stat/90/2599], provided that: 
 
 > “All proclamations issued by the President under section 1(e) or 9(b) of title 17 as it existed on December 31, 1977, or under previous copyright statutes of the United States, shall continue in force until terminated, suspended, or revised by the President.”
 
@@ -132,21 +132,21 @@
 ----------
 ----------
 
-[/us/pl/94/553/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F553%2Fs101
+[/us/pl/94/553/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F553%2FtI
 [/us/stat/90/2545]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2545
-[/us/pl/100/568/s4/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F568%2Fs4%2Fa%2F2
+[/us/pl/100/568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F568
 [/us/stat/102/2855]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2855
-[/us/pl/105/304/s102/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F304%2Fs102%2Fb
+[/us/pl/105/304/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F304%2FtI
 [/us/stat/112/2862]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2862
-[/us/pl/105/304/s102/b/1/G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F304%2Fs102%2Fb%2F1%2FG
-[/us/pl/105/304/s102/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F304%2Fs102%2Fb%2F1%2FA
-[/us/pl/105/304/s102/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F304%2Fs102%2Fb%2F1%2FB
-[/us/pl/105/304/s102/b/1/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F304%2Fs102%2Fb%2F1%2FE
-[/us/pl/105/304/s102/b/1/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F304%2Fs102%2Fb%2F1%2FF
-[/us/pl/105/304/s102/b/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F304%2Fs102%2Fb%2F1%2FC
-[/us/pl/105/304/s102/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F304%2Fs102%2Fb%2F2
-[/us/pl/100/568/s4/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F568%2Fs4%2Fa%2F2
-[/us/pl/100/568/s4/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F568%2Fs4%2Fa%2F3
+[/us/pl/105/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F304
+[/us/pl/105/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F304
+[/us/pl/105/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F304
+[/us/pl/105/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F304
+[/us/pl/105/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F304
+[/us/pl/105/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F304
+[/us/pl/105/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F304
+[/us/pl/100/568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F568
+[/us/pl/100/568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F568
 [/us/pl/105/304/s102/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F304%2Fs102%2Fb%2F1
 [/us/pl/105/304/s102/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F304%2Fs102%2Fb%2F2
 [/us/pl/105/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F304
@@ -161,7 +161,7 @@
 [/us/stat/35/1075]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F35%2F1075
 [/us/usc/t17/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft17%2Fs9
 [/us/usc/t17/s9/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft17%2Fs9%2Fb
-[/us/pl/94/553/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F553%2Fs104
+[/us/pl/94/553/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F553%2FtI
 [/us/stat/90/2599]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2599
 
 

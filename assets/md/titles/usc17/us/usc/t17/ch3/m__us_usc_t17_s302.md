@@ -35,7 +35,7 @@
 
     After a period of 95 years from the year of first publication of a work, or a period of 120 years from the year of its creation, whichever expires first, any person who obtains from the Copyright Office a certified report that the records provided by subsection (d) disclose nothing to indicate that the author of the work is living, or died less than 70 years before, is entitled to the benefits of a presumption that the author has been dead for at least 70 years. Reliance in good faith upon this presumption shall be a complete defense to any action for infringement under this title.
 
-([Pub. L. 94–553, title I, § 101][/us/pl/94/553/s101], Oct. 19, 1976, [90 Stat. 2572][/us/stat/90/2572]; [Pub. L. 105–298, title I, § 102(b)][/us/pl/105/298/s102/b], Oct. 27, 1998, [112 Stat. 2827][/us/stat/112/2827].)
+([Pub. L. 94–553, title I][/us/pl/94/553/tI], § 101, Oct. 19, 1976, [90 Stat. 2572][/us/stat/90/2572]; [Pub. L. 105–298, title I][/us/pl/105/298/tI], § 102(b), Oct. 27, 1998, [112 Stat. 2827][/us/stat/112/2827].)
 
  __Historical and Revision Notes__ 
 
@@ -93,11 +93,11 @@
 
  __Amendments__ 
 
-    1998—Subsecs. (a), (b). [Pub. L. 105–298, § 102(b)(1)][/us/pl/105/298/s102/b/1], (2), substituted “70” for “fifty”.
+    1998—Subsecs. (a), (b). [Pub. L. 105–298][/us/pl/105/298], § 102(b)(1), (2), substituted “70” for “fifty”.
 
-    Subsec. (c). [Pub. L. 105–298, § 102(b)(3)][/us/pl/105/298/s102/b/3], in first sentence, substituted “95” for “seventy-five” and “120” for “one hundred”.
+    Subsec. (c). [Pub. L. 105–298][/us/pl/105/298], § 102(b)(3), in first sentence, substituted “95” for “seventy-five” and “120” for “one hundred”.
 
-    Subsec. (e). [Pub. L. 105–298, § 102(b)(4)][/us/pl/105/298/s102/b/4], in first sentence, substituted “95” for “seventy-five”, “120” for “one hundred”, and “70” for “fifty” in two places.
+    Subsec. (e). [Pub. L. 105–298][/us/pl/105/298], § 102(b)(4), in first sentence, substituted “95” for “seventy-five”, “120” for “one hundred”, and “70” for “fifty” in two places.
 
 ----------
 
@@ -106,12 +106,12 @@
 ----------
 ----------
 
-[/us/pl/94/553/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F553%2Fs101
+[/us/pl/94/553/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F553%2FtI
 [/us/stat/90/2572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2572
-[/us/pl/105/298/s102/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F298%2Fs102%2Fb
+[/us/pl/105/298/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F298%2FtI
 [/us/stat/112/2827]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2827
-[/us/pl/105/298/s102/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F298%2Fs102%2Fb%2F1
-[/us/pl/105/298/s102/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F298%2Fs102%2Fb%2F3
-[/us/pl/105/298/s102/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F298%2Fs102%2Fb%2F4
+[/us/pl/105/298]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F298
+[/us/pl/105/298]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F298
+[/us/pl/105/298]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F298
 
 

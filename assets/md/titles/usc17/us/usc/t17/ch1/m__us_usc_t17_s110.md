@@ -137,7 +137,7 @@
 
     Nothing in paragraph (11) shall be construed to imply further rights under [section 106 of this title][/us/usc/t17/s106], or to have any effect on defenses or limitations on rights granted under any other section of this title or under any other paragraph of this section.
 
-([Pub. L. 94–553, title I, § 101][/us/pl/94/553/s101], Oct. 19, 1976, [90 Stat. 2549][/us/stat/90/2549]; [Pub. L. 97–366, § 3][/us/pl/97/366/s3], Oct. 25, 1982, [96 Stat. 1759][/us/stat/96/1759]; [Pub. L. 105–80, § 12(a)(6)][/us/pl/105/80/s12/a/6], Nov. 13, 1997, [111 Stat. 1534][/us/stat/111/1534]; [Pub. L. 105–298, title II, § 202][/us/pl/105/298/s202], Oct. 27, 1998, [112 Stat. 2830][/us/stat/112/2830]; [Pub. L. 106–44, § 1(a)][/us/pl/106/44/s1/a], Aug. 5, 1999, [113 Stat. 221][/us/stat/113/221]; [Pub. L. 107–273, div. C, title III][/us/pl/107/273], §§ 13210(6), 13301(b), Nov. 2, 2002, [116 Stat. 1909][/us/stat/116/1909], 1910; [Pub. L. 109–9, title II, § 202(a)][/us/pl/109/9/s202/a], Apr. 27, 2005, [119 Stat. 223][/us/stat/119/223].)
+([Pub. L. 94–553, title I][/us/pl/94/553/tI], § 101, Oct. 19, 1976, [90 Stat. 2549][/us/stat/90/2549]; [Pub. L. 97–366][/us/pl/97/366], § 3, Oct. 25, 1982, [96 Stat. 1759][/us/stat/96/1759]; [Pub. L. 105–80][/us/pl/105/80], § 12(a)(6), Nov. 13, 1997, [111 Stat. 1534][/us/stat/111/1534]; [Pub. L. 105–298, title II][/us/pl/105/298/tII], § 202, Oct. 27, 1998, [112 Stat. 2830][/us/stat/112/2830]; [Pub. L. 106–44][/us/pl/106/44], § 1(a), Aug. 5, 1999, [113 Stat. 221][/us/stat/113/221]; [Pub. L. 107–273, div. C, title III][/us/pl/107/273/dC/tIII], §§ 13210(6), 13301(b), Nov. 2, 2002, [116 Stat. 1909][/us/stat/116/1909], 1910; [Pub. L. 109–9, title II][/us/pl/109/9/tII], § 202(a), Apr. 27, 2005, [119 Stat. 223][/us/stat/119/223].)
 
  __Historical and Revision Notes__ 
 
@@ -223,13 +223,13 @@ Scope of Exemption.—The exemption in clause (4) applies to the same general ac
 
  __Amendments__ 
 
-    2005—[Pub. L. 109–9, § 202(a)(4)][/us/pl/109/9/s202/a/4], inserted two pars. relating to par. (11) at end of concluding provisions.
+    2005—[Pub. L. 109–9][/us/pl/109/9], § 202(a)(4), inserted two pars. relating to par. (11) at end of concluding provisions.
 
-    Par. (11). [Pub. L. 109–9, § 202(a)(1)][/us/pl/109/9/s202/a/1]–(3), added par. (11).
+    Par. (11). [Pub. L. 109–9][/us/pl/109/9], § 202(a)(1)–(3), added par. (11).
 
-    2002—[Pub. L. 107–273, § 13301(b)(2)][/us/pl/107/273/s13301/b/2], inserted concluding provisions relating to par. (2).
+    2002—[Pub. L. 107–273][/us/pl/107/273], § 13301(b)(2), inserted concluding provisions relating to par. (2).
 
-    Par. (2). [Pub. L. 107–273, § 13301(b)(1)][/us/pl/107/273/s13301/b/1], added par. (2) and struck out former par. (2) which read as follows: “performance of a nondramatic literary or musical work or display of a work, by or in the course of a transmission, if—
+    Par. (2). [Pub. L. 107–273][/us/pl/107/273], § 13301(b)(1), added par. (2) and struck out former par. (2) which read as follows: “performance of a nondramatic literary or musical work or display of a work, by or in the course of a transmission, if—
 
     “(A) the performance or display is a regular part of the systematic instructional activities of a governmental body or a nonprofit educational institution; and
 
@@ -243,21 +243,21 @@ Scope of Exemption.—The exemption in clause (4) applies to the same general ac
 
     “(iii) reception by officers or employees of governmental bodies as a part of their official duties or employment;”.
 
-    Par. (4)(B). [Pub. L. 107–273, § 13210(6)][/us/pl/107/273/s13210/6], substituted colon for semicolon at end of introductory provisions.
+    Par. (4)(B). [Pub. L. 107–273][/us/pl/107/273], § 13210(6), substituted colon for semicolon at end of introductory provisions.
 
     1999—Par. (5)(A). [Pub. L. 106–44][/us/pl/106/44] redesignated cls. (A) and (B) as (i) and (ii), respectively.
 
-    1998—[Pub. L. 105–298, § 202(a)(2)][/us/pl/105/298/s202/a/2], inserted concluding provisions relating to par. (5).
+    1998—[Pub. L. 105–298][/us/pl/105/298], § 202(a)(2), inserted concluding provisions relating to par. (5).
 
-    Par. (5). [Pub. L. 105–298, § 202(a)(1)][/us/pl/105/298/s202/a/1], designated existing provisions as subpar. (A), inserted “except as provided in subparagraph (B),” after “(A)”, and added subpar. (B).
+    Par. (5). [Pub. L. 105–298][/us/pl/105/298], § 202(a)(1), designated existing provisions as subpar. (A), inserted “except as provided in subparagraph (B),” after “(A)”, and added subpar. (B).
 
-    Par. (7). [Pub. L. 105–298, § 202(b)][/us/pl/105/298/s202/b], inserted “or of the audiovisual or other devices utilized in such performance,” after “phonorecords of the work,”.
+    Par. (7). [Pub. L. 105–298][/us/pl/105/298], § 202(b), inserted “or of the audiovisual or other devices utilized in such performance,” after “phonorecords of the work,”.
 
-    1997—Par. (8). [Pub. L. 105–80, § 12(a)(6)(A)][/us/pl/105/80/s12/a/6/A], substituted semicolon for period at end.
+    1997—Par. (8). [Pub. L. 105–80][/us/pl/105/80], § 12(a)(6)(A), substituted semicolon for period at end.
 
-    Par. (9). [Pub. L. 105–80, § 12(a)(6)(B)][/us/pl/105/80/s12/a/6/B], substituted “; and” for period at end.
+    Par. (9). [Pub. L. 105–80][/us/pl/105/80], § 12(a)(6)(B), substituted “; and” for period at end.
 
-    Par. (10). [Pub. L. 105–80, § 12(a)(6)(C)][/us/pl/105/80/s12/a/6/C], substituted “paragraph (4)” for “paragraph 4 above”.
+    Par. (10). [Pub. L. 105–80][/us/pl/105/80], § 12(a)(6)(C), substituted “paragraph (4)” for “paragraph 4 above”.
 
     1982—Par. (10). [Pub. L. 97–366][/us/pl/97/366] added par. (10).
 
@@ -278,32 +278,32 @@ Scope of Exemption.—The exemption in clause (4) applies to the same general ac
 
 [/us/usc/t47/s397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs397
 [/us/usc/t17/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft17%2Fs106
-[/us/pl/94/553/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F553%2Fs101
+[/us/pl/94/553/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F553%2FtI
 [/us/stat/90/2549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2549
-[/us/pl/97/366/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F366%2Fs3
+[/us/pl/97/366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F366
 [/us/stat/96/1759]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1759
-[/us/pl/105/80/s12/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F80%2Fs12%2Fa%2F6
+[/us/pl/105/80]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F80
 [/us/stat/111/1534]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1534
-[/us/pl/105/298/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F298%2Fs202
+[/us/pl/105/298/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F298%2FtII
 [/us/stat/112/2830]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2830
-[/us/pl/106/44/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F44%2Fs1%2Fa
-[/us/stat/113/221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F221
-[/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
-[/us/stat/116/1909]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1909
-[/us/pl/109/9/s202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F9%2Fs202%2Fa
-[/us/stat/119/223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F223
-[/us/pl/109/9/s202/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F9%2Fs202%2Fa%2F4
-[/us/pl/109/9/s202/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F9%2Fs202%2Fa%2F1
-[/us/pl/107/273/s13301/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs13301%2Fb%2F2
-[/us/pl/107/273/s13301/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs13301%2Fb%2F1
-[/us/pl/107/273/s13210/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs13210%2F6
 [/us/pl/106/44]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F44
-[/us/pl/105/298/s202/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F298%2Fs202%2Fa%2F2
-[/us/pl/105/298/s202/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F298%2Fs202%2Fa%2F1
-[/us/pl/105/298/s202/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F298%2Fs202%2Fb
-[/us/pl/105/80/s12/a/6/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F80%2Fs12%2Fa%2F6%2FA
-[/us/pl/105/80/s12/a/6/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F80%2Fs12%2Fa%2F6%2FB
-[/us/pl/105/80/s12/a/6/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F80%2Fs12%2Fa%2F6%2FC
+[/us/stat/113/221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F221
+[/us/pl/107/273/dC/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdC%2FtIII
+[/us/stat/116/1909]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1909
+[/us/pl/109/9/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F9%2FtII
+[/us/stat/119/223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F223
+[/us/pl/109/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F9
+[/us/pl/109/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F9
+[/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
+[/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
+[/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
+[/us/pl/106/44]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F44
+[/us/pl/105/298]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F298
+[/us/pl/105/298]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F298
+[/us/pl/105/298]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F298
+[/us/pl/105/80]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F80
+[/us/pl/105/80]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F80
+[/us/pl/105/80]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F80
 [/us/pl/97/366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F366
 [/us/pl/105/298]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F298
 [/us/pl/105/298/s207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F298%2Fs207

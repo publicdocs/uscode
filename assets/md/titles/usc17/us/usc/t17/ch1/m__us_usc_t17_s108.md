@@ -97,7 +97,7 @@
 
     (i) The rights of reproduction and distribution under this section do not apply to a musical work, a pictorial, graphic or sculptural work, or a motion picture or other audiovisual work other than an audiovisual work dealing with news, except that no such limitation shall apply with respect to rights granted by subsections (b), (c), and (h), or with respect to pictorial or graphic works published as illustrations, diagrams, or similar adjuncts to works of which copies are reproduced or distributed in accordance with subsections (d) and (e).
 
-([Pub. L. 94–553, title I, § 101][/us/pl/94/553/s101], Oct. 19, 1976, [90 Stat. 2546][/us/stat/90/2546]; [Pub. L. 102–307, title III, § 301][/us/pl/102/307/s301], June 26, 1992, [106 Stat. 272][/us/stat/106/272]; [Pub. L. 105–80, § 12(a)(4)][/us/pl/105/80/s12/a/4], Nov. 13, 1997, [111 Stat. 1534][/us/stat/111/1534]; [Pub. L. 105–298, title I, § 104][/us/pl/105/298/s104], Oct. 27, 1998, [112 Stat. 2829][/us/stat/112/2829]; [Pub. L. 105–304, title IV, § 404][/us/pl/105/304/s404], Oct. 28, 1998, [112 Stat. 2889][/us/stat/112/2889]; [Pub. L. 109–9, title IV, § 402][/us/pl/109/9/s402], Apr. 27, 2005, [119 Stat. 227][/us/stat/119/227].)
+([Pub. L. 94–553, title I][/us/pl/94/553/tI], § 101, Oct. 19, 1976, [90 Stat. 2546][/us/stat/90/2546]; [Pub. L. 102–307, title III][/us/pl/102/307/tIII], § 301, June 26, 1992, [106 Stat. 272][/us/stat/106/272]; [Pub. L. 105–80][/us/pl/105/80], § 12(a)(4), Nov. 13, 1997, [111 Stat. 1534][/us/stat/111/1534]; [Pub. L. 105–298, title I][/us/pl/105/298/tI], § 104, Oct. 27, 1998, [112 Stat. 2829][/us/stat/112/2829]; [Pub. L. 105–304, title IV][/us/pl/105/304/tIV], § 404, Oct. 28, 1998, [112 Stat. 2889][/us/stat/112/2889]; [Pub. L. 109–9, title IV][/us/pl/109/9/tIV], § 402, Apr. 27, 2005, [119 Stat. 227][/us/stat/119/227].)
 
  __Historical and Revision Notes__ 
 
@@ -161,11 +161,11 @@ Clause (4), in addition to asserting that nothing contained in section 108 “af
 
     2005—Subsec. (i). [Pub. L. 109–9][/us/pl/109/9] substituted “(b), (c), and (h)” for “(b) and (c)”.
 
-    1998—Subsec. (a). [Pub. L. 105–304, § 404(1)(A)][/us/pl/105/304/s404/1/A], (B), in introductory provisions, substituted “Except as otherwise provided in this title and notwithstanding” for “Notwithstanding” and inserted “, except as provided in subsections (b) and (c)” after “of a work”.
+    1998—Subsec. (a). [Pub. L. 105–304][/us/pl/105/304], § 404(1)(A), (B), in introductory provisions, substituted “Except as otherwise provided in this title and notwithstanding” for “Notwithstanding” and inserted “, except as provided in subsections (b) and (c)” after “of a work”.
 
-    Subsec. (a)(3). [Pub. L. 105–304, § 404(1)(C)][/us/pl/105/304/s404/1/C], inserted before period at end “that appears on the copy or phonorecord that is reproduced under the provisions of this section, or includes a legend stating that the work may be protected by copyright if no such notice can be found on the copy or phonorecord that is reproduced under the provisions of this section”.
+    Subsec. (a)(3). [Pub. L. 105–304][/us/pl/105/304], § 404(1)(C), inserted before period at end “that appears on the copy or phonorecord that is reproduced under the provisions of this section, or includes a legend stating that the work may be protected by copyright if no such notice can be found on the copy or phonorecord that is reproduced under the provisions of this section”.
 
-    Subsec. (b). [Pub. L. 105–304, § 404(2)][/us/pl/105/304/s404/2], substituted “three copies or phonorecords” for “a copy or phonorecord”, struck out “in facsimile form” after “duplicated”, and substituted “if—
+    Subsec. (b). [Pub. L. 105–304][/us/pl/105/304], § 404(2), substituted “three copies or phonorecords” for “a copy or phonorecord”, struck out “in facsimile form” after “duplicated”, and substituted “if—
 
     “(1) the copy or phonorecord reproduced is currently in the collections of the library or archives; and
 
@@ -173,7 +173,7 @@ Clause (4), in addition to asserting that nothing contained in section 108 “af
 
     for “if the copy or phonorecord reproduced is currently in the collections of the library or archives.”
 
-    Subsec. (c). [Pub. L. 105–304, § 404(3)][/us/pl/105/304/s404/3], substituted “three copies or phonorecords” for “a copy or phonorecord”, struck out “in facsimile form” after “duplicated”, inserted “or if the existing format in which the work is stored has become obsolete,” after “stolen,”, substituted “if—
+    Subsec. (c). [Pub. L. 105–304][/us/pl/105/304], § 404(3), substituted “three copies or phonorecords” for “a copy or phonorecord”, struck out “in facsimile form” after “duplicated”, inserted “or if the existing format in which the work is stored has become obsolete,” after “stolen,”, substituted “if—
 
     “(1) the library or archives has, after a reasonable effort, determined that an unused replacement cannot be obtained at a fair price; and
 
@@ -189,11 +189,11 @@ Clause (4), in addition to asserting that nothing contained in section 108 “af
 
  __Effective Date of 1998 Amendments__ 
 
-[Pub. L. 105–304, title IV, § 407][/us/pl/105/304/s407], Oct. 28, 1998, [112 Stat. 2905][/us/stat/112/2905], provided that: 
+[Pub. L. 105–304, title IV][/us/pl/105/304/tIV], § 407, Oct. 28, 1998, [112 Stat. 2905][/us/stat/112/2905], provided that: 
 
 > “Except as otherwise provided in this title \[enacting [section 4001 of Title 28][/us/usc/t28/s4001], Judiciary and Judicial Procedure, amending this section, sections 112, 114, 701, and 801 to 803 of this title, [section 5314 of Title 5][/us/usc/t5/s5314], Government Organization and Employees, and [section 3 of Title 35][/us/usc/t35/s3], Patents, and enacting provisions set out as notes under sections 112 and 114 of this title\], this title and the amendments made by this title shall take effect on the date of the enactment of this Act \[Oct. 28, 1998\].”
 
-[Pub. L. 105–298, title I, § 106][/us/pl/105/298/s106], Oct. 27, 1998, [112 Stat. 2829][/us/stat/112/2829], provided that: 
+[Pub. L. 105–298, title I][/us/pl/105/298/tI], § 106, Oct. 27, 1998, [112 Stat. 2829][/us/stat/112/2829], provided that: 
 
 > “This title \[amending this section and sections 203 and 301 to 304 of this title, enacting provisions set out as a note under [section 101 of this title][/us/usc/t17/s101], and amending provisions set out as notes under sections 101 and 304 of this title\] and the amendments made by this title shall take effect on the date of the enactment of this Act \[Oct. 27, 1998\].”
 
@@ -204,33 +204,33 @@ Clause (4), in addition to asserting that nothing contained in section 108 “af
 ----------
 ----------
 
-[/us/pl/94/553/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F553%2Fs101
+[/us/pl/94/553/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F553%2FtI
 [/us/stat/90/2546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2546
-[/us/pl/102/307/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F307%2Fs301
+[/us/pl/102/307/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F307%2FtIII
 [/us/stat/106/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F272
-[/us/pl/105/80/s12/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F80%2Fs12%2Fa%2F4
+[/us/pl/105/80]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F80
 [/us/stat/111/1534]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1534
-[/us/pl/105/298/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F298%2Fs104
+[/us/pl/105/298/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F298%2FtI
 [/us/stat/112/2829]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2829
-[/us/pl/105/304/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F304%2Fs404
+[/us/pl/105/304/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F304%2FtIV
 [/us/stat/112/2889]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2889
-[/us/pl/109/9/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F9%2Fs402
+[/us/pl/109/9/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F9%2FtIV
 [/us/stat/119/227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F227
 [/us/usc/t2/s170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs170
 [/us/pl/109/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F9
-[/us/pl/105/304/s404/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F304%2Fs404%2F1%2FA
-[/us/pl/105/304/s404/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F304%2Fs404%2F1%2FC
-[/us/pl/105/304/s404/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F304%2Fs404%2F2
-[/us/pl/105/304/s404/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F304%2Fs404%2F3
+[/us/pl/105/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F304
+[/us/pl/105/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F304
+[/us/pl/105/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F304
+[/us/pl/105/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F304
 [/us/pl/105/298]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F298
 [/us/pl/105/80]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F80
 [/us/pl/102/307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F307
-[/us/pl/105/304/s407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F304%2Fs407
+[/us/pl/105/304/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F304%2FtIV
 [/us/stat/112/2905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2905
 [/us/usc/t28/s4001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs4001
 [/us/usc/t5/s5314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5314
 [/us/usc/t35/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft35%2Fs3
-[/us/pl/105/298/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F298%2Fs106
+[/us/pl/105/298/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F298%2FtI
 [/us/stat/112/2829]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2829
 [/us/usc/t17/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft17%2Fs101
 

@@ -23,7 +23,7 @@
 
     (d) Notwithstanding subsection (c), nothing in this chapter shall detract from any rights of a mask work owner, whether under Federal law (exclusive of this chapter) or under the common law or the statutes of a State, heretofore or hereafter declared or enacted, with respect to any mask work first commercially exploited before July 1, 1983.
 
-(Added [Pub. L. 98–620, title III, § 302][/us/pl/98/620/s302], Nov. 8, 1984, [98 Stat. 3354][/us/stat/98/3354]; amended [Pub. L. 100–702, title X, § 1020(b)][/us/pl/100/702/s1020/b], Nov. 19, 1988, [102 Stat. 4672][/us/stat/102/4672]; [Pub. L. 102–563, § 3(c)][/us/pl/102/563/s3/c], Oct. 28, 1992, [106 Stat. 4248][/us/stat/106/4248].)
+(Added [Pub. L. 98–620, title III][/us/pl/98/620/tIII], § 302, Nov. 8, 1984, [98 Stat. 3354][/us/stat/98/3354]; amended [Pub. L. 100–702, title X][/us/pl/100/702/tX], § 1020(b), Nov. 19, 1988, [102 Stat. 4672][/us/stat/102/4672]; [Pub. L. 102–563][/us/pl/102/563], § 3(c), Oct. 28, 1992, [106 Stat. 4248][/us/stat/106/4248].)
 
  __Amendments__ 
 
@@ -39,11 +39,11 @@
 ----------
 
 [/us/usc/t17/s908/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft17%2Fs908%2Fb
-[/us/pl/98/620/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620%2Fs302
+[/us/pl/98/620/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620%2FtIII
 [/us/stat/98/3354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3354
-[/us/pl/100/702/s1020/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702%2Fs1020%2Fb
+[/us/pl/100/702/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702%2FtX
 [/us/stat/102/4672]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4672
-[/us/pl/102/563/s3/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F563%2Fs3%2Fc
+[/us/pl/102/563]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F563
 [/us/stat/106/4248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4248
 [/us/pl/102/563]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F563
 [/us/pl/100/702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702

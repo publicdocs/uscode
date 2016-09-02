@@ -25,7 +25,7 @@
 
         (2) in the case of a transfer executed in a foreign country, the certificate is issued by a diplomatic or consular officer of the United States, or by a person authorized to administer oaths whose authority is proved by a certificate of such an officer.
 
-([Pub. L. 94–553, title I, § 101][/us/pl/94/553/s101], Oct. 19, 1976, [90 Stat. 2570][/us/stat/90/2570].)
+([Pub. L. 94–553, title I][/us/pl/94/553/tI], § 101, Oct. 19, 1976, [90 Stat. 2570][/us/stat/90/2570].)
 
  __Historical and Revision Notes__ 
 
@@ -40,7 +40,7 @@
 ----------
 ----------
 
-[/us/pl/94/553/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F553%2Fs101
+[/us/pl/94/553/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F553%2FtI
 [/us/stat/90/2570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2570
 
 

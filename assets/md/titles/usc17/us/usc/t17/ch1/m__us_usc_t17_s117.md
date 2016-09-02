@@ -43,7 +43,7 @@
 
         (2) the “repair” of a machine is the restoring of the machine to the state of working in accordance with its original specifications and any changes to those specifications authorized for that machine.
 
-([Pub. L. 94–553, title I, § 101][/us/pl/94/553/s101], Oct. 19, 1976, [90 Stat. 2565][/us/stat/90/2565]; [Pub. L. 96–517, § 10(b)][/us/pl/96/517/s10/b], Dec. 12, 1980, [94 Stat. 3028][/us/stat/94/3028]; [Pub. L. 105–304, title III, § 302][/us/pl/105/304/s302], Oct. 28, 1998, [112 Stat. 2887][/us/stat/112/2887].)
+([Pub. L. 94–553, title I][/us/pl/94/553/tI], § 101, Oct. 19, 1976, [90 Stat. 2565][/us/stat/90/2565]; [Pub. L. 96–517][/us/pl/96/517], § 10(b), Dec. 12, 1980, [94 Stat. 3028][/us/stat/94/3028]; [Pub. L. 105–304, title III][/us/pl/105/304/tIII], § 302, Oct. 28, 1998, [112 Stat. 2887][/us/stat/112/2887].)
 
  __Historical and Revision Notes__ 
 
@@ -70,11 +70,11 @@
 ----------
 ----------
 
-[/us/pl/94/553/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F553%2Fs101
+[/us/pl/94/553/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F553%2FtI
 [/us/stat/90/2565]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2565
-[/us/pl/96/517/s10/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F517%2Fs10%2Fb
+[/us/pl/96/517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F517
 [/us/stat/94/3028]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3028
-[/us/pl/105/304/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F304%2Fs302
+[/us/pl/105/304/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F304%2FtIII
 [/us/stat/112/2887]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2887
 [/us/pl/105/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F304
 [/us/pl/96/517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F517

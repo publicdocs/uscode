@@ -29,7 +29,7 @@
 
         (3) In the event that a person imports or distributes infringing semiconductor chip product units described in paragraph (2) of this subsection without first paying or offering to pay the reasonable royalty specified in such paragraph, or if the person refuses or fails to make such payment, the mask work owner shall be entitled to the relief provided in sections 910 and 911.
 
-(Added [Pub. L. 98–620, title III, § 302][/us/pl/98/620/s302], Nov. 8, 1984, [98 Stat. 3354][/us/stat/98/3354].)
+(Added [Pub. L. 98–620, title III][/us/pl/98/620/tIII], § 302, Nov. 8, 1984, [98 Stat. 3354][/us/stat/98/3354].)
 
  __References in Text__ 
 
@@ -42,7 +42,7 @@
 ----------
 ----------
 
-[/us/pl/98/620/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620%2Fs302
+[/us/pl/98/620/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620%2FtIII
 [/us/stat/98/3354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3354
 [/us/pl/98/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620
 

@@ -19,7 +19,7 @@
 
     (b) Any such injunction may be served anywhere in the United States on the person enjoined; it shall be operative throughout the United States and shall be enforceable, by proceedings in contempt or otherwise, by any United States court having jurisdiction of that person. The clerk of the court granting the injunction shall, when requested by any other court in which enforcement of the injunction is sought, transmit promptly to the other court a certified copy of all the papers in the case on file in such clerk’s office.
 
-([Pub. L. 94–553, title I, § 101][/us/pl/94/553/s101], Oct. 19, 1976, [90 Stat. 2584][/us/stat/90/2584].)
+([Pub. L. 94–553, title I][/us/pl/94/553/tI], § 101, Oct. 19, 1976, [90 Stat. 2584][/us/stat/90/2584].)
 
  __Historical and Revision Notes__ 
 
@@ -37,7 +37,7 @@
 ----------
 
 [/us/usc/t28/s1498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1498
-[/us/pl/94/553/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F553%2Fs101
+[/us/pl/94/553/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F553%2FtI
 [/us/stat/90/2584]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2584
 [/us/usc/t28/s1498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1498
 

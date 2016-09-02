@@ -111,7 +111,7 @@
 
     (13) A “writer” is the composer or lyricist of a particular musical work.
 
-(Added [Pub. L. 102–563, § 2][/us/pl/102/563/s2], Oct. 28, 1992, [106 Stat. 4237][/us/stat/106/4237].)
+(Added [Pub. L. 102–563][/us/pl/102/563], § 2, Oct. 28, 1992, [106 Stat. 4237][/us/stat/106/4237].)
 
  __References in Text__ 
 
@@ -119,7 +119,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 102–563, § 4][/us/pl/102/563/s4], Oct. 28, 1992, [106 Stat. 4248][/us/stat/106/4248], provided that: 
+[Pub. L. 102–563][/us/pl/102/563], § 4, Oct. 28, 1992, [106 Stat. 4248][/us/stat/106/4248], provided that: 
 
 > “This Act \[see Short Title of 1992 Amendment note set out under [section 101 of this title][/us/usc/t17/s101]\] and the amendments made by this Act shall take effect on the date of the enactment of this Act \[Oct. 28, 1992\].”
 
@@ -131,10 +131,10 @@
 ----------
 
 [/us/usc/t17/s106/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft17%2Fs106%2F1
-[/us/pl/102/563/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F563%2Fs2
+[/us/pl/102/563]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F563
 [/us/stat/106/4237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4237
 [/us/usc/t26/s482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs482
-[/us/pl/102/563/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F563%2Fs4
+[/us/pl/102/563]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F563
 [/us/stat/106/4248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4248
 [/us/usc/t17/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft17%2Fs101
 

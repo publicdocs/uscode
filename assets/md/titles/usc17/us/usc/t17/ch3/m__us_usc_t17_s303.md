@@ -19,7 +19,7 @@
 
     (b) The distribution before January 1, 1978, of a phonorecord shall not for any purpose constitute a publication of any musical work, dramatic work, or literary work embodied therein.
 
-([Pub. L. 94–553, title I, § 101][/us/pl/94/553/s101], Oct. 19, 1976, [90 Stat. 2573][/us/stat/90/2573]; [Pub. L. 105–80, § 11][/us/pl/105/80/s11], Nov. 13, 1997, [111 Stat. 1534][/us/stat/111/1534]; [Pub. L. 105–298, title I, § 102(c)][/us/pl/105/298/s102/c], Oct. 27, 1998, [112 Stat. 2827][/us/stat/112/2827]; [Pub. L. 111–295, § 5(a)][/us/pl/111/295/s5/a], Dec. 9, 2010, [124 Stat. 3181][/us/stat/124/3181].)
+([Pub. L. 94–553, title I][/us/pl/94/553/tI], § 101, Oct. 19, 1976, [90 Stat. 2573][/us/stat/90/2573]; [Pub. L. 105–80][/us/pl/105/80], § 11, Nov. 13, 1997, [111 Stat. 1534][/us/stat/111/1534]; [Pub. L. 105–298, title I][/us/pl/105/298/tI], § 102(c), Oct. 27, 1998, [112 Stat. 2827][/us/stat/112/2827]; [Pub. L. 111–295][/us/pl/111/295], § 5(a), Dec. 9, 2010, [124 Stat. 3181][/us/stat/124/3181].)
 
  __Historical and Revision Notes__ 
 
@@ -46,13 +46,13 @@
 ----------
 ----------
 
-[/us/pl/94/553/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F553%2Fs101
+[/us/pl/94/553/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F553%2FtI
 [/us/stat/90/2573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2573
-[/us/pl/105/80/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F80%2Fs11
+[/us/pl/105/80]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F80
 [/us/stat/111/1534]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1534
-[/us/pl/105/298/s102/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F298%2Fs102%2Fc
+[/us/pl/105/298/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F298%2FtI
 [/us/stat/112/2827]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2827
-[/us/pl/111/295/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F295%2Fs5%2Fa
+[/us/pl/111/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F295
 [/us/stat/124/3181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3181
 [/us/pl/111/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F295
 [/us/pl/105/298]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F298

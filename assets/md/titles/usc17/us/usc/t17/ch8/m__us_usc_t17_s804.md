@@ -81,7 +81,7 @@
 
         With respect to proceedings under section 801(b)(3) concerning the distribution of royalty fees in certain circumstances under section 111, 119, or 1007, the Copyright Royalty Judges shall, upon a determination that a controversy exists concerning such distribution, cause to be published in the Federal Register notice of commencement of proceedings under this chapter.
 
-(Added [Pub. L. 108–419, § 3(a)][/us/pl/108/419/s3/a], Nov. 30, 2004, [118 Stat. 2357][/us/stat/118/2357]; amended [Pub. L. 109–303, § 3(12)][/us/pl/109/303/s3/12], (13), Oct. 6, 2006, [120 Stat. 1481][/us/stat/120/1481]; [Pub. L. 111–175, title I, § 104(f)][/us/pl/111/175/s104/f], May 27, 2010, [124 Stat. 1238][/us/stat/124/1238].)
+(Added [Pub. L. 108–419][/us/pl/108/419], § 3(a), Nov. 30, 2004, [118 Stat. 2357][/us/stat/118/2357]; amended [Pub. L. 109–303][/us/pl/109/303], § 3(12), (13), Oct. 6, 2006, [120 Stat. 1481][/us/stat/120/1481]; [Pub. L. 111–175, title I][/us/pl/111/175/tI], § 104(f), May 27, 2010, [124 Stat. 1238][/us/stat/124/1238].)
 
  __References in Text__ 
 
@@ -95,13 +95,13 @@
 
     2010—Subsec. (b)(1)(A), (B). [Pub. L. 111–175][/us/pl/111/175] substituted “2015” for “2005”.
 
-    2006—Subsec. (b)(1)(B). [Pub. L. 109–303, § 3(12)][/us/pl/109/303/s3/12], substituted “801(b)(2)(B) or (C)” for “801(b)(3)(B) or (C)” and “change in” for “change is”.
+    2006—Subsec. (b)(1)(B). [Pub. L. 109–303][/us/pl/109/303], § 3(12), substituted “801(b)(2)(B) or (C)” for “801(b)(3)(B) or (C)” and “change in” for “change is”.
 
-    Subsec. (b)(3)(A). [Pub. L. 109–303, § 3(13)(A)][/us/pl/109/303/s3/13/A], substituted “date of enactment” for “effective date”.
+    Subsec. (b)(3)(A). [Pub. L. 109–303][/us/pl/109/303], § 3(13)(A), substituted “date of enactment” for “effective date”.
 
-    Subsec. (b)(3)(C)(ii). [Pub. L. 109–303, § 3(13)(B)(i)][/us/pl/109/303/s3/13/B/i], substituted “is filed” for “that is filed”.
+    Subsec. (b)(3)(C)(ii). [Pub. L. 109–303][/us/pl/109/303], § 3(13)(B)(i), substituted “is filed” for “that is filed”.
 
-    Subsec. (b)(3)(C)(iii). [Pub. L. 109–303, § 3(13)(B)(ii)][/us/pl/109/303/s3/13/B/ii], substituted “subsections (b)” for “such subsections (b)”.
+    Subsec. (b)(3)(C)(iii). [Pub. L. 109–303][/us/pl/109/303], § 3(13)(B)(ii), substituted “subsections (b)” for “such subsections (b)”.
 
  __Effective Date of 2010 Amendment__ 
 
@@ -118,20 +118,20 @@
 ----------
 ----------
 
-[/us/pl/108/419/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F419%2Fs3%2Fa
+[/us/pl/108/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F419
 [/us/stat/118/2357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2357
-[/us/pl/109/303/s3/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F303%2Fs3%2F12
+[/us/pl/109/303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F303
 [/us/stat/120/1481]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1481
-[/us/pl/111/175/s104/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175%2Fs104%2Ff
+[/us/pl/111/175/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175%2FtI
 [/us/stat/124/1238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1238
 [/us/pl/108/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F419
 [/us/usc/t17/s803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft17%2Fs803
 [/us/pl/108/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F419
 [/us/pl/111/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175
-[/us/pl/109/303/s3/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F303%2Fs3%2F12
-[/us/pl/109/303/s3/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F303%2Fs3%2F13%2FA
-[/us/pl/109/303/s3/13/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F303%2Fs3%2F13%2FB%2Fi
-[/us/pl/109/303/s3/13/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F303%2Fs3%2F13%2FB%2Fii
+[/us/pl/109/303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F303
+[/us/pl/109/303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F303
+[/us/pl/109/303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F303
+[/us/pl/109/303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F303
 [/us/pl/111/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175
 [/us/pl/111/175/s307/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175%2Fs307%2Fa
 [/us/usc/t17/s111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft17%2Fs111

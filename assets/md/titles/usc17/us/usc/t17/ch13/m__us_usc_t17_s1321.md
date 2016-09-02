@@ -41,7 +41,7 @@
 
     The parties to an infringement dispute under this chapter, within such time as may be specified by the Administrator by regulation, may determine the dispute, or any aspect of the dispute, by arbitration. Arbitration shall be governed by title 9. The parties shall give notice of any arbitration award to the Administrator, and such award shall, as between the parties to the arbitration, be dispositive of the issues to which it relates. The arbitration award shall be unenforceable until such notice is given. Nothing in this subsection shall preclude the Administrator from determining whether a design is subject to registration in a cancellation proceeding under section 1313(c).
 
-(Added [Pub. L. 105–304, title V, § 502][/us/pl/105/304/s502], Oct. 28, 1998, [112 Stat. 2913][/us/stat/112/2913].)
+(Added [Pub. L. 105–304, title V][/us/pl/105/304/tV], § 502, Oct. 28, 1998, [112 Stat. 2913][/us/stat/112/2913].)
 
 ----------
 
@@ -50,7 +50,7 @@
 ----------
 ----------
 
-[/us/pl/105/304/s502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F304%2Fs502
+[/us/pl/105/304/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F304%2FtV
 [/us/stat/112/2913]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2913
 
 

@@ -139,9 +139,9 @@
 
  __Amendments__ 
 
-    2002—[Pub. L. 107–273, div. C, title III, § 13210(11)][/us/pl/107/273/s13210/11], Nov. 2, 2002, [116 Stat. 1910][/us/stat/116/1910], substituted “licensing” for “licensure” in item 903.
+    2002—[Pub. L. 107–273, div. C, title III][/us/pl/107/273/dC/tIII], § 13210(11), Nov. 2, 2002, [116 Stat. 1910][/us/stat/116/1910], substituted “licensing” for “licensure” in item 903.
 
-    1997—[Pub. L. 105–80, § 12(a)(21)][/us/pl/105/80/s12/a/21], Nov. 13, 1997, [111 Stat. 1535][/us/stat/111/1535], substituted “Ownership, transfer, licensure, and recordation” for “Ownership and transfer” in item 903.
+    1997—[Pub. L. 105–80][/us/pl/105/80], § 12(a)(21), Nov. 13, 1997, [111 Stat. 1535][/us/stat/111/1535], substituted “Ownership, transfer, licensure, and recordation” for “Ownership and transfer” in item 903.
 
 ----------
 
@@ -150,9 +150,9 @@
 ----------
 ----------
 
-[/us/pl/107/273/s13210/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs13210%2F11
+[/us/pl/107/273/dC/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdC%2FtIII
 [/us/stat/116/1910]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1910
-[/us/pl/105/80/s12/a/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F80%2Fs12%2Fa%2F21
+[/us/pl/105/80]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F80
 [/us/stat/111/1535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1535
 
 

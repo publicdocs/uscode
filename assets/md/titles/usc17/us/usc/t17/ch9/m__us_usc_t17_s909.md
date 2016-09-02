@@ -25,7 +25,7 @@
 
         (2) the name of the owner or owners of the mask work or an abbreviation by which the name is recognized or is generally known.
 
-(Added [Pub. L. 98–620, title III, § 302][/us/pl/98/620/s302], Nov. 8, 1984, [98 Stat. 3352][/us/stat/98/3352]; amended [Pub. L. 105–80, § 12(a)(22)][/us/pl/105/80/s12/a/22], Nov. 13, 1997, [111 Stat. 1535][/us/stat/111/1535].)
+(Added [Pub. L. 98–620, title III][/us/pl/98/620/tIII], § 302, Nov. 8, 1984, [98 Stat. 3352][/us/stat/98/3352]; amended [Pub. L. 105–80][/us/pl/105/80], § 12(a)(22), Nov. 13, 1997, [111 Stat. 1535][/us/stat/111/1535].)
 
  __Amendments__ 
 
@@ -38,9 +38,9 @@
 ----------
 ----------
 
-[/us/pl/98/620/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620%2Fs302
+[/us/pl/98/620/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620%2FtIII
 [/us/stat/98/3352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3352
-[/us/pl/105/80/s12/a/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F80%2Fs12%2Fa%2F22
+[/us/pl/105/80]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F80
 [/us/stat/111/1535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1535
 [/us/pl/105/80]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F80
 

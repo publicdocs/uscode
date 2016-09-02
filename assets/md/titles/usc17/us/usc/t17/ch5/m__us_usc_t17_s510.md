@@ -25,7 +25,7 @@
 
     (b) In any action filed pursuant to section 111(c)(3), the court may decree that, for a period not to exceed thirty days, the cable system shall be deprived of the benefit of a statutory license for one or more distant signals carried by such cable system.
 
-([Pub. L. 94–553, title I, § 101][/us/pl/94/553/s101], Oct. 19, 1976, [90 Stat. 2587][/us/stat/90/2587]; [Pub. L. 106–113, div. B, § 1000(a)(9)][/us/pl/106/113/s1000/a/9] \[title I, § 1011(a)(1), (3)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–543.)
+([Pub. L. 94–553, title I][/us/pl/94/553/tI], § 101, Oct. 19, 1976, [90 Stat. 2587][/us/stat/90/2587]; [Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(9) \[title I, § 1011(a)(1), (3)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–543.)
 
  __Historical and Revision Notes__ 
 
@@ -37,9 +37,9 @@
 
  __Amendments__ 
 
-    1999—[Pub. L. 106–113, § 1000(a)(9)][/us/pl/106/113/s1000/a/9] \[title I, § 1011(a)(1)\], substituted “programming” for “programing” in section catchline.
+    1999—[Pub. L. 106–113][/us/pl/106/113], § 1000(a)(9) \[title I, § 1011(a)(1)\], substituted “programming” for “programing” in section catchline.
 
-    Subsec. (b). [Pub. L. 106–113, § 1000(a)(9)][/us/pl/106/113/s1000/a/9] \[title I, § 1011(a)(3)\], substituted “statutory” for “compulsory”.
+    Subsec. (b). [Pub. L. 106–113][/us/pl/106/113], § 1000(a)(9) \[title I, § 1011(a)(3)\], substituted “statutory” for “compulsory”.
 
 ----------
 
@@ -48,11 +48,11 @@
 ----------
 ----------
 
-[/us/pl/94/553/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F553%2Fs101
+[/us/pl/94/553/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F553%2FtI
 [/us/stat/90/2587]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2587
-[/us/pl/106/113/s1000/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F9
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
-[/us/pl/106/113/s1000/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F9
-[/us/pl/106/113/s1000/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F9
+[/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
+[/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
 
 

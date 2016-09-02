@@ -17,7 +17,7 @@
 
     Nothing in this chapter abrogates, diminishes, or weakens the provisions of, nor provides any defense or element of mitigation in a criminal prosecution or civil action under, any Federal or State law that prevents the violation of the privacy of an individual in connection with the individual’s use of the Internet.
 
-(Added [Pub. L. 105–304, title I, § 103(a)][/us/pl/105/304/s103/a], Oct. 28, 1998, [112 Stat. 2876][/us/stat/112/2876].)
+(Added [Pub. L. 105–304, title I][/us/pl/105/304/tI], § 103(a), Oct. 28, 1998, [112 Stat. 2876][/us/stat/112/2876].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/105/304/s103/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F304%2Fs103%2Fa
+[/us/pl/105/304/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F304%2FtI
 [/us/stat/112/2876]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2876
 
 

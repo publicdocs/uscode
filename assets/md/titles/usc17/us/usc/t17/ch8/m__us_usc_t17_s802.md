@@ -113,7 +113,7 @@
 
     The Librarian of Congress may sanction or remove a Copyright Royalty Judge for violation of the standards of conduct adopted under subsection (h), misconduct, neglect of duty, or any disqualifying physical or mental disability. Any such sanction or removal may be made only after notice and opportunity for a hearing, but the Librarian of Congress may suspend the Copyright Royalty Judge during the pendency of such hearing. The Librarian shall appoint an interim Copyright Royalty Judge during the period of any such suspension.
 
-(Added [Pub. L. 108–419, § 3(a)][/us/pl/108/419/s3/a], Nov. 30, 2004, [118 Stat. 2345][/us/stat/118/2345]; amended [Pub. L. 109–303, § 3(3)][/us/pl/109/303/s3/3], (4), Oct. 6, 2006, [120 Stat. 1478][/us/stat/120/1478], 1479.)
+(Added [Pub. L. 108–419][/us/pl/108/419], § 3(a), Nov. 30, 2004, [118 Stat. 2345][/us/stat/118/2345]; amended [Pub. L. 109–303][/us/pl/109/303], § 3(3), (4), Oct. 6, 2006, [120 Stat. 1478][/us/stat/120/1478], 1479.)
 
  __References in Text__ 
 
@@ -121,15 +121,15 @@
 
  __Prior Provisions__ 
 
-    A prior section 802, [Pub. L. 94–553, title I, § 101][/us/pl/94/553/s101], Oct. 19, 1976, [90 Stat. 2596][/us/stat/90/2596]; [Pub. L. 101–319, § 2(a)][/us/pl/101/319/s2/a], July 3, 1990, [104 Stat. 290][/us/stat/104/290]; [Pub. L. 103–198, § 2(b)][/us/pl/103/198/s2/b], Dec. 17, 1993, [107 Stat. 2305][/us/stat/107/2305]; [Pub. L. 104–39, § 5(d)(2)][/us/pl/104/39/s5/d/2]–(4), Nov. 1, 1995, [109 Stat. 349][/us/stat/109/349]; [Pub. L. 105–80, § 8(b)][/us/pl/105/80/s8/b], Nov. 13, 1997, [111 Stat. 1533][/us/stat/111/1533]; [Pub. L. 105–304, title IV, § 405(d)][/us/pl/105/304/s405/d], (e)(2)–(4), Oct. 28, 1998, [112 Stat. 2902][/us/stat/112/2902]; [Pub. L. 107–273, div. C, title III, § 13301(c)(2)][/us/pl/107/273/s13301/c/2], Nov. 2, 2002, [116 Stat. 1912][/us/stat/116/1912], related to membership and proceedings of copyright arbitration royalty panels, prior to the general amendment of this chapter by [Pub. L. 108–419][/us/pl/108/419].
+    A prior section 802, [Pub. L. 94–553, title I][/us/pl/94/553/tI], § 101, Oct. 19, 1976, [90 Stat. 2596][/us/stat/90/2596]; [Pub. L. 101–319][/us/pl/101/319], § 2(a), July 3, 1990, [104 Stat. 290][/us/stat/104/290]; [Pub. L. 103–198][/us/pl/103/198], § 2(b), Dec. 17, 1993, [107 Stat. 2305][/us/stat/107/2305]; [Pub. L. 104–39][/us/pl/104/39], § 5(d)(2)–(4), Nov. 1, 1995, [109 Stat. 349][/us/stat/109/349]; [Pub. L. 105–80][/us/pl/105/80], § 8(b), Nov. 13, 1997, [111 Stat. 1533][/us/stat/111/1533]; [Pub. L. 105–304, title IV][/us/pl/105/304/tIV], § 405(d), (e)(2)–(4), Oct. 28, 1998, [112 Stat. 2902][/us/stat/112/2902]; [Pub. L. 107–273, div. C, title III][/us/pl/107/273/dC/tIII], § 13301(c)(2), Nov. 2, 2002, [116 Stat. 1912][/us/stat/116/1912], related to membership and proceedings of copyright arbitration royalty panels, prior to the general amendment of this chapter by [Pub. L. 108–419][/us/pl/108/419].
 
  __Amendments__ 
 
-    2006—Subsec. (f)(1)(A)(i). [Pub. L. 109–303, § 3(3)(A)][/us/pl/109/303/s3/3/A], substituted “subparagraph (B) and clause (ii) of this subparagraph” for “clause (ii) of this subparagraph and subparagraph (B)”.
+    2006—Subsec. (f)(1)(A)(i). [Pub. L. 109–303][/us/pl/109/303], § 3(3)(A), substituted “subparagraph (B) and clause (ii) of this subparagraph” for “clause (ii) of this subparagraph and subparagraph (B)”.
 
-    Subsec. (f)(1)(A)(ii). [Pub. L. 109–303, § 3(3)(B)][/us/pl/109/303/s3/3/B], added cl. (ii) and struck out former cl. (ii) which related to request for interpretation by the Register of Copyrights of material question of substantive law concerning construction of provisions of this title that are the subject of the proceeding.
+    Subsec. (f)(1)(A)(ii). [Pub. L. 109–303][/us/pl/109/303], § 3(3)(B), added cl. (ii) and struck out former cl. (ii) which related to request for interpretation by the Register of Copyrights of material question of substantive law concerning construction of provisions of this title that are the subject of the proceeding.
 
-    Subsec. (f)(1)(D). [Pub. L. 109–303, § 3(4)][/us/pl/109/303/s3/4], inserted a comma after “undertakes to consult with”.
+    Subsec. (f)(1)(D). [Pub. L. 109–303][/us/pl/109/303], § 3(4), inserted a comma after “undertakes to consult with”.
 
  __Effective Date of 2006 Amendment__ 
 
@@ -145,29 +145,29 @@
 [/us/usc/t5/s551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs551
 [/us/usc/t5/s5372/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5372%2Fb
 [/us/usc/t5/s5376/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5376%2Fb%2F1
-[/us/pl/108/419/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F419%2Fs3%2Fa
+[/us/pl/108/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F419
 [/us/stat/118/2345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2345
-[/us/pl/109/303/s3/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F303%2Fs3%2F3
+[/us/pl/109/303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F303
 [/us/stat/120/1478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1478
 [/us/usc/t5/s5332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5332
-[/us/pl/94/553/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F553%2Fs101
+[/us/pl/94/553/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F553%2FtI
 [/us/stat/90/2596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2596
-[/us/pl/101/319/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F319%2Fs2%2Fa
+[/us/pl/101/319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F319
 [/us/stat/104/290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F290
-[/us/pl/103/198/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F198%2Fs2%2Fb
+[/us/pl/103/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F198
 [/us/stat/107/2305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2305
-[/us/pl/104/39/s5/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F39%2Fs5%2Fd%2F2
+[/us/pl/104/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F39
 [/us/stat/109/349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F349
-[/us/pl/105/80/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F80%2Fs8%2Fb
+[/us/pl/105/80]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F80
 [/us/stat/111/1533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1533
-[/us/pl/105/304/s405/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F304%2Fs405%2Fd
+[/us/pl/105/304/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F304%2FtIV
 [/us/stat/112/2902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2902
-[/us/pl/107/273/s13301/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs13301%2Fc%2F2
+[/us/pl/107/273/dC/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdC%2FtIII
 [/us/stat/116/1912]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1912
 [/us/pl/108/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F419
-[/us/pl/109/303/s3/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F303%2Fs3%2F3%2FA
-[/us/pl/109/303/s3/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F303%2Fs3%2F3%2FB
-[/us/pl/109/303/s3/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F303%2Fs3%2F4
+[/us/pl/109/303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F303
+[/us/pl/109/303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F303
+[/us/pl/109/303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F303
 [/us/pl/109/303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F303
 [/us/pl/108/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F419
 [/us/pl/109/303/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F303%2Fs6

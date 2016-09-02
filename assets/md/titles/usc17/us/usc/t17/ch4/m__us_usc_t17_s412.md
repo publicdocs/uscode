@@ -21,7 +21,7 @@
 
     (2) any infringement of copyright commenced after first publication of the work and before the effective date of its registration, unless such registration is made within three months after the first publication of the work.
 
-([Pub. L. 94–553, title I, § 101][/us/pl/94/553/s101], Oct. 19, 1976, [90 Stat. 2583][/us/stat/90/2583]; [Pub. L. 101–650, title VI, § 606(c)(2)][/us/pl/101/650/s606/c/2], Dec. 1, 1990, [104 Stat. 5131][/us/stat/104/5131]; [Pub. L. 109–9, title I, § 104(c)][/us/pl/109/9/s104/c], Apr. 27, 2005, [119 Stat. 222][/us/stat/119/222]; [Pub. L. 110–403, title I, § 101(b)(1)][/us/pl/110/403/s101/b/1], Oct. 13, 2008, [122 Stat. 4258][/us/stat/122/4258].)
+([Pub. L. 94–553, title I][/us/pl/94/553/tI], § 101, Oct. 19, 1976, [90 Stat. 2583][/us/stat/90/2583]; [Pub. L. 101–650, title VI][/us/pl/101/650/tVI], § 606(c)(2), Dec. 1, 1990, [104 Stat. 5131][/us/stat/104/5131]; [Pub. L. 109–9, title I][/us/pl/109/9/tI], § 104(c), Apr. 27, 2005, [119 Stat. 222][/us/stat/119/222]; [Pub. L. 110–403, title I][/us/pl/110/403/tI], § 101(b)(1), Oct. 13, 2008, [122 Stat. 4258][/us/stat/122/4258].)
 
  __Historical and Revision Notes__ 
 
@@ -56,13 +56,13 @@
 ----------
 ----------
 
-[/us/pl/94/553/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F553%2Fs101
+[/us/pl/94/553/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F553%2FtI
 [/us/stat/90/2583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2583
-[/us/pl/101/650/s606/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2Fs606%2Fc%2F2
+[/us/pl/101/650/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2FtVI
 [/us/stat/104/5131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F5131
-[/us/pl/109/9/s104/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F9%2Fs104%2Fc
+[/us/pl/109/9/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F9%2FtI
 [/us/stat/119/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F222
-[/us/pl/110/403/s101/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F403%2Fs101%2Fb%2F1
+[/us/pl/110/403/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F403%2FtI
 [/us/stat/122/4258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4258
 [/us/pl/110/403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F403
 [/us/pl/109/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F9

@@ -139,7 +139,7 @@ SUBCHAPTER D—PROHIBITION ON CERTAIN INFRINGEMENT ACTIONS, REMEDIES, AND ARBITR
 
  __Amendments__ 
 
-    2004—[Pub. L. 108–419, § 5(i)(4)(B)][/us/pl/108/419/s5/i/4/B], Nov. 30, 2004, [118 Stat. 2369][/us/stat/118/2369], substituted “Determination” for “Arbitration” in item 1010.
+    2004—[Pub. L. 108–419][/us/pl/108/419], § 5(i)(4)(B), Nov. 30, 2004, [118 Stat. 2369][/us/stat/118/2369], substituted “Determination” for “Arbitration” in item 1010.
 
 ----------
 
@@ -148,7 +148,7 @@ SUBCHAPTER D—PROHIBITION ON CERTAIN INFRINGEMENT ACTIONS, REMEDIES, AND ARBITR
 ----------
 ----------
 
-[/us/pl/108/419/s5/i/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F419%2Fs5%2Fi%2F4%2FB
+[/us/pl/108/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F419
 [/us/stat/118/2369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2369
 
 

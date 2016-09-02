@@ -51,7 +51,7 @@
 
         (4) No activity undertaken in compliance with regulations prescribed under clauses (1) or (2) of this subsection shall result in liability if intended solely to assist in the acquisition of copies or phonorecords under this subsection.
 
-([Pub. L. 94–553, title I, § 101][/us/pl/94/553/s101], Oct. 19, 1976, [90 Stat. 2579][/us/stat/90/2579]; [Pub. L. 100–568, § 8][/us/pl/100/568/s8], Oct. 31, 1988, [102 Stat. 2859][/us/stat/102/2859]; [Pub. L. 105–80, § 12(a)(11)][/us/pl/105/80/s12/a/11], Nov. 13, 1997, [111 Stat. 1535][/us/stat/111/1535].)
+([Pub. L. 94–553, title I][/us/pl/94/553/tI], § 101, Oct. 19, 1976, [90 Stat. 2579][/us/stat/90/2579]; [Pub. L. 100–568][/us/pl/100/568], § 8, Oct. 31, 1988, [102 Stat. 2859][/us/stat/102/2859]; [Pub. L. 105–80][/us/pl/105/80], § 12(a)(11), Nov. 13, 1997, [111 Stat. 1535][/us/stat/111/1535].)
 
  __Historical and Revision Notes__ 
 
@@ -89,7 +89,7 @@
 
  __Deposits and Registrations Made After__  __December 31, 1977__  __, in Response to Demand Under Predecessor Demand and Penalty Provisions__ 
 
-[Pub. L. 94–553, title I, § 110][/us/pl/94/553/s110], Oct. 19, 1976, [90 Stat. 2600][/us/stat/90/2600], provided that: 
+[Pub. L. 94–553, title I][/us/pl/94/553/tI], § 110, Oct. 19, 1976, [90 Stat. 2600][/us/stat/90/2600], provided that: 
 
 > “The demand and penalty provisions of [section 14 of title 17][/us/usc/t17/s14] as it existed on December 31, 1977, apply to any work in which copyright has been secured by publication with notice of copyright on or before that date, but any deposit and registration made after that date in response to a demand under that section shall be made in accordance with the provisions of title 17 as amended by the first section of this Act.”
 
@@ -100,18 +100,18 @@
 ----------
 ----------
 
-[/us/pl/94/553/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F553%2Fs101
+[/us/pl/94/553/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F553%2FtI
 [/us/stat/90/2579]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2579
-[/us/pl/100/568/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F568%2Fs8
+[/us/pl/100/568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F568
 [/us/stat/102/2859]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2859
-[/us/pl/105/80/s12/a/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F80%2Fs12%2Fa%2F11
+[/us/pl/105/80]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F80
 [/us/stat/111/1535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1535
 [/us/pl/105/80]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F80
 [/us/pl/100/568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F568
 [/us/pl/100/568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F568
 [/us/pl/100/568/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F568%2Fs13
 [/us/usc/t17/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft17%2Fs101
-[/us/pl/94/553/s110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F553%2Fs110
+[/us/pl/94/553/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F553%2FtI
 [/us/stat/90/2600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2600
 [/us/usc/t17/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft17%2Fs14
 

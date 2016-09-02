@@ -35,19 +35,19 @@
 
     Any determination of the Copyright Royalty Judges under subsection (d) may be appealed, by a party to the proceeding, in accordance with [section 803(d) of this title][/us/usc/t17/s803/d]. The pendency of an appeal under this subsection shall not stay the determination of the Copyright Royalty Judges. If the court modifies the determination of the Copyright Royalty Judges, the court shall have jurisdiction to enter its own decision in accordance with its final judgment. The court may further vacate the determination of the Copyright Royalty Judges and remand the case for proceedings as provided in this section.
 
-(Added [Pub. L. 102–563, § 2][/us/pl/102/563/s2], Oct. 28, 1992, [106 Stat. 4246][/us/stat/106/4246]; amended [Pub. L. 103–198, § 6(b)(5)][/us/pl/103/198/s6/b/5], Dec. 17, 1993, [107 Stat. 2312][/us/stat/107/2312]; [Pub. L. 108–419, § 5(i)(4)(A)][/us/pl/108/419/s5/i/4/A], Nov. 30, 2004, [118 Stat. 2368][/us/stat/118/2368].)
+(Added [Pub. L. 102–563][/us/pl/102/563], § 2, Oct. 28, 1992, [106 Stat. 4246][/us/stat/106/4246]; amended [Pub. L. 103–198][/us/pl/103/198], § 6(b)(5), Dec. 17, 1993, [107 Stat. 2312][/us/stat/107/2312]; [Pub. L. 108–419][/us/pl/108/419], § 5(i)(4)(A), Nov. 30, 2004, [118 Stat. 2368][/us/stat/118/2368].)
 
  __Amendments__ 
 
     2004—[Pub. L. 108–419][/us/pl/108/419] amended section catchline and text generally, substituting provisions relating to determination of certain disputes for provisions relating to arbitration of certain disputes.
 
-    1993—Subsec. (b). [Pub. L. 103–198, § 6(b)(5)(A)][/us/pl/103/198/s6/b/5/A], substituted “Librarian of Congress” for “Copyright Royalty Tribunal” before “requesting the commencement” and for “Tribunal” wherever appearing.
+    1993—Subsec. (b). [Pub. L. 103–198][/us/pl/103/198], § 6(b)(5)(A), substituted “Librarian of Congress” for “Copyright Royalty Tribunal” before “requesting the commencement” and for “Tribunal” wherever appearing.
 
-    Subsec. (e). [Pub. L. 103–198, § 6(b)(5)(B)][/us/pl/103/198/s6/b/5/B], substituted “Librarian of Congress” for “Copyright Royalty Tribunal” in heading and text.
+    Subsec. (e). [Pub. L. 103–198][/us/pl/103/198], § 6(b)(5)(B), substituted “Librarian of Congress” for “Copyright Royalty Tribunal” in heading and text.
 
-    Subsec. (f). [Pub. L. 103–198, § 6(b)(5)(C)][/us/pl/103/198/s6/b/5/C], substituted “Librarian of Congress” for “Copyright Royalty Tribunal” in heading and before “shall adopt or reject” in text, substituted “Librarian of Congress” for “Tribunal” wherever appearing, and substituted “the Librarian’s” for “its”.
+    Subsec. (f). [Pub. L. 103–198][/us/pl/103/198], § 6(b)(5)(C), substituted “Librarian of Congress” for “Copyright Royalty Tribunal” in heading and before “shall adopt or reject” in text, substituted “Librarian of Congress” for “Tribunal” wherever appearing, and substituted “the Librarian’s” for “its”.
 
-    Subsec. (g). [Pub. L. 103–198, § 6(b)(5)(D)][/us/pl/103/198/s6/b/5/D], substituted “Librarian of Congress” for “Copyright Royalty Tribunal” after “Any decision of the”, “decision of the Librarian of Congress” for “Tribunal’s decision” in second sentence, and “Librarian of Congress” for “Tribunal” wherever appearing in third through fifth sentences.
+    Subsec. (g). [Pub. L. 103–198][/us/pl/103/198], § 6(b)(5)(D), substituted “Librarian of Congress” for “Copyright Royalty Tribunal” after “Any decision of the”, “decision of the Librarian of Congress” for “Tribunal’s decision” in second sentence, and “Librarian of Congress” for “Tribunal” wherever appearing in third through fifth sentences.
 
  __Effective Date of 2004 Amendment__ 
 
@@ -61,17 +61,17 @@
 ----------
 
 [/us/usc/t17/s803/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft17%2Fs803%2Fd
-[/us/pl/102/563/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F563%2Fs2
+[/us/pl/102/563]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F563
 [/us/stat/106/4246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4246
-[/us/pl/103/198/s6/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F198%2Fs6%2Fb%2F5
+[/us/pl/103/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F198
 [/us/stat/107/2312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2312
-[/us/pl/108/419/s5/i/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F419%2Fs5%2Fi%2F4%2FA
+[/us/pl/108/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F419
 [/us/stat/118/2368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2368
 [/us/pl/108/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F419
-[/us/pl/103/198/s6/b/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F198%2Fs6%2Fb%2F5%2FA
-[/us/pl/103/198/s6/b/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F198%2Fs6%2Fb%2F5%2FB
-[/us/pl/103/198/s6/b/5/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F198%2Fs6%2Fb%2F5%2FC
-[/us/pl/103/198/s6/b/5/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F198%2Fs6%2Fb%2F5%2FD
+[/us/pl/103/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F198
+[/us/pl/103/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F198
+[/us/pl/103/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F198
+[/us/pl/103/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F198
 [/us/pl/108/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F419
 [/us/pl/108/419/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F419%2Fs6
 [/us/usc/t17/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft17%2Fs801

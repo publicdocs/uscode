@@ -27,7 +27,7 @@
 
     (c) Articles imported in violation of the importation prohibitions of this title are subject to seizure and forfeiture in the same manner as property imported in violation of the customs revenue laws. Forfeited articles shall be destroyed as directed by the Secretary of the Treasury or the court, as the case may be.
 
-([Pub. L. 94–553, title I, § 101][/us/pl/94/553/s101], Oct. 19, 1976, [90 Stat. 2590][/us/stat/90/2590]; [Pub. L. 104–153, § 8][/us/pl/104/153/s8], July 2, 1996, [110 Stat. 1388][/us/stat/110/1388].)
+([Pub. L. 94–553, title I][/us/pl/94/553/tI], § 101, Oct. 19, 1976, [90 Stat. 2590][/us/stat/90/2590]; [Pub. L. 104–153][/us/pl/104/153], § 8, July 2, 1996, [110 Stat. 1388][/us/stat/110/1388].)
 
  __Historical and Revision Notes__ 
 
@@ -48,9 +48,9 @@
 ----------
 ----------
 
-[/us/pl/94/553/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F553%2Fs101
+[/us/pl/94/553/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F553%2FtI
 [/us/stat/90/2590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2590
-[/us/pl/104/153/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F153%2Fs8
+[/us/pl/104/153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F153
 [/us/stat/110/1388]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1388
 [/us/pl/104/153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F153
 

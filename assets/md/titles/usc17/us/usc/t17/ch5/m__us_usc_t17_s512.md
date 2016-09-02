@@ -315,7 +315,7 @@
 
     Subsections (a), (b), (c), and (d) describe separate and distinct functions for purposes of applying this section. Whether a service provider qualifies for the limitation on liability in any one of those subsections shall be based solely on the criteria in that subsection, and shall not affect a determination of whether that service provider qualifies for the limitations on liability under any other such subsection.
 
-(Added [Pub. L. 105–304, title II, § 202(a)][/us/pl/105/304/s202/a], Oct. 28, 1998, [112 Stat. 2877][/us/stat/112/2877]; amended [Pub. L. 106–44, § 1(d)][/us/pl/106/44/s1/d], Aug. 5, 1999, [113 Stat. 222][/us/stat/113/222]; [Pub. L. 111–295, § 3(a)][/us/pl/111/295/s3/a], Dec. 9, 2010, [124 Stat. 3180][/us/stat/124/3180].)
+(Added [Pub. L. 105–304, title II][/us/pl/105/304/tII], § 202(a), Oct. 28, 1998, [112 Stat. 2877][/us/stat/112/2877]; amended [Pub. L. 106–44][/us/pl/106/44], § 1(d), Aug. 5, 1999, [113 Stat. 222][/us/stat/113/222]; [Pub. L. 111–295][/us/pl/111/295], § 3(a), Dec. 9, 2010, [124 Stat. 3180][/us/stat/124/3180].)
 
  __References in Text__ 
 
@@ -329,15 +329,15 @@
 
     2010—Subsec. (c)(2). [Pub. L. 111–295][/us/pl/111/295] struck out “, in both electronic and hard copy formats” after “Internet” in concluding provisions.
 
-    1999—Subsec. (e). [Pub. L. 106–44, § 1(d)(1)(A)][/us/pl/106/44/s1/d/1/A], substituted “Limitation on Liability of Nonprofit Educational Institutions” for “Limitation on liability of nonprofit educational institutions” in heading.
+    1999—Subsec. (e). [Pub. L. 106–44][/us/pl/106/44], § 1(d)(1)(A), substituted “Limitation on Liability of Nonprofit Educational Institutions” for “Limitation on liability of nonprofit educational institutions” in heading.
 
-    Subsec. (e)(2). [Pub. L. 106–44, § 1(d)(1)(B)][/us/pl/106/44/s1/d/1/B], struck out par. heading “Injunctions”.
+    Subsec. (e)(2). [Pub. L. 106–44][/us/pl/106/44], § 1(d)(1)(B), struck out par. heading “Injunctions”.
 
-    Subsec. (j)(3). [Pub. L. 106–44, § 1(d)(2)][/us/pl/106/44/s1/d/2], substituted “Notice and ex parte orders” for “Notice and Ex Parte Orders” in heading.
+    Subsec. (j)(3). [Pub. L. 106–44][/us/pl/106/44], § 1(d)(2), substituted “Notice and ex parte orders” for “Notice and Ex Parte Orders” in heading.
 
  __Effective Date__ 
 
-[Pub. L. 105–304, title II, § 203][/us/pl/105/304/s203], Oct. 28, 1998, [112 Stat. 2886][/us/stat/112/2886], provided that: 
+[Pub. L. 105–304, title II][/us/pl/105/304/tII], § 203, Oct. 28, 1998, [112 Stat. 2886][/us/stat/112/2886], provided that: 
 
 > “This title \[enacting this section and provisions set out as a note under [section 101 of this title][/us/usc/t17/s101]\] and the amendments made by this title shall take effect on the date of the enactment of this Act \[Oct. 28, 1998\].”
 
@@ -348,18 +348,18 @@
 ----------
 ----------
 
-[/us/pl/105/304/s202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F304%2Fs202%2Fa
+[/us/pl/105/304/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F304%2FtII
 [/us/stat/112/2877]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2877
-[/us/pl/106/44/s1/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F44%2Fs1%2Fd
+[/us/pl/106/44]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F44
 [/us/stat/113/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F222
-[/us/pl/111/295/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F295%2Fs3%2Fa
+[/us/pl/111/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F295
 [/us/stat/124/3180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3180
 [/us/usc/t17/s513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft17%2Fs513
 [/us/pl/111/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F295
-[/us/pl/106/44/s1/d/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F44%2Fs1%2Fd%2F1%2FA
-[/us/pl/106/44/s1/d/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F44%2Fs1%2Fd%2F1%2FB
-[/us/pl/106/44/s1/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F44%2Fs1%2Fd%2F2
-[/us/pl/105/304/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F304%2Fs203
+[/us/pl/106/44]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F44
+[/us/pl/106/44]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F44
+[/us/pl/106/44]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F44
+[/us/pl/105/304/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F304%2FtII
 [/us/stat/112/2886]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2886
 [/us/usc/t17/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft17%2Fs101
 

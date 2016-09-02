@@ -295,7 +295,7 @@
 
             The term “subscribe” means to elect to become a subscriber.
 
-([Pub. L. 94–553, title I, § 101][/us/pl/94/553/s101], Oct. 19, 1976, [90 Stat. 2550][/us/stat/90/2550]; [Pub. L. 99–397][/us/pl/99/397], §§ 1, 2(a), (b), Aug. 27, 1986, [100 Stat. 848][/us/stat/100/848]; [Pub. L. 100–667, title II, § 202(1)][/us/pl/100/667/s202/1], Nov. 16, 1988, [102 Stat. 3949][/us/stat/102/3949]; [Pub. L. 101–318, § 3(a)][/us/pl/101/318/s3/a], July 3, 1990, [104 Stat. 288][/us/stat/104/288]; [Pub. L. 103–198, § 6(a)][/us/pl/103/198/s6/a], Dec. 17, 1993, [107 Stat. 2311][/us/stat/107/2311]; [Pub. L. 103–369, § 3][/us/pl/103/369/s3], Oct. 18, 1994, [108 Stat. 3480][/us/stat/108/3480]; [Pub. L. 104–39, § 5(b)][/us/pl/104/39/s5/b], Nov. 1, 1995, [109 Stat. 348][/us/stat/109/348]; [Pub. L. 106–113, div. B, § 1000(a)(9)][/us/pl/106/113/s1000/a/9] \[title I, § 1011(a)(1), (2), (b)(1)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–543; [Pub. L. 108–419, § 5(a)][/us/pl/108/419/s5/a], Nov. 30, 2004, [118 Stat. 2361][/us/stat/118/2361]; [Pub. L. 108–447, div. J, title IX][/us/pl/108/447] \[title I, § 107(b)\], Dec. 8, 2004, [118 Stat. 3406][/us/stat/118/3406]; [Pub. L. 109–303, § 4(a)][/us/pl/109/303/s4/a], Oct. 6, 2006, [120 Stat. 1481][/us/stat/120/1481]; [Pub. L. 110–229, title VIII, § 807][/us/pl/110/229/s807], May 8, 2008, [122 Stat. 874][/us/stat/122/874]; [Pub. L. 110–403, title II, § 209(a)(2)][/us/pl/110/403/s209/a/2], Oct. 13, 2008, [122 Stat. 4264][/us/stat/122/4264]; [Pub. L. 111–175, title I, § 104(a)(1)][/us/pl/111/175/s104/a/1], (b), (c), (e), (g), May 27, 2010, [124 Stat. 1231][/us/stat/124/1231], 1235, 1238; [Pub. L. 113–200, title II][/us/pl/113/200], §§ 201(1), 203, Dec. 4, 2014, [128 Stat. 2066][/us/stat/128/2066], 2067.)
+([Pub. L. 94–553, title I][/us/pl/94/553/tI], § 101, Oct. 19, 1976, [90 Stat. 2550][/us/stat/90/2550]; [Pub. L. 99–397][/us/pl/99/397], §§ 1, 2(a), (b), Aug. 27, 1986, [100 Stat. 848][/us/stat/100/848]; [Pub. L. 100–667, title II][/us/pl/100/667/tII], § 202(1), Nov. 16, 1988, [102 Stat. 3949][/us/stat/102/3949]; [Pub. L. 101–318][/us/pl/101/318], § 3(a), July 3, 1990, [104 Stat. 288][/us/stat/104/288]; [Pub. L. 103–198][/us/pl/103/198], § 6(a), Dec. 17, 1993, [107 Stat. 2311][/us/stat/107/2311]; [Pub. L. 103–369][/us/pl/103/369], § 3, Oct. 18, 1994, [108 Stat. 3480][/us/stat/108/3480]; [Pub. L. 104–39][/us/pl/104/39], § 5(b), Nov. 1, 1995, [109 Stat. 348][/us/stat/109/348]; [Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(9) \[title I, § 1011(a)(1), (2), (b)(1)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–543; [Pub. L. 108–419][/us/pl/108/419], § 5(a), Nov. 30, 2004, [118 Stat. 2361][/us/stat/118/2361]; [Pub. L. 108–447, div. J, title IX][/us/pl/108/447/dJ/tIX] \[title I, § 107(b)\], Dec. 8, 2004, [118 Stat. 3406][/us/stat/118/3406]; [Pub. L. 109–303][/us/pl/109/303], § 4(a), Oct. 6, 2006, [120 Stat. 1481][/us/stat/120/1481]; [Pub. L. 110–229, title VIII][/us/pl/110/229/tVIII], § 807, May 8, 2008, [122 Stat. 874][/us/stat/122/874]; [Pub. L. 110–403, title II][/us/pl/110/403/tII], § 209(a)(2), Oct. 13, 2008, [122 Stat. 4264][/us/stat/122/4264]; [Pub. L. 111–175, title I][/us/pl/111/175/tI], § 104(a)(1), (b), (c), (e), (g), May 27, 2010, [124 Stat. 1231][/us/stat/124/1231], 1235, 1238; [Pub. L. 113–200, title II][/us/pl/113/200/tII], §§ 201(1), 203, Dec. 4, 2014, [128 Stat. 2066][/us/stat/128/2066], 2067.)
 
  __Historical and Revision Notes__ 
 
@@ -441,163 +441,163 @@
 
  __Amendments__ 
 
-    2014—Subsec. (d)(3). [Pub. L. 113–200, § 201(1)][/us/pl/113/200/s201/1], substituted “paragraph” for “clause” in introductory provisions and in subpar. (B).
+    2014—Subsec. (d)(3). [Pub. L. 113–200][/us/pl/113/200], § 201(1), substituted “paragraph” for “clause” in introductory provisions and in subpar. (B).
 
-    Subsec. (f)(4). [Pub. L. 113–200, § 203][/us/pl/113/200/s203], in second sentence, inserted “as defined by the rules and regulations of the Federal Communications Commission,” after “television station,” and substituted “comprises the designated market area, as defined in section 122(j)(2)(C), that encompasses the community of license of such station and any community that is located outside such designated market area that is either wholly or partially within 35 miles of the transmitter site or,” for “comprises the area within 35 miles of the transmitter site, except that” and “wholly or partially within 20 miles of such transmitter site” for “the number of miles shall be 20 miles”.
+    Subsec. (f)(4). [Pub. L. 113–200][/us/pl/113/200], § 203, in second sentence, inserted “as defined by the rules and regulations of the Federal Communications Commission,” after “television station,” and substituted “comprises the designated market area, as defined in section 122(j)(2)(C), that encompasses the community of license of such station and any community that is located outside such designated market area that is either wholly or partially within 35 miles of the transmitter site or,” for “comprises the area within 35 miles of the transmitter site, except that” and “wholly or partially within 20 miles of such transmitter site” for “the number of miles shall be 20 miles”.
 
-    2010—[Pub. L. 111–175, § 104(a)(1)][/us/pl/111/175/s104/a/1], inserted “of broadcast programming by cable” after “transmissions” in section catchline.
+    2010—[Pub. L. 111–175][/us/pl/111/175], § 104(a)(1), inserted “of broadcast programming by cable” after “transmissions” in section catchline.
 
-    Subsec. (a)(2), (3). [Pub. L. 111–175, § 104(g)(1)(A)][/us/pl/111/175/s104/g/1/A], substituted “paragraph” for “clause”.
+    Subsec. (a)(2), (3). [Pub. L. 111–175][/us/pl/111/175], § 104(g)(1)(A), substituted “paragraph” for “clause”.
 
-    Subsec. (a)(4). [Pub. L. 111–175, § 104(b)][/us/pl/111/175/s104/b], substituted “or section 122;” for “; or”.
+    Subsec. (a)(4). [Pub. L. 111–175][/us/pl/111/175], § 104(b), substituted “or section 122;” for “; or”.
 
-    Subsec. (c)(1). [Pub. L. 111–175, § 104(g)(1)(B)][/us/pl/111/175/s104/g/1/B], substituted “paragraphs” for “clauses”.
+    Subsec. (c)(1). [Pub. L. 111–175][/us/pl/111/175], § 104(g)(1)(B), substituted “paragraphs” for “clauses”.
 
-    Subsec. (c)(2) to (4). [Pub. L. 111–175, § 104(g)(1)(A)][/us/pl/111/175/s104/g/1/A], substituted “paragraph” for “clause”.
+    Subsec. (c)(2) to (4). [Pub. L. 111–175][/us/pl/111/175], § 104(g)(1)(A), substituted “paragraph” for “clause”.
 
-    Subsec. (d)(1). [Pub. L. 111–175, § 104(c)(1)(A)][/us/pl/111/175/s104/c/1/A], inserted heading and, in introductory provisions, substituted “Subject to paragraph (5), a cable system whose secondary” for “A cable system whose secondary” and “by regulation the following:” for “by regulation—”.
+    Subsec. (d)(1). [Pub. L. 111–175][/us/pl/111/175], § 104(c)(1)(A), inserted heading and, in introductory provisions, substituted “Subject to paragraph (5), a cable system whose secondary” for “A cable system whose secondary” and “by regulation the following:” for “by regulation—”.
 
-    Subsec. (d)(1)(A). [Pub. L. 111–175, § 104(c)(1)(B)][/us/pl/111/175/s104/c/1/B], (g)(2), substituted “A statement of account” for “a statement of account”, “non-network” for “nonnetwork”, and “carriage.” for “carriage; and” at end.
+    Subsec. (d)(1)(A). [Pub. L. 111–175][/us/pl/111/175], § 104(c)(1)(B), (g)(2), substituted “A statement of account” for “a statement of account”, “non-network” for “nonnetwork”, and “carriage.” for “carriage; and” at end.
 
-    Subsec. (d)(1)(B) to (G). [Pub. L. 111–175, § 104(c)(1)(C)][/us/pl/111/175/s104/c/1/C], added subpars. (B) to (G) and struck out former subpars. (B) to (D) which established fee schedules for certain royalty fees to be paid by cable systems based upon the gross receipts received from subscribers.
+    Subsec. (d)(1)(B) to (G). [Pub. L. 111–175][/us/pl/111/175], § 104(c)(1)(C), added subpars. (B) to (G) and struck out former subpars. (B) to (D) which established fee schedules for certain royalty fees to be paid by cable systems based upon the gross receipts received from subscribers.
 
-    Subsec. (d)(2). [Pub. L. 111–175, § 104(c)(2)][/us/pl/111/175/s104/c/2], inserted heading and inserted “(including the filing fee specified in paragraph (1)(G))” after “shall receive all fees”.
+    Subsec. (d)(2). [Pub. L. 111–175][/us/pl/111/175], § 104(c)(2), inserted heading and inserted “(including the filing fee specified in paragraph (1)(G))” after “shall receive all fees”.
 
-    Subsec. (d)(3). [Pub. L. 111–175, § 104(c)(3)(A)][/us/pl/111/175/s104/c/3/A], inserted heading.
+    Subsec. (d)(3). [Pub. L. 111–175][/us/pl/111/175], § 104(c)(3)(A), inserted heading.
 
-    Subsec. (d)(3)(A). [Pub. L. 111–175, § 104(c)(3)(B)][/us/pl/111/175/s104/c/3/B], (g)(2), substituted “Any such” for “any such”, “non-network” for “nonnetwork”, and a period for “; and”.
+    Subsec. (d)(3)(A). [Pub. L. 111–175][/us/pl/111/175], § 104(c)(3)(B), (g)(2), substituted “Any such” for “any such”, “non-network” for “nonnetwork”, and a period for “; and”.
 
-    Subsec. (d)(3)(B). [Pub. L. 111–175, § 104(c)(3)(C)][/us/pl/111/175/s104/c/3/C], substituted “Any such” for “any such” and a period for the semicolon at end.
+    Subsec. (d)(3)(B). [Pub. L. 111–175][/us/pl/111/175], § 104(c)(3)(C), substituted “Any such” for “any such” and a period for the semicolon at end.
 
-    Subsec. (d)(3)(C). [Pub. L. 111–175, § 104(c)(3)(D)][/us/pl/111/175/s104/c/3/D], (g)(2), substituted “Any such” for “any such” and “non-network” for “nonnetwork”.
+    Subsec. (d)(3)(C). [Pub. L. 111–175][/us/pl/111/175], § 104(c)(3)(D), (g)(2), substituted “Any such” for “any such” and “non-network” for “nonnetwork”.
 
-    Subsec. (d)(4). [Pub. L. 111–175, § 104(c)(4)][/us/pl/111/175/s104/c/4], inserted heading.
+    Subsec. (d)(4). [Pub. L. 111–175][/us/pl/111/175], § 104(c)(4), inserted heading.
 
-    Subsec. (d)(5) to (7). [Pub. L. 111–175, § 104(c)(5)][/us/pl/111/175/s104/c/5], added pars. (5) to (7).
+    Subsec. (d)(5) to (7). [Pub. L. 111–175][/us/pl/111/175], § 104(c)(5), added pars. (5) to (7).
 
-    Subsec. (e)(1). [Pub. L. 111–175, § 104(g)(3)][/us/pl/111/175/s104/g/3], substituted “subsection (f)(2)” for “second paragraph of subsection (f)” in introductory provisions.
+    Subsec. (e)(1). [Pub. L. 111–175][/us/pl/111/175], § 104(g)(3), substituted “subsection (f)(2)” for “second paragraph of subsection (f)” in introductory provisions.
 
-    Subsec. (e)(1)(A) to (C). [Pub. L. 111–175, § 104(g)(4)(A)][/us/pl/111/175/s104/g/4/A]–(C), struck out “and” at end.
+    Subsec. (e)(1)(A) to (C). [Pub. L. 111–175][/us/pl/111/175], § 104(g)(4)(A)–(C), struck out “and” at end.
 
-    Subsec. (e)(1)(C)(iv). [Pub. L. 111–175, § 104(g)(1)(A)][/us/pl/111/175/s104/g/1/A], substituted “paragraph” for “clause”.
+    Subsec. (e)(1)(C)(iv). [Pub. L. 111–175][/us/pl/111/175], § 104(g)(1)(A), substituted “paragraph” for “clause”.
 
-    Subsec. (e)(1)(D). [Pub. L. 111–175, § 104(g)(4)(D)][/us/pl/111/175/s104/g/4/D], struck out “and” at end.
+    Subsec. (e)(1)(D). [Pub. L. 111–175][/us/pl/111/175], § 104(g)(4)(D), struck out “and” at end.
 
-    Subsec. (e)(1)(D)(ii), (E). [Pub. L. 111–175, § 104(g)(1)(A)][/us/pl/111/175/s104/g/1/A], substituted “paragraph” for “clause”.
+    Subsec. (e)(1)(D)(ii), (E). [Pub. L. 111–175][/us/pl/111/175], § 104(g)(1)(A), substituted “paragraph” for “clause”.
 
-    Subsec. (e)(1)(F). [Pub. L. 111–175, § 104(g)(1)(C)][/us/pl/111/175/s104/g/1/C], substituted “subparagraph” for “subclause”.
+    Subsec. (e)(1)(F). [Pub. L. 111–175][/us/pl/111/175], § 104(g)(1)(C), substituted “subparagraph” for “subclause”.
 
-    Subsec. (e)(2). [Pub. L. 111–175, § 104(g)(1)(A)][/us/pl/111/175/s104/g/1/A], (6), in introductory provisions, substituted “paragraph” for “clause” and “five entities” for “three territories”.
+    Subsec. (e)(2). [Pub. L. 111–175][/us/pl/111/175], § 104(g)(1)(A), (6), in introductory provisions, substituted “paragraph” for “clause” and “five entities” for “three territories”.
 
-    Subsec. (e)(2)(A). [Pub. L. 111–175, § 104(g)(4)(E)][/us/pl/111/175/s104/g/4/E], struck out “and” at end.
+    Subsec. (e)(2)(A). [Pub. L. 111–175][/us/pl/111/175], § 104(g)(4)(E), struck out “and” at end.
 
-    Subsec. (e)(2)(B), (C). [Pub. L. 111–175, § 104(g)(1)(A)][/us/pl/111/175/s104/g/1/A], substituted “paragraph” for “clause”.
+    Subsec. (e)(2)(B), (C). [Pub. L. 111–175][/us/pl/111/175], § 104(g)(1)(A), substituted “paragraph” for “clause”.
 
-    Subsec. (e)(4). [Pub. L. 111–175, § 104(g)(5)(A)][/us/pl/111/175/s104/g/5/A], struck out “, and each of its variant forms,” before “means the reproduction”.
+    Subsec. (e)(4). [Pub. L. 111–175][/us/pl/111/175], § 104(g)(5)(A), struck out “, and each of its variant forms,” before “means the reproduction”.
 
-    Subsec. (f). [Pub. L. 111–175, § 104(g)(5)(B)][/us/pl/111/175/s104/g/5/B], struck out “and their variant forms” after “terms” in introductory provisions.
+    Subsec. (f). [Pub. L. 111–175][/us/pl/111/175], § 104(g)(5)(B), struck out “and their variant forms” after “terms” in introductory provisions.
 
-    [Pub. L. 111–175, § 104(e)(5)][/us/pl/111/175/s104/e/5] to (8), designated undesignated par. which defined “distant signal equivalent” as par. (5), inserted par. (5) heading, and amended text generally, added pars. (6) to (8), and struck out last three undesignated pars. which defined “network station”, “independent station”, and “noncommercial educational station”, respectively.
+    [Pub. L. 111–175][/us/pl/111/175], § 104(e)(5) to (8), designated undesignated par. which defined “distant signal equivalent” as par. (5), inserted par. (5) heading, and amended text generally, added pars. (6) to (8), and struck out last three undesignated pars. which defined “network station”, “independent station”, and “noncommercial educational station”, respectively.
 
-    [Pub. L. 111–175, § 104(e)(4)(C)][/us/pl/111/175/s104/e/4/C], which directed amendment of “the fourth undesignated paragraph, in the first sentence” by striking out “as defined by the rules and regulations of the Federal Communications Commission,”, was executed by striking out such phrase after “television station,” in the second sentence of par. (4), to reflect the probable intent of Congress.
+    [Pub. L. 111–175][/us/pl/111/175], § 104(e)(4)(C), which directed amendment of “the fourth undesignated paragraph, in the first sentence” by striking out “as defined by the rules and regulations of the Federal Communications Commission,”, was executed by striking out such phrase after “television station,” in the second sentence of par. (4), to reflect the probable intent of Congress.
 
-    [Pub. L. 111–175, § 104(e)(1)][/us/pl/111/175/s104/e/1] to (4)(B), added par. (1) and struck out first undesignated par. which defined “primary transmission”, designated second undesignated par. as par. (2), inserted par. (2) heading, and substituted “a cable system” for “a ‘cable system’ ”, designated third undesignated par. as par. (3), inserted par. (3) heading, and substituted “territory, trust territory, or possession of the United States” for “Territory, Trust Territory, or Possession”, and designated fourth undesignated par. as par. (4), inserted par. (4) heading, and substituted “The ‘local service area of a primary transmitter’, in the case of both the primary stream and any multicast streams transmitted by a primary transmitter that is a television broadcast station, comprises the area where such primary transmitter could have insisted” for “The ‘local service area of a primary transmitter’, in the case of a television broadcast station, comprises the area in which such station is entitled to insist” and “76.59 of title 47, Code of Federal Regulations, or within the noise-limited contour as defined in 73.622(e)(1) of title 47, Code of Federal Regulations” for “76.59 of title 47 of the Code of Federal Regulations”.
+    [Pub. L. 111–175][/us/pl/111/175], § 104(e)(1) to (4)(B), added par. (1) and struck out first undesignated par. which defined “primary transmission”, designated second undesignated par. as par. (2), inserted par. (2) heading, and substituted “a cable system” for “a ‘cable system’ ”, designated third undesignated par. as par. (3), inserted par. (3) heading, and substituted “territory, trust territory, or possession of the United States” for “Territory, Trust Territory, or Possession”, and designated fourth undesignated par. as par. (4), inserted par. (4) heading, and substituted “The ‘local service area of a primary transmitter’, in the case of both the primary stream and any multicast streams transmitted by a primary transmitter that is a television broadcast station, comprises the area where such primary transmitter could have insisted” for “The ‘local service area of a primary transmitter’, in the case of a television broadcast station, comprises the area in which such station is entitled to insist” and “76.59 of title 47, Code of Federal Regulations, or within the noise-limited contour as defined in 73.622(e)(1) of title 47, Code of Federal Regulations” for “76.59 of title 47 of the Code of Federal Regulations”.
 
-    Subsec. (f)(9) to (13). [Pub. L. 111–175, § 104(e)(9)][/us/pl/111/175/s104/e/9], added pars. (9) to (13).
+    Subsec. (f)(9) to (13). [Pub. L. 111–175][/us/pl/111/175], § 104(e)(9), added pars. (9) to (13).
 
-    2008—Subsec. (b). [Pub. L. 110–403, § 209(a)(2)(A)][/us/pl/110/403/s209/a/2/A], struck out “and 509” after “506” in introductory provisions.
+    2008—Subsec. (b). [Pub. L. 110–403][/us/pl/110/403], § 209(a)(2)(A), struck out “and 509” after “506” in introductory provisions.
 
-    Subsec. (c)(2). [Pub. L. 110–403, § 209(a)(2)(B)(i)][/us/pl/110/403/s209/a/2/B/i], struck out “and 509” after “506” in introductory provisions.
+    Subsec. (c)(2). [Pub. L. 110–403][/us/pl/110/403], § 209(a)(2)(B)(i), struck out “and 509” after “506” in introductory provisions.
 
-    Subsec. (c)(3). [Pub. L. 110–403, § 209(a)(2)(B)(ii)][/us/pl/110/403/s209/a/2/B/ii], substituted “section 510” for “sections 509 and 510”.
+    Subsec. (c)(3). [Pub. L. 110–403][/us/pl/110/403], § 209(a)(2)(B)(ii), substituted “section 510” for “sections 509 and 510”.
 
-    Subsec. (c)(4). [Pub. L. 110–403, § 209(a)(2)(B)(iii)][/us/pl/110/403/s209/a/2/B/iii], struck out “and section 509” after “506”.
+    Subsec. (c)(4). [Pub. L. 110–403][/us/pl/110/403], § 209(a)(2)(B)(iii), struck out “and section 509” after “506”.
 
-    Subsec. (e)(1). [Pub. L. 110–403, § 209(a)(2)(C)(i)][/us/pl/110/403/s209/a/2/C/i], substituted “section 510” for “sections 509 and 510” in introductory provisions.
+    Subsec. (e)(1). [Pub. L. 110–403][/us/pl/110/403], § 209(a)(2)(C)(i), substituted “section 510” for “sections 509 and 510” in introductory provisions.
 
-    Subsec. (e)(2). [Pub. L. 110–403, § 209(a)(2)(C)(ii)][/us/pl/110/403/s209/a/2/C/ii], struck out “and 509” after “506” in introductory provisions.
+    Subsec. (e)(2). [Pub. L. 110–403][/us/pl/110/403], § 209(a)(2)(C)(ii), struck out “and 509” after “506” in introductory provisions.
 
     [Pub. L. 110–229][/us/pl/110/229] substituted “the Federated States of Micronesia, the Republic of Palau, or the Republic of the Marshall Islands” for “or the Trust Territory of the Pacific Islands” in introductory provisions.
 
-    2006—Subsec. (d)(2). [Pub. L. 109–303, § 4(a)(1)][/us/pl/109/303/s4/a/1], substituted “upon authorization by the Copyright Royalty Judges.” for “in the event no controversy over distribution exists, or by the Copyright Royalty Judges. in the event a controversy over such distribution exists.”
+    2006—Subsec. (d)(2). [Pub. L. 109–303][/us/pl/109/303], § 4(a)(1), substituted “upon authorization by the Copyright Royalty Judges.” for “in the event no controversy over distribution exists, or by the Copyright Royalty Judges. in the event a controversy over such distribution exists.”
 
-    Subsec. (d)(4)(B). [Pub. L. 109–303, § 4(a)(2)(A)][/us/pl/109/303/s4/a/2/A], substituted second sentence for former second sentence which read as follows: “If the Copyright Royalty Judges determine that no such controversy exists, the Librarian shall, after deducting reasonable administrative costs under this section, distribute such fees to the copyright owners entitled to such fees, or to their designated agents.” and “find” for “finds” in last sentence.
+    Subsec. (d)(4)(B). [Pub. L. 109–303][/us/pl/109/303], § 4(a)(2)(A), substituted second sentence for former second sentence which read as follows: “If the Copyright Royalty Judges determine that no such controversy exists, the Librarian shall, after deducting reasonable administrative costs under this section, distribute such fees to the copyright owners entitled to such fees, or to their designated agents.” and “find” for “finds” in last sentence.
 
-    Subsec. (d)(4)(C). [Pub. L. 109–303, § 4(a)(2)(B)][/us/pl/109/303/s4/a/2/B], added subpar. (C) and struck out former subpar. (C) which read as follows: “During the pendency of any proceeding under this subsection, the Copyright Royalty Judges shall withhold from distribution an amount sufficient to satisfy all claims with respect to which a controversy exists, but shall have discretion to proceed to distribute any amounts that are not in controversy.”
+    Subsec. (d)(4)(C). [Pub. L. 109–303][/us/pl/109/303], § 4(a)(2)(B), added subpar. (C) and struck out former subpar. (C) which read as follows: “During the pendency of any proceeding under this subsection, the Copyright Royalty Judges shall withhold from distribution an amount sufficient to satisfy all claims with respect to which a controversy exists, but shall have discretion to proceed to distribute any amounts that are not in controversy.”
 
     2004—Subsec. (a)(4). [Pub. L. 108–447][/us/pl/108/447] struck out “for private home viewing” after “satellite carrier”.
 
     Subsec. (d)(1)(A). [Pub. L. 108–447][/us/pl/108/447] struck out “for private home viewing” after “secondary transmissions”.
 
-    Subsec. (d)(2). [Pub. L. 108–419, § 5(a)(1)][/us/pl/108/419/s5/a/1], substituted “the Copyright Royalty Judges.” for “a copyright arbitration royalty panel”.
+    Subsec. (d)(2). [Pub. L. 108–419][/us/pl/108/419], § 5(a)(1), substituted “the Copyright Royalty Judges.” for “a copyright arbitration royalty panel”.
 
-    Subsec. (d)(4)(A). [Pub. L. 108–419, § 5(a)(2)(A)][/us/pl/108/419/s5/a/2/A], substituted “Copyright Royalty Judges” for “Librarian of Congress” in two places.
+    Subsec. (d)(4)(A). [Pub. L. 108–419][/us/pl/108/419], § 5(a)(2)(A), substituted “Copyright Royalty Judges” for “Librarian of Congress” in two places.
 
-    Subsec. (d)(4)(B). [Pub. L. 108–419, § 5(a)(2)(B)][/us/pl/108/419/s5/a/2/B], substituted, in first sentence, “Copyright Royalty Judges shall” for “Librarian of Congress shall, upon the recommendation of the Register of Copyrights,”, in second sentence, “Copyright Royalty Judges determine” for “Librarian determines”, and, in third sentence, “Copyright Royalty Judges” for “Librarian” in two places and “conduct a proceeding” for “convene a copyright arbitration royalty panel”.
+    Subsec. (d)(4)(B). [Pub. L. 108–419][/us/pl/108/419], § 5(a)(2)(B), substituted, in first sentence, “Copyright Royalty Judges shall” for “Librarian of Congress shall, upon the recommendation of the Register of Copyrights,”, in second sentence, “Copyright Royalty Judges determine” for “Librarian determines”, and, in third sentence, “Copyright Royalty Judges” for “Librarian” in two places and “conduct a proceeding” for “convene a copyright arbitration royalty panel”.
 
-    Subsec. (d)(4)(C). [Pub. L. 108–419, § 5(a)(2)(C)][/us/pl/108/419/s5/a/2/C], substituted “Copyright Royalty Judges” for “Librarian of Congress”.
+    Subsec. (d)(4)(C). [Pub. L. 108–419][/us/pl/108/419], § 5(a)(2)(C), substituted “Copyright Royalty Judges” for “Librarian of Congress”.
 
-    1999—Subsecs. (a), (b). [Pub. L. 106–113, § 1000(a)(9)][/us/pl/106/113/s1000/a/9] \[title I, § 1011(b)(1)(A), (B)\], substituted “performance or display of a work embodied in a primary transmission” for “primary transmission embodying a performance or display of a work” in introductory provisions.
+    1999—Subsecs. (a), (b). [Pub. L. 106–113][/us/pl/106/113], § 1000(a)(9) \[title I, § 1011(b)(1)(A), (B)\], substituted “performance or display of a work embodied in a primary transmission” for “primary transmission embodying a performance or display of a work” in introductory provisions.
 
-    Subsec. (c)(1). [Pub. L. 106–113, § 1000(a)(9)][/us/pl/106/113/s1000/a/9] \[title I, § 1011(a)(2), (b)(1)(C)(i)\], inserted “a performance or display of a work embodied in” after “by a cable system of”, struck out “and embodying a performance or display of a work” after “governmental authority of Canada or Mexico”, and substituted “statutory” for “compulsory”.
+    Subsec. (c)(1). [Pub. L. 106–113][/us/pl/106/113], § 1000(a)(9) \[title I, § 1011(a)(2), (b)(1)(C)(i)\], inserted “a performance or display of a work embodied in” after “by a cable system of”, struck out “and embodying a performance or display of a work” after “governmental authority of Canada or Mexico”, and substituted “statutory” for “compulsory”.
 
-    Subsec. (c)(3), (4). [Pub. L. 106–113, § 1000(a)(9)][/us/pl/106/113/s1000/a/9] \[title I, § 1011(b)(1)(C)(ii)\], substituted “a performance or display of a work embodied in a primary transmission” for “a primary transmission” and struck out “and embodying a performance or display of a work” after “governmental authority of Canada or Mexico”.
+    Subsec. (c)(3), (4). [Pub. L. 106–113][/us/pl/106/113], § 1000(a)(9) \[title I, § 1011(b)(1)(C)(ii)\], substituted “a performance or display of a work embodied in a primary transmission” for “a primary transmission” and struck out “and embodying a performance or display of a work” after “governmental authority of Canada or Mexico”.
 
-    Subsec. (d). [Pub. L. 106–113, § 1000(a)(9)][/us/pl/106/113/s1000/a/9] \[title I, § 1011(a)(2)\], which directed substitution of “statutory” for “compulsory”, was executed by substituting “Statutory” for “Compulsory” in heading to reflect probable intent of Congress.
+    Subsec. (d). [Pub. L. 106–113][/us/pl/106/113], § 1000(a)(9) \[title I, § 1011(a)(2)\], which directed substitution of “statutory” for “compulsory”, was executed by substituting “Statutory” for “Compulsory” in heading to reflect probable intent of Congress.
 
-    Subsec. (d)(1). [Pub. L. 106–113, § 1000(a)(9)][/us/pl/106/113/s1000/a/9] \[title I, § 1011(a)(2)\], substituted “statutory” for “compulsory” in introductory provisions.
+    Subsec. (d)(1). [Pub. L. 106–113][/us/pl/106/113], § 1000(a)(9) \[title I, § 1011(a)(2)\], substituted “statutory” for “compulsory” in introductory provisions.
 
-    Subsec. (d)(1)(B)(i), (3)(C). [Pub. L. 106–113, § 1000(a)(9)][/us/pl/106/113/s1000/a/9] \[title I, § 1011(a)(1)\], substituted “programming” for “programing”.
+    Subsec. (d)(1)(B)(i), (3)(C). [Pub. L. 106–113][/us/pl/106/113], § 1000(a)(9) \[title I, § 1011(a)(1)\], substituted “programming” for “programing”.
 
-    Subsec. (d)(4)(A). [Pub. L. 106–113, § 1000(a)(9)][/us/pl/106/113/s1000/a/9] \[title I, § 1011(a)(2)\], substituted “statutory” for “compulsory” in two places.
+    Subsec. (d)(4)(A). [Pub. L. 106–113][/us/pl/106/113], § 1000(a)(9) \[title I, § 1011(a)(2)\], substituted “statutory” for “compulsory” in two places.
 
-    Subsec. (f). [Pub. L. 106–113, § 1000(a)(9)][/us/pl/106/113/s1000/a/9] \[title I, § 1011(a)(1)\], substituted “programming” for “programing” wherever appearing.
+    Subsec. (f). [Pub. L. 106–113][/us/pl/106/113], § 1000(a)(9) \[title I, § 1011(a)(1)\], substituted “programming” for “programing” wherever appearing.
 
     1995—Subsec. (c)(1). [Pub. L. 104–39][/us/pl/104/39] inserted “and section 114(d)” after “of this subsection”.
 
-    1994—Subsec. (f). [Pub. L. 103–369, § 3(b)][/us/pl/103/369/s3/b], in fourth undesignated par. defining local service area of a primary transmitter, inserted “or such station’s television market as defined in section 76.55(e) of title 47, Code of Federal Regulations (as in effect on September 18, 1993), or any modifications to such television market made, on or after September 18, 1993, pursuant to section 76.55(e) or 76.59 of title 47 of the Code of Federal Regulations,” after “April 15, 1976,”.
+    1994—Subsec. (f). [Pub. L. 103–369][/us/pl/103/369], § 3(b), in fourth undesignated par. defining local service area of a primary transmitter, inserted “or such station’s television market as defined in section 76.55(e) of title 47, Code of Federal Regulations (as in effect on September 18, 1993), or any modifications to such television market made, on or after September 18, 1993, pursuant to section 76.55(e) or 76.59 of title 47 of the Code of Federal Regulations,” after “April 15, 1976,”.
 
-    [Pub. L. 103–369, § 3(a)][/us/pl/103/369/s3/a], inserted “microwave,” after “wires, cables,” in third undesignated par., defining cable system.
+    [Pub. L. 103–369][/us/pl/103/369], § 3(a), inserted “microwave,” after “wires, cables,” in third undesignated par., defining cable system.
 
-    1993—Subsec. (d)(1). [Pub. L. 103–198, § 6(a)(1)][/us/pl/103/198/s6/a/1], struck out “, after consultation with the Copyright Royalty Tribunal (if and when the Tribunal has been constituted),” after “Register shall” in introductory provisions.
+    1993—Subsec. (d)(1). [Pub. L. 103–198][/us/pl/103/198], § 6(a)(1), struck out “, after consultation with the Copyright Royalty Tribunal (if and when the Tribunal has been constituted),” after “Register shall” in introductory provisions.
 
-    Subsec. (d)(1)(A). [Pub. L. 103–198, § 6(a)(2)][/us/pl/103/198/s6/a/2], struck out “, after consultation with the Copyright Royalty Tribunal (if and when the Tribunal has been constituted),” after “Register of Copyrights may”.
+    Subsec. (d)(1)(A). [Pub. L. 103–198][/us/pl/103/198], § 6(a)(2), struck out “, after consultation with the Copyright Royalty Tribunal (if and when the Tribunal has been constituted),” after “Register of Copyrights may”.
 
-    Subsec. (d)(2). [Pub. L. 103–198, § 6(a)(3)][/us/pl/103/198/s6/a/3], substituted “All funds held by the Secretary of the Treasury shall be invested in interest-bearing United States securities for later distribution with interest by the Librarian of Congress in the event no controversy over distribution exists, or by a copyright arbitration royalty panel in the event a controversy over such distribution exists.” for “All funds held by the Secretary of the Treasury shall be invested in interest-bearing United States securities for later distribution with interest by the Copyright Royalty Tribunal as provided by this title. The Register shall submit to the Copyright Royalty Tribunal, on a semiannual basis, a compilation of all statements of account covering the relevant six-month period provided by clause (1) of this subsection.”
+    Subsec. (d)(2). [Pub. L. 103–198][/us/pl/103/198], § 6(a)(3), substituted “All funds held by the Secretary of the Treasury shall be invested in interest-bearing United States securities for later distribution with interest by the Librarian of Congress in the event no controversy over distribution exists, or by a copyright arbitration royalty panel in the event a controversy over such distribution exists.” for “All funds held by the Secretary of the Treasury shall be invested in interest-bearing United States securities for later distribution with interest by the Copyright Royalty Tribunal as provided by this title. The Register shall submit to the Copyright Royalty Tribunal, on a semiannual basis, a compilation of all statements of account covering the relevant six-month period provided by clause (1) of this subsection.”
 
-    Subsec. (d)(4)(A). [Pub. L. 103–198, § 6(a)(4)][/us/pl/103/198/s6/a/4], substituted “Librarian of Congress” for “Copyright Royalty Tribunal” before “claim with the” and for “Tribunal” before “requirements that the”.
+    Subsec. (d)(4)(A). [Pub. L. 103–198][/us/pl/103/198], § 6(a)(4), substituted “Librarian of Congress” for “Copyright Royalty Tribunal” before “claim with the” and for “Tribunal” before “requirements that the”.
 
-    Subsec. (d)(4)(B). [Pub. L. 103–198, § 6(a)(5)][/us/pl/103/198/s6/a/5], amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “After the first day of August of each year, the Copyright Royalty Tribunal shall determine whether there exists a controversy concerning the distribution of royalty fees. If the Tribunal determines that no such controversy exists, it shall, after deducting its reasonable administrative costs under this section, distribute such fees to the copyright owners entitled, or to their designated agents. If the Tribunal finds the existence of a controversy, it shall, pursuant to chapter 8 of this title, conduct a proceeding to determine the distribution of royalty fees.”
+    Subsec. (d)(4)(B). [Pub. L. 103–198][/us/pl/103/198], § 6(a)(5), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “After the first day of August of each year, the Copyright Royalty Tribunal shall determine whether there exists a controversy concerning the distribution of royalty fees. If the Tribunal determines that no such controversy exists, it shall, after deducting its reasonable administrative costs under this section, distribute such fees to the copyright owners entitled, or to their designated agents. If the Tribunal finds the existence of a controversy, it shall, pursuant to chapter 8 of this title, conduct a proceeding to determine the distribution of royalty fees.”
 
-    Subsec. (d)(4)(C). [Pub. L. 103–198, § 6(a)(6)][/us/pl/103/198/s6/a/6], substituted “Librarian of Congress” for “Copyright Royalty Tribunal”.
+    Subsec. (d)(4)(C). [Pub. L. 103–198][/us/pl/103/198], § 6(a)(6), substituted “Librarian of Congress” for “Copyright Royalty Tribunal”.
 
-    1990—Subsec. (c)(2)(B). [Pub. L. 101–318, § 3(a)(1)][/us/pl/101/318/s3/a/1], struck out “recorded the notice specified by subsection (d) and” after “where the cable system has not”.
+    1990—Subsec. (c)(2)(B). [Pub. L. 101–318][/us/pl/101/318], § 3(a)(1), struck out “recorded the notice specified by subsection (d) and” after “where the cable system has not”.
 
-    Subsec. (d)(2). [Pub. L. 101–318, § 3(a)(2)(A)][/us/pl/101/318/s3/a/2/A], substituted “clause (1)” for “paragraph (1)”.
+    Subsec. (d)(2). [Pub. L. 101–318][/us/pl/101/318], § 3(a)(2)(A), substituted “clause (1)” for “paragraph (1)”.
 
-    Subsec. (d)(3). [Pub. L. 101–318, § 3(a)(2)(B)][/us/pl/101/318/s3/a/2/B], substituted “clause (4)” for “clause (5)” in introductory provisions.
+    Subsec. (d)(3). [Pub. L. 101–318][/us/pl/101/318], § 3(a)(2)(B), substituted “clause (4)” for “clause (5)” in introductory provisions.
 
-    Subsec. (d)(3)(B). [Pub. L. 101–318, § 3(a)(2)(C)][/us/pl/101/318/s3/a/2/C], substituted “clause (1)(A)” for “clause (2)(A)”.
+    Subsec. (d)(3)(B). [Pub. L. 101–318][/us/pl/101/318], § 3(a)(2)(C), substituted “clause (1)(A)” for “clause (2)(A)”.
 
-    1988—Subsec. (a)(4), (5). [Pub. L. 100–667, § 202(1)(A)][/us/pl/100/667/s202/1/A], added par. (4) and redesignated former par. (4) as (5).
+    1988—Subsec. (a)(4), (5). [Pub. L. 100–667][/us/pl/100/667], § 202(1)(A), added par. (4) and redesignated former par. (4) as (5).
 
-    Subsec. (d)(1)(A). [Pub. L. 100–667, § 202(1)(B)][/us/pl/100/667/s202/1/B], inserted provision that determination of total number of subscribers and gross amounts paid to cable system for basic service of providing secondary transmissions of primary broadcast transmitters not include subscribers and amounts collected from subscribers receiving secondary transmissions for private home viewing under section 119.
+    Subsec. (d)(1)(A). [Pub. L. 100–667][/us/pl/100/667], § 202(1)(B), inserted provision that determination of total number of subscribers and gross amounts paid to cable system for basic service of providing secondary transmissions of primary broadcast transmitters not include subscribers and amounts collected from subscribers receiving secondary transmissions for private home viewing under section 119.
 
-    1986—Subsec. (d). [Pub. L. 99–397, § 2(a)(1)][/us/pl/99/397/s2/a/1], (4), (5), substituted “paragraph (1)” for “clause (2)” in par. (3), struck out par. (1) which related to recordation of notice with Copyright Office by cable systems in order for secondary transmissions to be subject to compulsory licensing, and redesignated pars. (2) to (5) as (1) to (4), respectively.
+    1986—Subsec. (d). [Pub. L. 99–397][/us/pl/99/397], § 2(a)(1), (4), (5), substituted “paragraph (1)” for “clause (2)” in par. (3), struck out par. (1) which related to recordation of notice with Copyright Office by cable systems in order for secondary transmissions to be subject to compulsory licensing, and redesignated pars. (2) to (5) as (1) to (4), respectively.
 
-    [Pub. L. 99–397, § 2(a)(2)][/us/pl/99/397/s2/a/2], (3), which directed the amendment of subsec. (d) by substituting “paragraph (4)” for “clause (5)” in pars. (2) and (2)(B) could not be executed because pars. (2) and (2)(B) did not contain references to “clause (5)”. See 1990 Amendment note above.
+    [Pub. L. 99–397][/us/pl/99/397], § 2(a)(2), (3), which directed the amendment of subsec. (d) by substituting “paragraph (4)” for “clause (5)” in pars. (2) and (2)(B) could not be executed because pars. (2) and (2)(B) did not contain references to “clause (5)”. See 1990 Amendment note above.
 
-    Subsec. (f). [Pub. L. 99–397, § 2(b)][/us/pl/99/397/s2/b], substituted “subsection (d)(1)” for “subsection (d)(2)” in third undesignated par., defining a cable system.
+    Subsec. (f). [Pub. L. 99–397][/us/pl/99/397], § 2(b), substituted “subsection (d)(1)” for “subsection (d)(2)” in third undesignated par., defining a cable system.
 
-    [Pub. L. 99–397, § 1][/us/pl/99/397/s1], inserted provision in fourth undesignated par., defining “local service area of a primary transmitter”, to cover that term in relation to low power television stations.
+    [Pub. L. 99–397][/us/pl/99/397], § 1, inserted provision in fourth undesignated par., defining “local service area of a primary transmitter”, to cover that term in relation to low power television stations.
 
  __Effective Date of 2010 Amendment__ 
 
-[Pub. L. 111–175, title I, § 104(d)][/us/pl/111/175/s104/d], May 27, 2010, [124 Stat. 1235][/us/stat/124/1235], provided that: 
+[Pub. L. 111–175, title I][/us/pl/111/175/tI], § 104(d), May 27, 2010, [124 Stat. 1235][/us/stat/124/1235], provided that: 
 
 > “The royalty fee rates established in [section 111(d)(1)(B) of title 17][/us/usc/t17/s111/d/1/B], United States Code, as amended by subsection (c)(1)(C) of this section, shall take effect commencing with the first accounting period occurring in 2010.”
 
-[Pub. L. 111–175, title I, § 104(h)][/us/pl/111/175/s104/h], May 27, 2010, [124 Stat. 1238][/us/stat/124/1238], provided that:
+[Pub. L. 111–175, title I][/us/pl/111/175/tI], § 104(h), May 27, 2010, [124 Stat. 1238][/us/stat/124/1238], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -621,7 +621,7 @@
 
 >     In this subsection, the terms ‘cable system’, ‘secondary transmission’, ‘multicast stream’, and ‘local service area of a primary transmitter’ have the meanings given those terms in [section 111(f) of title 17][/us/usc/t17/s111/f], United States Code, as amended by this section.”
 
-[Pub. L. 111–175, title III, § 307][/us/pl/111/175/s307], May 27, 2010, [124 Stat. 1257][/us/stat/124/1257], provided that:
+[Pub. L. 111–175, title III][/us/pl/111/175/tIII], § 307, May 27, 2010, [124 Stat. 1257][/us/stat/124/1257], provided that:
 
 >     “(a)  __Effective Date__  __.—__ 
 
@@ -633,7 +633,7 @@
 
  __Effective Date of 2006 Amendment__ 
 
-[Pub. L. 109–303, § 6][/us/pl/109/303/s6], Oct. 6, 2006, [120 Stat. 1483][/us/stat/120/1483], provided that:
+[Pub. L. 109–303][/us/pl/109/303], § 6, Oct. 6, 2006, [120 Stat. 1483][/us/stat/120/1483], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -657,7 +657,7 @@
 
  __Effective Date of 1993 Amendment__ 
 
-[Pub. L. 103–198, § 7][/us/pl/103/198/s7], Dec. 17, 1993, [107 Stat. 2313][/us/stat/107/2313], provided that:
+[Pub. L. 103–198][/us/pl/103/198], § 7, Dec. 17, 1993, [107 Stat. 2313][/us/stat/107/2313], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -673,7 +673,7 @@
 
  __Effective Date of 1990 Amendment__ 
 
-[Pub. L. 101–318, § 3(e)(1)][/us/pl/101/318/s3/e/1], July 3, 1990, [104 Stat. 289][/us/stat/104/289], provided that: 
+[Pub. L. 101–318][/us/pl/101/318], § 3(e)(1), July 3, 1990, [104 Stat. 289][/us/stat/104/289], provided that: 
 
 > “The amendments made by subsections (a) and (b) \[amending this section and [section 801 of this title][/us/usc/t17/s801]\] shall be effective as of August 27, 1986.”
 
@@ -683,7 +683,7 @@
 
  __Savings Provision__ 
 
-[Pub. L. 111–175, title III, § 306][/us/pl/111/175/s306], May 27, 2010, [124 Stat. 1257][/us/stat/124/1257], provided that:
+[Pub. L. 111–175, title III][/us/pl/111/175/tIII], § 306, May 27, 2010, [124 Stat. 1257][/us/stat/124/1257], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -695,17 +695,17 @@
 
  __Severability__ 
 
-[Pub. L. 113–200, title III, § 301][/us/pl/113/200/s301], Dec. 4, 2014, [128 Stat. 2067][/us/stat/128/2067], provided that: 
+[Pub. L. 113–200, title III][/us/pl/113/200/tIII], § 301, Dec. 4, 2014, [128 Stat. 2067][/us/stat/128/2067], provided that: 
 
 > “If any provision of this Act \[see Short Title of 2014 Amendment note set out under [section 609 of Title 47][/us/usc/t47/s609], Telecommunications\], an amendment made by this Act, or the application of such provision or amendment to any person or circumstance is held to be unconstitutional, the remainder of this Act, the amendments made by this Act, and the application of such provision or amendment to any person or circumstance shall not be affected thereby.”
 
-[Pub. L. 111–175, title IV, § 401][/us/pl/111/175/s401], May 27, 2010, [124 Stat. 1258][/us/stat/124/1258], provided that: 
+[Pub. L. 111–175, title IV][/us/pl/111/175/tIV], § 401, May 27, 2010, [124 Stat. 1258][/us/stat/124/1258], provided that: 
 
 > “If any provision of this Act \[see Short Title of 2010 Amendment note set out under [section 101 of this title][/us/usc/t17/s101]\], an amendment made by this Act, or the application of such provision or amendment to any person or circumstance is held to be unconstitutional, the remainder of this Act, the amendments made by this Act, and the application of such provision or amendment to any person or circumstance shall not be affected thereby.”
 
  __Construction__ 
 
-[Pub. L. 111–175, title I, § 108][/us/pl/111/175/s108], May 27, 2010, [124 Stat. 1245][/us/stat/124/1245], provided that: 
+[Pub. L. 111–175, title I][/us/pl/111/175/tI], § 108, May 27, 2010, [124 Stat. 1245][/us/stat/124/1245], provided that: 
 
 > “Nothing in section 111, 119, or 122 of title 17, United States Code, including the amendments made to such sections by this title, shall be construed to affect the meaning of any terms under the Communications Act of 1934 \[[47 U.S.C. 151][/us/usc/t47/s151] et seq.\], except to the extent that such sections are specifically cross-referenced in such Act or the regulations issued thereunder.”
 
@@ -716,35 +716,35 @@
 ----------
 ----------
 
-[/us/pl/94/553/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F553%2Fs101
+[/us/pl/94/553/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F553%2FtI
 [/us/stat/90/2550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2550
 [/us/pl/99/397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F397
 [/us/stat/100/848]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F848
-[/us/pl/100/667/s202/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F667%2Fs202%2F1
+[/us/pl/100/667/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F667%2FtII
 [/us/stat/102/3949]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3949
-[/us/pl/101/318/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F318%2Fs3%2Fa
+[/us/pl/101/318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F318
 [/us/stat/104/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F288
-[/us/pl/103/198/s6/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F198%2Fs6%2Fa
+[/us/pl/103/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F198
 [/us/stat/107/2311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2311
-[/us/pl/103/369/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F369%2Fs3
+[/us/pl/103/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F369
 [/us/stat/108/3480]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3480
-[/us/pl/104/39/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F39%2Fs5%2Fb
+[/us/pl/104/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F39
 [/us/stat/109/348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F348
-[/us/pl/106/113/s1000/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F9
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
-[/us/pl/108/419/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F419%2Fs5%2Fa
+[/us/pl/108/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F419
 [/us/stat/118/2361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2361
-[/us/pl/108/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447
+[/us/pl/108/447/dJ/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2FdJ%2FtIX
 [/us/stat/118/3406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3406
-[/us/pl/109/303/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F303%2Fs4%2Fa
+[/us/pl/109/303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F303
 [/us/stat/120/1481]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1481
-[/us/pl/110/229/s807]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F229%2Fs807
+[/us/pl/110/229/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F229%2FtVIII
 [/us/stat/122/874]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F874
-[/us/pl/110/403/s209/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F403%2Fs209%2Fa%2F2
+[/us/pl/110/403/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F403%2FtII
 [/us/stat/122/4264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4264
-[/us/pl/111/175/s104/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175%2Fs104%2Fa%2F1
+[/us/pl/111/175/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175%2FtI
 [/us/stat/124/1231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1231
-[/us/pl/113/200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F200
+[/us/pl/113/200/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F200%2FtII
 [/us/stat/128/2066]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2066
 [/us/usc/t47/s397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs397
 [/us/usc/t47/s397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs397
@@ -752,94 +752,94 @@
 [/us/pl/111/175/s307/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175%2Fs307%2Fa
 [/us/pl/94/553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F553
 [/us/usc/t47/s397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs397
-[/us/pl/113/200/s201/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F200%2Fs201%2F1
-[/us/pl/113/200/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F200%2Fs203
-[/us/pl/111/175/s104/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175%2Fs104%2Fa%2F1
-[/us/pl/111/175/s104/g/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175%2Fs104%2Fg%2F1%2FA
-[/us/pl/111/175/s104/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175%2Fs104%2Fb
-[/us/pl/111/175/s104/g/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175%2Fs104%2Fg%2F1%2FB
-[/us/pl/111/175/s104/g/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175%2Fs104%2Fg%2F1%2FA
-[/us/pl/111/175/s104/c/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175%2Fs104%2Fc%2F1%2FA
-[/us/pl/111/175/s104/c/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175%2Fs104%2Fc%2F1%2FB
-[/us/pl/111/175/s104/c/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175%2Fs104%2Fc%2F1%2FC
-[/us/pl/111/175/s104/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175%2Fs104%2Fc%2F2
-[/us/pl/111/175/s104/c/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175%2Fs104%2Fc%2F3%2FA
-[/us/pl/111/175/s104/c/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175%2Fs104%2Fc%2F3%2FB
-[/us/pl/111/175/s104/c/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175%2Fs104%2Fc%2F3%2FC
-[/us/pl/111/175/s104/c/3/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175%2Fs104%2Fc%2F3%2FD
-[/us/pl/111/175/s104/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175%2Fs104%2Fc%2F4
-[/us/pl/111/175/s104/c/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175%2Fs104%2Fc%2F5
-[/us/pl/111/175/s104/g/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175%2Fs104%2Fg%2F3
-[/us/pl/111/175/s104/g/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175%2Fs104%2Fg%2F4%2FA
-[/us/pl/111/175/s104/g/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175%2Fs104%2Fg%2F1%2FA
-[/us/pl/111/175/s104/g/4/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175%2Fs104%2Fg%2F4%2FD
-[/us/pl/111/175/s104/g/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175%2Fs104%2Fg%2F1%2FA
-[/us/pl/111/175/s104/g/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175%2Fs104%2Fg%2F1%2FC
-[/us/pl/111/175/s104/g/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175%2Fs104%2Fg%2F1%2FA
-[/us/pl/111/175/s104/g/4/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175%2Fs104%2Fg%2F4%2FE
-[/us/pl/111/175/s104/g/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175%2Fs104%2Fg%2F1%2FA
-[/us/pl/111/175/s104/g/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175%2Fs104%2Fg%2F5%2FA
-[/us/pl/111/175/s104/g/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175%2Fs104%2Fg%2F5%2FB
-[/us/pl/111/175/s104/e/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175%2Fs104%2Fe%2F5
-[/us/pl/111/175/s104/e/4/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175%2Fs104%2Fe%2F4%2FC
-[/us/pl/111/175/s104/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175%2Fs104%2Fe%2F1
-[/us/pl/111/175/s104/e/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175%2Fs104%2Fe%2F9
-[/us/pl/110/403/s209/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F403%2Fs209%2Fa%2F2%2FA
-[/us/pl/110/403/s209/a/2/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F403%2Fs209%2Fa%2F2%2FB%2Fi
-[/us/pl/110/403/s209/a/2/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F403%2Fs209%2Fa%2F2%2FB%2Fii
-[/us/pl/110/403/s209/a/2/B/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F403%2Fs209%2Fa%2F2%2FB%2Fiii
-[/us/pl/110/403/s209/a/2/C/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F403%2Fs209%2Fa%2F2%2FC%2Fi
-[/us/pl/110/403/s209/a/2/C/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F403%2Fs209%2Fa%2F2%2FC%2Fii
+[/us/pl/113/200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F200
+[/us/pl/113/200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F200
+[/us/pl/111/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175
+[/us/pl/111/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175
+[/us/pl/111/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175
+[/us/pl/111/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175
+[/us/pl/111/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175
+[/us/pl/111/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175
+[/us/pl/111/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175
+[/us/pl/111/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175
+[/us/pl/111/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175
+[/us/pl/111/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175
+[/us/pl/111/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175
+[/us/pl/111/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175
+[/us/pl/111/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175
+[/us/pl/111/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175
+[/us/pl/111/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175
+[/us/pl/111/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175
+[/us/pl/111/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175
+[/us/pl/111/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175
+[/us/pl/111/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175
+[/us/pl/111/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175
+[/us/pl/111/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175
+[/us/pl/111/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175
+[/us/pl/111/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175
+[/us/pl/111/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175
+[/us/pl/111/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175
+[/us/pl/111/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175
+[/us/pl/111/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175
+[/us/pl/111/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175
+[/us/pl/111/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175
+[/us/pl/111/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175
+[/us/pl/110/403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F403
+[/us/pl/110/403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F403
+[/us/pl/110/403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F403
+[/us/pl/110/403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F403
+[/us/pl/110/403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F403
+[/us/pl/110/403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F403
 [/us/pl/110/229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F229
-[/us/pl/109/303/s4/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F303%2Fs4%2Fa%2F1
-[/us/pl/109/303/s4/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F303%2Fs4%2Fa%2F2%2FA
-[/us/pl/109/303/s4/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F303%2Fs4%2Fa%2F2%2FB
+[/us/pl/109/303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F303
+[/us/pl/109/303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F303
+[/us/pl/109/303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F303
 [/us/pl/108/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447
 [/us/pl/108/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447
-[/us/pl/108/419/s5/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F419%2Fs5%2Fa%2F1
-[/us/pl/108/419/s5/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F419%2Fs5%2Fa%2F2%2FA
-[/us/pl/108/419/s5/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F419%2Fs5%2Fa%2F2%2FB
-[/us/pl/108/419/s5/a/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F419%2Fs5%2Fa%2F2%2FC
-[/us/pl/106/113/s1000/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F9
-[/us/pl/106/113/s1000/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F9
-[/us/pl/106/113/s1000/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F9
-[/us/pl/106/113/s1000/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F9
-[/us/pl/106/113/s1000/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F9
-[/us/pl/106/113/s1000/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F9
-[/us/pl/106/113/s1000/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F9
-[/us/pl/106/113/s1000/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F9
+[/us/pl/108/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F419
+[/us/pl/108/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F419
+[/us/pl/108/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F419
+[/us/pl/108/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F419
+[/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
+[/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
+[/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
+[/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
+[/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
+[/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
+[/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
+[/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
 [/us/pl/104/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F39
-[/us/pl/103/369/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F369%2Fs3%2Fb
-[/us/pl/103/369/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F369%2Fs3%2Fa
-[/us/pl/103/198/s6/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F198%2Fs6%2Fa%2F1
-[/us/pl/103/198/s6/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F198%2Fs6%2Fa%2F2
-[/us/pl/103/198/s6/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F198%2Fs6%2Fa%2F3
-[/us/pl/103/198/s6/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F198%2Fs6%2Fa%2F4
-[/us/pl/103/198/s6/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F198%2Fs6%2Fa%2F5
-[/us/pl/103/198/s6/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F198%2Fs6%2Fa%2F6
-[/us/pl/101/318/s3/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F318%2Fs3%2Fa%2F1
-[/us/pl/101/318/s3/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F318%2Fs3%2Fa%2F2%2FA
-[/us/pl/101/318/s3/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F318%2Fs3%2Fa%2F2%2FB
-[/us/pl/101/318/s3/a/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F318%2Fs3%2Fa%2F2%2FC
-[/us/pl/100/667/s202/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F667%2Fs202%2F1%2FA
-[/us/pl/100/667/s202/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F667%2Fs202%2F1%2FB
-[/us/pl/99/397/s2/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F397%2Fs2%2Fa%2F1
-[/us/pl/99/397/s2/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F397%2Fs2%2Fa%2F2
-[/us/pl/99/397/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F397%2Fs2%2Fb
-[/us/pl/99/397/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F397%2Fs1
-[/us/pl/111/175/s104/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175%2Fs104%2Fd
+[/us/pl/103/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F369
+[/us/pl/103/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F369
+[/us/pl/103/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F198
+[/us/pl/103/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F198
+[/us/pl/103/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F198
+[/us/pl/103/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F198
+[/us/pl/103/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F198
+[/us/pl/103/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F198
+[/us/pl/101/318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F318
+[/us/pl/101/318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F318
+[/us/pl/101/318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F318
+[/us/pl/101/318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F318
+[/us/pl/100/667]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F667
+[/us/pl/100/667]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F667
+[/us/pl/99/397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F397
+[/us/pl/99/397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F397
+[/us/pl/99/397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F397
+[/us/pl/99/397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F397
+[/us/pl/111/175/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175%2FtI
 [/us/stat/124/1235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1235
 [/us/usc/t17/s111/d/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft17%2Fs111%2Fd%2F1%2FB
-[/us/pl/111/175/s104/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175%2Fs104%2Fh
+[/us/pl/111/175/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175%2FtI
 [/us/stat/124/1238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1238
 [/us/usc/t17/s804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft17%2Fs804
 [/us/pl/111/175/s307/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175%2Fs307%2Fa
 [/us/usc/t17/s111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft17%2Fs111
 [/us/usc/t17/s111/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft17%2Fs111%2Ff
-[/us/pl/111/175/s307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175%2Fs307
+[/us/pl/111/175/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175%2FtIII
 [/us/stat/124/1257]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1257
 [/us/usc/t17/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft17%2Fs101
-[/us/pl/109/303/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F303%2Fs6
+[/us/pl/109/303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F303
 [/us/stat/120/1483]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1483
 [/us/usc/t17/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft17%2Fs101
 [/us/pl/108/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F419
@@ -853,27 +853,27 @@
 [/us/pl/103/369/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F369%2Fs3%2Fb
 [/us/pl/103/369/s6/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F369%2Fs6%2Fd
 [/us/usc/t17/s119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft17%2Fs119
-[/us/pl/103/198/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F198%2Fs7
+[/us/pl/103/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F198
 [/us/stat/107/2313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2313
 [/us/usc/t17/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft17%2Fs101
-[/us/pl/101/318/s3/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F318%2Fs3%2Fe%2F1
+[/us/pl/101/318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F318
 [/us/stat/104/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F289
 [/us/usc/t17/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft17%2Fs801
 [/us/pl/100/667]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F667
 [/us/pl/100/667/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F667%2Fs206
 [/us/usc/t17/s119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft17%2Fs119
-[/us/pl/111/175/s306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175%2Fs306
+[/us/pl/111/175/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175%2FtIII
 [/us/stat/124/1257]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1257
 [/us/usc/t17/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft17%2Fs101
 [/us/usc/t47/s151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs151
 [/us/usc/t47/s325/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs325%2Fb
-[/us/pl/113/200/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F200%2Fs301
+[/us/pl/113/200/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F200%2FtIII
 [/us/stat/128/2067]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2067
 [/us/usc/t47/s609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs609
-[/us/pl/111/175/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175%2Fs401
+[/us/pl/111/175/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175%2FtIV
 [/us/stat/124/1258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1258
 [/us/usc/t17/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft17%2Fs101
-[/us/pl/111/175/s108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175%2Fs108
+[/us/pl/111/175/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175%2FtI
 [/us/stat/124/1245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1245
 [/us/usc/t47/s151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs151
 

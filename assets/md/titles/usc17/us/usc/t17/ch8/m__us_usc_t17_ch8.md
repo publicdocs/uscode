@@ -71,13 +71,13 @@
 
  __Amendments__ 
 
-    2004—[Pub. L. 108–419, § 3(a)][/us/pl/108/419/s3/a], Nov. 30, 2004, [118 Stat. 2341][/us/stat/118/2341], amended chapter heading and analysis generally, substituting chapter heading and items 801 to 805 for chapter heading “COPYRIGHT ARBITRATION ROYALTY PANELS”, and items 801 “Copyright arbitration royalty panels: Establishment and purpose”, 802 “Membership and proceedings of copyright arbitration royalty panels”, and 803 “Institution and conclusion of proceedings”.
+    2004—[Pub. L. 108–419][/us/pl/108/419], § 3(a), Nov. 30, 2004, [118 Stat. 2341][/us/stat/118/2341], amended chapter heading and analysis generally, substituting chapter heading and items 801 to 805 for chapter heading “COPYRIGHT ARBITRATION ROYALTY PANELS”, and items 801 “Copyright arbitration royalty panels: Establishment and purpose”, 802 “Membership and proceedings of copyright arbitration royalty panels”, and 803 “Institution and conclusion of proceedings”.
 
-    1997—[Pub. L. 105–80, § 12(a)(18)][/us/pl/105/80/s12/a/18], Nov. 13, 1997, [111 Stat. 1535][/us/stat/111/1535], substituted “Establishment” for “establishment” in item 801.
+    1997—[Pub. L. 105–80][/us/pl/105/80], § 12(a)(18), Nov. 13, 1997, [111 Stat. 1535][/us/stat/111/1535], substituted “Establishment” for “establishment” in item 801.
 
-    1993—[Pub. L. 103–198, § 2(f)][/us/pl/103/198/s2/f], Dec. 17, 1993, [107 Stat. 2308][/us/stat/107/2308], amended table of sections generally, substituting chapter heading and items 801 to 803 for chapter heading “COPYRIGHT ROYALTY TRIBUNAL”, item 801 “Copyright Royalty Tribunal: Establishment and purpose”, item 802 “Membership of the Tribunal”, item 804 “Institution and conclusion of proceedings”, item 805 “Staff of the Tribunal”, item 806 “Administrative support of the Tribunal”, item 807 “Deduction of costs of proceedings”, item 808 “Reports”, item 809 “Effective date of final determinations”, and item 810 “Judicial review”.
+    1993—[Pub. L. 103–198][/us/pl/103/198], § 2(f), Dec. 17, 1993, [107 Stat. 2308][/us/stat/107/2308], amended table of sections generally, substituting chapter heading and items 801 to 803 for chapter heading “COPYRIGHT ROYALTY TRIBUNAL”, item 801 “Copyright Royalty Tribunal: Establishment and purpose”, item 802 “Membership of the Tribunal”, item 804 “Institution and conclusion of proceedings”, item 805 “Staff of the Tribunal”, item 806 “Administrative support of the Tribunal”, item 807 “Deduction of costs of proceedings”, item 808 “Reports”, item 809 “Effective date of final determinations”, and item 810 “Judicial review”.
 
-    [Pub. L. 103–198, § 2(c)][/us/pl/103/198/s2/c], Dec. 17, 1993, [107 Stat. 2307][/us/stat/107/2307], struck out item 803 “Procedures of the Tribunal.”
+    [Pub. L. 103–198][/us/pl/103/198], § 2(c), Dec. 17, 1993, [107 Stat. 2307][/us/stat/107/2307], struck out item 803 “Procedures of the Tribunal.”
 
 ----------
 
@@ -87,13 +87,13 @@
 ----------
 
 [/us/pl/108/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F419
-[/us/pl/108/419/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F419%2Fs3%2Fa
+[/us/pl/108/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F419
 [/us/stat/118/2341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2341
-[/us/pl/105/80/s12/a/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F80%2Fs12%2Fa%2F18
+[/us/pl/105/80]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F80
 [/us/stat/111/1535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1535
-[/us/pl/103/198/s2/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F198%2Fs2%2Ff
+[/us/pl/103/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F198
 [/us/stat/107/2308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2308
-[/us/pl/103/198/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F198%2Fs2%2Fc
+[/us/pl/103/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F198
 [/us/stat/107/2307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2307
 
 

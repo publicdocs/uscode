@@ -139,7 +139,7 @@
 
         (2) Termination of the grant may be effected at any time during a period of 5 years beginning at the end of 75 years from the date copyright was originally secured.
 
-([Pub. L. 94–553, title I, § 101][/us/pl/94/553/s101], Oct. 19, 1976, [90 Stat. 2573][/us/stat/90/2573]; [Pub. L. 102–307, title I, § 102(a)][/us/pl/102/307/s102/a], (d), June 26, 1992, [106 Stat. 264][/us/stat/106/264], 266; [Pub. L. 105–80, § 12(a)(9)][/us/pl/105/80/s12/a/9], Nov. 13, 1997, [111 Stat. 1535][/us/stat/111/1535]; [Pub. L. 105–298, title I][/us/pl/105/298], §§ 102(d)(1), 103, Oct. 27, 1998, [112 Stat. 2827][/us/stat/112/2827], 2829; [Pub. L. 107–273, div. C, title III, § 13210(10)][/us/pl/107/273/s13210/10], Nov. 2, 2002, [116 Stat. 1910][/us/stat/116/1910].)
+([Pub. L. 94–553, title I][/us/pl/94/553/tI], § 101, Oct. 19, 1976, [90 Stat. 2573][/us/stat/90/2573]; [Pub. L. 102–307, title I][/us/pl/102/307/tI], § 102(a), (d), June 26, 1992, [106 Stat. 264][/us/stat/106/264], 266; [Pub. L. 105–80][/us/pl/105/80], § 12(a)(9), Nov. 13, 1997, [111 Stat. 1535][/us/stat/111/1535]; [Pub. L. 105–298, title I][/us/pl/105/298/tI], §§ 102(d)(1), 103, Oct. 27, 1998, [112 Stat. 2827][/us/stat/112/2827], 2829; [Pub. L. 107–273, div. C, title III][/us/pl/107/273/dC/tIII], § 13210(10), Nov. 2, 2002, [116 Stat. 1910][/us/stat/116/1910].)
 
  __Historical and Revision Notes__ 
 
@@ -183,27 +183,27 @@
 
     2002—Subsec. (c)(2)(A) to (C). [Pub. L. 107–273][/us/pl/107/273], in subpars. (A) to (C), substituted “The” for “the” and, in subpars. (A) and (B), substituted period for semicolon at end.
 
-    1998—Subsec. (a)(1)(B), (C). [Pub. L. 105–298, § 102(d)(1)(A)(i)][/us/pl/105/298/s102/d/1/A/i], substituted “67” for “47” in concluding provisions.
+    1998—Subsec. (a)(1)(B), (C). [Pub. L. 105–298][/us/pl/105/298], § 102(d)(1)(A)(i), substituted “67” for “47” in concluding provisions.
 
-    Subsec. (a)(2)(A), (B). [Pub. L. 105–298, § 102(d)(1)(A)(ii)][/us/pl/105/298/s102/d/1/A/ii], substituted “67” for “47” in introductory provisions.
+    Subsec. (a)(2)(A), (B). [Pub. L. 105–298][/us/pl/105/298], § 102(d)(1)(A)(ii), substituted “67” for “47” in introductory provisions.
 
-    Subsec. (a)(3)(A)(i), (B). [Pub. L. 105–298, § 102(d)(1)(A)(iii)][/us/pl/105/298/s102/d/1/A/iii], substituted “67” for “47”.
+    Subsec. (a)(3)(A)(i), (B). [Pub. L. 105–298][/us/pl/105/298], § 102(d)(1)(A)(iii), substituted “67” for “47”.
 
-    Subsec. (b). [Pub. L. 105–298, § 102(d)(1)(B)][/us/pl/105/298/s102/d/1/B], amended heading and text of subsec. (b) generally. Prior to amendment, text read as follows: “The duration of any copyright, the renewal term of which is subsisting at any time between December 31, 1976, and December 31, 1977, inclusive, or for which renewal registration is made between December 31, 1976, and December 31, 1977, inclusive, is extended to endure for a term of seventy-five years from the date copyright was originally secured.”
+    Subsec. (b). [Pub. L. 105–298][/us/pl/105/298], § 102(d)(1)(B), amended heading and text of subsec. (b) generally. Prior to amendment, text read as follows: “The duration of any copyright, the renewal term of which is subsisting at any time between December 31, 1976, and December 31, 1977, inclusive, or for which renewal registration is made between December 31, 1976, and December 31, 1977, inclusive, is extended to endure for a term of seventy-five years from the date copyright was originally secured.”
 
-    Subsec. (c)(2). [Pub. L. 105–298, § 103(1)][/us/pl/105/298/s103/1], struck out “by his widow or her widower and his or her children or grandchildren” after “exercised,” in introductory provisions.
+    Subsec. (c)(2). [Pub. L. 105–298][/us/pl/105/298], § 103(1), struck out “by his widow or her widower and his or her children or grandchildren” after “exercised,” in introductory provisions.
 
-    Subsec. (c)(2)(D). [Pub. L. 105–298, § 103(2)][/us/pl/105/298/s103/2], added subpar. (D).
+    Subsec. (c)(2)(D). [Pub. L. 105–298][/us/pl/105/298], § 103(2), added subpar. (D).
 
-    Subsec. (c)(4)(A). [Pub. L. 105–298, § 102(d)(1)(C)][/us/pl/105/298/s102/d/1/C], inserted “or, in the case of a termination under subsection (d), within the five-year period specified by subsection (d)(2),” before “and the notice”.
+    Subsec. (c)(4)(A). [Pub. L. 105–298][/us/pl/105/298], § 102(d)(1)(C), inserted “or, in the case of a termination under subsection (d), within the five-year period specified by subsection (d)(2),” before “and the notice”.
 
-    Subsec. (d). [Pub. L. 105–298, § 102(d)(1)(D)][/us/pl/105/298/s102/d/1/D], added subsec. (d).
+    Subsec. (d). [Pub. L. 105–298][/us/pl/105/298], § 102(d)(1)(D), added subsec. (d).
 
     1997—Subsec. (c). [Pub. L. 105–80][/us/pl/105/80] substituted “subsection (a)(1)(C)” for “the subsection (a)(1)(C)” in introductory provisions.
 
-    1992—Subsec. (a). [Pub. L. 102–307, § 102(a)][/us/pl/102/307/s102/a], amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Copyrights in Their First Term on January 1, 1978.—Any copyright, the first term of which is subsisting on January 1, 1978, shall endure for twenty-eight years from the date it was originally secured: Provided, That in the case of any posthumous work or of any periodical, cyclopedic, or other composite work upon which the copyright was originally secured by the proprietor thereof, or of any work copyrighted by a corporate body (otherwise than as assignee or licensee of the individual author) or by an employer for whom such work is made for hire, the proprietor of such copyright shall be entitled to a renewal and extension of the copyright in such work for the further term of forty-seven years when application for such renewal and extension shall have been made to the Copyright Office and duly registered therein within one year prior to the expiration of the original term of copyright: And provided further, That in the case of any other copyrighted work, including a contribution by an individual author to a periodical or to a cyclopedic or other composite work, the author of such work, if still living, or the widow, widower, or children of the author, if the author be not living, or if such author, widow, widower, or children be not living, then the author’s executors, or in the absence of a will, his or her next of kin shall be entitled to a renewal and extension of the copyright in such work for a further term of forty-seven years when application for such renewal and extension shall have been made to the Copyright Office and duly registered therein within one year prior to the expiration of the original term of copyright: And provided further, That in default of the registration of such application for renewal and extension, the copyright in any work shall terminate at the expiration of twenty-eight years from the date copyright was originally secured.”
+    1992—Subsec. (a). [Pub. L. 102–307][/us/pl/102/307], § 102(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Copyrights in Their First Term on January 1, 1978.—Any copyright, the first term of which is subsisting on January 1, 1978, shall endure for twenty-eight years from the date it was originally secured: Provided, That in the case of any posthumous work or of any periodical, cyclopedic, or other composite work upon which the copyright was originally secured by the proprietor thereof, or of any work copyrighted by a corporate body (otherwise than as assignee or licensee of the individual author) or by an employer for whom such work is made for hire, the proprietor of such copyright shall be entitled to a renewal and extension of the copyright in such work for the further term of forty-seven years when application for such renewal and extension shall have been made to the Copyright Office and duly registered therein within one year prior to the expiration of the original term of copyright: And provided further, That in the case of any other copyrighted work, including a contribution by an individual author to a periodical or to a cyclopedic or other composite work, the author of such work, if still living, or the widow, widower, or children of the author, if the author be not living, or if such author, widow, widower, or children be not living, then the author’s executors, or in the absence of a will, his or her next of kin shall be entitled to a renewal and extension of the copyright in such work for a further term of forty-seven years when application for such renewal and extension shall have been made to the Copyright Office and duly registered therein within one year prior to the expiration of the original term of copyright: And provided further, That in default of the registration of such application for renewal and extension, the copyright in any work shall terminate at the expiration of twenty-eight years from the date copyright was originally secured.”
 
-    Subsec. (c). [Pub. L. 102–307, § 102(d)][/us/pl/102/307/s102/d], substituted “subsection (a)(1)(C)” for “second proviso of subsection (a)” in introductory provisions.
+    Subsec. (c). [Pub. L. 102–307][/us/pl/102/307], § 102(d), substituted “subsection (a)(1)(C)” for “second proviso of subsection (a)” in introductory provisions.
 
  __Effective Date of 1992 Amendment__ 
 
@@ -215,13 +215,13 @@
 
  __Legal Effect of Renewal of Copyright Unchanged__ 
 
-[Pub. L. 102–307, title I, § 102(c)][/us/pl/102/307/s102/c], June 26, 1992, [106 Stat. 266][/us/stat/106/266], as amended by [Pub. L. 105–298, title I, § 102(d)(2)(A)][/us/pl/105/298/s102/d/2/A], Oct. 27, 1998, [112 Stat. 2828][/us/stat/112/2828], provided that: 
+[Pub. L. 102–307, title I][/us/pl/102/307/tI], § 102(c), June 26, 1992, [106 Stat. 266][/us/stat/106/266], as amended by [Pub. L. 105–298, title I][/us/pl/105/298/tI], § 102(d)(2)(A), Oct. 27, 1998, [112 Stat. 2828][/us/stat/112/2828], provided that: 
 
 > “The renewal and extension of a copyright for a further term of 67 years provided for under paragraphs (1) and (2) of [section 304(a) of title 17][/us/usc/t17/s304/a], United States Code\[,\] shall have the same effect with respect to any grant, before the effective date of the Sonny Bono Copyright Term Extension Act \[Oct. 27, 1998\], of a transfer or license of the further term as did the renewal of a copyright before the effective date of the Sonny Bono Copyright Term Extension Act under the law in effect at the time of such grant.”
 
  __Ad Interim Copyrights Subsisting or Capable of Being Secured Under Predecessor Provisions__ 
 
-[Pub. L. 94–553, title I, § 107][/us/pl/94/553/s107], Oct. 19, 1976, [90 Stat. 2600][/us/stat/90/2600], provided that: 
+[Pub. L. 94–553, title I][/us/pl/94/553/tI], § 107, Oct. 19, 1976, [90 Stat. 2600][/us/stat/90/2600], provided that: 
 
 > “In the case of any work in which an ad interim copyright is subsisting or is capable of being secured on December 31, 1977, under [section 22 of title 17][/us/usc/t17/s22] as it existed on that date, copyright protection is hereby extended to endure for the term or terms provided by [section 304 of title 17][/us/usc/t17/s304] as amended by the first section of this Act \[this section\].”
 
@@ -231,7 +231,7 @@
 
  __Extension of Renewal Terms Under Prior Law__ 
 
-    [Pub. L. 93–573, title I, § 104][/us/pl/93/573/s104], Dec. 31, 1974, [88 Stat. 1873][/us/stat/88/1873], provided that in any case in which the renewal term of a copyright subsisting in any work on Dec. 31, 1974, or the term thereof as extended by [Public Law 87–668][/us/pl/87/668], by [Public Law 89–142][/us/pl/89/142], by [Public Law 90–141][/us/pl/90/141], by [Public Law 90–416][/us/pl/90/416], by [Public Law 91–417][/us/pl/91/417], by [Public Law 91–555][/us/pl/91/555], by [Public Law 92–170][/us/pl/92/170], or by [Public Law 92–556][/us/pl/92/556] (or by all or certain of said laws) \[set out below\], would expire prior to Dec. 31, 1976, such term was continued until Dec. 31, 1976.
+    [Pub. L. 93–573, title I][/us/pl/93/573/tI], § 104, Dec. 31, 1974, [88 Stat. 1873][/us/stat/88/1873], provided that in any case in which the renewal term of a copyright subsisting in any work on Dec. 31, 1974, or the term thereof as extended by [Public Law 87–668][/us/pl/87/668], by [Public Law 89–142][/us/pl/89/142], by [Public Law 90–141][/us/pl/90/141], by [Public Law 90–416][/us/pl/90/416], by [Public Law 91–417][/us/pl/91/417], by [Public Law 91–555][/us/pl/91/555], by [Public Law 92–170][/us/pl/92/170], or by [Public Law 92–556][/us/pl/92/556] (or by all or certain of said laws) \[set out below\], would expire prior to Dec. 31, 1976, such term was continued until Dec. 31, 1976.
 
     [Pub. L. 92–566][/us/pl/92/566], Oct. 25, 1972, [86 Stat. 1181][/us/stat/86/1181], provided that in any case in which the renewal term of a copyright subsisting in any work on Oct. 25, 1972, or the term thereof as extended by [Public Law 87–668][/us/pl/87/668], by [Public Law 89–142][/us/pl/89/142], by [Public Law 90–141][/us/pl/90/141], by [Public Law 90–416][/us/pl/90/416], by [Public Law 91–147][/us/pl/91/147], by [Public Law 91–555][/us/pl/91/555], or by [Public Law 92–170][/us/pl/92/170] (or by all or certain of said laws) \[set out below\], would expire prior to Dec. 31, 1974, such term was continued until Dec. 31, 1974.
 
@@ -256,15 +256,15 @@
 ----------
 ----------
 
-[/us/pl/94/553/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F553%2Fs101
+[/us/pl/94/553/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F553%2FtI
 [/us/stat/90/2573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2573
-[/us/pl/102/307/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F307%2Fs102%2Fa
+[/us/pl/102/307/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F307%2FtI
 [/us/stat/106/264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F264
-[/us/pl/105/80/s12/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F80%2Fs12%2Fa%2F9
+[/us/pl/105/80]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F80
 [/us/stat/111/1535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1535
-[/us/pl/105/298]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F298
+[/us/pl/105/298/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F298%2FtI
 [/us/stat/112/2827]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2827
-[/us/pl/107/273/s13210/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs13210%2F10
+[/us/pl/107/273/dC/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdC%2FtIII
 [/us/stat/116/1910]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1910
 [/us/usc/t17/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft17%2Fs203
 [/us/pl/105/298]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F298
@@ -272,34 +272,34 @@
 [/us/pl/105/298]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F298
 [/us/usc/t17/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft17%2Fs101
 [/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
-[/us/pl/105/298/s102/d/1/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F298%2Fs102%2Fd%2F1%2FA%2Fi
-[/us/pl/105/298/s102/d/1/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F298%2Fs102%2Fd%2F1%2FA%2Fii
-[/us/pl/105/298/s102/d/1/A/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F298%2Fs102%2Fd%2F1%2FA%2Fiii
-[/us/pl/105/298/s102/d/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F298%2Fs102%2Fd%2F1%2FB
-[/us/pl/105/298/s103/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F298%2Fs103%2F1
-[/us/pl/105/298/s103/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F298%2Fs103%2F2
-[/us/pl/105/298/s102/d/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F298%2Fs102%2Fd%2F1%2FC
-[/us/pl/105/298/s102/d/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F298%2Fs102%2Fd%2F1%2FD
+[/us/pl/105/298]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F298
+[/us/pl/105/298]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F298
+[/us/pl/105/298]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F298
+[/us/pl/105/298]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F298
+[/us/pl/105/298]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F298
+[/us/pl/105/298]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F298
+[/us/pl/105/298]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F298
+[/us/pl/105/298]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F298
 [/us/pl/105/80]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F80
-[/us/pl/102/307/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F307%2Fs102%2Fa
-[/us/pl/102/307/s102/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F307%2Fs102%2Fd
+[/us/pl/102/307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F307
+[/us/pl/102/307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F307
 [/us/pl/102/307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F307
 [/us/usc/t17/s304/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft17%2Fs304%2Fa
 [/us/pl/102/307/s102/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F307%2Fs102%2Fg
 [/us/usc/t17/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft17%2Fs101
 [/us/pl/94/553/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F553%2Fs102
 [/us/usc/t17/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft17%2Fs101
-[/us/pl/102/307/s102/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F307%2Fs102%2Fc
+[/us/pl/102/307/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F307%2FtI
 [/us/stat/106/266]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F266
-[/us/pl/105/298/s102/d/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F298%2Fs102%2Fd%2F2%2FA
+[/us/pl/105/298/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F298%2FtI
 [/us/stat/112/2828]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2828
 [/us/usc/t17/s304/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft17%2Fs304%2Fa
-[/us/pl/94/553/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F553%2Fs107
+[/us/pl/94/553/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F553%2FtI
 [/us/stat/90/2600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2600
 [/us/usc/t17/s22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft17%2Fs22
 [/us/usc/t17/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft17%2Fs304
 [/us/stat/85/857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F857
-[/us/pl/93/573/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F573%2Fs104
+[/us/pl/93/573/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F573%2FtI
 [/us/stat/88/1873]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1873
 [/us/pl/87/668]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F668
 [/us/pl/89/142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F142
