@@ -39,6 +39,12 @@
 
 > “The amendments made by this Act \[enacting sections 181 to 184 and 196 of this title, amending this section and sections 3 to 6, 8, 23, 141, 191, 195, 214, 221, 224, 225, and 241 of this title, and enacting provisions set out as notes under this section\] shall take effect on October 1, 1976, or on the date of the enactment of this Act \[Oct. 17, 1976\], whichever date is later”.
 
+ __Short Title of 2015 Amendment__ 
+
+[Pub. L. 114–72, § 1][/us/pl/114/72/s1], Oct. 22, 2015, [129 Stat. 566][/us/stat/129/566], provided that: 
+
+> “This Act \[amending provisions set out as a note under [section 91 of this title][/us/usc/t13/s91]\] may be cited as the ‘Quarterly Financial Report Reauthorization Act’.”
+
  __Short Title of 1999 Amendment__ 
 
 [Pub. L. 106–113, div. B, § 1000(a)(7)][/us/pl/106/113/s1000/a/7] \[div. B, title XII, subtitle E, § 1251\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–505, provided that: 
@@ -71,6 +77,9 @@
 [/us/pl/94/521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F521
 [/us/pl/94/521/s17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F521%2Fs17
 [/us/stat/90/2466]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2466
+[/us/pl/114/72/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F72%2Fs1
+[/us/stat/129/566]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F566
+[/us/usc/t13/s91]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft13%2Fs91
 [/us/pl/106/113/s1000/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F7
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
 [/us/usc/t13/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft13%2Fs301

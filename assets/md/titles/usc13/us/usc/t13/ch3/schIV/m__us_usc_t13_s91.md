@@ -93,11 +93,11 @@
 
  __Effective and Termination Date; Report to Congress__ 
 
-[Pub. L. 97–454, § 4][/us/pl/97/454/s4], Jan. 12, 1983, [96 Stat. 2495][/us/stat/96/2495], as amended by [Pub. L. 101–227, § 1][/us/pl/101/227/s1], Dec. 12, 1989, [103 Stat. 1943][/us/stat/103/1943]; [Pub. L. 103–105, § 1(a)][/us/pl/103/105/s1/a], Oct. 12, 1993, [107 Stat. 1030][/us/stat/107/1030]; [Pub. L. 105–252, § 1][/us/pl/105/252/s1], Oct. 9, 1998, [112 Stat. 1886][/us/stat/112/1886]; [Pub. L. 109–79, § 1][/us/pl/109/79/s1], Sept. 30, 2005, [119 Stat. 2044][/us/stat/119/2044], provided that:
+[Pub. L. 97–454, § 4][/us/pl/97/454/s4], Jan. 12, 1983, [96 Stat. 2495][/us/stat/96/2495], as amended by [Pub. L. 101–227, § 1][/us/pl/101/227/s1], Dec. 12, 1989, [103 Stat. 1943][/us/stat/103/1943]; [Pub. L. 103–105, § 1(a)][/us/pl/103/105/s1/a], Oct. 12, 1993, [107 Stat. 1030][/us/stat/107/1030]; [Pub. L. 105–252, § 1][/us/pl/105/252/s1], Oct. 9, 1998, [112 Stat. 1886][/us/stat/112/1886]; [Pub. L. 109–79, § 1][/us/pl/109/79/s1], Sept. 30, 2005, [119 Stat. 2044][/us/stat/119/2044]; [Pub. L. 114–72, § 2][/us/pl/114/72/s2], Oct. 22, 2015, [129 Stat. 566][/us/stat/129/566], provided that:
 
 >     “(a) This Act \[enacting [section 91 of this title][/us/usc/t13/s91] and provisions set out as notes under sections 23 and 91 of this title\] shall take effect on the date of the enactment of this Act \[Jan. 12, 1983\].
 
->     “(b) This Act, including the amendments made by this Act, shall cease to have effect after September 30, 2015.
+>     “(b) This Act, including the amendments made by this Act, shall cease to have effect after September 30, 2030.
 
 >     “(c)
 
@@ -153,6 +153,8 @@
 [/us/stat/112/1886]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1886
 [/us/pl/109/79/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F79%2Fs1
 [/us/stat/119/2044]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2044
+[/us/pl/114/72/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F72%2Fs2
+[/us/stat/129/566]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F566
 [/us/usc/t13/s91]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft13%2Fs91
 [/us/usc/t13/s91]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft13%2Fs91
 [/us/pl/103/105/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F105%2Fs1%2Fb
