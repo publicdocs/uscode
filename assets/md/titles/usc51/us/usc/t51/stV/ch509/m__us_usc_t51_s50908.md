@@ -15,17 +15,17 @@
 
 ## § 50908. Effective periods, and modifications, suspensions, and revocations, of licenses
 
-    (a) __Effective Periods of Licenses.—__ 
+    (a)  __Effective Periods of Licenses__  __.—__ 
 
     The Secretary of Transportation shall specify the period for which a license issued or transferred under this chapter is in effect.
 
-    (b) __Modifications.—__ 
+    (b)  __Modifications__  __.—__ 
 
         (1) On the initiative of the Secretary or on application of the licensee, the Secretary may modify a license issued or transferred under this chapter if the Secretary decides the modification will comply with this chapter.
 
         (2) The Secretary shall modify a license issued or transferred under this chapter whenever a modification is needed for the license to be in conformity with a regulation that was issued pursuant to section 50905(c) after the issuance of the license. This paragraph shall not apply to permits.
 
-    (c) __Suspensions and Revocations.—__ 
+    (c)  __Suspensions and Revocations__  __.—__ 
 
     The Secretary may suspend or revoke a license if the Secretary decides that—
 
@@ -33,7 +33,7 @@
 
         (2) the suspension or revocation is necessary to protect the public health and safety, the safety of property, or a national security or foreign policy interest of the United States.
 
-    (d) __Additional Suspensions.—__ 
+    (d)  __Additional Suspensions__  __.—__ 
 
         (1) The Secretary may suspend a license when a previous launch or reentry under the license has resulted in a serious or fatal injury (as defined in 49 CFR 830, as in effect on November 10, 2004) to crew or space flight participants and the Secretary has determined that continued operations under the license are likely to cause additional serious or fatal injury (as defined in 49 CFR 830, as in effect on November 10, 2004) to crew or space flight participants.
 
@@ -47,11 +47,11 @@
 
         (3) This subsection shall not apply to permits.
 
-    (e) __Effective Periods of Modifications, Suspensions, and Revocations.—__ 
+    (e)  __Effective Periods of Modifications, Suspensions, and Revocations__  __.—__ 
 
     Unless the Secretary specifies otherwise, a modification, suspension, or revocation under this section takes effect immediately and remains in effect during a review under [section 50912 of this title][/us/usc/t51/s50912].
 
-    (f) __Notification.—__ 
+    (f)  __Notification__  __.—__ 
 
     The Secretary shall notify the licensee in writing of the decision of the Secretary under this section and any action the Secretary takes or proposes to take based on the decision.
 

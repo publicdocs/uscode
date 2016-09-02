@@ -15,15 +15,15 @@
 
 ## § 70707. Staff of Commission
 
-    (a) __Appointment and Compensation.—__ 
+    (a)  __Appointment and Compensation__  __.—__ 
 
     The Chairman, in consultation with the Vice Chairman, in accordance with rules agreed upon by a Commission, may appoint and fix the compensation of a staff director and such other personnel as may be necessary to enable the Commission to carry out its functions.
 
-    (b) __Detailees.—__ 
+    (b)  __Detailees__  __.—__ 
 
     Any Federal Government employee, except for an employee of the Administration, may be detailed to a Commission without reimbursement from the Commission, and such detailee shall retain the rights, status, and privileges of his or her regular employment without interruption.
 
-    (c) __Consultant Services.—__ 
+    (c)  __Consultant Services__  __.—__ 
 
     A Commission may procure the services of experts and consultants in accordance with [section 3109 of title 5][/us/usc/t5/s3109], but at rates not to exceed the daily equivalent of the annual rate of basic pay in effect for positions at level IV of the Executive Schedule under [section 5315 of title 5][/us/usc/t5/s5315]. An expert or consultant whose services are procured under this subsection shall disclose any contract or association the expert or consultant has with the Administration or any Administration contractor.
 

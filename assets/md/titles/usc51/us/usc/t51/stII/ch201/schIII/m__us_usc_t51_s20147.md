@@ -15,11 +15,11 @@
 
 ## § 20147. Recovery and disposition authority
 
-    (a) __Definitions.—__ 
+    (a)  __Definitions__  __.—__ 
 
     In this section:
 
-        (1) __Administration human space flight vehicle.—__ 
+        (1)  __Administration human space flight vehicle__  __.—__ 
 
         The term “Administration human space flight vehicle” means a space vehicle, as defined in [section 20138(a) of this title][/us/usc/t51/s20138/a], that—
 
@@ -35,21 +35,21 @@
 
                 (ii) owned by an Administration contractor or cooperating party and operated as part of an Administration mission or a joint mission with the Administration.
 
-        (2) __Crewmember.—__ 
+        (2)  __Crewmember__  __.—__ 
 
         The term “crewmember” means an astronaut or other person assigned to an Administration human space flight vehicle.
 
     (b) __Control of Remains.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         Subject to paragraphs (2) and (3), when there is an accident or mishap resulting in the death of a crewmember of an Administration human space flight vehicle, the Administrator may take control over the remains of the crewmember and order autopsies and other scientific or medical tests.
 
-        (2) __Treatment.—__ 
+        (2)  __Treatment__  __.—__ 
 
         Each crewmember shall provide the Administrator with the crewmember’s preferences regarding the treatment accorded to the crewmember’s remains and the Administrator shall, to the extent possible, respect those stated preferences.
 
-        (3) __Construction.—__ 
+        (3)  __Construction__  __.—__ 
 
         This section shall not be construed to permit the Administrator to interfere with any Federal investigation of a mishap or accident.
 

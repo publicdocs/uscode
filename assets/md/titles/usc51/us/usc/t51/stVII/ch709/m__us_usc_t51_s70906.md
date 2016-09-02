@@ -15,31 +15,31 @@
 
 ## § 70906. International Space Station National Laboratory Advisory Committee
 
-    (a) __Establishment.—__ 
+    (a)  __Establishment__  __.—__ 
 
     Not later than one year after October 15, 2008, the Administrator shall establish under the Federal Advisory Committee Act a committee to be known as the “International Space Station National Laboratory Advisory Committee” (hereafter in this section referred to as the “Committee”).
 
     (b) __Membership.—__ 
 
-        (1) __Composition.—__ 
+        (1)  __Composition__  __.—__ 
 
         The Committee shall be composed of individuals representing organizations that have formal agreements with the Administration to utilize the United States portion of the International Space Station, including allocations within partner elements.
 
-        (2) __Chair.—__ 
+        (2)  __Chair__  __.—__ 
 
         The Administrator shall appoint a chair from among the members of the Committee, who shall serve for a 2-year term.
 
     (c) __Duties of the Committee.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         The Committee shall monitor, assess, and make recommendations regarding effective utilization of the International Space Station as a national laboratory and platform for research.
 
-        (2) __Annual report.—__ 
+        (2)  __Annual report__  __.—__ 
 
         The Committee shall submit to the Administrator, on an annual basis or more frequently as considered necessary by a majority of the members of the Committee, a report containing the assessments and recommendations required by paragraph (1).
 
-    (d) __Duration.—__ 
+    (d)  __Duration__  __.—__ 
 
     The Committee shall exist for the life of the International Space Station.
 

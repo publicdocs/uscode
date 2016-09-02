@@ -61,7 +61,7 @@
 
 [Pub. L. 111–358, title II, § 203][/us/pl/111/358/s203], Jan. 4, 2011, [124 Stat. 3994][/us/stat/124/3994], provided that:
 
->     “(a) __Assessment.—__ 
+>     “(a)  __Assessment__  __.—__ 
 
 >     The Administrator \[of NASA\] shall enter into an arrangement for an independent assessment of any impediments to space science and engineering workforce development for minority and underrepresented groups at NASA \[National Aeronautics and Space Administration\], including recommendations on—
 
@@ -71,11 +71,11 @@
 
 >         “(3) best practices and lessons learned, as identified through the assessment, to help maximize the effectiveness of existing and future programs to increase the participation of minority and underrepresented groups in the space science and engineering workforce at NASA.
 
->     “(b) __Report.—__ 
+>     “(b)  __Report__  __.—__ 
 
 >     A report on the assessment carried out under subsection (a) shall be transmitted to the House of Representatives Committee on Science and Technology \[now Committee on Science, Space, and Technology\] and the Senate Committee on Commerce, Science, and Transportation not later than 15 months after the date of enactment of this Act \[Jan. 4, 2011\].
 
->     “(c) __Implementation.—__ 
+>     “(c)  __Implementation__  __.—__ 
 
 >     To the extent practicable, the Administrator shall take all necessary steps to address any impediments identified in the assessment.”
 

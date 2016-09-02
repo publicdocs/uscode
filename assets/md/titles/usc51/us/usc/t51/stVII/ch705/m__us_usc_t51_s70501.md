@@ -15,11 +15,11 @@
 
 ## § 70501. Space shuttle follow-on
 
-    (a) __Policy Statement.—__ 
+    (a)  __Policy Statement__  __.—__ 
 
     It is the policy of the United States to possess the capability for human access to space on a continuous basis.
 
-    (b) __Annual Report.—__ 
+    (b)  __Annual Report__  __.—__ 
 
     The Administrator shall transmit an annual report to the Committee on Science and Technology of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate describing the progress being made toward developing the Crew Exploration Vehicle and the Crew Launch Vehicle and the estimated time before they will demonstrate crewed, orbital spaceflight.
 
@@ -97,27 +97,27 @@ Pub. L. 109–155, title V, § 501(a), (b), Dec. 30, 2005, 119 Stat. 2927.  </
 
 [Pub. L. 110–422, title VI, § 613][/us/pl/110/422/s613], Oct. 15, 2008, [122 Stat. 4799][/us/stat/122/4799], provided that:
 
->     “(a) __Disposition of Shuttle-Related Assets.—__ 
+>     “(a)  __Disposition of Shuttle-Related Assets__  __.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Not later than 90 days after the date of enactment of this Act \[Oct. 15, 2008\], the Administrator \[of NASA\] shall submit to Congress a plan describing the process for the disposition of the remaining Space Shuttle Orbiters and other Space Shuttle program-related hardware after the retirement of the Space Shuttle fleet.
 
->         “(2) __Plan requirements.—__ 
+>         “(2)  __Plan requirements__  __.—__ 
 
 >         The plan submitted under paragraph (1) shall include a description of a process by which educational institutions, science museums, and other appropriate organizations may acquire, through loan or disposal by the Federal Government, Space Shuttle program hardware.
 
->         “(3) __Prohibition on disposition before completion of plan.—__ 
+>         “(3)  __Prohibition on disposition before completion of plan__  __.—__ 
 
 >         The Administrator shall not dispose of any Space Shuttle program hardware before the plan required by paragraph (1) is submitted to Congress.
 
->     “(b) __Space Shuttle Transition Liaison Office.—__ 
+>     “(b)  __Space Shuttle Transition Liaison Office__  __.—__ 
 
->         “(1) __Establishment.—__ 
+>         “(1)  __Establishment__  __.—__ 
 
 >         The Administrator shall develop a plan and establish a Space Shuttle Transition Liaison Office within the Office of Human Capital Management of NASA \[National Aeronautics and Space Administration\] to assist local communities affected by the termination of the Space Shuttle program in mitigating the negative impacts on such communities caused by such termination. The plan shall define the size of the affected local community that would receive assistance described in paragraph (2).
 
->         “(2) __Manner of assistance.—__ 
+>         “(2)  __Manner of assistance__  __.—__ 
 
 >         In providing assistance under paragraph (1), the office established under such paragraph shall—
 
@@ -125,11 +125,11 @@ Pub. L. 109–155, title V, § 501(a), (b), Dec. 30, 2005, 119 Stat. 2927.  </
 
 >             “(B) serve as a clearinghouse to assist such communities in identifying services available from other Federal, State, and local agencies to assist in such mitigation.
 
->         “(3) __Termination of office.—__ 
+>         “(3)  __Termination of office__  __.—__ 
 
 >         The office established under paragraph (1) shall terminate 2 years after the completion of the last Space Shuttle flight.
 
->         “(4) __Submission.—__ 
+>         “(4)  __Submission__  __.—__ 
 
 >         Not later than 180 days after the date of enactment of this Act \[Oct. 15, 2008\], NASA shall provide a copy of the plan required by paragraph (1) to the Congress.”
 
@@ -139,11 +139,11 @@ Pub. L. 109–155, title V, § 501(a), (b), Dec. 30, 2005, 119 Stat. 2927.  </
 
 [Pub. L. 109–155, title V, § 502][/us/pl/109/155/s502], Dec. 30, 2005, [119 Stat. 2928][/us/stat/119/2928], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Administrator \[of the National Aeronautics and Space Administration\] shall, to the fullest extent possible consistent with a successful development program, use the personnel, capabilities, assets, and infrastructure of the Space Shuttle program in developing the Crew Exploration Vehicle, Crew Launch Vehicle, and a heavy-lift launch vehicle.
 
->     “(b) __Plan.—__ 
+>     “(b)  __Plan__  __.—__ 
 
 >     Not later than 180 days after the date of enactment of this Act \[Dec. 30, 2005\], the Administrator shall transmit to the Committee on Science \[now Committee on Science, Space, and Technology\] of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a plan describing how NASA \[National Aeronautics and Space Administration\] will proceed with its human space flight programs, which, at a minimum, shall describe—
 
@@ -157,7 +157,7 @@ Pub. L. 109–155, title V, § 501(a), (b), Dec. 30, 2005, 119 Stat. 2927.  </
 
 >         “(5) the extent to which the Crew Exploration Vehicle will allow for the escape of the crew in an emergency.
 
->     “(c) __Personnel.—__ 
+>     “(c)  __Personnel__  __.—__ 
 
 >     The Administrator shall consult with other appropriate Federal agencies and with NASA contractors and employees to develop a transition plan for any Federal and contractor personnel engaged in the Space Shuttle program who can no longer be retained because of the retirement of the Space Shuttle. The plan shall include actions to assist Federal and contractor personnel in taking advantage of training, retraining, job placement and relocation programs, and any other actions that NASA will take to assist the employees. The plan shall also describe how the Administrator will ensure that NASA and its contractors will have an appropriate complement of employees to allow for the safest possible use of the Space Shuttle through its final flight. The Administrator shall transmit the plan to the Committee on Science \[now Committee on Science, Space, and Technology\] of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate not later than March 31, 2006.”
 

@@ -15,13 +15,13 @@
 
 ## § 30102. Working capital fund
 
-    (a) __Establishment.—__ 
+    (a)  __Establishment__  __.—__ 
 
     There is hereby established in the United States Treasury an Administration working capital fund.
 
     (b) __Availability of Amounts.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         Amounts in the fund are available for financing activities, services, equipment, information, and facilities as authorized by law to be provided—
 
@@ -35,15 +35,15 @@
 
             (E) to any person, firm, association, corporation, or educational institution on a reimbursable basis.
 
-        (2) __Capital repairs.—__ 
+        (2)  __Capital repairs__  __.—__ 
 
         The fund shall also be available for the purpose of funding capital repairs, renovations, rehabilitation, sustainment, demolition, or replacement of Administration real property, on a reimbursable basis within the Administration.
 
-        (3) __No fiscal year limitation.—__ 
+        (3)  __No fiscal year limitation__  __.—__ 
 
         Amounts in the fund are available without regard to fiscal year limitation.
 
-    (c) __Contents.—__ 
+    (c)  __Contents__  __.—__ 
 
     The capital of the fund consists of—
 
@@ -55,7 +55,7 @@
 
         (4) refunds or rebates received on an on-going basis from a credit card services provider under the National Aeronautics and Space Administration’s credit card programs.
 
-    (d) __Reimbursement.—__ 
+    (d)  __Reimbursement__  __.—__ 
 
     The fund shall be reimbursed, in advance, for supplies and services at rates that will approximate the expenses of operation, such as the accrual of annual leave, depreciation of plant, property, and equipment, and overhead.
 

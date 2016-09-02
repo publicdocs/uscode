@@ -75,15 +75,15 @@ Pub. L. 110–422, title IV, § 405(b), Oct. 15, 2008, 122 Stat. 4789.  </td>
 
 [Pub. L. 106–391, title III, § 313][/us/pl/106/391/s313], Oct. 30, 2000, [114 Stat. 1594][/us/stat/114/1594], provided that:
 
->     “(a) __Establishment of Program.—__ 
+>     “(a)  __Establishment of Program__  __.—__ 
 
 >     In order to promote a ‘faster, cheaper, better’ approach to the human exploration and development of space, the Administrator \[of the National Aeronautics and Space Administration\] shall establish a Human Space Flight Innovative Technologies program of ground-based and space-based research and development in innovative technologies. The program shall be part of the Technology and Commercialization program.
 
->     “(b) __Awards.—__ 
+>     “(b)  __Awards__  __.—__ 
 
 >     At least 75 percent of the amount appropriated for Technology and Commercialization under section 101(b)(4) \[[114 Stat. 1581][/us/stat/114/1581]\] for any fiscal year shall be awarded through broadly distributed announcements of opportunity that solicit proposals from educational institutions, industry, nonprofit institutions, National Aeronautics and Space Administration Centers, the Jet Propulsion Laboratory, other Federal agencies, and other interested organizations, and that allow partnerships among any combination of those entities, with evaluation, prioritization, and recommendations made by external peer review panels.
 
->     “(c) __Plan.—__ 
+>     “(c)  __Plan__  __.—__ 
 
 >     The Administrator shall provide to the Committee on Science \[now Committee on Science, Space, and Technology\] of the House of Representatives and to the Committee on Commerce, Science, and Transportation of the Senate, not later than December 1, 2000, a plan to implement the program established under subsection (a).”
 

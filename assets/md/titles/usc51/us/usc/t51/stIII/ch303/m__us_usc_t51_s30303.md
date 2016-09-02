@@ -15,11 +15,11 @@
 
 ## § 30303. Tracking and data relay satellite services
 
-    (a) __Contracts.—__ 
+    (a)  __Contracts__  __.—__ 
 
     The Administration is authorized, when so provided in an appropriation Act, to enter into and to maintain a contract for tracking and data relay satellite services. Such services shall be furnished to the Administration in accordance with applicable authorization and appropriations Acts. The Government shall incur no costs under such contract prior to the furnishing of such services except that the contract may provide for the payment for contingent liability of the Government which may accrue in the event the Government should decide for its convenience to terminate the contract before the end of the period of the contract. Facilities which may be required in the performance of the contract may be constructed on Government-owned lands if there is included in the contract a provision under which the Government may acquire title to the facilities, under terms and conditions agreed upon in the contract, upon termination of the contract.
 
-    (b) __Reports to Congress.—__ 
+    (b)  __Reports to Congress__  __.—__ 
 
     The Administrator shall in January of each year report to the Committee on Science and Technology and the Committee on Appropriations of the House of Representatives and the Committee on Commerce, Science, and Transportation and the Committee on Appropriations of the Senate the projected aggregate contingent liability of the Government under termination provisions of any contract authorized in this section through the next fiscal year. The authority of the Administration to enter into and to maintain the contract authorized hereunder shall remain in effect unless repealed by legislation enacted by Congress.
 

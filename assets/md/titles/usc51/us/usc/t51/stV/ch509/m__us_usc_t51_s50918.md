@@ -15,15 +15,15 @@
 
 ## § 50918. Consultation
 
-    (a) __Matters Affecting National Security.—__ 
+    (a)  __Matters Affecting National Security__  __.—__ 
 
     The Secretary of Transportation shall consult with the Secretary of Defense on a matter under this chapter affecting national security. The Secretary of Defense shall identify and notify the Secretary of Transportation of a national security interest relevant to an activity under this chapter.
 
-    (b) __Matters Affecting Foreign Policy.—__ 
+    (b)  __Matters Affecting Foreign Policy__  __.—__ 
 
     The Secretary of Transportation shall consult with the Secretary of State on a matter under this chapter affecting foreign policy. The Secretary of State shall identify and notify the Secretary of Transportation of a foreign policy interest or obligation relevant to an activity under this chapter.
 
-    (c) __Other Matters.—__ 
+    (c)  __Other Matters__  __.—__ 
 
     In carrying out this chapter, the Secretary of Transportation shall consult with the head of another executive agency—
 

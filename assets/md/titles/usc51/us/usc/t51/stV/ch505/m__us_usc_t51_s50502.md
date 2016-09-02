@@ -15,11 +15,11 @@
 
 ## § 50502. Launch voucher demonstration program
 
-    (a) __Requirement To Establish Program.—__ 
+    (a)  __Requirement To Establish Program__  __.—__ 
 
     The Administrator shall establish a demonstration program to award vouchers for the payment of commercial launch services and payload integration services for the purpose of launching payloads funded by the Administration.
 
-    (b) __Award of Vouchers.—__ 
+    (b)  __Award of Vouchers__  __.—__ 
 
     The Administrator shall award vouchers under subsection (a) to appropriate individuals as a part of grants administered by the Administration for the launch of—
 
@@ -27,7 +27,7 @@
 
         (2) small payloads to be placed in orbit.
 
-    (c) __Assistance.—__ 
+    (c)  __Assistance__  __.—__ 
 
     The Administrator may provide voucher award recipients with such assistance (including contract formulation and technical support during the proposal evaluation) as may be necessary to ensure the purchase of cost effective and reasonably reliable commercial launch services and payload integration services.
 

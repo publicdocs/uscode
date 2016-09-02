@@ -15,11 +15,11 @@
 
 ## § 70904. International Space Station completion
 
-    (a) __Policy.—__ 
+    (a)  __Policy__  __.—__ 
 
     It is the policy of the United States to achieve diverse and growing utilization of, and benefits from, the International Space Station.
 
-    (b) __Elements, Capabilities, and Configuration Criteria.—__ 
+    (b)  __Elements, Capabilities, and Configuration Criteria__  __.—__ 
 
     The Administrator shall ensure that the International Space Station will—
 
@@ -37,11 +37,11 @@
 
     (c) __Contingencies.—__ 
 
-        (1) __Policy.—__ 
+        (1)  __Policy__  __.—__ 
 
         The Administrator shall ensure that the International Space Station can have available, if needed, sufficient logistics and on-orbit capabilities to support any potential period during which the space shuttle or its follow-on crew and cargo systems are unavailable, and can have available, if needed, sufficient surge delivery capability or prepositioning of spares and other supplies needed to accommodate any such hiatus.
 
-        (2) __Plan.—__ 
+        (2)  __Plan__  __.—__ 
 
         Before making any change in the International Space Station assembly sequence in effect on December 30, 2005, the Administrator shall transmit to the Committee on Science and Technology of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a plan to carry out the policy described in paragraph (1).
 

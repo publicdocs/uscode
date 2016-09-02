@@ -15,11 +15,11 @@
 
 ## § 50917. Enforcement and penalty
 
-    (a) __Prohibitions.—__ 
+    (a)  __Prohibitions__  __.—__ 
 
     A person may not violate this chapter, a regulation prescribed under this chapter, or any term of a license issued or transferred under this chapter.
 
-    (b) __General Authority.—__ 
+    (b)  __General Authority__  __.—__ 
 
         (1)
 
@@ -41,7 +41,7 @@
 
         (2) The Secretary may delegate a duty or power under this chapter related to enforcement to an officer or employee of another executive agency with the consent of the head of the agency.
 
-    (c) __Civil Penalty.—__ 
+    (c)  __Civil Penalty__  __.—__ 
 
         (1) After notice and an opportunity for a hearing on the record, a person the Secretary finds to have violated subsection (a) of this section is liable to the United States Government for a civil penalty of not more than $100,000. A separate violation occurs for each day the violation continues.
 

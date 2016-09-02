@@ -15,7 +15,7 @@
 
 ## § 50911. Space advertising
 
-    (a) __Licensing.—__ 
+    (a)  __Licensing__  __.—__ 
 
     Notwithstanding the provisions of this chapter or any other provision of law, the Secretary may not, for the launch of a payload containing any material to be used for the purposes of obtrusive space advertising—
 
@@ -23,11 +23,11 @@
 
         (2) waive the license requirements of this chapter.
 
-    (b) __Launching.—__ 
+    (b)  __Launching__  __.—__ 
 
     No holder of a license under this chapter may launch a payload containing any material to be used for purposes of obtrusive space advertising.
 
-    (c) __Commercial Space Advertising.—__ 
+    (c)  __Commercial Space Advertising__  __.—__ 
 
     Nothing in this section shall apply to nonobtrusive commercial space advertising, including advertising on—
 

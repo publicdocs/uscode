@@ -15,27 +15,27 @@
 
 ## § 30305. Outreach program
 
-    (a) __Establishment.—__ 
+    (a)  __Establishment__  __.—__ 
 
     The Administration shall competitively select an organization to partner with Administration centers, aerospace contractors, and academic institutions to carry out a program to help promote the competitiveness of small, minority-owned, and women-owned businesses in communities across the United States through enhanced insight into the technologies of the Administration’s space and aeronautics programs. The program shall support the mission of the Administration’s Innovative Partnerships Program with its emphasis on joint partnerships with industry, academia, government agencies, and national laboratories.
 
-    (b) __Program Structure.—__ 
+    (b)  __Program Structure__  __.—__ 
 
     In carrying out the program described in subsection (a), the organization shall support the mission of the Administration’s Innovative Partnerships Program by undertaking the following activities:
 
-        (1) __Facilitating enhanced insight.—__ 
+        (1)  __Facilitating enhanced insight__  __.—__ 
 
         Facilitating the enhanced insight of the private sector into the Administration’s technologies in order to increase the competitiveness of the private sector in producing viable commercial products.
 
-        (2) __Creating network.—__ 
+        (2)  __Creating network__  __.—__ 
 
         Creating a network of academic institutions, aerospace contractors, and Administration centers that will commit to donating appropriate technical assistance to small businesses, giving preference to socially and economically disadvantaged small business concerns, small business concerns owned and controlled by service-disabled veterans, and HUBZone small business concerns. This paragraph shall not apply to any contracting actions entered into or taken by the Administration.
 
-        (3) __Creating network of economic development organizations.—__ 
+        (3)  __Creating network of economic development organizations__  __.—__ 
 
         Creating a network of economic development organizations to increase the awareness and enhance the effectiveness of the program nationwide.
 
-    (c) __Report.—__ 
+    (c)  __Report__  __.—__ 
 
     Not later than one year after October 15, 2008, and annually thereafter, the Administrator shall submit a report to the Committee on Science and Technology of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate describing the efforts and accomplishments of the program established under subsection (a) in support of the Administration’s Innovative Partnerships Program. As part of the report, the Administrator shall provide—
 

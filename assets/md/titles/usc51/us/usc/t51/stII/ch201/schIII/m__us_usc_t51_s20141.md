@@ -15,7 +15,7 @@
 
 ## § 20141. Misuse of agency name and initials
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     No person (as defined by [section 20135(a) of this title][/us/usc/t51/s20135/a]) may knowingly use the words “National Aeronautics and Space Administration” or the letters “NASA”, or any combination, variation, or colorable imitation of those words or letters either alone or in combination with other words or letters—
 
@@ -23,7 +23,7 @@
 
         (2) in connection with any product or service being offered or made available to the public in a manner reasonably calculated to convey the impression that the product or service has the authorization, support, sponsorship, or endorsement of, or the development, use, or manufacture by or on behalf of the Administration which does not, in fact, exist.
 
-    (b) __Civil Proceeding To Enjoin.—__ 
+    (b)  __Civil Proceeding To Enjoin__  __.—__ 
 
     Whenever it appears to the Attorney General that any person is engaged in an act or practice which constitutes or will constitute conduct prohibited by subsection (a), the Attorney General may initiate a civil proceeding in a district court of the United States to enjoin such act or practice.
 

@@ -15,11 +15,11 @@
 
 ## § 40304. Grants or contracts
 
-    (a) __Authority of Administrator.—__ 
+    (a)  __Authority of Administrator__  __.—__ 
 
     The Administrator may make grants and enter into contracts or other transactions under this subsection to assist any space grant and fellowship program or project if the Administrator finds that the program or project will carry out the purposes set forth in [section 40301 of this title][/us/usc/t51/s40301]. The total amount paid pursuant to a grant or contract may equal not more than 66 percent of the total cost of the space grant and fellowship program or project involved, except in the case of grants or contracts paid for with funds accepted by the Administrator pursuant to [section 40303(c)(2) of this title][/us/usc/t51/s40303/c/2].
 
-    (b) __Special Grants.—__ 
+    (b)  __Special Grants__  __.—__ 
 
     The Administrator may make special grants under this subsection to carry out the purposes set forth in [section 40301 of this title][/us/usc/t51/s40301]. The amount of a special grant may equal up to 100 percent of the total cost of the project involved. A special grant may be made under this subsection only if the Administrator finds that—
 
@@ -29,17 +29,17 @@
 
         (3) the same or equivalent benefit cannot be obtained through the award of a contract or grant under subsection (a) or [section 40305 of this title][/us/usc/t51/s40305].
 
-    (c) __Application.—__ 
+    (c)  __Application__  __.—__ 
 
     Any person may apply to the Administrator for a grant or contract under this section. Application shall be made in such form and manner, and with such content and other submissions, as the Administrator shall by regulation prescribe.
 
     (d) __Terms and Conditions.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         Any grant made, or contract entered into, under this section shall be subject to the limitations and provisions set forth in paragraphs (2) and (3) and to such other terms, conditions, and requirements as the Administrator considers necessary or appropriate.
 
-        (2) __Limitations.—__ 
+        (2)  __Limitations__  __.—__ 
 
         No payment under any grant or contract under this section may be applied to—
 
@@ -49,11 +49,11 @@
 
             (C) the purchase or construction of any launch facility or launch vehicle.
 
-        (3) __Leases.—__ 
+        (3)  __Leases__  __.—__ 
 
         Notwithstanding paragraph (2), the items in subparagraphs (A), (B), and (C) of such paragraph may be leased upon written approval of the Administrator.
 
-        (4) __Records.—__ 
+        (4)  __Records__  __.—__ 
 
         Any person that receives or utilizes any proceeds of any grant or contract under this section shall keep such records as the Administrator shall by regulation prescribe as being necessary and appropriate to facilitate effective audit and evaluation, including records which fully disclose the amount and disposition by such recipient of such proceeds, the total cost of the program or project in connection with which such proceeds were used, and the amount, if any, of such cost which was provided through other sources. Such records shall be maintained for 3 years after the completion of such a program or project. The Administrator and the Comptroller General of the United States, or any of their duly authorized representatives, shall have access, for the purpose of audit and evaluation, to any books, documents, papers, and records of receipts which, in the opinion of the Administrator or the Comptroller General, may be related or pertinent to such grants and contracts.
 

@@ -17,15 +17,15 @@
 
     The Administrator may establish an initiative with the objective of developing, and demonstrating in a relevant environment, technologies to enable the following commercial aircraft performance characteristics:
 
-    (1) __Noise levels.—__ 
+    (1)  __Noise levels__  __.—__ 
 
     Noise levels on takeoff and on airport approach and landing that do not exceed ambient noise levels in the absence of flight operations in the vicinity of airports from which such commercial aircraft would normally operate.
 
-    (2) __Energy consumption.—__ 
+    (2)  __Energy consumption__  __.—__ 
 
     Twenty-five percent reduction in the energy required for medium- to long-range flights, compared to aircraft in commercial service as of December 30, 2005.
 
-    (3) __Emissions.—__ 
+    (3)  __Emissions__  __.—__ 
 
     Nitrogen oxides on take-off and landing that are significantly reduced, without adversely affecting hydrocarbons and smoke, relative to aircraft in commercial service as of December 30, 2005.
 

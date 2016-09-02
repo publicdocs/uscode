@@ -15,13 +15,13 @@
 
 ## § 50111. Commercialization of Space Station
 
-    (a) __Policy.—__ 
+    (a)  __Policy__  __.—__ 
 
     Congress declares that a priority goal of constructing the International Space Station is the economic development of Earth orbital space. Congress further declares that free and competitive markets create the most efficient conditions for promoting economic development, and should therefore govern the economic development of Earth orbital space. Congress further declares that the use of free market principles in operating, servicing, allocating the use of, and adding capabilities to the Space Station, and the resulting fullest possible engagement of commercial providers and participation of commercial users, will reduce Space Station operational costs for all partners and the Federal Government’s share of the United States burden to fund operations.
 
     (b) __Use of United States Commercially Provided Services.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         In order to stimulate commercial use of space, help maximize the utility and productivity of the International Space Station, and enable a commercial means of providing crew transfer and crew rescue services for the International Space Station, the Administration shall—
 
@@ -33,15 +33,15 @@
 
             (D) issue a notice of intent, not later than 180 days after October 15, 2008, to enter into a funded, competitively awarded Space Act Agreement with 2 or more commercial entities for a Phase 1 Commercial Orbital Transportation Services crewed vehicle demonstration program.
 
-        (2) __Congressional intent.—__ 
+        (2)  __Congressional intent__  __.—__ 
 
         It is the intent of Congress that funding for the program described in paragraph (1)(D) shall not come at the expense of full funding of the amounts authorized under section 101(3)(A) of the National Aeronautics and Space Administration Authorization Act of 2008 ([Public Law 110–422][/us/pl/110/422], [122 Stat. 4783][/us/stat/122/4783]), and for future fiscal years, for Orion Crew Exploration Vehicle development, Ares I Crew Launch Vehicle development, or International Space Station cargo delivery.
 
-        (3) __Additional technologies.—__ 
+        (3)  __Additional technologies__  __.—__ 
 
         The Administration shall make International Space Station-compatible docking adaptors and other relevant technologies available to the commercial crew providers selected to service the International Space Station.
 
-        (4) __Crew transfer and crew rescue services contract.—__ 
+        (4)  __Crew transfer and crew rescue services contract__  __.—__ 
 
         If a commercial provider demonstrates the capability to provide International Space Station crew transfer and crew rescue services and to satisfy Administration ascent, entry, and International Space Station proximity operations safety requirements, the Administration shall enter into an International Space Station crew transfer and crew rescue services contract with that commercial provider for a portion of the Administration’s anticipated International Space Station crew transfer and crew rescue requirements from the time the commercial provider commences operations under contract with the Administration through calendar year 2016, with an option to extend the period of performance through calendar year 2020.
 

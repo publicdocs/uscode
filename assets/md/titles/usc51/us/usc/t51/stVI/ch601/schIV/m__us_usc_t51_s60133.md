@@ -15,7 +15,7 @@
 
 ## § 60133. Technology demonstration program
 
-    (a) __Establishment.—__ 
+    (a)  __Establishment__  __.—__ 
 
     As a fundamental component of a national land remote sensing strategy, the President shall establish, through appropriate United States Government agencies, a technology demonstration program. The goals of the program shall be to—
 
@@ -25,19 +25,19 @@
 
         (3) demonstrate within such 5-year period an advanced land remote sensing system design that could be less expensive to procure and operate than the Landsat system projected to be in operation through the year 2000, and that therefore holds greater potential for private sector investment and control.
 
-    (b) __Execution of Program.—__ 
+    (b)  __Execution of Program__  __.—__ 
 
     In executing the technology demonstration program, the President shall seek to apply technologies associated with United States National Technical Means of intelligence gathering, to the extent that such technologies are appropriate for the technology demonstration and can be declassified for such purposes without causing adverse harm to United States national security interests.
 
-    (c) __Broad Application.—__ 
+    (c)  __Broad Application__  __.—__ 
 
     To the greatest extent practicable, the technology demonstration program established under subsection (a) shall be designed to be responsive to the broad civilian, national security, commercial, and foreign policy needs of the United States.
 
-    (d) __Private Sector Funding.—__ 
+    (d)  __Private Sector Funding__  __.—__ 
 
     The technology demonstration program under this section may be carried out in part with private sector funding.
 
-    (e) __Landsat Program Management Coordination.—__ 
+    (e)  __Landsat Program Management Coordination__  __.—__ 
 
     The Landsat Program Management shall have a coordinating role in the technology demonstration program carried out under this section.
 

@@ -17,11 +17,11 @@
 
     In this title:
 
-    (1) __Administration.—__ 
+    (1)  __Administration__  __.—__ 
 
     The term “Administration” means the National Aeronautics and Space Administration.
 
-    (2) __Administrator.—__ 
+    (2)  __Administrator__  __.—__ 
 
     The term “Administrator” means the Administrator of the National Aeronautics and Space Administration.
 
@@ -147,11 +147,11 @@ Source (Statutes at Large)  </td>
 
 > “In this title \[amending [section 18421 of Title 42][/us/usc/t42/s18421], The Public Health and Welfare, and enacting provisions set out as notes under [section 20303 of this title][/us/usc/t51/s20303], preceding sections 30501 and 40901 of this title, and under [section 18421 of Title 42][/us/usc/t42/s18421]\]:
 
->     “(1) __Administrator.—__ 
+>     “(1)  __Administrator__  __.—__ 
 
 >     The term ‘Administrator’ means the Administrator of NASA.
 
->     “(2) __NASA.—__ 
+>     “(2)  __NASA__  __.—__ 
 
 >     The term ‘NASA’ means the National Aeronautics and Space Administration.”
 
@@ -159,19 +159,19 @@ Source (Statutes at Large)  </td>
 
 > “In this Act \[see Short Title of 2008 Act note above\]:
 
->     “(1) __Administrator.—__ 
+>     “(1)  __Administrator__  __.—__ 
 
 >     The term ‘Administrator’ means the Administrator of NASA.
 
->     “(2) __NASA.—__ 
+>     “(2)  __NASA__  __.—__ 
 
 >     The term ‘NASA’ means the National Aeronautics and Space Administration.
 
->     “(3) __NOAA.—__ 
+>     “(3)  __NOAA__  __.—__ 
 
 >     The term ‘NOAA’ means the National Oceanic and Atmospheric Administration.
 
->     “(4) __OSTP.—__ 
+>     “(4)  __OSTP__  __.—__ 
 
 >     The term ‘OSTP’ means the Office of Science and Technology Policy.”
 
@@ -179,15 +179,15 @@ Source (Statutes at Large)  </td>
 
 > “In this Act \[see Short Title of 2005 Act note above\]:
 
->     “(1) __Administrator.—__ 
+>     “(1)  __Administrator__  __.—__ 
 
 >     The term ‘Administrator’ means the Administrator of the National Aeronautics and Space Administration.
 
->     “(2) __ISS.—__ 
+>     “(2)  __ISS__  __.—__ 
 
 >     The term ‘ISS’ means the International Space Station.
 
->     “(3) __NASA.—__ 
+>     “(3)  __NASA__  __.—__ 
 
 >     The term ‘NASA’ means the National Aeronautics and Space Administration.”
 

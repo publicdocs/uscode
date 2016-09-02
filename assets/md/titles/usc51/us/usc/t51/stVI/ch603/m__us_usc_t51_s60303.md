@@ -15,11 +15,11 @@
 
 ## § 60303. Pilot projects to encourage public sector applications
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     The Administrator shall establish a program of grants for competitively awarded pilot projects to explore the integrated use of sources of remote sensing and other geospatial information to address State, local, regional, and tribal agency needs.
 
-    (b) __Preferred Projects.—__ 
+    (b)  __Preferred Projects__  __.—__ 
 
     In awarding grants under this section, the Administrator shall give preference to projects that—
 
@@ -33,7 +33,7 @@
 
         (5) taken together demonstrate as diverse a set of public sector applications as possible.
 
-    (c) __Opportunities.—__ 
+    (c)  __Opportunities__  __.—__ 
 
     In carrying out this section, the Administrator shall seek opportunities to assist—
 
@@ -41,19 +41,19 @@
 
         (2) State, local, regional, and tribal agencies in applying remote sensing and other geospatial information technologies for growth management.
 
-    (d) __Duration.—__ 
+    (d)  __Duration__  __.—__ 
 
     Assistance for a pilot project under subsection (a) shall be provided for a period not to exceed 3 years.
 
-    (e) __Report.—__ 
+    (e)  __Report__  __.—__ 
 
     Each recipient of a grant under subsection (a) shall transmit a report to the Administrator on the results of the pilot project within 180 days of the completion of that project.
 
-    (f) __Workshop.—__ 
+    (f)  __Workshop__  __.—__ 
 
     Each recipient of a grant under subsection (a) shall, not later than 180 days after the completion of the pilot project, conduct at least one workshop for potential users to disseminate the lessons learned from the pilot project as widely as feasible.
 
-    (g) __Regulations.—__ 
+    (g)  __Regulations__  __.—__ 
 
     The Administrator shall issue regulations establishing application, selection, and implementation procedures for pilot projects, and guidelines for reports and workshops required by this section.
 

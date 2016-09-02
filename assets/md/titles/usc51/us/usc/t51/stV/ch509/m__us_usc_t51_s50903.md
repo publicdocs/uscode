@@ -15,11 +15,11 @@
 
 ## § 50903. General authority
 
-    (a) __General.—__ 
+    (a)  __General__  __.—__ 
 
     The Secretary of Transportation shall carry out this chapter.
 
-    (b) __Facilitating Commercial Launches and Reentries.—__ 
+    (b)  __Facilitating Commercial Launches and Reentries__  __.—__ 
 
     In carrying out this chapter, the Secretary shall—
 
@@ -27,11 +27,11 @@
 
         (2) take actions to facilitate private sector involvement in commercial space transportation activity, and to promote public-private partnerships involving the United States Government, State governments, and the private sector to build, expand, modernize, or operate a space launch and reentry infrastructure.
 
-    (c) __Safety.—__ 
+    (c)  __Safety__  __.—__ 
 
     In carrying out the responsibilities under subsection (b), the Secretary shall encourage, facilitate, and promote the continuous improvement of the safety of launch vehicles designed to carry humans, and the Secretary may, consistent with this chapter, promulgate regulations to carry out this subsection.
 
-    (d) __Executive Agency Assistance.—__ 
+    (d)  __Executive Agency Assistance__  __.—__ 
 
     When necessary, the head of an executive agency shall assist the Secretary in carrying out this chapter.
 
@@ -135,11 +135,11 @@ Oct. 30, 1984, Pub. L. 98–575, § 5(a) (11th–15th words, cls. (1), (3)), 9
 
 [Pub. L. 110–422, title VI, § 621][/us/pl/110/422/s621], Oct. 15, 2008, [122 Stat. 4801][/us/stat/122/4801], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     In preparation for the award of contracts to follow up on the current NASA \[National Aeronautics and Space Administration\] Launch Services (NLS) contracts, the Administrator shall develop a strategy for providing domestic commercial launch services in support of NASA’s small and medium-sized Science, Space Operations, and Exploration missions, consistent with current law and policy.
 
->     “(b) __Report.—__ 
+>     “(b)  __Report__  __.—__ 
 
 >     The Administrator \[of NASA\] shall transmit a report to the Committee on Science and Technology \[now Committee on Science, Space, and Technology\] of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate describing the strategy developed under subsection (a) not later than 90 days after the date of enactment of this Act \[Oct. 15, 2008\]. The report shall provide, at a minimum—
 

@@ -15,11 +15,11 @@
 
 ## § 70708. Compensation and travel expenses
 
-    (a) __Compensation.—__ 
+    (a)  __Compensation__  __.—__ 
 
     Each member of a Commission may be compensated at a rate not to exceed the daily equivalent of the annual rate of basic pay in effect for positions at level IV of the Executive Schedule under [section 5315 of title 5][/us/usc/t5/s5315] for each day during which that member is engaged in the actual performance of the duties of the Commission.
 
-    (b) __Travel Expenses.—__ 
+    (b)  __Travel Expenses__  __.—__ 
 
     While away from their homes or regular places of business in the performance of services for the Commission, members of a Commission shall be allowed travel expenses, including per diem in lieu of subsistence, in the same manner as persons employed intermittently in the Government service are allowed expenses under [section 5703 of title 5][/us/usc/t5/s5703].
 

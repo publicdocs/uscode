@@ -15,7 +15,7 @@
 
 ## § 50503. Anchor tenancy and termination liability
 
-    (a) __Anchor Tenancy Contracts.—__ 
+    (a)  __Anchor Tenancy Contracts__  __.—__ 
 
     Subject to appropriations, the Administrator or the Administrator of the National Oceanic and Atmospheric Administration may enter into multiyear anchor tenancy contracts for the purchase of a good or service if the appropriate Administrator determines that—
 
@@ -33,33 +33,33 @@
 
     (b) __Termination Liability.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         Contracts entered into under subsection (a) may provide for the payment of termination liability in the event that the Government terminates such contracts for its convenience.
 
-        (2) __Fixed schedule of payments and limitation on liability.—__ 
+        (2)  __Fixed schedule of payments and limitation on liability__  __.—__ 
 
         Contracts that provide for the payment of termination liability, as described in paragraph (1), shall include a fixed schedule of such termination liability payments. Liability under such contracts shall not exceed the total payments which the Government would have made after the date of termination to purchase the good or service if the contract were not terminated.
 
-        (3) __Use of funds.—__ 
+        (3)  __Use of funds__  __.—__ 
 
         Subject to appropriations, funds available for such termination liability payments may be used for purchase of the good or service upon successful delivery of the good or service pursuant to the contract. In such case, sufficient funds shall remain available to cover any remaining termination liability.
 
     (c) __Limitations.—__ 
 
-        (1) __Duration.—__ 
+        (1)  __Duration__  __.—__ 
 
         Contracts entered into under this section shall not exceed 10 years in duration.
 
-        (2) __Fixed price.—__ 
+        (2)  __Fixed price__  __.—__ 
 
         Such contracts shall provide for delivery of the good or service on a firm, fixed price basis.
 
-        (3) __Performance specifications.—__ 
+        (3)  __Performance specifications__  __.—__ 
 
         To the extent practicable, reasonable performance specifications shall be used to define technical requirements in such contracts.
 
-        (4) __Failure to perform.—__ 
+        (4)  __Failure to perform__  __.—__ 
 
         In any such contract, the appropriate Administrator shall reserve the right to completely or partially terminate the contract without payment of such termination liability because of the contractor’s actual or anticipated failure to perform its contractual obligations.
 

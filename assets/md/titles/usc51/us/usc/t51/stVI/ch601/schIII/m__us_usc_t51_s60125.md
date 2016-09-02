@@ -15,7 +15,7 @@
 
 ## § 60125. Agency activities
 
-    (a) __License Application and Issuance.—__ 
+    (a)  __License Application and Issuance__  __.—__ 
 
     A private sector party may apply for a license to operate a private remote sensing space system which utilizes, on a space-available basis, a civilian United States Government satellite or vehicle as a platform for such system. The Secretary, pursuant to this subchapter, may license such system if it meets all conditions of this subchapter and—
 
@@ -23,19 +23,19 @@
 
         (2) such utilization would not interfere with or otherwise compromise intended civilian Government missions, as determined by the agency responsible for such civilian platform.
 
-    (b) __Assistance.—__ 
+    (b)  __Assistance__  __.—__ 
 
     The Secretary may offer assistance to private sector parties in finding appropriate opportunities for such utilization.
 
-    (c) __Agreements.—__ 
+    (c)  __Agreements__  __.—__ 
 
     To the extent provided in advance by appropriation Acts, any United States Government agency may enter into agreements for such utilization if such agreements are consistent with such agency’s mission and statutory authority, and if such remote sensing space system is licensed by the Secretary before commencing operation.
 
-    (d) __Applicability.—__ 
+    (d)  __Applicability__  __.—__ 
 
     This section does not apply to activities carried out under subchapter IV.
 
-    (e) __Effect on FCC Authority.—__ 
+    (e)  __Effect on FCC Authority__  __.—__ 
 
     Nothing in this subchapter shall affect the authority of the Federal Communications Commission pursuant to the Communications Act of 1934 ([47 U.S.C. 151][/us/usc/t47/s151] et seq.).
 

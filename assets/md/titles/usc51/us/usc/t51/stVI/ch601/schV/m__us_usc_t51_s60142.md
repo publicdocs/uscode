@@ -15,7 +15,7 @@
 
 ## § 60142. Archiving of data
 
-    (a) __Public Interest.—__ 
+    (a)  __Public Interest__  __.—__ 
 
     It is in the public interest for the United States Government to—
 
@@ -25,11 +25,11 @@
 
         (3) ensure the quality, integrity, and continuity of the archive.
 
-    (b) __Archiving Practices.—__ 
+    (b)  __Archiving Practices__  __.—__ 
 
     The Secretary of the Interior, in consultation with the Landsat Program Management, shall provide for long-term storage, maintenance, and upgrading of a basic, global, land remote sensing data set (hereafter in this section referred to as the “basic data set”) and shall follow reasonable archival practices to ensure proper storage and preservation of the basic data set and timely access for parties requesting data.
 
-    (c) __Determination of Content of Basic Data Set.—__ 
+    (c)  __Determination of Content of Basic Data Set__  __.—__ 
 
     In determining the initial content of, or in upgrading, the basic data set, the Secretary of the Interior shall—
 
@@ -47,7 +47,7 @@
 
         (7) ensure that the content of the archive is developed in accordance with [section 60146 of this title][/us/usc/t51/s60146].
 
-    (d) __Public Domain.—__ 
+    (d)  __Public Domain__  __.—__ 
 
     After the expiration of any exclusive right to sell, or after relinquishment of such right, the data provided to the National Satellite Land Remote Sensing Data Archive shall be in the public domain and shall be made available to requesting parties by the Secretary of the Interior at the cost of fulfilling user requests.
 

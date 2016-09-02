@@ -15,11 +15,11 @@
 
 ## § 50919. Relationship to other executive agencies, laws, and international obligations
 
-    (a) __Executive Agencies.—__ 
+    (a)  __Executive Agencies__  __.—__ 
 
     Except as provided in this chapter, a person is not required to obtain from an executive agency a license, approval, waiver, or exemption to launch a launch vehicle or operate a launch site or reentry site, or to reenter a reentry vehicle.
 
-    (b) __Federal Communications Commission and Secretary of Commerce.—__ 
+    (b)  __Federal Communications Commission and Secretary of Commerce__  __.—__ 
 
     This chapter does not affect the authority of—
 
@@ -27,7 +27,7 @@
 
         (2) the Secretary of Commerce under chapter 601 of this title.
 
-    (c) __States and Political Subdivisions.—__ 
+    (c)  __States and Political Subdivisions__  __.—__ 
 
     A State or political subdivision of a State—
 
@@ -35,11 +35,11 @@
 
         (2) may adopt or have in effect a law, regulation, standard, or order consistent with this chapter that is in addition to or more stringent than a requirement of, or regulation prescribed under, this chapter.
 
-    (d) __Consultation.—__ 
+    (d)  __Consultation__  __.—__ 
 
     The Secretary of Transportation is encouraged to consult with a State to simplify and expedite the approval of a space launch or reentry activity.
 
-    (e) __Foreign Countries.—__ 
+    (e)  __Foreign Countries__  __.—__ 
 
     The Secretary of Transportation shall—
 
@@ -47,11 +47,11 @@
 
         (2) consider applicable laws and requirements of a foreign country when carrying out this chapter.
 
-    (f) __Launch Not an Export; Reentry Not an Import.—__ 
+    (f)  __Launch Not an Export; Reentry Not an Import__  __.—__ 
 
     A launch vehicle, reentry vehicle, or payload that is launched or reentered is not, because of the launch or reentry, an export or import, respectively, for purposes of a law controlling exports or imports, except that payloads launched pursuant to foreign trade zone procedures as provided for under the Foreign Trade Zones Act ([19 U.S.C. 81a–81u][/us/usc/t19/s81a–81u]) shall be considered exports with regard to customs entry.
 
-    (g) __Nonapplication.—__ 
+    (g)  __Nonapplication__  __.—__ 
 
     This chapter does not apply to—
 

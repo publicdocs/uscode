@@ -15,15 +15,15 @@
 
 ## § 30502. Whistleblower protection
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     Not later than 1 year after December 30, 2005, the Administrator shall transmit to the Committee on Science and Technology of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a plan describing steps to be taken by the Administration to protect from retaliation Administration employees who raise concerns about substantial and specific dangers to public health and safety or about substantial and specific factors that could threaten the success of a mission. The plan shall be designed to ensure that Administration employees have the full protection required by law. The Administrator shall implement the plan not more than 1 year after its transmittal.
 
-    (b) __Goal.—__ 
+    (b)  __Goal__  __.—__ 
 
     The Administrator shall ensure that the plan describes a system that will protect employees who wish to raise or have raised concerns described in subsection (a).
 
-    (c) __Plan.—__ 
+    (c)  __Plan__  __.—__ 
 
     At a minimum, the plan shall include, consistent with Federal law—
 
@@ -39,7 +39,7 @@
 
         (6) activities to educate all appropriate Administration Human Resources professionals, and all Administration managers and supervisors, regarding personnel laws, rules, and regulations.
 
-    (d) __Report.—__ 
+    (d)  __Report__  __.—__ 
 
     Not later than February 15 of each year beginning February 15, 2007, the Administrator shall transmit a report to the Committee on Science and Technology of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate on the concerns described in subsection (a) that were raised during the previous fiscal year. At a minimum, the report shall provide—
 

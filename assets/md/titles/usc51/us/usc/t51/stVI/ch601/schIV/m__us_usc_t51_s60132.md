@@ -15,11 +15,11 @@
 
 ## § 60132. Availability of federally gathered unenhanced data
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     All unenhanced land remote sensing data gathered and owned by the United States Government, including unenhanced data gathered under the technology demonstration program carried out pursuant to [section 60133 of this title][/us/usc/t51/s60133], shall be made available to users in a timely fashion.
 
-    (b) __Protection for Commercial Data Distributor.—__ 
+    (b)  __Protection for Commercial Data Distributor__  __.—__ 
 
     The President shall seek to ensure that unenhanced data gathered under the technology demonstration program carried out pursuant to [section 60133 of this title][/us/usc/t51/s60133] shall, to the extent practicable, be made available on terms that would not adversely affect the commercial market for unenhanced data gathered by the Landsat 6 spacecraft.
 

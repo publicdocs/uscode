@@ -15,11 +15,11 @@
 
 ## § 50132. Acquisition of commercial space transportation services
 
-    (a) __Treatment of Commercial Space Transportation Services as Commercial Item Under Acquisition Laws.—__ 
+    (a)  __Treatment of Commercial Space Transportation Services as Commercial Item Under Acquisition Laws__  __.—__ 
 
     Acquisitions of space transportation services by the Federal Government shall be carried out in accordance with applicable acquisition laws and regulations (including chapters 137 and 140 of title 10). For purposes of such law and regulations, space transportation services shall be considered to be a commercial item.
 
-    (b) __Safety Standards.—__ 
+    (b)  __Safety Standards__  __.—__ 
 
     Nothing in this section shall be construed to prohibit the Federal Government from requiring compliance with applicable safety standards.
 

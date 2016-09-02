@@ -15,11 +15,11 @@
 
 ## § 40906. Equal access to the Administration’s education programs
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     The Administrator shall strive to ensure equal access for minority and economically disadvantaged students to the Administration’s education programs.
 
-    (b) __Report.—__ 
+    (b)  __Report__  __.—__ 
 
     Every 2 years, the Administrator shall submit a report to the Committee on Science and Technology of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate describing the efforts by the Administrator to ensure equal access for minority and economically disadvantaged students under this section and the results of such efforts. As part of the report, the Administrator shall provide—
 
@@ -35,7 +35,7 @@
 
         (2) the total value of grants the Administration made to Historically Black Colleges and Universities and to Hispanic Serving Institutions through education programs during the period covered by the report.
 
-    (c) __Program.—__ 
+    (c)  __Program__  __.—__ 
 
     The Administrator shall establish the Dr. Mae C. Jemison Grant Program to work with Minority Serving Institutions to bring more women of color into the field of space and aeronautics.
 

@@ -15,19 +15,19 @@
 
 ## § 60505. Coordination with the National Oceanic and Atmospheric Administration
 
-    (a) __Joint Working Group.—__ 
+    (a)  __Joint Working Group__  __.—__ 
 
     The Administrator and the Administrator of the National Oceanic and Atmospheric Administration shall appoint a Joint Working Group, which shall review and monitor missions of the two agencies to ensure maximum coordination in the design, operation, and transition of missions where appropriate. The Joint Working Group shall also prepare the plans required by subsection (c).
 
-    (b) __Coordination Report.—__ 
+    (b)  __Coordination Report__  __.—__ 
 
     Not later than February 15 of each year, the Administrator and the Administrator of the National Oceanic and Atmospheric Administration shall jointly transmit a report to the Committee on Science and Technology of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate on how the Earth science programs of the Administration and the National Oceanic and Atmospheric Administration will be coordinated during the fiscal year following the fiscal year in which the report is transmitted.
 
-    (c) __Coordination of Transition Planning and Reporting.—__ 
+    (c)  __Coordination of Transition Planning and Reporting__  __.—__ 
 
     The Administrator, in conjunction with the Administrator of the National Oceanic and Atmospheric Administration and in consultation with other relevant agencies, shall evaluate relevant Administration science missions for their potential operational capabilities and shall prepare transition plans for the existing and future Earth observing systems found to have potential operational capabilities.
 
-    (d) __Limitation.—__ 
+    (d)  __Limitation__  __.—__ 
 
     The Administrator shall not transfer any Administration Earth science mission or Earth observing system to the National Oceanic and Atmospheric Administration until the plan required under subsection (c) has been approved by the Administrator and the Administrator of the National Oceanic and Atmospheric Administration and until financial resources have been identified to support the transition or transfer in the President’s budget request for the National Oceanic and Atmospheric Administration.
 

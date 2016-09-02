@@ -15,21 +15,21 @@
 
 ## § 70710. Reporting requirements and termination
 
-    (a) __Interim Reports.—__ 
+    (a)  __Interim Reports__  __.—__ 
 
     A Commission may submit to the President and Congress interim reports containing such findings, conclusions, and recommendations for corrective actions as have been agreed to by a majority of Commission members.
 
-    (b) __Final Report.—__ 
+    (b)  __Final Report__  __.—__ 
 
     A Commission shall submit to the President and Congress, and make concurrently available to the public, a final report containing such findings, conclusions, and recommendations for corrective actions as have been agreed to by a majority of Commission members. Such report shall include any minority views or opinions not reflected in the majority report.
 
     (c) __Termination.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         A Commission, and all the authorities of this chapter with respect to that Commission, shall terminate 60 days after the date on which the final report is submitted under subsection (b).
 
-        (2) __Administrative activities before termination.—__ 
+        (2)  __Administrative activities before termination__  __.—__ 
 
         A Commission may use the 60-day period referred to in paragraph (1) for the purpose of concluding its activities, including providing testimony to committees of Congress concerning its reports and disseminating the final report.
 

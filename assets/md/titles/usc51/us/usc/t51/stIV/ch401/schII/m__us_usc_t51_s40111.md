@@ -15,11 +15,11 @@
 
 ## § 40111. Fundamental research program
 
-    (a) __Objective.—__ 
+    (a)  __Objective__  __.—__ 
 
     In order to ensure that the Nation maintains needed capabilities in fundamental areas of aeronautics research, the Administrator shall establish a program of long-term fundamental research in aeronautical sciences and technologies that is not tied to specific development projects.
 
-    (b) __Operation.—__ 
+    (b)  __Operation__  __.—__ 
 
     The Administrator shall conduct the program under this section, in part by awarding grants to institutions of higher education. The Administrator shall encourage the participation of institutions of higher education located in States that participate in the Experimental Program to Stimulate Competitive Research. All grants to institutions of higher education under this section shall be awarded through merit review.
 

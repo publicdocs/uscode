@@ -17,7 +17,7 @@
 
     (a) __Designation and Qualifications.—__ 
 
-        (1) __Authority to designate.—__ 
+        (1)  __Authority to designate__  __.—__ 
 
         The Administrator may designate—
 
@@ -25,7 +25,7 @@
 
             (B) any association or other alliance of 2 or more persons, other than individuals, as a space grant regional consortium.
 
-        (2) __Space grant college requirements.—__ 
+        (2)  __Space grant college requirements__  __.—__ 
 
         No institution of higher education may be designated as a space grant college unless the Administrator finds that such institution—
 
@@ -35,7 +35,7 @@
 
             (C) meets such other qualifications as the Administrator considers necessary or appropriate.
 
-        (3) __Space grant regional consortium requirements.—__ 
+        (3)  __Space grant regional consortium requirements__  __.—__ 
 
         No association or other alliance of 2 or more persons may be designated as a space grant regional consortium unless the Administrator finds that such association or alliance—
 
@@ -47,7 +47,7 @@
 
             (D) meets such other qualifications as the Administrator considers necessary or appropriate.
 
-    (b) __Qualifications and Guidelines.—__ 
+    (b)  __Qualifications and Guidelines__  __.—__ 
 
     The Administrator shall by regulation prescribe—
 
@@ -55,7 +55,7 @@
 
         (2) guidelines relating to the activities and responsibilities of space grant colleges and space grant regional consortia.
 
-    (c) __Suspension or Termination of Designation.—__ 
+    (c)  __Suspension or Termination of Designation__  __.—__ 
 
     The Administrator may, for cause and after an opportunity for hearing, suspend or terminate any designation under subsection (a).
 

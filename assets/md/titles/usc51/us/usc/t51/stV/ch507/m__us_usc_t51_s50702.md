@@ -15,19 +15,19 @@
 
 ## § 50702. Establishment
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     There is established within the Department of Commerce an Office of Space Commercialization.
 
-    (b) __Director.—__ 
+    (b)  __Director__  __.—__ 
 
     The Office shall be headed by a Director, who shall be a senior executive and shall be compensated at a level in the Senior Executive Service under [section 5382 of title 5][/us/usc/t5/s5382] as determined by the Secretary of Commerce.
 
-    (c) __Functions of Office.—__ 
+    (c)  __Functions of Office__  __.—__ 
 
     The Office shall be the principal unit for the coordination of space-related issues, programs, and initiatives within the Department of Commerce.
 
-    (d) __Duties of Director.—__ 
+    (d)  __Duties of Director__  __.—__ 
 
     The primary responsibilities of the Director in carrying out the functions of the Office shall include—
 
@@ -97,7 +97,7 @@ Pub. L. 105–309, § 8, Oct. 30, 1998, 112 Stat. 2937; Pub. L. 107–305, §�
 
 [Pub. L. 102–588, title II, § 218][/us/pl/102/588/s218], Nov. 4, 1992, [106 Stat. 5117][/us/stat/106/5117], provided that:
 
->     “(a) __Report to Congress.—__ 
+>     “(a)  __Report to Congress__  __.—__ 
 
 >     Within one year after the date of enactment of this Act \[Nov. 4, 1992\], the President shall submit to Congress a report describing—
 
@@ -113,11 +113,11 @@ Pub. L. 105–309, § 8, Oct. 30, 1998, 112 Stat. 2937; Pub. L. 107–305, §�
 
 >         “(6) any anticompetitive issues raised by a potential acquisition.
 
->     “(b) __Notification to Congress.—__ 
+>     “(b)  __Notification to Congress__  __.—__ 
 
 >     If any United States Government agency denies a request for a license or other approval that may be necessary to conduct discussions on space-related matters with the independent states of the former Soviet Union, that agency shall immediately notify the Speaker of the House of Representatives and President of the Senate. Each such notification shall include a statement of the reasons for the denial.
 
->     “(c) __Role of the Office of Space Commerce.—__ 
+>     “(c)  __Role of the Office of Space Commerce__  __.—__ 
 
 >     The Office of Space Commerce of the Department of Commerce is authorized and encouraged to conduct trade missions to appropriate independent states of the former Soviet Union for the purpose of familiarizing United States aerospace industry representatives with space hardware, space technologies, and space services that may be available from the independent states, and with the business practices and overall business climate in the independent states. The Office of Space Commerce shall also advise the Administrator \[of the National Aeronautics and Space Administration\] as to the impact on United States industry of each potential acquisition of space hardware, space technology, or space services from the independent states of the former Soviet Union, specifically including any anticompetitive issues the Office may observe.”
 

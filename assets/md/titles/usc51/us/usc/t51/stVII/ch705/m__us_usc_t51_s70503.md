@@ -15,11 +15,11 @@
 
 ## § 70503. Ground-based analog capabilities
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     The Administrator may establish a ground-based analog capability in remote United States locations in order to assist in the development of lunar operations, life support, and in-situ resource utilization experience and capabilities.
 
-    (b) __Environmental Characteristics.—__ 
+    (b)  __Environmental Characteristics__  __.—__ 
 
     The Administrator shall select locations for the activities described in subsection (a) that—
 
@@ -29,7 +29,7 @@
 
         (3) have access to energy and natural resources (including geothermal, permafrost, volcanic, or other potential resources).
 
-    (c) __Involvement of Local Populations and Private Sector Partners.—__ 
+    (c)  __Involvement of Local Populations and Private Sector Partners__  __.—__ 
 
     In carrying out this section, the Administrator shall involve local populations, academia, and industrial partners as much as possible to ensure that ground-based benefits and applications are encouraged and developed.
 

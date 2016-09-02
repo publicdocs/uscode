@@ -15,7 +15,7 @@
 
 ## § 50913. Acquiring United States Government property and services
 
-    (a) __General Requirements and Considerations.—__ 
+    (a)  __General Requirements and Considerations__  __.—__ 
 
         (1)
 
@@ -27,7 +27,7 @@
 
         (2) In acting under paragraph (1) of this subsection, the Secretary shall consider the commercial availability on reasonable terms of substantially equivalent launch property or launch services or reentry services from a domestic source, whether such source is located on or off a Federal range.
 
-    (b) __Price.—__ 
+    (b)  __Price__  __.—__ 
 
         (1)
 
@@ -49,11 +49,11 @@
 
         (3) The Secretary shall ensure the establishment of uniform guidelines for, and consistent implementation of, this section by all Federal agencies.
 
-    (c) __Collection by Secretary.—__ 
+    (c)  __Collection by Secretary__  __.—__ 
 
     The Secretary may collect a payment under this section with the consent of the head of the executive agency establishing the price. Amounts collected under this subsection shall be deposited in the Treasury. Amounts (except for excess launch property) shall be credited to the appropriation from which the cost of providing the property or services was paid.
 
-    (d) __Collection by Other Governmental Heads.—__ 
+    (d)  __Collection by Other Governmental Heads__  __.—__ 
 
     The head of a department, agency, or instrumentality of the Government may collect a payment for an activity involved in producing a launch vehicle or reentry vehicle, or the payload of either, for launch or reentry if the activity was agreed to by the owner or manufacturer of the launch vehicle, reentry vehicle, or payload.
 

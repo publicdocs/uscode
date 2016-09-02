@@ -15,11 +15,11 @@
 
 ## § 30504. Assessment of science mission extensions
 
-    (a) __Assessment.—__ 
+    (a)  __Assessment__  __.—__ 
 
     The Administrator shall carry out biennial reviews within each of the Science divisions to assess the cost and benefits of extending the date of the termination of data collection for those missions that have exceeded their planned mission lifetime.
 
-    (b) __Consultation and Consideration of Potential Benefits of Instruments on Missions.—__ 
+    (b)  __Consultation and Consideration of Potential Benefits of Instruments on Missions__  __.—__ 
 
     For those missions that have an operational component, the National Oceanic and Atmospheric Administration or any other affected agency shall be consulted and the potential benefits of instruments on missions that are beyond their planned mission lifetime taken into account.
 

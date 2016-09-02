@@ -15,7 +15,7 @@
 
 ## § 31505. Development of enhanced-use lease policy
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     The Administrator shall develop an agency-wide enhanced-use lease policy that—
 
@@ -23,11 +23,11 @@
 
         (2) establishes controls and procedures to ensure accountability and protect the interests of the Government.
 
-    (b) __Contents.—__ 
+    (b)  __Contents__  __.—__ 
 
     The policy required by subsection (a) shall include the following:
 
-        (1) __Criteria for determining economic value.—__ 
+        (1)  __Criteria for determining economic value__  __.—__ 
 
         Criteria for determining whether enhanced-use lease provides better economic value to the Government than other options, such as—
 
@@ -35,15 +35,15 @@
 
             (B) sale of the property.
 
-        (2) __Security and access.—__ 
+        (2)  __Security and access__  __.—__ 
 
         Requirement for the identification of proposed physical and procedural changes needed to ensure security and restrict access to specified areas, coordination of proposed changes with existing site tenants, and development of estimated costs of such changes.
 
-        (3) __Measures of effectiveness.—__ 
+        (3)  __Measures of effectiveness__  __.—__ 
 
         Measures of effectiveness for the enhanced-use lease program.
 
-        (4) __Accounting controls.—__ 
+        (4)  __Accounting controls__  __.—__ 
 
         Accounting controls and procedures to ensure accountability, such as an audit trail and documentation to readily support financial transactions.
 

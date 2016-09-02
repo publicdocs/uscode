@@ -15,15 +15,15 @@
 
 ## § 30503. Performance assessments
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     The performance of each division in the Science directorate of the Administration shall be reviewed and assessed by the National Academy of Sciences at 5-year intervals.
 
-    (b) __Timing.—__ 
+    (b)  __Timing__  __.—__ 
 
     Beginning with the first fiscal year following December 30, 2005, the Administrator shall select at least one division for review under this section. The Administrator shall select divisions so that all disciplines will have received their first review within 6 fiscal years of December 30, 2005.
 
-    (c) __Reports.—__ 
+    (c)  __Reports__  __.—__ 
 
     Not later than March 1 of each year, beginning with the first fiscal year after December 30, 2005, the Administrator shall transmit a report to the Committee on Science and Technology of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate—
 

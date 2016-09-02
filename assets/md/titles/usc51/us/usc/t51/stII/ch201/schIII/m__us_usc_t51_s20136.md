@@ -15,7 +15,7 @@
 
 ## § 20136. Contributions awards
 
-    (a) __Applications.—__ 
+    (a)  __Applications__  __.—__ 
 
     Subject to the provisions of this section, the Administrator is authorized, on the Administrator’s own initiative or on application of any person, to make a monetary award, in an amount and on terms the Administrator determines to be warranted, to any person (as defined by [section 20135(a) of this title][/us/usc/t51/s20135/a]) for any scientific or technical contribution to the Administration which is determined by the Administrator to have significant value in the conduct of aeronautical and space activities. Each application made for such an award shall be referred to the Inventions and Contributions Board established under [section 20135 of this title][/us/usc/t51/s20135]. Such Board shall accord to each applicant an opportunity for hearing on the application, and shall transmit to the Administrator its recommendation as to the terms of the award, if any, to be made to the applicant for the contribution. In determining the terms and conditions of an award the Administrator shall take into account—
 
@@ -27,15 +27,15 @@
 
         (4) any other factors the Administrator determines to be material.
 
-    (b) __Apportionment of Awards.—__ 
+    (b)  __Apportionment of Awards__  __.—__ 
 
     If more than one applicant under subsection (a) claims an interest in the same contribution, the Administrator shall ascertain and determine the respective interests of the applicants, and shall apportion any award to be made among the applicants in amounts the Administrator determines to be equitable.
 
-    (c) __Surrender of Other Claims.—__ 
+    (c)  __Surrender of Other Claims__  __.—__ 
 
     No award may be made under subsection (a) unless the applicant surrenders, by means the Administrator determines to be effective, all claims that the applicant may have to receive any compensation (other than the award made under this section) for the use of the contribution or any element thereof at any time by or on behalf of the United States, or by or on behalf of any foreign government pursuant to a treaty or agreement with the United States, within the United States or at any other place.
 
-    (d) __Report and Waiting Period.—__ 
+    (d)  __Report and Waiting Period__  __.—__ 
 
     No award may be made under subsection (a) in an amount exceeding $100,000 unless the Administrator transmits to the appropriate committees of Congress a full and complete report concerning the amount and terms of, and the basis for, the proposed award, and a period of 30 calendar days of regular session of Congress expires after receipt of the report by the committees.
 

@@ -15,7 +15,7 @@
 
 ## § 50912. Administrative hearings and judicial review
 
-    (a) __Administrative Hearings.—__ 
+    (a)  __Administrative Hearings__  __.—__ 
 
     The Secretary of Transportation shall provide an opportunity for a hearing on the record to—
 
@@ -31,7 +31,7 @@
 
             (B) [section 50909(a) of this title][/us/usc/t51/s50909/a] to prohibit, suspend, or end a launch or operation of a launch site or reentry site, or reentry of a reentry vehicle, licensed by the Secretary.
 
-    (b) __Judicial Review.—__ 
+    (b)  __Judicial Review__  __.—__ 
 
     A final action of the Secretary under this chapter is subject to judicial review as provided in chapter 7 of title 5.
 

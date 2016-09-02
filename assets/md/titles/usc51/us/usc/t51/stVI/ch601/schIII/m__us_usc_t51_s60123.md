@@ -15,7 +15,7 @@
 
 ## § 60123. Administrative authority of Secretary
 
-    (a) __Functions.—__ 
+    (a)  __Functions__  __.—__ 
 
     In order to carry out the responsibilities specified in this subchapter, the Secretary may—
 
@@ -33,7 +33,7 @@
 
         (7) make investigations and inquiries and administer to or take from any person an oath, affirmation, or affidavit concerning any matter relating to the enforcement of this chapter.
 
-    (b) __Review of Agency Action.—__ 
+    (b)  __Review of Agency Action__  __.—__ 
 
     Any applicant or licensee that makes a timely request for review of an adverse action pursuant to paragraph (1), (3), (5), or (6) of subsection (a) shall be entitled to adjudication by the Secretary on the record after an opportunity for any agency hearing with respect to such adverse action. Any final action by the Secretary under this subsection shall be subject to judicial review under chapter 7 of title 5.
 

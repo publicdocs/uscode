@@ -15,7 +15,7 @@
 
 ## § 60113. Data policy for Landsat 7
 
-    (a) __Landsat 7 Data Policy.—__ 
+    (a)  __Landsat__  __7__  __Data Policy__  __.—__ 
 
     The Landsat Program Management, in consultation with other appropriate United States Government agencies, shall develop a data policy for Landsat 7 which should—
 
@@ -31,7 +31,7 @@
 
         (6) to the extent possible, ensure that the data distribution system for Landsat 7 is compatible with the Earth Observing System Data and Information System.
 
-    (b) __Additional Data Policy Considerations.—__ 
+    (b)  __Additional Data Policy Considerations__  __.—__ 
 
     In addition, the data policy for Landsat 7 may provide for—
 

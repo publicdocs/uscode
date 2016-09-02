@@ -15,19 +15,19 @@
 
 ## § 40116. University-based Centers for Research on Aviation Training
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     The Administrator shall award grants to institutions of higher education (or consortia thereof) to establish one or more Centers for Research on Aviation Training under cooperative agreements with appropriate Administration Centers.
 
-    (b) __Purpose.—__ 
+    (b)  __Purpose__  __.—__ 
 
     The purpose of the Centers for Research on Aviation Training shall be to investigate the impact of new technologies and procedures, particularly those related to the aircraft flight deck and to the air traffic management functions, on training requirements for pilots and air traffic controllers.
 
-    (c) __Application.—__ 
+    (c)  __Application__  __.—__ 
 
     An institution of higher education (or a consortium of such institutions) seeking funding under this section shall submit an application to the Administrator at such time, in such manner, and containing such information as the Administrator may require, including, at a minimum, a 5-year research plan.
 
-    (d) __Award Duration.—__ 
+    (d)  __Award Duration__  __.—__ 
 
     An award made by the Administrator under this section shall be for a period of 5 years and may be renewed on the basis of—
 

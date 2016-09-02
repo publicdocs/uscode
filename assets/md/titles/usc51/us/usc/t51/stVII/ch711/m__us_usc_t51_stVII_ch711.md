@@ -61,11 +61,11 @@
 
 [Pub. L. 109–155, title III, § 321][/us/pl/109/155/s321], Dec. 30, 2005, [119 Stat. 2922][/us/stat/119/2922], provided that:
 
->     “(a) __Short Title.—__ 
+>     “(a)  __Short Title__  __.—__ 
 
 >     This section may be cited as the ‘George E. Brown, Jr. Near-Earth Object Survey Act’.
 
->     “(b) __Findings.—__ 
+>     “(b)  __Findings__  __.—__ 
 
 >     The Congress makes the following findings:
 
@@ -77,19 +77,19 @@
 
 >         “(4) The efforts taken to date by NASA \[National Aeronautics and Space Administration\] for detecting and characterizing the hazards of near-Earth objects are not sufficient to fully determine the threat posed by such objects to cause widespread destruction and loss of life.
 
->     “(c) __Definitions.—__ 
+>     “(c)  __Definitions__  __.—__ 
 
 >     For purposes of this section the term ‘near-Earth object’ means an asteroid or comet with a perihelion distance of less than 1.3 Astronomical Units from the Sun.
 
->     “(d) __Near-Earth Object Survey.—__ 
+>     “(d)  __Near-Earth Object Survey__  __.—__ 
 
->         “(1) __Survey program.—__ 
+>         “(1)  __Survey program__  __.—__ 
 
 >         The Administrator \[of the National Aeronautics and Space Administration\] shall plan, develop, and implement a Near-Earth Object Survey program to detect, track, catalogue, and characterize the physical characteristics of near-Earth objects equal to or greater than 140 meters in diameter in order to assess the threat of such near-Earth objects to the Earth. It shall be the goal of the Survey program to achieve 90 percent completion of its near-Earth object catalogue (based on statistically predicted populations of near-Earth objects) within 15 years after the date of enactment of this Act \[Dec. 30, 2005\].
 
 >         “(2) __\[Amended former__  __[__  __section 2451 of Title 42__  __][/us/usc/t42/s2451]__  __, The Public Health and Welfare.\]__ 
 
->         “(3) __Fifth-year report.—__ 
+>         “(3)  __Fifth-year report__  __.—__ 
 
 >         The Administrator shall transmit to the Congress, not later than February 28 of the fifth year after the date of enactment of this Act, a report that provides the following:
 
@@ -97,7 +97,7 @@
 
 >             “(B) A summary of expenditures for all activities pursuant to paragraph (1) since the date of enactment of this Act.
 
->         “(4) __Initial report.—__ 
+>         “(4)  __Initial report__  __.—__ 
 
 >         The Administrator shall transmit to Congress not later than 1 year after the date of enactment of this Act an initial report that provides the following:
 

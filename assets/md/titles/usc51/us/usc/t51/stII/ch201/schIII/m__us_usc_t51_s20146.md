@@ -15,11 +15,11 @@
 
 ## § 20146. Retrocession of jurisdiction
 
-    (a) __Definition of State.—__ 
+    (a)  __Definition of State__  __.—__ 
 
     In this section, the term “State” means any of the several States, the District of Columbia, the Commonwealth of Puerto Rico, the United States Virgin Islands, Guam, American Samoa, the Northern Mariana Islands, and any other commonwealth, territory, or possession of the United States.
 
-    (b) __Relinquishing Legislative Jurisdiction.—__ 
+    (b)  __Relinquishing Legislative Jurisdiction__  __.—__ 
 
     Notwithstanding any other provision of law, the Administrator may relinquish to a State all or part of the legislative jurisdiction of the United States over lands or interests under the control of the Administrator in that State.
 

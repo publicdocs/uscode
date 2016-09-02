@@ -15,11 +15,11 @@
 
 ## § 60122. Conditions for operation
 
-    (a) __License Required for Operation.—__ 
+    (a)  __License Required for Operation__  __.—__ 
 
     No person that is subject to the jurisdiction or control of the United States may, directly or through any subsidiary or affiliate, operate any private remote sensing space system without a license pursuant to [section 60121 of this title][/us/usc/t51/s60121].
 
-    (b) __Licensing Requirements.—__ 
+    (b)  __Licensing Requirements__  __.—__ 
 
     Any license issued pursuant to this subchapter shall specify that the licensee shall comply with all of the requirements of this chapter and shall—
 
@@ -35,7 +35,7 @@
 
         (6) notify the Secretary of any significant or substantial agreement the licensee intends to enter with a foreign nation, entity, or consortium involving foreign nations or entities.
 
-    (c) __Additional Licensing Requirements for Landsat 6 Contractor.—__ 
+    (c)  __Additional Licensing Requirements for Landsat__  __6__  __Contractor__  __.—__ 
 
     In addition to the requirements of subsection (b), any license issued pursuant to this subchapter to the Landsat 6 contractor shall specify that the Landsat 6 contractor shall—
 

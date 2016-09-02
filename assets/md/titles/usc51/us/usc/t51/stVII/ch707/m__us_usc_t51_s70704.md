@@ -15,59 +15,59 @@
 
 ## § 70704. Composition of Commission
 
-    (a) __Number of Commissioners.—__ 
+    (a)  __Number of Commissioners__  __.—__ 
 
     A Commission established pursuant to this chapter shall consist of 15 members.
 
-    (b) __Selection.—__ 
+    (b)  __Selection__  __.—__ 
 
     The members of a Commission shall be chosen in the following manner:
 
-        (1) __Appointment by president.—__ 
+        (1)  __Appointment by president__  __.—__ 
 
         The President shall appoint the members, and shall designate the Chairman and Vice Chairman of the Commission from among its members.
 
-        (2) __Lists provided by leaders of congress.—__ 
+        (2)  __Lists provided by leaders of congress__  __.—__ 
 
         The majority leader of the Senate, the minority leader of the Senate, the Speaker of the House of Representatives, and the minority leader of the House of Representatives shall each provide to the President a list of candidates for membership on the Commission. The President may select one of the candidates from each of the 4 lists for membership on the Commission.
 
-        (3) __Prohibition regarding federal officers and employees and members of congress.—__ 
+        (3)  __Prohibition regarding federal officers and employees and members of congress__  __.—__ 
 
         No officer or employee of the Federal Government or Member of Congress shall serve as a member of the Commission.
 
-        (4) __Prohibition regarding contractors.—__ 
+        (4)  __Prohibition regarding contractors__  __.—__ 
 
         No member of the Commission shall have, or have pending, a contractual relationship with the Administration.
 
-        (5) __Prohibition regarding conflict of interest.—__ 
+        (5)  __Prohibition regarding conflict of interest__  __.—__ 
 
         The President shall not appoint any individual as a member of a Commission under this section who has a current or former relationship with the Administrator that the President determines would constitute a conflict of interest.
 
-        (6) __Experience.—__ 
+        (6)  __Experience__  __.—__ 
 
         To the extent practicable, the President shall ensure that the members of the Commission include some individuals with experience relative to human carrying spacecraft, as well as some individuals with investigative experience and some individuals with legal experience.
 
-        (7) __Diversity.—__ 
+        (7)  __Diversity__  __.—__ 
 
         To the extent practicable, the President shall seek diversity in the membership of the Commission.
 
-    (c) __Deadline for Appointment.—__ 
+    (c)  __Deadline for Appointment__  __.—__ 
 
     All members of a Commission established under this chapter shall be appointed no later than 30 days after the incident.
 
-    (d) __Initial Meeting.—__ 
+    (d)  __Initial Meeting__  __.—__ 
 
     A Commission shall meet and begin operations as soon as practicable.
 
-    (e) __Subsequent Meetings.—__ 
+    (e)  __Subsequent Meetings__  __.—__ 
 
     After its initial meeting, a Commission shall meet upon the call of the Chairman or a majority of its members.
 
-    (f) __Quorum.—__ 
+    (f)  __Quorum__  __.—__ 
 
     Eight members of a Commission shall constitute a quorum.
 
-    (g) __Vacancies.—__ 
+    (g)  __Vacancies__  __.—__ 
 
     Any vacancy in a Commission shall not affect its powers, but shall be filled in the same manner in which the original appointment was made.
 

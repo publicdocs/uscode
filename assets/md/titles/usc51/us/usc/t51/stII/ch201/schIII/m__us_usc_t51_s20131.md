@@ -15,7 +15,7 @@
 
 ## § 20131. Public access to information
 
-    (a) __Public Inspection.—__ 
+    (a)  __Public Inspection__  __.—__ 
 
     Information obtained or developed by the Administrator in the performance of the Administrator’s functions under this chapter shall be made available for public inspection, except information—
 
@@ -27,15 +27,15 @@
 
     (b) __Special Handling of Trade Secret or Confidential Information.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         The Administrator, for a period of up to 5 years after the development of information described in paragraph (2), may provide appropriate protections against the dissemination of such information, including exemption from subchapter II of chapter 5 of title 5.
 
-        (2) __Information described.—__ 
+        (2)  __Information described__  __.—__ 
 
         Information referred to in paragraph (1) is information that results from activities conducted under an agreement entered into under subsections (e) and (f) of [section 20113 of this title][/us/usc/t51/s20113], and that would be a trade secret or commercial or financial information that is privileged or confidential under the meaning of [section 552(b)(4) of title 5][/us/usc/t5/s552/b/4] if the information had been obtained from a non-Federal party participating in such an agreement.
 
-    (c) __Committees of Congress.—__ 
+    (c)  __Committees of Congress__  __.—__ 
 
     Nothing in this chapter authorizes the withholding of information by the Administrator from the duly authorized committees of Congress.
 

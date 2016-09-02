@@ -15,11 +15,11 @@
 
 ## § 51103. Grant applications
 
-    (a) __General.—__ 
+    (a)  __General__  __.—__ 
 
     A sponsor may submit to the Secretary of Transportation an application for a project grant. The application must state the project to be undertaken and be in the form and contain the information the Secretary requires.
 
-    (b) __Considerations and Consultation.—__ 
+    (b)  __Considerations and Consultation__  __.—__ 
 
         (1)
 
@@ -39,7 +39,7 @@
 
         (2) The Secretary of Transportation shall consult with the Secretary of Defense, the Administrator of the National Space and Aeronautics Administration, and the heads of other appropriate agencies of the Government about paragraph (1)(A) and (F) of this subsection.
 
-    (c) __Requirements.—__ 
+    (c)  __Requirements__  __.—__ 
 
     The Secretary of Transportation may approve an application only if the Secretary is satisfied that—
 
@@ -61,7 +61,7 @@
 
         (6) any additional requirements prescribed by the Secretary have been met.
 
-    (d) __Preference for Industry Contributions.—__ 
+    (d)  __Preference for Industry Contributions__  __.—__ 
 
     The Secretary of Transportation shall give preference to applications for projects for which there will be greater industry financial contributions, all other factors being equal.
 

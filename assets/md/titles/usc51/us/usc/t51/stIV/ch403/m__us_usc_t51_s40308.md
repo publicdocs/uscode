@@ -15,11 +15,11 @@
 
 ## § 40308. Space grant review panel
 
-    (a) __Establishment.—__ 
+    (a)  __Establishment__  __.—__ 
 
     The Administrator shall establish an independent committee known as the space grant review panel, which shall not be subject to the provisions of the Federal Advisory Committee Act (5 App. U.S.C.).
 
-    (b) __Duties.—__ 
+    (b)  __Duties__  __.—__ 
 
     The panel shall take such steps as may be necessary to review, and shall advise the Administrator with respect to—
 
@@ -33,29 +33,29 @@
 
         (5) such other matters as the Administrator refers to the panel for review and advice.
 
-    (c) __Personnel and Administrative Services.—__ 
+    (c)  __Personnel and Administrative Services__  __.—__ 
 
     The Administrator shall make available to the panel any information, personnel, and administrative services and assistance which is reasonable to carry out the duties of the panel.
 
     (d) __Members.—__ 
 
-        (1) __Appointment.—__ 
+        (1)  __Appointment__  __.—__ 
 
         The Administrator shall appoint the voting members of the panel. A majority of the voting members shall be individuals who, by reason of knowledge, experience, or training, are especially qualified in one or more of the disciplines and fields related to space. The other voting members shall be individuals who, by reason of knowledge, experience, or training, are especially qualified in, or representative of, education, extension services, State government, industry, economics, planning, or any other activity related to efforts to enhance the understanding, assessment, development, or utilization of space resources. The Administrator shall consider the potential conflict of interest of any individual in making appointments to the panel.
 
-        (2) __Chairman and vice chairman.—__ 
+        (2)  __Chairman and vice chairman__  __.—__ 
 
         The Administrator shall select one voting member to serve as the Chairman and another voting member to serve as the Vice Chairman. The Vice Chairman shall act as Chairman in the absence or incapacity of the Chairman.
 
-        (3) __Reimbursement for expenses.—__ 
+        (3)  __Reimbursement for expenses__  __.—__ 
 
         Voting members of the panel who are not Federal employees shall be reimbursed for actual and reasonable expenses incurred in the performance of such duties.
 
-        (4) __Meetings.—__ 
+        (4)  __Meetings__  __.—__ 
 
         The panel shall meet on a biannual basis and, at any other time, at the call of the Chairman or upon the request of a majority of the voting members or of the Administrator.
 
-        (5) __Powers.—__ 
+        (5)  __Powers__  __.—__ 
 
         The panel may exercise such powers as are reasonably necessary in order to carry out the duties enumerated in subsection (b).
 

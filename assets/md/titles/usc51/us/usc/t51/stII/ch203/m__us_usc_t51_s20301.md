@@ -15,7 +15,7 @@
 
 ## § 20301. General responsibilities
 
-    (a) __Programs.—__ 
+    (a)  __Programs__  __.—__ 
 
     The Administrator shall ensure that the Administration carries out a balanced set of programs that shall include, at a minimum, programs in—
 
@@ -35,7 +35,7 @@
 
             (D) research on microgravity, including research that is not directly related to human exploration.
 
-    (b) __Consultation and Coordination.—__ 
+    (b)  __Consultation and Coordination__  __.—__ 
 
     In carrying out the programs of the Administration, the Administrator shall—
 

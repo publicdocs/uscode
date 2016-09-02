@@ -15,25 +15,25 @@
 
 ## § 20303. Contribution to innovation
 
-    (a) __Participation in Interagency Activities.—__ 
+    (a)  __Participation in Interagency Activities__  __.—__ 
 
     The Administration shall be a full participant in any interagency effort to promote innovation and economic competitiveness through near-term and long-term basic scientific research and development and the promotion of science, technology, engineering, and mathematics education, consistent with the Administration’s mission, including authorized activities.
 
-    (b) __Historic Foundation.—__ 
+    (b)  __Historic Foundation__  __.—__ 
 
     In order to carry out the participation described in subsection (a), the Administrator shall build on the historic role of the Administration in stimulating excellence in the advancement of physical science and engineering disciplines and in providing opportunities and incentives for the pursuit of academic studies in science, technology, engineering, and mathematics.
 
-    (c) __Balanced Science Program and Robust Authorization Levels.—__ 
+    (c)  __Balanced Science Program and Robust Authorization Levels__  __.—__ 
 
     The balanced science program authorized by section 101(d) of the National Aeronautics and Space Administration Authorization Act of 2005 ([42 U.S.C. 16611(d)][/us/usc/t42/s16611/d])  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  shall be an element of the contribution by the Administration to the interagency programs.
 
     (d) __Annual Report.—__ 
 
-        (1) __Requirement.—__ 
+        (1)  __Requirement__  __.—__ 
 
         The Administrator shall submit to Congress and the President an annual report describing the activities conducted pursuant to this section, including a description of the goals and the objective metrics upon which funding decisions were made.
 
-        (2) __Content.—__ 
+        (2)  __Content__  __.—__ 
 
         Each report submitted pursuant to paragraph (1) shall include, with regard to science, technology, engineering, and mathematics education programs, at a minimum, the following:
 
@@ -141,15 +141,15 @@ Pub. L. 110–69, title II, § 2001(a), (b), (c), (e), Aug. 9, 2007, 121 Stat.
 
 [Pub. L. 111–358, title II, § 204][/us/pl/111/358/s204], Jan. 4, 2011, [124 Stat. 3994][/us/stat/124/3994], provided that:
 
->     “(a) __Sense of Congress.—__ 
+>     “(a)  __Sense of Congress__  __.—__ 
 
 >     It is the sense of the Congress that the International Space Station represents a valuable and unique national asset which can be utilized to increase educational opportunities and scientific and technological innovation which will enhance the Nation’s economic security and competitiveness in the global technology fields of endeavor. If the period for active utilization of the International Space Station is extended to at least the year 2020, the potential for such opportunities and innovation would be increased. Efforts should be made to fully realize that potential.
 
->     “(b) __Evaluation and Assessment of NASA’s Interagency Contribution.—__ 
+>     “(b)  __Evaluation and Assessment of NASA’s Interagency Contribution__  __.—__ 
 
 >     Pursuant to the authority provided in title II of the America COMPETES Act ([Public Law 110–69][/us/pl/110/69] \[see Tables for classification\]), the Administrator \[of NASA\] shall evaluate and, where possible, expand efforts to maximize NASA’s \[National Aeronautics and Space Administration’s\] contribution to interagency efforts to enhance science, technology, engineering, and mathematics education capabilities, and to enhance the Nation’s technological excellence and global competitiveness. The Administrator shall identify these enhancements in the annual reports required by section 2001(e) of that Act (\[former\] [42 U.S.C. 16611a(e)][/us/usc/t42/s16611a/e]) \[now [51 U.S.C. 20303(d)][/us/usc/t51/s20303/d]\].
 
->     “(c) __Report to the Congress.—__ 
+>     “(c)  __Report to the Congress__  __.—__ 
 
 >     Within 120 days after the date of enactment of this Act \[Jan. 4, 2011\], the Administrator shall provide to the House of Representatives Committee on Science and Technology \[now Committee on Science, Space, and Technology\] and the Senate Committee on Commerce, Science, and Transportation a report on the assessment made pursuant to subsection (a). The report shall include—
 

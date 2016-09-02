@@ -15,11 +15,11 @@
 
 ## § 20304. Basic research enhancement
 
-    (a) __Definition of Basic Research.—__ 
+    (a)  __Definition of Basic Research__  __.—__ 
 
     In this section, the term “basic research” has the meaning given the term in Office of Management and Budget Circular No. A–11.
 
-    (b) __Coordination.—__ 
+    (b)  __Coordination__  __.—__ 
 
     The Administrator, the Director of the National Science Foundation, the Secretary of Energy, the Secretary of Defense, and the Secretary of Commerce shall, to the extent practicable, coordinate basic research activities related to physical sciences, technology, engineering, and mathematics.
 

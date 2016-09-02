@@ -15,11 +15,11 @@
 
 ## § 30309. Use of abandoned and underutilized buildings, grounds, and facilities
 
-    (a) __Definition of Depressed Communities.—__ 
+    (a)  __Definition of Depressed Communities__  __.—__ 
 
     In this section, the term “depressed communities” means rural and urban communities that are relatively depressed, in terms of age of housing, extent of poverty, growth of per capita income, extent of unemployment, job lag, or surplus labor.
 
-    (b) __In General.—__ 
+    (b)  __In General__  __.—__ 
 
     In any case in which the Administrator considers the purchase, lease, or expansion of a facility to meet requirements of the Administration, the Administrator shall consider whether those requirements could be met by the use of one of the following:
 

@@ -71,7 +71,7 @@ Pub. L. 110–422, title II, § 201, Oct. 15, 2008, 122 Stat. 4784.  </td>
 
 >     “(a) __Carbon Cycle Remote Sensing Applications Research Program.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Administrator \[of the National Aeronautics and Space Administration\] shall develop a carbon cycle remote sensing applications research program—
 
@@ -81,11 +81,11 @@ Pub. L. 110–422, title II, § 201, Oct. 15, 2008, 122 Stat. 4784.  </td>
 
 >             “(C) to encourage the development of commercial products, as appropriate.
 
->         “(2) __Use of centers.—__ 
+>         “(2)  __Use of centers__  __.—__ 
 
 >         The Administrator of the National Aeronautics and Space Administration shall use regional earth science application centers to conduct applications research under this section.
 
->         “(3) __Researched areas.—__ 
+>         “(3)  __Researched areas__  __.—__ 
 
 >         The areas that shall be the subjects of research conducted under this section include—
 
@@ -97,7 +97,7 @@ Pub. L. 110–422, title II, § 201, Oct. 15, 2008, 122 Stat. 4784.  </td>
 
 >             “(D) region-scale carbon sequestration estimation.
 
->     “(b) __Authorization of Appropriations.—__ 
+>     “(b)  __Authorization of Appropriations__  __.—__ 
 
 >     There is authorized to be appropriated to carry out this section $5,000,000 of funds authorized by section 102 \[[114 Stat. 1581][/us/stat/114/1581]\] for fiscal years 2001 through 2002.”
 

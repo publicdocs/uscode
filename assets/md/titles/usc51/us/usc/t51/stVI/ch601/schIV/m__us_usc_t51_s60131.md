@@ -17,11 +17,11 @@
 
     (a) __Roles of Administration and Department of Defense.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         The Administrator and the Secretary of Defense are directed to continue and to enhance programs of remote sensing research and development.
 
-        (2) __Administration activities authorized and encouraged.—__ 
+        (2)  __Administration activities authorized and encouraged__  __.—__ 
 
         The Administrator is authorized and encouraged to—
 
@@ -33,15 +33,15 @@
 
     (b) __Roles of Department of Agriculture and Department of the Interior.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         In order to enhance the ability of the United States to manage and utilize its renewable and nonrenewable resources, the Secretary of Agriculture and the Secretary of the Interior are authorized and encouraged to conduct programs of research and development in the applications of remote sensing using funds appropriated for such purposes.
 
-        (2) __Activities that may be included.—__ 
+        (2)  __Activities that may be included__  __.—__ 
 
         Such programs may include basic research at universities, demonstrations of applications, and cooperative activities involving other Government agencies, private sector parties, and foreign and international organizations.
 
-    (c) __Role of Other Federal Agencies.—__ 
+    (c)  __Role of Other Federal Agencies__  __.—__ 
 
     Other United States Government agencies are authorized and encouraged to conduct research and development on the use of remote sensing in the fulfillment of their authorized missions, using funds appropriated for such purposes.
 

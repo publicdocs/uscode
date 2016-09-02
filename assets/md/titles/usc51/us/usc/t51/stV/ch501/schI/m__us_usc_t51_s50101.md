@@ -17,31 +17,31 @@
 
     In this chapter:
 
-    (1) __Commercial provider.—__ 
+    (1)  __Commercial provider__  __.—__ 
 
     The term “commercial provider” means any person providing space transportation services or other space-related activities, primary control of which is held by persons other than Federal, State, local, and foreign governments.
 
-    (2) __Payload.—__ 
+    (2)  __Payload__  __.—__ 
 
     The term “payload” means anything that a person undertakes to transport to, from, or within outer space, or in suborbital trajectory, by means of a space transportation vehicle, but does not include the space transportation vehicle itself except for its components which are specifically designed or adapted for that payload.
 
-    (3) __Space-related activities.—__ 
+    (3)  __Space-related activities__  __.—__ 
 
     The term “space-related activities” includes research and development, manufacturing, processing, service, and other associated and support activities.
 
-    (4) __Space transportation services.—__ 
+    (4)  __Space transportation services__  __.—__ 
 
     The term “space transportation services” means the preparation of a space transportation vehicle and its payloads for transportation to, from, or within outer space, or in suborbital trajectory, and the conduct of transporting a payload to, from, or within outer space, or in suborbital trajectory.
 
-    (5) __Space transportation vehicle.—__ 
+    (5)  __Space transportation vehicle__  __.—__ 
 
     The term “space transportation vehicle” means any vehicle constructed for the purpose of operating in, or transporting a payload to, from, or within, outer space, or in suborbital trajectory, and includes any component of such vehicle not specifically designed or adapted for a payload.
 
-    (6) __State.—__ 
+    (6)  __State__  __.—__ 
 
     The term “State” means each of the several States of the Union, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, and any other commonwealth, territory, or possession of the United States.
 
-    (7) __United states commercial provider.—__ 
+    (7)  __United states commercial provider__  __.—__ 
 
     The term “United States commercial provider” means a commercial provider, organized under the laws of the United States or of a State, that is—
 

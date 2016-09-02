@@ -15,11 +15,11 @@
 
 ## § 30306. Small business contracting
 
-    (a) __Plan.—__ 
+    (a)  __Plan__  __.—__ 
 
     In consultation with the Small Business Administration, the Administrator shall develop a plan to maximize the number and amount of contracts awarded to small business concerns (within the meaning given that term in section 3 of the Small Business Act ([15 U.S.C. 632][/us/usc/t15/s632])) and to meet established contracting goals for such concerns.
 
-    (b) __Priority.—__ 
+    (b)  __Priority__  __.—__ 
 
     The Administrator shall establish as a priority meeting the contracting goals developed in conjunction with the Small Business Administration to maximize the amount of prime contracts, as measured in dollars, awarded in each fiscal year by the Administration to small business concerns (within the meaning given that term in section 3 of the Small Business Act ([15 U.S.C. 632][/us/usc/t15/s632])).
 

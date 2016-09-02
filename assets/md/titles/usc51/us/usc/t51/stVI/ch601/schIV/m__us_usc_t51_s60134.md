@@ -15,11 +15,11 @@
 
 ## § 60134. Preference for private sector land remote sensing system
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     If a successor land remote sensing system to Landsat 7 can be funded and managed by the private sector while still achieving the goals stated in subsection (b) without jeopardizing the domestic, national security, and foreign policy interests of the United States, preference should be given to the development of such a system by the private sector without competition from the United States Government.
 
-    (b) __Goals.—__ 
+    (b)  __Goals__  __.—__ 
 
     The goals referred to in subsection (a) are—
 

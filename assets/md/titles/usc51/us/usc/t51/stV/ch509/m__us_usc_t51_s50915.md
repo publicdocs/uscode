@@ -15,7 +15,7 @@
 
 ## § 50915. Paying claims exceeding liability insurance and financial responsibility requirements
 
-    (a) __General Requirements.—__ 
+    (a)  __General Requirements__  __.—__ 
 
         (1)
 
@@ -27,7 +27,7 @@
 
         (2) The Secretary may not provide for paying a part of a claim for which death, bodily injury, or property damage or loss results from willful misconduct by the licensee or transferee. To the extent insurance required under [section 50914(a)(1)(A) of this title][/us/usc/t51/s50914/a/1/A] is not available to cover a successful third party liability claim because of an insurance policy exclusion the Secretary decides is usual for the type of insurance involved, the Secretary may provide for paying the excluded claims without regard to the limitation contained in section 50914(a)(1).
 
-    (b) __Notice, Participation, and Approval.—__ 
+    (b)  __Notice, Participation, and Approval__  __.—__ 
 
     Before a payment under subsection (a) of this section is made—
 
@@ -37,11 +37,11 @@
 
         (3) the Secretary must approve any part of a settlement to be paid out of appropriations of the Government.
 
-    (c) __Withholding Payments.—__ 
+    (c)  __Withholding Payments__  __.—__ 
 
     The Secretary may withhold a payment under subsection (a) of this section if the Secretary certifies that the amount is not reasonable. However, the Secretary shall deem to be reasonable the amount of a claim finally decided by a court of competent jurisdiction.
 
-    (d) __Surveys, Reports, and Compensation Plans.—__ 
+    (d)  __Surveys, Reports, and Compensation Plans__  __.—__ 
 
         (1)
 
@@ -71,7 +71,7 @@
 
             (B) be submitted to the Senate and the House of Representatives on the same day and when the Senate and House are in session.
 
-    (e) __Congressional Resolutions.—__ 
+    (e)  __Congressional Resolutions__  __.—__ 
 
         (1)
 
@@ -111,7 +111,7 @@
 
             (D) an appeal from a decision of the chair related to the application of the rules of the Senate to the procedures related to a resolution.
 
-    (f) __Application.—__ 
+    (f)  __Application__  __.—__ 
 
     This section applies to a license issued or transferred under this chapter for which the Secretary receives a complete and valid application not later than December 31, 2013. This section does not apply to permits.
 

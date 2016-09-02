@@ -15,19 +15,19 @@
 
 ## § 30308. Cost effectiveness calculations
 
-    (a) __Definitions.—__ 
+    (a)  __Definitions__  __.—__ 
 
     In this section:
 
-        (1) __Commercial provider.—__ 
+        (1)  __Commercial provider__  __.—__ 
 
         The term “commercial provider” means any person providing space transportation services or other space-related activities, the primary control of which is held by persons other than a Federal, State, local, or foreign government.
 
-        (2) __State.—__ 
+        (2)  __State__  __.—__ 
 
         The term “State” means each of the several States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, and any other commonwealth, territory, or possession of the United States.
 
-    (b) __In General.—__ 
+    (b)  __In General__  __.—__ 
 
     Except as otherwise required by law, in calculating the cost effectiveness of the cost of the Administration engaging in an activity as compared to a commercial provider, the Administrator shall compare the cost of the Administration engaging in the activity using full cost accounting principles with the price the commercial provider will charge for such activity.
 

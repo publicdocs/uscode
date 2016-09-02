@@ -15,11 +15,11 @@
 
 ## § 20113. Powers of the Administration in performance of functions
 
-    (a) __Rules and Regulations.—__ 
+    (a)  __Rules and Regulations__  __.—__ 
 
     In the performance of its functions, the Administration is authorized to make, promulgate, issue, rescind, and amend rules and regulations governing the manner of its operations and the exercise of the powers vested in it by law.
 
-    (b) __Officers and Employees.—__ 
+    (b)  __Officers and Employees__  __.—__ 
 
     In the performance of its functions, the Administration is authorized to appoint and fix the compensation of officers and employees as may be necessary to carry out such functions. The officers and employees shall be appointed in accordance with the civil service laws and their compensation fixed in accordance with chapter 51 and subchapter III of chapter 53 of title 5, except that—
 
@@ -27,7 +27,7 @@
 
         (2) to the extent the Administrator deems such action necessary to recruit specially qualified scientific and engineering talent, the Administrator may establish the entrance grade for scientific and engineering personnel without previous service in the Federal Government at a level up to 2 grades higher than the grade provided for such personnel under the General Schedule, and fix their compensation accordingly.
 
-    (c) __Property.—__ 
+    (c)  __Property__  __.—__ 
 
     In the performance of its functions, the Administration is authorized—
 
@@ -41,61 +41,61 @@
 
         (5) to provide by contract or otherwise for cafeterias and other necessary facilities for the welfare of employees of the Administration at its installations and purchase and maintain equipment therefor.
 
-    (d) __Gifts.—__ 
+    (d)  __Gifts__  __.—__ 
 
     In the performance of its functions, the Administration is authorized to accept unconditional gifts or donations of services, money, or property, real, personal, or mixed, tangible or intangible.
 
-    (e) __Contracts, Leases, and Agreements.—__ 
+    (e)  __Contracts, Leases, and Agreements__  __.—__ 
 
     In the performance of its functions, the Administration is authorized, without regard to subsections (a) and (b) of [section 3324 of title 31][/us/usc/t31/s3324], to enter into and perform such contracts, leases, cooperative agreements, or other transactions as may be necessary in the conduct of its work and on such terms as it may deem appropriate, with any agency or instrumentality of the United States, or with any State, territory, or possession, or with any political subdivision thereof, or with any person, firm, association, corporation, or educational institution. To the maximum extent practicable and consistent with the accomplishment of the purpose of this chapter, such contracts, leases, agreements, and other transactions shall be allocated by the Administrator in a manner which will enable small-business concerns to participate equitably and proportionately in the conduct of the work of the Administration.
 
-    (f) __Cooperation With Federal Agencies and Others.—__ 
+    (f)  __Cooperation With Federal Agencies and Others__  __.—__ 
 
     In the performance of its functions, the Administration is authorized to use, with their consent, the services, equipment, personnel, and facilities of Federal and other agencies with or without reimbursement, and on a similar basis to cooperate with other public and private agencies and instrumentalities in the use of services, equipment, and facilities. Each department and agency of the Federal Government shall cooperate fully with the Administration in making its services, equipment, personnel, and facilities available to the Administration, and any such department or agency is authorized, notwithstanding any other provision of law, to transfer to or to receive from the Administration, without reimbursement, aeronautical and space vehicles, and supplies and equipment other than administrative supplies or equipment.
 
-    (g) __Advisory Committees.—__ 
+    (g)  __Advisory Committees__  __.—__ 
 
     In the performance of its functions, the Administration is authorized to appoint such advisory committees as may be appropriate for purposes of consultation and advice to the Administration.
 
-    (h) __Offices and Procedures.—__ 
+    (h)  __Offices and Procedures__  __.—__ 
 
     In the performance of its functions, the Administration is authorized to establish within the Administration such offices and procedures as may be appropriate to provide for the greatest possible coordination of its activities under this chapter with related scientific and other activities being carried on by other public and private agencies and organizations.
 
-    (i) __Temporary or Intermittent Services of Experts or Consultants.—__ 
+    (i)  __Temporary or Intermittent Services of Experts or Consultants__  __.—__ 
 
     In the performance of its functions, the Administration is authorized to obtain services as provided by [section 3109 of title 5][/us/usc/t5/s3109], but at rates for individuals not to exceed the per diem rate equivalent to the maximum rate payable under [section 5376 of title 5][/us/usc/t5/s5376].
 
-    (j) __Aliens.—__ 
+    (j)  __Aliens__  __.—__ 
 
     In the performance of its functions, the Administration is authorized, when determined by the Administrator to be necessary, and subject to such security investigations as the Administrator may determine to be appropriate, to employ aliens without regard to statutory provisions prohibiting payment of compensation to aliens.
 
     (k) __Concessions for Visitors’ Facilities.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         In the performance of its functions, the Administration is authorized to provide by concession, without regard to [section 1302 of title 40][/us/usc/t40/s1302], on such terms as the Administrator may deem to be appropriate and necessary to protect the concessioner against loss of the concessioner’s investment in property (but not anticipated profits) resulting from the Administration’s discretionary acts and decisions, for the construction, maintenance, and operation of all manner of facilities and equipment for visitors to the several installations of the Administration and, in connection therewith, to provide services incident to the dissemination of information concerning its activities to such visitors, without charge or with a reasonable charge therefor (with this authority being in addition to any other authority that the Administration may have to provide facilities, equipment, and services for visitors to its installations).
 
-        (2) __Public notice and due consideration of proposals.—__ 
+        (2)  __Public notice and due consideration of proposals__  __.—__ 
 
         A concession agreement under this subsection may be negotiated with any qualified proposer following due consideration of all proposals received after reasonable public notice of the intention to contract.
 
-        (3) __Reasonable opportunity for profit.—__ 
+        (3)  __Reasonable opportunity for profit__  __.—__ 
 
         The concessioner shall be afforded a reasonable opportunity to make a profit commensurate with the capital invested and the obligations assumed. The consideration paid by the concessioner for the concession shall be based on the probable value of the opportunity and not on maximizing revenue to the United States.
 
-        (4) __Records and access to records.—__ 
+        (4)  __Records and access to records__  __.—__ 
 
         Each concession agreement shall specify the manner in which the concessioner’s records are to be maintained, and shall provide for access to the records by the Administration and the Comptroller General of the United States for a period of 5 years after the close of the business year to which the records relate.
 
-        (5) __Possessory interests.—__ 
+        (5)  __Possessory interests__  __.—__ 
 
         A concessioner may be accorded a possessory interest, consisting of all incidents of ownership except legal title (which shall vest in the United States), in any structure, fixture, or improvement the concessioner constructs or locates upon land owned by the United States. With the approval of the Administration, such possessory interest may be assigned, transferred, encumbered, or relinquished by the concessioner, and, unless otherwise provided by contract, shall not be extinguished by the expiration or other termination of the concession and may not be taken for public use without just compensation.
 
-    (l) __Detailing Members of Armed Services.—__ 
+    (l)  __Detailing Members of Armed Services__  __.—__ 
 
     In the performance of its functions, the Administration is authorized, with the approval of the President, to enter into cooperative agreements under which members of the Army, Navy, Air Force, and Marine Corps may be detailed by the appropriate Secretary for services in the performance of functions under this chapter to the same extent as that to which they might be lawfully assigned in the Department of Defense.
 
-    (m) __Claims Against the United States.—__ 
+    (m)  __Claims Against the United States__  __.—__ 
 
     In the performance of its functions, the Administration is authorized—
 
@@ -173,11 +173,11 @@ Pub. L. 85–568, title II, § 203(c), formerly § 203(b), July 29, 1958, 72
 
 [Pub. L. 106–391, title III, § 319][/us/pl/106/391/s319], Oct. 30, 2000, [114 Stat. 1597][/us/stat/114/1597], provided that:
 
->     “(a) __Purchase of American-Made Equipment and Products.—__ 
+>     “(a)  __Purchase of American-Made Equipment and Products__  __.—__ 
 
 >     In the case of any equipment or products that may be authorized to be purchased with financial assistance provided under this Act \[see Tables for classification\], it is the sense of the Congress that entities receiving such assistance should, in expending the assistance, purchase only American-made equipment and products.
 
->     “(b) __Notice to Recipients of Assistance.—__ 
+>     “(b)  __Notice to Recipients of Assistance__  __.—__ 
 
 >     In providing financial assistance under this Act, the Administrator \[of the National Aeronautics and Space Administration\] shall provide to each recipient of the assistance a notice describing the statement made in subsection (a) by the Congress.”
 
@@ -185,25 +185,25 @@ Pub. L. 85–568, title II, § 203(c), formerly § 203(b), July 29, 1958, 72
 
 [Pub. L. 106–391, title III, § 321][/us/pl/106/391/s321], Oct. 30, 2000, [114 Stat. 1597][/us/stat/114/1597], provided that:
 
->     “(a) __Definitions.—__ 
+>     “(a)  __Definitions__  __.—__ 
 
 >     In this section:
 
->         “(1) __Educationally useful federal equipment.—__ 
+>         “(1)  __Educationally useful federal equipment__  __.—__ 
 
 >         The term ‘educationally useful Federal equipment’ means computers and related peripheral tools and research equipment that is appropriate for use in schools.
 
->         “(2) __School.—__ 
+>         “(2)  __School__  __.—__ 
 
 >         The term ‘school’ means a public or private educational institution that serves any of the grades of kindergarten through grade 12.
 
 >     “(b) __Sense of the Congress.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         It is the sense of the Congress that the Administrator \[of the National Aeronautics and Space Administration\] should, to the greatest extent practicable and in a manner consistent with applicable Federal law (including Executive Order No. 12999 \[[40 U.S.C. 549][/us/usc/t40/s549] note\]), donate educationally useful Federal equipment to schools in order to enhance the science and mathematics programs of those schools.
 
->         “(2) __Reports.—__ 
+>         “(2)  __Reports__  __.—__ 
 
 >         Not later than 1 year after the date of the enactment of this Act \[Oct. 30, 2000\], and annually thereafter, the Administrator shall prepare and submit to Congress a report describing any donations of educationally useful Federal equipment to schools made during the period covered by the report.”
 

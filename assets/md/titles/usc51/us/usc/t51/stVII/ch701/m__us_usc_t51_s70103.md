@@ -15,19 +15,19 @@
 
 ## § 70103. Commercial payloads on space shuttle
 
-    (a) __Definitions.—__ 
+    (a)  __Definitions__  __.—__ 
 
     In this section:
 
-        (1) __Launch vehicle.—__ 
+        (1)  __Launch vehicle__  __.—__ 
 
         The term “launch vehicle” means any vehicle constructed for the purpose of operating in, or placing a payload in, outer space.
 
-        (2) __Payload.—__ 
+        (2)  __Payload__  __.—__ 
 
         The term “payload” means an object which a person undertakes to place in outer space by means of a launch vehicle, and includes subcomponents of the launch vehicle specifically designed or adapted for that object.
 
-    (b) __In General.—__ 
+    (b)  __In General__  __.—__ 
 
     Commercial payloads may not be accepted for launch as primary payloads on the space shuttle unless the Administrator determines that—
 

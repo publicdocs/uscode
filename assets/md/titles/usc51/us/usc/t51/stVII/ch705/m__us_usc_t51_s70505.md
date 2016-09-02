@@ -15,11 +15,11 @@
 
 ## § 70505. Lunar outpost
 
-    (a) __Establishment.—__ 
+    (a)  __Establishment__  __.—__ 
 
     As the Administration works toward the establishment of a lunar outpost, the Administration shall make no plans that would require a lunar outpost to be occupied to maintain its viability. Any such outpost shall be operable as a human-tended facility capable of remote or autonomous operation for extended periods.
 
-    (b) __Designation.—__ 
+    (b)  __Designation__  __.—__ 
 
     The United States portion of the first human-tended outpost established on the surface of the Moon shall be designated the “Neil A. Armstrong Lunar Outpost”.
 

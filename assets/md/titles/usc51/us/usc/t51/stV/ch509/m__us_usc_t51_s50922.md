@@ -15,7 +15,7 @@
 
 ## § 50922. Regulations
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     The Secretary of Transportation, within 9 months after the date of the enactment of this section, shall issue regulations to carry out this chapter that include—
 
@@ -29,7 +29,7 @@
 
         (5) procedures for the application of government indemnification.
 
-    (b) __Reentry.—__ 
+    (b)  __Reentry__  __.—__ 
 
     The Secretary of Transportation, within 6 months after the date of the enactment of this section, shall issue a notice of proposed rulemaking to carry out this chapter that includes—
 
@@ -39,7 +39,7 @@
 
         (3) procedures for requesting and obtaining reentry site operator licenses.
 
-    (c) __Amendments.—__ 
+    (c)  __Amendments__  __.—__ 
 
         (1) Not later than 12 months after the date of enactment of the Commercial Space Launch Amendments Act of 2004, the Secretary shall publish proposed regulations to carry out that Act, including regulations relating to crew, space flight participants, and permits for launch or reentry of reusable suborbital rockets. Not later than 18 months after such date of enactment, the Secretary shall issue final regulations.
 
@@ -49,7 +49,7 @@
 
             (B) The Secretary may issue regulations under this paragraph only if the Secretary has determined that the definition in section 50902 does not describe, or will not continue to describe, all appropriate vehicles and only those vehicles. In making that determination, the Secretary shall take into account the evolving nature of the commercial space launch industry.
 
-    (d) __Effective Date.—__ 
+    (d)  __Effective Date__  __.—__ 
 
         (1) Licenses for the launch or reentry of launch vehicles or reentry vehicles with human beings on board and permits may be issued by the Secretary prior to the issuance of the regulations described in subsection (c).
 

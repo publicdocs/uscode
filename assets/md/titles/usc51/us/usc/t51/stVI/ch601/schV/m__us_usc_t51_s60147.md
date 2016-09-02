@@ -15,29 +15,29 @@
 
 ## § 60147. Consultation
 
-    (a) __Consultation With Secretary of Defense.—__ 
+    (a)  __Consultation With Secretary of Defense__  __.—__ 
 
     The Secretary and the Landsat Program Management shall consult with the Secretary of Defense on all matters under this chapter affecting national security. The Secretary of Defense shall be responsible for determining those conditions, consistent with this chapter, necessary to meet national security concerns of the United States and for notifying the Secretary and the Landsat Program Management promptly of such conditions.
 
     (b) __Consultation With Secretary of State.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         The Secretary and the Landsat Program Management shall consult with the Secretary of State on all matters under this chapter affecting international obligations. The Secretary of State shall be responsible for determining those conditions, consistent with this chapter, necessary to meet international obligations and policies of the United States and for notifying promptly the Secretary and the Landsat Program Management of such conditions.
 
-        (2) __International aid.—__ 
+        (2)  __International aid__  __.—__ 
 
         Appropriate United States Government agencies are authorized and encouraged to provide remote sensing data, technology, and training to developing nations as a component of programs of international aid.
 
-        (3) __Reporting discriminatory distribution.—__ 
+        (3)  __Reporting discriminatory distribution__  __.—__ 
 
         The Secretary of State shall promptly report to the Secretary and Landsat Program Management any instances outside the United States of discriminatory distribution of Landsat data.
 
-    (c) __Status Report.—__ 
+    (c)  __Status Report__  __.—__ 
 
     The Landsat Program Management shall, as often as necessary, provide to Congress complete and updated information about the status of ongoing operations of the Landsat system, including timely notification of decisions made with respect to the Landsat system in order to meet national security concerns and international obligations and policies of the United States Government.
 
-    (d) __Reimbursements.—__ 
+    (d)  __Reimbursements__  __.—__ 
 
     If, as a result of technical modifications imposed on a licensee under subchapter III on the basis of national security concerns, the Secretary, in consultation with the Secretary of Defense or with other Federal agencies, determines that additional costs will be incurred by the licensee, or that past development costs (including the cost of capital) will not be recovered by the licensee, the Secretary may require the agency or agencies requesting such technical modifications to reimburse the licensee for such additional or development costs, but not for anticipated profits. Reimbursements may cover costs associated with required changes in system performance, but not costs ordinarily associated with doing business abroad.
 

@@ -17,11 +17,11 @@
 
     (a) __Limitation.—__ 
 
-        (1) __Solicitation of comment.—__ 
+        (1)  __Solicitation of comment__  __.—__ 
 
         As part of the evaluation of the costs and benefits of entering into an obligation to conduct a space mission in which a foreign entity will participate as a supplier of the spacecraft, spacecraft system, or launch system, the Administrator shall solicit comment on the potential impact of such participation through notice published in Commerce Business Daily at least 45 days before entering into such an obligation.
 
-        (2) __Agreements with people’s republic of china.—__ 
+        (2)  __Agreements with people’s republic of china__  __.—__ 
 
         The Administrator shall certify to Congress at least 15 days in advance of any cooperative agreement with the People’s Republic of China, or any company owned by the People’s Republic of China or incorporated under the laws of the People’s Republic of China, involving spacecraft, spacecraft systems, launch systems, or scientific or technical information, that—
 
@@ -29,13 +29,13 @@
 
             (B) the agreement, including any indirect technical benefit that could be derived from the agreement, will not improve the missile or space launch capabilities of the People’s Republic of China.
 
-        (3) __Annual audit.—__ 
+        (3)  __Annual audit__  __.—__ 
 
         The Inspector General of the Administration, in consultation with appropriate agencies, shall conduct an annual audit of the policies and procedures of the Administration with respect to the export of technologies and the transfer of scientific and technical information, to assess the extent to which the Administration is carrying out its activities in compliance with Federal export control laws and with paragraph (2).
 
     (b) __National Interests.—__ 
 
-        (1) __Definition of united states commercial provider.—__ 
+        (1)  __Definition of united states commercial provider__  __.—__ 
 
         In this subsection, the term “United States commercial provider” means a commercial provider (as defined in [section 30308(a) of this title][/us/usc/t51/s30308/a]), organized under the laws of the United States or of a State (as defined in [section 30308(a) of this title][/us/usc/t51/s30308/a]), which is—
 
@@ -63,11 +63,11 @@
 
                     (III) providing adequate and effective protection for the intellectual property rights of companies described in subparagraph (A).
 
-        (2) __In general.—__ 
+        (2)  __In general__  __.—__ 
 
         Before entering into an obligation described in subsection (a), the Administrator shall consider the national interests of the United States described in paragraph (3) of this subsection.
 
-        (3) __Description of national interests.—__ 
+        (3)  __Description of national interests__  __.—__ 
 
         International cooperation in space exploration and science activities most effectively serves the United States national interest when it—
 
@@ -187,7 +187,7 @@ Pub. L. 106–391, title I, § 126, Oct. 30, 2000, 114 Stat. 1585.  </td>
 
 [Pub. L. 112–239, div. A, title IX, § 913(a)][/us/pl/112/239/s913/a], (b), Jan. 2, 2013, [126 Stat. 1874][/us/stat/126/1874], provided that:
 
->     “(a) __Certification Required.—__ 
+>     “(a)  __Certification Required__  __.—__ 
 
 >     If the United States becomes a signatory to a non-legally binding international agreement concerning an International Code of Conduct for Outer Space Activities or any similar agreement, at the same time as the United States becomes such a signatory—
 
@@ -195,27 +195,27 @@ Pub. L. 106–391, title I, § 126, Oct. 30, 2000, 114 Stat. 1585.  </td>
 
 >         “(2) the Secretary of Defense, the Chairman of the Joint Chiefs of Staff, and the Director of National Intelligence shall jointly submit to the congressional defense committees a certification that such agreement will be equitable, enhance national security, and have no militarily significant impact on the ability of the United States to conduct military or intelligence activities in space.
 
->     “(b) __Briefings and Notifications Required.—__ 
+>     “(b)  __Briefings and Notifications Required__  __.—__ 
 
->         “(1) __Restatement of policy formulation under the arms control and disarmament act with respect to outer space.—__ 
+>         “(1)  __Restatement of policy formulation under the arms control and disarmament act with respect to outer space__  __.—__ 
 
 >         No action shall be taken that would obligate the United States to reduce or limit the Armed Forces or armaments of the United States in outer space in a militarily significant manner, except pursuant to the treaty-making power of the President set forth in Article II, Section 2, Clause II of the Constitution or unless authorized by the enactment of further affirmative legislation by the Congress of the United States.
 
->         “(2) __Briefings.—__ 
+>         “(2)  __Briefings__  __.—__ 
 
->             “(A) __Requirement.—__ 
+>             “(A)  __Requirement__  __.—__ 
 
 >             The Secretary of Defense, the Secretary of State, and the Director of National Intelligence shall jointly provide to the covered congressional committees regular, detailed updates on the negotiation of a non-legally binding international agreement concerning an International Code of Conduct for Outer Space Activities or any similar agreement.
 
->             “(B) __Termination of requirement.—__ 
+>             “(B)  __Termination of requirement__  __.—__ 
 
 >             The requirement to provide regular briefings under subparagraph (A) shall terminate on the date on which the United States becomes a signatory to an agreement referred to in subparagraph (A), or on the date on which the President certifies to Congress that the United States is no longer negotiating an agreement referred to in subparagraph (A), whichever is earlier.
 
->         “(3) __Notifications.—__ 
+>         “(3)  __Notifications__  __.—__ 
 
 >         If the United States becomes a signatory to a non-legally binding international agreement concerning an International Code of Conduct for Outer Space Activities or any similar agreement, not less than 60 days prior to any action that will obligate the United States to reduce or limit the Armed Forces or armaments or activities of the United States in outer space, the head of each Department or agency of the Federal Government that is affected by such action shall submit to Congress notice of such action and the effect of such action on such Department or agency.
 
->         “(4) __Definition.—__ 
+>         “(4)  __Definition__  __.—__ 
 
 >         In this subsection, the term ‘covered congressional committees’ means—
 

@@ -17,15 +17,15 @@
 
     In this chapter:
 
-    (1) __Agency.—__ 
+    (1)  __Agency__  __.—__ 
 
     The term “agency” means an executive agency as defined in [section 105 of title 5][/us/usc/t5/s105].
 
-    (2) __Anchor tenancy.—__ 
+    (2)  __Anchor tenancy__  __.—__ 
 
     The term “anchor tenancy” means an arrangement in which the United States Government agrees to procure sufficient quantities of a commercial space product or service needed to meet Government mission requirements so that a commercial venture is made viable.
 
-    (3) __Commercial.—__ 
+    (3)  __Commercial__  __.—__ 
 
     The term “commercial” means having—
 
@@ -33,47 +33,47 @@
 
         (B) primary financial and management responsibility for the activity reside with the private sector.
 
-    (4) __Cost effective.—__ 
+    (4)  __Cost effective__  __.—__ 
 
     The term “cost effective” means costing no more than the available alternatives, determined by a comparison of all related direct and indirect costs including, in the case of Government costs, applicable Government labor and overhead costs as well as contractor charges, and taking into account the ability of each alternative to accommodate mission requirements as well as the related factors of risk, reliability, schedule, and technical performance.
 
-    (5) __Launch.—__ 
+    (5)  __Launch__  __.—__ 
 
     The term “launch” means to place, or attempt to place, a launch vehicle and its payload, if any, in a suborbital trajectory, in Earth orbit in outer space, or otherwise in outer space.
 
-    (6) __Launch services.—__ 
+    (6)  __Launch services__  __.—__ 
 
     The term “launch services” means activities involved in the preparation of a launch vehicle and its payload for launch and the conduct of a launch.
 
-    (7) __Launch support facilities.—__ 
+    (7)  __Launch support facilities__  __.—__ 
 
     The term “launch support facilities” means facilities located at launch sites or launch ranges that are required to support launch activities, including launch vehicle assembly, launch vehicle operations and control, communications, flight safety functions, and payload operations, control, and processing.
 
-    (8) __Launch vehicle.—__ 
+    (8)  __Launch vehicle__  __.—__ 
 
     The term “launch vehicle” means any vehicle constructed for the purpose of operating in or placing a payload in outer space or in suborbital trajectories, and includes components of that vehicle.
 
-    (9) __Payload.—__ 
+    (9)  __Payload__  __.—__ 
 
     The term “payload” means an object which a person undertakes to launch, and includes subcomponents of the launch vehicle specifically designed or adapted for that object.
 
-    (10) __Payload integration services.—__ 
+    (10)  __Payload integration services__  __.—__ 
 
     The term “payload integration services” means activities involved in integrating multiple payloads into a single payload for launch or integrating a payload with a launch vehicle.
 
-    (11) __Space recovery support facilities.—__ 
+    (11)  __Space recovery support facilities__  __.—__ 
 
     The term “space recovery support facilities” means facilities required to support activities related to the recovery of payloads returned from space to a space recovery site, including operations and control, communications, flight safety functions, and payload processing.
 
-    (12) __Space transportation infrastructure.—__ 
+    (12)  __Space transportation infrastructure__  __.—__ 
 
     The term “space transportation infrastructure” means facilities, associated equipment, and real property (including launch sites, launch support facilities, space recovery sites, and space recovery support facilities) required to perform launch or space recovery activities.
 
-    (13) __State.—__ 
+    (13)  __State__  __.—__ 
 
     The term “State” means the several States, the District of Columbia, Puerto Rico, American Samoa, the United States Virgin Islands, Guam, the Northern Mariana Islands, and any other commonwealth, territory, or possession of the United States.
 
-    (14) __United states.—__ 
+    (14)  __United states__  __.—__ 
 
     The term “United States” means the States, collectively.
 

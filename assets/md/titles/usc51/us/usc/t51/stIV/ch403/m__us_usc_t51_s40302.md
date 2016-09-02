@@ -17,31 +17,31 @@
 
     In this chapter:
 
-    (1) __Aeronautical and space activities.—__ 
+    (1)  __Aeronautical and space activities__  __.—__ 
 
     The term “aeronautical and space activities” has the meaning given the term in [section 20103 of this title][/us/usc/t51/s20103].
 
-    (2) __Field related to space.—__ 
+    (2)  __Field related to space__  __.—__ 
 
     The term “field related to space” means any academic discipline or field of study (including the physical, natural, and biological sciences, and engineering, space technology, education, economics, sociology, communications, planning, law, international affairs, and public administration) which is concerned with or likely to improve the understanding, assessment, development, and utilization of space.
 
-    (3) __Panel.—__ 
+    (3)  __Panel__  __.—__ 
 
     The term “panel” means the space grant review panel established pursuant to [section 40308 of this title][/us/usc/t51/s40308].
 
-    (4) __Person.—__ 
+    (4)  __Person__  __.—__ 
 
     The term “person” means any individual, any public or private corporation, partnership, or other association or entity (including any space grant college, space grant regional consortium, institution of higher education, institute, or laboratory), or any State, political subdivision of a State, or agency or officer of a State or political subdivision of a State.
 
-    (5) __Space environment.—__ 
+    (5)  __Space environment__  __.—__ 
 
     The term “space environment” means the environment beyond the sensible atmosphere of the Earth.
 
-    (6) __Space grant college.—__ 
+    (6)  __Space grant college__  __.—__ 
 
     The term “space grant college” means any public or private institution of higher education which is designated as such by the Administrator pursuant to [section 40306 of this title][/us/usc/t51/s40306].
 
-    (7) __Space grant program.—__ 
+    (7)  __Space grant program__  __.—__ 
 
     The term “space grant program” means any program that—
 
@@ -57,11 +57,11 @@
 
             (iii) Advisory services.
 
-    (8) __Space grant regional consortium.—__ 
+    (8)  __Space grant regional consortium__  __.—__ 
 
     The term “space grant regional consortium” means any association or other alliance that is designated as a space grant regional consortium by the Administrator pursuant to [section 40306 of this title][/us/usc/t51/s40306].
 
-    (9) __Space resource.—__ 
+    (9)  __Space resource__  __.—__ 
 
     The term “space resource” means any tangible or intangible benefit which can be realized only from—
 
@@ -69,7 +69,7 @@
 
         (B) advancements in any field related to space.
 
-    (10) __State.—__ 
+    (10)  __State__  __.—__ 
 
     The term “State” means any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, or any other territory or possession of the United States.
 

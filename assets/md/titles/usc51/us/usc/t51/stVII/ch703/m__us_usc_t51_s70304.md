@@ -15,29 +15,29 @@
 
 ## § 70304. Duties of Administrator
 
-    (a) __Establishment and Implementation of Reimbursement Recovery System.—__ 
+    (a)  __Establishment and Implementation of Reimbursement Recovery System__  __.—__ 
 
     The Administrator shall establish and implement a pricing system to recover reimbursement in accordance with the pricing policy under [section 70302 of this title][/us/usc/t51/s70302] from each commercial or foreign user of the Space Transportation System, which, except as provided in subsections (c), (d), and (e), shall include a base price of not less than $74,000,000 for each flight of the Space Transportation System in 1982 dollars.
 
-    (b) __Reports to Congress.—__ 
+    (b)  __Reports to Congress__  __.—__ 
 
     Each year the Administrator shall submit to the President of the Senate, the Speaker of the House of Representatives, the Committee on Commerce, Science, and Transportation of the Senate, and the Committee on Science and Technology of the House of Representatives a report, transmitted contemporaneously with the annual budget request of the President, which shall inform Congress how the policy goals contained in [section 70302 of this title][/us/usc/t51/s70302] are being furthered by the shuttle price for foreign and commercial users.
 
     (c) __Reduction of Base Price.—__ 
 
-        (1) __Authority to reduce.—__ 
+        (1)  __Authority to reduce__  __.—__ 
 
         If at any time the Administrator finds that the policy goals contained in [section 70302 of this title][/us/usc/t51/s70302] are not being achieved, the Administrator shall have authority to reduce the base price established in subsection (a) after 45 days following receipt by the President of the Senate, the Speaker of the House of Representatives, the Committee on Commerce, Science, and Transportation of the Senate, and the Committee on Science and Technology of the House of Representatives of a notice by the Administrator containing a description of the proposed reduction together with a full and complete statement of the facts and circumstances which necessitate such proposed reduction.
 
-        (2) __Minimum price.—__ 
+        (2)  __Minimum price__  __.—__ 
 
         In no case shall the minimum price established under paragraph (1) be less than additive cost.
 
-    (d) __Low or No-Cost Flights.—__ 
+    (d)  __Low or No-Cost Flights__  __.—__ 
 
     The Administrator may set a price lower than the price determined under subsection (a) or (c), or provide no-cost flights, for any commercial or foreign user of the Space Transportation System that is involved in research, development, or demonstration programs with the Administration.
 
-    (e) __Customer Incentives.—__ 
+    (e)  __Customer Incentives__  __.—__ 
 
     Notwithstanding the provisions of subsection (a), the Administrator shall have the authority to offer reasonable customer incentives consistent with the policy goals in [section 70302 of this title][/us/usc/t51/s70302].
 
@@ -99,15 +99,15 @@ Pub. L. 99–170, title II, § 204, Dec. 5, 1985, 99 Stat. 1017; Pub. L. 103�
 
 [Pub. L. 109–155, title VI, § 602][/us/pl/109/155/s602], Dec. 30, 2005, [119 Stat. 2931][/us/stat/119/2931], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     In order to provide more routine and affordable access to space for a broad range of scientific payloads, the Administrator is encouraged to provide the capabilities to support secondary payload flight opportunities on United States launch vehicles, or free flyers, for satellites or scientific payloads weighing less than 500 kilograms.
 
->     “(b) __Feasibility study.—__ 
+>     “(b)  __Feasibility study__  __.—__ 
 
 >     The Administrator shall initiate a feasibility study for designating a National Free Flyer Launch Coordination Center as a means of coordinating, consolidating, and integrating secondary launch capabilities, launch opportunities, and payloads.
 
->     “(c) __Assessment.—__ 
+>     “(c)  __Assessment__  __.—__ 
 
 >     The feasibility study required by subsection (b) shall include an assessment of the feasibility of integrating a National Free Flyer Launch Coordination Center within the operations and facilities of an existing nonprofit organization such as the Inland Northwest Space Alliance in Missoula, Montana, or a similar entity, and shall include an assessment of the potential utilization of existing launch and launch support facilities and capabilities, including but not limited to those in the States of Montana and New Mexico and their respective contiguous States, and the State of Alaska, for the integration and launch of secondary payloads, including an assessment of the feasibility of establishing cooperative agreements among such facilities, existing or future commercial launch providers, payload developers, and the designated Coordination Center.”
 

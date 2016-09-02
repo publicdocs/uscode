@@ -15,11 +15,11 @@
 
 ## § 40905. Program to expand distance learning in rural underserved areas
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     The Administrator shall develop or expand programs to extend science and space educational outreach to rural communities and schools through video conferencing, interpretive exhibits, teacher education, classroom presentations, and student field trips.
 
-    (b) __Priorities.—__ 
+    (b)  __Priorities__  __.—__ 
 
     In carrying out subsection (a), the Administrator shall give priority to existing programs, including Challenger Learning Centers—
 

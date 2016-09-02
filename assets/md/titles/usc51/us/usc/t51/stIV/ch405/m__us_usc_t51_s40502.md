@@ -15,11 +15,11 @@
 
 ## § 40502. Biomedical research grants
 
-    (a) __Establishment of Program.—__ 
+    (a)  __Establishment of Program__  __.—__ 
 
     The Administrator and the Director of the National Institutes of Health shall establish a joint program of biomedical research grants in areas described in [section 40501(a) of this title][/us/usc/t51/s40501/a], where such research requires access to a microgravity environment. Such program shall be consistent with actions taken by the joint working group under [section 40501 of this title][/us/usc/t51/s40501].
 
-    (b) __Research Opportunity Announcements.—__ 
+    (b)  __Research Opportunity Announcements__  __.—__ 
 
     The grants program established under subsection (a) shall annually issue joint research opportunity announcements under the sponsorship of the National Institutes of Health and the Administration. Responses to the announcements shall be evaluated by a peer review committee whose members shall be selected by the Director of the National Institutes of Health and the Administrator, and shall include individuals not employed by the Administration or the National Institutes of Health.
 

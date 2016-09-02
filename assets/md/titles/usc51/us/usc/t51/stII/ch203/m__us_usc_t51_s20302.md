@@ -15,11 +15,11 @@
 
 ## § 20302. Vision for space exploration
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     The Administrator shall establish a program to develop a sustained human presence on the Moon, including a robust precursor program, to promote exploration, science, commerce, and United States preeminence in space, and as a stepping-stone to future exploration of Mars and other destinations. The Administrator is further authorized to develop and conduct appropriate international collaborations in pursuit of these goals.
 
-    (b) __Milestones.—__ 
+    (b)  __Milestones__  __.—__ 
 
     The Administrator shall manage human space flight programs to strive to achieve the following milestones (in conformity with [section 70502 of this title][/us/usc/t51/s70502]):
 

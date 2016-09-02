@@ -15,11 +15,11 @@
 
 ## § 50907. Monitoring activities
 
-    (a) __General Requirements.—__ 
+    (a)  __General Requirements__  __.—__ 
 
     A licensee under this chapter must allow the Secretary of Transportation to place an officer or employee of the United States Government or another individual as an observer at a launch site or reentry site the licensee uses, at a production facility or assembly site a contractor of the licensee uses to produce or assemble a launch vehicle or reentry vehicle, at a site used for crew or space flight participant training, or at a site at which a payload is integrated with a launch vehicle or reentry vehicle. The observer will monitor the activity of the licensee or contractor at the time and to the extent the Secretary considers reasonable to ensure compliance with the license or to carry out the duties of the Secretary under sections 50904(c), 50905, and 50906 of this title. A licensee must cooperate with an observer carrying out this subsection.
 
-    (b) __Contracts.—__ 
+    (b)  __Contracts__  __.—__ 
 
     To the extent provided in advance in an appropriation law, the Secretary may make a contract with a person to carry out subsection (a) of this section.
 

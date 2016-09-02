@@ -15,19 +15,19 @@
 
 ## § 50115. Sources of Earth science data
 
-    (a) __Acquisition.—__ 
+    (a)  __Acquisition__  __.—__ 
 
     The Administrator shall, to the extent possible and while satisfying the scientific or educational requirements of the Administration, and where appropriate, of other Federal agencies and scientific researchers, acquire, where cost-effective, space-based and airborne Earth remote sensing data, services, distribution, and applications from a commercial provider.
 
-    (b) __Treatment as Commercial Item Under Acquisition Laws.—__ 
+    (b)  __Treatment as Commercial Item Under Acquisition Laws__  __.—__ 
 
     Acquisitions by the Administrator of the data, services, distribution, and applications referred to in subsection (a) shall be carried out in accordance with applicable acquisition laws and regulations (including chapters 137 and 140 of title 10). For purposes of such law and regulations, such data, services, distribution, and applications shall be considered to be a commercial item. Nothing in this subsection shall be construed to preclude the United States from acquiring, through contracts with commercial providers, sufficient rights in data to meet the needs of the scientific and educational community or the needs of other government activities.
 
-    (c) __Safety Standards.—__ 
+    (c)  __Safety Standards__  __.—__ 
 
     Nothing in this section shall be construed to prohibit the Federal Government from requiring compliance with applicable safety standards.
 
-    (d) __Administration and Execution.—__ 
+    (d)  __Administration and Execution__  __.—__ 
 
     This section shall be carried out as part of the Commercial Remote Sensing Program at the Stennis Space Center.
 

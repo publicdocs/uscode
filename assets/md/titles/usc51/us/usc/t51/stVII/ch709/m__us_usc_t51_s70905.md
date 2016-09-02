@@ -15,7 +15,7 @@
 
 ## § 70905. National laboratory designation
 
-    (a) __Definition of United States Segment of the International Space Station.—__ 
+    (a)  __Definition of United States Segment of the International Space Station__  __.—__ 
 
     In this section the term “United States segment of the International Space Station” means those elements of the International Space Station manufactured—
 
@@ -23,17 +23,17 @@
 
         (2) for the United States by other nations in exchange for funds or launch services.
 
-    (b) __Designation.—__ 
+    (b)  __Designation__  __.—__ 
 
     To further the policy described in [section 70501(a) of this title][/us/usc/t51/s70501/a], the United States segment of the International Space Station is hereby designated a national laboratory.
 
     (c) __Management.—__ 
 
-        (1) __Partnerships.—__ 
+        (1)  __Partnerships__  __.—__ 
 
         The Administrator shall seek to increase the utilization of the International Space Station by other Federal entities and the private sector through partnerships, cost-sharing agreements, and other arrangements that would supplement Administration funding of the International Space Station.
 
-        (2) __Contracting.—__ 
+        (2)  __Contracting__  __.—__ 
 
         The Administrator may enter into a contract with a nongovernmental entity to operate the International Space Station national laboratory, subject to all applicable Federal laws and regulations.
 

@@ -15,11 +15,11 @@
 
 ## § 31302. Astronaut healthcare survey
 
-    (a) __Survey.—__ 
+    (a)  __Survey__  __.—__ 
 
     The Administrator shall administer an anonymous survey of astronauts and flight surgeons to evaluate communication, relationships, and the effectiveness of policies. The survey questions and the analysis of results shall be evaluated by experts independent of the Administration. The survey shall be administered on at least a biennial basis.
 
-    (b) __Report.—__ 
+    (b)  __Report__  __.—__ 
 
     The Administrator shall transmit a report of the results of the survey to Congress not later than 90 days following completion of the survey.
 

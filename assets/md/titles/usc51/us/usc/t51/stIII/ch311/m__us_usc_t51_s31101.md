@@ -15,15 +15,15 @@
 
 ## § 31101. Aerospace Safety Advisory Panel
 
-    (a) __Establishment and Members.—__ 
+    (a)  __Establishment and Members__  __.—__ 
 
     There is established an Aerospace Safety Advisory Panel consisting of a maximum of 9 members who shall be appointed by the Administrator for terms of 6 years each. Not more than 4 such members shall be chosen from among the officers and employees of the Administration.
 
-    (b) __Chairman.—__ 
+    (b)  __Chairman__  __.—__ 
 
     One member shall be designated by the Panel as its Chairman.
 
-    (c) __Duties.—__ 
+    (c)  __Duties__  __.—__ 
 
     The Panel shall—
 
@@ -45,19 +45,19 @@
 
         (1) __Compensation.—__ 
 
-            (A) __Federal officers and employees.—__ 
+            (A)  __Federal officers and employees__  __.—__ 
 
             A member of the Panel who is an officer or employee of the Federal Government shall receive no compensation for the member’s services as such.
 
-            (B) __Members appointed from outside the federal government.—__ 
+            (B)  __Members appointed from outside the federal government__  __.—__ 
 
             A member of the Panel appointed from outside the Federal Government shall receive compensation, at a rate not to exceed the per diem rate equivalent to the maximum rate payable under [section 5376 of title 5][/us/usc/t5/s5376], for each day the member is engaged in the actual performance of duties vested in the Panel.
 
-        (2) __Expenses.—__ 
+        (2)  __Expenses__  __.—__ 
 
         A member of the Panel shall be allowed necessary travel expenses (or in the alternative, mileage for use of a privately owned vehicle and a per diem in lieu of subsistence not to exceed the rate and amount prescribed in sections 5702 and 5704 of title 5), and other necessary expenses incurred by the member in the performance of duties vested in the Panel, without regard to the provisions of subchapter I of chapter 57 of title 5, the Standardized Government Travel Regulations, or [section 5731 of title 5][/us/usc/t5/s5731].
 
-    (e) __Annual Report.—__ 
+    (e)  __Annual Report__  __.—__ 
 
     The Panel shall submit an annual report to the Administrator and to Congress. In the first annual report submitted after December 30, 2005, the Panel shall include an evaluation of the Administration’s management and culture related to safety. Each annual report shall include an evaluation of the Administration’s compliance with the recommendations of the Columbia Accident Investigation Board through retirement of the space shuttle.
 

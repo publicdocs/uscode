@@ -17,19 +17,19 @@
 
     In this chapter:
 
-    (1) __Commercial provider.—__ 
+    (1)  __Commercial provider__  __.—__ 
 
     The term “commercial provider” means any person or entity providing commercial reusable in-orbit space transportation services or systems, primary control of which is held by persons other than the Federal Government, a State or local government, or a foreign government.
 
-    (2) __In-space transportation services.—__ 
+    (2)  __In-space transportation services__  __.—__ 
 
     The term “in-space transportation services” means operations and activities involved in the direct transportation or attempted transportation of a payload or object from one orbit to another by means of an in-space transportation vehicle.
 
-    (3) __In-space transportation system.—__ 
+    (3)  __In-space transportation system__  __.—__ 
 
     The term “in-space transportation system” means the space and ground elements, including in-space transportation vehicles and support space systems, and ground administration and control facilities and associated equipment, necessary for the provision of in-space transportation services.
 
-    (4) __In-space transportation vehicle.—__ 
+    (4)  __In-space transportation vehicle__  __.—__ 
 
     The term “in-space transportation vehicle” means a vehicle designed—
 
@@ -39,11 +39,11 @@
 
         (C) to be reusable and refueled in space.
 
-    (5) __Secretary.—__ 
+    (5)  __Secretary__  __.—__ 
 
     The term “Secretary” means the Secretary of Defense.
 
-    (6) __United states commercial provider.—__ 
+    (6)  __United states commercial provider__  __.—__ 
 
     The term “United States commercial provider” means any commercial provider organized under the laws of the United States that is more than 50 percent owned by United States nationals.
 

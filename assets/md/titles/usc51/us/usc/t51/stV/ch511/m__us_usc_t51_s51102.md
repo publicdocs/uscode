@@ -15,11 +15,11 @@
 
 ## § 51102. Grant authority
 
-    (a) __General Authority.—__ 
+    (a)  __General Authority__  __.—__ 
 
     To ensure the resiliency of the space transportation infrastructure of the United States, the Secretary of Transportation may make project grants to sponsors as provided in this chapter.
 
-    (b) __Limitations.—__ 
+    (b)  __Limitations__  __.—__ 
 
     The Secretary may make a project grant under this chapter only if—
 

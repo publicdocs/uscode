@@ -15,19 +15,19 @@
 
 ## § 20102. Congressional declaration of policy and purpose
 
-    (a) __Devotion of Space Activities to Peaceful Purposes for Benefit of All Humankind.—__ 
+    (a)  __Devotion of Space Activities to Peaceful Purposes for Benefit of All Humankind__  __.—__ 
 
     Congress declares that it is the policy of the United States that activities in space should be devoted to peaceful purposes for the benefit of all humankind.
 
-    (b) __Aeronautical and Space Activities for Welfare and Security of United States.—__ 
+    (b)  __Aeronautical and Space Activities for Welfare and Security of United States__  __.—__ 
 
     Congress declares that the general welfare and security of the United States require that adequate provision be made for aeronautical and space activities. Congress further declares that such activities shall be the responsibility of, and shall be directed by, a civilian agency exercising control over aeronautical and space activities sponsored by the United States, except that activities peculiar to or primarily associated with the development of weapons systems, military operations, or the defense of the United States (including the research and development necessary to make effective provision for the defense of the United States) shall be the responsibility of, and shall be directed by, the Department of Defense; and that determination as to which agency has responsibility for and direction of any such activity shall be made by the President.
 
-    (c) __Commercial Use of Space.—__ 
+    (c)  __Commercial Use of Space__  __.—__ 
 
     Congress declares that the general welfare of the United States requires that the Administration seek and encourage, to the maximum extent possible, the fullest commercial use of space.
 
-    (d) __Objectives of Aeronautical and Space Activities.—__ 
+    (d)  __Objectives of Aeronautical and Space Activities__  __.—__ 
 
     The aeronautical and space activities of the United States shall be conducted so as to contribute materially to one or more of the following objectives:
 
@@ -49,19 +49,19 @@
 
         (9) The preservation of the United States preeminent position in aeronautics and space through research and technology development related to associated manufacturing processes.
 
-    (e) __Ground Propulsion Systems Research and Development.—__ 
+    (e)  __Ground Propulsion Systems Research and Development__  __.—__ 
 
     Congress declares that the general welfare of the United States requires that the unique competence in scientific and engineering systems of the Administration also be directed toward ground propulsion systems research and development. Such development shall be conducted so as to contribute to the objectives of developing energy and petroleum-conserving ground propulsion systems, and of minimizing the environmental degradation caused by such systems.
 
-    (f) __Bioengineering Research, Development, and Demonstration Programs.—__ 
+    (f)  __Bioengineering Research, Development, and Demonstration Programs__  __.—__ 
 
     Congress declares that the general welfare of the United States requires that the unique competence of the Administration in science and engineering systems be directed to assisting in bioengineering research, development, and demonstration programs designed to alleviate and minimize the effects of disability.
 
-    (g) __Warning and Mitigation of Potential Hazards of Near-Earth Objects.—__ 
+    (g)  __Warning and Mitigation of Potential Hazards of Near-Earth Objects__  __.—__ 
 
     Congress declares that the general welfare and security of the United States require that the unique competence of the Administration be directed to detecting, tracking, cataloguing, and characterizing near-Earth asteroids and comets in order to provide warning and mitigation of the potential hazard of such near-Earth objects to the Earth.
 
-    (h) __Purpose of Chapter.—__ 
+    (h)  __Purpose of Chapter__  __.—__ 
 
     It is the purpose of this chapter to carry out and effectuate the policies declared in subsections (a) to (g).
 

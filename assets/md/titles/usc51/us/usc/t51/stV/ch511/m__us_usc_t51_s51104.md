@@ -15,21 +15,21 @@
 
 ## § 51104. Environmental requirements
 
-    (a) __Policy.—__ 
+    (a)  __Policy__  __.—__ 
 
     It is the policy of the United States that projects selected under this chapter shall provide for the protection and enhancement of the natural resources and the quality of the environment of the United States. In carrying out this policy, the Secretary of Transportation shall consult with the Secretary of the Interior and the Administrator of the Environmental Protection Agency about a project that may have a significant effect on natural resources, including fish and wildlife, natural, scenic, and recreational assets, water and air quality, and other factors affecting the environment. If the Secretary of Transportation finds that a project will have a significant adverse effect, the Secretary may approve the application for the project only if, after a complete review that is a matter of public record, the Secretary makes a written finding that no feasible and prudent alternative to the project exists and that all reasonable steps have been taken to minimize the adverse effect.
 
-    (b) __Public Hearing Requirement.—__ 
+    (b)  __Public Hearing Requirement__  __.—__ 
 
     The Secretary of Transportation may approve an application only if the sponsor of the project certifies to the Secretary that an opportunity for a public hearing has been provided to consider the economic, social, and environmental effects of the project and its consistency with the goals of any planning carried out by the community. When a hearing is held under this paragraph, the sponsor shall submit a copy of the transcript of the hearing to the Secretary.
 
-    (c) __Compliance With Air and Water Quality Standards.—__ 
+    (c)  __Compliance With Air and Water Quality Standards__  __.—__ 
 
         (1) The Secretary of Transportation may approve an application only if the chief executive officer of the State in which the project is located certifies in writing to the Secretary that there is reasonable assurance that the project will be located, designed, constructed, and operated to comply with applicable air and water quality standards. If the Administrator has not prescribed those standards, certification shall be obtained from the Administrator. Notice of certification or refusal to certify shall be provided not later than 60 days after the Secretary receives the application.
 
         (2) The Secretary of Transportation shall condition the approval of an application on compliance with applicable air and water quality standards during construction and operation.
 
-    (d) __Compliance With Laws and Regulations.—__ 
+    (d)  __Compliance With Laws and Regulations__  __.—__ 
 
     The Secretary of Transportation may require a certification from a sponsor that the sponsor will comply with all applicable laws and regulations. The Secretary may rescind at any time acceptance of a certification from a sponsor under this subsection. This subsection does not affect any responsibility of the Secretary under another law, including—
 

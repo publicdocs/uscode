@@ -15,11 +15,11 @@
 
 ## § 60304. Program evaluation
 
-    (a) __Advisory Committee.—__ 
+    (a)  __Advisory Committee__  __.—__ 
 
     The Administrator shall establish an advisory committee, consisting of individuals with appropriate expertise in State, local, regional, and tribal agencies, the university research community, and the remote sensing and other geospatial information industries, to monitor the program established under [section 60303 of this title][/us/usc/t51/s60303]. The advisory committee shall consult with the Federal Geographic Data Committee and other appropriate industry representatives and organizations. Notwithstanding section 14 of the Federal Advisory Committee Act (5 App. U.S.C.), the advisory committee established under this subsection shall remain in effect until the termination of the program under [section 60303 of this title][/us/usc/t51/s60303].
 
-    (b) __Effectiveness Evaluation.—__ 
+    (b)  __Effectiveness Evaluation__  __.—__ 
 
     Not later than December 31, 2009, the Administrator shall transmit to Congress an evaluation of the effectiveness of the program established under [section 60303 of this title][/us/usc/t51/s60303] in exploring and promoting the integrated use of sources of remote sensing and other geospatial information to address State, local, regional, and tribal agency needs. Such evaluation shall have been conducted by an independent entity.
 

@@ -17,11 +17,11 @@
 
     In this chapter:
 
-    (1) __Cost of fulfilling user requests.—__ 
+    (1)  __Cost of fulfilling user requests__  __.—__ 
 
     The term “cost of fulfilling user requests” means the incremental costs associated with providing product generation, reproduction, and distribution of unenhanced data in response to user requests and shall not include any acquisition, amortization, or depreciation of capital assets originally paid for by the United States Government or other costs not specifically attributable to fulfilling user requests.
 
-    (2) __Data continuity.—__ 
+    (2)  __Data continuity__  __.—__ 
 
     The term “data continuity” means the continued acquisition and availability of unenhanced data which are, from the point of view of the user—
 
@@ -29,7 +29,7 @@
 
         (B) compatible with such data and with methods used to receive and process such data.
 
-    (3) __Data preprocessing.—__ 
+    (3)  __Data preprocessing__  __.—__ 
 
     The term “data preprocessing”—
 
@@ -45,11 +45,11 @@
 
         (B) does not include conclusions, manipulations, or calculations derived from such data, or a combination of such data with other data.
 
-    (4) __Land remote sensing.—__ 
+    (4)  __Land remote sensing__  __.—__ 
 
     The term “land remote sensing” means the collection of data which can be processed into imagery of surface features of the Earth from an unclassified satellite or satellites, other than an operational United States Government weather satellite.
 
-    (5) __Landsat program management.—__ 
+    (5)  __Landsat program management__  __.—__ 
 
     The term “Landsat Program Management” means the integrated program management structure—
 
@@ -57,23 +57,23 @@
 
         (B) consisting of appropriate officers and employees of the Administration, the Department of Defense, and any other United States Government agencies the President designates as responsible for the Landsat program.
 
-    (6) __Landsat system.—__ 
+    (6)  __Landsat system__  __.—__ 
 
     The term “Landsat system” means Landsats 1, 2, 3, 4, 5, and 6, and any follow-on land remote sensing system operated and owned by the United States Government, along with any related ground equipment, systems, and facilities owned by the United States Government.
 
-    (7) __Landsat 6 contractor.—__ 
+    (7)  __Landsat 6 contractor__  __.—__ 
 
     The term “Landsat 6 contractor” means the private sector entity which was awarded the contract for spacecraft construction, operations, and data marketing rights for the Landsat 6 spacecraft.
 
-    (8) __Landsat 7.—__ 
+    (8)  __Landsat 7__  __.—__ 
 
     The term “Landsat 7” means the follow-on satellite to Landsat 6.
 
-    (9) __National satellite land remote sensing data archive.—__ 
+    (9)  __National satellite land remote sensing data archive__  __.—__ 
 
     The term “National Satellite Land Remote Sensing Data Archive” means the archive established by the Secretary of the Interior pursuant to the archival responsibilities defined in [section 60142 of this title][/us/usc/t51/s60142].
 
-    (10) __Noncommercial purposes.—__ 
+    (10)  __Noncommercial purposes__  __.—__ 
 
     The term “noncommercial purposes” means activities undertaken by individuals or entities on the condition, upon receipt of unenhanced data, that—
 
@@ -83,15 +83,15 @@
 
         (C) such data shall not be distributed in competition with unenhanced data provided by the Landsat 6 contractor.
 
-    (11) __Secretary.—__ 
+    (11)  __Secretary__  __.—__ 
 
     The term “Secretary” means the Secretary of Commerce.
 
-    (12) __Unenhanced data.—__ 
+    (12)  __Unenhanced data__  __.—__ 
 
     The term “unenhanced data” means land remote sensing signals or imagery products that are unprocessed or subject only to data preprocessing.
 
-    (13) __United states government and its affiliated users.—__ 
+    (13)  __United states government and its affiliated users__  __.—__ 
 
     The term “United States Government and its affiliated users” means—
 

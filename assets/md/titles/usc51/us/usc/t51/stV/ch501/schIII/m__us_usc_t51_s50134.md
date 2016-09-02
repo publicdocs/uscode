@@ -15,7 +15,7 @@
 
 ## § 50134. Use of excess intercontinental ballistic missiles
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     The Federal Government shall not—
 
@@ -25,7 +25,7 @@
 
     (b) __Authorized Federal Uses.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         A missile described in subsection (c) may be converted for use as a space transportation vehicle by the Federal Government if, except as provided in paragraph (2) and at least 30 days before such conversion, the agency seeking to use the missile as a space transportation vehicle transmits to the Committee on Armed Services and the Committee on Science and Technology of the House of Representatives, and to the Committee on Armed Services and the Committee on Commerce, Science, and Transportation of the Senate, a certification that the use of such missile—
 
@@ -37,11 +37,11 @@
 
             (D) is approved by the Secretary of Defense or the designee of the Secretary of Defense.
 
-        (2) __Exception to requirement that certification be transmitted 30 days before conversion.—__ 
+        (2)  __Exception to requirement that certification be transmitted 30 days before conversion__  __.—__ 
 
         The requirement under paragraph (1) that the certification described in that paragraph must be transmitted at least 30 days before conversion of the missile shall not apply if the Secretary of Defense determines that compliance with that requirement would be inconsistent with meeting immediate national security requirements.
 
-    (c) __Missiles Referred to.—__ 
+    (c)  __Missiles Referred to__  __.—__ 
 
     The missiles referred to in this section are missiles owned by the United States that—
 

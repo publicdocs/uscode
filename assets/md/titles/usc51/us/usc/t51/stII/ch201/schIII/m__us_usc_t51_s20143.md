@@ -17,21 +17,21 @@
 
     (a) __Accounts for Appropriations.—__ 
 
-        (1) __Designation of 3 accounts.—__ 
+        (1)  __Designation of 3 accounts__  __.—__ 
 
         Appropriations for the Administration shall be made in 3 accounts, “Science, Aeronautics, and Education”, “Exploration Systems and Space Operations”, and an account for amounts appropriated for the necessary expenses of the Office of the Inspector General.
 
-        (2) __Reprogramming.—__ 
+        (2)  __Reprogramming__  __.—__ 
 
         Within the Exploration Systems and Space Operations account, no more than 10 percent of the funds for a fiscal year for Exploration Systems may be reprogrammed for Space Operations, and no more than 10 percent of the funds for a fiscal year for Space Operations may be reprogrammed for Exploration Systems. This paragraph shall not apply to reprogramming for the purposes described in subsection (b)(2).
 
-        (3) __Availability.—__ 
+        (3)  __Availability__  __.—__ 
 
         Appropriations shall remain available for 2 fiscal years, unless otherwise specified in law. Each account shall include the planned full costs of Administration activities.
 
     (b) __Transfers Among Accounts.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         To ensure the safe, timely, and successful accomplishment of Administration missions, the Administration may transfer among accounts as necessary, amounts for—
 
@@ -49,11 +49,11 @@
 
             (G) other administrative services.
 
-        (2) __Disaster, act of terrorism, emergency rescue.—__ 
+        (2)  __Disaster, act of terrorism, emergency rescue__  __.—__ 
 
         The Administration may also transfer amounts among accounts for the immediate costs of recovering from damage caused by a major disaster (as defined in section 102 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act ([42 U.S.C. 5122][/us/usc/t42/s5122])) or by an act of terrorism, or for the immediate costs associated with an emergency rescue of astronauts.
 
-    (c) __Transfer of Unexpired Balances.—__ 
+    (c)  __Transfer of Unexpired Balances__  __.—__ 
 
     The unexpired balances of prior appropriations to the Administration for activities authorized under this chapter may be transferred to the new account established for such activity in subsection (a). Balances so transferred may be merged with funds in the newly established account and thereafter may be accounted for as one fund under the same terms and conditions.
 
@@ -111,11 +111,11 @@ Pub. L. 85–568, title III, § 313, formerly § 312, as added Pub. L. 106�
 
 [Pub. L. 106–391, title III, § 311][/us/pl/106/391/s311], Oct. 30, 2000, [114 Stat. 1594][/us/stat/114/1594], provided that:
 
->     “(a) __Notice of Reprogramming.—__ 
+>     “(a)  __Notice of Reprogramming__  __.—__ 
 
 >     If any funds authorized by this Act \[see Tables for classification\] are subject to a reprogramming action that requires notice to be provided to the Appropriations Committees of the House of Representatives and the Senate, notice of such action shall concurrently be provided to the Committee on Science \[now Committee on Science, Space, and Technology\] of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate.
 
->     “(b) __Notice of Reorganization.—__ 
+>     “(b)  __Notice of Reorganization__  __.—__ 
 
 >     The Administrator \[of the National Aeronautics and Space Administration\] shall provide notice to the Committees on Science \[now Science, Space, and Technology\] and Appropriations of the House of Representatives, and the Committees on Commerce, Science, and Transportation and Appropriations of the Senate, not later than 30 days before any major reorganization of any program, project, or activity of the National Aeronautics and Space Administration.”
 

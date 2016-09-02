@@ -15,39 +15,39 @@
 
 ## § 40112. Research and technology programs
 
-    (a) __Supersonic Transport Research and Development.—__ 
+    (a)  __Supersonic Transport Research and Development__  __.—__ 
 
     The Administrator may establish an initiative with the objective of developing and demonstrating, in a relevant environment, airframe and propulsion technologies to enable efficient, economical overland flight of supersonic civil transport aircraft with no significant impact on the environment.
 
-    (b) __Rotorcraft and Other Runway-Independent Air Vehicles.—__ 
+    (b)  __Rotorcraft and Other Runway-Independent Air Vehicles__  __.—__ 
 
     The Administrator may establish a rotorcraft and other runway-independent air vehicles initiative with the objective of developing and demonstrating improved safety, noise, and environmental impact in a relevant environment.
 
-    (c) __Hypersonics Research.—__ 
+    (c)  __Hypersonics Research__  __.—__ 
 
     The Administrator may establish a hypersonics research program with the objective of exploring the science and technology of hypersonic flight using air-breathing propulsion concepts, through a mix of theoretical work, basic and applied research, and development of flight research demonstration vehicles. The program may also include the transition to the hypersonic range of Mach 3 to Mach 5.
 
-    (d) __Revolutionary Aeronautical Concepts.—__ 
+    (d)  __Revolutionary Aeronautical Concepts__  __.—__ 
 
     The Administrator may establish a research program which covers a unique range of subsonic, fixed wing vehicles and propulsion concepts. This research is intended to push technology barriers beyond current subsonic technology. Propulsion concepts include advanced materials, morphing engines, hybrid engines, and fuel cells.
 
     (e) __Fuel Cell-Powered Aircraft Research.—__ 
 
-        (1) __Objective.—__ 
+        (1)  __Objective__  __.—__ 
 
         The Administrator may establish a fuel cell-powered aircraft research program whose objective shall be to develop and test concepts to enable a hydrogen fuel cell-powered aircraft that would have no hydrocarbon or nitrogen oxide emissions into the environment.
 
-        (2) __Approach.—__ 
+        (2)  __Approach__  __.—__ 
 
         The Administrator may establish a program of competitively awarded grants available to teams of researchers that may include the participation of individuals from universities, industry, and government for the conduct of this research.
 
     (f) __Mars Aircraft Research.—__ 
 
-        (1) __Objective.—__ 
+        (1)  __Objective__  __.—__ 
 
         The Administrator may establish a Mars Aircraft project whose objective shall be to develop and test concepts for an uncrewed aircraft that could operate for sustained periods in the atmosphere of Mars.
 
-        (2) __Approach.—__ 
+        (2)  __Approach__  __.—__ 
 
         The Administrator may establish a program of competitively awarded grants available to teams of researchers that may include the participation of individuals from universities, industry, and government for the conduct of this research.
 
@@ -173,7 +173,7 @@ Pub. L. 109–155, title IV, § 422(b)–(g), Dec. 30, 2005, 119 Stat. 2925.  
 
 [Pub. L. 101–611, title I, § 116][/us/pl/101/611/s116], Nov. 16, 1990, [104 Stat. 3202][/us/stat/104/3202], provided that:
 
->     “(a) __National Aero-Space Plane Program.—__ 
+>     “(a)  __National Aero-Space Plane Program__  __.—__ 
 
 >     The Secretary of Defense (hereafter in this section referred to as the ‘Secretary’) and the Administrator shall jointly pursue on a high priority basis a National Aero-Space Plane program whose objective shall be the development and demonstration, by 1997, of a primarily air breathing single-stage-to-orbit and long range hypersonic cruise research flight vehicle. The program shall be a research program, and to the extent practicable technological information developed shall be transferred to the military and to the domestic civil aviation and other private industries.
 

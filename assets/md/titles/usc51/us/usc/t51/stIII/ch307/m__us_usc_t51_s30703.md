@@ -15,15 +15,15 @@
 
 ## § 30703. Foreign launch vehicles
 
-    (a) __Accord With Space Transportation Policy.—__ 
+    (a)  __Accord With Space Transportation Policy__  __.—__ 
 
     The Administration shall not launch a payload on a foreign launch vehicle except in accordance with the Space Transportation Policy announced by the President on December 21, 2004. This subsection shall not be construed to prevent the President from waiving the Space Transportation Policy.
 
-    (b) __Interagency Coordination.—__ 
+    (b)  __Interagency Coordination__  __.—__ 
 
     The Administration shall not launch a payload on a foreign launch vehicle unless the Administration commenced the interagency coordination required by the Space Transportation Policy announced by the President on December 21, 2004, at least 90 days before entering into a development contract for the payload.
 
-    (c) __Application.—__ 
+    (c)  __Application__  __.—__ 
 
     This section shall not apply to any payload for which development has begun prior to December 30, 2005, including the James Webb Space Telescope.
 

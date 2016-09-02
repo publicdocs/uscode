@@ -15,31 +15,31 @@
 
 ## § 31102. Drug and alcohol testing
 
-    (a) __Definition of Controlled Substance.—__ 
+    (a)  __Definition of Controlled Substance__  __.—__ 
 
     In this section, the term “controlled substance” means any substance under section 102(6) of the Controlled Substances Act ([21 U.S.C. 802(6)][/us/usc/t21/s802/6]) specified by the Administrator.
 
     (b) __Testing Program.—__ 
 
-        (1) __Employees of administration.—__ 
+        (1)  __Employees of administration__  __.—__ 
 
         The Administrator shall establish a program applicable to employees of the Administration whose duties include responsibility for safety-sensitive, security, or national security functions. Such program shall provide for preemployment, reasonable suspicion, random, and post-accident testing for use, in violation of applicable law or Federal regulation, of alcohol or a controlled substance. The Administrator may also prescribe regulations, as the Administrator considers appropriate in the interest of safety, security, and national security, for the conduct of periodic recurring testing of such employees for such use in violation of applicable law or Federal regulation.
 
-        (2) __Employees of contractors.—__ 
+        (2)  __Employees of contractors__  __.—__ 
 
         The Administrator shall, in the interest of safety, security, and national security, prescribe regulations. Such regulations shall establish a program that requires Administration contractors to conduct preemployment, reasonable suspicion, random, and post-accident testing of contractor employees responsible for safety-sensitive, security, or national security functions (as determined by the Administrator) for use, in violation of applicable law or Federal regulation, of alcohol or a controlled substance. The Administrator may also prescribe regulations, as the Administrator considers appropriate in the interest of safety, security, and national security, for the conduct of periodic recurring testing of such employees for such use in violation of applicable law or Federal regulation.
 
-        (3) __Suspension, disqualification, or dismissal.—__ 
+        (3)  __Suspension, disqualification, or dismissal__  __.—__ 
 
         In prescribing regulations under the programs required by this subsection, the Administrator shall require, as the Administrator considers appropriate, the suspension, disqualification, or dismissal of any employee to which paragraph (1) or (2) applies, in accordance with the provisions of this section, in any instance where a test conducted and confirmed under this section indicates that such employee has used, in violation of applicable law or Federal regulation, alcohol or a controlled substance.
 
     (c) __Prohibition on Service.—__ 
 
-        (1) __Prohibition unless program of rehabilitation completed.—__ 
+        (1)  __Prohibition unless program of rehabilitation completed__  __.—__ 
 
         No individual who is determined by the Administrator under this section to have used, in violation of applicable law or Federal regulation, alcohol or a controlled substance after December 9, 1991, shall serve as an Administration employee with responsibility for safety-sensitive, security, or national security functions (as determined by the Administrator), or as an Administration contractor employee with such responsibility, unless such individual has completed a program of rehabilitation described in subsection (d).
 
-        (2) __Unconditional prohibition.—__ 
+        (2)  __Unconditional prohibition__  __.—__ 
 
         Any such individual determined by the Administrator under this section to have used, in violation of applicable law or Federal regulation, alcohol or a controlled substance after December 9, 1991, shall not be permitted to perform the duties that the individual performed prior to the date of the determination, if the individual—
 
@@ -53,15 +53,15 @@
 
     (d) __Program for Rehabilitation.—__ 
 
-        (1) __Regulations and availability of program for contractor employees.—__ 
+        (1)  __Regulations and availability of program for contractor employees__  __.—__ 
 
         The Administrator shall prescribe regulations setting forth requirements for rehabilitation programs which at a minimum provide for the identification and opportunity for treatment of employees referred to in subsection (b) in need of assistance in resolving problems with the use, in violation of applicable law or Federal regulation, of alcohol or a controlled substance. Each contractor is encouraged to make such a program available to all of its employees in addition to those employees referred to in subsection (b)(2). The Administrator shall determine the circumstances under which such employees shall be required to participate in such a program. Nothing in this subsection shall preclude any Administration contractor from establishing a program under this subsection in cooperation with any other such contractor.
 
-        (2) __Establishment and maintenance of program for administration employees.—__ 
+        (2)  __Establishment and maintenance of program for administration employees__  __.—__ 
 
         The Administrator shall establish and maintain a rehabilitation program which at a minimum provides for the identification and opportunity for treatment of those employees of the Administration whose duties include responsibility for safety-sensitive, security, or national security functions who are in need of assistance in resolving problems with the use of alcohol or controlled substances.
 
-    (e) __Procedures for Testing.—__ 
+    (e)  __Procedures for Testing__  __.—__ 
 
     In establishing the programs required under subsection (b), the Administrator shall develop requirements which shall—
 
@@ -91,11 +91,11 @@
 
     (f) __Effect on Other Laws and Regulations.—__ 
 
-        (1) __Consistency with federal regulation.—__ 
+        (1)  __Consistency with federal regulation__  __.—__ 
 
         No State or local government shall adopt or have in effect any law, rule, regulation, ordinance, standard, or order that is inconsistent with the regulations promulgated under this section.
 
-        (2) __Continuance of regulations issued before__  __december 9, 1991__  __.—__ 
+        (2)  __Continuance of regulations issued before __  __december 9, 1991__  __.—__ 
 
         Nothing in this section shall be construed to restrict the discretion of the Administrator to continue in force, amend, or further supplement any regulations issued before December 9, 1991, that govern the use of alcohol and controlled substances by Administration employees with responsibility for safety-sensitive, security, and national security functions (as determined by the Administrator), or by Administration contractor employees with such responsibility.
 

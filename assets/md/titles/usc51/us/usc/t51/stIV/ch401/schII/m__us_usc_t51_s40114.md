@@ -15,11 +15,11 @@
 
 ## § 40114. Aviation safety and security research
 
-    (a) __Objective.—__ 
+    (a)  __Objective__  __.—__ 
 
     The Aviation Safety and Security Research program shall pursue research and development activities that directly address the safety and security needs of the National Airspace System and the aircraft that fly in it. The program shall develop prevention, intervention, and mitigation technologies aimed at causal, contributory, or circumstantial factors of aviation accidents.
 
-    (b) __Alignment.—__ 
+    (b)  __Alignment__  __.—__ 
 
     Not later than 1 year after December 30, 2005, the Administrator shall align the projects of the Aviation Safety and Security Research program so that they directly support the objectives of the Joint Planning and Development Office’s Next Generation Air Transportation System Integrated Plan.
 

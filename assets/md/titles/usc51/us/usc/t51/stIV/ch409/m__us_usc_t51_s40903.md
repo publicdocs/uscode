@@ -15,11 +15,11 @@
 
 ## § 40903. Experimental Program to Stimulate Competitive Research—merit grant competition requirements
 
-    (a) __Definition of Eligible State.—__ 
+    (a)  __Definition of Eligible State__  __.—__ 
 
     In this section, the term “eligible State” means a State designated by the Administrator as eligible to compete in the National Science Foundation’s Experimental Program to Stimulate Competitive Research.
 
-    (b) __Competition.—__ 
+    (b)  __Competition__  __.—__ 
 
     Making use of the existing infrastructure established in eligible States by the National Science Foundation, the Administrator shall conduct a merit grant competition among the eligible States in areas of research important to the mission of the Administration. With respect to a grant application by an eligible State, the Administrator shall consider—
 
@@ -31,11 +31,11 @@
 
         (4) the need to ensure the maximum distribution of grants among eligible States, consistent with merit.
 
-    (c) __Supplemental Grants.—__ 
+    (c)  __Supplemental Grants__  __.—__ 
 
     The Administrator shall endeavor, where appropriate, to supplement grants made under subsection (b) with such grants for fellowships, traineeships, equipment, or instrumentation as are available.
 
-    (d) __Information in Annual Budget Submission.—__ 
+    (d)  __Information in Annual Budget Submission__  __.—__ 
 
     In order to ensure that research expertise and talent throughout the Nation is developed and engaged in Administration research and education activities, the Administration shall, as part of its annual budget submission, detail additional steps that can be taken to further integrate the participating eligible States in both existing and new or emerging Administration research programs and center activities.
 

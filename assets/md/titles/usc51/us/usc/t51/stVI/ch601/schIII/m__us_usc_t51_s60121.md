@@ -17,39 +17,39 @@
 
     (a) __Licensing Authority of Secretary.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         In consultation with other appropriate United States Government agencies, the Secretary is authorized to license private sector parties to operate private remote sensing space systems for such period as the Secretary may specify and in accordance with the provisions of this subchapter.
 
-        (2) __Limitation with respect to system used for other purposes.—__ 
+        (2)  __Limitation with respect to system used for other purposes__  __.—__ 
 
         In the case of a private space system that is used for remote sensing and other purposes, the authority of the Secretary under this subchapter shall be limited only to the remote sensing operations of such space system.
 
     (b) __Compliance With Law, Regulations, International Obligations, and National Security.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         No license shall be granted by the Secretary unless the Secretary determines in writing that the applicant will comply with the requirements of this chapter, any regulations issued pursuant to this chapter, and any applicable international obligations and national security concerns of the United States.
 
-        (2) __List of requirements for complete application.—__ 
+        (2)  __List of requirements for complete application__  __.—__ 
 
         The Secretary shall publish in the Federal Register a complete and specific list of all information required to comprise a complete application for a license under this subchapter. An application shall be considered complete when the applicant has provided all information required by the list most recently published in the Federal Register before the date the application was first submitted. Unless the Secretary has, within 30 days after receipt of an application, notified the applicant of information necessary to complete an application, the Secretary may not deny the application on the basis of the absence of any such information.
 
-    (c) __Deadline for Action on Application.—__ 
+    (c)  __Deadline for Action on Application__  __.—__ 
 
     The Secretary shall review any application and make a determination thereon within 120 days of the receipt of such application. If final action has not occurred within such time, the Secretary shall inform the applicant of any pending issues and of actions required to resolve them.
 
-    (d) __Improper Basis for Denial.—__ 
+    (d)  __Improper Basis for Denial__  __.—__ 
 
     The Secretary shall not deny such license in order to protect any existing licensee from competition.
 
     (e) __Requirement To Provide Unenhanced Data.—__ 
 
-        (1) __Designation of data.—__ 
+        (1)  __Designation of data__  __.—__ 
 
         The Secretary, in consultation with other appropriate United States Government agencies and pursuant to paragraph (2), shall designate in a license issued pursuant to this subchapter any unenhanced data required to be provided by the licensee under [section 60122(b)(3) of this title][/us/usc/t51/s60122/b/3].
 
-        (2) __Preliminary determination.—__ 
+        (2)  __Preliminary determination__  __.—__ 
 
         The Secretary shall make a designation under paragraph (1) after determining that—
 
@@ -57,7 +57,7 @@
 
             (B) it is in the interest of the United States to require such data to be provided by the licensee consistent with [section 60122(b)(3) of this title][/us/usc/t51/s60122/b/3], after considering the impact on the licensee and the importance of promoting widespread access to remote sensing data from United States and foreign systems.
 
-        (3) __Consistency with contract or other arrangement.—__ 
+        (3)  __Consistency with contract or other arrangement__  __.—__ 
 
         A designation made by the Secretary under paragraph (1) shall not be inconsistent with any contract or other arrangement entered into between a United States Government agency and the licensee.
 
@@ -115,11 +115,11 @@ Pub. L. 102–555, title II, § 201, Oct. 28, 1992, 106 Stat. 4171; Pub. L. 10
 
 [Pub. L. 104–201, div. A, title X, § 1064][/us/pl/104/201/s1064], Sept. 23, 1996, [110 Stat. 2653][/us/stat/110/2653], provided that:
 
->     “(a) __Collection and Dissemination.—__ 
+>     “(a)  __Collection and Dissemination__  __.—__ 
 
 >     A department or agency of the United States may issue a license for the collection or dissemination by a non-Federal entity of satellite imagery with respect to Israel only if such imagery is no more detailed or precise than satellite imagery of Israel that is available from commercial sources.
 
->     “(b) __Declassification and Release.—__ 
+>     “(b)  __Declassification and Release__  __.—__ 
 
 >     A department or agency of the United States may declassify or otherwise release satellite imagery with respect to Israel only if such imagery is no more detailed or precise than satellite imagery of Israel that is available from commercial sources.”
 

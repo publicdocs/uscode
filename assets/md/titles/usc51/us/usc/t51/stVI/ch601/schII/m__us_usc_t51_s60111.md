@@ -15,11 +15,11 @@
 
 ## § 60111. Landsat Program Management
 
-    (a) __Establishment.—__ 
+    (a)  __Establishment__  __.—__ 
 
     The Administrator and the Secretary of Defense shall be responsible for management of the Landsat program. Such responsibility shall be carried out by establishing an integrated program management structure for the Landsat system.
 
-    (b) __Management Plan.—__ 
+    (b)  __Management Plan__  __.—__ 
 
     The Administrator, the Secretary of Defense, and any other United States Government official the President designates as responsible for part of the Landsat program shall establish, through a management plan, the roles, responsibilities, and funding expectations for the Landsat program of the appropriate United States Government agencies. The management plan shall—
 
@@ -37,7 +37,7 @@
 
         (4) provide for a technology demonstration program whose objective shall be the demonstration of advanced land remote sensing technologies that may potentially yield a system which is less expensive to build and operate, and more responsive to data users, than is the current Landsat system.
 
-    (c) __Responsibilities.—__ 
+    (c)  __Responsibilities__  __.—__ 
 
     The Landsat Program Management shall be responsible for—
 
@@ -57,13 +57,13 @@
 
         (8) ensuring that copies of data acquired by the Landsat system are provided to the National Satellite Land Remote Sensing Data Archive.
 
-    (d) __Authority To Contract.—__ 
+    (d)  __Authority To Contract__  __.—__ 
 
     The Landsat Program Management may, subject to appropriations and only under the existing contract authority of the United States Government agencies that compose the Landsat Program Management, enter into contracts with the private sector for services such as satellite operations and data preprocessing.
 
     (e) __Landsat Advisory Process.—__ 
 
-        (1) __Advice and comments.—__ 
+        (1)  __Advice and comments__  __.—__ 
 
         The Landsat Program Management shall seek impartial advice and comments regarding the status, effectiveness, and operation of the Landsat system, using existing advisory committees and other appropriate mechanisms. Such advice shall be sought from individuals who represent—
 
@@ -73,7 +73,7 @@
 
             (C) a broad diversity of age groups, sexes, and races.
 
-        (2) __Reports.—__ 
+        (2)  __Reports__  __.—__ 
 
         The Landsat Program Management shall prepare and submit biennially a report to Congress which—
 

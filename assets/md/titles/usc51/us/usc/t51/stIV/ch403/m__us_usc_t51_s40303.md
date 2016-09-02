@@ -15,11 +15,11 @@
 
 ## § 40303. National space grant college and fellowship program
 
-    (a) __Establishment.—__ 
+    (a)  __Establishment__  __.—__ 
 
     The Administrator shall establish and maintain, within the Administration, a program to be known as the national space grant college and fellowship program. The national space grant college and fellowship program shall consist of the financial assistance and other activities provided for in this chapter. The Administrator shall establish long-range planning guidelines and priorities, and adequately evaluate the program.
 
-    (b) __Functions.—__ 
+    (b)  __Functions__  __.—__ 
 
     Within the Administration, the program shall—
 
@@ -37,7 +37,7 @@
 
         (7) encourage the formation and growth of space grant and fellowship programs.
 
-    (c) __General Authorities.—__ 
+    (c)  __General Authorities__  __.—__ 
 
     To carry out the provisions of this chapter, the Administrator may—
 

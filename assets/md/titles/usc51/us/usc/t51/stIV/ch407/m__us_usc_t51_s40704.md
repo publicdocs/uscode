@@ -15,11 +15,11 @@
 
 ## § 40704. Research program on perceived impact of sonic booms
 
-    (a) __Establishment.—__ 
+    (a)  __Establishment__  __.—__ 
 
     The Administrator shall establish a cooperative research program with industry, including the conduct of flight demonstrations in a relevant environment, to collect data on the perceived impact of sonic booms. The data could enable the promulgation of appropriate standards for overland commercial supersonic flight operations.
 
-    (b) __Coordination.—__ 
+    (b)  __Coordination__  __.—__ 
 
     The Administrator shall ensure that sonic boom research is coordinated as appropriate with the Administrator of the Federal Aviation Administration, and as appropriate make use of the expertise of the Partnership for Air Transportation Noise and Emissions Reduction Center of Excellence sponsored by the Administration and the Federal Aviation Administration.
 

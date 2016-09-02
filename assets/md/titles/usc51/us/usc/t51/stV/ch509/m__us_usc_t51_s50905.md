@@ -15,13 +15,13 @@
 
 ## § 50905. License applications and requirements
 
-    (a) __Applications.—__ 
+    (a)  __Applications__  __.—__ 
 
         (1) A person may apply to the Secretary of Transportation for a license or transfer of a license under this chapter in the form and way the Secretary prescribes. Consistent with the public health and safety, safety of property, and national security and foreign policy interests of the United States, the Secretary, not later than 180 days after accepting an application in accordance with criteria established pursuant to subsection (b)(2)(D), <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  shall issue or transfer a license if the Secretary decides in writing that the applicant complies, and will continue to comply, with this chapter and regulations prescribed under this chapter. The Secretary shall inform the applicant of any pending issue and action required to resolve the issue if the Secretary has not made a decision not later than 120 days after accepting an application in accordance with criteria established pursuant to subsection (b)(2)(D). <sup>\[1\]</sup>  The Secretary shall transmit to the Committee on Science of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a written notice not later than 30 days after any occurrence when the Secretary has not taken action on a license application within the deadline established by this subsection.
 
         (2) In carrying out paragraph (1), the Secretary may establish procedures for safety approvals of launch vehicles, reentry vehicles, safety systems, processes, services, or personnel (including approval procedures for the purpose of protecting the health and safety of crews and space flight participants, to the extent permitted by subsections (b) and (c)) that may be used in conducting licensed commercial space launch or reentry activities.
 
-    (b) __Requirements.—__ 
+    (b)  __Requirements__  __.—__ 
 
         (1) Except as provided in this subsection, all requirements of the laws of the United States applicable to the launch of a launch vehicle or the operation of a launch site or a reentry site, or the reentry of a reentry vehicle, are requirements for a license or permit under this chapter.
 
@@ -69,7 +69,7 @@
 
             (B) The Secretary may issue additional regulations setting reasonable requirements for space flight participants, including medical and training requirements. Such regulations shall not be effective before the expiration of 3 years after the date of enactment of the Commercial Space Launch Amendments Act of 2004.
 
-    (c) __Safety Regulations.—__ 
+    (c)  __Safety Regulations__  __.—__ 
 
         (1) The Secretary may issue regulations governing the design or operation of a launch vehicle to protect the health and safety of crew and space flight participants.
 
@@ -95,7 +95,7 @@
 
         (4) Nothing in this subsection shall be construed to limit the authority of the Secretary to issue requirements or regulations to protect the public health and safety, safety of property, national security interests, and foreign policy interests of the United States.
 
-    (d) __Procedures and Timetables.—__ 
+    (d)  __Procedures and Timetables__  __.—__ 
 
     The Secretary shall establish procedures and timetables that expedite review of a license or permit application and reduce the regulatory burden for an applicant.
 

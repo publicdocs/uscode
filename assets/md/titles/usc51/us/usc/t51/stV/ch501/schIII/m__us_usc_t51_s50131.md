@@ -15,11 +15,11 @@
 
 ## § 50131. Requirement to procure commercial space transportation services
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     Except as otherwise provided in this section, the Federal Government shall acquire space transportation services from United States commercial providers whenever such services are required in the course of its activities. To the maximum extent practicable, the Federal Government shall plan missions to accommodate the space transportation services capabilities of United States commercial providers.
 
-    (b) __Exceptions.—__ 
+    (b)  __Exceptions__  __.—__ 
 
     The Federal Government shall not be required to acquire space transportation services under subsection (a) if, on a case-by-case basis, the Administrator or, in the case of a national security issue, the Secretary of the Air Force, determines that—
 
@@ -37,15 +37,15 @@
 
         (7) a payload can make use of the available cargo space on a space shuttle mission as a secondary payload, and such payload is consistent with the requirements of research, development, demonstration, scientific, commercial, and educational programs authorized by the Administrator.
 
-    (c) __Agreements With Foreign Entities.—__ 
+    (c)  __Agreements With Foreign Entities__  __.—__ 
 
     Nothing in this section shall prevent the Administrator from planning or negotiating agreements with foreign entities for the launch of Federal Government payloads for international collaborative efforts relating to science and technology.
 
-    (d) __Delayed Effect.—__ 
+    (d)  __Delayed Effect__  __.—__ 
 
     Subsection (a) shall not apply to space transportation services and space transportation vehicles acquired or owned by the Federal Government before October 28, 1998, or with respect to which a contract for such acquisition or ownership has been entered into before October 28, 1998.
 
-    (e) __Historical Purposes.—__ 
+    (e)  __Historical Purposes__  __.—__ 
 
     This section shall not be construed to prohibit the Federal Government from acquiring, owning, or maintaining space transportation vehicles solely for historical display purposes.
 

@@ -15,19 +15,19 @@
 
 ## § 40902. National Aeronautics and Space Administration Endeavor Teacher Fellowship Trust Fund
 
-    (a) __Establishment.—__ 
+    (a)  __Establishment__  __.—__ 
 
     There is established in the Treasury of the United States, in tribute to the dedicated crew of the Space Shuttle Challenger, a trust fund to be known as the National Aeronautics and Space Administration Endeavor Teacher Fellowship Trust Fund (hereafter in this section referred to as the “Trust Fund”). The Trust Fund shall consist of amounts which may from time to time, at the discretion of the Administrator, be transferred from the National Aeronautics and Space Administration Gifts and Donations Trust Fund.
 
-    (b) __Investment of Trust Fund.—__ 
+    (b)  __Investment of Trust Fund__  __.—__ 
 
     The Administrator shall direct the Secretary of the Treasury to invest and reinvest funds in the Trust Fund in public debt securities with maturities suitable for the needs of the Trust Fund, and bearing interest at rates determined by the Secretary of the Treasury, taking into consideration the current average market yield on outstanding marketable obligations of the United States of comparable maturities. Interest earned shall be credited to the Trust Fund.
 
-    (c) __Purpose.—__ 
+    (c)  __Purpose__  __.—__ 
 
     Income accruing from the Trust Fund principal shall be used to create the National Aeronautics and Space Administration Endeavor Teacher Fellowship Program, to the extent provided in advance in appropriation Acts. The Administrator is authorized to use such funds to award fellowships to selected United States nationals who are undergraduate students pursuing a course of study leading to certified teaching degrees in elementary education or in secondary education in mathematics, science, or technology disciplines. Awards shall be made pursuant to standards established for the fellowship program by the Administrator.
 
-    (d) __Availability of Funds.—__ 
+    (d)  __Availability of Funds__  __.—__ 
 
     The interest accruing from the National Aeronautics and Space Administration Endeavor Teacher Fellowship Trust Fund principal shall be available in fiscal year 2012 for the purpose of the Endeavor Science Teacher Certificate Program.
 

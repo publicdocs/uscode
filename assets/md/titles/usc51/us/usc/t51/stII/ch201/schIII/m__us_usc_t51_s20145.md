@@ -15,13 +15,13 @@
 
 ## § 20145. Lease of non-excess property
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     The Administrator may enter into a lease under this section with any person or entity (including another department or agency of the Federal Government or an entity of a State or local government) with regard to any non-excess real property and related personal property under the jurisdiction of the Administrator.
 
     (b) __Cash Consideration.—__ 
 
-        (1) __Fair market value.—__ 
+        (1)  __Fair market value__  __.—__ 
 
             (A) A person or entity entering into a lease under this section shall provide cash consideration for the lease at fair market value as determined by the Administrator.
 
@@ -29,11 +29,11 @@
 
         (2) __Utilization.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             The Administrator may utilize amounts of cash consideration received under this subsection for a lease entered into under this section to cover the full costs to the Administration in connection with the lease. These funds shall remain available until expended.
 
-            (B) __Capital revitalization and improvements.—__ 
+            (B)  __Capital revitalization and improvements__  __.—__ 
 
             Of any amounts of cash consideration received under this subsection that are not utilized in accordance with subparagraph (A)—
 
@@ -41,41 +41,41 @@
 
                 (ii) the remaining 65 percent shall be available to the respective center or facility of the Administration engaged in the lease of nonexcess real property, and shall remain available until expended for maintenance, capital revitalization, and improvements of the real property assets and related personal property at the respective center or facility subject to the concurrence of the Administrator.
 
-            (C) __No utilization for daily operating costs.—__ 
+            (C)  __No utilization for daily operating costs__  __.—__ 
 
             Amounts utilized under subparagraph (B) may not be utilized for daily operating costs.
 
-    (c) __Additional Terms and Conditions.—__ 
+    (c)  __Additional Terms and Conditions__  __.—__ 
 
     The Administrator may require such terms and conditions in connection with a lease under this section as the Administrator considers appropriate to protect the interests of the United States.
 
-    (d) __Relationship to Other Lease Authority.—__ 
+    (d)  __Relationship to Other Lease Authority__  __.—__ 
 
     The authority under this section to lease property of the Administration is in addition to any other authority to lease property of the Administration under law.
 
     (e) __Lease Restrictions.—__ 
 
-        (1) __No lease back or other contract.—__ 
+        (1)  __No lease back or other contract__  __.—__ 
 
         The Administration is not authorized to lease back property under this section during the term of the out-lease or enter into other contracts with the lessee respecting the property.
 
-        (2) __Certification that out-lease will not have negative impact on mission.—__ 
+        (2)  __Certification that out-lease will not have negative impact on mission__  __.—__ 
 
         The Administration is not authorized to enter into an out-lease under this section unless the Administrator certifies that the out-lease will not have a negative impact on the mission of the Administration.
 
-    (f) __Reporting Requirements.—__ 
+    (f)  __Reporting Requirements__  __.—__ 
 
     The Administrator shall submit an annual report by January 31st of each year. The report shall include the following:
 
-        (1) __Value of arrangements and expenditures of revenues.—__ 
+        (1)  __Value of arrangements and expenditures of revenues__  __.—__ 
 
         Information that identifies and quantifies the value of the arrangements and expenditures of revenues received under this section.
 
-        (2) __Availability and use of funds for operating plan.—__ 
+        (2)  __Availability and use of funds for operating plan__  __.—__ 
 
         The availability and use of funds received under this section for the Administration’s operating plan.
 
-    (g) __Sunset.—__ 
+    (g)  __Sunset__  __.—__ 
 
     The authority to enter into leases under this section shall expire 10 years after December 26, 2007. The expiration under this subsection of authority to enter into leases under this section shall not affect the validity or term of leases or the Administration’s retention of proceeds from leases entered into under this section before the expiration of the authority.
 

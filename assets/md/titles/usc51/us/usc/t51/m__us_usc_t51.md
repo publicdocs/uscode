@@ -17,7 +17,7 @@
 
 This title was enacted by [Pub. L. 111–314, § 3][/us/pl/111/314/s3], Dec. 18, 2010, [124 Stat. 3328][/us/stat/124/3328]
 
-Current through 113–45
+Current through 113-46
 
 <table>
 
@@ -3423,11 +3423,11 @@ Elim.  </td>
 
 [Pub. L. 111–314, § 2][/us/pl/111/314/s2], Dec. 18, 2010, [124 Stat. 3328][/us/stat/124/3328], provided that:
 
->     “(a) __Purpose.—__ 
+>     “(a)  __Purpose__  __.—__ 
 
 >     The purpose of this Act \[see Tables for classification\] is to codify certain existing laws related to national and commercial space programs as a positive law title of the United States Code.
 
->     “(b) __Conformity With Original Intent.—__ 
+>     “(b)  __Conformity With Original Intent__  __.—__ 
 
 >     In the codification of laws by this Act, the intent is to conform to the understood policy, intent, and purpose of Congress in the original enactments, with such amendments and corrections as will remove ambiguities, contradictions, and other imperfections, in accordance with section 205(c)(1) of House Resolution No. 988, 93d Congress, as enacted into law by [Public Law 93–554][/us/pl/93/554] ([2 U.S.C. 285b(1)][/us/usc/t2/s285b/1]).”
 
@@ -3435,39 +3435,39 @@ Elim.  </td>
 
 [Pub. L. 111–314, § 5][/us/pl/111/314/s5], Dec. 18, 2010, [124 Stat. 3443][/us/stat/124/3443], provided that:
 
->     “(a) __Definitions.—__ 
+>     “(a)  __Definitions__  __.—__ 
 
 >     In this section:
 
->         “(1) __Source provision.—__ 
+>         “(1)  __Source provision__  __.—__ 
 
 >         The term ‘source provision’ means a provision of law that is replaced by a title 51 provision.
 
->         “(2) __Title 51 provision.—__ 
+>         “(2)  __Title 51 provision__  __.—__ 
 
 >         The term ‘title 51 provision’ means a provision of title 51, United States Code, that is enacted by section 3.
 
->     “(b) __Cutoff Date.—__ 
+>     “(b)  __Cutoff Date__  __.—__ 
 
 >     The title 51 provisions replace certain provisions of law enacted on or before July 1, 2009. If a law enacted after that date amends or repeals a source provision, that law is deemed to amend or repeal, as the case may be, the corresponding title 51 provision. If a law enacted after that date is otherwise inconsistent with a title 51 provision or a provision of this Act \[see Tables for classification\], that law supersedes the title 51 provision or provision of this Act to the extent of the inconsistency.
 
->     “(c) __Original Date of Enactment Unchanged.—__ 
+>     “(c)  __Original Date of Enactment Unchanged__  __.—__ 
 
 >     For purposes of determining whether one provision of law supersedes another based on enactment later in time, a title 51 provision is deemed to have been enacted on the date of enactment of the corresponding source provision.
 
->     “(d) __References to Title 51 Provisions.—__ 
+>     “(d)  __References to Title__  __51__  __Provisions__  __.—__ 
 
 >     A reference to a title 51 provision is deemed to refer to the corresponding source provision.
 
->     “(e) __References to Source Provisions.—__ 
+>     “(e)  __References to Source Provisions__  __.—__ 
 
 >     A reference to a source provision, including a reference in a regulation, order, or other law, is deemed to refer to the corresponding title 51 provision.
 
->     “(f) __Regulations, Orders, and Other Administrative Actions.—__ 
+>     “(f)  __Regulations, Orders, and Other Administrative Actions__  __.—__ 
 
 >     A regulation, order, or other administrative action in effect under a source provision continues in effect under the corresponding title 51 provision.
 
->     “(g) __Actions Taken and Offenses Committed.—__ 
+>     “(g)  __Actions Taken and Offenses Committed__  __.—__ 
 
 >     An action taken or an offense committed under a source provision is deemed to have been taken or committed under the corresponding title 51 provision.”
 

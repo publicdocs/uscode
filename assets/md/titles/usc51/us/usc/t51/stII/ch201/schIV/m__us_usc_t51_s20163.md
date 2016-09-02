@@ -15,11 +15,11 @@
 
 ## § 20163. Program authorized
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     In order to carry out the purposes of this subchapter, the Administration, in cooperation with other Federal agencies, shall initiate and carry out a program of research, technology, monitoring, and other appropriate activities directed to understand the physics and chemistry of the upper atmosphere.
 
-    (b) __Activities.—__ 
+    (b)  __Activities__  __.—__ 
 
     In carrying out the provisions of this subchapter, the Administration shall—
 

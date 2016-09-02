@@ -15,7 +15,7 @@
 
 ## § 50901. Findings and purposes
 
-    (a) __Findings.—__ 
+    (a)  __Findings__  __.—__ 
 
     Congress finds that—
 
@@ -49,7 +49,7 @@
 
         (15) the regulatory standards governing human space flight must evolve as the industry matures so that regulations neither stifle technology development nor expose crew or space flight participants to avoidable risks as the public comes to expect greater safety for crew and space flight participants from the industry.
 
-    (b) __Purposes.—__ 
+    (b)  __Purposes__  __.—__ 
 
     The purposes of this chapter are—
 

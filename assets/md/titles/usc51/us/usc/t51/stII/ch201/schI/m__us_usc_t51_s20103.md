@@ -17,7 +17,7 @@
 
     In this chapter:
 
-    (1) __Aeronautical and space activities.—__ 
+    (1)  __Aeronautical and space activities__  __.—__ 
 
     The term “aeronautical and space activities” means—
 
@@ -29,7 +29,7 @@
 
         (D) such other activities as may be required for the exploration of space.
 
-    (2) __Aeronautical and space vehicles.—__ 
+    (2)  __Aeronautical and space vehicles__  __.—__ 
 
     The term “aeronautical and space vehicles” means aircraft, missiles, satellites, and other space vehicles, manned and unmanned, together with related equipment, devices, components, and parts.
 

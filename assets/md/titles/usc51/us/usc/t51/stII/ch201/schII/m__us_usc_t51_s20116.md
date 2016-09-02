@@ -15,7 +15,7 @@
 
 ## § 20116. Reports to Congress
 
-    (a) __Presidential Report.—__ 
+    (a)  __Presidential Report__  __.—__ 
 
     The President shall transmit to Congress in May of each year a report, which shall include—
 
@@ -23,11 +23,11 @@
 
         (2) an evaluation of such activities and accomplishments in terms of the attainment of, or the failure to attain, the objectives described in [section 20102(d) of this title][/us/usc/t51/s20102/d].
 
-    (b) __Recommendations for Additional Legislation.—__ 
+    (b)  __Recommendations for Additional Legislation__  __.—__ 
 
     Any report made under this section shall contain such recommendations for additional legislation as the Administrator or the President may consider necessary or desirable for the attainment of the objectives described in [section 20102(d) of this title][/us/usc/t51/s20102/d].
 
-    (c) __Classified Information.—__ 
+    (c)  __Classified Information__  __.—__ 
 
     No information that has been classified for reasons of national security shall be included in any report made under this section, unless the information has been declassified by, or pursuant to authorization given by, the President.
 

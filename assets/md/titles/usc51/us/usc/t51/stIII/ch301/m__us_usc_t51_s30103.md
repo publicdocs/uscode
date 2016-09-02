@@ -15,7 +15,7 @@
 
 ## § 30103. Budgets
 
-    (a) __Categories.—__ 
+    (a)  __Categories__  __.—__ 
 
     The proposed budget for the Administration submitted by the President for each fiscal year shall be accompanied by documents showing—
 
@@ -51,7 +51,7 @@
 
         (6) the comparable figures for at least the 2 previous fiscal years for each item in the proposed budget.
 
-    (b) __Additional Budget Information Upon Request by Committees.—__ 
+    (b)  __Additional Budget Information Upon Request by Committees__  __.—__ 
 
     The Administration shall make available, upon request from the Committee on Science and Technology of the House of Representatives or the Committee on Commerce, Science, and Transportation of the Senate—
 
@@ -75,7 +75,7 @@
 
             (C) that are estimated will remain at the end of the fiscal year for which the budget is being presented.
 
-    (c) __Information in Annual Budget Justification.—__ 
+    (c)  __Information in Annual Budget Justification__  __.—__ 
 
     The Administration shall provide, at a minimum, the following information in its annual budget justification:
 
@@ -109,7 +109,7 @@
 
         (6) Sufficient narrative shall be provided to explain the request for each program, project, and activity, and an explanation for any deviation to previously adopted baselines for all justification materials provided to the Committees.
 
-    (d) __Estimate of Gross Receipts and Proposed Use of Funds Related to Lease of Property.—__ 
+    (d)  __Estimate of Gross Receipts and Proposed Use of Funds Related to Lease of Property__  __.—__ 
 
     Each annual budget request shall include an annual estimate of gross receipts and collections and proposed use of all funds collected pursuant to [section 20145 of this title][/us/usc/t51/s20145].
 

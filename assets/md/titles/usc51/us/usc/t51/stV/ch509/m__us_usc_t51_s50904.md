@@ -15,7 +15,7 @@
 
 ## § 50904. Restrictions on launches, operations, and reentries
 
-    (a) __Requirement.—__ 
+    (a)  __Requirement__  __.—__ 
 
     A license issued or transferred under this chapter, or a permit, is required for the following:
 
@@ -29,15 +29,15 @@
 
         Notwithstanding this subsection, a permit shall not authorize a person to operate a launch site or reentry site.
 
-    (b) __Compliance With Payload Requirements.—__ 
+    (b)  __Compliance With Payload Requirements__  __.—__ 
 
     The holder of a license or permit under this chapter may launch or reenter a payload only if the payload complies with all requirements of the laws of the United States related to launching or reentering a payload.
 
-    (c) __Preventing Launches and Reentries.—__ 
+    (c)  __Preventing Launches and Reentries__  __.—__ 
 
     The Secretary of Transportation shall establish whether all required licenses, authorizations, and permits required for a payload have been obtained. If no license, authorization, or permit is required, the Secretary may prevent the launch or reentry if the Secretary decides the launch or reentry would jeopardize the public health and safety, safety of property, or national security or foreign policy interest of the United States.
 
-    (d) __Single License or Permit.—__ 
+    (d)  __Single License or Permit__  __.—__ 
 
     The Secretary of Transportation shall ensure that only 1 license or permit is required from the Department of Transportation to conduct activities involving crew or space flight participants, including launch and reentry, for which a license or permit is required under this chapter. The Secretary shall ensure that all Department of Transportation regulations relevant to the licensed or permitted activity are satisfied.
 

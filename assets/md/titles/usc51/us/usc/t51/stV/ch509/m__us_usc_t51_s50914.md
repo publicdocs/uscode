@@ -15,7 +15,7 @@
 
 ## § 50914. Liability insurance and financial responsibility requirements
 
-    (a) __General Requirements.—__ 
+    (a)  __General Requirements__  __.—__ 
 
         (1)
 
@@ -51,27 +51,27 @@
 
             (D) contractors and subcontractors of the customer.
 
-    (b) __Reciprocal Waiver of Claims.—__ 
+    (b)  __Reciprocal Waiver of Claims__  __.—__ 
 
         (1) A launch or reentry license issued or transferred under this chapter shall contain a provision requiring the licensee or transferee to make a reciprocal waiver of claims with its contractors, subcontractors, and customers, and contractors and subcontractors of the customers, involved in launch services or reentry services under which each party to the waiver agrees to be responsible for property damage or loss it sustains, or for personal injury to, death of, or property damage or loss sustained by its own employees resulting from an activity carried out under the applicable license.
 
         (2) The Secretary of Transportation shall make, for the Government, executive agencies of the Government involved in launch services or reentry services, and contractors and subcontractors involved in launch services or reentry services, a reciprocal waiver of claims with the licensee or transferee, contractors, subcontractors, crew, space flight participants, and customers of the licensee or transferee, and contractors and subcontractors of the customers, involved in launch services or reentry services under which each party to the waiver agrees to be responsible for property damage or loss it sustains, or for personal injury to, death of, or property damage or loss sustained by its own employees or by space flight participants, resulting from an activity carried out under the applicable license. The waiver applies only to the extent that claims are more than the amount of insurance or demonstration of financial responsibility required under subsection (a)(1)(B) of this section. After consulting with the Administrator and the Secretary of the Air Force, the Secretary of Transportation may waive, for the Government and a department, agency, and instrumentality of the Government, the right to recover damages for damage or loss to Government property to the extent insurance is not available because of a policy exclusion the Secretary of Transportation decides is usual for the type of insurance involved.
 
-    (c) __Determination of Maximum Probable Losses.—__ 
+    (c)  __Determination of Maximum Probable Losses__  __.—__ 
 
     The Secretary of Transportation shall determine the maximum probable losses under subsection (a)(1)(A) and (B) of this section associated with an activity under a license not later than 90 days after a licensee or transferee requires a determination and submits all information the Secretary requires. The Secretary shall amend the determination as warranted by new information.
 
-    (d) __Annual Report.—__ 
+    (d)  __Annual Report__  __.—__ 
 
         (1) Not later than November 15 of each year, the Secretary of Transportation shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science of the House of Representatives a report on current determinations made under subsection (c) of this section related to all issued licenses and the reasons for the determinations.
 
         (2) Not later than May 15 of each year, the Secretary of Transportation shall review the amounts specified in subsection (a)(3)(A) of this section and submit a report to Congress that contains proposed adjustments in the amounts to conform with changed liability expectations and availability of insurance on the world market. The proposed adjustment takes effect 30 days after a report is submitted.
 
-    (e) __Launches or Reentries Involving Government Facilities and Personnel.—__ 
+    (e)  __Launches or Reentries Involving Government Facilities and Personnel__  __.—__ 
 
     The Secretary of Transportation shall establish requirements consistent with this chapter for proof of financial responsibility and other assurances necessary to protect the Government and its executive agencies and personnel from liability, death, bodily injury, or property damage or loss as a result of a launch or operation of a launch site or reentry site or a reentry involving a facility or personnel of the Government. The Secretary may not relieve the Government of liability under this subsection for death, bodily injury, or property damage or loss resulting from the willful misconduct of the Government or its agents.
 
-    (f) __Collection and Crediting Payments.—__ 
+    (f)  __Collection and Crediting Payments__  __.—__ 
 
     The head of a department, agency, or instrumentality of the Government shall collect a payment owed for damage or loss to Government property under its jurisdiction or control resulting from an activity carried out under a launch or reentry license issued or transferred under this chapter. The payment shall be credited to the current applicable appropriation, fund, or account of the department, agency, or instrumentality.
 

@@ -15,15 +15,15 @@
 
 ## § 20111. National Aeronautics and Space Administration
 
-    (a) __Establishment and Appointment of Administrator.—__ 
+    (a)  __Establishment and Appointment of Administrator__  __.—__ 
 
     There is established the National Aeronautics and Space Administration. The Administration shall be headed by an Administrator, who shall be appointed from civilian life by the President by and with the advice and consent of the Senate. Under the supervision and direction of the President, the Administrator shall be responsible for the exercise of all powers and the discharge of all duties of the Administration and shall have authority and control over all personnel and activities thereof.
 
-    (b) __Deputy Administrator.—__ 
+    (b)  __Deputy Administrator__  __.—__ 
 
     There shall be in the Administration a Deputy Administrator, who shall be appointed from civilian life by the President by and with the advice and consent of the Senate. The Deputy Administrator shall perform such duties and exercise such powers as the Administrator may prescribe. The Deputy Administrator shall act for, and exercise the powers of, the Administrator during the Administrator’s absence or disability.
 
-    (c) __Restriction on Other Business or Employment.—__ 
+    (c)  __Restriction on Other Business or Employment__  __.—__ 
 
     The Administrator and the Deputy Administrator shall not engage in any other business, vocation, or employment while serving as such.
 
@@ -79,7 +79,7 @@ Pub. L. 85–568, title II, § 202, July 29, 1958, 72 Stat. 429; Pub. L. 88–
 
 [Pub. L. 101–611, title I, § 121][/us/pl/101/611/s121], Nov. 16, 1990, [104 Stat. 3204][/us/stat/104/3204], provided that:
 
->     “(a) __Establishment.—__ 
+>     “(a)  __Establishment__  __.—__ 
 
 >         (1) The National Space Council shall establish a Users’ Advisory Group composed of non-Federal representatives of industries and other persons involved in aeronautical and space activities.
 
@@ -91,7 +91,7 @@ Pub. L. 85–568, title II, § 202, July 29, 1958, 72 Stat. 429; Pub. L. 88–
 
 >         “(5) The Users’ Advisory Group may be assisted by personnel detailed to the National Space Council.
 
->     “(b) __Exemption.—__ 
+>     “(b)  __Exemption__  __.—__ 
 
 >     The Users’ Advisory Group shall not be subject to section 14(a)(2) of the Federal Advisory Committee Act \[5 U.S.C. App.\].”
 

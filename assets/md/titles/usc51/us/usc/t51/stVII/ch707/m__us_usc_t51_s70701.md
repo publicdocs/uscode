@@ -17,11 +17,11 @@
 
     In this chapter:
 
-    (1) __Commission.—__ 
+    (1)  __Commission__  __.—__ 
 
     The term “Commission” means a Commission established under this chapter.
 
-    (2) __Incident.—__ 
+    (2)  __Incident__  __.—__ 
 
     The term “incident” means either an accident or a deliberate act.
 

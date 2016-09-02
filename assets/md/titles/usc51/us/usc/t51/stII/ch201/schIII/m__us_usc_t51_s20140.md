@@ -17,7 +17,7 @@
 
     (a) __Authorization.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         There are authorized to be appropriated such sums as may be necessary to carry out this chapter, except that nothing in this chapter shall authorize the appropriation of any amount for—
 
@@ -25,15 +25,15 @@
 
             (B) any other item of a capital nature (such as plant or facility acquisition, construction, or expansion) which exceeds $250,000.
 
-        (2) __Availability.—__ 
+        (2)  __Availability__  __.—__ 
 
         Sums appropriated pursuant to this subsection for the construction of facilities, or for research and development activities, shall remain available until expended.
 
-    (b) __Use of Funds for Emergency Repairs of Existing Facilities.—__ 
+    (b)  __Use of Funds for Emergency Repairs of Existing Facilities__  __.—__ 
 
     Any funds appropriated for the construction of facilities may be used for emergency repairs of existing facilities when such existing facilities are made inoperative by major breakdown, accident, or other circumstances and such repairs are deemed by the Administrator to be of greater urgency than the construction of new facilities.
 
-    (c) __Termination.—__ 
+    (c)  __Termination__  __.—__ 
 
     Notwithstanding any other provision of law, the authorization of any appropriation to the Administration shall expire (unless an earlier expiration is specifically provided) at the close of the third fiscal year following the fiscal year in which the authorization was enacted, to the extent that such appropriation has not theretofore actually been made.
 

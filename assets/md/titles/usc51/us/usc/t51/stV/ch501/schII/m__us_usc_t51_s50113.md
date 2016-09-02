@@ -15,7 +15,7 @@
 
 ## § 50113. Acquisition of space science data
 
-    (a) __Definition of Space Science Data.—__ 
+    (a)  __Definition of Space Science Data__  __.—__ 
 
     In this section, the term “space science data” includes scientific data concerning—
 
@@ -25,19 +25,19 @@
 
         (3) solar storm monitoring.
 
-    (b) __Acquisition From Commercial Providers.—__ 
+    (b)  __Acquisition From Commercial Providers__  __.—__ 
 
     The Administrator shall, to the extent possible and while satisfying the scientific or educational requirements of the Administration, and where appropriate, of other Federal agencies and scientific researchers, acquire, where cost effective, space science data from a commercial provider.
 
-    (c) __Treatment of Space Science Data as Commercial Item Under Acquisition Laws.—__ 
+    (c)  __Treatment of Space Science Data as Commercial Item Under Acquisition Laws__  __.—__ 
 
     Acquisitions of space science data by the Administrator shall be carried out in accordance with applicable acquisition laws and regulations (including chapters 137 and 140 of title 10). For purposes of such law and regulations, space science data shall be considered to be a commercial item. Nothing in this subsection shall be construed to preclude the United States from acquiring, through contracts with commercial providers, sufficient rights in data to meet the needs of the scientific and educational community or the needs of other government activities.
 
-    (d) __Safety Standards.—__ 
+    (d)  __Safety Standards__  __.—__ 
 
     Nothing in this section shall be construed to prohibit the Federal Government from requiring compliance with applicable safety standards.
 
-    (e) __Limitation.—__ 
+    (e)  __Limitation__  __.—__ 
 
     This section does not authorize the Administration to provide financial assistance for the development of commercial systems for the collection of space science data.
 

@@ -101,11 +101,11 @@
 
 [Pub. L. 111–358, title II, § 202][/us/pl/111/358/s202], Jan. 4, 2011, [124 Stat. 3993][/us/stat/124/3993], provided that:
 
->     “(a) __Sense of Congress.—__ 
+>     “(a)  __Sense of Congress__  __.—__ 
 
 >     It is the sense of Congress that NASA \[National Aeronautics and Space Administration\] is uniquely positioned to interest students in science, technology, engineering, and mathematics, not only by the example it sets, but through its education programs.
 
->     “(b) __Educational Program Goals.—__ 
+>     “(b)  __Educational Program Goals__  __.—__ 
 
 >     NASA shall develop and maintain educational programs—
 
@@ -133,19 +133,19 @@
 
 [Pub. L. 109–155, title I, § 102][/us/pl/109/155/s102], Dec. 30, 2005, [119 Stat. 2905][/us/stat/119/2905], provided that:
 
->     “(a) __National Awareness Campaign.—__ 
+>     “(a)  __National Awareness Campaign__  __.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Administrator \[of the National Aeronautics and Space Administration\] shall implement, beginning not later than May 1, 2006, a national awareness campaign through various media, including print, radio, television, and the Internet, to articulate missions, publicize recent accomplishments, and facilitate efforts to encourage young Americans to enter the fields of science, mathematics, and engineering to help maintain United States leadership in those fields.
 
->         “(2) __Reports.—__ 
+>         “(2)  __Reports__  __.—__ 
 
 >             (A) Not later than April 1, 2006, the Administrator shall transmit a plan to the Committee on Science \[now Committee on Science, Space, and Technology\] of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate describing the activities that will be undertaken as part of the national awareness campaign required by paragraph (1) and the expected cost of those activities. NASA \[National Aeronautics and Space Administration\] may undertake activities as part of the national awareness campaign prior to the transmittal of the plan required by this subparagraph, but the plan shall include a description of any activities undertaken prior to the transmittal and the estimated cost of those activities.
 
 >             “(B) Not later than three years after the date of enactment of this Act \[Dec. 30, 2005\], the Administrator shall transmit to the Committee on Science of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate an assessment of the impact of the national awareness campaign.
 
->     “(b) __Budget Information.—__ 
+>     “(b)  __Budget Information__  __.—__ 
 
 >     Not later than April 30, 2006, the Administrator shall transmit to the Committee on Science \[now Committee on Science, Space, and Technology\] of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report describing—
 
@@ -159,9 +159,9 @@
 
 >             “(B) then assuming inflationary growth for the budget of NASA as a whole and including at least two cost estimates for the Crew Exploration Vehicle that are higher than those projected under paragraph (1), based on NASA’s past experience with cost increases for similar programs, along with a description of the reasons for selecting the cost estimates used for the calculations under this subparagraph and the confidence level for each of the cost estimates used in this section.
 
->     “(c) __Space Communications Plan.—__ 
+>     “(c)  __Space Communications Plan__  __.—__ 
 
->         “(1) __Plan.—__ 
+>         “(1)  __Plan__  __.—__ 
 
 >         The Administrator shall develop a plan, in consultation with relevant Federal agencies, for updating NASA’s space communications architecture for both low-Earth orbital operations and deep space exploration so that it is capable of meeting NASA’s needs over the next 20 years. The plan shall include life-cycle cost estimates, milestones, estimated performance capabilities, and 5-year funding profiles. The plan shall also include an estimate of the amounts of any reimbursements NASA is likely to receive from other Federal agencies during the expected life of the upgrades described in the plan. At a minimum, the plan shall include a description of the following:
 
@@ -177,21 +177,21 @@
 
 >             “(F) Cost and schedule estimates to maintain and upgrade the Tracking and Data Relay Satellite System to meet projected requirements.
 
->         “(2) __Consultations.—__ 
+>         “(2)  __Consultations__  __.—__ 
 
 >         The Administrator shall consult with other relevant Federal agencies in developing the plan under this subsection.
 
->         “(3) __Schedule.—__ 
+>         “(3)  __Schedule__  __.—__ 
 
 >         The Administrator shall transmit the plan under this subsection to the Committee on Science \[now Committee on Science, Space, and Technology\] of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate not later than February 17, 2007.
 
->     “(d) __Joint Dark Energy Mission.—__ 
+>     “(d)  __Joint Dark Energy Mission__  __.—__ 
 
 >     The Administrator and the Director of the Department of Energy Office of Science shall jointly transmit to the Committee on Science \[now Committee on Science, Space, and Technology\] of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate, not later than July 15, 2006, a report on plans for a Joint Dark Energy Mission. The report shall include the amount of funds each agency intends to expend on the Joint Dark Energy Mission for each of the fiscal years 2007 through 2011, and any specific milestones for the development and launch of the Mission.
 
->     “(e) __Office of Science and Technology Policy.—__ 
+>     “(e)  __Office of Science and Technology Policy__  __.—__ 
 
->         “(1) __Study.—__ 
+>         “(1)  __Study__  __.—__ 
 
 >         As part of ongoing efforts to coordinate research and development across the Federal agencies, the Director of the Office of Science and Technology Policy shall conduct a study to determine—
 
@@ -199,7 +199,7 @@
 
 >             “(B) if any research and development programs of NASA are neglecting any topics of national interest that are related to the mission of NASA.
 
->         “(2) __Report.—__ 
+>         “(2)  __Report__  __.—__ 
 
 >         Not later than one year after the date of enactment of this Act \[Dec. 30, 2005\], the Director of the Office of Science and Technology Policy shall transmit to the Committee on Science \[now Committee on Science, Space, and Technology\] of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report that—
 
@@ -211,7 +211,7 @@
 
 >             “(D) describes mechanisms the Office of Science and Technology Policy will use to ensure adequate coordination between NASA and Federal agencies that operate related programs.
 
->         “(3) __Contract.—__ 
+>         “(3)  __Contract__  __.—__ 
 
 >         The Director of the Office of Science and Technology Policy may contract with a nongovernmental entity to conduct the study required by paragraph (1).”
 

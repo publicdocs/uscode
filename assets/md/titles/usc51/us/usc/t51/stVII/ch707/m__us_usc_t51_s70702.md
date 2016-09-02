@@ -15,7 +15,7 @@
 
 ## § 70702. Establishment of Commission
 
-    (a) __Establishment.—__ 
+    (a)  __Establishment__  __.—__ 
 
     The President shall establish an independent, nonpartisan Commission within the executive branch to investigate any incident that results in the loss of—
 
@@ -27,7 +27,7 @@
 
         (4) a crew member or passenger of any space vehicle described in this subsection.
 
-    (b) __Deadline for Establishment.—__ 
+    (b)  __Deadline for Establishment__  __.—__ 
 
     The President shall establish a Commission within 7 days after an incident specified in subsection (a).
 

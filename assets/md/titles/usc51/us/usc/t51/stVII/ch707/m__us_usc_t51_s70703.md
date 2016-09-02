@@ -17,27 +17,27 @@
 
     A Commission established pursuant to this chapter shall, to the extent possible, undertake the following tasks:
 
-    (1) __Investigation.—__ 
+    (1)  __Investigation__  __.—__ 
 
     Investigate the incident.
 
-    (2) __Cause.—__ 
+    (2)  __Cause__  __.—__ 
 
     Determine the cause of the incident.
 
-    (3) __Contributing factors.—__ 
+    (3)  __Contributing factors__  __.—__ 
 
     Identify all contributing factors to the cause of the incident.
 
-    (4) __Recommendations.—__ 
+    (4)  __Recommendations__  __.—__ 
 
     Make recommendations for corrective actions.
 
-    (5) __Additional findings or recommendations.—__ 
+    (5)  __Additional findings or recommendations__  __.—__ 
 
     Provide any additional findings or recommendations deemed by the Commission to be important, whether or not they are related to the specific incident under investigation.
 
-    (6) __Report.—__ 
+    (6)  __Report__  __.—__ 
 
     Prepare a report to Congress, the President, and the public.
 

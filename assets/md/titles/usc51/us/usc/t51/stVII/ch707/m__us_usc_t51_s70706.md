@@ -15,7 +15,7 @@
 
 ## § 70706. Public meetings, information, and hearings
 
-    (a) __Public Meetings and Release of Public Versions of Reports.—__ 
+    (a)  __Public Meetings and Release of Public Versions of Reports__  __.—__ 
 
     A Commission shall—
 
@@ -23,7 +23,7 @@
 
         (2) release public versions of the reports required under this chapter.
 
-    (b) __Public Hearings.—__ 
+    (b)  __Public Hearings__  __.—__ 
 
     Any public hearings of a Commission shall be conducted in a manner consistent with the protection of information provided to or developed for or by the Commission as required by any applicable statute, regulation, or Executive order.
 

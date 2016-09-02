@@ -15,7 +15,7 @@
 
 ## § 20112. Functions of the Administration
 
-    (a) __Planning, Directing, and Conducting Aeronautical and Space Activities.—__ 
+    (a)  __Planning, Directing, and Conducting Aeronautical and Space Activities__  __.—__ 
 
     The Administration, in order to carry out the purpose of this chapter, shall—
 
@@ -31,11 +31,11 @@
 
     (b) __Research and Development in Certain Technologies.—__ 
 
-        (1) __Ground propulsion technologies.—__ 
+        (1)  __Ground propulsion technologies__  __.—__ 
 
         The Administration shall, to the extent of appropriated funds, initiate, support, and carry out such research, development, demonstration, and other related activities in ground propulsion technologies as are provided for in sections 4 to 10 of the Electric and Hybrid Vehicle Research, Development, and Demonstration Act of 1976 ([15 U.S.C. 2503][/us/usc/t15/s2503] to 2509).
 
-        (2) __Solar heating and cooling technologies.—__ 
+        (2)  __Solar heating and cooling technologies__  __.—__ 
 
         The Administration shall initiate, support, and carry out such research, development, demonstrations, and other related activities in solar heating and cooling technologies (to the extent that funds are appropriated therefor) as are provided for in sections 5, 6, and 9 of the Solar Heating and Cooling Demonstration Act of 1974 ([42 U.S.C. 5503][/us/usc/t42/s5503], 5504, 5507).
 

@@ -15,19 +15,19 @@
 
 ## § 40501. Biomedical research joint working group
 
-    (a) __Establishment.—__ 
+    (a)  __Establishment__  __.—__ 
 
     The Administrator and the Director of the National Institutes of Health shall jointly establish a working group to coordinate biomedical research activities in areas where a microgravity environment may contribute to significant progress in the understanding and treatment of diseases and other medical conditions. The joint working group shall formulate joint and complementary programs in such areas of research.
 
-    (b) __Membership.—__ 
+    (b)  __Membership__  __.—__ 
 
     The joint working group shall include equal representation from the Administration and the National Institutes of Health, and shall include representation from National Institutes of Health councils, as selected by the Director of the National Institutes of Health, and from the National Aeronautics and Space Administration Advisory Council.
 
-    (c) __Annual Biomedical Research Symposia.—__ 
+    (c)  __Annual Biomedical Research Symposia__  __.—__ 
 
     The joint working group shall organize annual symposia on biomedical research described in subsection (a) under the joint sponsorship of the Administration and the National Institutes of Health.
 
-    (d) __Annual Reporting Requirement.—__ 
+    (d)  __Annual Reporting Requirement__  __.—__ 
 
     The joint working group shall report annually to Congress on its progress in carrying out this section.
 
