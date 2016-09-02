@@ -47,7 +47,7 @@
 
     (e) This section applies to a seaman on a foreign vessel when in harbor of the United States. The courts are available to the seaman for the enforcement of this section.
 
-    (f) __Deposits in Seaman Account.—__ 
+    (f)  __Deposits in Seaman Account__  __.—__ 
 
     On written request signed by the seaman, a seaman employed on a passenger vessel capable of carrying more than 500 passengers may authorize, the master, owner, or operator of the vessel, or the employer of the seaman, to make deposits of wages of the seaman into a checking, savings, investment, or retirement account, or other account to secure a payroll or debit card for the seaman if—
 

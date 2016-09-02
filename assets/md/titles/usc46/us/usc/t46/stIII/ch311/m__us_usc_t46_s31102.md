@@ -15,7 +15,7 @@
 
 ## § 31102. Waiver of immunity
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     A civil action in personam in admiralty may be brought, or an impleader filed, against the United States for—
 
@@ -23,7 +23,7 @@
 
         (2) compensation for towage and salvage services, including contract salvage, rendered to a public vessel of the United States.
 
-    (b) __Counterclaim or Setoff.—__ 
+    (b)  __Counterclaim or Setoff__  __.—__ 
 
     If the United States brings a civil action in admiralty for damages caused by a privately owned vessel, the owner of the vessel, or the successor in interest, may file a counterclaim in personam, or claim a setoff, against the United States for damages arising out of the same subject matter.
 

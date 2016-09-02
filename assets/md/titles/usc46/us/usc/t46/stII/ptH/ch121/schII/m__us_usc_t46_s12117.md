@@ -15,7 +15,7 @@
 
 ## § 12117. Oil spill response vessels
 
-    (a) __Requirements.—__ 
+    (a)  __Requirements__  __.—__ 
 
     A coastwise endorsement may be issued for a vessel that—
 
@@ -33,7 +33,7 @@
 
             (ii) training exercises to prepare to respond to such a discharge.
 
-    (b) __Deemed Owned by Citizens.—__ 
+    (b)  __Deemed Owned by Citizens__  __.—__ 
 
     A vessel satisfying subsection (a) is deemed to be owned only by citizens of the United States under sections 12103, 12132, and 50501 of this title.
 

@@ -15,15 +15,15 @@
 
 ## § 12114. Recreational endorsement
 
-    (a) __Requirements.—__ 
+    (a)  __Requirements__  __.—__ 
 
     A recreational endorsement may be issued for a vessel that satisfies the requirements of [section 12103 of this title][/us/usc/t46/s12103].
 
-    (b) __Authorized Activity.—__ 
+    (b)  __Authorized Activity__  __.—__ 
 
     A vessel operating under a recreational endorsement may be operated only for pleasure.
 
-    (c) __Application of Customs Laws.—__ 
+    (c)  __Application of Customs Laws__  __.—__ 
 
     A vessel for which a recreational endorsement is issued may proceed between a port of the United States and a port of a foreign country without entering or clearing with the Secretary of Homeland Security. However, a recreational vessel is subject to the requirements for reporting arrivals under section 433 of the Tariff Act of 1930 ([19 U.S.C. 1433][/us/usc/t19/s1433]), and individuals on the vessel are subject to applicable customs regulations.
 

@@ -15,11 +15,11 @@
 
 ## § 31104. Venue
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     A civil action under this chapter shall be brought in the district court of the United States for the district in which the vessel or cargo is found within the United States.
 
-    (b) __Vessel or Cargo Outside Territorial Waters.—__ 
+    (b)  __Vessel or Cargo Outside Territorial Waters__  __.—__ 
 
     If the vessel or cargo is outside the territorial waters of the United States—
 

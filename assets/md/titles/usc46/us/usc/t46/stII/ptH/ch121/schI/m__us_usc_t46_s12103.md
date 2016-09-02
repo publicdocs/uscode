@@ -15,7 +15,7 @@
 
 ## § 12103. General eligibility requirements
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     Except as otherwise provided, a certificate of documentation for a vessel may be issued under this chapter only if the vessel is—
 
@@ -25,7 +25,7 @@
 
         (3) not documented under the laws of a foreign country.
 
-    (b) __Eligible Owners.—__ 
+    (b)  __Eligible Owners__  __.—__ 
 
     For purposes of subsection (a)(1), the following are eligible owners:
 
@@ -61,7 +61,7 @@
 
         (6) The government of a State.
 
-    (c) __Temporary Certificates Prior to Measurement.—__ 
+    (c)  __Temporary Certificates Prior to Measurement__  __.—__ 
 
     Notwithstanding subsection (a)(2), the Secretary may issue a temporary certificate of documentation for a vessel before it is measured.
 

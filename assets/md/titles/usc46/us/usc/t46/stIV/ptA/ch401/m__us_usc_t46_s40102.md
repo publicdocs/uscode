@@ -17,7 +17,7 @@
 
     In this part:
 
-    (1) __Agreement.—__ 
+    (1)  __Agreement__  __.—__ 
 
     The term “agreement”—
 
@@ -25,7 +25,7 @@
 
         (B) does not include a maritime labor agreement.
 
-    (2) __Antitrust laws.—__ 
+    (2)  __Antitrust laws__  __.—__ 
 
     The term “antitrust laws” means—
 
@@ -43,15 +43,15 @@
 
         (G) Acts supplementary to those Acts.
 
-    (3) __Assessment agreement.—__ 
+    (3)  __Assessment agreement__  __.—__ 
 
     The term “assessment agreement” means an agreement, whether part of a collective bargaining agreement or negotiated separately, to the extent the agreement provides for the funding of collectively bargained fringe-benefit obligations on other than a uniform worker-hour basis, regardless of the cargo handled or type of vessel or equipment used.
 
-    (4) __Bulk cargo.—__ 
+    (4)  __Bulk cargo__  __.—__ 
 
     The term “bulk cargo” means cargo that is loaded and carried in bulk without mark or count.
 
-    (5) __Chemical parcel-tanker.—__ 
+    (5)  __Chemical parcel-tanker__  __.—__ 
 
     The term “chemical parcel-tanker” means a vessel that has—
 
@@ -65,7 +65,7 @@
 
         (B) a valid certificate of fitness under the International Maritime Organization Code for the Construction and Equipment of Ships Carrying Dangerous Chemicals in Bulk.
 
-    (6) __Common carrier.—__ 
+    (6)  __Common carrier__  __.—__ 
 
     The term “common carrier”—
 
@@ -87,7 +87,7 @@
 
             (ii) only with respect to the carriage of those commodities.
 
-    (7) __Conference.—__ 
+    (7)  __Conference__  __.—__ 
 
     The term “conference”—
 
@@ -95,7 +95,7 @@
 
         (B) does not include a joint service, consortium, pooling, sailing, or transshipment agreement.
 
-    (8) __Controlled carrier.—__ 
+    (8)  __Controlled carrier__  __.—__ 
 
     The term “controlled carrier” means an ocean common carrier that is, or whose operating assets are, directly or indirectly, owned or controlled by a government, with ownership or control by a government being deemed to exist for a carrier if—
 
@@ -103,7 +103,7 @@
 
         (B) that government has the right to appoint or disapprove the appointment of a majority of the directors, the chief operating officer, or the chief executive officer of the carrier.
 
-    (9) __Deferred rebate.—__ 
+    (9)  __Deferred rebate__  __.—__ 
 
     The term “deferred rebate” means a return by a common carrier of any freight money to a shipper, where the return is—
 
@@ -113,19 +113,19 @@
 
         (C) made only if the shipper has agreed to make a further shipment with that or any other common carrier.
 
-    (10) __Forest products.—__ 
+    (10)  __Forest products__  __.—__ 
 
     The term “forest products” includes lumber in bundles, rough timber, ties, poles, piling, laminated beams, bundled siding, bundled plywood, bundled core stock or veneers, bundled particle or fiber boards, bundled hardwood, wood pulp in rolls, wood pulp in unitized bales, and paper and paper board in rolls or in pallet or skid-sized sheets.
 
-    (11) __Inland division.—__ 
+    (11)  __Inland division__  __.—__ 
 
     The term “inland division” means the amount paid by a common carrier to an inland carrier for the inland portion of through transportation offered to the public by the common carrier.
 
-    (12) __Inland portion.—__ 
+    (12)  __Inland portion__  __.—__ 
 
     The term “inland portion” means the charge to the public by a common carrier for the non-ocean portion of through transportation.
 
-    (13) __Loyalty contract.—__ 
+    (13)  __Loyalty contract__  __.—__ 
 
     The term “loyalty contract” means a contract with an ocean common carrier or agreement providing for—
 
@@ -133,11 +133,11 @@
 
         (B) a deferred rebate arrangement.
 
-    (14) __Marine terminal operator.—__ 
+    (14)  __Marine terminal operator__  __.—__ 
 
     The term “marine terminal operator” means a person engaged in the United States in the business of providing wharfage, dock, warehouse, or other terminal facilities in connection with a common carrier, or in connection with a common carrier and a water carrier subject to subchapter II of chapter 135 of title 49.
 
-    (15) __Maritime labor agreement.—__ 
+    (15)  __Maritime labor agreement__  __.—__ 
 
     The term “maritime labor agreement”—
 
@@ -153,7 +153,7 @@
 
         (B) does not include an assessment agreement.
 
-    (16) __Non-vessel-operating common carrier.—__ 
+    (16)  __Non-vessel-operating common carrier__  __.—__ 
 
     The term “non-vessel-operating common carrier” means a common carrier that—
 
@@ -161,11 +161,11 @@
 
         (B) is a shipper in its relationship with an ocean common carrier.
 
-    (17) __Ocean common carrier.—__ 
+    (17)  __Ocean common carrier__  __.—__ 
 
     The term “ocean common carrier” means a vessel-operating common carrier.
 
-    (18) __Ocean freight forwarder.—__ 
+    (18)  __Ocean freight forwarder__  __.—__ 
 
     The term “ocean freight forwarder” means a person that—
 
@@ -173,11 +173,11 @@
 
         (B) processes the documentation or performs related activities incident to those shipments.
 
-    (19) __Ocean transportation intermediary.—__ 
+    (19)  __Ocean transportation intermediary__  __.—__ 
 
     The term “ocean transportation intermediary” means an ocean freight forwarder or a non-vessel-operating common carrier.
 
-    (20) __Service contract.—__ 
+    (20)  __Service contract__  __.—__ 
 
     The term “service contract” means a written contract, other than a bill of lading or receipt, between one or more shippers, on the one hand, and an individual ocean common carrier or an agreement between or among ocean common carriers, on the other, in which—
 
@@ -185,11 +185,11 @@
 
         (B) the ocean common carrier or the agreement commits to a certain rate or rate schedule and a defined service level, such as assured space, transit time, port rotation, or similar service features.
 
-    (21) __Shipment.—__ 
+    (21)  __Shipment__  __.—__ 
 
     The term “shipment” means all of the cargo carried under the terms of a single bill of lading.
 
-    (22) __Shipper.—__ 
+    (22)  __Shipper__  __.—__ 
 
     The term “shipper” means—
 
@@ -203,15 +203,15 @@
 
         (E) a non-vessel-operating common carrier that accepts responsibility for payment of all charges applicable under the tariff or service contract.
 
-    (23) __Shippers’ association.—__ 
+    (23)  __Shippers’ association__  __.—__ 
 
     The term “shippers’ association” means a group of shippers that consolidates or distributes freight on a nonprofit basis for the members of the group to obtain carload, truckload, or other volume rates or service contracts.
 
-    (24) __Through rate.—__ 
+    (24)  __Through rate__  __.—__ 
 
     The term “through rate” means the single amount charged by a common carrier in connection with through transportation.
 
-    (25) __Through transportation.—__ 
+    (25)  __Through transportation__  __.—__ 
 
     The term “through transportation” means continuous transportation between origin and destination for which a through rate is assessed and which is offered or performed by one or more carriers, at least one of which is a common carrier, between a United States port or point and a foreign port or point.
 

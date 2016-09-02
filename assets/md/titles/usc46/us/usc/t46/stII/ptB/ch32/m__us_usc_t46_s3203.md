@@ -15,7 +15,7 @@
 
 ## § 3203. Safety management system
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     The Secretary shall prescribe regulations which establish a safety management system for responsible persons and vessels to which this chapter applies, including—
 
@@ -31,7 +31,7 @@
 
         (6) procedures for internal audits and management reviews of the system.
 
-    (b) __Compliance With Code.—__ 
+    (b)  __Compliance With Code__  __.—__ 
 
     Regulations prescribed under this section shall be consistent with the International Safety Management Code with respect to vessels to which this chapter applies under [section 3202(a) of this title][/us/usc/t46/s3202/a].
 

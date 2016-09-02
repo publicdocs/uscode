@@ -15,7 +15,7 @@
 
 ## § 40903. Suspension or revocation of license
 
-    (a) __Failure To Maintain Qualifications or To Comply.—__ 
+    (a)  __Failure To Maintain Qualifications or To Comply__  __.—__ 
 
     The Federal Maritime Commission, after notice and opportunity for a hearing, shall suspend or revoke an ocean transportation intermediary’s license if the Commission finds that the ocean transportation intermediary—
 
@@ -23,7 +23,7 @@
 
         (2) willfully failed to comply with a provision of this part or with an order or regulation of the Commission.
 
-    (b) __Failure To Maintain Bond, Proof of Insurance, or Other Surety.—__ 
+    (b)  __Failure To Maintain Bond, Proof of Insurance, or Other Surety__  __.—__ 
 
     The Commission may revoke an ocean transportation intermediary’s license for failure to maintain a bond, proof of insurance, or other surety as required by [section 40902(a) of this title][/us/usc/t46/s40902/a].
 

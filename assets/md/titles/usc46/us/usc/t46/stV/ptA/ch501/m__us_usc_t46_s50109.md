@@ -15,23 +15,23 @@
 
 ## § 50109. Miscellaneous studies
 
-    (a) __Foreign Subsidies.—__ 
+    (a)  __Foreign Subsidies__  __.—__ 
 
     The Secretary of Transportation shall investigate, determine, and keep current records of the extent and character of the governmental aid and subsidies granted by foreign governments to their merchant marine.
 
-    (b) __Laws Applicable to Aircraft.—__ 
+    (b)  __Laws Applicable to Aircraft__  __.—__ 
 
     The Secretary shall investigate, determine, and keep current records of the provisions of law relating to shipping that should be made applicable to aircraft engaged in foreign commerce to further the policy in [section 50101 of this title][/us/usc/t46/s50101], and any appropriate legislation in this regard.
 
-    (c) __Aid for Cotton, Coal, Lumber, and Cement.—__ 
+    (c)  __Aid for Cotton, Coal, Lumber, and Cement__  __.—__ 
 
     The Secretary shall investigate, determine, and keep current records of the advisability of enactment of suitable legislation authorizing the Secretary, in an economic or commercial emergency, to aid farmers and producers of cotton, coal, lumber, and cement in any section of the United States in the transportation and landing of their products in any foreign port, which products can be carried in dry-cargo vessels by reducing rates, by supplying additional tonnage to any American operator, or by operation of vessels directly by the Secretary, until the Secretary considers the special rate reduction and operation unnecessary for the benefit of those farmers and producers.
 
-    (d) __Intercoastal and Inland Water Transportation.—__ 
+    (d)  __Intercoastal and Inland Water Transportation__  __.—__ 
 
     The Secretary shall investigate, determine, and keep current records of intercoastal and inland water transportation, including their relation to transportation by land and air.
 
-    (e) __Obsolete Tonnage and Tramp Service.—__ 
+    (e)  __Obsolete Tonnage and Tramp Service__  __.—__ 
 
     The Secretary shall make studies and reports to Congress on—
 
@@ -39,7 +39,7 @@
 
         (2) tramp shipping service and the advisability of citizens of the United States participating in that service with vessels under United States registry.
 
-    (f) __Mortgage Loans.—__ 
+    (f)  __Mortgage Loans__  __.—__ 
 
     The Secretary shall investigate the legal status of mortgage loans on vessel property, with a view to the means of improving the security of those loans and of encouraging investment in American shipping.
 

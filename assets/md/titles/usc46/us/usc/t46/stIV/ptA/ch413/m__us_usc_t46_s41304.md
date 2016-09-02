@@ -15,19 +15,19 @@
 
 ## § 41304. Hearings and orders
 
-    (a) __Opportunity for Hearing.—__ 
+    (a)  __Opportunity for Hearing__  __.—__ 
 
     The Federal Maritime Commission shall provide an opportunity for a hearing before issuing an order relating to a violation of this part or a regulation prescribed under this part.
 
-    (b) __Modification of Order.—__ 
+    (b)  __Modification of Order__  __.—__ 
 
     The Commission may reverse, suspend, or modify any of its orders.
 
-    (c) __Rehearing.—__ 
+    (c)  __Rehearing__  __.—__ 
 
     On application of a party to a proceeding, the Commission may grant a rehearing of the same or any matter determined in the proceeding. Except by order of the Commission, a rehearing does not operate as a stay of an order.
 
-    (d) __Period of Effectiveness.—__ 
+    (d)  __Period of Effectiveness__  __.—__ 
 
     An order of the Commission remains in effect for the period specified in the order or until suspended, modified, or set aside by the Commission or a court of competent jurisdiction.
 

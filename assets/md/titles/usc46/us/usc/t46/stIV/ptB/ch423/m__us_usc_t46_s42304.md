@@ -15,7 +15,7 @@
 
 ## § 42304. Action against foreign carriers
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     Subject to [section 42306 of this title][/us/usc/t46/s42306], whenever the Federal Maritime Commission, after notice and opportunity for comment or hearing, determines that the conditions specified in [section 42302(a) of this title][/us/usc/t46/s42302/a] exist, the Commission shall take such action to offset those conditions as it considers necessary and appropriate against any foreign carrier that is a contributing cause, or whose government is a contributing cause, to those conditions. The action may include—
 
@@ -27,7 +27,7 @@
 
         (4) a fee not to exceed $1,000,000 per voyage.
 
-    (b) __Consultation.—__ 
+    (b)  __Consultation__  __.—__ 
 
     The Commission may consult with, seek the cooperation of, or make recommendations to other appropriate agencies of the United States Government prior to taking any action under subsection (a).
 

@@ -15,7 +15,7 @@
 
 ## § 40902. Financial responsibility
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     A person may not act as an ocean transportation intermediary unless the person furnishes a bond, proof of insurance, or other surety—
 
@@ -23,7 +23,7 @@
 
         (2) issued by a surety company found acceptable by the Secretary of the Treasury.
 
-    (b) __Scope of Financial Responsibility.—__ 
+    (b)  __Scope of Financial Responsibility__  __.—__ 
 
     A bond, insurance, or other surety obtained under this section—
 
@@ -39,11 +39,11 @@
 
         (3) shall be available to pay any judgment for damages against an ocean transportation intermediary arising from its transportation-related activities, if the claimant has first attempted to resolve the claim under paragraph (2) and the claim has not been resolved within a reasonable period of time.
 
-    (c) __Regulations on Court Judgments.—__ 
+    (c)  __Regulations on Court Judgments__  __.—__ 
 
     The Commission shall prescribe regulations for the purpose of protecting the interests of claimants, ocean transportation intermediaries, and surety companies with respect to the process of pursuing claims against ocean transportation intermediary bonds, insurance, or sureties through court judgments. The regulations shall provide that a judgment for monetary damages may not be enforced except to the extent that the damages claimed arise from the transportation-related activities of the insured ocean transportation intermediary, as defined by the Commission.
 
-    (d) __Resident Agent.—__ 
+    (d)  __Resident Agent__  __.—__ 
 
     An ocean transportation intermediary not domiciled in the United States shall designate a resident agent in the United States for receipt of service of judicial and administrative process, including subpoenas.
 

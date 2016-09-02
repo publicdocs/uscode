@@ -15,17 +15,17 @@
 
 ## § 40501. General rate and tariff requirements
 
-    (a) __Automated Tariff System.—__ 
+    (a)  __Automated Tariff System__  __.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         Each common carrier and conference shall keep open to public inspection in an automated tariff system, tariffs showing all its rates, charges, classifications, rules, and practices between all points or ports on its own route and on any through transportation route that has been established. However, a common carrier is not required to state separately or otherwise reveal in tariffs the inland divisions of a through rate.
 
-        (2) __Exceptions.—__ 
+        (2)  __Exceptions__  __.—__ 
 
         Paragraph (1) does not apply with respect to bulk cargo, forest products, recycled metal scrap, new assembled motor vehicles, waste paper, or paper waste.
 
-    (b) __Contents of Tariffs.—__ 
+    (b)  __Contents of Tariffs__  __.—__ 
 
     A tariff under subsection (a) shall—
 
@@ -41,39 +41,39 @@
 
         (6) include copies of any loyalty contract, omitting the shipper’s name.
 
-    (c) __Electronic Access.—__ 
+    (c)  __Electronic Access__  __.—__ 
 
     A tariff under subsection (a) shall be made available electronically to any person, without time, quantity, or other limitation, through appropriate access from remote locations. A reasonable fee may be charged for such access, except that no fee may be charged for access by a Federal agency.
 
-    (d) __Time-Volume Rates.—__ 
+    (d)  __Time-Volume Rates__  __.—__ 
 
     A rate contained in a tariff under subsection (a) may vary with the volume of cargo offered over a specified period of time.
 
-    (e) __Effective Dates.—__ 
+    (e)  __Effective Dates__  __.—__ 
 
-        (1) __Increases.—__ 
+        (1)  __Increases__  __.—__ 
 
         A new or initial rate or change in an existing rate that results in an increased cost to a shipper may not become effective earlier than 30 days after publication. However, for good cause, the Federal Maritime Commission may allow the rate to become effective sooner.
 
-        (2) __Decreases.—__ 
+        (2)  __Decreases__  __.—__ 
 
         A change in an existing rate that results in a decreased cost to a shipper may become effective on publication.
 
-    (f) __Marine Terminal Operator Schedules.—__ 
+    (f)  __Marine Terminal Operator Schedules__  __.—__ 
 
     A marine terminal operator may make available to the public a schedule of rates, regulations, and practices, including limitations of liability for cargo loss or damage, pertaining to receiving, delivering, handling, or storing property at its marine terminal. Any such schedule made available to the public is enforceable by an appropriate court as an implied contract without proof of actual knowledge of its provisions.
 
-    (g) __Regulations.—__ 
+    (g)  __Regulations__  __.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         The Commission shall by regulation prescribe the requirements for the accessibility and accuracy of automated tariff systems established under this section. The Commission, after periodic review, may prohibit the use of any automated tariff system that fails to meet the requirements established under this section.
 
-        (2) __Remote terminals.—__ 
+        (2)  __Remote terminals__  __.—__ 
 
         The Commission may not require a common carrier to provide a remote terminal for electronic access under subsection (c).
 
-        (3) __Marine terminal operator schedules.—__ 
+        (3)  __Marine terminal operator schedules__  __.—__ 
 
         The Commission shall by regulation prescribe the form and manner in which marine terminal operator schedules authorized by this section shall be published.
 

@@ -15,11 +15,11 @@
 
 ## § 40302. Filing requirements
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     A true copy of every agreement referred to in section 40301(a) or (b) of this title shall be filed with the Federal Maritime Commission. If the agreement is oral, a complete memorandum specifying in detail the substance of the agreement shall be filed.
 
-    (b) __Exceptions.—__ 
+    (b)  __Exceptions__  __.—__ 
 
     Subsection (a) does not apply to—
 
@@ -27,7 +27,7 @@
 
         (2) an agreement among common carriers to establish, operate, or maintain a marine terminal in the United States.
 
-    (c) __Regulations.—__ 
+    (c)  __Regulations__  __.—__ 
 
     The Commission may by regulation prescribe the form and manner in which an agreement shall be filed and any additional information and documents necessary to evaluate the agreement.
 

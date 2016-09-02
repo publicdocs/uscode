@@ -15,19 +15,19 @@
 
 ## § 41305. Award of reparations
 
-    (a) __Definition.—__ 
+    (a)  __Definition__  __.—__ 
 
     In this section, the term “actual injury” includes the loss of interest at commercial rates compounded from the date of injury.
 
-    (b) __Basic Amount.—__ 
+    (b)  __Basic Amount__  __.—__ 
 
     If the complaint was filed within the period specified in [section 41301(a) of this title][/us/usc/t46/s41301/a], the Federal Maritime Commission shall direct the payment of reparations to the complainant for actual injury caused by a violation of this part, plus reasonable attorney fees.
 
-    (c) __Additional Amounts.—__ 
+    (c)  __Additional Amounts__  __.—__ 
 
     On a showing that the injury was caused by an activity prohibited by section 41102(b), 41104(3) or (6), or 41105(1) or (3) of this title, the Commission may order the payment of additional amounts, but the total recovery of a complainant may not exceed twice the amount of the actual injury.
 
-    (d) __Difference Between Rates.—__ 
+    (d)  __Difference Between Rates__  __.—__ 
 
     If the injury was caused by an activity prohibited by section 41104(4)(A) or (B) of this title, the amount of the injury shall be the difference between the rate paid by the injured shipper and the most favorable rate paid by another shipper.
 

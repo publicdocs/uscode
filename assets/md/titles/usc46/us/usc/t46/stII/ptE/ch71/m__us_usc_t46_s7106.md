@@ -15,11 +15,11 @@
 
 ## § 7106. Duration of licenses
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     A license issued under this part is valid for a 5-year period and may be renewed for additional 5-year periods; except that the validity of a license issued to a radio officer is conditioned on the continuous possession by the holder of a first-class or second-class radiotelegraph operator license issued by the Federal Communications Commission.
 
-    (b) __Advance Renewals.—__ 
+    (b)  __Advance Renewals__  __.—__ 
 
     A renewed license issued under this part may be issued up to 8 months in advance but is not effective until the date that the previously issued license expires or until the completion of any active suspension or revocation of that previously issued merchant mariner’s document, whichever is later.
 

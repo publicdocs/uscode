@@ -15,11 +15,11 @@
 
 ## § 30706. Defenses
 
-    (a) __Due Diligence.—__ 
+    (a)  __Due Diligence__  __.—__ 
 
     If a carrier has exercised due diligence to make the vessel in all respects seaworthy and to properly man, equip, and supply the vessel, the carrier and the vessel are not liable for loss or damage arising from an error in the navigation or management of the vessel.
 
-    (b) __Other Defenses.—__ 
+    (b)  __Other Defenses__  __.—__ 
 
     A carrier and the vessel are not liable for loss or damage arising from—
 

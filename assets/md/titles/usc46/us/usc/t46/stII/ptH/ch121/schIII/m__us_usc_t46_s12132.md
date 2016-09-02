@@ -15,11 +15,11 @@
 
 ## § 12132. Loss of coastwise trade privileges
 
-    (a) __Sold Foreign or Placed Under Foreign Registry.—__ 
+    (a)  __Sold Foreign or Placed Under Foreign Registry__  __.—__ 
 
     A vessel of more than 200 gross tons (as measured under chapter 143 of this title), eligible to engage in the coastwise trade, and later sold foreign in whole or in part or placed under foreign registry may not thereafter engage in the coastwise trade.
 
-    (b) __Rebuilt Outside the United States.—__ 
+    (b)  __Rebuilt Outside the United States__  __.—__ 
 
     A vessel eligible to engage in the coastwise trade and later rebuilt outside the United States may not thereafter engage in the coastwise trade.
 

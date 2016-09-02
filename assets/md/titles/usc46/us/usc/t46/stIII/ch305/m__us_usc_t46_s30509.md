@@ -15,9 +15,9 @@
 
 ## § 30509. Provisions limiting liability for personal injury or death
 
-    (a) __Prohibition.—__ 
+    (a)  __Prohibition__  __.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         The owner, master, manager, or agent of a vessel transporting passengers between ports in the United States, or between a port in the United States and a port in a foreign country, may not include in a regulation or contract a provision limiting—
 
@@ -25,13 +25,13 @@
 
             (B) the right of a claimant for personal injury or death to a trial by court of competent jurisdiction.
 
-        (2) __Voidness.—__ 
+        (2)  __Voidness__  __.—__ 
 
         A provision described in paragraph (1) is void.
 
-    (b) __Emotional Distress, Mental Suffering, and Psychological Injury.—__ 
+    (b)  __Emotional Distress, Mental Suffering, and Psychological Injury__  __.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         Subsection (a) does not prohibit a provision in a contract or in ticket conditions of carriage with a passenger that relieves an owner, master, manager, agent, operator, or crewmember of a vessel from liability for infliction of emotional distress, mental suffering, or psychological injury so long as the provision does not limit such liability when the emotional distress, mental suffering, or psychological injury is—
 
@@ -41,7 +41,7 @@
 
             (C) intentionally inflicted by a crewmember or the owner, master, manager, agent, or operator.
 
-        (2) __Sexual offenses.—__ 
+        (2)  __Sexual offenses__  __.—__ 
 
         This subsection does not limit the liability of a crewmember or the owner, master, manager, agent, or operator of a vessel in a case involving sexual harassment, sexual assault, or rape.
 

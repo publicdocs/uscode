@@ -95,11 +95,11 @@ Source section (U.S. Code)  </td>
 
 [Pub. L. 111–281, title VI, § 617(e)][/us/pl/111/281/s617/e], Oct. 15, 2010, [124 Stat. 2973][/us/stat/124/2973], provided that:
 
->     “(1) __Application.—__ 
+>     “(1)  __Application__  __.—__ 
 
 >     An offshore supply vessel of at least 6,000 gross tons as measured under [section 14302 of title 46][/us/usc/t46/s14302], United States Code, that is constructed under a contract entered into after the date of enactment of this Act \[Oct. 15, 2010\], or that is delivered after August 1, 2010, with an aggregate capacity of 600 cubic meters or more of oil fuel, shall comply with the requirements of Regulation 12A under Annex I to the Protocol of 1978 relating to the International Convention for the Prevention of Pollution from Ships, 1973, entitled Oil Fuel Tank Protection, regardless of whether such vessel is engaged in the coastwise trade or on an international voyage.
 
->     “(2) __Definition.—__ 
+>     “(2)  __Definition__  __.—__ 
 
 >     In this subsection the term ‘oil fuel’ means any oil used as fuel in connection with the propulsion and auxiliary machinery of the vessel in which such oil is carried.”
 
@@ -107,15 +107,15 @@ Source section (U.S. Code)  </td>
 
 [Pub. L. 111–281, title VI, § 617(f)][/us/pl/111/281/s617/f], Oct. 15, 2010, [124 Stat. 2974][/us/stat/124/2974], as amended by [Pub. L. 111–330, § 1(8)][/us/pl/111/330/s1/8], Dec. 22, 2010, [124 Stat. 3569][/us/stat/124/3569], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Not later than January 1, 2012, the Secretary of the department in which the Coast Guard is operating shall promulgate regulations to implement the amendments and authorities enacted by this section \[amending sections 2101, 3702, 7312, and 8104 of this title, enacting provisions set out as a note under this section, and amending provisions set out as a note under [section 2101 of this title][/us/usc/t46/s2101]\] for offshore supply vessels of at least 6,000 gross tons as measured under [section 14302 of title 46][/us/usc/t46/s14302], United States Code, and to ensure the safe carriage of oil, hazardous substances, and individuals in addition to the crew on such vessels. The final rule issued pursuant to such rulemaking may supersede the interim final rule promulgated under paragraph (2) of this subsection. In promulgating regulations under this subsection, the Secretary shall take into consideration the characteristics of offshore supply vessels, their methods of operation, and their service in support of exploration, exploitation, or production of offshore mineral or energy resources.
 
->     “(2) __Interim final rule authority.—__ 
+>     “(2)  __Interim final rule authority__  __.—__ 
 
 >     As soon as is practicable and without regard to the provisions of chapters 5 and 6 of title 5, United States Code, the Secretary shall issue an interim final rule as a temporary regulation implementing this section (including the amendments made by this section) for offshore supply vessels of at least 6,000 gross tons as measured under [section 14302 of title 46][/us/usc/t46/s14302], United States Code, and to ensure the safe carriage of oil, hazardous substances, and individuals in addition to the crew on such vessels.
 
->     “(3) __Interim period.—__ 
+>     “(3)  __Interim period__  __.—__ 
 
 >     After the effective date of this Act \[Oct. 15, 2010\], prior to the effective date of the regulations prescribed by paragraph (2) of this subsection, and without regard to the provisions of chapters 5 and 6 of title 5, United States Code, and the offshore supply vessel tonnage limits of applicable regulations and policy guidance promulgated prior to the date of enactment of this Act \[Oct. 15, 2010\], the Secretary of the department in which the Coast Guard is operating may—
 
@@ -129,7 +129,7 @@ Source section (U.S. Code)  </td>
 
 [Pub. L. 111–281, title VII, § 702][/us/pl/111/281/s702], Oct. 15, 2010, [124 Stat. 2980][/us/stat/124/2980], as amended by [Pub. L. 111–330, § 1(10)][/us/pl/111/330/s1/10], Dec. 22, 2010, [124 Stat. 3570][/us/stat/124/3570], provided that:
 
->     “(a) __Regulations.—__ 
+>     “(a)  __Regulations__  __.—__ 
 
 >     Within 1 year after the date of enactment of this Act \[Oct. 15, 2010\], the Secretary of the department in which the Coast Guard is operating shall promulgate regulations to reduce the risks of oil spills in operations involving the transfer of oil from or to a tank vessel. The regulations—
 
@@ -147,7 +147,7 @@ Source section (U.S. Code)  </td>
 
 >         “(3) shall take into account the safety of personnel and effectiveness of available procedures and equipment for preventing or mitigating transfer spills.
 
->     “(b) __Application With State Laws.—__ 
+>     “(b)  __Application With State Laws__  __.—__ 
 
 >     The regulations promulgated under subsection (a) do not preclude the enforcement of any State law or regulation the requirements of which are at least as stringent as requirements under the regulations (as determined by the Secretary) that—
 
@@ -159,7 +159,7 @@ Source section (U.S. Code)  </td>
 
 [Pub. L. 111–281, title VII, § 703][/us/pl/111/281/s703], Oct. 15, 2010, [124 Stat. 2981][/us/stat/124/2981], as amended by [Pub. L. 111–330, § 1(11)][/us/pl/111/330/s1/11], Dec. 22, 2010, [124 Stat. 3570][/us/stat/124/3570], provided that:
 
->     “(a) __Report.—__ 
+>     “(a)  __Report__  __.—__ 
 
 >     Within 1 year after the date of enactment of this Act \[Oct. 15, 2010\], the Secretary of the department in which the Coast Guard is operating shall transmit a report to the Senate Committee on Commerce, Science, and Transportation and the House Committee on Transportation and Infrastructure that, using available data—
 
@@ -171,17 +171,17 @@ Source section (U.S. Code)  </td>
 
 >         “(4) includes recommendations by the Secretary and representatives of industry and labor and experts in the fields of marine casualties and human factors to address the identified types of errors and any such gaps in the data.
 
->     “(b) __Measures.—__ 
+>     “(b)  __Measures__  __.—__ 
 
 >     Based on the findings contained in the report required by subsection (a), the Secretary shall take appropriate action to reduce the risk of oil spills caused by human error.
 
->     “(c) __Confidentiality of Voluntarily Submitted Information.—__ 
+>     “(c)  __Confidentiality of Voluntarily Submitted Information__  __.—__ 
 
 >     The identity of a person making a voluntary disclosure under this section, and any information obtained from any such voluntary disclosure, shall be treated as confidential.
 
 >     “(d) __Discovery of Voluntarily Submitted Information.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Except as provided in this subsection, a party in a judicial proceeding may not use discovery to obtain information or data collected or received by the Secretary for use in the report required in subsection (a).
 
@@ -199,7 +199,7 @@ Source section (U.S. Code)  </td>
 
 >             “(C) A court may allow data it has decided is discoverable under this paragraph to be admitted into evidence in a judicial proceeding only if the court places the data under seal to prevent the use of the data for a purpose other than for the proceeding.
 
->         “(3) __Application.—__ 
+>         “(3)  __Application__  __.—__ 
 
 >         Paragraph (1) shall not apply to—
 
@@ -207,7 +207,7 @@ Source section (U.S. Code)  </td>
 
 >             “(B) any disclosure made with reckless disregard as to the truth or falsity of that disclosure.
 
->     “(e) __Restriction on Use of Data.—__ 
+>     “(e)  __Restriction on Use of Data__  __.—__ 
 
 >     Data that is voluntarily submitted for the purpose of the study required under subsection (a) shall not be used in an administrative action under chapter 77 of title 46, United States Code.”
 
@@ -223,17 +223,17 @@ Source section (U.S. Code)  </td>
 
 [Pub. L. 104–324, title IX, § 903][/us/pl/104/324/s903], Oct. 19, 1996, [110 Stat. 3947][/us/stat/110/3947], provided that:
 
->     “(a) __Study of Group-5 Fuel Oil Spills.—__ 
+>     “(a)  __Study of Group-__  __5 Fuel Oil Spills.—__ 
 
->         “(1) __Definition.—__ 
+>         “(1)  __Definition__  __.—__ 
 
 >         In this subsection, the term ‘group-5 fuel oil’ means a petroleum-based oil that has a specific gravity of greater than 1.0.
 
->         “(2) __Coordination of study.—__ 
+>         “(2)  __Coordination of study__  __.—__ 
 
 >         The Secretary of Transportation shall coordinate with the Marine Board of the National Research Council to conduct a study of the relative environmental and public health risks posed by discharges of group-5 fuel oil.
 
->         “(3) __Matters to be included.—__ 
+>         “(3)  __Matters to be included__  __.—__ 
 
 >         The study under this subsection shall include a review and analysis of—
 
@@ -243,33 +243,33 @@ Source section (U.S. Code)  </td>
 
 >             “(C) any technological and financial barriers that prevent the prompt remediation of discharges of group-5 fuel oil.
 
->         “(4) __Report.—__ 
+>         “(4)  __Report__  __.—__ 
 
 >         Not later than 18 months after the date of enactment of this Act \[Oct. 19, 1996\], the Secretary of Transportation shall submit to the Committee on Environment and Public Works and the Committee on Commerce, Science, and Transportation of the Senate, and the Committee on Transportation and Infrastructure of the House of Representatives a report on the results of the study under this subsection.
 
->         “(5) __Rulemaking.—__ 
+>         “(5)  __Rulemaking__  __.—__ 
 
 >         If the Secretary of Transportation determines, based on the results of the study under this subsection, that there are significant risks to public health or the environment resulting from the actual or threatened discharge of group-5 fuel oil from a vessel or facility that cannot be technologically or economically addressed by existing or anticipated cleanup efforts, the Secretary may initiate a rulemaking to take such action as is necessary to abate the threat.
 
 >     “(b) __Study of Automatic Fueling Shutoff Equipment.—__ 
 
->         “(1) __Coordination of study.—__ 
+>         “(1)  __Coordination of study__  __.—__ 
 
 >         The Secretary of Transportation shall coordinate with the Marine Board of the National Research Council to conduct a study of the unintentional or accidental discharge of fuel oil during lightering or fuel loading or off-loading activity.
 
->         “(2) __Matters to be included.—__ 
+>         “(2)  __Matters to be included__  __.—__ 
 
 >         The study under this subsection shall include a review and analysis of current monitoring and fueling practices to determine the need for automatic fuel shutoff equipment to prevent the accidental discharge of fuel oil, and whether such equipment is needed as a supplement to or replacement of existing preventive equipment or procedures.
 
->         “(3) __Report.—__ 
+>         “(3)  __Report__  __.—__ 
 
 >         Not later than 18 months after the date of enactment of this Act \[Oct. 19, 1996\], the Secretary of Transportation shall submit to the Committee on Environment and Public Works and the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report on the results of the study under this subsection.
 
->         “(4) __Rulemaking.—__ 
+>         “(4)  __Rulemaking__  __.—__ 
 
 >         If the Secretary of Transportation determines, based on the results of the study conducted under this subsection, that the use of automatic oil shutoff equipment is necessary to prevent the actual or threatened discharge of oil during lightering or fuel loading or off\[-\]loading activity, the Secretary may initiate a rulemaking to take such action as is necessary to abate a threat to public health or the environment.
 
->     “(c) __Lightering Study.—__ 
+>     “(c)  __Lightering Study__  __.—__ 
 
 >     The Secretary of Transportation shall coordinate with the Marine Board of the National Research Council on a study into the actual incidence and risk of oil spills from lightering operations off the coast of the United States. Among other things, the study shall address the manner in which existing regulations are serving to reduce oil spill risks. The study shall take into account current or proposed international rules and standards and also include recommendations on measures that would be likely to further reduce the risks of oil spills from lightering operations. Not later than 18 months after the date of enactment of this Act \[Oct. 19, 1996\], the Secretary shall submit a report on the study to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives.”
 
@@ -277,11 +277,11 @@ Source section (U.S. Code)  </td>
 
 [Pub. L. 104–324, title XI, § 1134][/us/pl/104/324/s1134], Oct. 19, 1996, [110 Stat. 3985][/us/stat/110/3985], provided that:
 
->     “(a) __Funding.—__ 
+>     “(a)  __Funding__  __.—__ 
 
 >     The Secretary of Transportation shall take steps to allocate funds appropriated for research, development, testing, and evaluation, including the combination of funds from any source available and authorized for this purpose, to ensure that any Government-sponsored project intended to evaluate double hull alternatives that provide equal or greater protection to the marine environment, or interim solutions to remediate potential environmental damage resulting from oil spills from existing tank vessels, commenced prior to the date of enactment of this section \[Oct. 19, 1996\], is fully funded for completion by the end of fiscal year 1997. Any vessel construction or repair necessary to carry out the purpose of this section must be performed in a shipyard located in the United States.
 
->     “(b) __Use of Public Vessels.—__ 
+>     “(b)  __Use of Public Vessels__  __.—__ 
 
 >     The Secretary may provide vessels owned by, or demise chartered to, and operated by the Government and not engaged in commercial service, without reimbursement, for use in and the support of projects sponsored by the Government for research, development, testing, evaluation, and demonstration of new or improved technologies that are effective in preventing or mitigating oil discharges and protecting the environment.”
 
@@ -317,11 +317,11 @@ Source section (U.S. Code)  </td>
 
 [Pub. L. 101–380, title IV, § 4110][/us/pl/101/380/s4110], Aug. 18, 1990, [104 Stat. 515][/us/stat/104/515], as amended by [Pub. L. 108–293, title VII, § 702(a)][/us/pl/108/293/s702/a], Aug. 9, 2004, [118 Stat. 1068][/us/stat/118/1068], provided that:
 
->     “(a) __Standards.—__ 
+>     “(a)  __Standards__  __.—__ 
 
 >     The Secretary may establish, by regulation, minimum standards for devices for warning persons of overfills and tank levels of oil in cargo tanks and devices for monitoring the pressure of oil cargo tanks.
 
->     “(b) __Use.—__ 
+>     “(b)  __Use__  __.—__ 
 
 >     No sooner than 1 year after the Secretary prescribes regulations under subsection (a), the Secretary may issue regulations establishing, consistent with generally recognized principles of international law, requirements concerning the use of—
 
@@ -345,19 +345,19 @@ Source section (U.S. Code)  </td>
 
 [Pub. L. 101–380, title IV, § 4116(c)][/us/pl/101/380/s4116/c], (d), Aug. 18, 1990, [104 Stat. 523][/us/stat/104/523], as amended by [Pub. L. 111–281, title VII, § 711(b)(1)][/us/pl/111/281/s711/b/1], Oct. 15, 2010, [124 Stat. 2987][/us/stat/124/2987], provided that:
 
->     “(c) __Escorts for Certain Tankers.—__ 
+>     “(c)  __Escorts for Certain Tankers__  __.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Secretary shall initiate issuance of regulations under [section 3703(a)(3) of title 46][/us/usc/t46/s3703/a/3], United States Code, to define those areas, including Prince William Sound, Alaska, and Rosario Strait and Puget Sound, Washington (including those portions of the Strait of Juan de Fuca east of Port Angeles, Haro Strait, and the Strait of Georgia subject to United States jurisdiction), on which single hulled tankers over 5,000 gross tons transporting oil in bulk shall be escorted by at least two towing vessels (as defined under [section 2101 of title 46][/us/usc/t46/s2101], United States Code) or other vessels considered appropriate by the Secretary.
 
 >         “(2) __Prince william sound, alaska.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             The requirement in paragraph (1) relating to single hulled tankers in Prince William Sound, Alaska, described in that paragraph being escorted by at least 2 towing vessels or other vessels considered to be appropriate by the Secretary (including regulations promulgated in accordance with [section 3703(a)(3) of title 46][/us/usc/t46/s3703/a/3], United States Code, as set forth in part 168 of title 33, Code of Federal Regulations (as in effect on March 1, 2009) implementing this subsection with respect to those tankers) shall apply to double hulled tankers over 5,000 gross tons transporting oil in bulk in Prince William Sound, Alaska.
 
->             “(B) __Implementation of requirements.—__ 
+>             “(B)  __Implementation of requirements__  __.—__ 
 
 >             The Secretary of the department in which the Coast Guard is operating shall prescribe interim final regulations to carry out subparagraph (A) as soon as practicable without notice and hearing pursuant to [section 553 of title 5][/us/usc/t5/s553] of the United States Code.”
 

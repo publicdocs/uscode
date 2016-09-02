@@ -15,7 +15,7 @@
 
 ## § 30915. Seizures and other proceedings in foreign jurisdictions
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     If a vessel or cargo described in section 30908 or 30914 of this title is arrested, attached, or otherwise seized by judicial process in a foreign country, or if an action is brought in a court of a foreign country against the master of such a vessel for a claim arising from the ownership, possession, or operation of the vessel, or the ownership, possession, or carriage of such cargo, the Secretary of State, on request of the Attorney General or another officer authorized by the Attorney General, may direct the United States consul residing at or nearest the place at which the action was brought—
 
@@ -23,7 +23,7 @@
 
         (2) if an action has been brought against the master of such a vessel, to enter the appearance of the United States or corporation and to pledge the credit of the United States or corporation to the payment of any judgment and costs in the action.
 
-    (b) __Arranging Bond or Stipulation.—__ 
+    (b)  __Arranging Bond or Stipulation__  __.—__ 
 
     The Attorney General may—
 
@@ -31,7 +31,7 @@
 
         (2) pledge the credit of the United States to secure the bond or stipulation.
 
-    (c) __Payment of Judgment.—__ 
+    (c)  __Payment of Judgment__  __.—__ 
 
     The appropriate accounting officer of the United States or corporation may pay a judgment in an action described in subsection (a) on presentation of a copy of the judgment if certified by the clerk of the court and authenticated by—
 
@@ -39,7 +39,7 @@
 
         (2) the certificate of the Secretary as to the official capacity of the consul.
 
-    (d) __Right To Claim Immunity Not Affected.—__ 
+    (d)  __Right To Claim Immunity Not Affected__  __.—__ 
 
     This section does not affect the right of the United States to claim immunity of a vessel or cargo from foreign jurisdiction.
 

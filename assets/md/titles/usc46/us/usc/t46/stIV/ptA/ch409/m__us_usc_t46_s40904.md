@@ -15,7 +15,7 @@
 
 ## § 40904. Compensation by common carriers
 
-    (a) __Certification of License and Services.—__ 
+    (a)  __Certification of License and Services__  __.—__ 
 
     A common carrier may compensate an ocean freight forwarder for a shipment dispatched for others only when the ocean freight forwarder has certified in writing that it holds an ocean transportation intermediary’s license (if required under [section 40901 of this title][/us/usc/t46/s40901]) and has—
 
@@ -23,15 +23,15 @@
 
         (2) prepared and processed the ocean bill of lading, dock receipt, or other similar document for the shipment.
 
-    (b) __Dual Compensation.—__ 
+    (b)  __Dual Compensation__  __.—__ 
 
     A common carrier may not pay compensation for services described in subsection (a) more than once on the same shipment.
 
-    (c) __Beneficial Interest Shipments.—__ 
+    (c)  __Beneficial Interest Shipments__  __.—__ 
 
     An ocean freight forwarder may not receive compensation from a common carrier for a shipment in which the ocean freight forwarder has a direct or indirect beneficial interest. A common carrier may not knowingly pay compensation on that shipment.
 
-    (d) __Limits on Authority of Conference or Group.—__ 
+    (d)  __Limits on Authority of Conference or Group__  __.—__ 
 
     A conference or group of two or more ocean common carriers in the foreign commerce of the United States that is authorized to agree on the level of compensation paid to an ocean freight forwarder may not—
 

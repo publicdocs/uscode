@@ -15,11 +15,11 @@
 
 ## § 40901. License requirement
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     A person in the United States may not act as an ocean transportation intermediary unless the person holds an ocean transportation intermediary’s license issued by the Federal Maritime Commission. The Commission shall issue a license to a person that the Commission determines to be qualified by experience and character to act as an ocean transportation intermediary.
 
-    (b) __Exception.—__ 
+    (b)  __Exception__  __.—__ 
 
     A person whose primary business is the sale of merchandise may forward shipments of the merchandise for its own account without an ocean transportation intermediary’s license.
 

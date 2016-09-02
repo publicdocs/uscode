@@ -15,11 +15,11 @@
 
 ## § 12119. Owners engaged primarily in leasing or financing transactions
 
-    (a) __Definitions.—__ 
+    (a)  __Definitions__  __.—__ 
 
     In this section:
 
-        (1) __Affiliate.—__ 
+        (1)  __Affiliate__  __.—__ 
 
         The term “affiliate” means, with respect to any person, any other person that is—
 
@@ -27,19 +27,19 @@
 
             (ii) named as being part of the same consolidated group in any report or other document submitted to the United States Securities and Exchange Commission or the Internal Revenue Service.
 
-        (2) __Cargo.—__ 
+        (2)  __Cargo__  __.—__ 
 
         The term “cargo” does not include cargo to which title is held for non-commercial reasons and primarily for the purpose of evading the requirements of subsection (c)(3).
 
-        (3) __Oil.—__ 
+        (3)  __Oil__  __.—__ 
 
         The term “oil” has the meaning given that term in [section 2101(20) of this title][/us/usc/t46/s2101/20].
 
-        (4) __Passive investment.—__ 
+        (4)  __Passive investment__  __.—__ 
 
         The term “passive investment” means an investment in which neither the investor nor any affiliate of the investor is involved in, or has the power to be involved in, the formulation, determination, or direction of any activity or function concerning the management, use, or operation of the asset that is the subject of the investment.
 
-        (5) __Qualified proprietary cargo.—__ 
+        (5)  __Qualified proprietary cargo__  __.—__ 
 
         The term “qualified proprietary cargo” means—
 
@@ -57,11 +57,11 @@
 
                 (ii) was purchased by a person for the purpose, and with the reasonable expectation, of transporting on the vessel liquefied natural gas or unrefined petroleum beneficially owned by the owner of the vessel, or an affiliate of the owner, from Alaska to the continental United States.
 
-        (6) __United states affiliate.—__ 
+        (6)  __United states affiliate__  __.—__ 
 
         The term “United States affiliate” means, with respect to any person, an affiliate the principal place of business of which is located in the United States.
 
-    (b) __Requirements.—__ 
+    (b)  __Requirements__  __.—__ 
 
     A coastwise endorsement may be issued for a vessel if—
 
@@ -73,13 +73,13 @@
 
         (4) the demise charter is for a period of at least 3 years or a shorter period as may be prescribed by the Secretary.
 
-    (c) __Ownership Certification.—__ 
+    (c)  __Ownership Certification__  __.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         A person meets the requirements of this subsection if the person transmits to the Secretary each year the certification required by paragraph (2) or (3) with respect to a vessel.
 
-        (2) __Investment certification.—__ 
+        (2)  __Investment certification__  __.—__ 
 
         To meet the certification requirement of this paragraph, a person shall certify that it—
 
@@ -91,9 +91,9 @@
 
             (D) is independent from, and not an affiliate of, any charterer of the vessel or any other person that has the right, directly or indirectly, to control or direct the movement or use of the vessel.
 
-        (3) __Certain tank vessels.—__ 
+        (3)  __Certain tank vessels__  __.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             To meet the certification requirement of this paragraph, a person shall certify that—
 
@@ -109,7 +109,7 @@
 
                 (vi) the person owned one or more vessels documented under this section as of August 9, 2004.
 
-            (B) __Application only to certain vessels.—__ 
+            (B)  __Application only to certain vessels__  __.—__ 
 
             A person may make a certification under this paragraph only with respect to—
 
@@ -117,15 +117,15 @@
 
                 (ii) a towing vessel associated with a non-self-propelled tank vessel that meets the requirements of clause (i), where both vessels function as a single self-propelled vessel.
 
-    (d) __Filing of Demise Charter.—__ 
+    (d)  __Filing of Demise Charter__  __.—__ 
 
     The demise charter and any amendments to the charter shall be filed with the certification required by subsection (b)(3) or within 10 days after filing an amendment to the charter. The charter and amendments shall be made available to the public.
 
-    (e) __Continuation of Endorsement After Termination of Charter.—__ 
+    (e)  __Continuation of Endorsement After Termination of Charter__  __.—__ 
 
     When a charter required by subsection (b)(3) is terminated for default by the charterer, the Secretary may continue the coastwise endorsement for not more than 6 months on terms and conditions the Secretary may prescribe.
 
-    (f) __Deemed Owned by Citizens.—__ 
+    (f)  __Deemed Owned by Citizens__  __.—__ 
 
     A vessel satisfying the requirements of this section is deemed to be owned only by citizens of the United States under sections 12103 and 50501 of this title.
 
@@ -259,11 +259,11 @@ Source (Statutes at Large)  </td>
 
 [Pub. L. 108–293, title VI, § 608(c)][/us/pl/108/293/s608/c], Aug. 9, 2004, [118 Stat. 1057][/us/stat/118/1057], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendments made by this section \[amending provisions from which this section was derived\], and any regulations published after February 4, 2004, with respect to coastwise endorsements, shall not apply to a certificate of documentation, or renewal thereof, endorsed with a coastwise endorsement for a vessel under section 12106(e) \[now section 12119(b), (d)–(f)\] of title 46, United States Code, or a replacement vessel of a similar size and function, that was issued prior to the date of enactment of this Act \[Aug. 9, 2004\] as long as the vessel is owned by the person named therein, or by a subsidiary or affiliate of that person, and the controlling interest in such owner has not been transferred to a person that was not an affiliate of such owner as of the date of enactment of this Act. Notwithstanding the preceding sentence, however, the amendments made by this section shall apply, beginning 3 years after the date of enactment of this Act, with respect to offshore supply vessels (as defined in [section 2101(19) of title 46][/us/usc/t46/s2101/19], United States Code, as that section was in effect on the date of enactment of this Act) with a certificate of documentation endorsed with a coastwise endorsement as of the date of enactment of this Act, and the Secretary of the Department in which the Coast Guard is operating shall revoke any such certificate if the vessel does not by then meet the requirements of [section 12106(e) of title 46][/us/usc/t46/s12106/e], United States Code, as amended by this section.
 
->     “(2) __Replacement Vessel.—__ 
+>     “(2)  __Replacement Vessel__  __.—__ 
 
 >     For the purposes of this subsection, ‘replacement vessel’ means—
 

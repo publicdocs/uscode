@@ -229,7 +229,7 @@ Source section (U.S. Code)  </td>
 
 [Pub. L. 105–383, title IV, § 412(b)][/us/pl/105/383/s412/b], Nov. 13, 1998, [112 Stat. 3432][/us/stat/112/3432], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The Secretary may establish a pilot program to exempt a vessel of at least 300 gross tons as measured under chapter 143 or chapter 145 of title 46, United States Code, from the requirement to be inspected under [section 3301(7) of title 46][/us/usc/t46/s3301/7], United States Code, as a seagoing motor vessel, if—
 
@@ -239,7 +239,7 @@ Source section (U.S. Code)  </td>
 
 >         “(C) the vessel does not engage in towing.
 
->     “(2) __Expiration of authority.—__ 
+>     “(2)  __Expiration of authority__  __.—__ 
 
 >     The authority to grant the exemptions under this subsection expires 2 years after the date of the enactment of this Act \[Nov. 13, 1998\]. Any specific exemptions granted under this subsection shall nonetheless remain in effect.”
 
@@ -247,7 +247,7 @@ Source section (U.S. Code)  </td>
 
 [Pub. L. 104–324, title XI, § 1122][/us/pl/104/324/s1122], Oct. 19, 1996, [110 Stat. 3979][/us/stat/110/3979], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Secretary may enter into an agreement with the State under which the State may inspect small passenger vessels operating in waters of that State designated by the Secretary, if—
 
@@ -255,27 +255,27 @@ Source section (U.S. Code)  </td>
 
 >         “(2) the State will provide such information obtained through the inspection program to the Secretary annually in such form and in such detail as the Secretary may require.
 
->     “(b) __Fees.—__ 
+>     “(b)  __Fees__  __.—__ 
 
 >     The Secretary may adjust or waive the user fee imposed under [section 3317 of title 46][/us/usc/t46/s3317], United States Code, for the inspection of small passenger vessels inspected under the State program.
 
->     “(c) __Termination.—__ 
+>     “(c)  __Termination__  __.—__ 
 
 >     The authority provided by subsection (a) terminates on December 31, 1999.
 
->     “(d) __Definitions.—__ 
+>     “(d)  __Definitions__  __.—__ 
 
 >     For purposes of this section—
 
->         “(1) __Secretary.—__ 
+>         “(1)  __Secretary__  __.—__ 
 
 >         The term ‘Secretary’ means the Secretary of the department in which the Coast Guard is operating.
 
->         “(2) __State.—__ 
+>         “(2)  __State__  __.—__ 
 
 >         The term ‘State’ means the State of Minnesota.
 
->         “(3) __Small passenger vessel.—__ 
+>         “(3)  __Small passenger vessel__  __.—__ 
 
 >         The term ‘small passenger vessel’ means a small passenger vessel (as defined in [section 2101(35) of title 46][/us/usc/t46/s2101/35], United States Code) of not more than 40 feet overall in length.”
 

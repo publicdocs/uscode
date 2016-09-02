@@ -17,11 +17,11 @@
 
     In this chapter:
 
-    (1) __Eligible State.—__ 
+    (1)  __Eligible State__  __.—__ 
 
     The term “eligible State” means a State that has a State recreational boating safety program accepted by the Secretary.
 
-    (2) __State Recreational Boating Safety Program.—__ 
+    (2)  __State Recreational Boating Safety Program__  __.—__ 
 
     The term “State recreational boating safety program” means education, assistance, and enforcement activities conducted for maritime casualty prevention, reduction, and reporting for recreational boating.
 

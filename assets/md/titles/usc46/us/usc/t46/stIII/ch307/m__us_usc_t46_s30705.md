@@ -15,7 +15,7 @@
 
 ## § 30705. Seaworthiness
 
-    (a) __Prohibition.—__ 
+    (a)  __Prohibition__  __.—__ 
 
     A carrier may not insert in a bill of lading or shipping document a provision lessening or avoiding its obligation to exercise due diligence to—
 
@@ -23,7 +23,7 @@
 
         (2) properly man, equip, and supply the vessel.
 
-    (b) __Voidness.—__ 
+    (b)  __Voidness__  __.—__ 
 
     A provision described in subsection (a) is void.
 

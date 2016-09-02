@@ -15,17 +15,17 @@
 
 ## § 501. Waiver of navigation and vessel-inspection laws
 
-    (a) __On Request of Secretary of Defense.—__ 
+    (a)  __On Request of Secretary of Defense__  __.—__ 
 
     On request of the Secretary of Defense, the head of an agency responsible for the administration of the navigation or vessel-inspection laws shall waive compliance with those laws to the extent the Secretary considers necessary in the interest of national defense.
 
     (b) __By Head of Agency.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         When the head of an agency responsible for the administration of the navigation or vessel-inspection laws considers it necessary in the interest of national defense, the individual, following a determination by the Maritime Administrator, acting in the Administrator’s capacity as Director, National Shipping Authority, of the non-availability of qualified United States flag capacity to meet national defense requirements, may waive compliance with those laws to the extent, in the manner, and on the terms the individual, in consultation with the Administrator, acting in that capacity, prescribes.
 
-        (2) __Determinations.—__ 
+        (2)  __Determinations__  __.—__ 
 
         The Maritime Administrator shall—
 
@@ -37,7 +37,7 @@
 
         (3) __Notice to congress.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             The head of an agency referred to in paragraph (1) shall notify the Committee on Transportation and Infrastructure and the Committee on Armed Services of the House of Representatives and the Committee on Commerce, Science, and Transportation and the Committee on Armed Services of the Senate—
 
@@ -45,7 +45,7 @@
 
                 (ii) of the issuance of any such waiver not later than 48 hours after such issuance.
 
-            (B) __Contents.—__ 
+            (B)  __Contents__  __.—__ 
 
             Such head of an agency shall include in each notification under subparagraph (A)(ii) an explanation of—
 
@@ -53,7 +53,7 @@
 
                 (ii) the reasons actions referred to in paragraph (2)(A) are not feasible.
 
-    (c) __Termination of Authority.—__ 
+    (c)  __Termination of Authority__  __.—__ 
 
     The authority granted by this section shall terminate at such time as the Congress by concurrent resolution or the President may designate.
 

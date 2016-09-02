@@ -15,7 +15,7 @@
 
 ## § 50101. Objectives and policy
 
-    (a) __Objectives.—__ 
+    (a)  __Objectives__  __.—__ 
 
     It is necessary for the national defense and the development of the domestic and foreign commerce of the United States that the United States have a merchant marine—
 
@@ -29,7 +29,7 @@
 
         (5) supplemented by efficient facilities for building and repairing vessels.
 
-    (b) __Policy.—__ 
+    (b)  __Policy__  __.—__ 
 
     It is the policy of the United States to encourage and aid the development and maintenance of a merchant marine satisfying the objectives described in subsection (a).
 

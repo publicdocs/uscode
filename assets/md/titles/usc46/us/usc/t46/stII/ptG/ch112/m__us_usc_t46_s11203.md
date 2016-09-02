@@ -15,7 +15,7 @@
 
 ## § 11203. Documentation of qualified service
 
-    (a) __Record of Service.—__ 
+    (a)  __Record of Service__  __.—__ 
 
     The Secretary, or in the case of personnel of the Army Transport Service or the Naval Transport Service, the Secretary of Defense, shall, upon application—
 
@@ -23,15 +23,15 @@
 
         (2) correct, or request the appropriate official of the Federal Government to correct, the service records of that person to the extent necessary to reflect the qualified service and the issuance of the certificate of honorable service.
 
-    (b) __Timing of Documentation.—__ 
+    (b)  __Timing of Documentation__  __.—__ 
 
     A Secretary receiving an application under subsection (a) shall act on the application not later than 1 year after the date of that receipt.
 
-    (c) __Standards Relating to Service.—__ 
+    (c)  __Standards Relating to Service__  __.—__ 
 
     In making a determination under subsection (a)(1), the Secretary acting on the application shall apply the same standards relating to the nature and duration of service that apply to the issuance of honorable discharges under section 401(a)(1)(B) of the GI Bill Improvement Act of 1977 ([38 U.S.C. 106][/us/usc/t38/s106] note).
 
-    (d) __Correction of Records.—__ 
+    (d)  __Correction of Records__  __.—__ 
 
     An official who is requested under subsection (a)(2) to correct the service records of a person shall make such correction.
 

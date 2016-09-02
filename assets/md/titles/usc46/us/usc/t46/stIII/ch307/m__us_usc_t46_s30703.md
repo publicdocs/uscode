@@ -15,11 +15,11 @@
 
 ## § 30703. Bills of lading
 
-    (a) __Issuance.—__ 
+    (a)  __Issuance__  __.—__ 
 
     On demand of a shipper, the carrier shall issue a bill of lading or shipping document.
 
-    (b) __Contents.—__ 
+    (b)  __Contents__  __.—__ 
 
     The bill of lading or shipping document shall include a statement of—
 
@@ -29,7 +29,7 @@
 
         (3) the apparent condition of the goods.
 
-    (c) __Prima Facie Evidence of Receipt.—__ 
+    (c)  __Prima Facie Evidence of Receipt__  __.—__ 
 
     A bill of lading or shipping document issued under this section is prima facie evidence of receipt of the goods described.
 

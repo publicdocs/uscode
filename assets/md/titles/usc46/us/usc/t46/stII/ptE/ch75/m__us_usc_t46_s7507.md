@@ -15,7 +15,7 @@
 
 ## § 7507. Authority to extend the duration of licenses, certificates of registry, and merchant mariner documents
 
-    (a) __Licenses and Certificates of Registry.—__ 
+    (a)  __Licenses and Certificates of Registry__  __.—__ 
 
     Notwithstanding sections 7106 and 7107, the Secretary of the department in which the Coast Guard is operating may—
 
@@ -23,7 +23,7 @@
 
         (2) issue for not more than five years an expiring license or certificate of registry issued for an individual under chapter 71 for the exclusive purpose of aligning the expiration date of such license or certificate of registry with the expiration date of a merchant mariner’s document.
 
-    (b) __Merchant Mariner Documents.—__ 
+    (b)  __Merchant Mariner Documents__  __.—__ 
 
     Notwithstanding section 7302(g), the Secretary may—
 
@@ -31,7 +31,7 @@
 
         (2) issue for not more than five years an expiring merchant mariner’s document issued for an individual under chapter 73 for the exclusive purpose of aligning the expiration date of such merchant mariner’s document with the expiration date of a merchant mariner’s document.
 
-    (c) __Manner of Extension.—__ 
+    (c)  __Manner of Extension__  __.—__ 
 
     Any extensions granted under this section may be granted to individual seamen or a specifically identified group of seamen.
 

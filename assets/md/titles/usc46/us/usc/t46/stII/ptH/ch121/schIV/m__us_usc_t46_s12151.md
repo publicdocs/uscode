@@ -17,15 +17,15 @@
 
     (a) __In General.—__ 
 
-        (1) __Civil penalties.—__ 
+        (1)  __Civil penalties__  __.—__ 
 
         Except as provided in paragraph (2), a person that violates this chapter or a regulation prescribed under this chapter is liable to the United States Government for a civil penalty of not more than $15,000. Each day of a continuing violation is a separate violation.
 
-        (2) __Activities involving mobile offshore drilling units.—__ 
+        (2)  __Activities involving mobile offshore drilling units__  __.—__ 
 
         A person that violates section 12111(d) or a regulation prescribed under that section is liable to the United States Government for a civil penalty in an amount that is $25,000 or twice the charter rate of the vessel involved in the violation (as determined by the Secretary), whichever is greater. Each day of a continuing violation is a separate violation.
 
-    (b) __Seizure and Forfeiture of Vessels.—__ 
+    (b)  __Seizure and Forfeiture of Vessels__  __.—__ 
 
     A vessel and its equipment are liable to seizure by and forfeiture to the Government if—
 
@@ -43,7 +43,7 @@
 
         (7) the vessel is rebuilt outside the United States and a report of the rebuilding is not submitted as required by [section 12139(b) of this title][/us/usc/t46/s12139/b].
 
-    (c) __Engaging in Fishing After Falsifying Eligibility.—__ 
+    (c)  __Engaging in Fishing After Falsifying Eligibility__  __.—__ 
 
     In addition to other penalties under this section, the owner of a documented vessel for which a fishery endorsement has been issued is liable to the Government for a civil penalty of not more than $100,000 for each day the vessel engages in fishing (as defined in section 3 of the Magnuson-Stevens Fishery Conservation and Management Act ([16 U.S.C. 1802][/us/usc/t16/s1802])) within the exclusive economic zone, if the owner or the representative or agent of the owner knowingly falsified or concealed a material fact, or knowingly made a false statement or representation, about the eligibility of the vessel under section 12113(c) or (d) of this title in applying for or applying to renew the fishery endorsement.
 

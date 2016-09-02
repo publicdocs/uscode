@@ -15,11 +15,11 @@
 
 ## § 40103. Administrative exemptions
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     The Federal Maritime Commission, on application or its own motion, may by order or regulation exempt for the future any class of agreements between persons subject to this part or any specified activity of those persons from any requirement of this part if the Commission finds that the exemption will not result in substantial reduction in competition or be detrimental to commerce. The Commission may attach conditions to an exemption and may, by order, revoke an exemption.
 
-    (b) __Opportunity for Hearing.—__ 
+    (b)  __Opportunity for Hearing__  __.—__ 
 
     An order or regulation of exemption or revocation of an exemption may be issued only if the Commission has provided an opportunity for a hearing to interested persons and departments and agencies of the United States Government.
 

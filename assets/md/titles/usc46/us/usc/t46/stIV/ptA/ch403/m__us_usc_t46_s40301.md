@@ -15,7 +15,7 @@
 
 ## § 40301. Application
 
-    (a) __Ocean Common Carrier Agreements.—__ 
+    (a)  __Ocean Common Carrier Agreements__  __.—__ 
 
     This part applies to an agreement between or among ocean common carriers to—
 
@@ -33,7 +33,7 @@
 
         (7) discuss and agree on any matter related to a service contract.
 
-    (b) __Marine Terminal Operator Agreements.—__ 
+    (b)  __Marine Terminal Operator Agreements__  __.—__ 
 
     This part applies to an agreement between or among marine terminal operators, or between or among one or more marine terminal operators and one or more ocean common carriers, to—
 
@@ -41,15 +41,15 @@
 
         (2) engage in exclusive, preferential, or cooperative working arrangements, to the extent the agreement involves ocean transportation in the foreign commerce of the United States.
 
-    (c) __Acquisitions.—__ 
+    (c)  __Acquisitions__  __.—__ 
 
     This part does not apply to an acquisition by any person, directly or indirectly, of any voting security or assets of any other person.
 
-    (d) __Maritime Labor Agreements.—__ 
+    (d)  __Maritime Labor Agreements__  __.—__ 
 
     This part does not apply to a maritime labor agreement. However, this subsection does not exempt from this part any rate, charge, regulation, or practice of a common carrier that is required to be set forth in a tariff or is an essential term of a service contract, whether or not the rate, charge, regulation, or practice arises out of, or is otherwise related to, a maritime labor agreement.
 
-    (e) __Assessment Agreements.—__ 
+    (e)  __Assessment Agreements__  __.—__ 
 
     This part (except sections 40305 and 40307(a)) does not apply to an assessment agreement.
 

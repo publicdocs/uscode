@@ -15,11 +15,11 @@
 
 ## § 30903. Waiver of immunity
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     In a case in which, if a vessel were privately owned or operated, or if cargo were privately owned or possessed, or if a private person or property were involved, a civil action in admiralty could be maintained, a civil action in admiralty in personam may be brought against the United States or a federally-owned corporation. In a civil action in admiralty brought by the United States or a federally-owned corporation, an admiralty claim in personam may be filed or a setoff claimed against the United States or corporation.
 
-    (b) __Non-Jury.—__ 
+    (b)  __Non-Jury__  __.—__ 
 
     A claim against the United States or a federally-owned corporation under this section shall be tried without a jury.
 

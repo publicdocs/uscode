@@ -15,19 +15,19 @@
 
 ## § 12115. Temporary endorsement for vessels procured outside the United States
 
-    (a) __General Authority.—__ 
+    (a)  __General Authority__  __.—__ 
 
     The Secretary and the Secretary of State, acting jointly, may provide for the issuance of a certificate of documentation with an appropriate endorsement for a vessel procured outside the United States and meeting the ownership requirements of [section 12103 of this title][/us/usc/t46/s12103].
 
-    (b) __Authorized Activity.—__ 
+    (b)  __Authorized Activity__  __.—__ 
 
     Subject to limitations the Secretary may prescribe, a vessel documented under this section may proceed to the United States and engage en route in foreign trade or trade with Guam, American Samoa, Wake, Midway, or Kingman Reef.
 
-    (c) __Application of United States Jurisdiction and Laws.—__ 
+    (c)  __Application of United States Jurisdiction and Laws__  __.—__ 
 
     A vessel documented under this section is subject to the jurisdiction and laws of the United States. However, if the Secretary considers it to be in the public interest, the Secretary may suspend for a period of not more than 6 months the application of a vessel inspection law carried out by the Secretary or regulations prescribed under that law.
 
-    (d) __Surrender of Certificate.—__ 
+    (d)  __Surrender of Certificate__  __.—__ 
 
     On the vessel’s arrival in the United States, the certificate of documentation shall be surrendered as provided by regulations prescribed by the Secretary.
 

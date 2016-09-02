@@ -15,11 +15,11 @@
 
 ## § 50112. National Maritime Enhancement Institutes
 
-    (a) __Designation.—__ 
+    (a)  __Designation__  __.—__ 
 
     The Secretary of Transportation may designate National Maritime Enhancement Institutes.
 
-    (b) __Activities.—__ 
+    (b)  __Activities__  __.—__ 
 
     Activities undertaken by an institute may include—
 
@@ -41,11 +41,11 @@
 
         (9) improving maritime economics and finance.
 
-    (c) __Application for Designation.—__ 
+    (c)  __Application for Designation__  __.—__ 
 
     An institution seeking designation as a National Maritime Enhancement Institute shall submit an application under regulations prescribed by the Secretary.
 
-    (d) __Criteria for Designation.—__ 
+    (d)  __Criteria for Designation__  __.—__ 
 
     The Secretary shall designate an institute under this section on the basis of the following criteria:
 
@@ -59,11 +59,11 @@
 
         (5) The qualification of the applicant as a nonprofit institution of higher learning.
 
-    (e) __Financial Awards.—__ 
+    (e)  __Financial Awards__  __.—__ 
 
     The Secretary may make awards on an equal matching basis to an institute designated under subsection (a) from amounts appropriated. The aggregate annual amount of the Federal share of the awards by the Secretary may not exceed $500,000.
 
-    (f) __University Transportation Research Funds.—__ 
+    (f)  __University Transportation Research Funds__  __.—__ 
 
     The Secretary may make a grant under [section 5505 of title 49][/us/usc/t49/s5505] to an institute designated under subsection (a) for maritime and maritime intermodal research under that section as if the institute were a university transportation center. In making a grant, the Secretary, through the Research and Innovative Technology Administration, shall advise the Maritime Administration on the availability of funds for the grants and consult with the Administration on making the grants.
 

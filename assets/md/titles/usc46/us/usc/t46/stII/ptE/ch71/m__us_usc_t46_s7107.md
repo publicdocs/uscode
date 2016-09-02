@@ -15,11 +15,11 @@
 
 ## § 7107. Duration of certificates of registry
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     A certificate of registry issued under this part is valid for a 5-year period and may be renewed for additional 5-year periods; except that the validity of a certificate issued to a medical doctor or professional nurse is conditioned on the continuous possession by the holder of a license as a medical doctor or registered nurse, respectively, issued by a State.
 
-    (b) __Advance Renewals.—__ 
+    (b)  __Advance Renewals__  __.—__ 
 
     A renewed certificate of registry issued under this part may be issued up to 8 months in advance but is not effective until the date that the previously issued certificate of registry expires or until the completion of any active suspension or revocation of that previously issued merchant mariner’s document, whichever is later.
 

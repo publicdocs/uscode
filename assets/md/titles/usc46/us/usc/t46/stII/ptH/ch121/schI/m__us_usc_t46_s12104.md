@@ -15,11 +15,11 @@
 
 ## § 12104. Applications for documentation
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     An application for a certificate of documentation or endorsement under this chapter must be filed by the owner of the vessel. The application must be filed in the manner, be in the form, and contain the information prescribed by the Secretary.
 
-    (b) __Applicant’s Identifying Information.—__ 
+    (b)  __Applicant’s Identifying Information__  __.—__ 
 
     The Secretary shall require the applicant to provide—
 

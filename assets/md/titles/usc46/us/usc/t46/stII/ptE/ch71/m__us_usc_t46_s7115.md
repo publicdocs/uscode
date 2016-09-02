@@ -17,11 +17,11 @@
 
     (a) __Establishment.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         There is established a Merchant Mariner Medical Advisory Committee (in this section referred to as the “Committee”).
 
-        (2) __Functions.—__ 
+        (2)  __Functions__  __.—__ 
 
         The Committee shall advise the Secretary on matters relating to—
 
@@ -35,7 +35,7 @@
 
     (b) __Membership.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         The Committee shall consist of 14 members, none of whom is a Federal employee, and shall include—
 
@@ -43,33 +43,33 @@
 
             (B) four who are professional mariners with knowledge and experience in mariner occupational requirements.
 
-        (2) __Status of members.—__ 
+        (2)  __Status of members__  __.—__ 
 
         Members of the Committee shall not be considered Federal employees or otherwise in the service or the employment of the Federal Government, except that members shall be considered special Government employees, as defined in [section 202(a) of title 18][/us/usc/t18/s202/a], United States Code, and shall be subject to any administrative standards of conduct applicable to the employees of the department in which the Coast Guard is operating.
 
     (c) __Appointments; Terms; Vacancies.—__ 
 
-        (1) __Appointments.—__ 
+        (1)  __Appointments__  __.—__ 
 
         The Secretary shall appoint the members of the Committee, and each member shall serve at the pleasure of the Secretary.
 
-        (2) __Terms.—__ 
+        (2)  __Terms__  __.—__ 
 
         Each member shall be appointed for a term of five years, except that, of the members first appointed, three members shall be appointed for a term of two years.
 
-        (3) __Vacancies.—__ 
+        (3)  __Vacancies__  __.—__ 
 
         Any member appointed to fill the vacancy prior to the expiration of the term for which that member’s predecessor was appointed shall be appointed for the remainder of that term.
 
-    (d) __Chairman and Vice Chairman.—__ 
+    (d)  __Chairman and Vice Chairman__  __.—__ 
 
     The Secretary shall designate one member of the Committee as the Chairman and one member as the Vice Chairman. The Vice Chairman shall act as Chairman in the absence or incapacity of, or in the event of a vacancy in the office of, the Chairman.
 
-    (e) __Compensation; Reimbursement.—__ 
+    (e)  __Compensation; Reimbursement__  __.—__ 
 
     Members of the Committee shall serve without compensation, except that, while engaged in the performance of duties away from their homes or regular places of business of the member, the member of the Committee may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by [section 5703 of title 5][/us/usc/t5/s5703].
 
-    (f) __Staff; Services.—__ 
+    (f)  __Staff; Services__  __.—__ 
 
     The Secretary shall furnish to the Committee the personnel and services as are considered necessary for the conduct of its business.
 

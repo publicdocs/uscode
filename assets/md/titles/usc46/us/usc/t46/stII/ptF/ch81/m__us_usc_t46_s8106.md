@@ -15,7 +15,7 @@
 
 ## § 8106. Riding gangs
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     The owner or managing operator of a freight vessel of the United States on voyages covered by the International Convention for Safety of Life at Sea, 1974 (32 UST 47m) shall—
 
@@ -81,7 +81,7 @@
 
             (B) only performs work in conjunction with individuals who hold merchant mariners documents issued under chapter 73 and who are part of the vessel’s crew.
 
-    (b) __Permitted Work.—__ 
+    (b)  __Permitted Work__  __.—__ 
 
     Subject to subsection (f), a riding gang member on board a vessel to which subsection (a) applies who is neither a United States citizen nor an alien lawfully admitted to the United States for permanent residence may not perform any work on board the vessel other than—
 
@@ -93,17 +93,17 @@
 
     (c) __Workday Limit.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         The maximum number of days in any calendar year that the owner or operator of a vessel to which subsection (a) applies may employ on board riding gang members who are neither United States citizens nor aliens lawfully admitted to the United States for permanent residence for work on board that vessel is 60 days. If the vessel is at sea on the 60th day, each riding gang member shall be discharged from the vessel at the next port of call reached by the vessel after the date on which the 60-workday limit is reached.
 
-        (2) __Calculation.—__ 
+        (2)  __Calculation__  __.—__ 
 
         For the purpose of calculating the 60-workday limit under this subsection, each day worked by a riding gang member who is neither a United States citizen nor an alien lawfully admitted to the United States for permanent residence shall be counted against the limitation.
 
     (d) __Exceptions for Warranty Work.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         Subsections (b), (c), (e), and (f) do not apply to a riding gang member employed exclusively to perform, and who performs only, work that is—
 
@@ -113,27 +113,25 @@
 
             (C) required by a contractual guarantee or warranty on actual repairs performed in a shipyard located outside of the United States.
 
-        (2) __Citizenship requirement.—__ 
+        (2)  __Citizenship requirement__  __.—__ 
 
         Subsection (a)(1)(A) applies only to a riding gang member described in paragraph (1) who is on the vessel when it calls at a United States port.
 
-    (e) __Recordkeeping.—__ 
+    (e)  __Recordkeeping__  __.—__ 
 
     In addition to the requirements of subsection (a), the owner or managing operator of a vessel to which subsection (a) applies shall ensure that all information necessary to ensure compliance with this section, as determined by the Secretary, is entered into the vessel’s official logbook required by chapter 113.
 
-    (f) __Failure to Employ Qualified Available U.__ 
+    (f) __Failure to Employ Qualified Available U.S. Citizens or Residents.—__ 
 
-    S. Citizens or Residents.—
-
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         The owner or operator of a vessel to which subsection (a) applies may not employ a riding gang member who is neither a United States citizen nor an alien lawfully admitted to the United States for permanent residence to perform work described in subsection (b) unless the owner or operator determines, in accordance with procedures established by the Secretary to carry out section 8103(b)(3)(C), that there is not a sufficient number of United States citizens or individuals lawfully admitted to the United States for permanent residence who are qualified and available for the work for which the riding gang member is to be employed.
 
-        (2) __Civil penalty.—__ 
+        (2)  __Civil penalty__  __.—__ 
 
         A violation of paragraph (1) is punishable by a civil penalty of not more than $10,000 for each day during which the violation continues.
 
-        (3) __Continuing violations.—__ 
+        (3)  __Continuing violations__  __.—__ 
 
         The maximum amount of a civil penalty for a violation under this subsection shall not exceed—
 
@@ -143,11 +141,11 @@
 
             (C) $100,000 if the violation occurs after fiscal year 2007.
 
-        (4) __Determination of amount.—__ 
+        (4)  __Determination of amount__  __.—__ 
 
         In determining the amount of the penalty, the Secretary shall take into account the nature, circumstances, extent, and gravity of the violation committed and, with respect to the violator, the degree of culpability, the history of prior offenses, the ability to pay, and such other matters as justice may require.
 
-        (5) __Compromise, modification, and remittal.—__ 
+        (5)  __Compromise, modification, and remittal__  __.—__ 
 
         The Secretary may compromise, modify, or remit, with or without conditions, any civil penalty imposed under this section.
 

@@ -15,7 +15,7 @@
 
 ## § 12116. Limited endorsements for Guam, American Samoa, and Northern Mariana Islands
 
-    (a) __Endorsements.—__ 
+    (a)  __Endorsements__  __.—__ 
 
     A vessel satisfying the requirements of subsection (b) may be issued—
 
@@ -23,7 +23,7 @@
 
         (2) a fishery endorsement to engage in fishing in the territorial sea and fishery conservation zone adjacent to Guam, American Samoa, and the Northern Mariana Islands.
 
-    (b) __Requirements.—__ 
+    (b)  __Requirements__  __.—__ 
 
     An endorsement may be issued under subsection (a) for a vessel that—
 

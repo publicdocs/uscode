@@ -15,11 +15,11 @@
 
 ## § 30511. Action by owner for limitation
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     The owner of a vessel may bring a civil action in a district court of the United States for limitation of liability under this chapter. The action must be brought within 6 months after a claimant gives the owner written notice of a claim.
 
-    (b) __Creation of Fund.—__ 
+    (b)  __Creation of Fund__  __.—__ 
 
     When the action is brought, the owner (at the owner’s option) shall—
 
@@ -39,7 +39,7 @@
 
             (B) an amount, or approved security, that the court may fix from time to time as necessary to carry out this chapter.
 
-    (c) __Cessation of Other Actions.—__ 
+    (c)  __Cessation of Other Actions__  __.—__ 
 
     When an action has been brought under this section and the owner has complied with subsection (b), all claims and proceedings against the owner related to the matter in question shall cease.
 

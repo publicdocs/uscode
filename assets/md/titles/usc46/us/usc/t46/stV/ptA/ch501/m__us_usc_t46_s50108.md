@@ -15,7 +15,7 @@
 
 ## § 50108. Studies on cargo carriage and cargo containers
 
-    (a) __Studies.—__ 
+    (a)  __Studies__  __.—__ 
 
     The Secretary of Transportation shall study—
 
@@ -23,7 +23,7 @@
 
         (2) the economic and technological aspects of the use of cargo containers as a method of carrying out the policy in [section 50101 of this title][/us/usc/t46/s50101].
 
-    (b) __Restriction.—__ 
+    (b)  __Restriction__  __.—__ 
 
     In carrying out subsection (a) and the policy in [section 50101 of this title][/us/usc/t46/s50101], the United States Government may not give preference as between carriers based on the length, height, or width of cargo containers or the length, height, or width of cargo container cells. This restriction applies to all existing container vessels and any container vessel to be constructed or rebuilt.
 

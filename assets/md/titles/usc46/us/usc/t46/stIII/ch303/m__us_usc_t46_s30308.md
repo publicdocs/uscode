@@ -15,11 +15,11 @@
 
 ## § 30308. Nonapplication
 
-    (a) __State Law.—__ 
+    (a)  __State Law__  __.—__ 
 
     This chapter does not affect the law of a State regulating the right to recover for death.
 
-    (b) __Internal Waters.—__ 
+    (b)  __Internal Waters__  __.—__ 
 
     This chapter does not apply to the Great Lakes or waters within the territorial limits of a State.
 

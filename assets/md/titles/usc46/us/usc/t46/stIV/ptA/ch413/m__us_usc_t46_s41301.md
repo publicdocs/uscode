@@ -15,15 +15,15 @@
 
 ## § 41301. Complaints
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     A person may file with the Federal Maritime Commission a sworn complaint alleging a violation of this part, except section 41307(b)(1). If the complaint is filed within 3 years after the claim accrues, the complainant may seek reparations for an injury to the complainant caused by the violation.
 
-    (b) __Notice and Response.—__ 
+    (b)  __Notice and Response__  __.—__ 
 
     The Commission shall provide a copy of the complaint to the person named in the complaint. Within a reasonable time specified by the Commission, the person shall satisfy the complaint or answer it in writing.
 
-    (c) __If Complaint Not Satisfied.—__ 
+    (c)  __If Complaint Not Satisfied__  __.—__ 
 
     If the complaint is not satisfied, the Commission shall investigate the complaint in an appropriate manner and make an appropriate order.
 

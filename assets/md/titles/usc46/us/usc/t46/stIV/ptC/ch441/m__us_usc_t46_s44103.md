@@ -15,13 +15,13 @@
 
 ## § 44103. Financial responsibility to pay liability for death or injury
 
-    (a) __General Requirement.—__ 
+    (a)  __General Requirement__  __.—__ 
 
     The owner or charterer of a vessel to which this chapter applies shall establish, under regulations prescribed by the Federal Maritime Commission, financial responsibility to meet liability for death or injury to passengers or other individuals on a voyage to or from a port in the United States.
 
-    (b) __Amounts.—__ 
+    (b)  __Amounts__  __.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         The amount of financial responsibility required under subsection (a) shall be based on the number of passenger accommodations as follows:
 
@@ -33,15 +33,15 @@
 
             (D) $5,000 for each additional passenger accommodation over 1,500.
 
-        (2) __Multiple vessels.—__ 
+        (2)  __Multiple vessels__  __.—__ 
 
         If the owner or charterer is operating more than one vessel subject to this chapter, the amount of financial responsibility shall be based on the number of passenger accommodations on the vessel with the largest number of passenger accommodations.
 
-    (c) __Availability To Pay Judgment.—__ 
+    (c)  __Availability To Pay Judgment__  __.—__ 
 
     The amount determined under subsection (b) shall be available to pay a judgment for damages (whether less than or more than $20,000) for death or injury to a passenger or other individual on a voyage to or from a port in the United States.
 
-    (d) __Means of Establishing.—__ 
+    (d)  __Means of Establishing__  __.—__ 
 
     Financial responsibility under this section may be established by one or more of the following if acceptable to the Commission:
 

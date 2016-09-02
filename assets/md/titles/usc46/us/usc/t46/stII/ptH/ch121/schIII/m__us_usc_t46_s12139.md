@@ -15,17 +15,17 @@
 
 ## § 12139. Reports
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     To ensure compliance with this chapter and laws governing the qualifications of vessels to engage in the coastwise trade and the fisheries, the Secretary may require owners, masters, charterers, and mortgagees of documented vessels to submit reports in any reasonable form and manner the Secretary may prescribe.
 
-    (b) __Vessels Rebuilt Outside United States.—__ 
+    (b)  __Vessels Rebuilt Outside United States__  __.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         Under regulations prescribed by the Secretary, if a vessel exceeding the tonnage specified in paragraph (2) and documented or last documented under the laws of the United States is rebuilt outside the United States, the owner or master shall submit a report of the rebuilding to the Secretary.
 
-        (2) __Tonnage.—__ 
+        (2)  __Tonnage__  __.—__ 
 
         The tonnage referred to in paragraph (1) is—
 
@@ -33,7 +33,7 @@
 
             (B) an alternate tonnage as measured under [section 14302 of this title][/us/usc/t46/s14302] as prescribed by the Secretary under [section 14104 of this title][/us/usc/t46/s14104].
 
-        (3) __Timing of submission.—__ 
+        (3)  __Timing of submission__  __.—__ 
 
         If the rebuilding is completed in the United States, the report shall be submitted when the rebuilding is completed. If the rebuilding is completed outside the United States, the report shall be submitted when the vessel first arrives at a port in the customs territory of the United States.
 

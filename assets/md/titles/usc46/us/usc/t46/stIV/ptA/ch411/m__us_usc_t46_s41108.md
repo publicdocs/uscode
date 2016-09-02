@@ -15,17 +15,17 @@
 
 ## § 41108. Additional penalties
 
-    (a) __Suspension of Tariffs.—__ 
+    (a)  __Suspension of Tariffs__  __.—__ 
 
     For a violation of section 41104(1), (2), or (7) of this title, the Federal Maritime Commission may suspend any or all tariffs of the common carrier, or that common carrier’s right to use any or all tariffs of conferences of which it is a member, for a period not to exceed 12 months.
 
-    (b) __Operating Under Suspended Tariff.—__ 
+    (b)  __Operating Under Suspended Tariff__  __.—__ 
 
     A common carrier that accepts or handles cargo for carriage under a tariff that has been suspended, or after its right to use that tariff has been suspended, is liable to the United States Government for a civil penalty of not more than $50,000 for each shipment.
 
-    (c) __Failure To Provide Information.—__ 
+    (c)  __Failure To Provide Information__  __.—__ 
 
-        (1) __Penalties.—__ 
+        (1)  __Penalties__  __.—__ 
 
         If the Commission finds, after notice and opportunity for a hearing, that a common carrier has failed to supply information ordered to be produced or compelled by subpoena under [section 41303 of this title][/us/usc/t46/s41303], the Commission may—
 
@@ -33,15 +33,15 @@
 
             (B) request the Secretary of Homeland Security to refuse or revoke any clearance required for a vessel operated by the carrier, and when so requested, the Secretary shall refuse or revoke the clearance.
 
-        (2) __Defense based on foreign law.—__ 
+        (2)  __Defense based on foreign law__  __.—__ 
 
         If, in defense of its failure to comply with a subpoena or discovery order, a common carrier alleges that information or documents located in a foreign country cannot be produced because of the laws of that country, the Commission shall immediately notify the Secretary of State of the failure to comply and of the allegation relating to foreign laws. On receiving the notification, the Secretary of State shall promptly consult with the government of the nation within which the information or documents are alleged to be located for the purpose of assisting the Commission in obtaining the information or documents.
 
-    (d) __Impairing Access to Foreign Trade.—__ 
+    (d)  __Impairing Access to Foreign Trade__  __.—__ 
 
     If the Commission finds, after notice and opportunity for a hearing, that the action of a common carrier, acting alone or in concert with another person, or a foreign government has unduly impaired access of a vessel documented under the laws of the United States to ocean trade between foreign ports, the Commission shall take action that it finds appropriate, including imposing any of the penalties authorized by this section. The Commission also may take any of the actions authorized by sections 42304 and 42305 of this title.
 
-    (e) __Submission of Order to President.—__ 
+    (e)  __Submission of Order to President__  __.—__ 
 
     Before an order under this section becomes effective, it shall be submitted immediately to the President. The President, within 10 days after receiving it, may disapprove it if the President finds that disapproval is required for reasons of national defense or foreign policy.
 

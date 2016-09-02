@@ -15,11 +15,11 @@
 
 ## § 30503. Declaration of nature and value of goods
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     If a shipper of an item named in subsection (b), contained in a parcel, package, or trunk, loads the item as freight or baggage on a vessel, without at the time of loading giving to the person receiving the item a written notice of the true character and value of the item and having that information entered on the bill of lading, the owner and master of the vessel are not liable as carriers. The owner and master are not liable beyond the value entered on the bill of lading.
 
-    (b) __Items.—__ 
+    (b)  __Items__  __.—__ 
 
     The items referred to in subsection (a) are precious metals, gold or silver plated articles, precious stones, jewelry, trinkets, watches, clocks, glass, china, coins, bills, securities, printings, engravings, pictures, stamps, maps, papers, silks, furs, lace, and similar items of high value and small size.
 

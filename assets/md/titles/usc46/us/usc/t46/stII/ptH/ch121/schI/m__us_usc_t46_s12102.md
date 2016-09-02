@@ -15,25 +15,25 @@
 
 ## § 12102. Vessels requiring documentation
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     Except as otherwise provided, a vessel may engage in a trade only if the vessel has been issued a certificate of documentation with an endorsement for that trade under this chapter.
 
-    (b) __Vessels Less Than 5 Net Tons.—__ 
+    (b)  __Vessels Less Than __  __5__  __ Net Tons__  __.—__ 
 
     A vessel of less than 5 net tons may engage in a trade without being documented if the vessel otherwise satisfies the requirements to engage in the particular trade.
 
-    (c) __Barges.—__ 
+    (c)  __Barges__  __.—__ 
 
     A barge qualified to engage in the coastwise trade may engage in the coastwise trade, without being documented, on rivers, harbors, lakes (except the Great Lakes), canals, and inland waters.
 
     (d) __Aquaculture Waiver.—__ 
 
-        (1) __Permitting of nonqualified vessels to perform certain aquaculture support operations.—__ 
+        (1)  __Permitting of nonqualified vessels to perform certain aquaculture support operations__  __.—__ 
 
         Notwithstanding section 12113 and any other law, the Secretary of Transportation may issue a waiver allowing a documented vessel with a registry endorsement or a foreign flag vessel to be used in operations that treat aquaculture fish for or protect aquaculture fish from disease, parasitic infestation, or other threats to their health if the Secretary finds, after publishing a notice in the Federal Register, that a suitable vessel of the United States is not available that could perform those services.
 
-        (2) __Prohibition.—__ 
+        (2)  __Prohibition__  __.—__ 
 
         Vessels operating under a waiver issued under this subsection may not engage in any coastwise transportation.
 

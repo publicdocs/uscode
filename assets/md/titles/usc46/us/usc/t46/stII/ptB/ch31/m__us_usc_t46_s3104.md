@@ -25,7 +25,7 @@
 
         (2) it is in serviceable condition.
 
-    (c) __Report.—__ 
+    (c)  __Report__  __.—__ 
 
     Not later than 180 days after the date of enactment of this subsection, the Commandant of the Coast Guard shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report on the carriage of survival craft that ensures no part of an individual is immersed in water, which shall include—
 

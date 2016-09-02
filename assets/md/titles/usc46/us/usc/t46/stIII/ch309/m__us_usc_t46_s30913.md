@@ -15,11 +15,11 @@
 
 ## § 30913. Payment of judgment or settlement
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     The proper accounting officer of the United States shall pay a final judgment, arbitration award, or settlement under this chapter on presentation of an authenticated copy.
 
-    (b) __Source of Payment.—__ 
+    (b)  __Source of Payment__  __.—__ 
 
     Payment shall be made from an appropriation or fund available specifically for the purpose. If no appropriation or fund is specifically available, there is hereby appropriated, out of money in the Treasury not otherwise appropriated, an amount sufficient to pay the judgment, award, or settlement.
 

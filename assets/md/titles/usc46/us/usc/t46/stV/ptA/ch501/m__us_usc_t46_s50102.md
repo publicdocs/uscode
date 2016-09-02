@@ -15,7 +15,7 @@
 
 ## § 50102. Survey of merchant marine
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     The Secretary of Transportation shall survey the merchant marine of the United States to determine whether replacements and additions are required to carry out the objectives and policy of [section 50101 of this title][/us/usc/t46/s50101]. The Secretary shall study, perfect, and adopt a long-range program for replacements and additions that will result, as soon as practicable, in—
 
@@ -27,7 +27,7 @@
 
         (4) an efficient capacity for building and repairing vessels in the United States with an adequate number of skilled personnel to provide an adequate mobilization base.
 
-    (b) __Cooperation With Secretary of Navy.—__ 
+    (b)  __Cooperation With Secretary of Navy__  __.—__ 
 
     In carrying out subsection (a)(1), the Secretary of Transportation shall cooperate closely with the Secretary of the Navy as to national defense requirements.
 

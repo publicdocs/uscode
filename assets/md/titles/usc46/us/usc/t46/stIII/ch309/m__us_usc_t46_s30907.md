@@ -15,13 +15,13 @@
 
 ## § 30907. Procedure for hearing and determination
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     A civil action under this chapter shall proceed and be heard and determined according to the principles of law and the rules of practice applicable in like cases between private parties.
 
-    (b) __In Rem.—__ 
+    (b)  __In Rem__  __.—__ 
 
-        (1) __Requirements.—__ 
+        (1)  __Requirements__  __.—__ 
 
         The action may proceed according to the principles of an action in rem if—
 
@@ -29,7 +29,7 @@
 
             (B) it appears that an action in rem could have been maintained had the vessel or cargo been privately owned and possessed.
 
-        (2) __Effect on relief in personam.—__ 
+        (2)  __Effect on relief in personam__  __.—__ 
 
         An election under paragraph (1) does not prevent the plaintiff from seeking relief in personam in the same action.
 

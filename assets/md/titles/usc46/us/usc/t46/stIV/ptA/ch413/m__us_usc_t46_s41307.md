@@ -15,17 +15,17 @@
 
 ## § 41307. Injunctive relief sought by the Commission
 
-    (a) __General Violations.—__ 
+    (a)  __General Violations__  __.—__ 
 
     In connection with an investigation under section 41301 or 41302 of this title, the Federal Maritime Commission may bring a civil action to enjoin conduct in violation of this part. The action must be brought in the district court of the United States for any judicial district in which the defendant resides or transacts business. After notice to the defendant, and a showing that the standards for granting injunctive relief by courts of equity are met, the court may grant a temporary restraining order or preliminary injunction for a period not to exceed 10 days after the Commission has issued an order disposing of the issues under investigation.
 
-    (b) __Reduction in Competition.—__ 
+    (b)  __Reduction in Competition__  __.—__ 
 
-        (1) __Action by commission.—__ 
+        (1)  __Action by commission__  __.—__ 
 
         If, at any time after the filing or effective date of an agreement under chapter 403 of this title, the Commission determines that the agreement is likely, by a reduction in competition, to produce an unreasonable reduction in transportation service or an unreasonable increase in transportation cost, the Commission, after notice to the person filing the agreement, may bring a civil action in the United States District Court for the District of Columbia to enjoin the operation of the agreement. The Commission’s sole remedy with respect to an agreement likely to have such an effect is an action under this subsection.
 
-        (2) __Remedies by court.—__ 
+        (2)  __Remedies by court__  __.—__ 
 
         In an action under this subsection, the court may issue—
 
@@ -33,11 +33,11 @@
 
             (B) a permanent injunction after a showing that the agreement is likely to have the effect described in paragraph (1).
 
-        (3) __Burden of proof and third parties.—__ 
+        (3)  __Burden of proof and third parties__  __.—__ 
 
         In an action under this subsection, the burden of proof is on the Commission. The court may not allow a third party to intervene.
 
-    (c) __Failure To Provide Information.—__ 
+    (c)  __Failure To Provide Information__  __.—__ 
 
     If a person filing an agreement, or an officer, director, partner, agent, or employee of the person, fails substantially to comply with a request for the submission of additional information or documents within the period provided in [section 40304(c) of this title][/us/usc/t46/s40304/c], the Commission may bring a civil action in the United States District Court for the District of Columbia. At the request of the Commission, the Court—
 
@@ -47,7 +47,7 @@
 
         (3) may grant other equitable relief that the court decides is appropriate.
 
-    (d) __Representation.—__ 
+    (d)  __Representation__  __.—__ 
 
     The Commission may represent itself in a proceeding under this section in—
 

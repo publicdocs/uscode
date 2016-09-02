@@ -101,13 +101,13 @@
 
         (3) This subsection does not apply to a fishing vessel fishing exclusively for highly migratory species (as that term is defined in section 3 of the Magnuson-Stevens Fishery Conservation and Management Act ([16 U.S.C. 1802][/us/usc/t16/s1802])).
 
-    (j) __Riding Gang Member.—__ 
+    (j)  __Riding Gang Member__  __.—__ 
 
     This section does not apply to an individual who is a riding gang member.
 
     (k) __Crew Requirements for Large Passenger Vessels.—__ 
 
-        (1) __Citizenship and nationality.—__ 
+        (1)  __Citizenship and nationality__  __.—__ 
 
         Each unlicensed seaman on a large passenger vessel shall be—
 
@@ -119,13 +119,13 @@
 
             (D) a foreign national who is enrolled in the United States Merchant Marine Academy.
 
-        (2) __Percentage limitation for alien seamen.—__ 
+        (2)  __Percentage limitation for alien seamen__  __.—__ 
 
         Not more than 25 percent of the unlicensed seamen on a vessel described in paragraph (1) of this subsection may be aliens referred to in subparagraph (B) or (C) of that paragraph.
 
         (3) __Special rules for certain unlicensed seamen.—__ 
 
-            (A) __Qualifications.—__ 
+            (A)  __Qualifications__  __.—__ 
 
             An unlicensed seaman described in paragraph (1)(C) of this subsection—
 
@@ -149,7 +149,7 @@
 
                 (v) may not be a citizen or temporary or permanent resident of a country designated by the United States as a sponsor of terrorism or any other country that the Secretary, in consultation with the Secretary of State and the heads of other appropriate United States agencies, determines to be a security threat to the United States.
 
-            (B) __Restrictions.—__ 
+            (B)  __Restrictions__  __.—__ 
 
             An unlicensed seaman described in paragraph (1)(C) of this subsection—
 
@@ -157,7 +157,7 @@
 
                 (ii) may not perform watchstanding, automated engine room duty watch, or vessel navigation functions.
 
-            (C) __Status, documentation, and employment.—__ 
+            (C)  __Status, documentation, and employment__  __.—__ 
 
             An unlicensed seaman described in subparagraph (C) or (D) of paragraph (1) of this subsection—
 
@@ -175,19 +175,19 @@
 
                 (iv) may be employed for a period of service on board not to exceed 36 months in the aggregate as a nonimmigrant crewman described in section 101(a)(15)(D)(i) of the Immigration and Nationality Act ([8 U.S.C. 1101(a)(15)(D)(i)][/us/usc/t8/s1101/a/15/D/i]) on vessels engaged in domestic voyages notwithstanding the departure requirements and time limitations of such section and section 252 of the Immigration and Nationality Act ([8 U.S.C. 1282][/us/usc/t8/s1282]) and the regulations and rules promulgated thereunder.
 
-        (4) __Merchant mariner’s document requirements not affected.—__ 
+        (4)  __Merchant mariner’s document requirements not affected__  __.—__ 
 
         This subsection shall not be construed to affect any requirement under Federal law that an individual must hold a merchant mariner’s document.
 
-        (5) __Definitions.—__ 
+        (5)  __Definitions__  __.—__ 
 
         In this subsection:
 
-            (A) __Steward’s department.—__ 
+            (A)  __Steward’s department__  __.—__ 
 
             The term “steward’s department” means the department that includes entertainment personnel and all service personnel, including wait staff, housekeeping staff, and galley workers, as defined in the vessel security plan approved by the Secretary pursuant to [section 70103(c) of this title][/us/usc/t46/s70103/c].
 
-            (B) __Large passenger vessel.—__ 
+            (B)  __Large passenger vessel__  __.—__ 
 
             The term “large passenger vessel” means a vessel of more than 70,000 gross tons, as measured under [section 14302 of this title][/us/usc/t46/s14302], with capacity for at least 2,000 passengers and documented with a coastwise endorsement under chapter 121 of this title.
 
@@ -319,33 +319,33 @@ Source section (U.S. Code)  </td>
 
 [Pub. L. 109–241, title IV, § 421][/us/pl/109/241/s421], July 11, 2006, [120 Stat. 547][/us/stat/120/547], as amended by [Pub. L. 111–281, title IX, § 904][/us/pl/111/281/s904], Oct. 15, 2010, [124 Stat. 3011][/us/stat/124/3011]; [Pub. L. 112–213, title VII, § 701][/us/pl/112/213/s701], Dec. 20, 2012, [126 Stat. 1579][/us/stat/126/1579], provided that:
 
->     “(a) __Manning Requirements.—__ 
+>     “(a)  __Manning Requirements__  __.—__ 
 
 >     Notwithstanding [section 8103(a) of title 46][/us/usc/t46/s8103/a], United States Code, United States purse seine fishing vessels fishing exclusively for highly migratory species in the treaty area under a fishing license issued pursuant to the 1987 Treaty on Fisheries Between the Governments of Certain Pacific Islands States and the Government of the United States of America, or transiting to or from the treaty area exclusively for such purpose, may engage foreign citizens to meet the manning requirement (except for the master) until the date of expiration of this section if, after timely notice of a vacancy to meet the manning requirement, no United States citizen personnel are readily available to fill such vacancy.
 
 >     “(b) __Licensing Restrictions.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Subsection (a) only applies to a foreign citizen who holds a credential that is equivalent to the credential issued by the Coast Guard to a United States citizen for the position, with respect to requirements for experience, training, and other qualifications.
 
->         “(2) __Treatment of credential.—__ 
+>         “(2)  __Treatment of credential__  __.—__ 
 
 >         An equivalent credential under paragraph (1) shall be considered as meeting the requirements of [section 8304 of title 46][/us/usc/t46/s8304], United States Code, but only while a person holding the credential is in the service of the vessel to which this section applies.
 
->     “(c) __Limitation.—__ 
+>     “(c)  __Limitation__  __.—__ 
 
 >     Subsection (a) applies only to vessels operating in and out of American Samoa or Guam.
 
->     “(d) __Expiration.—__ 
+>     “(d)  __Expiration__  __.—__ 
 
 >     This section expires on the date the Treaty on Fisheries Between the Governments of Certain Pacific Island States and the Government of the United States of America ceases to have effect for any party under Article 12.6 or 12.7 of such treaty, as in effect on the date of enactment of the Coast Guard and Maritime Transportation Act of 2012 \[Dec. 20, 2012\].
 
->     “(e) __Safety Inspections.—__ 
+>     “(e)  __Safety Inspections__  __.—__ 
 
 >     A vessel may not engage a foreign citizen to meet a manning requirement under this section unless it has an annual safety examination by an individual authorized to enforce part B of subtitle II of title 46, United States Code.
 
->     “(f) __Reports.—__ 
+>     “(f)  __Reports__  __.—__ 
 
 >     On March 1, 2007, and annually thereafter until the date of expiration of this section, the Coast Guard and the National Marine Fisheries Service shall submit a report to the Committee on Commerce, Science, and Transportation of the Senate and the Committees on Transportation and Infrastructure and Resources \[now Natural Resources\] of the House of Representatives, providing the following information on the United States purse seine fleet referred to in subsection (a):
 
@@ -369,11 +369,11 @@ Source section (U.S. Code)  </td>
 
 [Pub. L. 101–595, title III, § 317][/us/pl/101/595/s317], Nov. 16, 1990, [104 Stat. 2988][/us/stat/104/2988], as amended by [Pub. L. 104–324, title III, § 301(d)(2)(B)][/us/pl/104/324/s301/d/2/B], Oct. 19, 1996, [110 Stat. 3916][/us/stat/110/3916], provided that:
 
->     “(a) __Definition.—__ 
+>     “(a)  __Definition__  __.—__ 
 
 >     For purposes of the application of sections 8103(a), 12102, 12110, 12111, and 12122(b) of title 46, United States Code, to a fishing vessel operating in waters subject to the jurisdiction of the United States off the coast of the State of California, the term ‘citizen of the United States’ includes an alien lawfully admitted to the United States for permanent residence.
 
->     “(b) __Termination.—__ 
+>     “(b)  __Termination__  __.—__ 
 
 >     This section shall terminate on October 1, 2000.”
 

@@ -15,37 +15,37 @@
 
 ## § 301. General organization
 
-    (a) __Organization.—__ 
+    (a)  __Organization__  __.—__ 
 
     The Federal Maritime Commission is an independent establishment of the United States Government.
 
-    (b) __Commissioners.—__ 
+    (b)  __Commissioners__  __.—__ 
 
-        (1) __Composition.—__ 
+        (1)  __Composition__  __.—__ 
 
         The Commission is composed of 5 Commissioners, appointed by the President by and with the advice and consent of the Senate. Not more than 3 Commissioners may be appointed from the same political party.
 
-        (2) __Terms.—__ 
+        (2)  __Terms__  __.—__ 
 
         The term of each Commissioner is 5 years, with each term beginning one year apart. An individual appointed to fill a vacancy is appointed only for the unexpired term of the individual being succeeded. A vacancy shall be filled in the same manner as the original appointment. When the term of a Commissioner ends, the Commissioner may continue to serve until a successor is appointed and qualified.
 
-        (3) __Removal.—__ 
+        (3)  __Removal__  __.—__ 
 
         The President may remove a Commissioner for inefficiency, neglect of duty, or malfeasance in office.
 
-    (c) __Chairman.—__ 
+    (c)  __Chairman__  __.—__ 
 
-        (1) __Designation.—__ 
+        (1)  __Designation__  __.—__ 
 
         The President shall designate one of the Commissioners as Chairman.
 
-        (2) __General authority.—__ 
+        (2)  __General authority__  __.—__ 
 
         The Chairman is the chief executive and administrative officer of the Commission. In carrying out the duties and powers of the Commission (other than under paragraph (3)), the Chairman is subject to the policies, regulatory decisions, findings, and determinations of the Commission.
 
-        (3) __Particular duties.—__ 
+        (3)  __Particular duties__  __.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             The Chairman shall—
 
@@ -59,15 +59,15 @@
 
                 (v) assign Commission personnel, including Commissioners, to perform duties and powers delegated by the Commission under [section 304 of this title][/us/usc/t46/s304].
 
-            (B) __Nonapplication.—__ 
+            (B)  __Nonapplication__  __.—__ 
 
             Subparagraph (A) (other than clause (v)) does not apply to personnel employed regularly and full-time in the offices of Commissioners other than the Chairman.
 
-        (4) __Delegation.—__ 
+        (4)  __Delegation__  __.—__ 
 
         The Chairman may designate officers and employees under the Chairman’s jurisdiction to perform duties and powers of the Chairman, subject to the Chairman’s supervision and direction.
 
-    (d) __Seal.—__ 
+    (d)  __Seal__  __.—__ 
 
     The Commission shall have a seal which shall be judicially recognized.
 

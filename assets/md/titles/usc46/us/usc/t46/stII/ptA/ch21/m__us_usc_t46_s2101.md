@@ -1225,15 +1225,15 @@ Source section (U.S. Code)  </td>
 
 [Pub. L. 103–206, title V, § 513][/us/pl/103/206/s513], Dec. 20, 1993, [107 Stat. 2443][/us/stat/107/2443], provided that:
 
->     “(a) __Applicability Date for Certain Chartered Vessels.—__ 
+>     “(a)  __Applicability Date for Certain Chartered Vessels__  __.—__ 
 
 >     Revised regulations governing small passenger vessels and passenger vessels (as the definitions of those terms in [section 2101 of title 46][/us/usc/t46/s2101], United States Code, are amended by this Act) shall not, before the date that is 6 months after the date of enactment of this Act \[Dec. 20, 1993\], apply to such vessels when chartered with no crew provided.
 
->     “(b) __Extension of Period.—__ 
+>     “(b)  __Extension of Period__  __.—__ 
 
 >     The Secretary of the department in which the Coast Guard is operating shall extend for up to 30 additional months or until issuance of a certificate of inspection, whichever occurs first, the period of inapplicability specified in subsection (a) if the owner of the vessel concerned carries out the provisions of subsection (c) to the satisfaction of the Secretary.
 
->     “(c) __Conditions for Extension.—__ 
+>     “(c)  __Conditions for Extension__  __.—__ 
 
 >     To receive an extension authorized by subsection (b), the owner of the vessel shall—
 
@@ -1251,7 +1251,7 @@ Source section (U.S. Code)  </td>
 
 >         “(4) develop a work plan approved by the Coast Guard to complete in a good faith effort all requirements necessary for issuance of a certificate of inspection as soon as practicable.
 
->     “(d) __Operation of Vessel During Extension Period.—__ 
+>     “(d)  __Operation of Vessel During Extension Period__  __.—__ 
 
 >     The owner of a vessel receiving an extension under this section shall operate the vessel under the conditions of route, service, number of passengers, manning, and equipment as may be prescribed by the Coast Guard for the extension period.”
 

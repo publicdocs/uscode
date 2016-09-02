@@ -15,7 +15,7 @@
 
 ## § 30102. Liability to passengers
 
-    (a) __Liability.—__ 
+    (a)  __Liability__  __.—__ 
 
     The owner and master of a vessel, and the vessel, are liable for personal injury to a passenger or damage to a passenger’s baggage caused by—
 
@@ -23,7 +23,7 @@
 
         (2) a known defect in the steaming apparatus or hull of the vessel.
 
-    (b) __Not Subject to Limitation.—__ 
+    (b)  __Not Subject to Limitation__  __.—__ 
 
     A liability imposed under this section is not subject to limitation under chapter 305 of this title.
 

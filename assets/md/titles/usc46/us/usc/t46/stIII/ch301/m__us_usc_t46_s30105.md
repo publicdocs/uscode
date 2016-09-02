@@ -15,11 +15,11 @@
 
 ## § 30105. Restriction on recovery by non-citizens and non-resident aliens for incidents in waters of other countries
 
-    (a) __Definition.—__ 
+    (a)  __Definition__  __.—__ 
 
     In this section, the term “continental shelf” has the meaning given that term in article I of the 1958 Convention on the Continental Shelf.
 
-    (b) __Restriction.—__ 
+    (b)  __Restriction__  __.—__ 
 
     Except as provided in subsection (c), a civil action for maintenance and cure or for damages for personal injury or death may not be brought under a maritime law of the United States if—
 
@@ -29,7 +29,7 @@
 
         (3) the individual suffering the injury or death was employed at the time of the incident by a person engaged in the exploration, development, or production of offshore mineral or energy resources, including drilling, mapping, surveying, diving, pipelaying, maintaining, repairing, constructing, or transporting supplies, equipment, or personnel, but not including transporting those resources by a vessel constructed or adapted primarily to carry oil in bulk in the cargo spaces.
 
-    (c) __Nonapplication.—__ 
+    (c)  __Nonapplication__  __.—__ 
 
     Subsection (b) does not apply if the individual bringing the action establishes that a remedy is not available under the laws of—
 

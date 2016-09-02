@@ -15,7 +15,7 @@
 
 ## § 50105. Studies and cooperation relating to the construction of vessels
 
-    (a) __Relative Costs and New Designs.—__ 
+    (a)  __Relative Costs and New Designs__  __.—__ 
 
     The Secretary of Transportation shall investigate, determine, and keep current records of—
 
@@ -23,15 +23,15 @@
 
         (2) new designs, new methods of construction, and new types of equipment for vessels.
 
-    (b) __Rules, Classifications, and Ratings.—__ 
+    (b)  __Rules, Classifications, and Ratings__  __.—__ 
 
     The Secretary shall examine the rules under which vessels are constructed abroad and in the United States and the methods of classifying and rating the vessels.
 
-    (c) __Collaboration With Owners and Builders.—__ 
+    (c)  __Collaboration With Owners and Builders__  __.—__ 
 
     The Secretary shall collaborate with vessel owners and shipbuilders in developing plans for the economical construction of vessels and their propelling machinery, of most modern economical types, giving thorough consideration to all well-recognized means of propulsion and taking into account the benefits from standardized production where practicable and desirable.
 
-    (d) __Express-Liner and Super-Liner Vessels.—__ 
+    (d)  __Express-Liner and Super-Liner Vessels__  __.—__ 
 
     The Secretary shall study and cooperate with vessel owners in devising means by which there may be constructed, by or with the aid of the United States Government, express-liner or super-liner vessels comparable to those of other nations, especially with a view to their use in a national emergency, and the use of transoceanic aircraft service in connection with or in lieu of those vessels.
 

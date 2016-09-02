@@ -15,17 +15,17 @@
 
 ## § 12138. List of documented vessels
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     The Secretary shall publish periodically a list of all documented vessels and information about those vessels that the Secretary considers pertinent or useful. The list shall contain a notation clearly indicating all vessels classed by the American Bureau of Shipping.
 
-    (b) __Vessels for Cable Laying, Maintenance, and Repair.—__ 
+    (b)  __Vessels for Cable Laying, Maintenance, and Repair__  __.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         The Secretary of Transportation shall develop, maintain, and periodically update an inventory of vessels that are documented under this chapter, are at least 200 feet in length, and have the capability to lay, maintain, or repair a submarine cable, without regard to whether a particular vessel is classed as a cable ship or cable vessel.
 
-        (2) __Information to be included.—__ 
+        (2)  __Information to be included__  __.—__ 
 
         For each vessel listed in the inventory, the Secretary of Transportation shall include in the inventory—
 
@@ -35,7 +35,7 @@
 
             (C) the name and address of the person to whom inquiries regarding the vessel may be made.
 
-        (3) __Publication.—__ 
+        (3)  __Publication__  __.—__ 
 
         The Secretary of Transportation shall publish in the Federal Register an updated inventory every 6 months.
 

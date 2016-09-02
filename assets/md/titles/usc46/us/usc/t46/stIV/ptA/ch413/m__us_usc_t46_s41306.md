@@ -15,11 +15,11 @@
 
 ## § 41306. Injunctive relief sought by complainants
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     After filing a complaint with the Federal Maritime Commission under [section 41301 of this title][/us/usc/t46/s41301], the complainant may bring a civil action in a district court of the United States to enjoin conduct in violation of this part.
 
-    (b) __Venue.—__ 
+    (b)  __Venue__  __.—__ 
 
     The action must be brought in the judicial district in which—
 
@@ -27,11 +27,11 @@
 
         (2) the defendant resides or transacts business, if the Commission has not brought such an action.
 
-    (c) __Remedies by Court.—__ 
+    (c)  __Remedies by Court__  __.—__ 
 
     After notice to the defendant, and a showing that the standards for granting injunctive relief by courts of equity are met, the court may grant a temporary restraining order or preliminary injunction for a period not to exceed 10 days after the Commission has issued an order disposing of the complaint.
 
-    (d) __Attorney Fees.—__ 
+    (d)  __Attorney Fees__  __.—__ 
 
     A defendant prevailing in a civil action under this section shall be allowed reasonable attorney fees to be assessed and collected as part of the costs of the action.
 

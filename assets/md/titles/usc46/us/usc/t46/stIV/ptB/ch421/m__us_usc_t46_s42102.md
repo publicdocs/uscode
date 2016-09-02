@@ -15,15 +15,15 @@
 
 ## § 42102. Regulations of other agencies
 
-    (a) __Request to Agency.—__ 
+    (a)  __Request to Agency__  __.—__ 
 
     To further the objectives and policy set forth in [section 50101 of this title][/us/usc/t46/s50101], the Federal Maritime Commission shall request the head of a department, agency, or instrumentality of the United States Government to suspend, modify, or annul any existing regulations, or to make new regulations, affecting shipping in the foreign trade, except regulations relating to the Public Health Service, the Consular Service, or the inspection of vessels.
 
-    (b) __Prior Review and Approval.—__ 
+    (b)  __Prior Review and Approval__  __.—__ 
 
     A department, agency, or instrumentality of the Government may not prescribe a regulation affecting shipping in the foreign trade (except a regulation affecting the Public Health Service, the Consular Service, or the inspection of vessels) until the regulation has been submitted to the Commission for its approval and final action has been taken by the Commission or the President.
 
-    (c) __Submission to President.—__ 
+    (c)  __Submission to President__  __.—__ 
 
     If the head of a department, agency, or instrumentality of the Government refuses to comply with a request under subsection (a) or objects to a decision of the Commission under subsection (b), the Commission or the head of the department, agency, or instrumentality may submit the facts to the President. The President may establish, suspend, modify, or annul the regulation.
 

@@ -15,15 +15,15 @@
 
 ## § 50111. Reports to Congress
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     Not later than April 1 of each year, the Secretary of Transportation shall submit a report to Congress. The report shall include, with respect to activities of the Secretary under this subtitle, the results of investigations, a summary of transactions, a statement of all expenditures and receipts, the purposes for which all expenditures were made, and any recommendations for legislation.
 
-    (b) __Administered and Oversight Funds.—__ 
+    (b)  __Administered and Oversight Funds__  __.—__ 
 
     The Secretary, in the report under subsection (a) and in the annual budget estimate for the Maritime Administration submitted to Congress, shall state separately the amount, source, intended use, and nature of any funds (other than funds appropriated to the Administration or to the Secretary of Transportation for use by the Administration) administered, or subject to oversight, by the Administration.
 
-    (c) __Additional Recommendations for Legislation.—__ 
+    (c)  __Additional Recommendations for Legislation__  __.—__ 
 
     The Secretary, from time to time, shall make recommendations to Congress for legislation the Secretary considers necessary to better achieve the objectives and policy of [section 50101 of this title][/us/usc/t46/s50101].
 

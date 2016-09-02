@@ -15,31 +15,31 @@
 
 ## § 41109. Assessment of penalties
 
-    (a) __General Authority.—__ 
+    (a)  __General Authority__  __.—__ 
 
     Until a matter is referred to the Attorney General, the Federal Maritime Commission may, after notice and opportunity for a hearing, assess a civil penalty provided for in this part. The Commission may compromise, modify, or remit, with or without conditions, a civil penalty.
 
-    (b) __Factors in Determining Amount.—__ 
+    (b)  __Factors in Determining Amount__  __.—__ 
 
     In determining the amount of a civil penalty, the Commission shall take into account the nature, circumstances, extent, and gravity of the violation committed and, with respect to the violator, the degree of culpability, history of prior offenses, ability to pay, and other matters justice may require.
 
-    (c) __Exception.—__ 
+    (c)  __Exception__  __.—__ 
 
     A civil penalty may not be imposed for conspiracy to violate section 41102(a) or 41104(1) or (2) of this title or to defraud the Commission by concealing such a violation.
 
-    (d) __Prohibited Basis of Penalty.—__ 
+    (d)  __Prohibited Basis of Penalty__  __.—__ 
 
     The Commission or a court may not order a person to pay the difference between the amount billed and agreed upon in writing with a common carrier or its agent and the amount set forth in a tariff or service contract by that common carrier for the transportation service provided.
 
-    (e) __Time Limit.—__ 
+    (e)  __Time Limit__  __.—__ 
 
     A proceeding to assess a civil penalty under this section must be commenced within 5 years after the date of the violation.
 
-    (f) __Review of Civil Penalty.—__ 
+    (f)  __Review of Civil Penalty__  __.—__ 
 
     A person against whom a civil penalty is assessed under this section may obtain review under chapter 158 of title 28.
 
-    (g) __Civil Actions To Collect.—__ 
+    (g)  __Civil Actions To Collect__  __.—__ 
 
     If a person does not pay an assessment of a civil penalty after it has become final or after the appropriate court has entered final judgment in favor of the Commission, the Attorney General at the request of the Commission may seek to collect the amount assessed in an appropriate district court of the United States. The court shall enforce the order of the Commission unless it finds that the order was not regularly made and duly issued.
 

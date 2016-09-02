@@ -17,7 +17,7 @@
 
     (a) __Vessel Design, Equipment, Construction, and Retrofitting Requirements.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         Each vessel to which this subsection applies shall comply with the following design and construction standards:
 
@@ -37,33 +37,33 @@
 
             (E) The vessel shall be equipped with a sufficient number of operable acoustic hailing or other such warning devices to provide communication capability around the entire vessel when operating in high risk areas (as defined by the United States Coast Guard).
 
-        (2) __Fire safety codes.—__ 
+        (2)  __Fire safety codes__  __.—__ 
 
         In administering the requirements of paragraph (1)(C), the Secretary shall take into consideration fire safety and other applicable emergency requirements established by the U.S. Coast Guard and under international law, as appropriate.
 
         (3) __Effective date.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             Except as provided in subparagraph (B), the requirements of paragraph (1) shall take effect 18 months after the date of enactment of the Cruise Vessel Security and Safety Act of 2010.
 
-            (B) __Latch and key requirements.—__ 
+            (B)  __Latch and key requirements__  __.—__ 
 
             The requirements of paragraph (1)(C) take effect on the date of enactment of the Cruise Vessel Security and Safety Act of 2010.
 
     (b) __Video Recording.—__ 
 
-        (1) __Requirement to maintain surveillance.—__ 
+        (1)  __Requirement to maintain surveillance__  __.—__ 
 
         The owner of a vessel to which this section applies shall maintain a video surveillance system to assist in documenting crimes on the vessel and in providing evidence for the prosecution of such crimes, as determined by the Secretary.
 
-        (2) __Access to video records.—__ 
+        (2)  __Access to video records__  __.—__ 
 
         The owner of a vessel to which this section applies shall provide to any law enforcement official performing official duties in the course and scope of an investigation, upon request, a copy of all records of video surveillance that the official believes may provide evidence of a crime reported to law enforcement officials.
 
     (c) __Safety Information.—__ 
 
-        (1) __Criminal Activity Prevention and Response Guide.—__ 
+        (1)  __Criminal Activity Prevention and Response Guide__  __.—__ 
 
         The owner of a vessel to which this section applies (or the owner’s designee) shall—
 
@@ -87,11 +87,11 @@
 
             (C) publicize the security guide on the website of the vessel owner.
 
-        (2) __Embassy and consulate locations.—__ 
+        (2)  __Embassy and consulate locations__  __.—__ 
 
         The owner of a vessel to which this section applies shall provide in each passenger stateroom, and post in a location readily accessible to all crew and in other places specified by the Secretary, information regarding the locations of the United States embassy and each consulate of the United States for each country the vessel will visit during the course of the voyage.
 
-    (d) __Sexual Assault.—__ 
+    (d)  __Sexual Assault__  __.—__ 
 
     The owner of a vessel to which this section applies shall—
 
@@ -125,7 +125,7 @@
 
             (B) a private telephone line and Internet-accessible computer terminal by which the individual may confidentially access law enforcement officials, an attorney, and the information and support services available through the National Sexual Assault Hotline program or other third party victim advocacy hotline service.
 
-    (e) __Confidentiality of Sexual Assault Examination and Support Information.—__ 
+    (e)  __Confidentiality of Sexual Assault Examination and Support Information__  __.—__ 
 
     The master or other individual in charge of a vessel to which this section applies shall—
 
@@ -141,7 +141,7 @@
 
         (2) treat any information derived from, or obtained in connection with, post-assault counseling or other supportive services confidential, so no such information may be released to the cruise line or any legal representative thereof without the prior knowledge and approval in writing of the patient, or, if the patient is unable to provide written authorization, the patient’s next-of-kin.
 
-    (f) __Crew Access to Passenger Staterooms.—__ 
+    (f)  __Crew Access to Passenger Staterooms__  __.—__ 
 
     The owner of a vessel to which this section applies shall—
 
@@ -157,7 +157,7 @@
 
     (g) __Log Book and Reporting Requirements.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         The owner of a vessel to which this section applies shall—
 
@@ -175,7 +175,7 @@
 
             (B) make such log book available upon request to any agent of the Federal Bureau of Investigation, any member of the United States Coast Guard, and any law enforcement officer performing official duties in the course and scope of an investigation.
 
-        (2) __Details required.—__ 
+        (2)  __Details required__  __.—__ 
 
         The information recorded under paragraph (1) shall include, at a minimum—
 
@@ -201,7 +201,7 @@
 
         (3) __Requirement to report crimes and other information.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             The owner of a vessel to which this section applies (or the owner’s designee)—
 
@@ -213,7 +213,7 @@
 
                 (iv) may report any other criminal incident involving passengers or crewmembers, or both, to the proper State or local government law enforcement authority.
 
-            (B) __Incidents to which subparagraph (A) applies.—__ 
+            (B)  __Incidents to which subparagraph (A) applies__  __.—__ 
 
             Subparagraph (A) applies to an incident involving criminal activity if—
 
@@ -227,11 +227,11 @@
 
         (4) __Availability of incident data via internet.—__ 
 
-            (A) __Website.—__ 
+            (A)  __Website__  __.—__ 
 
             The Secretary shall maintain a statistical compilation of all incidents described in paragraph (3)(A)(i) on an Internet site that provides a numerical accounting of the missing persons and alleged crimes recorded in each report filed under paragraph (3)(A)(i) that are no longer under investigation by the Federal Bureau of Investigation. The data shall be updated no less frequently than quarterly, aggregated by cruise line, each cruise line shall be identified by name, and each crime shall be identified as to whether it was committed by a passenger or a crew member.
 
-            (B) __Access to website.—__ 
+            (B)  __Access to website__  __.—__ 
 
             Each cruise line taking on or discharging passengers in the United States shall include a link on its Internet website to the website maintained by the Secretary under subparagraph (A).
 
@@ -239,15 +239,15 @@
 
         (1) __Penalties.—__ 
 
-            (A) __Civil penalty.—__ 
+            (A)  __Civil penalty__  __.—__ 
 
             Any person that violates this section or a regulation under this section shall be liable for a civil penalty of not more than $25,000 for each day during which the violation continues, except that the maximum penalty for a continuing violation is $50,000.
 
-            (B) __Criminal penalty.—__ 
+            (B)  __Criminal penalty__  __.—__ 
 
             Any person that willfully violates this section or a regulation under this section shall be fined not more than $250,000 or imprisoned not more than 1 year, or both.
 
-        (2) __Denial of entry.—__ 
+        (2)  __Denial of entry__  __.—__ 
 
         The Secretary may deny entry into the United States to a vessel to which this section applies if the owner of the vessel—
 
@@ -255,17 +255,17 @@
 
             (B) fails to pay a penalty imposed on the owner under this subsection.
 
-    (i) __Procedures.—__ 
+    (i)  __Procedures__  __.—__ 
 
     Within 6 months after the date of enactment of the Cruise Vessel Security and Safety Act of 2010, the Secretary shall issue guidelines, training curricula, and inspection and certification procedures necessary to carry out the requirements of this section.
 
-    (j) __Regulations.—__ 
+    (j)  __Regulations__  __.—__ 
 
     The Secretary and the Commandant shall each issue such regulations as are necessary to implement this section.
 
     (k) __Application.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         This section and section 3508 apply to a passenger vessel (as defined in section 2101(22)) that—
 
@@ -277,19 +277,19 @@
 
             (D) is not engaged on a coastwise voyage.
 
-        (2) __Federal and state vessels.—__ 
+        (2)  __Federal and state vessels__  __.—__ 
 
         This section and section 3508 do not apply to a vessel of the United States operated by the Federal Government or a vessel owned and operated by a State.
 
-    (l) __Definitions.—__ 
+    (l)  __Definitions__  __.—__ 
 
     In this section and section 3508:
 
-        (1) __Commandant.—__ 
+        (1)  __Commandant__  __.—__ 
 
         The term “Commandant” means the Commandant of the Coast Guard.
 
-        (2) __Owner.—__ 
+        (2)  __Owner__  __.—__ 
 
         The term “owner” means the owner, charterer, managing operator, master, or other individual in charge of a vessel.
 

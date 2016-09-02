@@ -15,11 +15,11 @@
 
 ## § 3508. Crime scene preservation training for passenger vessel crewmembers
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     Within 1 year after the date of enactment of the Cruise Vessel Security and Safety Act of 2010, the Secretary, in consultation with the Director of the Federal Bureau of Investigation and the Maritime Administration, shall develop training standards and curricula to allow for the certification of passenger vessel security personnel, crewmembers, and law enforcement officials on the appropriate methods for prevention, detection, evidence preservation, and reporting of criminal activities in the international maritime environment. The Administrator of the Maritime Administration may certify organizations in the United States and abroad that offer the curriculum for training and certification under subsection (c).
 
-    (b) __Minimum Standards.—__ 
+    (b)  __Minimum Standards__  __.—__ 
 
     The standards established by the Secretary under subsection (a) shall include—
 
@@ -29,19 +29,19 @@
 
         (3) the provision or recognition of off-site training and certification courses in the United States and foreign countries to develop and provide the required training and certification described in subsection (a) and to enhance security awareness and security practices related to the preservation of evidence in response to crimes on board passenger vessels.
 
-    (c) __Certification Requirement.—__ 
+    (c)  __Certification Requirement__  __.—__ 
 
     Beginning 2 years after the standards are established under subsection (b), no vessel to which this section applies may enter a United States port on a voyage (or voyage segment) on which a United States citizen is a passenger unless there is at least 1 crewmember onboard who is certified as having successfully completed training in the prevention, detection, evidence preservation, and reporting of criminal activities in the international maritime environment on passenger vessels under subsection (a).
 
-    (d) __Interim Training Requirement.—__ 
+    (d)  __Interim Training Requirement__  __.—__ 
 
     No vessel to which this section applies may enter a United States port on a voyage (or voyage segment) on which a United States citizen is a passenger unless there is at least 1 crewmember onboard who has been properly trained in the prevention detection, evidence preservation and the reporting requirements of criminal activities in the international maritime environment. The owner of a such a vessel shall maintain certification or other documentation, as prescribed by the Secretary, verifying the training of such individual and provide such documentation upon request for inspection in connection with enforcement of the provisions of this section. This subsection shall take effect 1 year after the date of enactment of the Cruise Vessel Safety and Security Act of 2010 and shall remain in effect until superseded by the requirements of subsection (c).
 
-    (e) __Civil Penalty.—__ 
+    (e)  __Civil Penalty__  __.—__ 
 
     Any person that violates this section or a regulation under this section shall be liable for a civil penalty of not more than $50,000.
 
-    (f) __Denial of Entry.—__ 
+    (f)  __Denial of Entry__  __.—__ 
 
     The Secretary may deny entry into the United States to a vessel to which this section applies if the owner of the vessel—
 

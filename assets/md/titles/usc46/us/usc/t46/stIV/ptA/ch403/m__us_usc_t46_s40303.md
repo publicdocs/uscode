@@ -15,9 +15,9 @@
 
 ## § 40303. Content requirements
 
-    (a) __Ocean Common Carrier Agreements.—__ 
+    (a)  __Ocean Common Carrier Agreements__  __.—__ 
 
-        (1) __Restrictions.—__ 
+        (1)  __Restrictions__  __.—__ 
 
         An ocean common carrier agreement may not—
 
@@ -27,11 +27,11 @@
 
             (C) adopt mandatory rules or requirements affecting the right of an agreement member to negotiate and enter into a service contract.
 
-        (2) __Voluntary guidelines.—__ 
+        (2)  __Voluntary guidelines__  __.—__ 
 
         An ocean common carrier agreement may provide authority to adopt voluntary guidelines relating to the terms and procedures of an agreement member’s service contracts if the guidelines explicitly state the right of members of the agreement not to follow the guidelines. Any guidelines adopted shall be submitted confidentially to the Federal Maritime Commission.
 
-    (b) __Conference Agreements.—__ 
+    (b)  __Conference Agreements__  __.—__ 
 
     Each conference agreement must—
 
@@ -63,17 +63,17 @@
 
             (B) except for an exempt commodity not published in the conference tariff, the conference will include the new rate or service item in its tariff for use by that member, effective no later than 5 days after receipt of the notice, and by any other member that notifies the conference that it elects to adopt the independent rate or service item on or after its effective date, in lieu of the existing conference tariff provision for that rate or service item.
 
-    (c) __Interconference Agreements.—__ 
+    (c)  __Interconference Agreements__  __.—__ 
 
     Each agreement between carriers not members of the same conference must provide the right of independent action for each carrier. Each agreement between conferences must provide the right of independent action for each conference.
 
-    (d) __Vessel Sharing Agreements.—__ 
+    (d)  __Vessel Sharing Agreements__  __.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         An ocean common carrier that is the owner, operator, or bareboat, time, or slot charterer of a liner vessel documented under section 12103 or 12111(c) of this title may agree with an ocean common carrier described in paragraph (2) to which it charters or subcharters the vessel or space on the vessel that the charterer or subcharterer may not use or make available space on the vessel for the carriage of cargo reserved by law for vessels of the United States.
 
-        (2) __Carrier described.—__ 
+        (2)  __Carrier described__  __.—__ 
 
         An ocean common carrier described in this paragraph is one that is not the owner, operator, or bareboat charterer for at least one year of liner vessels of the United States that are eligible to be included in the Maritime Security Fleet Program and are enrolled in an Emergency Preparedness Program under chapter 531 of this title.
 

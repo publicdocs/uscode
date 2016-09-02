@@ -163,7 +163,7 @@
 
 [Pub. L. 100–424, § 2(b)][/us/pl/100/424/s2/b], Sept. 9, 1988, [102 Stat. 1589][/us/stat/102/1589], provided that:
 
->     “(1) __Terms of initial appointments.—__ 
+>     “(1)  __Terms of initial appointments__  __.—__ 
 
 >     Of the members first appointed to the Commercial Fishing Industry Advisory Committee under [section 4508 of title 46][/us/usc/t46/s4508], United States Code (as amended by this Act)—
 
@@ -171,7 +171,7 @@
 
 >         “(B) terms may be adjusted to coincide with the Government’s fiscal year.
 
->     “(2) __Completion of initial appointments.—__ 
+>     “(2)  __Completion of initial appointments__  __.—__ 
 
 >     The Secretary shall complete appointment of members pursuant to this subsection not later than 90 days after the date of the enactment of this Act \[Sept. 9, 1988\].”
 

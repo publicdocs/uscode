@@ -15,15 +15,15 @@
 
 ## § 7706. Drug testing reporting
 
-    (a) __Release of Drug Test Results to Coast Guard.—__ 
+    (a)  __Release of Drug Test Results to Coast Guard__  __.—__ 
 
     Not later than 2 weeks after receiving from a Medical Review Officer a report of a verified positive drug test or verified test violation by a civilian employee of a Federal agency, an officer in the Public Health Services, or an officer in the National Oceanic and Atmospheric Administration Commissioned Officer Corps, who is employed in any capacity on board a vessel operated by the agency, the head of the agency shall release to the Commandant of the Coast Guard the report.
 
-    (b) __Standards, Procedures, and Regulations.—__ 
+    (b)  __Standards, Procedures, and Regulations__  __.—__ 
 
     The head of a Federal agency shall carry out a release under subsection (a) in accordance with the standards, procedures, and regulations applicable to the disclosure and reporting to the Coast Guard of drug tests results and drug test records of individuals employed on vessels documented under the laws of the United States.
 
-    (c) __Waiver.—__ 
+    (c)  __Waiver__  __.—__ 
 
     Notwithstanding section 503(e) of the Supplemental Appropriations Act, 1987 ([5 U.S.C. 7301][/us/usc/t5/s7301] note), the report of a drug test of an employee may be released under this section without the prior written consent of the employee.
 

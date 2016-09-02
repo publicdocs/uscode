@@ -15,23 +15,23 @@
 
 ## § 41302. Investigations
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     The Federal Maritime Commission, on complaint or its own motion, may investigate any conduct or agreement that the Commission believes may be in violation of this part. The Commission may by order disapprove, cancel, or modify any agreement that operates in violation of this part.
 
-    (b) __Effectiveness of Agreement During Investigation.—__ 
+    (b)  __Effectiveness of Agreement During Investigation__  __.—__ 
 
     Unless an injunction is issued under section 41306 or 41307 of this title, an agreement under investigation by the Commission remains in effect until the Commission issues its order.
 
-    (c) __Date for Decision.—__ 
+    (c)  __Date for Decision__  __.—__ 
 
     Within 10 days after the initiation of a proceeding under this section or [section 41301 of this title][/us/usc/t46/s41301], the Commission shall set a date by which it will issue its final decision. The Commission by order may extend the date for good cause.
 
-    (d) __Sanctions for Delay.—__ 
+    (d)  __Sanctions for Delay__  __.—__ 
 
     If, within the period for final decision under subsection (c), the Commission determines that it is unable to issue a final decision because of undue delay caused by a party to the proceeding, the Commission may impose sanctions, including issuing a decision adverse to the delaying party.
 
-    (e) __Report.—__ 
+    (e)  __Report__  __.—__ 
 
     The Commission shall make a written report of every investigation under this part in which a hearing was held, stating its conclusions, decisions, findings of fact, and order. The Commission shall provide a copy of the report to all parties and publish the report for public information. A published report is competent evidence in a court of the United States.
 

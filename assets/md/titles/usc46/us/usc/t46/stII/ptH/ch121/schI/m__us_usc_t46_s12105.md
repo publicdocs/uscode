@@ -15,15 +15,15 @@
 
 ## § 12105. Issuance of documentation
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     Except as provided in [section 12152 of this title][/us/usc/t46/s12152], the Secretary, on receipt of a proper application, shall issue a certificate of documentation or a temporary certificate of documentation for a vessel satisfying the requirements of [section 12103 of this title][/us/usc/t46/s12103]. The certificate shall contain each endorsement under subchapter II of this chapter for which the owner applies and the vessel is eligible.
 
-    (b) __Temporary Certificates for Recreational Vessels.—__ 
+    (b)  __Temporary Certificates for Recreational Vessels__  __.—__ 
 
     The Secretary may delegate, subject to the supervision and control of the Secretary and under terms prescribed by regulation, to private entities determined and certified by the Secretary to be qualified, the authority to issue a temporary certificate of documentation for a recreational vessel eligible under [section 12103 of this title][/us/usc/t46/s12103]. A temporary certificate issued under this subsection is valid for not more than 30 days.
 
-    (c) __Information To Be Included in Certificate.—__ 
+    (c)  __Information To Be Included in Certificate__  __.—__ 
 
     A certificate of documentation shall—
 
@@ -33,7 +33,7 @@
 
         (3) contain additional information prescribed by the Secretary.
 
-    (d) __Procedures To Ensure Integrity and Accuracy.—__ 
+    (d)  __Procedures To Ensure Integrity and Accuracy__  __.—__ 
 
     The Secretary shall prescribe procedures to ensure the integrity of, and the accuracy of information contained in, certificates of documentation.
 

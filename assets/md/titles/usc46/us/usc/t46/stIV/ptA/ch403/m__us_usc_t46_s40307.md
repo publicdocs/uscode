@@ -15,7 +15,7 @@
 
 ## § 40307. Exemption from antitrust laws
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     The antitrust laws do not apply to—
 
@@ -39,7 +39,7 @@
 
         (7) an agreement, modification, or cancellation approved before June 18, 1984, by the Commission under section 15 of the Shipping Act, 1916, or permitted under section 14b of that Act, and any properly published tariff, rate, fare, or charge, or classification, rule, or regulation explanatory thereof implementing that agreement, modification, or cancellation.
 
-    (b) __Exceptions.—__ 
+    (b)  __Exceptions__  __.—__ 
 
     This part does not extend antitrust immunity to—
 
@@ -51,11 +51,11 @@
 
         (4) a loyalty contract.
 
-    (c) __Retroactive Effect of Determinations.—__ 
+    (c)  __Retroactive Effect of Determinations__  __.—__ 
 
     A determination by an agency or court that results in the denial or removal of the immunity to the antitrust laws under subsection (a) does not remove or alter the antitrust immunity for the period before the determination.
 
-    (d) __Relief Under Clayton Act.—__ 
+    (d)  __Relief Under Clayton Act__  __.—__ 
 
     A person may not recover damages under section 4 of the Clayton Act ([15 U.S.C. 15][/us/usc/t15/s15]), or obtain injunctive relief under section 16 of that Act ([15 U.S.C. 26][/us/usc/t15/s26]), for conduct prohibited by this part.
 

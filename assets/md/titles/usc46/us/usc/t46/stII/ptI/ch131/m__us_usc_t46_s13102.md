@@ -107,7 +107,7 @@ Source section (U.S. Code)  </td>
 
 [Pub. L. 100–448, § 6(d)][/us/pl/100/448/s6/d], Sept. 28, 1988, [102 Stat. 1841][/us/stat/102/1841], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The Secretary of Transportation and the Secretary of the Interior shall jointly conduct a survey of—
 
@@ -115,15 +115,15 @@ Source section (U.S. Code)  </td>
 
 >         “(B) the amount and types of fuel used by those vessels.
 
->     “(2) __Authorization of contracts.—__ 
+>     “(2)  __Authorization of contracts__  __.—__ 
 
 >     The Secretary of Transportation and the Secretary of the Interior may enter into contracts for the performance of a survey pursuant to this subsection.
 
->     “(3) __Report.—__ 
+>     “(3)  __Report__  __.—__ 
 
 >     The Secretary of the Interior and the Secretary of Transportation shall jointly submit a report to the Speaker of the House of Representatives and to the President pro tempore of the Senate which describes the results of the survey conducted pursuant to this section not later than November 15, 1992.
 
->     “(4) __Funding.—__ 
+>     “(4)  __Funding__  __.—__ 
 
 >     Activities under this subsection may be carried out—
 

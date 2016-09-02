@@ -15,7 +15,7 @@
 
 ## § 12113. Fishery endorsement
 
-    (a) __Requirements.—__ 
+    (a)  __Requirements__  __.—__ 
 
     A fishery endorsement may be issued for a vessel that—
 
@@ -29,23 +29,23 @@
 
         (5) otherwise qualifies under the laws of the United States to engage in the fisheries.
 
-    (b) __Authorized Activity.—__ 
+    (b)  __Authorized Activity__  __.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         Subject to the laws of the United States regulating the fisheries, a vessel for which a fishery endorsement is issued may engage in the fisheries.
 
-        (2) __Use by prohibited persons.—__ 
+        (2)  __Use by prohibited persons__  __.—__ 
 
         A fishery endorsement is invalid immediately if the vessel for which it is issued is used as a fishing vessel while it is chartered or leased to an individual who is not a citizen of the United States or to an entity that is not eligible to own a vessel with a fishery endorsement.
 
-    (c) __Ownership Requirements for Entities.—__ 
+    (c)  __Ownership Requirements for Entities__  __.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         A vessel owned by an entity is eligible for a fishery endorsement only if at least 75 percent of the interest in the entity, at each tier of ownership and in the aggregate, is owned and controlled by citizens of the United States.
 
-        (2) __Determining 75 percent interest.—__ 
+        (2)  __Determining 75 percent interest__  __.—__ 
 
         In determining whether at least 75 percent of the interest in the entity is owned and controlled by citizens of the United States under paragraph (1), the Secretary shall apply [section 50501(d) of this title][/us/usc/t46/s50501/d], except that for this purpose the terms “control” or “controlled”—
 
@@ -61,13 +61,13 @@
 
             (B) do not include the right to simply participate in the activities under subparagraph (A), or the exercise of rights under loan or mortgage covenants by a mortgagee eligible to be a preferred mortgagee under [section 31322(a) of this title][/us/usc/t46/s31322/a], except that a mortgagee not eligible to own a vessel with a fishery endorsement may only operate such a vessel to the extent necessary for the immediate safety of the vessel or for repairs, drydocking, or berthing changes.
 
-        (3) __Exceptions.—__ 
+        (3)  __Exceptions__  __.—__ 
 
         This subsection does not apply to a vessel when it is engaged in the fisheries in the exclusive economic zone under the authority of the Western Pacific Fishery Management Council established under section 302(a)(1)(H) of the Magnuson-Stevens Fishery Conservation and Management Act ([16 U.S.C. 1852(a)(1)(H)][/us/usc/t16/s1852/a/1/H]) or to a purse seine vessel when it is engaged in tuna fishing in the Pacific Ocean outside the exclusive economic zone or pursuant to the South Pacific Regional Fisheries Treaty, provided that the owner of the vessel continues to comply with the eligibility requirements for a fishery endorsement under the Federal law that was in effect on October 1, 1998. A fishery endorsement issued pursuant to this paragraph is valid for engaging only in the activities described in this paragraph.
 
-    (d) __Requirements Based on Length, Tonnage, or Horsepower.—__ 
+    (d)  __Requirements Based on Length, Tonnage, or Horsepower__  __.—__ 
 
-        (1) __Application.—__ 
+        (1)  __Application__  __.—__ 
 
         This subsection applies to a vessel that—
 
@@ -77,7 +77,7 @@
 
             (C) has an engine or engines capable of producing a total of more than 3,000 shaft horsepower.
 
-        (2) __Requirements.—__ 
+        (2)  __Requirements__  __.—__ 
 
         A vessel subject to this subsection is not eligible for a fishery endorsement unless—
 
@@ -107,17 +107,17 @@
 
             (D) the vessel is a fish tender vessel that is not engaged in the harvesting or processing of fish.
 
-    (e) __Vessels Measuring 100 Feet or Greater.—__ 
+    (e)  __Vessels Measuring__  __100__  __Feet or Greater__  __.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         The Administrator of the Maritime Administration shall administer subsections (c) and (d) with respect to vessels 100 feet or greater in registered length. The owner of each such vessel shall file a statement of citizenship setting forth all relevant facts regarding vessel ownership and control with the Administrator on an annual basis to demonstrate compliance with those provisions.
 
-        (2) __Regulations.—__ 
+        (2)  __Regulations__  __.—__ 
 
         Regulations to implement this subsection shall conform to the extent practicable with the regulations establishing the form of citizenship affidavit set forth in part 355 of title 46, Code of Federal Regulations, as in effect on September 25, 1997, except that the form of the statement shall be written in a manner to allow the owner of the vessel to satisfy any annual renewal requirements for a certificate of documentation for the vessel and to comply with this subsection and subsections (c) and (d), and shall not be required to be notarized.
 
-        (3) __Transfer of ownership.—__ 
+        (3)  __Transfer of ownership__  __.—__ 
 
         Transfers of ownership and control of vessels subject to subsection (c) or (d), which are 100 feet or greater in registered length, shall be rigorously scrutinized for violations of those provisions, with particular attention given to—
 
@@ -127,19 +127,19 @@
 
             (C) contracts involving the purchase over extended periods of time of all, or substantially all, of the living marine resources harvested by a fishing vessel.
 
-    (f) __Vessels Measuring Less Than 100 Feet.—__ 
+    (f)  __Vessels Measuring Less Than__  __100__  __Feet__  __.—__ 
 
     The Secretary shall establish reasonable and necessary requirements to demonstrate compliance with subsections (c) and (d), with respect to vessels measuring less than 100 feet in registered length, and shall seek to minimize the administrative burden on individuals who own and operate those vessels.
 
-    (g) __Vessels Purchased Through Fishing Capacity Reduction Program.—__ 
+    (g)  __Vessels Purchased Through Fishing Capacity Reduction Program__  __.—__ 
 
     A vessel purchased by the Secretary of Commerce through a fishing capacity reduction program under the Magnuson-Stevens Fishery Conservation and Management Act ([16 U.S.C. 1801][/us/usc/t16/s1801] et seq.) or section 308 of the Interjurisdictional Fisheries Act of 1986 ([16 U.S.C. 4107][/us/usc/t16/s4107]) is not eligible for a fishery endorsement, and any fishery endorsement issued for that vessel is invalid.
 
-    (h) __Revocation of Endorsements.—__ 
+    (h)  __Revocation of Endorsements__  __.—__ 
 
     The Secretary shall revoke the fishery endorsement of any vessel subject to subsection (c) or (d) whose owner does not comply with those provisions.
 
-    (i) __Regulations.—__ 
+    (i)  __Regulations__  __.—__ 
 
     Regulations to implement subsections (c) and (d) and sections 12151(c) and 31322(b) of this title shall prohibit impermissible transfers of ownership or control, specify any transactions that require prior approval of an implementing agency, identify transactions that do not require prior agency approval, and to the extent practicable, minimize disruptions to the commercial fishing industry, to the traditional financing arrangements of that industry, and to the opportunity to form fishery cooperatives.
 

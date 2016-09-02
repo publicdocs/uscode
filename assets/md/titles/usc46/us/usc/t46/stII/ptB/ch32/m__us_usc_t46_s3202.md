@@ -15,7 +15,7 @@
 
 ## § 3202. Application
 
-    (a) __Foreign Voyages and Foreign Vessels.—__ 
+    (a)  __Foreign Voyages and Foreign Vessels__  __.—__ 
 
     This chapter applies to a vessel that—
 
@@ -31,7 +31,7 @@
 
             (B) is a foreign vessel departing from a place under the jurisdiction of the United States on a voyage, any part of which is on the high seas.
 
-    (b) __Other Passenger Vessels.—__ 
+    (b)  __Other Passenger Vessels__  __.—__ 
 
     This chapter applies to a vessel that is—
 
@@ -39,11 +39,11 @@
 
         (2) is transporting more passengers than a number prescribed by the Secretary based on the number of individuals on the vessel that could be killed or injured in a marine casualty.
 
-    (c) __Voluntary Application.—__ 
+    (c)  __Voluntary Application__  __.—__ 
 
     This chapter applies to a vessel not described in subsection (a) of this section if the owner of the vessel requests the Secretary to apply this chapter to the vessel.
 
-    (d) __Exception.—__ 
+    (d)  __Exception__  __.—__ 
 
     Except as provided in subsection (c) of this section, this chapter does not apply to—
 

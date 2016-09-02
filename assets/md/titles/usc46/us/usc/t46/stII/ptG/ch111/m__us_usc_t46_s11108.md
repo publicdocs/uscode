@@ -15,17 +15,17 @@
 
 ## § 11108. Taxes
 
-    (a) __Withholding.—__ 
+    (a)  __Withholding__  __.—__ 
 
     Wages due or accruing to a master or seaman on a vessel in the foreign, coastwise, intercoastal, interstate, or noncontiguous trade or an individual employed on a fishing vessel or any fish processing vessel may not be withheld under the tax laws of a State or a political subdivision of a State. However, this section does not prohibit withholding wages of a seaman on a vessel in the coastwise trade between ports in the same State if the withholding is under a voluntary agreement between the seaman and the employer of the seaman.
 
     (b) __Liability.—__ 
 
-        (1) __Limitation on jurisdiction to tax.—__ 
+        (1)  __Limitation on jurisdiction to tax__  __.—__ 
 
         An individual to whom this subsection applies is not subject to the income tax laws of a State or political subdivision of a State, other than the State and political subdivision in which the individual resides, with respect to compensation for the performance of duties described in paragraph (2).
 
-        (2) __Application.—__ 
+        (2)  __Application__  __.—__ 
 
         This subsection applies to an individual—
 

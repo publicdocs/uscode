@@ -15,15 +15,15 @@
 
 ## § 3205. Certification
 
-    (a) __Issuance of Certificate and Document.—__ 
+    (a)  __Issuance of Certificate and Document__  __.—__ 
 
     After verifying that the responsible person for a vessel to which this chapter applies and the vessel comply with the applicable requirements under this chapter, the Secretary shall issue for the vessel, on request of the responsible person, a Safety Management Certificate and a Document of Compliance.
 
-    (b) __Maintenance of Certificate and Document.—__ 
+    (b)  __Maintenance of Certificate and Document__  __.—__ 
 
     A Safety Management Certificate and a Document of Compliance issued for a vessel under this section shall be maintained by the responsible person for the vessel as required by the Secretary.
 
-    (c) __Verification of Compliance.—__ 
+    (c)  __Verification of Compliance__  __.—__ 
 
     The Secretary shall—
 
@@ -31,7 +31,7 @@
 
         (2) revoke the Secretary’s approval of the plan and each Safety Management Certificate and Document of Compliance issued to the person for a vessel to which the plan applies, if the Secretary determines that the person or a vessel to which the plan applies has not complied with the plan.
 
-    (d) __Enforcement.—__ 
+    (d)  __Enforcement__  __.—__ 
 
     At the request of the Secretary, the Secretary of Homeland Security shall withhold or revoke the clearance required by [section 60105 of this title][/us/usc/t46/s60105] of a vessel that is subject to this chapter under [section 3202(a) of this title][/us/usc/t46/s3202/a] or to the International Safety Management Code, if the vessel does not have on board a Safety Management Certificate and a copy of a Document of Compliance for the vessel. Clearance may be granted on filing a bond or other surety satisfactory to the Secretary.
 

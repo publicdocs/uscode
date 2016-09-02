@@ -225,11 +225,11 @@
 
 [Pub. L. 101–380, title IV, § 4115(e)][/us/pl/101/380/s4115/e], Aug. 18, 1990, [104 Stat. 520][/us/stat/104/520], as amended by [Pub. L. 105–383, title IV, § 423][/us/pl/105/383/s423], Nov. 13, 1998, [112 Stat. 3440][/us/stat/112/3440]; [Pub. L. 108–293, title VII, § 705][/us/pl/108/293/s705], Aug. 9, 2004, [118 Stat. 1075][/us/stat/118/1075]; [Pub. L. 109–241, title IX, § 901(n)][/us/pl/109/241/s901/n], July 11, 2006, [120 Stat. 565][/us/stat/120/565], provided that:
 
->     “(1) __Other requirements.—__ 
+>     “(1)  __Other requirements__  __.—__ 
 
 >     Not later than 6 months after the date of enactment of this Act \[Aug. 18, 1990\], the Secretary shall determine, based on recommendations from the National Academy of Sciences or other qualified organizations, whether other structural and operational tank vessel requirements will provide protection to the marine environment equal to or greater than that provided by double hulls, and shall report to the Congress that determination and recommendations for legislative action.
 
->     “(2) __Review and assessment.—__ 
+>     “(2)  __Review and assessment__  __.—__ 
 
 >     The Secretary shall—
 

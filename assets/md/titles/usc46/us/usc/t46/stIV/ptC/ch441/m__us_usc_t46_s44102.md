@@ -15,11 +15,11 @@
 
 ## § 44102. Financial responsibility to indemnify passengers for nonperformance of transportation
 
-    (a) __Filing Requirement.—__ 
+    (a)  __Filing Requirement__  __.—__ 
 
     A person in the United States may not arrange, offer, advertise, or provide transportation on a vessel to which this chapter applies unless the person has filed with the Federal Maritime Commission evidence of financial responsibility to indemnify passengers for nonperformance of the transportation.
 
-    (b) __Satisfactory Evidence.—__ 
+    (b)  __Satisfactory Evidence__  __.—__ 
 
     To satisfy subsection (a), a person must file—
 
@@ -27,7 +27,7 @@
 
         (2) a copy of a bond or other security, in such form as the Commission by regulation may require.
 
-    (c) __Authorized Issuer of Bond.—__ 
+    (c)  __Authorized Issuer of Bond__  __.—__ 
 
     If a bond is filed, it must be issued by a bonding company authorized to do business in the United States.
 

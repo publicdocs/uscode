@@ -15,11 +15,11 @@
 
 ## § 12118. Owners engaged primarily in manufacturing or mineral industry
 
-    (a) __Definitions.—__ 
+    (a)  __Definitions__  __.—__ 
 
     In this section:
 
-        (1) __Bowaters corporation.—__ 
+        (1)  __Bowaters corporation__  __.—__ 
 
         The term “Bowaters corporation” means a corporation that has filed a certificate under oath with the Secretary, in the form and at the times prescribed by the Secretary, establishing that—
 
@@ -35,7 +35,7 @@
 
             (F) the corporation buys or produces in the United States at least 75 percent of the raw materials used or sold in its operations.
 
-        (2) __Parent.—__ 
+        (2)  __Parent__  __.—__ 
 
         The term “parent” means a corporation that has filed a certificate under oath with the Secretary, in the form and at the times prescribed by the Secretary, establishing that the corporation—
 
@@ -43,7 +43,7 @@
 
             (B) controls, directly or indirectly, at least 50 percent of the voting stock of a Bowaters corporation.
 
-        (3) __Subsidiary.—__ 
+        (3)  __Subsidiary__  __.—__ 
 
         The term “subsidiary” means a corporation that has filed a certificate under oath with the Secretary, in the form and at the times prescribed by the Secretary, establishing that the corporation—
 
@@ -51,11 +51,11 @@
 
             (B) has at least 50 percent of its voting stock controlled, directly or indirectly, by a Bowaters corporation or its parent.
 
-    (b) __Deemed Citizen.—__ 
+    (b)  __Deemed Citizen__  __.—__ 
 
     A Bowaters corporation is deemed to be a citizen of the United States for purposes of chapters 121, 551, and 561 and [section 80104 of this title][/us/usc/t46/s80104].
 
-    (c) __Issuance of Documentation.—__ 
+    (c)  __Issuance of Documentation__  __.—__ 
 
     A certificate of documentation and appropriate endorsement may be issued for a vessel that—
 
@@ -69,9 +69,9 @@
 
             (B) is not self-propelled.
 
-    (d) __Effects of Documentation.—__ 
+    (d)  __Effects of Documentation__  __.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         Subject to paragraph (2)—
 
@@ -79,7 +79,7 @@
 
             (B) the vessel and its owner and master are entitled to the same benefits and are subject to the same requirements and penalties as if the vessel were otherwise documented or exempt from documentation under this chapter.
 
-        (2) __Transportation of passengers or merchandise.—__ 
+        (2)  __Transportation of passengers or merchandise__  __.—__ 
 
         A vessel documented under this section may transport passengers or merchandise for hire in the coastwise trade only—
 
@@ -95,25 +95,25 @@
 
                 (iii) is not owned or controlled, directly or indirectly, by the corporation owning the vessel.
 
-    (e) __Validity of Corporate Certificate.—__ 
+    (e)  __Validity of Corporate Certificate__  __.—__ 
 
     A certificate filed by a corporation under this section remains valid only as long as the corporation continues to satisfy the conditions required of the corporation by this section. When a corporation no longer satisfies those conditions, the corporation loses its status under this section and immediately shall surrender to the Secretary any documents issued to it based on that status.
 
-    (f) __Penalties.—__ 
+    (f)  __Penalties__  __.—__ 
 
-        (1) __Falsifying material fact.—__ 
+        (1)  __Falsifying material fact__  __.—__ 
 
         If a corporation knowingly falsifies a material fact in a certificate filed under subsection (a), the vessel (or its value) documented or operated under this section shall be forfeited.
 
-        (2) __Transporting merchandise.—__ 
+        (2)  __Transporting merchandise__  __.—__ 
 
         If a vessel transports merchandise for hire in violation of this section, the merchandise shall be forfeited to the United States Government.
 
-        (3) __Transporting passengers.—__ 
+        (3)  __Transporting passengers__  __.—__ 
 
         If a vessel transports passengers for hire in violation of this section, the vessel is liable for a penalty of $200 for each passenger so transported.
 
-        (4) __Remission or mitigation.—__ 
+        (4)  __Remission or mitigation__  __.—__ 
 
         A penalty or forfeiture incurred under this subsection may be remitted or mitigated under [section 2107(b) of this title][/us/usc/t46/s2107/b].
 

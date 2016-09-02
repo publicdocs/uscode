@@ -15,15 +15,15 @@
 
 ## § 50110. Securing preference to vessels of the United States
 
-    (a) __Possibilities of Promoting Carriage.—__ 
+    (a)  __Possibilities of Promoting Carriage__  __.—__ 
 
     The Secretary of Transportation shall investigate, determine, and keep current records of the possibilities of promoting the carriage of United States foreign trade in vessels of the United States.
 
-    (b) __Inducements to Importers and Exporters.—__ 
+    (b)  __Inducements to Importers and Exporters__  __.—__ 
 
     The Secretary shall study and cooperate with vessel owners in devising means by which the importers and exporters of the United States can be induced to give preference to vessels of the United States.
 
-    (c) __Liaison With Agencies and Organizations.—__ 
+    (c)  __Liaison With Agencies and Organizations__  __.—__ 
 
     The Secretary shall establish and maintain liaison with such other agencies of the United States Government, and with such representative trade organizations throughout the United States, as may be concerned, directly or indirectly, with any movement of commodities in the waterborne export and import foreign commerce of the United States, for the purpose of securing preference to vessels of the United States in the shipment of those commodities.
 

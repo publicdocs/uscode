@@ -15,11 +15,11 @@
 
 ## § 12131. Command of documented vessels
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     Except as provided in subsection (b), a documented vessel may be placed under the command only of a citizen of the United States.
 
-    (b) __Exceptions.—__ 
+    (b)  __Exceptions__  __.—__ 
 
     Subsection (a) does not apply to—
 

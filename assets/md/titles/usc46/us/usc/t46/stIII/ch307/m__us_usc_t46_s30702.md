@@ -15,11 +15,11 @@
 
 ## § 30702. Application
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     Except as otherwise provided, this chapter applies to a carrier engaged in the carriage of goods to or from any port in the United States.
 
-    (b) __Live Animals.—__ 
+    (b)  __Live Animals__  __.—__ 
 
     Sections 30703 and 30704 of this title do not apply to the carriage of live animals.
 

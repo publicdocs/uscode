@@ -27,11 +27,11 @@
 
     (f) __Periods of Validity and Renewal of Merchant Mariners’ Documents.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         Except as provided in subsection (g), a merchant mariner’s document issued under this chapter is valid for a 5-year period and may be renewed for additional 5-year periods.
 
-        (2) __Advance renewals.—__ 
+        (2)  __Advance renewals__  __.—__ 
 
         A renewed merchant mariner’s document may be issued under this chapter up to 8 months in advance but is not effective until the date that the previously issued merchant mariner’s document expires or until the completion of any active suspension or revocation of that previously issued merchant mariner’s document, whichever is later.
 

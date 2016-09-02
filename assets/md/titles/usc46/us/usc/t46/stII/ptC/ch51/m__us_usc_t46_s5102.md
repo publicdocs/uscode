@@ -173,17 +173,17 @@
 
 [Pub. L. 107–295, title IV, § 436(b)][/us/pl/107/295/s436/b], (c), Nov. 25, 2002, [116 Stat. 2129][/us/stat/116/2129], provided that:
 
->     “(b) __Implementation.—__ 
+>     “(b)  __Implementation__  __.—__ 
 
 >     Except as provided in subsection (c), a fish tender vessel that before January 1, 2003, transported cargo (not including fishery related products) in the Aleutian trade is subject to chapter 51 of title 46, United States Code (as amended by subsection (a) of this section \[amending this section\]).
 
 >     “(c) __Exception.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Before December 31, 2006, the BOWFIN (United States official number 604231) is exempt from chapter 51 of title 46, United States Code (as amended by subsection (a) of this section) when engaged in the Aleutian trade, if the vessel does not undergo a major conversion.
 
->         “(2) __Ensuring safety.—__ 
+>         “(2)  __Ensuring safety__  __.—__ 
 
 >         Before the date referred to in paragraph (1), a Coast Guard official who has reason to believe that the vessel referred to in paragraph (1) operating under this subsection is in a condition or is operated in a manner that creates an immediate threat to life or the environment or is operated in a manner that is inconsistent with [section 3302 of title 46][/us/usc/t46/s3302], United States Code, may direct the master or individual in charge to take immediate and reasonable steps to safeguard life and the environment, including directing the vessel to a port or other refuge.”
 

@@ -15,11 +15,11 @@
 
 ## § 7508. Authority to extend the duration of medical certificates
 
-    (a) __Granting of Extensions.—__ 
+    (a)  __Granting of Extensions__  __.—__ 
 
     Notwithstanding any other provision of law, the Secretary may extend for not more than one year a medical certificate issued to an individual holding a license, merchant mariner’s document, or certificate of registry issued under chapter 71 or 73 if the Secretary determines that the extension is required to enable the Coast Guard to eliminate a backlog in processing applications for medical certificates or is in response to a national emergency or natural disaster.
 
-    (b) __Manner of Extension.—__ 
+    (b)  __Manner of Extension__  __.—__ 
 
     An extension under this section may be granted to individual seamen or a specifically identified group of seamen.
 

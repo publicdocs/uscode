@@ -33,7 +33,7 @@
 
     (e) This section applies to a foreign vessel when in waters of the United States. An owner, charterer, managing operator, agent, or master of a foreign vessel violating this section is liable to the Government for the same penalty as an owner, charterer, managing operator, agent, or master of a vessel of the United States for the same violation.
 
-    (f) __Deposits in Seaman Account.—__ 
+    (f)  __Deposits in Seaman Account__  __.—__ 
 
     By written request signed by the seaman, a seaman employed on a passenger vessel capable of carrying more than 500 passengers may authorize the master, owner, or operator of the vessel, or the employer of the seaman, to make deposits of wages of the seaman into a checking, savings, investment, or retirement account, or other account to secure a payroll or debit card for the seaman if—
 

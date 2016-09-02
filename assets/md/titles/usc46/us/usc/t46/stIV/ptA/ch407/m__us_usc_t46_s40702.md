@@ -15,11 +15,11 @@
 
 ## § 40702. Rate standards
 
-    (a) __Definition.—__ 
+    (a)  __Definition__  __.—__ 
 
     In this section, the term “constructive costs” means the costs of another carrier, other than a controlled carrier, operating similar vessels and equipment in the same or a similar trade.
 
-    (b) __Standards.—__ 
+    (b)  __Standards__  __.—__ 
 
     In determining whether a rate, charge, classification, rule, or regulation of a controlled carrier is just and reasonable, the Federal Maritime Commission—
 

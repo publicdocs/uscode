@@ -91,11 +91,11 @@
 
 [Pub. L. 104–324, title VI, § 602(c)][/us/pl/104/324/s602/c], Oct. 19, 1996, [110 Stat. 3930][/us/stat/110/3930], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The Secretary of the department in which the Coast Guard is operating shall conduct, in cooperation with the owners, charterers, and managing operators of vessels documented under chapter 121 of title 46, United States Code, and other interested persons, a study of the methods that may be used to implement and enforce the International Management Code for the Safe Operation of Ships and for Pollution Prevention under chapter IX of the Annex to the International Convention for the Safety of Life at Sea, 1974.
 
->     “(2) __Report.—__ 
+>     “(2)  __Report__  __.—__ 
 
 >     The Secretary shall submit to the Congress a report of the results of the study required under paragraph (1) before the earlier of—
 

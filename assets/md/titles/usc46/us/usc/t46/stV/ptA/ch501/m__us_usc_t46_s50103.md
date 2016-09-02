@@ -15,9 +15,9 @@
 
 ## § 50103. Determinations of essential services
 
-    (a) __Essential Services, Routes, and Lines.—__ 
+    (a)  __Essential Services, Routes, and Lines__  __.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         The Secretary of Transportation shall investigate, determine, and keep current records of the ocean services, routes, and lines from ports in the United States, or in the territories and possessions of the United States, to foreign markets, which the Secretary determines to be essential for the promotion, development, expansion, and maintenance of the foreign commerce of the United States. In making such a determination, the Secretary shall consider and give due weight to—
 
@@ -31,15 +31,15 @@
 
             (E) any other facts and conditions a prudent business person would consider when dealing with the person’s own business.
 
-        (2) __Saint lawrence seaway.—__ 
+        (2)  __Saint lawrence seaway__  __.—__ 
 
         For purposes of paragraph (1), the Secretary shall establish services, routes, and lines that reflect the seasonal closing of the Saint Lawrence Seaway and provide for alternate routing of vessels through a different range of ports during that closing to maintain continuity of service on a year-round basis.
 
-    (b) __Bulk Cargo Carrying Services.—__ 
+    (b)  __Bulk Cargo Carrying Services__  __.—__ 
 
     The Secretary shall investigate, determine, and keep current records of the bulk cargo carrying services that should be provided by vessels of the United States (whether or not operating on particular services, routes, or lines) for the promotion, development, expansion, and maintenance of the foreign commerce of the United States and the national defense or other national requirements.
 
-    (c) __Types of Vessels.—__ 
+    (c)  __Types of Vessels__  __.—__ 
 
     The Secretary shall investigate, determine, and keep current records of the type, size, speed, method of propulsion, and other requirements of the vessels, including express-liner or super-liner vessels, that should be employed in—
 

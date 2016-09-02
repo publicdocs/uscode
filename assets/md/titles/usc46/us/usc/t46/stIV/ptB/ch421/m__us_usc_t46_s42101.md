@@ -15,11 +15,11 @@
 
 ## § 42101. Regulations of the Commission
 
-    (a) __Unfavorable Conditions.—__ 
+    (a)  __Unfavorable Conditions__  __.—__ 
 
     To further the objectives and policy set forth in [section 50101 of this title][/us/usc/t46/s50101], the Federal Maritime Commission shall prescribe regulations affecting shipping in foreign trade, not in conflict with law, to adjust or meet general or special conditions unfavorable to shipping in foreign trade, whether in a particular trade or on a particular route or in commerce generally, including intermodal movements, terminal operations, cargo solicitation, agency services, ocean transportation intermediary services and operations, and other activities and services integral to transportation systems, and which arise out of or result from laws or regulations of a foreign country or competitive methods, pricing practices, or other practices employed by owners, operators, agents, or masters of vessels of a foreign country.
 
-    (b) __Initiation of Regulation.—__ 
+    (b)  __Initiation of Regulation__  __.—__ 
 
     A regulation under subsection (a) may be initiated by the Commission on its own motion or on the petition of any person, including another component of the United States Government.
 

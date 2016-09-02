@@ -15,11 +15,11 @@
 
 ## § 41102. General prohibitions
 
-    (a) __Obtaining Transportation at Less Than Applicable Rates.—__ 
+    (a)  __Obtaining Transportation at Less Than Applicable Rates__  __.—__ 
 
     A person may not knowingly and willfully, directly or indirectly, by means of false billing, false classification, false weighing, false report of weight, false measurement, or any other unjust or unfair device or means, obtain or attempt to obtain ocean transportation for property at less than the rates or charges that would otherwise apply.
 
-    (b) __Operating Contrary to Agreement.—__ 
+    (b)  __Operating Contrary to Agreement__  __.—__ 
 
     A person may not operate under an agreement required to be filed under section 40302 or 40305 of this title if—
 
@@ -27,7 +27,7 @@
 
         (2) the operation is not in accordance with the terms of the agreement or any modifications to the agreement made by the Federal Maritime Commission.
 
-    (c) __Practices in Handling Property.—__ 
+    (c)  __Practices in Handling Property__  __.—__ 
 
     A common carrier, marine terminal operator, or ocean transportation intermediary may not fail to establish, observe, and enforce just and reasonable regulations and practices relating to or connected with receiving, handling, storing, or delivering property.
 

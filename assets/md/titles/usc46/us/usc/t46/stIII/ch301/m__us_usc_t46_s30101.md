@@ -15,21 +15,21 @@
 
 ## § 30101. Extension of jurisdiction to cases of damage or injury on land
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     The admiralty and maritime jurisdiction of the United States extends to and includes cases of injury or damage, to person or property, caused by a vessel on navigable waters, even though the injury or damage is done or consummated on land.
 
-    (b) __Procedure.—__ 
+    (b)  __Procedure__  __.—__ 
 
     A civil action in a case under subsection (a) may be brought in rem or in personam according to the principles of law and the rules of practice applicable in cases where the injury or damage has been done and consummated on navigable waters.
 
-    (c) __Actions Against United States.—__ 
+    (c)  __Actions Against United States__  __.—__ 
 
-        (1) __Exclusive remedy.—__ 
+        (1)  __Exclusive remedy__  __.—__ 
 
         In a civil action against the United States for injury or damage done or consummated on land by a vessel on navigable waters, chapter 309 or 311 of this title, as appropriate, provides the exclusive remedy.
 
-        (2) __Administrative claim.—__ 
+        (2)  __Administrative claim__  __.—__ 
 
         A civil action described in paragraph (1) may not be brought until the expiration of the 6-month period after the claim has been presented in writing to the agency owning or operating the vessel causing the injury or damage.
 

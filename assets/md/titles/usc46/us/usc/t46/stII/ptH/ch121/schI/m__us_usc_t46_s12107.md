@@ -15,7 +15,7 @@
 
 ## § 12107. Wrecked vessels
 
-    (a) __Requirements.—__ 
+    (a)  __Requirements__  __.—__ 
 
     A vessel is a wrecked vessel under this chapter if it—
 
@@ -23,7 +23,7 @@
 
         (2) has undergone repairs in a shipyard in the United States equal to at least 3 times the appraised salvage value of the vessel.
 
-    (b) __Appraisals.—__ 
+    (b)  __Appraisals__  __.—__ 
 
     The Secretary may appoint a board of three appraisers to determine whether a vessel satisfies subsection (a)(2). The costs of the appraisal shall be paid by the owner of the vessel.
 

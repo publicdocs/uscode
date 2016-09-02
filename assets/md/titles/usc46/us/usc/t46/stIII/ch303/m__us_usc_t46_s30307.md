@@ -15,15 +15,15 @@
 
 ## § 30307. Commercial aviation accidents
 
-    (a) __Definition.—__ 
+    (a)  __Definition__  __.—__ 
 
     In this section, the term “nonpecuniary damages” means damages for loss of care, comfort, and companionship.
 
-    (b) __Beyond 12 Nautical Miles.—__ 
+    (b)  __Beyond__  __12__  __Nautical Miles__  __.—__ 
 
     In an action under this chapter, if the death resulted from a commercial aviation accident occurring on the high seas beyond 12 nautical miles from the shore of the United States, additional compensation is recoverable for nonpecuniary damages, but punitive damages are not recoverable.
 
-    (c) __Within 12 Nautical Miles.—__ 
+    (c)  __Within__  __12__  __Nautical Miles__  __.—__ 
 
     This chapter does not apply if the death resulted from a commercial aviation accident occurring on the high seas 12 nautical miles or less from the shore of the United States.
 

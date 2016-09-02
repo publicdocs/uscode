@@ -15,15 +15,15 @@
 
 ## § 30707. Criminal penalty
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     A carrier that violates this chapter shall be fined under title 18.
 
-    (b) __Lien.—__ 
+    (b)  __Lien__  __.—__ 
 
     The amount of the fine and costs for the violation constitute a lien on the vessel engaged in the carriage. A civil action in rem to enforce the lien may be brought in the district court of the United States for any district in which the vessel is found.
 
-    (c) __Disposition of Fine.—__ 
+    (c)  __Disposition of Fine__  __.—__ 
 
     Half of the fine shall go to the person injured by the violation and half to the United States Government.
 

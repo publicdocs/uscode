@@ -15,11 +15,11 @@
 
 ## § 42104. Information, witnesses, and evidence
 
-    (a) __Order To Supply Information.—__ 
+    (a)  __Order To Supply Information__  __.—__ 
 
     In carrying out [section 42101 of this title][/us/usc/t46/s42101], the Federal Maritime Commission may order any person (including a common carrier, tramp operator, bulk operator, shipper, shippers’ association, ocean transportation intermediary, or marine terminal operator, or an officer, receiver, trustee, lessee, agent, or employee thereof) to file with the Commission a report, answers to questions, documentary material, or other information the Commission considers necessary or appropriate. The Commission may require the response to any such order to be made under oath. The response shall be provided in the form and within the time specified by the Commission.
 
-    (b) __Subpoenas and Discovery.—__ 
+    (b)  __Subpoenas and Discovery__  __.—__ 
 
     In carrying out [section 42101 of this title][/us/usc/t46/s42101], the Commission may—
 
@@ -27,11 +27,11 @@
 
         (2) authorize a party to use depositions, written interrogatories, and discovery procedures that, to the extent practicable, conform to the Federal Rules of Civil Procedure (28 App. U.S.C.).
 
-    (c) __Witness Fees.—__ 
+    (c)  __Witness Fees__  __.—__ 
 
     Unless otherwise prohibited by law, and subject to funds being appropriated, a witness in a proceeding under [section 42101 of this title][/us/usc/t46/s42101] is entitled to the same fees and mileage as in the courts of the United States.
 
-    (d) __Penalties.—__ 
+    (d)  __Penalties__  __.—__ 
 
     For failure to supply information ordered to be produced or compelled by subpoena under this section, the Commission may—
 
@@ -39,7 +39,7 @@
 
         (2) assess a civil penalty of not more than $5,000 for each day that the information is not provided.
 
-    (e) __Enforcement.—__ 
+    (e)  __Enforcement__  __.—__ 
 
     If a person does not comply with an order or subpoena of the Commission under this section, the Commission may seek enforcement in a district court of the United States having jurisdiction over the parties. If, after hearing, the court determines that the order or subpoena was regularly made and duly issued, the court shall enforce the order or subpoena.
 

@@ -15,7 +15,7 @@
 
 ## § 41303. Discovery and subpoenas
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     In an investigation or adjudicatory proceeding under this part—
 
@@ -23,7 +23,7 @@
 
         (2) a party may use depositions, written interrogatories, and discovery procedures under regulations prescribed by the Commission that, to the extent practicable, shall conform to the Federal Rules of Civil Procedure (28 App. U.S.C.).
 
-    (b) __Witness Fees.—__ 
+    (b)  __Witness Fees__  __.—__ 
 
     Unless otherwise prohibited by law, a witness is entitled to the same fees and mileage as in the courts of the United States.
 

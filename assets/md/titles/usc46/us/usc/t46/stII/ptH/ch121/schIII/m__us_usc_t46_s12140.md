@@ -15,13 +15,13 @@
 
 ## § 12140. Investigations by Secretary
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     The Secretary may conduct investigations and inspections regarding compliance with this chapter and regulations prescribed under this chapter.
 
     (b) __Authority To Obtain Evidence.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         For the purposes of any investigation conducted under this section, the Secretary may issue a subpoena to require the attendance of a witness or the production of documents or other evidence relevant to the matter under investigation if—
 
@@ -41,7 +41,7 @@
 
                 (ii) fails to make a determination with respect to the subpoena before the date that is 30 days after the date on which the Secretary makes a request under subparagraph (A) with respect to the subpoena.
 
-        (2) __Enforcement.—__ 
+        (2)  __Enforcement__  __.—__ 
 
         In the case of a refusal to obey a subpoena issued to any person under this section, the Secretary may invoke the aid of the appropriate district court of the United States to compel compliance.
 

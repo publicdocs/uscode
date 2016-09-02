@@ -17,7 +17,7 @@
 
 This title was enacted by [Pub. L. 98–89, § 1][/us/pl/98/89/s1], Aug. 26, 1983, [97 Stat. 500][/us/stat/97/500]; [Pub. L. 99–509, title V][/us/pl/99/509], subtitle B, § 5101, Oct. 21, 1986, [100 Stat. 1913][/us/stat/100/1913]; [Pub. L. 100–424, § 6][/us/pl/100/424/s6], Sept. 9, 1988, [102 Stat. 1591][/us/stat/102/1591]; [Pub. L. 100–710, title I, § 102][/us/pl/100/710/s102], Nov. 23, 1988, [102 Stat. 4738][/us/stat/102/4738]; [Pub. L. 109–304][/us/pl/109/304], Oct. 6, 2006, [120 Stat. 1485][/us/stat/120/1485]
 
-Current through 113–45
+Current through 113-46
 
 <table>
 
@@ -16303,37 +16303,37 @@ Rep.  </td>
 
 [Pub. L. 109–304, § 2][/us/pl/109/304/s2], Oct. 6, 2006, [120 Stat. 1485][/us/stat/120/1485], provided that:
 
->     “(a) __Purpose.—__ 
+>     “(a)  __Purpose__  __.—__ 
 
 >     The purpose of this Act \[see Tables for classification\] is to complete the codification of title 46, United States Code, “Shipping”, as positive law, by reorganizing and restating the laws currently in the appendix to title 46.
 
->     “(b) __Conformity With Original Intent.—__ 
+>     “(b)  __Conformity With Original Intent__  __.—__ 
 
 >     In the codification of laws by this Act, the intent is to conform to the understood policy, intent, and purpose of the Congress in the original enactments, with such amendments and corrections as will remove ambiguities, contradictions, and other imperfections, in accordance with section 205(c)(1) of House Resolution No. 988, 93d Congress, as enacted into law by [Public Law 93–554][/us/pl/93/554] ([2 U.S.C. 285b(1)][/us/usc/t2/s285b/1]).”
 
 [Pub. L. 109–304, § 18][/us/pl/109/304/s18], Oct. 6, 2006, [120 Stat. 1709][/us/stat/120/1709], provided that:
 
->     “(a) __Cutoff Date.—__ 
+>     “(a)  __Cutoff Date__  __.—__ 
 
 >     This Act \[see Tables for classification\] replaces certain provisions enacted on or before April 30, 2005. If a law enacted after that date amends or repeals a provision replaced by this Act, that law is deemed to amend or repeal, as the case may be, the corresponding provision enacted by this Act. If a law enacted after that date is otherwise inconsistent with this Act, it supersedes this Act to the extent of the inconsistency.
 
->     “(b) __Original Date of Enactment Unchanged.—__ 
+>     “(b)  __Original Date of Enactment Unchanged__  __.—__ 
 
 >     For purposes of determining whether one provision supersedes another based on enactment later in time, the date of enactment of a provision enacted by this Act is deemed to be the date of enactment of the provision it replaced.
 
->     “(c) __References to Provisions Replaced.—__ 
+>     “(c)  __References to Provisions Replaced__  __.—__ 
 
 >     A reference to a provision replaced by this Act is deemed to refer to the corresponding provision enacted by this Act.
 
->     “(d) __Laws Governing Applicability of Prior Amendments.—__ 
+>     “(d)  __Laws Governing Applicability of Prior Amendments__  __.—__ 
 
 >     This Act does not affect any law governing the applicability of an amendment to a provision replaced by this Act, notwithstanding the repeal by this Act of the provision that was amended. To the extent that any such law governed the applicability of a provision replaced by this Act, that law governs the applicability of the corresponding provision enacted by this Act.
 
->     “(e) __Regulations, Orders, and Other Administrative Actions.—__ 
+>     “(e)  __Regulations, Orders, and Other Administrative Actions__  __.—__ 
 
 >     A regulation, order, or other administrative action in effect under a provision replaced by this Act continues in effect under the corresponding provision enacted by this Act.
 
->     “(f) __Actions Taken and Offenses Committed.—__ 
+>     “(f)  __Actions Taken and Offenses Committed__  __.—__ 
 
 >     An action taken or an offense committed under a provision replaced by this Act is deemed to have been taken or committed under the corresponding provision enacted by this Act.”
 

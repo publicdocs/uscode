@@ -15,11 +15,11 @@
 
 ## § 30916. Recovery by the United States for salvage services
 
-    (a) __Civil Action.—__ 
+    (a)  __Civil Action__  __.—__ 
 
     The United States, and the crew of a merchant vessel owned or operated by the United States, or a federally-owned corporation, may bring a civil action to recover for salvage services provided by the vessel and crew.
 
-    (b) __Deposit of Amounts Recovered.—__ 
+    (b)  __Deposit of Amounts Recovered__  __.—__ 
 
     Any amount recovered under this section by the United States for its own benefit, and not for the benefit of the crew, shall be deposited in the Treasury to the credit of the department of the United States Government, or the corporation, having control of the possession or operation of the vessel.
 

@@ -15,7 +15,7 @@
 
 ## § 41103. Disclosure of information
 
-    (a) __Prohibition.—__ 
+    (a)  __Prohibition__  __.—__ 
 
     A common carrier, marine terminal operator, or ocean freight forwarder, either alone or in conjunction with any other person, directly or indirectly, may not knowingly disclose, offer, solicit, or receive any information concerning the nature, kind, quantity, destination, consignee, or routing of any property tendered or delivered to a common carrier, without the consent of the shipper or consignee, if the information—
 
@@ -23,7 +23,7 @@
 
         (2) may improperly disclose its business transaction to a competitor.
 
-    (b) __Exceptions.—__ 
+    (b)  __Exceptions__  __.—__ 
 
     Subsection (a) does not prevent providing the information—
 
@@ -33,7 +33,7 @@
 
         (3) to an independent neutral body operating within the scope of its authority to fulfill the policing obligations of the parties to an agreement effective under this part.
 
-    (c) __Disclosure for Determining Breach or Compiling Statistics.—__ 
+    (c)  __Disclosure for Determining Breach or Compiling Statistics__  __.—__ 
 
     An ocean common carrier that is a party to a conference agreement approved under this part, a receiver, trustee, lessee, agent, or employee of the carrier, or any other person authorized by the carrier to receive information—
 

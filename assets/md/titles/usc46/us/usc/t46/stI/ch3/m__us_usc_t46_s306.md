@@ -15,11 +15,11 @@
 
 ## § 306. Annual report
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     Not later than April 1 of each year, the Federal Maritime Commission shall submit a report to Congress. The report shall include the results of its investigations, a summary of its transactions, the purposes for which all of its expenditures were made, and any recommendations for legislation.
 
-    (b) __Report on Foreign Laws and Practices.—__ 
+    (b)  __Report on Foreign Laws and Practices__  __.—__ 
 
     The Commission shall include in its annual report to Congress—
 

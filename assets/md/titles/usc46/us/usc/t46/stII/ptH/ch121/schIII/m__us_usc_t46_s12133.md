@@ -15,15 +15,15 @@
 
 ## § 12133. Duty to carry certificate on vessel and allow examination
 
-    (a) __Duty To Carry.—__ 
+    (a)  __Duty To Carry__  __.—__ 
 
     The certificate of documentation of a vessel shall be carried on the vessel unless the vessel is exempt by regulation from carrying the certificate.
 
-    (b) __Availability.—__ 
+    (b)  __Availability__  __.—__ 
 
     The owner or individual in charge of a vessel required to carry its certificate of documentation shall make the certificate available for examination at the request of an officer enforcing the revenue laws or as otherwise required by law or regulation.
 
-    (c) __Criminal Penalty.—__ 
+    (c)  __Criminal Penalty__  __.—__ 
 
     A person willfully violating subsection (b) shall be fined under title 18, imprisoned for not more than one year, or both.
 

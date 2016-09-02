@@ -15,11 +15,11 @@
 
 ## § 2307. Limitation of liability for Coast Guard Vessel Traffic Service pilots and non-Federal vessel traffic service operators
 
-    (a) __Coast Guard Vessel Traffic Service Pilots.—__ 
+    (a)  __Coast Guard Vessel Traffic Service Pilots__  __.—__ 
 
     Any pilot, acting in the course and scope of his or her duties while at a United States Coast Guard Vessel Traffic Service, who provides information, advice, or communication assistance while under the supervision of a Coast Guard officer, member, or employee shall not be liable for damages caused by or related to such assistance unless the acts or omissions of such pilot constitute gross negligence or willful misconduct.
 
-    (b) __Non-Federal Vessel Traffic Service Operators.—__ 
+    (b)  __Non-Federal Vessel Traffic Service Operators__  __.—__ 
 
     An entity operating a non-Federal vessel traffic information service or advisory service pursuant to a duly executed written agreement with the Coast Guard, and any pilot acting on behalf of such entity, is not liable for damages caused by or related to information, advice, or communication assistance provided by such entity or pilot while so operating or acting unless the acts or omissions of such entity or pilot constitute gross negligence or willful misconduct.
 

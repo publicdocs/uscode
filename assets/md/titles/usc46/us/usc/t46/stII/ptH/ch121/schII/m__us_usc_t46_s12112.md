@@ -15,7 +15,7 @@
 
 ## § 12112. Coastwise endorsement
 
-    (a) __Requirements.—__ 
+    (a)  __Requirements__  __.—__ 
 
     A coastwise endorsement may be issued for a vessel that—
 
@@ -37,7 +37,7 @@
 
         (3) otherwise qualifies under the laws of the United States to engage in the coastwise trade.
 
-    (b) __Authorized Activity.—__ 
+    (b)  __Authorized Activity__  __.—__ 
 
     Subject to the laws of the United States regulating the coastwise trade, a vessel for which a coastwise endorsement is issued may engage in the coastwise trade.
 
@@ -111,7 +111,7 @@ Source (Statutes at Large)  </td>
 
 [Pub. L. 108–293, title VI, § 608(b)][/us/pl/108/293/s608/b], Aug. 9, 2004, [118 Stat. 1056][/us/stat/118/1056], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Notwithstanding any other provision of law, a person shall be treated as a citizen of the United States under section 12102(a) \[now section 12103(a), (b)\] of title 46, United States Code, section 2 of the Shipping Act, 1916 (\[former\] 46 U.S.C. App. 802) \[see [46 U.S.C. 50501][/us/usc/t46/s50501]\], and section 27 of the Merchant Marine Act, 1920 (\[former\] 46 U.S.C. App. 883) \[see Disposition Table preceding [section 101 of this title][/us/usc/t46/s101]\], for purposes of issuance of a coastwise endorsement under [section 12106(e) of title 46][/us/usc/t46/s12106/e], United States Code (as that section was in effect on the day before the date of enactment of this Act \[Aug. 9, 2004\]), for a vessel owned by the person on the date of enactment of this Act, or any replacement vessel of a similar size and function, if the person—
 
@@ -119,11 +119,11 @@ Source (Statutes at Large)  </td>
 
 >         “(B) as of the date of the enactment of this Act \[Aug. 9, 2004\], derives substantially all of its revenue from leasing vessels engaged in the transportation or distribution of petroleum products and other cargo in Alaska.
 
->     “(2) __Limitation on coastwise trade.—__ 
+>     “(2)  __Limitation on coastwise trade__  __.—__ 
 
 >     A vessel owned by a person described in paragraph (1) for which a coastwise endorsement is issued under \[former\] [section 12106(e) of title 46][/us/usc/t46/s12106/e], United States Code, may be employed in the coastwise trade only within Alaska and in the coastwise trade to and from Alaska.
 
->     “(3) __Termination.—__ 
+>     “(3)  __Termination__  __.—__ 
 
 >     The application of this subsection to a person described in paragraph (1) shall terminate if all of that person’s vessels described in paragraph (1) are sold to a person eligible to document vessels under section 12106(a) \[now section 12112(a)\] of title 46, United States Code.”
 

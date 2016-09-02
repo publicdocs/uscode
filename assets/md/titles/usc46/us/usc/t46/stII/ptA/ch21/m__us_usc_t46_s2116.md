@@ -15,7 +15,7 @@
 
 ## § 2116. Marine safety strategy, goals, and performance assessments
 
-    (a) __Long-Term Strategy and Goals.—__ 
+    (a)  __Long-Term Strategy and Goals__  __.—__ 
 
     In conjunction with existing federally required strategic planning efforts, the Secretary shall develop a long-term strategy for improving vessel safety and the safety of individuals on vessels. The strategy shall include the issuance each year of an annual plan and schedule for achieving the following goals:
 
@@ -29,7 +29,7 @@
 
     (b) __Contents of Strategy and Annual Plans.—__ 
 
-        (1) __Measurable goals.—__ 
+        (1)  __Measurable goals__  __.—__ 
 
         The strategy and annual plans shall include specific numeric or measurable goals designed to achieve the goals set forth in subsection (a). The purposes of the numeric or measurable goals are the following:
 
@@ -41,7 +41,7 @@
 
             (D) To provide for a sufficient number of Coast Guard marine safety personnel, and provide adequate facilities and equipment to carry out the functions referred to in section 93(c). <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup> 
 
-        (2) __Resource needs.—__ 
+        (2)  __Resource needs__  __.—__ 
 
         The strategy and annual plans shall include estimates of—
 
@@ -49,17 +49,17 @@
 
             (B) the staff skills and training needed for timely and effective accomplishment of each goal.
 
-    (c) __Submission With the President’s Budget.—__ 
+    (c)  __Submission With the President’s Budget__  __.—__ 
 
     Beginning with fiscal year 2011 and each fiscal year thereafter, the Secretary shall submit to Congress the strategy and annual plan not later than 60 days following the transmission of the President’s budget submission under [section 1105 of title 31][/us/usc/t31/s1105].
 
     (d) __Achievement of Goals.—__ 
 
-        (1) __Progress assessment.—__ 
+        (1)  __Progress assessment__  __.—__ 
 
         No less frequently than semiannually, the Coast Guard Commandant shall assess the progress of the Coast Guard toward achieving the goals set forth in subsection (b). The Commandant shall convey the Commandant’s assessment to the employees of the marine safety workforce and shall identify any deficiencies that should be remedied before the next progress assessment.
 
-        (2) __Report to congress.—__ 
+        (2)  __Report to congress__  __.—__ 
 
         The Secretary shall report annually to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate—
 

@@ -15,11 +15,11 @@
 
 ## § 30911. Costs and interest
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     A judgment against the United States or a federally-owned corporation under this chapter may include costs and interest at the rate of 4 percent per year until satisfied. Interest shall run as ordered by the court, except that interest is not allowable for the period before the action is filed.
 
-    (b) __Contract Providing for Interest.—__ 
+    (b)  __Contract Providing for Interest__  __.—__ 
 
     Notwithstanding subsection (a), if the claim is based on a contract providing for interest, interest may be awarded at the rate and for the period provided in the contract.
 

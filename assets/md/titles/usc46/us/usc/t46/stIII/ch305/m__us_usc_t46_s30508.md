@@ -15,11 +15,11 @@
 
 ## § 30508. Provisions requiring notice of claim or limiting time for bringing action
 
-    (a) __Application.—__ 
+    (a)  __Application__  __.—__ 
 
     This section applies only to seagoing vessels, but does not apply to pleasure yachts, tugs, towboats, towing vessels, tank vessels, fishing vessels, fish tender vessels, canal boats, scows, car floats, barges, lighters, or nondescript vessels.
 
-    (b) __Minimum Time Limits.—__ 
+    (b)  __Minimum Time Limits__  __.—__ 
 
     The owner, master, manager, or agent of a vessel transporting passengers or property between ports in the United States, or between a port in the United States and a port in a foreign country, may not limit by regulation, contract, or otherwise the period for—
 
@@ -27,7 +27,7 @@
 
         (2) bringing a civil action for personal injury or death to less than one year after the date of the injury or death.
 
-    (c) __Effect of Failure To Give Notice.—__ 
+    (c)  __Effect of Failure To Give Notice__  __.—__ 
 
     When notice of a claim for personal injury or death is required by a contract, the failure to give the notice is not a bar to recovery if—
 
@@ -37,7 +37,7 @@
 
         (3) the owner of the vessel fails to object to the failure to give the notice.
 
-    (d) __Tolling of Period To Give Notice.—__ 
+    (d)  __Tolling of Period To Give Notice__  __.—__ 
 
     If a claimant is a minor or mental incompetent, or if a claim is for wrongful death, any period provided by a contract for giving notice of the claim is tolled until the earlier of—
 

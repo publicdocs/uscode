@@ -15,11 +15,11 @@
 
 ## § 12121. Small passenger vessels and uninspected passenger vessels
 
-    (a) __Definitions.—__ 
+    (a)  __Definitions__  __.—__ 
 
     In this section:
 
-        (1) __Eligible vessel.—__ 
+        (1)  __Eligible vessel__  __.—__ 
 
         The term “eligible vessel” means a vessel that—
 
@@ -27,11 +27,11 @@
 
             (B) if rebuilt, was rebuilt outside the United States at least 3 years before the certificate requested under subsection (b) would take effect.
 
-        (2) __Small passenger vessel; uninspected passenger vessel; passenger for hire.—__ 
+        (2)  __Small passenger vessel; uninspected passenger vessel; passenger for hire__  __.—__ 
 
         The terms “small passenger vessel”, “uninspected passenger vessel”, and “passenger for hire” have the meaning given those terms in [section 2101 of this title][/us/usc/t46/s2101].
 
-    (b) __Issuance of Certificate and Endorsement.—__ 
+    (b)  __Issuance of Certificate and Endorsement__  __.—__ 
 
     Notwithstanding sections 12112, 12113, 55102, and 55103 of this title, the Secretary may issue a certificate of documentation with an appropriate endorsement for employment in the coastwise trade as a small passenger vessel or an uninspected passenger vessel in the case of an eligible vessel authorized to carry no more than 12 passengers for hire if the Secretary of Transportation, after notice and an opportunity for public comment, determines that the employment of the vessel in the coastwise trade will not adversely affect—
 
@@ -39,13 +39,13 @@
 
         (2) the coastwise trade business of any person that employs vessels built in the United States in that business.
 
-    (c) __Revocation.—__ 
+    (c)  __Revocation__  __.—__ 
 
-        (1) __For fraud.—__ 
+        (1)  __For fraud__  __.—__ 
 
         The Secretary shall revoke a certificate or endorsement issued under subsection (b) if the Secretary of Transportation, after notice and an opportunity for a hearing, determines that the certificate or endorsement was obtained by fraud.
 
-        (2) __Other provisions not affected.—__ 
+        (2)  __Other provisions not affected__  __.—__ 
 
         Paragraph (1) does not affect—
 
