@@ -25,7 +25,7 @@
 
     The Defense Housing and Community Facilities and Services Act, as amended, referred to in cls. (1) and (6), is [act Sept. 1, 1951, ch. 378][/us/act/1951-09-01/ch378], [65 Stat. 293][/us/stat/65/293], as amended. Title III of the Act is classified generally to subchapter IX (§ 1592 et seq.) of chapter 9 of Title 42. For complete classification of this Act to the Code, see Short Title of 1951 Amendment note set out under [section 1501 of Title 42][/us/usc/t42/s1501] and Tables.
 
-    The War Mobilization and Reconversion Act of 1944, referred to in cl. (2), is [act Oct. 3, 1944, ch. 480][/us/act/1944-10-03/ch480], [58 Stat. 785][/us/stat/58/785], as amended, which was classified to section 1651 et seq. of Title 50, Appendix, War and National Defense, and which has been omitted from the Code. Title V of the War Mobilization and Reconversion Act of 1944 was classified to [section 1671 of Title 50][/us/usc/t50/s1671], Appendix. For complete classification of this Act to the Code, see Tables.
+    The War Mobilization and Reconversion Act of 1944, referred to in cl. (2), is [act Oct. 3, 1944, ch. 480][/us/act/1944-10-03/ch480], [58 Stat. 785][/us/stat/58/785], which was classified to section 1651 et seq. of the former Appendix to Title 50, War and National Defense, and which has been omitted from the Code. Title V of the War Mobilization and Reconversion Act of 1944 was classified to section 1671 of the former Appendix to Title 50. For complete classification of this Act to the Code, see Tables.
 
     Act of October 13, 1949, referred to in cl. (2), is [act Oct. 13, 1949, ch. 685][/us/act/1949-10-13/ch685], [63 Stat. 841][/us/stat/63/841], as amended, which was classified generally to subchapter I (§ 451 et seq.) of chapter 9 of former Title 40, Public Buildings, Property, and Works. Sections 1–5, 7, and 8 of the Act were repealed by [Pub. L. 107–217, § 6(b)][/us/pl/107/217/s6/b], Aug. 21, 2002, [116 Stat. 1304][/us/stat/116/1304]. Section 6 of the Act was repealed by [act Aug. 2, 1954, ch. 649][/us/act/1954-08-02/ch649], title VIII, § 802(b), [68 Stat. 642][/us/stat/68/642]. See section 1701o of this title.
 
@@ -120,7 +120,6 @@ The third and last provisos contained in the original have been omitted from thi
 [/us/usc/t42/s1501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1501
 [/us/act/1944-10-03/ch480]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-10-03%2Fch480
 [/us/stat/58/785]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F58%2F785
-[/us/usc/t50/s1671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1671
 [/us/act/1949-10-13/ch685]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-13%2Fch685
 [/us/stat/63/841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F841
 [/us/pl/107/217/s6/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs6%2Fb

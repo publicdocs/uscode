@@ -41,7 +41,7 @@
 
     (g) __Disclosure pursuant to legitimate law enforcement inquiry respecting name, address, account number, and type of account of particular customers__ 
 
-        The notice requirements of this chapter and sections 3410 and 3412 of this title shall not apply when a Government authority by a means described in [section 3402 of this title][/us/usc/t12/s3402] and for a legitimate law enforcement inquiry is seeking only the name, address, account number, and type of account of any customer or ascertainable group of customers associated (1) with a financial transaction or class of financial transactions, or (2) with a foreign country or subdivision thereof in the case of a Government authority exercising financial controls over foreign accounts in the United States under section 5(b) of the Trading with the Enemy Act \[[12 U.S.C. 95a][/us/usc/t12/s95a], 50 U.S.C. App. 5(b)\]; the International Emergency Economic Powers Act (title II, [Public Law 95–223][/us/pl/95/223]) \[[50 U.S.C. 1701][/us/usc/t50/s1701] et seq.\]; or [section 287c of title 22][/us/usc/t22/s287c].
+        The notice requirements of this chapter and sections 3410 and 3412 of this title shall not apply when a Government authority by a means described in [section 3402 of this title][/us/usc/t12/s3402] and for a legitimate law enforcement inquiry is seeking only the name, address, account number, and type of account of any customer or ascertainable group of customers associated (1) with a financial transaction or class of financial transactions, or (2) with a foreign country or subdivision thereof in the case of a Government authority exercising financial controls over foreign accounts in the United States under section 5(b) of the Trading with the Enemy Act \[[50 U.S.C. 4305(b)][/us/usc/t50/s4305/b]\]; the International Emergency Economic Powers Act (title II, [Public Law 95–223][/us/pl/95/223]) \[[50 U.S.C. 1701][/us/usc/t50/s1701] et seq.\]; or [section 287c of title 22][/us/usc/t22/s287c].
 
     (h) __Disclosure pursuant to lawful proceeding, investigation, etc., directed at financial institution or legal entity or consideration or administration respecting Government loans, loan guarantees, etc.__ 
 
@@ -207,7 +207,7 @@
 [/us/usc/t12/s1813/u]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1813%2Fu
 [/us/usc/t5/s554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs554
 [/us/usc/t12/s3402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs3402
-[/us/usc/t12/s95a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs95a
+[/us/usc/t50/s4305/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4305%2Fb
 [/us/pl/95/223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F223
 [/us/usc/t50/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1701
 [/us/usc/t22/s287c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs287c

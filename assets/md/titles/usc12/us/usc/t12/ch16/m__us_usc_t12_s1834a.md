@@ -417,7 +417,7 @@
 
  __Effective Date of 1992 Amendment__ 
 
-    Amendment by [section 303(b)(2) of Pub. L. 102–558][/us/pl/102/558/s303/b/2] deemed to have become effective Mar. 1, 1992, see [section 304 of Pub. L. 102–558][/us/pl/102/558/s304], set out as a note under [section 2062 of Title 50][/us/usc/t50/s2062], Appendix, War and National Defense.
+    Amendment by [section 303(b)(2) of Pub. L. 102–558][/us/pl/102/558/s303/b/2] deemed to have become effective Mar. 1, 1992, see [section 304 of Pub. L. 102–558][/us/pl/102/558/s304], set out as a note under [section 4502 of Title 50][/us/usc/t50/s4502], War and National Defense.
 
     [Pub. L. 102–558, title III, § 303(b)(9)][/us/pl/102/558/s303/b/9], Oct. 28, 1992, [106 Stat. 4226][/us/stat/106/4226], provided that the amendment made by that section is effective on the effective date of the amendment made by [section 302(e)(4) of Pub. L. 102–242][/us/pl/102/242/s302/e/4] \[see [section 302(g) of Pub. L. 102–242][/us/pl/102/242/s302/g], set out as a note under [section 1817 of this title][/us/usc/t12/s1817]\].
 
@@ -519,7 +519,7 @@
 [/us/usc/t12/s1815]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1815
 [/us/pl/102/558/s303/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F558%2Fs303%2Fb%2F2
 [/us/pl/102/558/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F558%2Fs304
-[/us/usc/t50/s2062]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2062
+[/us/usc/t50/s4502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4502
 [/us/pl/102/558/s303/b/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F558%2Fs303%2Fb%2F9
 [/us/stat/106/4226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4226
 [/us/pl/102/242/s302/e/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2Fs302%2Fe%2F4

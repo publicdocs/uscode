@@ -597,7 +597,7 @@
 
  __Effective Date of 1992 Amendments__ 
 
-    Amendment by [section 303(b)(5) of Pub. L. 102–558][/us/pl/102/558/s303/b/5] deemed to have become effective Mar. 1, 1992, see [section 304 of Pub. L. 102–558][/us/pl/102/558/s304], set out as a note under [section 2062 of Title 50][/us/usc/t50/s2062], Appendix, War and National Defense.
+    Amendment by [section 303(b)(5) of Pub. L. 102–558][/us/pl/102/558/s303/b/5] deemed to have become effective Mar. 1, 1992, see [section 304 of Pub. L. 102–558][/us/pl/102/558/s304], set out as a note under [section 4502 of Title 50][/us/usc/t50/s4502], War and National Defense.
 
     Amendment by [Pub. L. 102–550][/us/pl/102/550] effective as if included in the Federal Deposit Insurance Corporation Improvement Act of 1991, [Pub. L. 102–242][/us/pl/102/242], as of Dec. 19, 1991, except that where amendment is to any provision of law added or amended by [Pub. L. 102–242][/us/pl/102/242] effective after Dec. 19, 1992, then amendment by [Pub. L. 102–550][/us/pl/102/550] effective on effective date of amendment by [Pub. L. 102–242][/us/pl/102/242], see [section 1609 of Pub. L. 102–550][/us/pl/102/550/s1609], set out as a note under [section 191 of this title][/us/usc/t12/s191].
 
@@ -804,7 +804,7 @@
 [/us/usc/t12/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs321
 [/us/pl/102/558/s303/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F558%2Fs303%2Fb%2F5
 [/us/pl/102/558/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F558%2Fs304
-[/us/usc/t50/s2062]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2062
+[/us/usc/t50/s4502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4502
 [/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
 [/us/pl/102/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242
 [/us/pl/102/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242

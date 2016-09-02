@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t12/ch2/schIV/m__us_usc_t12_s95b.md) | [Next](./../../../../..//us/usc/t12/ch2/schVI/m__us_usc_t12_ch2_schVI.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fch2%2FschV)
+[Previous](./../../../../..//us/usc/t12/ch2/schIV/m__us_usc_t12_s95.md) | [Next](./../../../../..//us/usc/t12/ch2/schVI/m__us_usc_t12_ch2_schVI.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fch2%2FschV)
 
 ### SUBCHAPTER V—OBTAINING AND ISSUING CIRCULATING NOTES
 
@@ -41,7 +41,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t12/ch2/schIV/m__us_usc_t12_s95b.md) | [Next](./../../../../..//us/usc/t12/ch2/schVI/m__us_usc_t12_ch2_schVI.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fch2%2FschV)
+[Previous](./../../../../..//us/usc/t12/ch2/schIV/m__us_usc_t12_s95.md) | [Next](./../../../../..//us/usc/t12/ch2/schVI/m__us_usc_t12_ch2_schVI.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fch2%2FschV)
 
 ----------
 ----------

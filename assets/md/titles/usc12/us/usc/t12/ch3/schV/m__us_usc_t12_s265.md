@@ -21,7 +21,7 @@
 
  __Codification__ 
 
-    Section was formerly classified to section 1110 of the Appendix to Title 50, War and National Defense.
+    Section was formerly classified to section 1110 of the former Appendix to Title 50, War and National Defense.
 
  __Amendments__ 
 

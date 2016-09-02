@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t12/ch2/schIV/m__us_usc_t12_s94a.md) | [Next](./../../../../..//us/usc/t12/ch2/schIV/m__us_usc_t12_s95a.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs95)
+[Previous](./../../../../..//us/usc/t12/ch2/schIV/m__us_usc_t12_s94a.md) | [Next](./../../../../..//us/usc/t12/ch2/schV/m__us_usc_t12_ch2_schV.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs95)
 
 ## § 95. Emergency limitations and restrictions on business of members of Federal Reserve System; designation of legal holiday for national banking associations; exceptions; “State” defined
 
@@ -41,19 +41,27 @@
 
     Proclamations Nos. 2039, 2040, and 2070, dated Mar. 6, 1933, Mar. 9, 1933, and Dec. 30, 1933, respectively, related to the temporary suspension of banking transactions beginning Mar. 6, 1933, by all member banks of the Federal Reserve System.
 
-    Pursuant to Ex. Ord. No. 6073, dated March 10, 1933, formerly set out as a note under this section, the Secretary of the Treasury by order of March 11, 1933, authorized all Federal reserve banks and nonmember banks and other banking institutions to resume their normal and usual banking functions on March 13, 1933, subject to certain restrictions. See 31 C.F.R. 121.20–121.22. The fifth and sixth paragraphs of Ex. Ord. No. 6073, relating to the removal of gold coin, gold bullion, or gold certificates from the United States by corporations, etc., including banking institutions and authorization of banking institutions to pay out gold coin, gold bullion or gold certificates, were revoked by Ex. Ord. No. 11825, Dec. 31, 1974, 40 F.R. 1003, set out as a note under [section 95a of this title][/us/usc/t12/s95a].
+    Pursuant to Ex. Ord. No. 6073, dated March 10, 1933, formerly set out as a note under this section, the Secretary of the Treasury by order of March 11, 1933, authorized all Federal reserve banks and nonmember banks and other banking institutions to resume their normal and usual banking functions on March 13, 1933, subject to certain restrictions. See 31 C.F.R. 121.20–121.22. The fifth and sixth paragraphs of Ex. Ord. No. 6073, relating to the removal of gold coin, gold bullion, or gold certificates from the United States by corporations, etc., including banking institutions and authorization of banking institutions to pay out gold coin, gold bullion or gold certificates, were revoked by Ex. Ord. No. 11825, Dec. 31, 1974, 40 F.R. 1003.
 
  __Proc. No. 2725. Exemption of Member Banks of Federal Reserve System__ 
 
     Proc. No. 2725, Apr. 7, 1947, 12 F.R. 2343, [61 Stat. 1062][/us/stat/61/1062], provided:
 
-    NOW, THEREFORE, I, HARRY S. TRUMAN, President of the United States of America, acting under and by virtue of the authority vested in me by section 5(b) of the Trading with the Enemy Act of October 6, 1917, [40 Stat. 415][/us/stat/40/415], as amended \[section 5(b) of Appendix to Title 50\], and [section 4 of the act of March 9, 1933][/us/act/1933-03-09/s4], [48 Stat. 2][/us/stat/48/2] \[this section\] and by virtue of all other authority vested in me, do hereby, in the interest of the internal management of the Government, proclaim, order, direct, and declare that the said proclamations of March 6 and March 9, 1933, and Executive order of March 10, 1933, as amended, are further amended to exclude from their scope banking institutions which are members of the Federal Reserve System: Provided, however, That no banking institution shall pay out any gold coin, gold bullion, or gold certificates, except as authorized by the Secretary of the Treasury, or allow the withdrawal of any currency for hoarding.
+    NOW, THEREFORE, I, HARRY S. TRUMAN, President of the United States of America, acting under and by virtue of the authority vested in me by section 5(b) of the Trading with the Enemy Act of October 6, 1917, [40 Stat. 415][/us/stat/40/415], as amended \[[50 U.S.C. 4305(b)][/us/usc/t50/s4305/b]\], and [section 4 of the act of March 9, 1933][/us/act/1933-03-09/s4], [48 Stat. 2][/us/stat/48/2] \[[12 U.S.C. 95][/us/usc/t12/s95]\] and by virtue of all other authority vested in me, do hereby, in the interest of the internal management of the Government, proclaim, order, direct, and declare that the said proclamations of March 6 and March 9, 1933, and Executive order of March 10, 1933, as amended, are further amended to exclude from their scope banking institutions which are members of the Federal Reserve System: Provided, however, That no banking institution shall pay out any gold coin, gold bullion, or gold certificates, except as authorized by the Secretary of the Treasury, or allow the withdrawal of any currency for hoarding.
 
     This proclamation shall become effective as of March 15, 1947.
 
+§§ 95a, 95b. __Omitted__ 
+
+ __Codification__ 
+
+    Section 95a, [act Oct. 6, 1917, ch. 106, § 5(b)][/us/act/1917-10-06/ch106/s5/b], [40 Stat. 415][/us/stat/40/415]; [Sept. 24, 1918, ch. 176, § 5][/us/act/1918-09-24/ch176/s5], [40 Stat. 966][/us/stat/40/966]; [Mar. 9, 1933, ch. 1][/us/act/1933-03-09/ch1], title I, § 2, [48 Stat. 1][/us/stat/48/1]; [May 7, 1940, ch. 185, § 1][/us/act/1940-05-07/ch185/s1], [54 Stat. 179][/us/stat/54/179]; [Dec. 18, 1941, ch. 593][/us/act/1941-12-18/ch593], title III, § 301, [55 Stat. 839][/us/stat/55/839]; Proc. No. 2695, eff. July 4, 1946, 11 F.R. 7517, [69 Stat. 1352][/us/stat/69/1352]; [Pub. L. 95–223, title I][/us/pl/95/223], §§ 101(a), 102, 103(b), Dec. 28, 1977, [91 Stat. 1625][/us/stat/91/1625], 1626; [Pub. L. 100–418, title II, § 2502(a)(1)][/us/pl/100/418/s2502/a/1], Aug. 23, 1988, [102 Stat. 1371][/us/stat/102/1371]; [Pub. L. 103–236, title V, § 525(b)(1)][/us/pl/103/236/s525/b/1], Apr. 30, 1994, [108 Stat. 474][/us/stat/108/474], which related to regulation of transactions in foreign exchange of gold and silver, property transfers, vested interests, enforcement and penalties, was omitted because § 5(b) of act Oct. 6, 1917, is also classified to [section 4305(b) of Title 50][/us/usc/t50/s4305/b], War and National Defense.
+
+    Section 95b, [act Mar. 9, 1933, ch. 1][/us/act/1933-03-09/ch1], title I, § 1, [48 Stat. 1][/us/stat/48/1], which related to ratification of acts of President and Secretary of the Treasury, was omitted because § 1 of act Mar. 9, 1933, is also set out as a note under [section 4305 of Title 50][/us/usc/t50/s4305], War and National Defense.
+
 ----------
 
-[Previous](./../../../../..//us/usc/t12/ch2/schIV/m__us_usc_t12_s94a.md) | [Next](./../../../../..//us/usc/t12/ch2/schIV/m__us_usc_t12_s95a.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs95)
+[Previous](./../../../../..//us/usc/t12/ch2/schIV/m__us_usc_t12_s94a.md) | [Next](./../../../../..//us/usc/t12/ch2/schV/m__us_usc_t12_ch2_schV.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs95)
 
 ----------
 ----------
@@ -70,10 +78,32 @@
 [/us/pl/97/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F320
 [/us/pl/96/221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221
 [/us/usc/t48/s1681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1681
-[/us/usc/t12/s95a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs95a
 [/us/stat/61/1062]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F1062
 [/us/stat/40/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F40%2F415
+[/us/usc/t50/s4305/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4305%2Fb
 [/us/act/1933-03-09/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-03-09%2Fs4
 [/us/stat/48/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F2
+[/us/usc/t12/s95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs95
+[/us/act/1917-10-06/ch106/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-10-06%2Fch106%2Fs5%2Fb
+[/us/stat/40/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F40%2F415
+[/us/act/1918-09-24/ch176/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1918-09-24%2Fch176%2Fs5
+[/us/stat/40/966]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F40%2F966
+[/us/act/1933-03-09/ch1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-03-09%2Fch1
+[/us/stat/48/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1
+[/us/act/1940-05-07/ch185/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-05-07%2Fch185%2Fs1
+[/us/stat/54/179]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F179
+[/us/act/1941-12-18/ch593]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1941-12-18%2Fch593
+[/us/stat/55/839]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F55%2F839
+[/us/stat/69/1352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F1352
+[/us/pl/95/223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F223
+[/us/stat/91/1625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1625
+[/us/pl/100/418/s2502/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs2502%2Fa%2F1
+[/us/stat/102/1371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1371
+[/us/pl/103/236/s525/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs525%2Fb%2F1
+[/us/stat/108/474]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F474
+[/us/usc/t50/s4305/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4305%2Fb
+[/us/act/1933-03-09/ch1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-03-09%2Fch1
+[/us/stat/48/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1
+[/us/usc/t50/s4305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4305
 
 

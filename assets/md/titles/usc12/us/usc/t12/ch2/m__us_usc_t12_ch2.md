@@ -633,17 +633,9 @@ SUBCHAPTER IV—REGULATION OF THE BANKING BUSINESS; POWERS AND DUTIES OF NATIONA
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs95a" data-uslm-ref="/us/usc/t12/s95a">95a.</a>  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs95a" data-uslm-ref="/us/usc/t12/s95a">95a</a>, <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs95b" data-uslm-ref="/us/usc/t12/s95b">95b.</a>  </td>
 
-    <td> Regulation of transactions in foreign exchange of gold and silver; property transfers; vested interests, enforcement and penalties.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs95b" data-uslm-ref="/us/usc/t12/s95b">95b.</a>  </td>
-
-    <td> Ratification of acts of President and Secretary of the Treasury under section 95a.  </td>
+    <td> Omitted.  </td>
 
   </tr>
 

@@ -189,7 +189,7 @@
 
                     (III) notify the homeowner or mortgage applicant of the availability of homeownership counseling provided by nonprofit organizations approved by the Secretary and experienced in the provision of homeownership counseling, or provide the toll-free telephone number described in subparagraph (D)(i);
 
-                    (IV) notify the homeowner by a statement or notice, written in plain English by the Secretary of Housing and Urban Development, in consultation with the Secretary of Defense and the Secretary of the Treasury, explaining the mortgage and foreclosure rights of servicemembers, and the dependents of such servicemembers, under the Servicemembers Civil Relief Act (50 U.S.C. App. 501 et seq.), including the toll-free military one source number to call if servicemembers, or the dependents of such servicemembers, require further assistance; and
+                    (IV) notify the homeowner by a statement or notice, written in plain English by the Secretary of Housing and Urban Development, in consultation with the Secretary of Defense and the Secretary of the Treasury, explaining the mortgage and foreclosure rights of servicemembers, and the dependents of such servicemembers, under the Servicemembers Civil Relief Act (50 U.S.C. App. 501 et seq.) \[now [50 U.S.C. 3901][/us/usc/t50/s3901] et seq.\], including the toll-free military one source number to call if servicemembers, or the dependents of such servicemembers, require further assistance; and
 
                     (V) notify the housing or mortgage applicant of the availability of mortgage software systems provided pursuant to subsection (g)(3).
 
@@ -751,7 +751,7 @@
 
     The Housing Act of 1949, referred to in subsec. (c)(4)(B), is [act July 15, 1949, ch. 338][/us/act/1949-07-15/ch338], [63 Stat. 413][/us/stat/63/413], as amended. Title V of the Housing Act of 1949 is classified generally to subchapter III (§ 1471 et seq.) of chapter 8A of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 1441 of Title 42][/us/usc/t42/s1441], The Public Health and Welfare, and Tables.
 
-    The Servicemembers Civil Relief Act, referred to in subsec. (c)(5)(A)(ii)(IV), is [act Oct. 17, 1940, ch. 888][/us/act/1940-10-17/ch888], [54 Stat. 1178][/us/stat/54/1178], as amended, which is classified to section 501 et seq. of Title 50, Appendix, War and National Defense. For complete classification of this Act to the Code, see [section 501 of Title 50][/us/usc/t50/s501], Appendix, and Tables.
+    The Servicemembers Civil Relief Act, referred to in subsec. (c)(5)(A)(ii)(IV), is [act Oct. 17, 1940, ch. 888][/us/act/1940-10-17/ch888], [54 Stat. 1178][/us/stat/54/1178], which was classified to section 501 et seq. of the former Appendix to Title 50, War and National Defense, prior to editorial reclassification and renumbering as chapter 50 (§ 3901 et seq.) of Title 50. For complete classification of this Act to the Code, see Tables.
 
     The United States Housing Act of 1937, referred to in subsec. (g)(1)(B)(ii), (C)(ii), is [act Sept. 1, 1937, ch. 896][/us/act/1937-09-01/ch896], as revised generally by [Pub. L. 93–383, title II, § 201(a)][/us/pl/93/383/s201/a], Aug. 22, 1974, [88 Stat. 653][/us/stat/88/653], which is classified generally to chapter 8 (§ 1437 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 1437 of Title 42][/us/usc/t42/s1437] and Tables.
 
@@ -1080,6 +1080,7 @@
 [/us/usc/t12/s1709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1709
 [/us/usc/t42/s1471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1471
 [/us/usc/t12/s1709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1709
+[/us/usc/t50/s3901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3901
 [/us/usc/t12/s1707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1707
 [/us/usc/t12/s1701w]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1701w
 [/us/usc/t42/s5305/a/20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5305%2Fa%2F20
@@ -1169,7 +1170,6 @@
 [/us/usc/t42/s1441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1441
 [/us/act/1940-10-17/ch888]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-10-17%2Fch888
 [/us/stat/54/1178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F1178
-[/us/usc/t50/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs501
 [/us/act/1937-09-01/ch896]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-09-01%2Fch896
 [/us/pl/93/383/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2Fs201%2Fa
 [/us/stat/88/653]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F653

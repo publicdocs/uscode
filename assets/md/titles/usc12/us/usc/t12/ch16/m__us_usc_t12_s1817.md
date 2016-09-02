@@ -1421,7 +1421,7 @@
 
     [Pub. L. 102–558, title III, § 303(b)(8)][/us/pl/102/558/s303/b/8], Oct. 28, 1992, [106 Stat. 4225][/us/stat/106/4225], provided that the amendment made by that section is effective on the effective date of the amendment made by [section 302(e)(4) of Pub. L. 102–242][/us/pl/102/242/s302/e/4]. See Effective Date of 1991 Amendment note below.
 
-    Amendment by section 303(a), (b)(1), (3), (6)(A) of [Pub. L. 102–558][/us/pl/102/558] deemed to have become effective Mar. 1, 1992, see [section 304 of Pub. L. 102–558][/us/pl/102/558/s304], set out as a note under [section 2062 of Title 50][/us/usc/t50/s2062], Appendix, War and National Defense.
+    Amendment by section 303(a), (b)(1), (3), (6)(A) of [Pub. L. 102–558][/us/pl/102/558] deemed to have become effective Mar. 1, 1992, see [section 304 of Pub. L. 102–558][/us/pl/102/558/s304], set out as a note under [section 4502 of Title 50][/us/usc/t50/s4502], War and National Defense.
 
     [Pub. L. 102–550, title XVI][/us/pl/102/550], §§ 1603(a)(3), 1605(a)(6), Oct. 28, 1992, [106 Stat. 4078][/us/stat/106/4078], 4085, which provided effective date provisions for the amendments made by those sections, were repealed, effective Oct. 28, 1992, by [section 305 of Pub. L. 102–558][/us/pl/102/558/s305], set out as a Repeal of Duplicative Provisions note under [section 1815 of this title][/us/usc/t12/s1815].
 
@@ -2067,7 +2067,7 @@
 [/us/pl/102/242/s302/e/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2Fs302%2Fe%2F4
 [/us/pl/102/558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F558
 [/us/pl/102/558/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F558%2Fs304
-[/us/usc/t50/s2062]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2062
+[/us/usc/t50/s4502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4502
 [/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
 [/us/stat/106/4078]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4078
 [/us/pl/102/558/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F558%2Fs305

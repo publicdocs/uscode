@@ -41,7 +41,7 @@
 
     (b) __Grant of delay order; duration and specifications; extensions; copy of request and notice to cus­tomer__ 
 
-        (1) If the court makes the findings required in paragraphs (1), (2), and (3) of subsection (a), it shall enter an ex parte order granting the requested delay for a period not to exceed ninety days and an order prohibiting the financial institution from disclosing that records have been obtained or that a request for records has been made, except that, if the rec­ords have been sought by a Government authority exercising financial controls over foreign accounts in the United States under section 5(b) of the Trading with the Enemy Act \[[12 U.S.C. 95a][/us/usc/t12/s95a], 50 U.S.C. App. 5(b)\], the International Emergency Economic Powers Act (title II, [Public Law 95–223][/us/pl/95/223]) \[[50 U.S.C. 1701][/us/usc/t50/s1701] et seq.\], or [section 287c of title 22][/us/usc/t22/s287c], and the court finds that there is reason to believe that such notice may endanger the lives or physical safety of a customer or group of customers, or any person or group of persons associated with a customer, the court may specify that the delay be indefinite.
+        (1) If the court makes the findings required in paragraphs (1), (2), and (3) of subsection (a), it shall enter an ex parte order granting the requested delay for a period not to exceed ninety days and an order prohibiting the financial institution from disclosing that records have been obtained or that a request for records has been made, except that, if the records have been sought by a Government authority exercising financial controls over foreign accounts in the United States under section 5(b) of the Trading with the Enemy Act \[[50 U.S.C. 4305(b)][/us/usc/t50/s4305/b]\], the International Emergency Economic Powers Act (title II, [Public Law 95–223][/us/pl/95/223]) \[[50 U.S.C. 1701][/us/usc/t50/s1701] et seq.\], or [section 287c of title 22][/us/usc/t22/s287c], and the court finds that there is reason to believe that such notice may endanger the lives or physical safety of a customer or group of customers, or any person or group of persons associated with a customer, the court may specify that the delay be indefinite.
 
         (2) Extensions of the delay of notice provided in paragraph (1) of up to ninety days each may be granted by the court upon application, but only in accordance with this subsection.
 
@@ -76,7 +76,7 @@
 ----------
 ----------
 
-[/us/usc/t12/s95a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs95a
+[/us/usc/t50/s4305/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4305%2Fb
 [/us/pl/95/223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F223
 [/us/usc/t50/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1701
 [/us/usc/t22/s287c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs287c

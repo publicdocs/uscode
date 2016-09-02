@@ -117,7 +117,7 @@
 
  __Expiration of 1942 Amendment__ 
 
-    Amendment of the proviso of this section by act Mar. 27, 1942, remained in force only until the date fixed by section 645 of Appendix to Title 50, War and National Defense, after which provisions in force before the amendment again became effective. Before the 1942 amendment, the proviso of this section read: “Provided, That any bonds, notes, or other obligations which are direct obligations of the United States or which are fully guaranteed by the United States as to principal and interest may be bought and sold without regard to maturities but only in the open market.”
+    Amendment of the proviso of this section by act Mar. 27, 1942, remained in force only until the date fixed by section 645 of the former Appendix to Title 50, War and National Defense, after which provisions in force before the amendment again became effective. Before the 1942 amendment, the proviso of this section read: “Provided, That any bonds, notes, or other obligations which are direct obligations of the United States or which are fully guaranteed by the United States as to principal and interest may be bought and sold without regard to maturities but only in the open market.”
 
 ----------
 

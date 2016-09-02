@@ -35,7 +35,7 @@
 
     The Silver Purchase Act of 1934, as amended, referred to in text, is [act June 19, 1934, ch. 674][/us/act/1934-06-19/ch674], [48 Stat. 1178][/us/stat/48/1178], which was classified to sections 311a, 316a, 316b, 405a, 448 to 448e, 734a, and 734b of former Title 31, Money and Finance, and was repealed by [Pub. L. 88–36, title I, § 1][/us/pl/88/36/s1], June 4, 1963, [77 Stat. 54][/us/stat/77/54]. For complete classification of this Act to the Code, see Tables.
 
-    Subdivision (b) of [section 5 of the Act of October 6, 1917][/us/act/1917-10-06/s5], referred to in text, is classified to [section 95a of this title][/us/usc/t12/s95a] and [section 5(b) of Title 50][/us/usc/t50/s5/b], Appendix, War and National Defense.
+    Subdivision (b) of [section 5 of the Act of October 6, 1917][/us/act/1917-10-06/s5], referred to in text, is classified to [section 4305(b) of Title 50][/us/usc/t50/s4305/b], War and National Defense.
 
     Section 12B of this Act, referred to in the text, was section 12B of the Federal Reserve Act and was formerly classified to [section 264 of this title][/us/usc/t12/s264]. Section 12B was withdrawn from the Federal Reserve Act and made a separate act to be known as the Federal Deposit Insurance Act by section 1 of [act Sept. 21, 1950, ch. 967][/us/act/1950-09-21/ch967], [64 Stat. 873][/us/stat/64/873]. The Federal Deposit Insurance Act is classified generally to chapter 16 (§ 1811 et seq.) of this title.
 
@@ -72,8 +72,7 @@
 [/us/pl/88/36/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F36%2Fs1
 [/us/stat/77/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F54
 [/us/act/1917-10-06/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-10-06%2Fs5
-[/us/usc/t12/s95a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs95a
-[/us/usc/t50/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs5%2Fb
+[/us/usc/t50/s4305/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4305%2Fb
 [/us/usc/t12/s264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs264
 [/us/act/1950-09-21/ch967]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-21%2Fch967
 [/us/stat/64/873]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F873

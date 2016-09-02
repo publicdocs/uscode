@@ -61,7 +61,7 @@
 
     The Federal Deposit Insurance Act, referred to in subsec. (d), is [act Sept. 21, 1950, ch. 967, § 2][/us/act/1950-09-21/ch967/s2], [64 Stat. 873][/us/stat/64/873], as amended, which is classified generally to chapter 16 (§ 1811 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1811 of this title][/us/usc/t12/s1811] and Tables.
 
-    This Act, referred to in subsec. (d), is [act Mar. 9, 1933, ch. 1][/us/act/1933-03-09/ch1], [48 Stat. 1][/us/stat/48/1], as amended, popularly known as the Emergency Banking and Bank Conservation Act, which is classified to sections 51a, 51b, 51c, 51d, 95 to 95b, 201 to 212, 248, 347b, 347c, 347d, 445 of this title and to [section 5 of Title 50][/us/usc/t50/s5], Appendix, War and National Defense.
+    This Act, referred to in subsec. (d), is [act Mar. 9, 1933, ch. 1][/us/act/1933-03-09/ch1], [48 Stat. 1][/us/stat/48/1], popularly known as the Emergency Banking and Bank Conservation Act, which is classified to sections 51a, 51b, 51c, 51d, 95, 201 to 212, 248, 347b, 347c, 347d, 445 of this title and to [section 4305 of Title 50][/us/usc/t50/s4305], War and National Defense, and classified as a note under [section 4305 of Title 50][/us/usc/t50/s4305].
 
     [Section 51d of this title][/us/usc/t12/s51d] was repealed by [act June 30, 1947, ch. 166][/us/act/1947-06-30/ch166], title II, § 206(b), (o), [61 Stat. 208][/us/stat/61/208]. For effect of the repeal on outstanding debentures held by banks, see References in Text note set out under [section 51b–1 of this title][/us/usc/t12/s51b–1].
 
@@ -103,7 +103,8 @@
 [/us/usc/t12/s1811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1811
 [/us/act/1933-03-09/ch1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-03-09%2Fch1
 [/us/stat/48/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1
-[/us/usc/t50/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs5
+[/us/usc/t50/s4305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4305
+[/us/usc/t50/s4305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4305
 [/us/usc/t12/s51d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs51d
 [/us/act/1947-06-30/ch166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-06-30%2Fch166
 [/us/stat/61/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F208
