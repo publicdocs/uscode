@@ -21,7 +21,7 @@
 
  __Codification__ 
 
-    Section was formerly classified to [section 1974c of Title 42][/us/usc/t42/s1974c], The Public Health and Welfare, prior to editorial reclassification and renumbering in Title 52, Voting and Elections.
+    Section was formerly classified to [section 1974c of Title 42][/us/usc/t42/s1974c], The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
 ----------
 

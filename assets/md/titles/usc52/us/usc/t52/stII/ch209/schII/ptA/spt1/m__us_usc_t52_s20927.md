@@ -21,7 +21,7 @@
 
     (2) A copy of each report submitted to the Commission by a recipient of such grants or payments which is required under such a program, including reports submitted by States receiving requirements payments under subpart 1 of part D of this subchapter, and each other report submitted to the Commission under this chapter.
 
-    (3) Information on the voluntary voting system guidelines adopted or modified by the Commission under subpart 3 of this part and information on the voluntary guidance adopted under part B of subchapter III of this chapter.
+    (3) Information on the voluntary voting system guidelines adopted or modified by the Commission under subpart 3 of this part and information on the voluntary guidance adopted under part B of subchapter III.
 
     (4) All votes taken by the Commission.
 
@@ -35,7 +35,7 @@
 
  __Codification__ 
 
-    Section was formerly classified to [section 15327 of Title 42][/us/usc/t42/s15327], The Public Health and Welfare, prior to editorial reclassification and renumbering in Title 52, Voting and Elections.
+    Section was formerly classified to [section 15327 of Title 42][/us/usc/t42/s15327], The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
 ----------
 

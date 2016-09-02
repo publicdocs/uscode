@@ -17,7 +17,7 @@
 
     (a) __In general__ 
 
-        A State is eligible to receive a requirements payment for a fiscal year if the chief executive officer of the State, or designee, in consultation and coordination with the chief State election official, has filed with the Commission a statement certifying that the State is in compliance with the requirements referred to in subsection (b) of this section. A State may meet the requirement of the previous sentence by filing with the Commission a statement which reads as follows: “\_\_\_\_\_\_ hereby certifies that it is in compliance with the requirements referred to in section 253(b) of the Help America Vote Act of 2002.” (with the blank to be filled in with the name of the State involved).
+        A State is eligible to receive a requirements payment for a fiscal year if the chief executive officer of the State, or designee, in consultation and coordination with the chief State election official, has filed with the Commission a statement certifying that the State is in compliance with the requirements referred to in subsection (b). A State may meet the requirement of the previous sentence by filing with the Commission a statement which reads as follows: “\_\_\_\_\_\_ hereby certifies that it is in compliance with the requirements referred to in section 253(b) of the Help America Vote Act of 2002.” (with the blank to be filled in with the name of the State involved).
 
     (b) __State plan requirement; certification of compliance with applicable laws and requirements__ 
 
@@ -43,9 +43,9 @@
 
         (4)
 
-         To the extent that any portion of the requirements payment is used for activities other than meeting the requirements of subchapter III of this chapter—
+         To the extent that any portion of the requirements payment is used for activities other than meeting the requirements of subchapter III—
 
-            (A) the State’s proposed uses of the requirements payment are not inconsistent with the requirements of subchapter III of this chapter; and
+            (A) the State’s proposed uses of the requirements payment are not inconsistent with the requirements of subchapter III; and
 
             (B) the use of the funds under this paragraph is consistent with the requirements of [section 21001(b) of this title][/us/usc/t52/s21001/b].
 
@@ -61,11 +61,11 @@
 
     (d) __Timing for filing of certification__ 
 
-        A State may not file a statement of certification under subsection (a) of this section until the expiration of the 45-day period (or, in the case of a fiscal year other than the first fiscal year for which a requirements payment is made to the State under this part, the 30-day period) which begins on the date notice of the State plan under this part is published in the Federal Register pursuant to [section 21005(b) of this title][/us/usc/t52/s21005/b].
+        A State may not file a statement of certification under subsection (a) until the expiration of the 45-day period (or, in the case of a fiscal year other than the first fiscal year for which a requirements payment is made to the State under this part, the 30-day period) which begins on the date notice of the State plan under this part is published in the Federal Register pursuant to [section 21005(b) of this title][/us/usc/t52/s21005/b].
 
     (e) __Chief State election official defined__ 
 
-        In this part, the “chief State election official” of a State is the individual designated by the State under section 10 of the National Voter Registration Act of 1993 (\[former\] [42 U.S.C. 1973gg–8][/us/usc/t42/s1973gg–8]) \[now [52 U.S.C. 20509][/us/usc/t52/s20509]\] to be responsible for coordination of the State’s responsibilities under such Act.
+        In this part, the “chief State election official” of a State is the individual designated by the State under section 10 of the National Voter Registration Act of 1993 ([42 U.S.C. 1973gg–8][/us/usc/t42/s1973gg–8]) \[now [52 U.S.C. 20509][/us/usc/t52/s20509]\] to be responsible for coordination of the State’s responsibilities under such Act.
 
 ([Pub. L. 107–252, title II, § 253][/us/pl/107/252/s253], Oct. 29, 2002, [116 Stat. 1693][/us/stat/116/1693]; [Pub. L. 111–84, div. A, title V, § 588(b)(1)(B)][/us/pl/111/84/s588/b/1/B]–(3), Oct. 28, 2009, [123 Stat. 2333][/us/stat/123/2333]; [Pub. L. 112–74, div. C, title VI, § 622(2)][/us/pl/112/74/s622/2], Dec. 23, 2011, [125 Stat. 927][/us/stat/125/927].)
 
@@ -75,13 +75,13 @@
 
     This chapter, referred to in subsec. (b)(3), was in the original “this Act”, meaning [Pub. L. 107–252][/us/pl/107/252], Oct. 29, 2002, [116 Stat. 1666][/us/stat/116/1666], known as the Help America Vote Act of 2002, which is classified principally to this chapter. For complete classification of this Act to the Code, see Tables.
 
-    Subchapter III of this chapter, referred to in subsec. (b)(4), was in the original “title III”, meaning title III of [Pub. L. 107–252][/us/pl/107/252], Oct. 29, 2002, [116 Stat. 1704][/us/stat/116/1704], which is classified principally to subchapter III (§ 21081 et seq.) of this chapter. For complete classification of title III to the Code, see Tables.
+    Subchapter III, referred to in subsec. (b)(4), was in the original “title III”, meaning title III of [Pub. L. 107–252][/us/pl/107/252], Oct. 29, 2002, [116 Stat. 1704][/us/stat/116/1704], which is classified principally to subchapter III (§ 21081 et seq.) of this chapter. For complete classification of title III to the Code, see Tables.
 
     The National Voter Registration Act of 1993, referred to in subsec. (e), is [Pub. L. 103–31][/us/pl/103/31], May 20, 1993, [107 Stat. 77][/us/stat/107/77], which is classified principally to chapter 205 (§ 20501 et seq.) of this title. For complete classification of this Act to the Code, see Tables.
 
  __Codification__ 
 
-    Section was formerly classified to [section 15403 of Title 42][/us/usc/t42/s15403], The Public Health and Welfare, prior to editorial reclassification and renumbering in Title 52, Voting and Elections. Any notes below for amendments to this section prior to 2013 reflect the former classification of this section.
+    Section was formerly classified to [section 15403 of Title 42][/us/usc/t42/s15403], The Public Health and Welfare, prior to editorial reclassification and renumbering as this section. Some section numbers referenced in amendment notes below reflect the classification of such sections prior to their editorial reclassification to this title.
 
  __Amendments__ 
 

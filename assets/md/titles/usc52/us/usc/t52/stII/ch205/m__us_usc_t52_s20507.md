@@ -49,7 +49,7 @@
 
             (A) the death of the registrant; or
 
-            (B) a change in the residence of the registrant, in accordance with subsections (b), (c), and (d) of this section;
+            (B) a change in the residence of the registrant, in accordance with subsections (b), (c), and (d);
 
         (5)
 
@@ -65,11 +65,11 @@
 
     Any State program or activity to protect the integrity of the electoral process by ensuring the maintenance of an accurate and current voter registration roll for elections for Federal office—
 
-        (1) shall be uniform, nondiscriminatory, and in compliance with the Voting Rights Act of 1965 (\[former\] [42 U.S.C. 1973][/us/usc/t42/s1973] et seq.) \[now [52 U.S.C. 10301][/us/usc/t52/s10301] et seq.\]; and
+        (1) shall be uniform, nondiscriminatory, and in compliance with the Voting Rights Act of 1965 ([42 U.S.C. 1973][/us/usc/t42/s1973] et seq.) \[now [52 U.S.C. 10301][/us/usc/t52/s10301] et seq.\]; and
 
         (2)
 
-         shall not result in the removal of the name of any person from the official list of voters registered to vote in an election for Federal office by reason of the person’s failure to vote, except that nothing in this paragraph may be construed to prohibit a State from using the procedures described in subsections (c) and (d) of this section to remove an individual from the official list of eligible voters if the individual—
+         shall not result in the removal of the name of any person from the official list of voters registered to vote in an election for Federal office by reason of the person’s failure to vote, except that nothing in this paragraph may be construed to prohibit a State from using the procedures described in subsections (c) and (d) to remove an individual from the official list of eligible voters if the individual—
 
             (A) has not either notified the applicable registrar (in person or in writing) or responded during the period described in subparagraph (B) to the notice sent by the applicable registrar; and then
 
@@ -79,7 +79,7 @@
 
         (1)
 
-         A State may meet the requirement of subsection (a)(4) of this section by establishing a program under which—
+         A State may meet the requirement of subsection (a)(4) by establishing a program under which—
 
             (A) change-of-address information supplied by the Postal Service through its licensees is used to identify registrants whose addresses may have changed; and
 
@@ -89,7 +89,7 @@
 
                 (i) a registrant has moved to a different residence address in the same registrar’s jurisdiction in which the registrant is currently registered, the registrar changes the registration records to show the new address and sends the registrant a notice of the change by forwardable mail and a postage prepaid pre-addressed return form by which the registrant may verify or correct the address information; or
 
-                (ii) the registrant has moved to a different residence address not in the same registrar’s jurisdiction, the registrar uses the notice procedure described in subsection (d)(2) of this section to confirm the change of address.
+                (ii) the registrant has moved to a different residence address not in the same registrar’s jurisdiction, the registrar uses the notice procedure described in subsection (d)(2) to confirm the change of address.
 
         (2)
 
@@ -99,7 +99,7 @@
 
              Subparagraph (A) shall not be construed to preclude—
 
-                (i) the removal of names from official lists of voters on a basis described in paragraph (3)(A) or (B) or (4)(A) of subsection (a) of this section; or
+                (i) the removal of names from official lists of voters on a basis described in paragraph (3)(A) or (B) or (4)(A) of subsection (a); or
 
                 (ii) correction of registration records pursuant to this chapter.
 
@@ -121,7 +121,7 @@
 
          A notice is described in this paragraph if it is a postage prepaid and pre-addressed return card, sent by forwardable mail, on which the registrant may state his or her current address, together with a notice to the following effect:
 
-            (A) If the registrant did not change his or her residence, or changed residence but remained in the registrar’s jurisdiction, the registrant should return the card not later than the time provided for mail registration under subsection (a)(1)(B) of this section. If the card is not returned, affirmation or confirmation of the registrant’s address may be required before the registrant is permitted to vote in a Federal election during the period beginning on the date of the notice and ending on the day after the date of the second general election for Federal office that occurs after the date of the notice, and if the registrant does not vote in an election during that period the registrant’s name will be removed from the list of eligible voters.
+            (A) If the registrant did not change his or her residence, or changed residence but remained in the registrar’s jurisdiction, the registrant should return the card not later than the time provided for mail registration under subsection (a)(1)(B). If the card is not returned, affirmation or confirmation of the registrant’s address may be required before the registrant is permitted to vote in a Federal election during the period beginning on the date of the notice and ending on the day after the date of the second general election for Federal office that occurs after the date of the notice, and if the registrant does not vote in an election during that period the registrant’s name will be removed from the list of eligible voters.
 
             (B) If the registrant has changed residence to a place outside the registrar’s jurisdiction in which the registrant is registered, information concerning how the registrant can continue to be eligible to vote.
 
@@ -151,7 +151,7 @@
 
     (f) __Change of voting address within a jurisdiction__ 
 
-        In the case of a change of address, for voting purposes, of a registrant to another address within the same registrar’s jurisdiction, the registrar shall correct the voting registration list accordingly, and the registrant’s name may not be removed from the official list of eligible voters by reason of such a change of address except as provided in subsection (d) of this section.
+        In the case of a change of address, for voting purposes, of a registrant to another address within the same registrar’s jurisdiction, the registrar shall correct the voting registration list accordingly, and the registrant’s name may not be removed from the official list of eligible voters by reason of such a change of address except as provided in subsection (d).
 
     (g) __Conviction in Federal court__ 
 
@@ -183,7 +183,7 @@
 
         (1) Each State shall maintain for at least 2 years and shall make available for public inspection and, where available, photocopying at a reasonable cost, all records concerning the implementation of programs and activities conducted for the purpose of ensuring the accuracy and currency of official lists of eligible voters, except to the extent that such records relate to a declination to register to vote or to the identity of a voter registration agency through which any particular voter is registered.
 
-        (2) The records maintained pursuant to paragraph (1) shall include lists of the names and addresses of all persons to whom notices described in subsection (d)(2) of this section are sent, and information concerning whether or not each such person has responded to the notice as of the date that inspection of the records is made.
+        (2) The records maintained pursuant to paragraph (1) shall include lists of the names and addresses of all persons to whom notices described in subsection (d)(2) are sent, and information concerning whether or not each such person has responded to the notice as of the date that inspection of the records is made.
 
     (j) __“Registrar’s jurisdiction” defined__ 
 
@@ -203,13 +203,13 @@
 
  __Codification__ 
 
-    Section was formerly classified to [section 1973gg–6 of Title 42][/us/usc/t42/s1973gg–6], The Public Health and Welfare, prior to editorial reclassification and renumbering in Title 52, Voting and Elections. Any notes below for amendments to this section prior to 2013 reflect the former classification of this section.
+    Section was formerly classified to [section 1973gg–6 of Title 42][/us/usc/t42/s1973gg–6], The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
     Section is comprised of [section 8 of Pub. L. 103–31][/us/pl/103/31/s8]. Subsec. (h) of [section 8 of Pub. L. 103–31][/us/pl/103/31/s8] enacted [section 3629 of Title 39][/us/usc/t39/s3629], Postal Service, and amended sections 2401 and 3627 of Title 39.
 
  __Amendments__ 
 
-    2002—Subsec. (b)(2). [Pub. L. 107–252][/us/pl/107/252] inserted before period at end “, except that nothing in this paragraph may be construed to prohibit a State from using the procedures described in subsections (c) and (d) of this section to remove an individual from the official list of eligible voters if the individual—
+    2002—Subsec. (b)(2). [Pub. L. 107–252][/us/pl/107/252] inserted before period at end “, except that nothing in this paragraph may be construed to prohibit a State from using the procedures described in subsections (c) and (d) to remove an individual from the official list of eligible voters if the individual—
 
     “(A) has not either notified the applicable registrar (in person or in writing) or responded during the period described in subparagraph (B) to the notice sent by the applicable registrar; and then
 

@@ -65,7 +65,7 @@
 
         (2) __Administrator of General Services__ 
 
-            As directed by the Presidential designee, the Administrator of General Services shall furnish official post card forms (prescribed under subsection (b) of this section) and Federal write-in absentee ballots (prescribed under [section 20303 of this title][/us/usc/t52/s20303]).
+            As directed by the Presidential designee, the Administrator of General Services shall furnish official post card forms (prescribed under subsection (b)) and Federal write-in absentee ballots (prescribed under [section 20303 of this title][/us/usc/t52/s20303]).
 
     (d) __Authorization of appropriations for carrying out Federal Voting Assistance Program Improvements__ 
 
@@ -79,7 +79,7 @@
 
  __Codification__ 
 
-    Section was formerly classified to [section 1973ff of Title 42][/us/usc/t42/s1973ff], The Public Health and Welfare, prior to editorial reclassification and renumbering in Title 52, Voting and Elections. Any notes below for amendments to this section prior to 2013 reflect the former classification of this section.
+    Section was formerly classified to [section 1973ff of Title 42][/us/usc/t42/s1973ff], The Public Health and Welfare, prior to editorial reclassification and renumbering as this section. Some section numbers referenced in amendment notes below reflect the classification of such sections prior to their editorial reclassification to this title.
 
  __Amendments__ 
 
@@ -201,7 +201,7 @@
 
  __Governors’ Reports on Implementation of Recommendations for Changes in State Law Made Under Federal Voting Assistance Program__ 
 
-    [Pub. L. 107–107, div. A, title XVI, § 1605][/us/pl/107/107/s1605], Dec. 28, 2001, [115 Stat. 1277][/us/stat/115/1277], required the chief executive authority of a State to provide an implementation report to the Secretary of Defense within 90 days of receiving a uniformed services voting assistance legislative recommendation from the Secretary of Defense and was applicable to any recommendations transmitted during the three-year period beginning on Dec. 28, 2001.
+    [Pub. L. 107–107, div. A, title XVI, § 1605][/us/pl/107/107/s1605], Dec. 28, 2001, [115 Stat. 1277][/us/stat/115/1277], required the chief executive authority of a State to provide an implementation status report to the Secretary of Defense, acting as the Presidential designee, within 90 days of receiving a uniformed services voting assistance legislative recommendation from the Secretary of Defense and was applicable to any uniformed services voting assistance legislative recommendation transmitted to a state during the three-year period beginning on Dec. 28, 2001.
 
  __Ex. Ord. No. 12642. Designation of Secretary of Defense as Presidential Designee__ 
 

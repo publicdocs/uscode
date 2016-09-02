@@ -19,7 +19,7 @@
 
         (1) __In general__ 
 
-        Subject to certification by the chair of the Federal Election Commission under subsection (b) of this section, the Standards Board shall be composed of 110 members as follows:
+        Subject to certification by the chair of the Federal Election Commission under subsection (b), the Standards Board shall be composed of 110 members as follows:
 
             (A) Fifty-five shall be State election officials selected by the chief State election official of each State.
 
@@ -41,7 +41,7 @@
 
             (A) the name of the State election official who agrees to serve on the Standards Board under this subchapter; and
 
-            (B) the name of the representative local election official from the State selected under subsection (a)(2) of this section who agrees to serve on the Standards Board under this subchapter.
+            (B) the name of the representative local election official from the State selected under subsection (a)(2) who agrees to serve on the Standards Board under this subchapter.
 
         (2) __Certification__ 
 
@@ -49,7 +49,7 @@
 
         (3) __Effect of failure to provide notice__ 
 
-            If a State does not transmit a notice to the chair of the Federal Election Commission under paragraph (1) within the deadline described in such paragraph, no representative from the State may participate in the selection of the initial Executive Board under subsection (c) of this section.
+            If a State does not transmit a notice to the chair of the Federal Election Commission under paragraph (1) within the deadline described in such paragraph, no representative from the State may participate in the selection of the initial Executive Board under subsection (c).
 
         (4) __Role of Commission__ 
 
@@ -59,7 +59,7 @@
 
         (1) __In general__ 
 
-        Not later than 60 days after the last day on which the appointment of any of its members may be certified under subsection (b) of this section, the Standards Board shall select nine of its members to serve as the Executive Board of the Standards Board, of whom—
+        Not later than 60 days after the last day on which the appointment of any of its members may be certified under subsection (b), the Standards Board shall select nine of its members to serve as the Executive Board of the Standards Board, of whom—
 
             (A) not more than five may be State election officials;
 
@@ -91,7 +91,7 @@
 
  __Codification__ 
 
-    Section was formerly classified to [section 15343 of Title 42][/us/usc/t42/s15343], The Public Health and Welfare, prior to editorial reclassification and renumbering in Title 52, Voting and Elections.
+    Section was formerly classified to [section 15343 of Title 42][/us/usc/t42/s15343], The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
 ----------
 

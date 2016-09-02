@@ -15,7 +15,7 @@
 
 # Title 52—VOTING AND ELECTIONS
 
-Current through 113-145not128u1
+Current through 113–163not159
 
 <table>
 
@@ -161,7 +161,7 @@ Subtitle III—Federal Campaign Finance  </td>
 
     <td colspan="2"> 
 
-Disposition Table I  </td>
+Disposition Table  </td>
 
   </tr>
 
@@ -269,7 +269,7 @@ New Classification  </td>
 
     <td> 
 
-30101 note  </td>
+10101 note  </td>
 
   </tr>
 
@@ -281,7 +281,7 @@ New Classification  </td>
 
     <td> 
 
-30101 note  </td>
+10101 note  </td>
 
   </tr>
 
@@ -293,7 +293,7 @@ New Classification  </td>
 
     <td> 
 
-30101 note  </td>
+10101 note  </td>
 
   </tr>
 
@@ -305,7 +305,7 @@ New Classification  </td>
 
     <td> 
 
-30101 note  </td>
+10101 note  </td>
 
   </tr>
 
@@ -317,7 +317,7 @@ New Classification  </td>
 
     <td> 
 
-30101 note  </td>
+10101 note  </td>
 
   </tr>
 
@@ -697,18 +697,6 @@ New Classification  </td>
 
     <td> 
 
-438 note (Pub. L. 93–443, title II, § 209(a)(2), Oct. 15, 1974, 88 Stat. 1287)  </td>
-
-    <td> 
-
-30111 note  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> 
-
 438a  </td>
 
     <td> 
@@ -1025,7 +1013,7 @@ New Classification  </td>
 
     <td colspan="2"> 
 
-Disposition Table II  </td>
+Disposition Table  </td>
 
   </tr>
 
@@ -1729,18 +1717,6 @@ New Classification  </td>
 
     <td> 
 
-1973ff note (Pub. L. 111–383, div. A, title X, § 1075(d), Jan. 7, 2011, 124 Stat. 4372)  </td>
-
-    <td> 
-
-20301 note  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> 
-
 1973ff note (Pub. L. 111–84, div. A, title V, § 580(f), Oct. 28, 2009, 123 Stat. 2326)  </td>
 
     <td> 
@@ -1926,18 +1902,6 @@ New Classification  </td>
     <td> 
 
 20303  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> 
-
-1973ff–2 note (Pub. L. 111–383, div. A, title X, § 1075(d), Jan. 7, 2011, 124 Stat. 4372)  </td>
-
-    <td> 
-
-20303 note  </td>
 
   </tr>
 
@@ -2357,7 +2321,7 @@ New Classification  </td>
 
     <td> 
 
-20901 note  </td>
+10101 note  </td>
 
   </tr>
 

@@ -25,7 +25,7 @@
 
  __Codification__ 
 
-    Section was formerly classified to [section 454 of Title 2][/us/usc/t2/s454], The Congress, prior to editorial reclassification and renumbering in Title 52, Voting and Elections.
+    Section was formerly classified to [section 454 of Title 2][/us/usc/t2/s454], The Congress, prior to editorial reclassification and renumbering as this section.
 
  __Severability__ 
 

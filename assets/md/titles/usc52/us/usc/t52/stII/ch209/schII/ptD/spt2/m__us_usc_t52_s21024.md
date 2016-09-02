@@ -27,13 +27,13 @@
 
     (b) __Availability__ 
 
-        Any amounts appropriated pursuant to the authority of subsection (a) of this section shall remain available without fiscal year limitation until expended.
+        Any amounts appropriated pursuant to the authority of subsection (a) shall remain available without fiscal year limitation until expended.
 
 ([Pub. L. 107–252, title II, § 264][/us/pl/107/252/s264], Oct. 29, 2002, [116 Stat. 1699][/us/stat/116/1699].)
 
  __Codification__ 
 
-    Section was formerly classified to [section 15424 of Title 42][/us/usc/t42/s15424], The Public Health and Welfare, prior to editorial reclassification and renumbering in Title 52, Voting and Elections.
+    Section was formerly classified to [section 15424 of Title 42][/us/usc/t42/s15424], The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
 ----------
 

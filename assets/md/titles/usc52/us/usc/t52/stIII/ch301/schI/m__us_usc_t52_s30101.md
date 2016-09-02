@@ -305,7 +305,7 @@
 
  __Codification__ 
 
-    Section was formerly classified to [section 431 of Title 2][/us/usc/t2/s431], The Congress, prior to editorial reclassification and renumbering in Title 52, Voting and Elections. Any notes below for amendments to this section prior to 2013 reflect the former classification of this section.
+    Section was formerly classified to [section 431 of Title 2][/us/usc/t2/s431], The Congress, prior to editorial reclassification and renumbering as this section. Some section numbers referenced in amendment notes below reflect the classification of such sections prior to their editorial reclassification to this title.
 
  __Amendments__ 
 
@@ -401,7 +401,7 @@
 
 >                 “(ii)  __Prohibition on using soft money for hard money expenses, debts, and obligations__  __.—__ 
 
->                 A national committee of a political party may not use the amount described in subparagraph (A) for any expenditure (as defined in section 301(9) of the Federal Election Campaign Act of 1971 (\[former\] [2 U.S.C. 431(9)][/us/usc/t2/s431/9] \[now [52 U.S.C. 30101(9)][/us/usc/t52/s30101/9]\])) or for retiring outstanding debts or obligations that were incurred for such an expenditure.
+>                 A national committee of a political party may not use the amount described in subparagraph (A) for any expenditure (as defined in section 301(9) of the Federal Election Campaign Act of 1971 ([2 U.S.C. 431(9)][/us/usc/t2/s431/9]) \[now [52 U.S.C. 30101(9)][/us/usc/t52/s30101/9]\]) or for retiring outstanding debts or obligations that were incurred for such an expenditure.
 
 >                 “(iii)  __Prohibition of building fund uses__  __.—__ 
 
@@ -441,13 +441,13 @@
 
 >     “(c)
 
->         (1) The amendments made by sections 403(a), 404, 405, 406, 408, and 409 \[enacting sections 9031 to 9042 of Title 26, Internal Revenue Code, amending sections 276, 9002, 9003, 9004, 9005, 9006, 9007, 9008, 9009, 9010, 9011, and 9012 of Title 26, and repealing [section 9021 of Title 26][/us/usc/t26/s9021]\] shall apply with respect to taxable years beginning after December 31, 1974.
+>         (1) The amendments made by sections 403(a), 404, 405, 406, 408, and 409 \[enacting sections 9031 to 9042, amending sections 276, 9002, 9003, 9004, 9005, 9006, 9007, 9008, 9009, 9010, 9011, and 9012, and repealing [section 9021 of Title 26][/us/usc/t26/s9021], Internal Revenue Code\] shall apply with respect to taxable years beginning after December 31, 1974.
 
 >         “(2) The amendment made by section 407 \[amending [section 6012 of Title 26][/us/usc/t26/s6012]\] shall apply with respect to taxable years beginning after December 31, 1971.”
 
  __Effective Date__ 
 
-[Pub. L. 92–225, title IV, § 406][/us/pl/92/225/s406], Feb. 7, 1972, [86 Stat. 20][/us/stat/86/20], renumbered § 408, [Pub. L. 93–443, title III, § 302][/us/pl/93/443/s302], Oct. 15, 1974, [88 Stat. 1289][/us/stat/88/1289], provided that: 
+[Pub. L. 92–225, title IV, § 408][/us/pl/92/225/s408], formerly § 406, Feb. 7, 1972, [86 Stat. 20][/us/stat/86/20], as renumbered § 408 by [Pub. L. 93–443, title III, § 302][/us/pl/93/443/s302], Oct. 15, 1974, [88 Stat. 1289][/us/stat/88/1289], provided that: 
 
 > “Except as provided in section 401 of this Act \[[section 30141 of this title][/us/usc/t52/s30141]\], the provisions of this Act \[see Tables for classification\] shall become effective on December 31, 1971, or sixty days after the date of enactment of this Act \[Feb. 7, 1972\], whichever is later.”
 
@@ -465,7 +465,7 @@
 
  __Study and Report on Clean Money Clean Elections Laws__ 
 
-    [Pub. L. 107–155, title III, § 310][/us/pl/107/155/s310], Mar. 27, 2002, [116 Stat. 104][/us/stat/116/104], required the Comptroller General of the United States to study public financing of election campaigns under the clean money clean elections laws of Arizona and Maine and to submit a report to Congress detailing the results of the study no later than 1 year after Mar. 27, 2002.
+    [Pub. L. 107–155, title III, § 310][/us/pl/107/155/s310], Mar. 27, 2002, [116 Stat. 104][/us/stat/116/104], related to a study and report on clean money clean elections laws in Arizona and Maine.
 
  __Voting System Study; Report to Congress; Cost of Study__ 
 
@@ -571,7 +571,7 @@
 [/us/usc/t52/s30143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs30143
 [/us/usc/t26/s9021]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs9021
 [/us/usc/t26/s6012]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6012
-[/us/pl/92/225/s406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F225%2Fs406
+[/us/pl/92/225/s408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F225%2Fs408
 [/us/stat/86/20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F20
 [/us/pl/93/443/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F443%2Fs302
 [/us/stat/88/1289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1289

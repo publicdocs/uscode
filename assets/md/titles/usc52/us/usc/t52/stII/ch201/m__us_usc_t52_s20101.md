@@ -21,11 +21,11 @@
 
  __Codification__ 
 
-    Section was formerly classified to [section 1973ee of Title 42][/us/usc/t42/s1973ee], The Public Health and Welfare, prior to editorial reclassification and renumbering in Title 52, Voting and Elections.
+    Section was formerly classified to [section 1973ee of Title 42][/us/usc/t42/s1973ee], The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
  __Effective Date__ 
 
-[Pub. L. 98–435, § 9][/us/pl/98/435/s9], Sept. 28, 1984, [98 Stat. 1680][/us/stat/98/1680] provided that: 
+[Pub. L. 98–435, § 9][/us/pl/98/435/s9], Sept. 28, 1984, [98 Stat. 1680][/us/stat/98/1680], provided that: 
 
 > “This Act \[enacting this chapter\] shall apply with respect to elections taking place after December 31, 1985.”
 

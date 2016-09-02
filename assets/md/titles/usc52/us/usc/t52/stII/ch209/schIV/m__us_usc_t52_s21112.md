@@ -27,7 +27,7 @@
 
             (A) The procedures shall be uniform and nondiscriminatory.
 
-            (B) Under the procedures, any person who believes that there is a violation of any provision of subchapter III of this chapter (including a violation which has occurred, is occurring, or is about to occur) may file a complaint.
+            (B) Under the procedures, any person who believes that there is a violation of any provision of subchapter III (including a violation which has occurred, is occurring, or is about to occur) may file a complaint.
 
             (C) Any complaint filed under the procedures shall be in writing and notarized, and signed and sworn by the person filing the complaint.
 
@@ -35,7 +35,7 @@
 
             (E) At the request of the complainant, there shall be a hearing on the record.
 
-            (F) If, under the procedures, the State determines that there is a violation of any provision of subchapter III of this chapter, the State shall provide the appropriate remedy.
+            (F) If, under the procedures, the State determines that there is a violation of any provision of subchapter III, the State shall provide the appropriate remedy.
 
             (G) If, under the procedures, the State determines that there is no violation, the State shall dismiss the complaint and publish the results of the procedures.
 
@@ -49,13 +49,13 @@
 
         Not later than January 1, 2004, each nonparticipating State shall elect—
 
-            (A) to certify to the Commission that the State meets the requirements of subsection (a) of this section in the same manner as a State receiving a payment under this chapter; or
+            (A) to certify to the Commission that the State meets the requirements of subsection (a) in the same manner as a State receiving a payment under this chapter; or
 
-            (B) to submit a compliance plan to the Attorney General which provides detailed information on the steps the State will take to ensure that it meets the requirements of subchapter III of this chapter.
+            (B) to submit a compliance plan to the Attorney General which provides detailed information on the steps the State will take to ensure that it meets the requirements of subchapter III.
 
         (2) __States without approved plan deemed out of compliance__ 
 
-            A nonparticipating State (other than a State which makes the election described in paragraph (1)(A)) shall be deemed to not meet the requirements of subchapter III of this chapter if the Attorney General has not approved a compliance plan submitted by the State under this subsection.
+            A nonparticipating State (other than a State which makes the election described in paragraph (1)(A)) shall be deemed to not meet the requirements of subchapter III if the Attorney General has not approved a compliance plan submitted by the State under this subsection.
 
         (3) __Nonparticipating State defined__ 
 
@@ -67,11 +67,11 @@
 
     This chapter, referred to in subsecs. (a)(1) and (b)(1)(A), (3), was in the original “this Act”, meaning [Pub. L. 107–252][/us/pl/107/252], Oct. 29, 2002, [116 Stat. 1666][/us/stat/116/1666], known as the Help America Vote Act of 2002, which is classified principally to this chapter. For complete classification of this Act to the Code, see Tables.
 
-    Subchapter III of this chapter, referred to in subsecs. (a)(2)(B), (F) and (b)(1)(B), (2), was in the original “title III”, meaning title III of [Pub. L. 107–252][/us/pl/107/252], Oct. 29, 2002, [116 Stat. 1704][/us/stat/116/1704], which is classified principally to subchapter III (§ 21081 et seq.) of this chapter. For complete classification of title III to the Code, see Tables.
+    Subchapter III, referred to in subsecs. (a)(2)(B), (F) and (b)(1)(B), (2), was in the original “title III”, meaning title III of [Pub. L. 107–252][/us/pl/107/252], Oct. 29, 2002, [116 Stat. 1704][/us/stat/116/1704], which is classified principally to subchapter III (§ 21081 et seq.) of this chapter. For complete classification of title III to the Code, see Tables.
 
  __Codification__ 
 
-    Section was formerly classified to [section 15512 of Title 42][/us/usc/t42/s15512], The Public Health and Welfare, prior to editorial reclassification and renumbering in Title 52, Voting and Elections.
+    Section was formerly classified to [section 15512 of Title 42][/us/usc/t42/s15512], The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
 ----------
 

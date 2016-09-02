@@ -35,7 +35,7 @@
 
  __Codification__ 
 
-    Section was formerly classified to [section 438a of Title 2][/us/usc/t2/s438a], The Congress, prior to editorial reclassification and renumbering in Title 52, Voting and Elections.
+    Section was formerly classified to [section 438a of Title 2][/us/usc/t2/s438a], The Congress, prior to editorial reclassification and renumbering as this section.
 
     Section was enacted as part of the Bipartisan Campaign Reform Act of 2002, and not as a part of the Federal Election Campaign Act of 1971 which comprises this chapter.
 

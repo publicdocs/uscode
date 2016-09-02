@@ -29,7 +29,7 @@
 
     (b) __Duties of State officers__ 
 
-    The Secretary of State (or equivalent State officer), or the officer designated under subsection (a)(1) of this section, shall—
+    The Secretary of State (or equivalent State officer), or the officer designated under subsection (a)(1), shall—
 
         (1) receive and maintain in an orderly manner all reports and statements required by this Act to be filed therewith;
 
@@ -41,7 +41,7 @@
 
     (c) __Waiver; electronic access__ 
 
-        Subsections (a) and (b) of this section shall not apply with respect to any State that, as determined by the Commission, has a system that permits electronic access to, and duplication of, reports and statements that are filed with the Commission.
+        Subsections (a) and (b) shall not apply with respect to any State that, as determined by the Commission, has a system that permits electronic access to, and duplication of, reports and statements that are filed with the Commission.
 
 ([Pub. L. 92–225, title III, § 312][/us/pl/92/225/s312], formerly § 309, Feb. 7, 1972, [86 Stat. 18][/us/stat/86/18]; renumbered § 317 and amended [Pub. L. 93–443, title II, § 208(a)][/us/pl/93/443/s208/a], (c)(11), Oct. 15, 1974, [88 Stat. 1279][/us/stat/88/1279], 1287; renumbered § 316, [Pub. L. 94–283, title I, § 105][/us/pl/94/283/s105], May 11, 1976, [90 Stat. 481][/us/stat/90/481]; renumbered § 312 and amended [Pub. L. 96–187, title I][/us/pl/96/187], §§ 105(4), 110, Jan. 8, 1980, [93 Stat. 1354][/us/stat/93/1354], 1364; [Pub. L. 104–79, § 2][/us/pl/104/79/s2], Dec. 28, 1995, [109 Stat. 791][/us/stat/109/791].)
 
@@ -51,13 +51,13 @@
 
  __Codification__ 
 
-    Section was formerly classified to [section 439 of Title 2][/us/usc/t2/s439], The Congress, prior to editorial reclassification and renumbering in Title 52, Voting and Elections. Any notes below for amendments to this section prior to 2013 reflect the former classification of this section.
+    Section was formerly classified to [section 439 of Title 2][/us/usc/t2/s439], The Congress, prior to editorial reclassification and renumbering as this section.
 
  __Prior Provisions__ 
 
-    A prior [section 312 of Pub. L. 92–225][/us/pl/92/225/s312] was renumbered section 308, and is classified to [section 30113 of this title][/us/usc/t52/s30113].
+    A prior [section 312 of Pub. L. 92–225][/us/pl/92/225/s312] was renumbered section 308, and is classified to [section 30108 of this title][/us/usc/t52/s30108].
 
-    Another prior [section 312 of Pub. L. 92–225][/us/pl/92/225/s312] was renumbered section 311, and was classified to [section 437e of Title 2][/us/usc/t2/s437e], The Congress, prior to repeal by [Pub. L. 96–187][/us/pl/96/187] and subsequent reclassification and renumbering as [section 30112 of this title][/us/usc/t52/s30112].
+    Another prior [section 312 of Pub. L. 92–225][/us/pl/92/225/s312] was renumbered section 311, and was classified to [section 437e of Title 2][/us/usc/t2/s437e], The Congress, prior to repeal by [Pub. L. 96–187][/us/pl/96/187].
 
  __Amendments__ 
 
@@ -97,11 +97,10 @@
 [/us/usc/t52/s30101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs30101
 [/us/usc/t2/s439]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs439
 [/us/pl/92/225/s312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F225%2Fs312
-[/us/usc/t52/s30113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs30113
+[/us/usc/t52/s30108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs30108
 [/us/pl/92/225/s312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F225%2Fs312
 [/us/usc/t2/s437e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs437e
 [/us/pl/96/187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F187
-[/us/usc/t52/s30112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs30112
 [/us/pl/104/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F79
 [/us/pl/96/187/s110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F187%2Fs110
 [/us/pl/96/187/s110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F187%2Fs110

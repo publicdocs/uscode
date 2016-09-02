@@ -43,7 +43,7 @@
 
     (c) __Preventive relief; injunction; rebuttable literacy presumption; liability of United States for costs; State as party defendant__ 
 
-        Whenever any person has engaged or there are reasonable grounds to believe that any person is about to engage in any act or practice which would deprive any other person of any right or privilege secured by subsection (a) or (b) of this section, the Attorney General may institute for the United States, or in the name of the United States, a civil action or other proper proceeding for preventive relief, including an application for a permanent or temporary injunction, restraining order, or other order. If in any such proceeding literacy is a relevant fact there shall be a rebuttable presumption that any person who has not been adjudged an incompetent and who has completed the sixth grade in a public school in, or a private school accredited by, any State or territory, the District of Columbia, or the Commonwealth of Puerto Rico where instruction is carried on predominantly in the English language, possesses sufficient literacy, comprehension, and intelligence to vote in any election. In any proceeding hereunder the United States shall be liable for costs the same as a private person. Whenever, in a proceeding instituted under this subsection any official of a State or subdivision thereof is alleged to have committed any act or practice constituting a deprivation of any right or privilege secured by subsection (a) of this section, the act or practice shall also be deemed that of the State and the State may be joined as a party defendant and, if, prior to the institution of such proceeding, such official has resigned or has been relieved of his office and no successor has assumed such office, the proceeding may be instituted against the State.
+        Whenever any person has engaged or there are reasonable grounds to believe that any person is about to engage in any act or practice which would deprive any other person of any right or privilege secured by subsection (a) or (b), the Attorney General may institute for the United States, or in the name of the United States, a civil action or other proper proceeding for preventive relief, including an application for a permanent or temporary injunction, restraining order, or other order. If in any such proceeding literacy is a relevant fact there shall be a rebuttable presumption that any person who has not been adjudged an incompetent and who has completed the sixth grade in a public school in, or a private school accredited by, any State or territory, the District of Columbia, or the Commonwealth of Puerto Rico where instruction is carried on predominantly in the English language, possesses sufficient literacy, comprehension, and intelligence to vote in any election. In any proceeding hereunder the United States shall be liable for costs the same as a private person. Whenever, in a proceeding instituted under this subsection any official of a State or subdivision thereof is alleged to have committed any act or practice constituting a deprivation of any right or privilege secured by subsection (a), the act or practice shall also be deemed that of the State and the State may be joined as a party defendant and, if, prior to the institution of such proceeding, such official has resigned or has been relieved of his office and no successor has assumed such office, the proceeding may be instituted against the State.
 
     (d) __Jurisdiction; exhaustion of other remedies__ 
 
@@ -51,7 +51,7 @@
 
     (e) __Order qualifying person to vote; application; hearing; voting referees; transmittal of report and order; certificate of qualification; definitions__ 
 
-        In any proceeding instituted pursuant to subsection (c) of this section in the event the court finds that any person has been deprived on account of race or color of any right or privilege secured by subsection (a) of this section, the court shall upon request of the Attorney General and after each party has been given notice and the opportunity to be heard make a finding whether such deprivation was or is pursuant to a pattern or practice. If the court finds such pattern or practice, any person of such race or color resident within the affected area shall, for one year and thereafter until the court subsequently finds that such pattern or practice has ceased, be entitled, upon his application therefor, to an order declaring him qualified to vote, upon proof that at any election or elections (1) he is qualified under State law to vote, and (2) he has since such finding by the court been (a) deprived of or denied under color of law the opportunity to register to vote or otherwise to qualify to vote, or (b) found not qualified to vote by any person acting under color of law. Such order shall be effective as to any election held within the longest period for which such applicant could have been registered or otherwise qualified under State law at which the applicant’s qualifications would under State law entitle him to vote.
+        In any proceeding instituted pursuant to subsection (c) in the event the court finds that any person has been deprived on account of race or color of any right or privilege secured by subsection (a), the court shall upon request of the Attorney General and after each party has been given notice and the opportunity to be heard make a finding whether such deprivation was or is pursuant to a pattern or practice. If the court finds such pattern or practice, any person of such race or color resident within the affected area shall, for one year and thereafter until the court subsequently finds that such pattern or practice has ceased, be entitled, upon his application therefor, to an order declaring him qualified to vote, upon proof that at any election or elections (1) he is qualified under State law to vote, and (2) he has since such finding by the court been (a) deprived of or denied under color of law the opportunity to register to vote or otherwise to qualify to vote, or (b) found not qualified to vote by any person acting under color of law. Such order shall be effective as to any election held within the longest period for which such applicant could have been registered or otherwise qualified under State law at which the applicant’s qualifications would under State law entitle him to vote.
 
         Notwithstanding any inconsistent provision of State law or the action of any State officer or court, an applicant so declared qualified to vote shall be permitted to vote in any such election. The Attorney General shall cause to be transmitted certified copies of such order to the appropriate election officers. The refusal by any such officer with notice of such order to permit any person so declared qualified to vote to vote at an appropriate election shall constitute contempt of court.
 
@@ -67,7 +67,7 @@
 
         Applications pursuant to this subsection shall be determined expeditiously. In the case of any application filed twenty or more days prior to an election which is undetermined by the time of such election, the court shall issue an order authorizing the applicant to vote provisionally: Provided, however, That such applicant shall be qualified to vote under State law. In the case of an application filed within twenty days prior to an election, the court, in its discretion, may make such an order. In either case the order shall make appropriate provision for the impounding of the applicant’s ballot pending determination of the application. The court may take any other action, and may authorize such referee or such other person as it may designate to take any other action, appropriate or necessary to carry out the provisions of this subsection and to enforce its decrees. This subsection shall in no way be construed as a limitation upon the existing powers of the court.
 
-        When used in the subsection, the word “vote” includes all action necessary to make a vote effective including, but not limited to, registration or other action required by State law prerequisite to voting, casting a ballot, and having such ballot counted and included in the appropriate totals of votes cast with respect to candidates for public office and propositions for which votes are received in an election; the words “affected area” shall mean any subdivision of the State in which the laws of the State relating to voting are or have been to any extent administered by a person found in the proceeding to have violated subsection (a) of this section; and the words “qualified under State law” shall mean qualified according to the laws, customs, or usages of the State, and shall not, in any event, imply qualifications more stringent than those used by the persons found in the proceeding to have violated subsection (a) in qualifying persons other than those of the race or color against which the pattern or practice of discrimination was found to exist.
+        When used in the subsection, the word “vote” includes all action necessary to make a vote effective including, but not limited to, registration or other action required by State law prerequisite to voting, casting a ballot, and having such ballot counted and included in the appropriate totals of votes cast with respect to candidates for public office and propositions for which votes are received in an election; the words “affected area” shall mean any subdivision of the State in which the laws of the State relating to voting are or have been to any extent administered by a person found in the proceeding to have violated subsection (a); and the words “qualified under State law” shall mean qualified according to the laws, customs, or usages of the State, and shall not, in any event, imply qualifications more stringent than those used by the persons found in the proceeding to have violated subsection (a) in qualifying persons other than those of the race or color against which the pattern or practice of discrimination was found to exist.
 
     (f) __Contempt; assignment of counsel; witnesses__ 
 
@@ -93,7 +93,7 @@
 
  __Codification__ 
 
-    Section was formerly classified to [section 1971 of Title 42][/us/usc/t42/s1971], The Public Health and Welfare, prior to editorial reclassification and renumbering in Title 52, Voting and Elections. Section was also formerly classified to [section 31 of Title 8][/us/usc/t8/s31], Aliens and Nationality. Any notes below for amendments to this section prior to 2013 reflect the former classification of this section.
+    Section was formerly classified to [section 1971 of Title 42][/us/usc/t42/s1971], The Public Health and Welfare, prior to editorial reclassification and renumbering as this section, and to [section 31 of Title 8][/us/usc/t8/s31], Aliens and Nationality.
 
     R.S. § 2004 derived from [act May 31, 1870, ch. 114, § 1][/us/act/1870-05-31/ch114/s1], [16 Stat. 140][/us/stat/16/140].
 
@@ -173,7 +173,7 @@
 
  __Short Title of 1980 Act__ 
 
-[Pub. L. 96–187, § 1][/us/pl/96/187/s1], Jan. 8, 1980, [93 Stat. 1339][/us/stat/93/1339], provided: 
+[Pub. L. 96–187][/us/pl/96/187], Jan. 8, 1980, [93 Stat. 1339][/us/stat/93/1339], provided in part: 
 
 > “That this Act \[see Tables for classification\] may be cited as the ‘Federal Election Campaign Act Amendments of 1979’.”
 
@@ -189,13 +189,13 @@
 
  __Short Title of 1974 Act__ 
 
-[Pub. L. 93–443, § 1][/us/pl/93/443/s1], Oct. 15, 1974, [88 Stat. 1263][/us/stat/88/1263], provided: 
+[Pub. L. 93–443][/us/pl/93/443], Oct. 15, 1974, [88 Stat. 1263][/us/stat/88/1263], provided in part: 
 
 > “That this Act \[see Tables for classification\] may be cited as the ‘Federal Election Campaign Act Amendments of 1974’.”
 
  __Short Title of 1972 Act__ 
 
-[Pub. L. 92–225, § 1][/us/pl/92/225/s1], Feb. 7, 1972, [86 Stat. 3][/us/stat/86/3], provided: 
+[Pub. L. 92–225][/us/pl/92/225], Feb. 7, 1972, [86 Stat. 3][/us/stat/86/3], provided in part: 
 
 > “That this Act \[see Tables for classification\] may be cited as the ‘Federal Election Campaign Act of 1971’.”
 
@@ -231,7 +231,7 @@
 
 [Pub. L. 86–449, title VII, § 701][/us/pl/86/449/s701], May 6, 1960, [74 Stat. 92][/us/stat/74/92], provided that: 
 
-> “If any provisions of this Act \[see Short Title note above\] is held invalid, the remainder of this Act shall not be affected thereby.”
+> “If any provisions of this Act \[see Short Title of 1960 Act note above\] is held invalid, the remainder of this Act shall not be affected thereby.”
 
  __Voter Registration Drives__ 
 
@@ -304,7 +304,7 @@
 [/us/stat/98/1678]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1678
 [/us/pl/97/205/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F205%2Fs1
 [/us/stat/96/131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F131
-[/us/pl/96/187/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F187%2Fs1
+[/us/pl/96/187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F187
 [/us/stat/93/1339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F1339
 [/us/pl/94/283/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F283%2Fs1
 [/us/stat/90/475]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F475
@@ -313,9 +313,9 @@
 [/us/pl/94/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F203
 [/us/pl/99/410/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F410%2Fs203
 [/us/stat/100/930]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F930
-[/us/pl/93/443/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F443%2Fs1
+[/us/pl/93/443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F443
 [/us/stat/88/1263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1263
-[/us/pl/92/225/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F225%2Fs1
+[/us/pl/92/225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F225
 [/us/stat/86/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F3
 [/us/pl/91/285/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F285%2Fs1
 [/us/stat/84/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F314

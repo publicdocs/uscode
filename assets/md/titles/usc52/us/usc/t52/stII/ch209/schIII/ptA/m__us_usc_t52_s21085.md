@@ -25,7 +25,7 @@
 
  __Codification__ 
 
-    Section was formerly classified to [section 15485 of Title 42][/us/usc/t42/s15485], The Public Health and Welfare, prior to editorial reclassification and renumbering in Title 52, Voting and Elections.
+    Section was formerly classified to [section 15485 of Title 42][/us/usc/t42/s15485], The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
 ----------
 

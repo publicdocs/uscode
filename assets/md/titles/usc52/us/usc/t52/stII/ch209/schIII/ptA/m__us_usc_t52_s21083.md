@@ -49,17 +49,17 @@
 
             The appropriate State or local election official shall perform list maintenance with respect to the computerized list on a regular basis as follows:
 
-                (i) If an individual is to be removed from the computerized list, such individual shall be removed in accordance with the provisions of the National Voter Registration Act of 1993 (\[former\] [42 U.S.C. 1973gg][/us/usc/t42/s1973gg] et seq.) \[now [52 U.S.C. 20501][/us/usc/t52/s20501] et seq.\], including subsections (a)(4), (c)(2), (d), and (e) of section 8 of such Act (\[former\] [42 U.S.C. 1973gg–6][/us/usc/t42/s1973gg–6]) \[now [52 U.S.C. 20507][/us/usc/t52/s20507]\].
+                (i) If an individual is to be removed from the computerized list, such individual shall be removed in accordance with the provisions of the National Voter Registration Act of 1993 ([42 U.S.C. 1973gg][/us/usc/t42/s1973gg] et seq.) \[now [52 U.S.C. 20501][/us/usc/t52/s20501] et seq.\], including subsections (a)(4), (c)(2), (d), and (e) of section 8 of such Act ([42 U.S.C. 1973gg–6][/us/usc/t42/s1973gg–6]) \[now [52 U.S.C. 20507][/us/usc/t52/s20507]\].
 
                 (ii)
 
                  For purposes of removing names of ineligible voters from the official list of eligible voters—
 
-                    (I) under section 8(a)(3)(B) of such Act (\[former\] [42 U.S.C. 1973gg–6(a)(3)(B)][/us/usc/t42/s1973gg–6/a/3/B]) \[now [52 U.S.C. 20507(a)(3)(B)][/us/usc/t52/s20507/a/3/B]\], the State shall coordinate the computerized list with State agency records on felony status; and
+                    (I) under section 8(a)(3)(B) of such Act ([42 U.S.C. 1973gg–6(a)(3)(B)][/us/usc/t42/s1973gg–6/a/3/B]) \[now [52 U.S.C. 20507(a)(3)(B)][/us/usc/t52/s20507/a/3/B]\], the State shall coordinate the computerized list with State agency records on felony status; and
 
-                    (II) by reason of the death of the registrant under section 8(a)(4)(A) of such Act (\[former\] [42 U.S.C. 1973gg–6(a)(4)(A)][/us/usc/t42/s1973gg–6/a/4/A]) \[now [52 U.S.C. 20507(a)(4)(A)][/us/usc/t52/s20507/a/4/A]\], the State shall coordinate the computerized list with State agency records on death.
+                    (II) by reason of the death of the registrant under section 8(a)(4)(A) of such Act ([42 U.S.C. 1973gg–6(a)(4)(A)][/us/usc/t42/s1973gg–6/a/4/A]) \[now [52 U.S.C. 20507(a)(4)(A)][/us/usc/t52/s20507/a/4/A]\], the State shall coordinate the computerized list with State agency records on death.
 
-                (iii) Notwithstanding the preceding provisions of this subparagraph, if a State is described in section 4(b) of the National Voter Registration Act of 1993 (\[former\] [42 U.S.C. 1973gg–2(b)][/us/usc/t42/s1973gg–2/b]) \[now [52 U.S.C. 20503(b)][/us/usc/t52/s20503/b]\], that State shall remove the names of ineligible voters from the computerized list in accordance with State law.
+                (iii) Notwithstanding the preceding provisions of this subparagraph, if a State is described in section 4(b) of the National Voter Registration Act of 1993 ([42 U.S.C. 1973gg–2(b)][/us/usc/t42/s1973gg–2/b]) \[now [52 U.S.C. 20503(b)][/us/usc/t52/s20503/b]\], that State shall remove the names of ineligible voters from the computerized list in accordance with State law.
 
             (B) __Conduct__ 
 
@@ -79,7 +79,7 @@
 
         The State election system shall include provisions to ensure that voter registration records in the State are accurate and are updated regularly, including the following:
 
-            (A) A system of file maintenance that makes a reasonable effort to remove registrants who are ineligible to vote from the official list of eligible voters. Under such system, consistent with the National Voter Registration Act of 1993 (\[former\] [42 U.S.C. 1973gg][/us/usc/t42/s1973gg] et seq.) \[now [52 U.S.C. 20501][/us/usc/t52/s20501] et seq.\], registrants who have not responded to a notice and who have not voted in 2 consecutive general elections for Federal office shall be removed from the official list of eligible voters, except that no registrant may be removed solely by reason of a failure to vote.
+            (A) A system of file maintenance that makes a reasonable effort to remove registrants who are ineligible to vote from the official list of eligible voters. Under such system, consistent with the National Voter Registration Act of 1993 ([42 U.S.C. 1973gg][/us/usc/t42/s1973gg] et seq.) \[now [52 U.S.C. 20501][/us/usc/t52/s20501] et seq.\], registrants who have not responded to a notice and who have not voted in 2 consecutive general elections for Federal office shall be removed from the official list of eligible voters, except that no registrant may be removed solely by reason of a failure to vote.
 
             (B) Safeguards to ensure that eligible voters are not removed in error from the official list of eligible voters.
 
@@ -123,7 +123,7 @@
 
         (1) __In general__ 
 
-        Notwithstanding section 6(c) of the National Voter Registration Act of 1993 (\[former\] [42 U.S.C. 1973gg–4(c)][/us/usc/t42/s1973gg–4/c]) \[now [52 U.S.C. 20505(c)][/us/usc/t52/s20505/c]\] and subject to paragraph (3), a State shall, in a uniform and nondiscriminatory manner, require an individual to meet the requirements of paragraph (2) if—
+        Notwithstanding section 6(c) of the National Voter Registration Act of 1993 ([42 U.S.C. 1973gg–4(c)][/us/usc/t42/s1973gg–4/c]) \[now [52 U.S.C. 20505(c)][/us/usc/t52/s20505/c]\] and subject to paragraph (3), a State shall, in a uniform and nondiscriminatory manner, require an individual to meet the requirements of paragraph (2) if—
 
             (A) the individual registered to vote in a jurisdiction by mail; and
 
@@ -131,7 +131,7 @@
 
                 (i) the individual has not previously voted in an election for Federal office in the State; or
 
-                (ii) the individual has not previously voted in such an election in the jurisdiction and the jurisdiction is located in a State that does not have a computerized list that complies with the requirements of subsection (a) of this section.
+                (ii) the individual has not previously voted in such an election in the jurisdiction and the jurisdiction is located in a State that does not have a computerized list that complies with the requirements of subsection (a).
 
         (2) __Requirements__ 
 
@@ -171,7 +171,7 @@
 
             (A)
 
-             who registers to vote by mail under section 6 of the National Voter Registration Act of 1993 (\[former\] [42 U.S.C. 1973gg–4][/us/usc/t42/s1973gg–4]) \[now [52 U.S.C. 20505][/us/usc/t52/s20505]\] and submits as part of such registration either—
+             who registers to vote by mail under section 6 of the National Voter Registration Act of 1993 ([42 U.S.C. 1973gg–4][/us/usc/t42/s1973gg–4]) \[now [52 U.S.C. 20505][/us/usc/t52/s20505]\] and submits as part of such registration either—
 
                 (i) a copy of a current and valid photo identification; or
 
@@ -181,7 +181,7 @@
 
                 (i)
 
-                 who registers to vote by mail under section 6 of the National Voter Registration Act of 1993 (\[former\] [42 U.S.C. 1973gg–4][/us/usc/t42/s1973gg–4]) \[now [52 U.S.C. 20505][/us/usc/t52/s20505]\] and submits with such registration either—
+                 who registers to vote by mail under section 6 of the National Voter Registration Act of 1993 ([42 U.S.C. 1973gg–4][/us/usc/t42/s1973gg–4]) \[now [52 U.S.C. 20505][/us/usc/t52/s20505]\] and submits with such registration either—
 
                     (I) a driver’s license number; or
 
@@ -203,7 +203,7 @@
 
             (A) __In general__ 
 
-            The mail voter registration form developed under section 6 of the National Voter Registration Act of 1993 (\[former\] [42 U.S.C. 1973gg–4][/us/usc/t42/s1973gg–4]) \[now [52 U.S.C. 20505][/us/usc/t52/s20505]\] shall include the following:
+            The mail voter registration form developed under section 6 of the National Voter Registration Act of 1993 ([42 U.S.C. 1973gg–4][/us/usc/t42/s1973gg–4]) \[now [52 U.S.C. 20505][/us/usc/t52/s20505]\] shall include the following:
 
                 (i) The question “Are you a citizen of the United States of America?” and boxes for the applicant to check to indicate whether the applicant is or is not a citizen of the United States.
 
@@ -219,11 +219,11 @@
 
         (5) __Construction__ 
 
-            Nothing in this subsection shall be construed to require a State that was not required to comply with a provision of the National Voter Registration Act of 1993 (\[former\] [42 U.S.C. 1973gg][/us/usc/t42/s1973gg] et seq.) \[now [52 U.S.C. 20501][/us/usc/t52/s20501] et seq.\] before October 29, 2002, to comply with such a provision after October 29, 2002.
+            Nothing in this subsection shall be construed to require a State that was not required to comply with a provision of the National Voter Registration Act of 1993 ([42 U.S.C. 1973gg][/us/usc/t42/s1973gg] et seq.) \[now [52 U.S.C. 20501][/us/usc/t52/s20501] et seq.\] before October 29, 2002, to comply with such a provision after October 29, 2002.
 
     (c) __Permitted use of last 4 digits of social security numbers__ 
 
-        The last 4 digits of a social security number described in subsections (a)(5)(A)(i)(II) and (b)(3)(B)(i)(II) of this section shall not be considered to be a social security number for purposes of section 7 of the Privacy Act of 1974 ([5 U.S.C. 552a][/us/usc/t5/s552a] note).
+        The last 4 digits of a social security number described in subsections (a)(5)(A)(i)(II) and (b)(3)(B)(i)(II) shall not be considered to be a social security number for purposes of section 7 of the Privacy Act of 1974 ([5 U.S.C. 552a][/us/usc/t5/s552a] note).
 
     (d) __Effective date__ 
 
@@ -231,7 +231,7 @@
 
             (A) __In general__ 
 
-                Except as provided in subparagraph (B), each State and jurisdiction shall be required to comply with the requirements of subsection (a) of this section on and after January 1, 2004.
+                Except as provided in subparagraph (B), each State and jurisdiction shall be required to comply with the requirements of subsection (a) on and after January 1, 2004.
 
             (B) __Waiver__ 
 
@@ -241,11 +241,11 @@
 
             (A) __In general__ 
 
-                Each State and jurisdiction shall be required to comply with the requirements of subsection (b) of this section on and after January 1, 2004, and shall be prepared to receive registration materials submitted by individuals described in subparagraph (B) on and after the date described in such subparagraph.
+                Each State and jurisdiction shall be required to comply with the requirements of subsection (b) on and after January 1, 2004, and shall be prepared to receive registration materials submitted by individuals described in subparagraph (B) on and after the date described in such subparagraph.
 
             (B) __Applicability with respect to individuals__ 
 
-                The provisions of subsection (b) of this section shall apply to any individual who registers to vote on or after January 1, 2003.
+                The provisions of subsection (b) shall apply to any individual who registers to vote on or after January 1, 2003.
 
 ([Pub. L. 107–252, title III, § 303][/us/pl/107/252/s303], Oct. 29, 2002, [116 Stat. 1708][/us/stat/116/1708].)
 
@@ -259,7 +259,7 @@
 
  __Codification__ 
 
-    Section was formerly classified to [section 15483 of Title 42][/us/usc/t42/s15483], The Public Health and Welfare, prior to editorial reclassification and renumbering in Title 52, Voting and Elections.
+    Section was formerly classified to [section 15483 of Title 42][/us/usc/t42/s15483], The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
     Section is comprised of [section 303 of Pub. L. 107–252][/us/pl/107/252/s303]. Subsec. (a)(5)(C) of [section 303 of Pub. L. 107–252][/us/pl/107/252/s303] amended [section 405 of Title 42][/us/usc/t42/s405], The Public Health and Welfare.
 

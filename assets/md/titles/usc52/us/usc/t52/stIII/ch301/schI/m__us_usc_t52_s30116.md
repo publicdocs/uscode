@@ -19,7 +19,7 @@
 
         (1)
 
-         Except as provided in subsection (i) of this section and [section 30125 of this title][/us/usc/t52/s30125], no person shall make contributions—
+         Except as provided in subsection (i) and [section 30117 of this title][/us/usc/t52/s30117], no person shall make contributions—
 
             (A) to any candidate and his authorized political committees with respect to any election for Federal office which, in the aggregate, exceed $2,000;
 
@@ -87,7 +87,7 @@
 
          No candidate for the office of President of the United States who is eligible under [section 9003 of title 26][/us/usc/t26/s9003] (relating to condition for eligibility for payments) or under [section 9033 of title 26][/us/usc/t26/s9033] (relating to eligibility for payments) to receive payments from the Secretary of the Treasury may make expenditures in excess of—
 
-            (A) $10,000,000, in the case of a campaign for nomination for election to such office, except the aggregate of expenditures under this subparagraph in any one State shall not exceed the greater of 16 cents multiplied by the voting age population of the State (as certified under subsection (e) of this section), or $200,000; or
+            (A) $10,000,000, in the case of a campaign for nomination for election to such office, except the aggregate of expenditures under this subparagraph in any one State shall not exceed the greater of 16 cents multiplied by the voting age population of the State (as certified under subsection (e)), or $200,000; or
 
             (B) $20,000,000 in the case of a campaign for election to such office.
 
@@ -115,13 +115,13 @@
 
              Except as provided in subparagraph (C), in any calendar year after 2002—
 
-                (i) a limitation established by subsections (a)(1)(A), (a)(1)(B), (a)(3), (b), (d), or (h) of this section shall be increased by the percent difference determined under subparagraph (A);
+                (i) a limitation established by subsections (a)(1)(A), (a)(1)(B), (a)(3), (b), (d), or (h) shall be increased by the percent difference determined under subparagraph (A);
 
                 (ii) each amount so increased shall remain in effect for the calendar year; and
 
                 (iii) if any amount after adjustment under clause (i) is not a multiple of $100, such amount shall be rounded to the nearest multiple of $100.
 
-            (C) In the case of limitations under subsections (a)(1)(A), (a)(1)(B), (a)(3), and (h) of this section, increases shall only be made in odd-numbered years and such increases shall remain in effect for the 2-year period beginning on the first day following the date of the last general election in the year preceding the year in which the amount is increased and ending on the date of the next general election.
+            (C) In the case of limitations under subsections (a)(1)(A), (a)(1)(B), (a)(3), and (h), increases shall only be made in odd-numbered years and such increases shall remain in effect for the 2-year period beginning on the first day following the date of the last general election in the year preceding the year in which the amount is increased and ending on the date of the next general election.
 
         (2)
 
@@ -133,15 +133,15 @@
 
              the term “base period” means—
 
-                (i) for purposes of subsections (b) and (d) of this section, calendar year 1974; and
+                (i) for purposes of subsections (b) and (d), calendar year 1974; and
 
-                (ii) for purposes of subsections (a)(1)(A), (a)(1)(B), (a)(3), and (h) of this section, calendar year 2001.
+                (ii) for purposes of subsections (a)(1)(A), (a)(1)(B), (a)(3), and (h), calendar year 2001.
 
     (d) __Expenditures by national committee, State committee, or subordinate committee of State committee in connection with general election campaign of candidates for Federal office__ 
 
         (1) Notwithstanding any other provision of law with respect to limitations on expenditures or limitations on contributions, the national committee of a political party and a State committee of a political party, including any subordinate committee of a State committee, may make expenditures in connection with the general election campaign of candidates for Federal office, subject to the limitations contained in paragraphs (2), (3), and (4) of this subsection.
 
-        (2) The national committee of a political party may not make any expenditure in connection with the general election campaign of any candidate for President of the United States who is affiliated with such party which exceeds an amount equal to 2 cents multiplied by the voting age population of the United States (as certified under subsection (e) of this section). Any expenditure under this paragraph shall be in addition to any expenditure by a national committee of a political party serving as the principal campaign committee of a candidate for the office of President of the United States.
+        (2) The national committee of a political party may not make any expenditure in connection with the general election campaign of any candidate for President of the United States who is affiliated with such party which exceeds an amount equal to 2 cents multiplied by the voting age population of the United States (as certified under subsection (e)). Any expenditure under this paragraph shall be in addition to any expenditure by a national committee of a political party serving as the principal campaign committee of a candidate for the office of President of the United States.
 
         (3)
 
@@ -151,7 +151,7 @@
 
              in the case of a candidate for election to the office of Senator, or of Representative from a State which is entitled to only one Representative, the greater of—
 
-                (i) 2 cents multiplied by the voting age population of the State (as certified under subsection (e) of this section); or
+                (i) 2 cents multiplied by the voting age population of the State (as certified under subsection (e)); or
 
                 (ii) $20,000; and
 
@@ -197,7 +197,7 @@
 
             (A) __In general__ 
 
-                Subject to paragraph (2), if the opposition personal funds amount with respect to a candidate for election to the office of Senator exceeds the threshold amount, the limit under subsection (a)(1)(A) of this section (in this subsection referred to as the “applicable limit”) with respect to that candidate shall be the increased limit.
+                Subject to paragraph (2), if the opposition personal funds amount with respect to a candidate for election to the office of Senator exceeds the threshold amount, the limit under subsection (a)(1)(A) (in this subsection referred to as the “applicable limit”) with respect to that candidate shall be the increased limit.
 
             (B) __Threshold amount__ 
 
@@ -211,7 +211,7 @@
 
                 (ii) __Voting age population__ 
 
-                    In this subparagraph, the term “voting age population” means in the case of a candidate for the office of Senator, the voting age population of the State of the candidate (as certified under subsection (e) of this section).
+                    In this subparagraph, the term “voting age population” means in the case of a candidate for the office of Senator, the voting age population of the State of the candidate (as certified under subsection (e)).
 
             (C) __Increased limit__ 
 
@@ -223,7 +223,7 @@
 
                     (I) the increased limit shall be 3 times the applicable limit; and
 
-                    (II) the limit under subsection (a)(3) of this section shall not apply with respect to any contribution made with respect to a candidate if such contribution is made under the increased limit of subparagraph (A) during a period in which the candidate may accept such a contribution;
+                    (II) the limit under subsection (a)(3) shall not apply with respect to any contribution made with respect to a candidate if such contribution is made under the increased limit of subparagraph (A) during a period in which the candidate may accept such a contribution;
 
                 (ii)
 
@@ -231,7 +231,7 @@
 
                     (I) the increased limit shall be 6 times the applicable limit; and
 
-                    (II) the limit under subsection (a)(3) of this section shall not apply with respect to any contribution made with respect to a candidate if such contribution is made under the increased limit of subparagraph (A) during a period in which the candidate may accept such a contribution; and
+                    (II) the limit under subsection (a)(3) shall not apply with respect to any contribution made with respect to a candidate if such contribution is made under the increased limit of subparagraph (A) during a period in which the candidate may accept such a contribution; and
 
                 (iii)
 
@@ -239,9 +239,9 @@
 
                     (I) the increased limit shall be 6 times the applicable limit;
 
-                    (II) the limit under subsection (a)(3) of this section shall not apply with respect to any contribution made with respect to a candidate if such contribution is made under the increased limit of subparagraph (A) during a period in which the candidate may accept such a contribution; and
+                    (II) the limit under subsection (a)(3) shall not apply with respect to any contribution made with respect to a candidate if such contribution is made under the increased limit of subparagraph (A) during a period in which the candidate may accept such a contribution; and
 
-                    (III) the limits under subsection (d) of this section with respect to any expenditure by a State or national committee of a political party shall not apply.
+                    (III) the limits under subsection (d) with respect to any expenditure by a State or national committee of a political party shall not apply.
 
             (D) __Opposition personal funds amount__ 
 
@@ -301,19 +301,23 @@
 
     For effective date of the Bipartisan Campaign Reform Act of 2002, referred to in subsec. (j), see [section 402 of Pub. L. 107–155][/us/pl/107/155/s402], set out as an Effective Date of 2002 Amendment; Regulations note under [section 30101 of this title][/us/usc/t52/s30101].
 
+ __Constitutionality__ 
+
+For information regarding constitutionality of certain provisions of [section 315 of Pub. L. 92–225][/us/pl/92/225/s315], as added by [section 112(2) of Pub. L. 94–283][/us/pl/94/283/s112/2] and amended by [section 213 of Pub. L. 107–155][/us/pl/107/155/s213], see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Appendix 1, Acts of Congress Held Unconstitutional in Whole or in Part by the Supreme Court of the United States.
+
  __Codification__ 
 
-    Section was formerly classified to [section 441a of Title 2][/us/usc/t2/s441a], The Congress, prior to editorial reclassification and renumbering in Title 52, Voting and Elections. Any notes below for amendments to this section prior to 2013 reflect the former classification of this section.
+    Section was formerly classified to [section 441a of Title 2][/us/usc/t2/s441a], The Congress, prior to editorial reclassification and renumbering as this section. Some section numbers referenced in amendment notes below reflect the classification of such sections prior to their editorial reclassification to this title.
 
  __Prior Provisions__ 
 
-    A prior [section 315 of Pub. L. 92–225][/us/pl/92/225/s315] was renumbered section 311, and is classified to [section 30116 of this title][/us/usc/t52/s30116].
+    A prior [section 315 of Pub. L. 92–225][/us/pl/92/225/s315] was renumbered section 311, and is classified to [section 30111 of this title][/us/usc/t52/s30111].
 
-    Another prior [section 315 of Pub. L. 92–225][/us/pl/92/225/s315] was renumbered section 310, and is classified to [section 30115 of this title][/us/usc/t52/s30115].
+    Another prior [section 315 of Pub. L. 92–225][/us/pl/92/225/s315] was renumbered section 310, and is classified to [section 30110 of this title][/us/usc/t52/s30110].
 
  __Amendments__ 
 
-    2002—Subsec. (a)(1). [Pub. L. 107–155][/us/pl/107/155], §§ 304(a)(1), 319(b), substituted “Except as provided in subsection (i) of this section and [section 441a–1 of this title][/us/usc/t52/s441a–1], no person” for “No person” in introductory provisions.
+    2002—Subsec. (a)(1). [Pub. L. 107–155][/us/pl/107/155], §§ 304(a)(1), 319(b), substituted “Except as provided in subsection (i) and [section 441a–1 of this title][/us/usc/t52/s441a–1], no person” for “No person” in introductory provisions.
 
     Subsec. (a)(1)(A). [Pub. L. 107–155, § 307(a)(1)][/us/pl/107/155/s307/a/1], substituted “$2,000” for “$1,000”.
 
@@ -376,7 +380,7 @@
 ----------
 ----------
 
-[/us/usc/t52/s30125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs30125
+[/us/usc/t52/s30117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs30117
 [/us/usc/t52/s30103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs30103
 [/us/usc/t52/s30104/f/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs30104%2Ff%2F3
 [/us/usc/t26/s9003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs9003
@@ -397,11 +401,14 @@
 [/us/usc/t52/s30101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs30101
 [/us/pl/107/155/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F155%2Fs402
 [/us/usc/t52/s30101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs30101
+[/us/pl/92/225/s315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F225%2Fs315
+[/us/pl/94/283/s112/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F283%2Fs112%2F2
+[/us/pl/107/155/s213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F155%2Fs213
 [/us/usc/t2/s441a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs441a
 [/us/pl/92/225/s315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F225%2Fs315
-[/us/usc/t52/s30116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs30116
+[/us/usc/t52/s30111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs30111
 [/us/pl/92/225/s315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F225%2Fs315
-[/us/usc/t52/s30115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs30115
+[/us/usc/t52/s30110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs30110
 [/us/pl/107/155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F155
 [/us/usc/t52/s441a–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs441a%E2%80%931
 [/us/pl/107/155/s307/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F155%2Fs307%2Fa%2F1

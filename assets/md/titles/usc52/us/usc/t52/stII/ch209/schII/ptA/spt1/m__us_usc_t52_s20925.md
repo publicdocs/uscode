@@ -43,7 +43,7 @@
 
  __Codification__ 
 
-    Section was formerly classified to [section 15325 of Title 42][/us/usc/t42/s15325], The Public Health and Welfare, prior to editorial reclassification and renumbering in Title 52, Voting and Elections.
+    Section was formerly classified to [section 15325 of Title 42][/us/usc/t42/s15325], The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
     In subsec. (e), “[section 6101 of title 41][/us/usc/t41/s6101]” substituted for “section 3709 of the Revised Statutes of the United States ([41 U.S.C. 5][/us/usc/t41/s5])” on authority of [Pub. L. 111–350, § 6(c)][/us/pl/111/350/s6/c], Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
 

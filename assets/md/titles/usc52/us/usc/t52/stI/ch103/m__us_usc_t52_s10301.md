@@ -15,19 +15,19 @@
 
 ## § 10301. Denial or abridgement of right to vote on account of race or color through voting qualifications or prerequisites; establishment of violation
 
-    (a) No voting qualification or prerequisite to voting or standard, practice, or procedure shall be imposed or applied by any State or political subdivision in a manner which results in a denial or abridgement of the right of any citizen of the United States to vote on account of race or color, or in contravention of the guarantees set forth in [section 10303(f)(2) of this title][/us/usc/t52/s10303/f/2], as provided in subsection (b) of this section.
+    (a) No voting qualification or prerequisite to voting or standard, practice, or procedure shall be imposed or applied by any State or political subdivision in a manner which results in a denial or abridgement of the right of any citizen of the United States to vote on account of race or color, or in contravention of the guarantees set forth in [section 10303(f)(2) of this title][/us/usc/t52/s10303/f/2], as provided in subsection (b).
 
-    (b) A violation of subsection (a) of this section is established if, based on the totality of circumstances, it is shown that the political processes leading to nomination or election in the State or political subdivision are not equally open to participation by members of a class of citizens protected by subsection (a) of this section in that its members have less opportunity than other members of the electorate to participate in the political process and to elect representatives of their choice. The extent to which members of a protected class have been elected to office in the State or political subdivision is one circumstance which may be considered: Provided, That nothing in this section establishes a right to have members of a protected class elected in numbers equal to their proportion in the population.
+    (b) A violation of subsection (a) is established if, based on the totality of circumstances, it is shown that the political processes leading to nomination or election in the State or political subdivision are not equally open to participation by members of a class of citizens protected by subsection (a) in that its members have less opportunity than other members of the electorate to participate in the political process and to elect representatives of their choice. The extent to which members of a protected class have been elected to office in the State or political subdivision is one circumstance which may be considered: Provided, That nothing in this section establishes a right to have members of a protected class elected in numbers equal to their proportion in the population.
 
 ([Pub. L. 89–110, title I, § 2][/us/pl/89/110/s2], Aug. 6, 1965, [79 Stat. 437][/us/stat/79/437]; renumbered title I, [Pub. L. 91–285, § 2][/us/pl/91/285/s2], June 22, 1970, [84 Stat. 314][/us/stat/84/314]; amended [Pub. L. 94–73, title II, § 206][/us/pl/94/73/s206], Aug. 6, 1975, [89 Stat. 402][/us/stat/89/402]; [Pub. L. 97–205, § 3][/us/pl/97/205/s3], June 29, 1982, [96 Stat. 134][/us/stat/96/134].)
 
  __Codification__ 
 
-    Section was formerly classified to [section 1973 of Title 42][/us/usc/t42/s1973], The Public Health and Welfare, prior to editorial reclassification and renumbering in Title 52, Voting and Elections. Any notes below for amendments to this section prior to 2013 reflect the former classification of this section.
+    Section was formerly classified to [section 1973 of Title 42][/us/usc/t42/s1973], The Public Health and Welfare, prior to editorial reclassification and renumbering as this section. Some section numbers referenced in amendment notes below reflect the classification of such sections prior to their editorial reclassification to this title.
 
  __Amendments__ 
 
-    1982—[Pub. L. 97–205][/us/pl/97/205] redesignated existing provisions as subsec. (a), struck out the comma after “voting”, substituted “in a manner which results in a denial or abridgement of” for “to deny or abridge”, inserted “, as provided in subsection (b) of this section” after “in contravention of the guarantees set forth in [section 1973b(f)(2) of this title][/us/usc/t52/s1973b/f/2]”, and added subsec. (b).
+    1982—[Pub. L. 97–205][/us/pl/97/205] redesignated existing provisions as subsec. (a), struck out the comma after “voting”, substituted “in a manner which results in a denial or abridgement of” for “to deny or abridge”, inserted “, as provided in subsection (b)” after “in contravention of the guarantees set forth in [section 1973b(f)(2) of this title][/us/usc/t52/s1973b/f/2]”, and added subsec. (b).
 
     1975—[Pub. L. 94–73][/us/pl/94/73] substituted “race or color, or in contravention of the guarantees set forth in [section 1973b(f)(2) of this title][/us/usc/t52/s1973b/f/2]” for “race or color”.
 
@@ -73,13 +73,13 @@
 
 >         “(7) Despite the progress made by minorities under the Voting Rights Act of 1965, the evidence before Congress reveals that 40 years has not been a sufficient amount of time to eliminate the vestiges of discrimination following nearly 100 years of disregard for the dictates of the 15th amendment and to ensure that the right of all citizens to vote is protected as guaranteed by the Constitution.
 
->         “(8) Present day discrimination experienced by racial and language minority voters is contained in evidence, including the objections interposed by the Department of Justice in covered jurisdictions; the section 2 litigation filed to prevent dilutive techniques from adversely affecting minority voters; the enforcement actions filed to protect language minorities; and the tens of thousands of Federal observers dispatched to monitor polls in jurisdictions covered by the Voting Rights Act of 1965.
+>         “(8) Present day discrimination experienced by racial and language minority voters is contained in evidence, including the objections interposed by the Department of Justice in covered jurisdictions; the section 2 \[[52 U.S.C. 10301][/us/usc/t52/s10301]\] litigation filed to prevent dilutive techniques from adversely affecting minority voters; the enforcement actions filed to protect language minorities; and the tens of thousands of Federal observers dispatched to monitor polls in jurisdictions covered by the Voting Rights Act of 1965.
 
 >         “(9) The record compiled by Congress demonstrates that, without the continuation of the Voting Rights Act of 1965 protections, racial and language minority citizens will be deprived of the opportunity to exercise their right to vote, or will have their votes diluted, undermining the significant gains made by minorities in the last 40 years.”
 
  __Separability__ 
 
-[Pub. L. 94–73, title II, § 208][/us/pl/94/73/s208], Aug. 6, 1975, [89 Stat. 402][/us/stat/89/402] provided that: 
+[Pub. L. 94–73, title II, § 208][/us/pl/94/73/s208], Aug. 6, 1975, [89 Stat. 402][/us/stat/89/402], provided that: 
 
 > “If any amendments made by this Act \[see Tables for classification\] or the application of any provision thereof to any person or circumstance is judicially determined to be invalid, the remainder of the Voting Rights Act of 1965 \[this chapter and chapters 105 and 107 of this title\], or the application of such provision to other persons or circumstances shall not be affected by such determination.”
 
@@ -112,6 +112,7 @@
 [/us/usc/t52/s10301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs10301
 [/us/usc/t52/s10303/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs10303%2Fe
 [/us/usc/t52/s10304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs10304
+[/us/usc/t52/s10301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs10301
 [/us/pl/94/73/s208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F73%2Fs208
 [/us/stat/89/402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F402
 

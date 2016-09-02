@@ -93,11 +93,11 @@
 
  __References in Text__ 
 
-    This chapter, referred to in subsec. (e)(3), was in the original “this Act”, meaning [Pub. L. 107–252][/us/pl/107/252], Oct. 29, 2002, [116 Stat. 1666][/us/stat/116/1666], which is classified principally to this chapter. For complete classification of this Act to the Code, see Tables.
+    This chapter, referred to in subsec. (e)(3), was in the original “this Act”, meaning [Pub. L. 107–252][/us/pl/107/252], Oct. 29, 2002, [116 Stat. 1666][/us/stat/116/1666], known as the Help America Vote Act of 2002, which is classified principally to this chapter. For complete classification of this Act to the Code, see Tables.
 
  __Codification__ 
 
-    Section was formerly classified to [section 15361 of Title 42][/us/usc/t42/s15361], The Public Health and Welfare, prior to editorial reclassification and renumbering in Title 52, Voting and Elections.
+    Section was formerly classified to [section 15361 of Title 42][/us/usc/t42/s15361], The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
 ----------
 

@@ -35,7 +35,7 @@
 
         (1) __In general__ 
 
-            A contribution or donation described in subsection (a) of this section shall not be converted by any person to personal use.
+            A contribution or donation described in subsection (a) shall not be converted by any person to personal use.
 
         (2) __Conversion__ 
 
@@ -99,15 +99,15 @@
 
  __Codification__ 
 
-    Section was formerly classified to [section 439a of Title 2][/us/usc/t2/s439a], The Congress, prior to editorial reclassification and renumbering in Title 52, Voting and Elections. Any notes below for amendments to this section prior to 2013 reflect the former classification of this section.
+    Section was formerly classified to [section 439a of Title 2][/us/usc/t2/s439a], The Congress, prior to editorial reclassification and renumbering as this section.
 
  __Prior Provisions__ 
 
-    A prior [section 313 of Pub. L. 92–225][/us/pl/92/225/s313] was classified to [section 439a of Title 2][/us/usc/t2/s439a], The Congress and related to use of contributed amounts for certain purposes, prior to repeal by [Pub. L. 107–155, title III, § 301][/us/pl/107/155/s301], Mar. 27, 2002, [116 Stat. 95][/us/stat/116/95].
+    A prior [section 313 of Pub. L. 92–225][/us/pl/92/225/s313] was classified to [section 439a of Title 2][/us/usc/t2/s439a], The Congress and also related to use of contributed amounts for certain purposes, prior to repeal by [Pub. L. 107–155, title III, § 301][/us/pl/107/155/s301], Mar. 27, 2002, [116 Stat. 95][/us/stat/116/95].
 
-    Another prior [section 313 of Pub. L. 92–225][/us/pl/92/225/s313] was renumbered section 309, and is classified to [section 30114 of this title][/us/usc/t52/s30114].
+    Another prior [section 313 of Pub. L. 92–225][/us/pl/92/225/s313] was renumbered section 309, and is classified to [section 30109 of this title][/us/usc/t52/s30109].
 
-    Another prior [section 313 of Pub. L. 92–225][/us/pl/92/225/s313] was renumbered section 308, and is classified to [section 30113 of this title][/us/usc/t52/s30113].
+    Another prior [section 313 of Pub. L. 92–225][/us/pl/92/225/s313] was renumbered section 308, and is classified to [section 30108 of this title][/us/usc/t52/s30108].
 
  __Amendments__ 
 
@@ -148,9 +148,9 @@
 [/us/pl/107/155/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F155%2Fs301
 [/us/stat/116/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F95
 [/us/pl/92/225/s313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F225%2Fs313
-[/us/usc/t52/s30114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs30114
+[/us/usc/t52/s30109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs30109
 [/us/pl/92/225/s313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F225%2Fs313
-[/us/usc/t52/s30113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs30113
+[/us/usc/t52/s30108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs30108
 [/us/pl/110/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F81
 [/us/pl/108/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447
 [/us/pl/110/81/s601/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F81%2Fs601%2Fb

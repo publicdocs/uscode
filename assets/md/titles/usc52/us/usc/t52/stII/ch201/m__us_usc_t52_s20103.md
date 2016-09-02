@@ -17,13 +17,13 @@
 
     (a) Each State or political subdivision responsible for registration for Federal elections shall provide a reasonable number of accessible permanent registration facilities.
 
-    (b) Subsection (a) of this section does not apply to any State that has in effect a system that provides an opportunity for each potential voter to register by mail or at the residence of such voter.
+    (b) Subsection (a) does not apply to any State that has in effect a system that provides an opportunity for each potential voter to register by mail or at the residence of such voter.
 
 ([Pub. L. 98–435, § 4][/us/pl/98/435/s4], Sept. 28, 1984, [98 Stat. 1679][/us/stat/98/1679].)
 
  __Codification__ 
 
-    Section was formerly classified to [section 1973ee–2 of Title 42][/us/usc/t42/s1973ee–2], The Public Health and Welfare, prior to editorial reclassification and renumbering in Title 52, Voting and Elections.
+    Section was formerly classified to [section 1973ee–2 of Title 42][/us/usc/t42/s1973ee–2], The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
 ----------
 

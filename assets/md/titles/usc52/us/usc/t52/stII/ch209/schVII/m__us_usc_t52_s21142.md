@@ -47,7 +47,7 @@
 
     (c) __Recoupment of funds__ 
 
-    If the Comptroller General determines as a result of an audit conducted under subsection (b) of this section that—
+    If the Comptroller General determines as a result of an audit conducted under subsection (b) that—
 
         (1) a recipient of funds under this chapter is not in compliance with each of the requirements of the program under which the funds are provided; or
 
@@ -63,7 +63,7 @@
 
  __Codification__ 
 
-    Section was formerly classified to [section 15542 of Title 42][/us/usc/t42/s15542], The Public Health and Welfare, prior to editorial reclassification and renumbering in Title 52, Voting and Elections.
+    Section was formerly classified to [section 15542 of Title 42][/us/usc/t42/s15542], The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
 ----------
 

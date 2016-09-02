@@ -29,7 +29,7 @@
 
     (b) __Contents of mail voter registration form__ 
 
-    The mail voter registration form developed under subsection (a)(2) of this section—
+    The mail voter registration form developed under subsection (a)(2)—
 
         (1) may require only such identifying information (including the signature of the applicant) and other information (including data relating to previous registration by the applicant), as is necessary to enable the appropriate State election official to assess the eligibility of the applicant and to administer voter registration and other parts of the election process;
 
@@ -59,7 +59,7 @@
 
  __Codification__ 
 
-    Section was formerly classified to [section 1973gg–7 of Title 42][/us/usc/t42/s1973gg–7], The Public Health and Welfare, prior to editorial reclassification and renumbering in Title 52, Voting and Elections. Any notes below for amendments to this section prior to 2013 reflect the former classification of this section.
+    Section was formerly classified to [section 1973gg–7 of Title 42][/us/usc/t42/s1973gg–7], The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
  __Amendments__ 
 

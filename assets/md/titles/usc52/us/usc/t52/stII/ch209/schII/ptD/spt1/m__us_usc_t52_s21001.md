@@ -23,13 +23,13 @@
 
         (1) __In general__ 
 
-            Except as provided in paragraphs (2) and (3), a State receiving a requirements payment shall use the payment only to meet the requirements of subchapter III of this chapter.
+            Except as provided in paragraphs (2) and (3), a State receiving a requirements payment shall use the payment only to meet the requirements of subchapter III.
 
         (2) __Other activities__ 
 
         A State may use a requirements payment to carry out other activities to improve the administration of elections for Federal office if the State certifies to the Commission that—
 
-            (A) the State has implemented the requirements of subchapter III of this chapter; or
+            (A) the State has implemented the requirements of subchapter III; or
 
             (B) the amount expended with respect to such other activities does not exceed an amount equal to the minimum payment amount applicable to the State under [section 21002(c) of this title][/us/usc/t52/s21002/c].
 
@@ -67,15 +67,15 @@
 
  __References in Text__ 
 
-    Subchapter III of this chapter, referred to in subsec. (b)(1), (2)(A), was in the original “title III”, meaning title III of [Pub. L. 107–252][/us/pl/107/252], Oct. 29, 2002, [116 Stat. 1704][/us/stat/116/1704], which is classified principally to subchapter III (§ 21081 et seq.) of this chapter. For complete classification of title III to the Code, see Tables.
+    Subchapter III, referred to in subsec. (b)(1), (2)(A), was in the original “title III”, meaning title III of [Pub. L. 107–252][/us/pl/107/252], Oct. 29, 2002, [116 Stat. 1704][/us/stat/116/1704], which is classified principally to subchapter III (§ 21081 et seq.) of this chapter. For complete classification of title III to the Code, see Tables.
 
     The Uniformed and Overseas Citizens Absentee Voting Act, referred to in subsec. (b)(3), is [Pub. L. 99–410][/us/pl/99/410], Aug. 28, 1986, [100 Stat. 924][/us/stat/100/924], which is classified principally to chapter 203 (§ 20301 et seq.) of this title. For complete classification of this Act to the Code, see Tables.
 
-    The Military and Overseas Voter Empowerment Act, referred to in subsec. (b)(3), is subtitle H (§§ 575–589) of title V of div. A of [Pub. L. 111–84][/us/pl/111/84], Oct. 28, 2009, [123 Stat. 2318][/us/stat/123/2318], which enacted sections 20304, 20305, 20308, and 20311 of this title and [section 1566a of Title 10][/us/usc/t10/s1566a], Armed Forces, amended sections 20301 to 20303, 20306, 20307, 21001, 21003, 21004, and 21007 of this title, and enacted provisions set out as notes under sections 10101 and 20301 to 20303 of this title. For complete classification of this Act to the Code, see Tables.
+    The Military and Overseas Voter Empowerment Act, referred to in subsec. (b)(3), is subtitle H (§§ 575–589) of title V of div. A of [Pub. L. 111–84][/us/pl/111/84], Oct. 28, 2009, [123 Stat. 2318][/us/stat/123/2318]. For complete classification of this Act to the Code, see Tables.
 
  __Codification__ 
 
-    Section was formerly classified to [section 15401 of Title 42][/us/usc/t42/s15401], The Public Health and Welfare, prior to editorial reclassification and renumbering in Title 52, Voting and Elections. Any notes below for amendments to this section prior to 2013 reflect the former classification of this section.
+    Section was formerly classified to [section 15401 of Title 42][/us/usc/t42/s15401], The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
  __Amendments__ 
 
@@ -109,7 +109,6 @@
 [/us/stat/100/924]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F924
 [/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
 [/us/stat/123/2318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2318
-[/us/usc/t10/s1566a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1566a
 [/us/usc/t42/s15401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs15401
 [/us/pl/111/84/s588/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs588%2Fa%2F1
 [/us/pl/111/84/s588/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs588%2Fa%2F2

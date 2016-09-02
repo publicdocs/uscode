@@ -33,9 +33,9 @@
 
     (d) __Relation to other laws__ 
 
-        (1) The rights and remedies established by this section are in addition to all other rights and remedies provided by law, and neither the rights and remedies established by this section nor any other provision of this chapter shall supersede, restrict, or limit the application of the Voting Rights Act of 1965 (\[former\] [42 U.S.C. 1973][/us/usc/t42/s1973] et seq.) \[now [52 U.S.C. 10301][/us/usc/t52/s10301] et seq.\].
+        (1) The rights and remedies established by this section are in addition to all other rights and remedies provided by law, and neither the rights and remedies established by this section nor any other provision of this chapter shall supersede, restrict, or limit the application of the Voting Rights Act of 1965 ([42 U.S.C. 1973][/us/usc/t42/s1973] et seq.) \[now [52 U.S.C. 10301][/us/usc/t52/s10301] et seq.\].
 
-        (2) Nothing in this chapter authorizes or requires conduct that is prohibited by the Voting Rights Act of 1965 (\[former\] [42 U.S.C. 1973][/us/usc/t42/s1973] et seq.) \[now [52 U.S.C. 10301][/us/usc/t52/s10301] et seq.\].
+        (2) Nothing in this chapter authorizes or requires conduct that is prohibited by the Voting Rights Act of 1965 ([42 U.S.C. 1973][/us/usc/t42/s1973] et seq.) \[now [52 U.S.C. 10301][/us/usc/t52/s10301] et seq.\].
 
 ([Pub. L. 103–31, § 11][/us/pl/103/31/s11], May 20, 1993, [107 Stat. 88][/us/stat/107/88].)
 
@@ -45,7 +45,7 @@
 
  __Codification__ 
 
-    Section was formerly classified to [section 1973gg–9 of Title 42][/us/usc/t42/s1973gg–9], The Public Health and Welfare, prior to editorial reclassification and renumbering in Title 52, Voting and Elections.
+    Section was formerly classified to [section 1973gg–9 of Title 42][/us/usc/t42/s1973gg–9], The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
 ----------
 

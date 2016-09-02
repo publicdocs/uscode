@@ -21,7 +21,7 @@
 
  __Codification__ 
 
-    Section was formerly classified to section 1973o of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering in Title 52, Voting and Elections.
+    Section was formerly classified to section 1973o of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
 ----------
 

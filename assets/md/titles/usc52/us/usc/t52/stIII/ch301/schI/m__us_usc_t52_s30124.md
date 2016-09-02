@@ -35,11 +35,11 @@
 
  __Codification__ 
 
-    Section was formerly classified to [section 441h of Title 2][/us/usc/t2/s441h], The Congress, prior to editorial reclassification and renumbering in Title 52, Voting and Elections. Any notes below for amendments to this section prior to 2013 reflect the former classification of this section.
+    Section was formerly classified to [section 441h of Title 2][/us/usc/t2/s441h], The Congress, prior to editorial reclassification and renumbering as this section.
 
  __Prior Provisions__ 
 
-    A prior [section 322 of Pub. L. 92–225][/us/pl/92/225/s322] was renumbered section 317, and is classified to [section 30127 of this title][/us/usc/t52/s30127].
+    A prior [section 322 of Pub. L. 92–225][/us/pl/92/225/s322] was renumbered section 317, and is classified to [section 30119 of this title][/us/usc/t52/s30119].
 
  __Amendments__ 
 
@@ -65,7 +65,7 @@
 [/us/stat/116/104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F104
 [/us/usc/t2/s441h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs441h
 [/us/pl/92/225/s322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F225%2Fs322
-[/us/usc/t52/s30127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs30127
+[/us/usc/t52/s30119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs30119
 [/us/pl/107/155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F155
 [/us/pl/107/155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F155
 [/us/pl/107/155/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F155%2Fs402

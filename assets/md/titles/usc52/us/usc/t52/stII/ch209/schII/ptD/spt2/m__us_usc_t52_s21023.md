@@ -21,7 +21,7 @@
 
     (b) __Contents of application__ 
 
-    Each application submitted under subsection (a) of this section shall—
+    Each application submitted under subsection (a) shall—
 
         (1) describe the activities for which assistance under this section is sought; and
 
@@ -31,7 +31,7 @@
 
         (1) __In general__ 
 
-            No action may be brought under this chapter against a State or unit of local government on the basis of any information contained in the application submitted under subsection (a) of this section.
+            No action may be brought under this chapter against a State or unit of local government on the basis of any information contained in the application submitted under subsection (a).
 
         (2) __Exception for criminal acts__ 
 
@@ -41,11 +41,11 @@
 
  __References in Text__ 
 
-    This chapter, referred to in subsec. (c)(1), was in the original “this Act”, meaning [Pub. L. 107–252][/us/pl/107/252], Oct. 29, 2002, [116 Stat. 1666][/us/stat/116/1666], which is classified principally to this chapter. For complete classification of this Act to the Code, see Tables.
+    This chapter, referred to in subsec. (c)(1), was in the original “this Act”, meaning [Pub. L. 107–252][/us/pl/107/252], Oct. 29, 2002, [116 Stat. 1666][/us/stat/116/1666], known as the Help America Vote Act of 2002, which is classified principally to this chapter. For complete classification of this Act to the Code, see Tables.
 
  __Codification__ 
 
-    Section was formerly classified to [section 15423 of Title 42][/us/usc/t42/s15423], The Public Health and Welfare, prior to editorial reclassification and renumbering in Title 52, Voting and Elections.
+    Section was formerly classified to [section 15423 of Title 42][/us/usc/t42/s15423], The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
 ----------
 

@@ -75,7 +75,7 @@
 
             Notwithstanding the preceding sentence, a national committee of a political party shall file the reports required under subparagraph (B).
 
-        (5) If a designation, report, or statement filed pursuant to this Act (other than under paragraph (2)(A)(i) or (4)(A)(ii) or subsection (g)(1) of this section) is sent by registered mail, certified mail, priority mail having a delivery confirmation, or express mail having a delivery confirmation, the United States postmark shall be considered the date of filing the designation, report or statement. If a designation, report or statement filed pursuant to this Act (other than under paragraph (2)(A)(i) or (4)(A)(ii), or subsection (g)(1) of this section) is sent by an overnight delivery service with an on-line tracking system, the date on the proof of delivery to the delivery service shall be considered the date of filing of the designation, report, or statement.
+        (5) If a designation, report, or statement filed pursuant to this Act (other than under paragraph (2)(A)(i) or (4)(A)(ii) or subsection (g)(1)) is sent by registered mail, certified mail, priority mail having a delivery confirmation, or express mail having a delivery confirmation, the United States postmark shall be considered the date of filing the designation, report or statement. If a designation, report or statement filed pursuant to this Act (other than under paragraph (2)(A)(i) or (4)(A)(ii), or subsection (g)(1)) is sent by an overnight delivery service with an on-line tracking system, the date on the proof of delivery to the delivery service shall be considered the date of filing of the designation, report, or statement.
 
         (6)
 
@@ -313,23 +313,23 @@
 
     (c) __Statements by other than political committees; filing; contents; indices of expenditures__ 
 
-        (1) Every person (other than a political committee) who makes independent expenditures in an aggregate amount or value in excess of $250 during a calendar year shall file a statement containing the information required under subsection (b)(3)(A) of this section for all contributions received by such person.
+        (1) Every person (other than a political committee) who makes independent expenditures in an aggregate amount or value in excess of $250 during a calendar year shall file a statement containing the information required under subsection (b)(3)(A) for all contributions received by such person.
 
         (2)
 
-         Statements required to be filed by this subsection shall be filed in accordance with subsection (a)(2) of this section, and shall include—
+         Statements required to be filed by this subsection shall be filed in accordance with subsection (a)(2), and shall include—
 
-            (A) the information required by subsection (b)(6)(B)(iii) of this section, indicating whether the independent expenditure is in support of, or in opposition to, the candidate involved;
+            (A) the information required by subsection (b)(6)(B)(iii), indicating whether the independent expenditure is in support of, or in opposition to, the candidate involved;
 
             (B) under penalty of perjury, a certification whether or not such independent expenditure is made in cooperation, consultation, or concert, with, or at the request or suggestion of, any candidate or any authorized committee or agent of such candidate; and
 
             (C) the identification of each person who made a contribution in excess of $200 to the person filing such statement which was made for the purpose of furthering an independent expenditure.
 
-        (3) The Commission shall be responsible for expeditiously preparing indices which set forth, on a candidate-by-candidate basis, all independent expenditures separately, including those reported under subsection (b)(6)(B)(iii) of this section, made by or for each candidate, as reported under this subsection, and for periodically publishing such indices on a timely pre-election basis.
+        (3) The Commission shall be responsible for expeditiously preparing indices which set forth, on a candidate-by-candidate basis, all independent expenditures separately, including those reported under subsection (b)(6)(B)(iii), made by or for each candidate, as reported under this subsection, and for periodically publishing such indices on a timely pre-election basis.
 
     (d) __Filing by facsimile device or electronic mail__ 
 
-        (1) Any person who is required to file a statement under subsection (c) or (g) of this section, except statements required to be filed electronically pursuant to subsection (a)(11)(A)(i) of this section may file the statement by facsimile device or electronic mail, in accordance with such regulations as the Commission may promulgate.
+        (1) Any person who is required to file a statement under subsection (c) or (g) of this section, except statements required to be filed electronically pursuant to subsection (a)(11)(A)(i) may file the statement by facsimile device or electronic mail, in accordance with such regulations as the Commission may promulgate.
 
         (2) The Commission shall make a document which is filed electronically with the Commission pursuant to this paragraph accessible to the public on the Internet not later than 24 hours after the document is received by the Commission.
 
@@ -341,7 +341,7 @@
 
             The national committee of a political party, any national congressional campaign committee of a political party, and any subordinate committee of either, shall report all receipts and disbursements during the reporting period.
 
-        (2) __Other political committees to which section 30125 applies__ 
+        (2) __Other political committees to which__  __[__  __section 30125 of this title__  __][/us/usc/t52/s30125]__  __applies__ 
 
             (A) __In general__ 
 
@@ -353,11 +353,11 @@
 
         (3) __Itemization__ 
 
-            If a political committee has receipts or disbursements to which this subsection applies from or to any person aggregating in excess of $200 for any calendar year, the political committee shall separately itemize its reporting for such person in the same manner as required in paragraphs (3)(A), (5), and (6) of subsection (b) of this section.
+            If a political committee has receipts or disbursements to which this subsection applies from or to any person aggregating in excess of $200 for any calendar year, the political committee shall separately itemize its reporting for such person in the same manner as required in paragraphs (3)(A), (5), and (6) of subsection (b).
 
         (4) __Reporting periods__ 
 
-            Reports required to be filed under this subsection shall be filed for the same time periods required for political committees under subsection (a)(4)(B) of this section.
+            Reports required to be filed under this subsection shall be filed for the same time periods required for political committees under subsection (a)(4)(B).
 
     (f) __Disclosure of electioneering communications__ 
 
@@ -473,11 +473,11 @@
 
             (A) shall be filed with the Commission; and
 
-            (B) shall contain the information required by subsection (b)(6)(B)(iii) of this section, including the name of each candidate whom an expenditure is intended to support or oppose.
+            (B) shall contain the information required by subsection (b)(6)(B)(iii), including the name of each candidate whom an expenditure is intended to support or oppose.
 
         (4) __Time of filing for expenditures aggregating $1,000__ 
 
-            Notwithstanding subsection (a)(5) of this section, the time at which the statement under paragraph (1) is received by the Commission or any other recipient to whom the notification is required to be sent shall be considered the time of filing of the statement with the recipient.
+            Notwithstanding subsection (a)(5), the time at which the statement under paragraph (1) is received by the Commission or any other recipient to whom the notification is required to be sent shall be considered the time of filing of the statement with the recipient.
 
     (h) __Reports from Inaugural Committees__ 
 
@@ -569,11 +569,7 @@
 
  __Codification__ 
 
-    Section was formerly classified to [section 434 of Title 2][/us/usc/t2/s434], The Congress, prior to editorial reclassification and renumbering in Title 52, Voting and Elections. Any notes below for amendments to this section prior to 2013 reflect the former classification of this section.
-
- __Prior Provisions__ 
-
-    Provisions similar to those comprising subsec. (c) of this section were contained in [section 305 of Pub. L. 92–225][/us/pl/92/225/s305], title III, Feb. 7, 1972, [86 Stat. 16][/us/stat/86/16] ([section 435 of Title 2][/us/usc/t2/s435], The Congress) prior to amendment of [section 305 of Pub. L. 92–225][/us/pl/92/225/s305] by [Pub. L. 93–433][/us/pl/93/433].
+    Section was formerly classified to [section 434 of Title 2][/us/usc/t2/s434], The Congress, prior to editorial reclassification and renumbering as this section.
 
  __Amendments__ 
 
@@ -591,7 +587,7 @@
 
     Subsec. (a)(4). [Pub. L. 107–155, § 503(b)][/us/pl/107/155/s503/b], inserted concluding provisions.
 
-    Subsec. (a)(5). [Pub. L. 107–155, § 212(b)(2)(A)][/us/pl/107/155/s212/b/2/A], substituted “subsection (g)(1) of this section” for “the second sentence of subsection (c)(2) of this section”.
+    Subsec. (a)(5). [Pub. L. 107–155, § 212(b)(2)(A)][/us/pl/107/155/s212/b/2/A], substituted “subsection (g)(1)” for “the second sentence of subsection (c)(2) of this section”.
 
     Subsec. (a)(6)(B) to (E). [Pub. L. 107–155, § 304(b)][/us/pl/107/155/s304/b], added subpars. (B) to (D) and redesignated former subpar. (B) as (E).
 
@@ -613,7 +609,7 @@
 
     Subsec. (h). [Pub. L. 107–155, § 308(b)][/us/pl/107/155/s308/b], added subsec. (h).
 
-    2000—Subsec. (a)(5). [Pub. L. 106–346, § 101(a)][/us/pl/106/346/s101/a] \[title V, § 502(c)(2)\], substituted “or (4)(A)(ii), or the second sentence of subsection (c)(2) of this section” for “or (4)(A)(ii)”.
+    2000—Subsec. (a)(5). [Pub. L. 106–346, § 101(a)][/us/pl/106/346/s101/a] \[title V, § 502(c)(2)\], substituted “or (4)(A)(ii), or the second sentence of subsection (c)(2)” for “or (4)(A)(ii)”.
 
     Subsec. (c)(2). [Pub. L. 106–346, § 101(a)][/us/pl/106/346/s101/a] \[title V, § 502(c)(1)\], in concluding provisions, substituted “shall be filed within” for “shall be reported within” and inserted at end “Notwithstanding subsection (a)(5) of this section, the time at which the statement under this subsection is received by the Secretary, the Commission, or any other recipient to whom the notification is required to be sent shall be considered the time of filing of the statement with the recipient.”
 
@@ -673,7 +669,7 @@
 
 [Pub. L. 110–81, title II, § 215][/us/pl/110/81/s215], Sept. 14, 2007, [121 Stat. 751][/us/stat/121/751], provided that: 
 
-> “Except as otherwise provided in sections 203, 204, 206, 211, 212, and 213 , the amendments made by this title \[see Tables for classification\] shall apply with respect to registrations under the Lobbying Disclosure Act of 1995 \[[2 U.S.C. 1601][/us/usc/t2/s1601] et seq.\] having an effective date of January 1, 2008, or later and with respect to quarterly reports under that Act covering calendar quarters beginning on or after January 1, 2008.”
+> “Except as otherwise provided in sections 203, 204, 206, 211, 212, and 213, the amendments made by this title \[see Tables for classification\] shall apply with respect to registrations under the Lobbying Disclosure Act of 1995 \[[2 U.S.C. 1601][/us/usc/t2/s1601] et seq.\] having an effective date of January 1, 2008, or later and with respect to quarterly reports under that Act covering calendar quarters beginning on or after January 1, 2008.”
 
  __Effective Date of 2002 Amendment__ 
 
@@ -729,6 +725,7 @@
 [/us/usc/t52/s30116/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs30116%2Fd
 [/us/usc/t52/s30116/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs30116%2Fb
 [/us/usc/t52/s30116/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs30116%2Fd
+[/us/usc/t52/s30125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs30125
 [/us/usc/t52/s30125/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs30125%2Fb%2F1
 [/us/usc/t52/s30101/20/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs30101%2F20%2FA
 [/us/usc/t52/s30101/20/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs30101%2F20%2FA
@@ -767,11 +764,6 @@
 [/us/stat/109/691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F691
 [/us/usc/t2/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1601
 [/us/usc/t2/s434]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs434
-[/us/pl/92/225/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F225%2Fs305
-[/us/stat/86/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F16
-[/us/usc/t2/s435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs435
-[/us/pl/92/225/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F225%2Fs305
-[/us/pl/93/433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F433
 [/us/pl/110/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F81
 [/us/pl/108/199/s641/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2Fs641%2F1
 [/us/pl/108/199/s641/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2Fs641%2F2

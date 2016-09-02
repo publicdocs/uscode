@@ -19,7 +19,7 @@
 
     The State plan shall contain a description of each of the following:
 
-        (1) How the State will use the requirements payment to meet the requirements of subchapter III of this chapter, and, if applicable under [section 21001(a)(2) of this title][/us/usc/t52/s21001/a/2], to carry out other activities to improve the administration of elections.
+        (1) How the State will use the requirements payment to meet the requirements of subchapter III, and, if applicable under [section 21001(a)(2) of this title][/us/usc/t52/s21001/a/2], to carry out other activities to improve the administration of elections.
 
         (2)
 
@@ -29,17 +29,17 @@
 
             (B) the methods to be used by the State to monitor the performance of the units or entities to whom the payment is distributed, consistent with the performance goals and measures adopted under paragraph (8).
 
-        (3) How the State will provide for programs for voter education, election official education and training, and poll worker training which will assist the State in meeting the requirements of subchapter III of this chapter.
+        (3) How the State will provide for programs for voter education, election official education and training, and poll worker training which will assist the State in meeting the requirements of subchapter III.
 
         (4) How the State will adopt voting system guidelines and processes which are consistent with the requirements of [section 21081 of this title][/us/usc/t52/s21081].
 
-        (5) How the State will establish a fund described in subsection (b) of this section for purposes of administering the State’s activities under this subpart, including information on fund management.
+        (5) How the State will establish a fund described in subsection (b) for purposes of administering the State’s activities under this subpart, including information on fund management.
 
         (6)
 
          The State’s proposed budget for activities under this subpart, based on the State’s best estimates of the costs of such activities and the amount of funds to be made available, including specific information on—
 
-            (A) the costs of the activities required to be carried out to meet the requirements of subchapter III of this chapter;
+            (A) the costs of the activities required to be carried out to meet the requirements of subchapter III;
 
             (B) the portion of the requirements payment which will be used to carry out activities to meet such requirements; and
 
@@ -51,7 +51,7 @@
 
         (9) A description of the uniform, nondiscriminatory State-based administrative complaint procedures in effect under [section 21112 of this title][/us/usc/t52/s21112].
 
-        (10) If the State received any payment under subchapter I of this chapter, a description of how such payment will affect the activities proposed to be carried out under the plan, including the amount of funds available for such activities.
+        (10) If the State received any payment under subchapter I, a description of how such payment will affect the activities proposed to be carried out under the plan, including the amount of funds available for such activities.
 
         (11)
 
@@ -73,7 +73,7 @@
 
         (1) __Election fund described__ 
 
-        For purposes of subsection (a)(5) of this section, a fund described in this subsection with respect to a State is a fund which is established in the treasury of the State government, which is used in accordance with paragraph (2), and which consists of the following amounts:
+        For purposes of subsection (a)(5), a fund described in this subsection with respect to a State is a fund which is established in the treasury of the State government, which is used in accordance with paragraph (2), and which consists of the following amounts:
 
             (A) Amounts appropriated or otherwise made available by the State for carrying out the activities for which the requirements payment is made to the State under this subpart.
 
@@ -105,15 +105,15 @@
 
  __References in Text__ 
 
-    Subchapter III of this chapter, referred to in subsec. (a)(1), (3), (6)(A), was in the original “title III”, meaning title III of [Pub. L. 107–252][/us/pl/107/252], Oct. 29, 2002, [116 Stat. 1704][/us/stat/116/1704], which is classified principally to subchapter III (§ 21081 et seq.) of this chapter. For complete classification of title III to the Code, see Tables.
+    Subchapter III, referred to in subsec. (a)(1), (3), (6)(A), was in the original “title III”, meaning title III of [Pub. L. 107–252][/us/pl/107/252], Oct. 29, 2002, [116 Stat. 1704][/us/stat/116/1704], which is classified principally to subchapter III (§ 21081 et seq.) of this chapter. For complete classification of title III to the Code, see Tables.
 
-    The Military and Overseas Voter Empowerment Act, referred to in subsec. (a)(14), is subtitle H (§§ 575–589) of title V of div. A of [Pub. L. 111–84][/us/pl/111/84], Oct. 28, 2009, [123 Stat. 2318][/us/stat/123/2318], which enacted sections 20304, 20305, 20308, and 20311 of this title and [section 1566a of Title 10][/us/usc/t10/s1566a], Armed Forces, amended sections 20301 to 20303, 20306, 20307, 21001, 21003, 21004, and 21007 of this title, and enacted provisions set out as notes under sections 10101 and 20301 to 20303 of this title. For complete classification of this Act to the Code, see Tables.
+    The Military and Overseas Voter Empowerment Act, referred to in subsec. (a)(14), is subtitle H (§§ 575–589) of title V of div. A of [Pub. L. 111–84][/us/pl/111/84], Oct. 28, 2009, [123 Stat. 2318][/us/stat/123/2318]. For complete classification of this Act to the Code, see Tables.
 
     This chapter, referred to in subsec. (c)(1), was in the original “this Act”, meaning [Pub. L. 107–252][/us/pl/107/252], Oct. 29, 2002, [116 Stat. 1666][/us/stat/116/1666], known as the Help America Vote Act of 2002, which is classified principally to this chapter. For complete classification of this Act to the Code, see Tables.
 
  __Codification__ 
 
-    Section was formerly classified to [section 15404 of Title 42][/us/usc/t42/s15404], The Public Health and Welfare, prior to editorial reclassification and renumbering in Title 52, Voting and Elections. Any notes below for amendments to this section prior to 2013 reflect the former classification of this section.
+    Section was formerly classified to [section 15404 of Title 42][/us/usc/t42/s15404], The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
  __Amendments__ 
 
@@ -145,7 +145,6 @@
 [/us/stat/116/1704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1704
 [/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
 [/us/stat/123/2318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2318
-[/us/usc/t10/s1566a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1566a
 [/us/pl/107/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F252
 [/us/stat/116/1666]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1666
 [/us/usc/t42/s15404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs15404

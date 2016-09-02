@@ -17,15 +17,15 @@
 
     (a) __In general__ 
 
-    Except as specifically provided in [section 21083(b) of this title][/us/usc/t52/s21083/b] with regard to the National Voter Registration Act of 1993 (\[former\] [42 U.S.C. 1973gg][/us/usc/t42/s1973gg] et seq.) \[now [52 U.S.C. 20501][/us/usc/t52/s20501] et seq.\], nothing in this chapter may be construed to authorize or require conduct prohibited under any of the following laws, or to supersede, restrict, or limit the application of such laws:
+    Except as specifically provided in [section 21083(b) of this title][/us/usc/t52/s21083/b] with regard to the National Voter Registration Act of 1993 ([42 U.S.C. 1973gg][/us/usc/t42/s1973gg] et seq.) \[now [52 U.S.C. 20501][/us/usc/t52/s20501] et seq.\], nothing in this chapter may be construed to authorize or require conduct prohibited under any of the following laws, or to supersede, restrict, or limit the application of such laws:
 
-        (1) The Voting Rights Act of 1965 (\[former\] [42 U.S.C. 1973][/us/usc/t42/s1973] et seq.) \[now [52 U.S.C. 10301][/us/usc/t52/s10301] et seq.\].
+        (1) The Voting Rights Act of 1965 ([42 U.S.C. 1973][/us/usc/t42/s1973] et seq.) \[now [52 U.S.C. 10301][/us/usc/t52/s10301] et seq.\].
 
-        (2) The Voting Accessibility for the Elderly and Handicapped Act (\[former\] [42 U.S.C. 1973ee][/us/usc/t42/s1973ee] et seq.) \[now [52 U.S.C. 20101][/us/usc/t52/s20101] et seq.\].
+        (2) The Voting Accessibility for the Elderly and Handicapped Act ([42 U.S.C. 1973ee][/us/usc/t42/s1973ee] et seq.) \[now [52 U.S.C. 20101][/us/usc/t52/s20101] et seq.\].
 
-        (3) The Uniformed and Overseas Citizens Absentee Voting Act (\[former\] [42 U.S.C. 1973ff][/us/usc/t42/s1973ff] et seq.) \[now [52 U.S.C. 20301][/us/usc/t52/s20301] et seq.\].
+        (3) The Uniformed and Overseas Citizens Absentee Voting Act ([42 U.S.C. 1973ff][/us/usc/t42/s1973ff] et seq.) \[now [52 U.S.C. 20301][/us/usc/t52/s20301] et seq.\].
 
-        (4) The National Voter Registration Act of 1993 (\[former\] [42 U.S.C. 1973gg][/us/usc/t42/s1973gg] et seq.) \[now [52 U.S.C. 20501][/us/usc/t52/s20501] et seq.\].
+        (4) The National Voter Registration Act of 1993 ([42 U.S.C. 1973gg][/us/usc/t42/s1973gg] et seq.) \[now [52 U.S.C. 20501][/us/usc/t52/s20501] et seq.\].
 
         (5) The Americans with Disabilities Act of 1990 ([42 U.S.C. 12101][/us/usc/t42/s12101] et seq.).
 
@@ -33,7 +33,7 @@
 
     (b) __No effect on preclearance or other requirements under Voting Rights Act__ 
 
-        The approval by the Administrator or the Commission of a payment or grant application under subchapter I or subchapter II of this chapter, or any other action taken by the Commission or a State under such subchapter, shall not be considered to have any effect on requirements for preclearance under section 5 of the Voting Rights Act of 1965 (\[former\] [42 U.S.C. 1973c][/us/usc/t42/s1973c]) \[now [52 U.S.C. 10304][/us/usc/t52/s10304]\] or any other requirements of such Act \[[52 U.S.C. 10301][/us/usc/t52/s10301] et seq.\].
+        The approval by the Administrator or the Commission of a payment or grant application under subchapter I or subchapter II, or any other action taken by the Commission or a State under such subchapter, shall not be considered to have any effect on requirements for preclearance under section 5 of the Voting Rights Act of 1965 ([42 U.S.C. 1973c][/us/usc/t42/s1973c]) \[now [52 U.S.C. 10304][/us/usc/t52/s10304]\] or any other requirements of such Act \[[52 U.S.C. 10301][/us/usc/t52/s10301] et seq.\].
 
 ([Pub. L. 107–252, title IX, § 906][/us/pl/107/252/s906], Oct. 29, 2002, [116 Stat. 1729][/us/stat/116/1729].)
 
@@ -55,7 +55,7 @@
 
  __Codification__ 
 
-    Section was formerly classified to [section 15545 of Title 42][/us/usc/t42/s15545], The Public Health and Welfare, prior to editorial reclassification and renumbering in Title 52, Voting and Elections.
+    Section was formerly classified to [section 15545 of Title 42][/us/usc/t42/s15545], The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
 ----------
 

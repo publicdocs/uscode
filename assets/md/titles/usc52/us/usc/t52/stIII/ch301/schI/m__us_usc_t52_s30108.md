@@ -29,7 +29,7 @@
 
         (1)
 
-         Any advisory opinion rendered by the Commission under subsection (a) of this section may be relied upon by—
+         Any advisory opinion rendered by the Commission under subsection (a) may be relied upon by—
 
             (A) any person involved in the specific transaction or activity with respect to which such advisory opinion is rendered; and
 
@@ -39,7 +39,7 @@
 
     (d) __Requests made public; submission of written comments by interested public__ 
 
-        The Commission shall make public any request made under subsection (a) of this section for an advisory opinion. Before rendering an advisory opinion, the Commission shall accept written comments submitted by any interested party within the 10-day period following the date the request is made public.
+        The Commission shall make public any request made under subsection (a) for an advisory opinion. Before rendering an advisory opinion, the Commission shall accept written comments submitted by any interested party within the 10-day period following the date the request is made public.
 
 ([Pub. L. 92–225, title III, § 308][/us/pl/92/225/s308], formerly § 313, as added [Pub. L. 93–443, title II, § 208(a)][/us/pl/93/443/s208/a], Oct. 15, 1974, [88 Stat. 1283][/us/stat/88/1283]; renumbered § 312 and amended [Pub. L. 94–283, title I][/us/pl/94/283], §§ 105, 108(a), May 11, 1976, [90 Stat. 481][/us/stat/90/481], 482; renumbered § 308 and amended [Pub. L. 96–187, title I][/us/pl/96/187], §§ 105(4), 107(a), Jan. 8, 1980, [93 Stat. 1354][/us/stat/93/1354], 1357; [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095].)
 
@@ -49,7 +49,7 @@
 
  __Codification__ 
 
-    Section was formerly classified to [section 437f of Title 2][/us/usc/t2/s437f], The Congress, prior to editorial reclassification and renumbering in Title 52, Voting and Elections. Any notes below for amendments to this section prior to 2013 reflect the former classification of this section.
+    Section was formerly classified to [section 437f of Title 2][/us/usc/t2/s437f], The Congress, prior to editorial reclassification and renumbering as this section. Some section numbers referenced in amendment notes below reflect the classification of such sections prior to their editorial reclassification to this title.
 
  __Prior Provisions__ 
 

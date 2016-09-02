@@ -71,11 +71,11 @@
 
             (A) __Definition under paragraph (1)__ 
 
-                An electioneering communication shall be treated as made by an entity described in subsection (a) of this section if an entity described in subsection (a) of this section directly or indirectly disburses any amount for any of the costs of the communication.
+                An electioneering communication shall be treated as made by an entity described in subsection (a) if an entity described in subsection (a) directly or indirectly disburses any amount for any of the costs of the communication.
 
             (B) __Exception under paragraph (2)__ 
 
-                A section 501(c)(4) organization that derives amounts from business activities or receives funds from any entity described in subsection (a) of this section shall be considered to have paid for any communication out of such amounts unless such organization paid for the communication out of a segregated account to which only individuals can contribute, as described in [section 30104(f)(2)(E) of this title][/us/usc/t52/s30104/f/2/E].
+                A section 501(c)(4) organization that derives amounts from business activities or receives funds from any entity described in subsection (a) shall be considered to have paid for any communication out of such amounts unless such organization paid for the communication out of a segregated account to which only individuals can contribute, as described in [section 30104(f)(2)(E) of this title][/us/usc/t52/s30104/f/2/E].
 
         (4) __Definitions and rules__ 
 
@@ -117,13 +117,17 @@
 
  __Codification__ 
 
-    Section was formerly classified to [section 441b of Title 2][/us/usc/t2/s441b], The Congress, prior to editorial reclassification and renumbering in Title 52, Voting and Elections. Any notes below for amendments to this section prior to 2013 reflect the former classification of this section.
+    Section was formerly classified to [section 441b of Title 2][/us/usc/t2/s441b], The Congress, prior to editorial reclassification and renumbering as this section. Some section numbers referenced in amendment notes below reflect the classification of such sections prior to their editorial reclassification to this title.
+
+ __Constitutionality__ 
+
+For information regarding constitutionality of [section 316 of Pub. L. 92–225][/us/pl/92/225/s316], as added by [section 112(2) of Pub. L. 94–283][/us/pl/94/283/s112/2], see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Appendix 1, Acts of Congress Held Unconstitutional in Whole or in Part by the Supreme Court of the United States.
 
  __Prior Provisions__ 
 
-    A prior [section 316 of Pub. L. 92–225][/us/pl/92/225/s316] was renumbered section 312, and is classified to [section 30118 of this title][/us/usc/t52/s30118].
+    A prior [section 316 of Pub. L. 92–225][/us/pl/92/225/s316] was renumbered section 312, and is classified to [section 30113 of this title][/us/usc/t52/s30113].
 
-    Another prior [section 316 of Pub. L. 92–225][/us/pl/92/225/s316] was renumbered section 311, and is classified to [section 30116 of this title][/us/usc/t52/s30116].
+    Another prior [section 316 of Pub. L. 92–225][/us/pl/92/225/s316] was renumbered section 311, and is classified to [section 30111 of this title][/us/usc/t52/s30111].
 
  __Amendments__ 
 
@@ -170,9 +174,11 @@
 [/us/stat/119/974]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F974
 [/us/usc/t2/s441b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs441b
 [/us/pl/92/225/s316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F225%2Fs316
-[/us/usc/t52/s30118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs30118
+[/us/pl/94/283/s112/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F283%2Fs112%2F2
 [/us/pl/92/225/s316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F225%2Fs316
-[/us/usc/t52/s30116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs30116
+[/us/usc/t52/s30113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs30113
+[/us/pl/92/225/s316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F225%2Fs316
+[/us/usc/t52/s30111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs30111
 [/us/pl/107/155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F155
 [/us/usc/t52/s431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs431
 [/us/pl/107/155/s203/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F155%2Fs203%2Fb

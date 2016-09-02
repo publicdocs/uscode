@@ -23,7 +23,7 @@
 
  __Codification__ 
 
-    Section was formerly classified to [section 457 of Title 2][/us/usc/t2/s457], The Congress, prior to editorial reclassification and renumbering in Title 52, Voting and Elections.
+    Section was formerly classified to [section 457 of Title 2][/us/usc/t2/s457], The Congress, prior to editorial reclassification and renumbering as this section.
 
     Section was enacted as part of the Continuing Appropriations Resolution, 2007, and not as part of the Federal Election Campaign Act of 1971 which comprises this chapter.
 

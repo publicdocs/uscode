@@ -17,11 +17,11 @@
 
     (a) __In general__ 
 
-    Subject to subsection (c) of this section, the amount of a requirements payment made to a State for a year shall be equal to the product of—
+    Subject to subsection (c), the amount of a requirements payment made to a State for a year shall be equal to the product of—
 
         (1) the total amount appropriated for requirements payments for the year pursuant to the authorization under [section 21007 of this title][/us/usc/t52/s21007]; and
 
-        (2) the State allocation percentage for the State (as determined under subsection (b) of this section).
+        (2) the State allocation percentage for the State (as determined under subsection (b)).
 
     (b) __State allocation percentage defined__ 
 
@@ -41,7 +41,7 @@
 
     (d) __Pro rata reductions__ 
 
-        The Administrator  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “Commission”. </sup></sup>  shall make such pro rata reductions to the allocations determined under subsection (a) of this section as are necessary to comply with the requirements of subsection (c) of this section.
+        The Administrator  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “Commission”. </sup></sup>  shall make such pro rata reductions to the allocations determined under subsection (a) as are necessary to comply with the requirements of subsection (c).
 
     (e) __Continuing availability of funds after appropriation__ 
 
@@ -51,7 +51,7 @@
 
  __Codification__ 
 
-    Section was formerly classified to [section 15402 of Title 42][/us/usc/t42/s15402], The Public Health and Welfare, prior to editorial reclassification and renumbering in Title 52, Voting and Elections.
+    Section was formerly classified to [section 15402 of Title 42][/us/usc/t42/s15402], The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
 ----------
 

@@ -13,7 +13,7 @@
 
 [Previous](./../../../../..//us/usc/t52/stIII/m__us_usc_t52_stIII.md) | [Next](./../../../../..//us/usc/t52/stIII/ch301/schI/m__us_usc_t52_stIII_ch301_schI.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2FstIII%2Fch301)
 
-### CHAPTER 301—DISCLOSURE OF FEDERAL CAMPAIGN FUNDS
+### CHAPTER 301—FEDERAL ELECTION CAMPAIGNS
 
 <table>
 

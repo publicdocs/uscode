@@ -21,11 +21,15 @@
 
  __Codification__ 
 
-    Section was formerly classified to [section 441k of Title 2][/us/usc/t2/s441k], The Congress, prior to editorial reclassification and renumbering in Title 52, Voting and Elections.
+    Section was formerly classified to [section 441k of Title 2][/us/usc/t2/s441k], The Congress, prior to editorial reclassification and renumbering as this section.
+
+ __Constitutionality__ 
+
+For information regarding constitutionality of [section 324 of Pub. L. 92–225][/us/pl/92/225/s324], as added by [section 318 of Pub. L. 107–155][/us/pl/107/155/s318], see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Appendix 1, Acts of Congress Held Unconstitutional in Whole or in Part by the Supreme Court of the United States.
 
  __Prior Provisions__ 
 
-    A prior [section 324 of Pub. L. 92–225][/us/pl/92/225/s324] was renumbered section 319, and is classified to [section 30129 of this title][/us/usc/t52/s30129].
+    A prior [section 324 of Pub. L. 92–225][/us/pl/92/225/s324] was renumbered section 319, and is classified to [section 30121 of this title][/us/usc/t52/s30121].
 
  __Effective Date__ 
 
@@ -43,7 +47,9 @@
 [/us/stat/116/109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F109
 [/us/usc/t2/s441k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs441k
 [/us/pl/92/225/s324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F225%2Fs324
-[/us/usc/t52/s30129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs30129
+[/us/pl/107/155/s318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F155%2Fs318
+[/us/pl/92/225/s324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F225%2Fs324
+[/us/usc/t52/s30121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs30121
 [/us/pl/107/155/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F155%2Fs402
 [/us/usc/t52/s30101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs30101
 

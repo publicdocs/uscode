@@ -21,7 +21,7 @@
 
     (b) __Intimidation, threats, or coercion__ 
 
-        No person, whether acting under color of law or otherwise, shall intimidate, threaten, or coerce, or attempt to intimidate, threaten, or coerce any person for voting or attempting to vote, or intimidate, threaten, or coerce, or attempt to intimidate, threaten, or coerce any person for urging or aiding any person to vote or attempt to vote, or intimidate, threaten, or coerce any person for exercising any powers or duties under section 10302(a), 10305, 10306, or 10308(e) of this title or section 1973d or 1973g of title 42.  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup> 
+        No person, whether acting under color of law or otherwise, shall intimidate, threaten, or coerce, or attempt to intimidate, threaten, or coerce any person for voting or attempting to vote, or intimidate, threaten, or coerce, or attempt to intimidate, threaten, or coerce any person for urging or aiding any person to vote or attempt to vote, or intimidate, threaten, or coerce any person for exercising any powers or duties under section 10302(a), 10305, 10306, or 10308(e) of this title or section 1973d or 1973g of title 42. <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup> 
 
     (c) __False information in registering or voting; penalties__ 
 
@@ -47,7 +47,7 @@
 
  __Codification__ 
 
-    Section was formerly classified to [section 1973i of Title 42][/us/usc/t42/s1973i], The Public Health and Welfare, prior to editorial reclassification and renumbering in Title 52, Voting and Elections. Any notes below for amendments to this section prior to 2013 reflect the former classification of this section.
+    Section was formerly classified to [section 1973i of Title 42][/us/usc/t42/s1973i], The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
  __Amendments__ 
 

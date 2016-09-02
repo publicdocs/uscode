@@ -65,7 +65,7 @@
 
     (b) __Manner of appointments__ 
 
-        Appointments shall be made to the Board of Advisors under subsection (a) of this section in a manner which ensures that the Board of Advisors will be bipartisan in nature and will reflect the various geographic regions of the United States.
+        Appointments shall be made to the Board of Advisors under subsection (a) in a manner which ensures that the Board of Advisors will be bipartisan in nature and will reflect the various geographic regions of the United States.
 
     (c) __Term of service; vacancy__ 
 
@@ -79,7 +79,7 @@
 
  __Codification__ 
 
-    Section was formerly classified to [section 15344 of Title 42][/us/usc/t42/s15344], The Public Health and Welfare, prior to editorial reclassification and renumbering in Title 52, Voting and Elections.
+    Section was formerly classified to [section 15344 of Title 42][/us/usc/t42/s15344], The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
 ----------
 

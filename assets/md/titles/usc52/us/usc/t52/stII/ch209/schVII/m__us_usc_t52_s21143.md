@@ -25,13 +25,13 @@
 
     (b) __Report__ 
 
-        The Attorney General shall submit a report to the Committees on the Judiciary of the Senate and House of Representatives, the Committee on Rules and Administration of the Senate, and the Committee on House Administration of the House of Representatives on the review conducted under subsection (a) of this section together with such recommendations for legislative and administrative action as the Attorney General determines appropriate.
+        The Attorney General shall submit a report to the Committees on the Judiciary of the Senate and House of Representatives, the Committee on Rules and Administration of the Senate, and the Committee on House Administration of the House of Representatives on the review conducted under subsection (a) together with such recommendations for legislative and administrative action as the Attorney General determines appropriate.
 
 ([Pub. L. 107–252, title IX, § 904][/us/pl/107/252/s904], Oct. 29, 2002, [116 Stat. 1729][/us/stat/116/1729].)
 
  __Codification__ 
 
-    Section was formerly classified to [section 15543 of Title 42][/us/usc/t42/s15543], The Public Health and Welfare, prior to editorial reclassification and renumbering in Title 52, Voting and Elections.
+    Section was formerly classified to [section 15543 of Title 42][/us/usc/t42/s15543], The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
 ----------
 

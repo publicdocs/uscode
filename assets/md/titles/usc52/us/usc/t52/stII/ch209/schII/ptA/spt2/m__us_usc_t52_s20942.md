@@ -15,17 +15,17 @@
 
 ## § 20942. Duties
 
-    The Standards Board and the Board of Advisors shall each, in accordance with the procedures described in subpart 3 of this part, review the voluntary voting system guidelines under such subpart, the voluntary guidance under subchapter III of this chapter, and the best practices recommendations contained in the report submitted under [section 20982(b) of this title][/us/usc/t52/s20982/b].
+    The Standards Board and the Board of Advisors shall each, in accordance with the procedures described in subpart 3 of this part, review the voluntary voting system guidelines under such subpart, the voluntary guidance under subchapter III, and the best practices recommendations contained in the report submitted under [section 20982(b) of this title][/us/usc/t52/s20982/b].
 
 ([Pub. L. 107–252, title II, § 212][/us/pl/107/252/s212], Oct. 29, 2002, [116 Stat. 1678][/us/stat/116/1678].)
 
  __References in Text__ 
 
-    Subchapter III of this chapter, referred to in text, was in the original “title III”, meaning title III of [Pub. L. 107–252][/us/pl/107/252], Oct. 29, 2002, [116 Stat. 1704][/us/stat/116/1704], which is classified principally to subchapter III (§ 21481 et seq.) of this chapter. For complete classification of title III to the Code, see Tables.
+    Subchapter III, referred to in text, was in the original “title III”, meaning title III of [Pub. L. 107–252][/us/pl/107/252], Oct. 29, 2002, [116 Stat. 1704][/us/stat/116/1704], which is classified principally to subchapter III (§ 21081 et seq.) of this chapter. For complete classification of title III to the Code, see Tables.
 
  __Codification__ 
 
-    Section was formerly classified to [section 15342 of Title 42][/us/usc/t42/s15342], The Public Health and Welfare, prior to editorial reclassification and renumbering in Title 52, Voting and Elections.
+    Section was formerly classified to [section 15342 of Title 42][/us/usc/t42/s15342], The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
 ----------
 

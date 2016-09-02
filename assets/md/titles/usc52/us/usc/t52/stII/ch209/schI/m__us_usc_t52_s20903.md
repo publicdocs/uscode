@@ -21,13 +21,13 @@
 
     (b) __Pro rata reductions__ 
 
-        The Administrator shall make such pro rata reductions to the amounts described in sections 20901(d) and 20902(c) of this title as are necessary to comply with the requirements of subsection (a) of this section.
+        The Administrator shall make such pro rata reductions to the amounts described in sections 20901(d) and 20902(c) of this title as are necessary to comply with the requirements of subsection (a).
 
 ([Pub. L. 107–252, title I, § 103][/us/pl/107/252/s103], Oct. 29, 2002, [116 Stat. 1672][/us/stat/116/1672].)
 
  __Codification__ 
 
-    Section was formerly classified to [section 15303 of Title 42][/us/usc/t42/s15303], The Public Health and Welfare, prior to editorial reclassification and renumbering in Title 52, Voting and Elections.
+    Section was formerly classified to [section 15303 of Title 42][/us/usc/t42/s15303], The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
 ----------
 

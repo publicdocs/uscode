@@ -21,11 +21,11 @@
 
  __Codification__ 
 
-    Section was formerly classified to [section 1973aa–6 of Title 42][/us/usc/t42/s1973aa–6], The Public Health and Welfare, prior to editorial reclassification and renumbering in Title 52, Voting and Elections.
+    Section was formerly classified to [section 1973aa–6 of Title 42][/us/usc/t42/s1973aa–6], The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
  __Effective Date__ 
 
-    [Pub. L. 97–205, § 5][/us/pl/97/205/s5], June 29, 1982, [96 Stat. 135][/us/stat/96/135], provided that this section is effective Jan. 1, 1984.
+    [Pub. L. 97–205, § 5][/us/pl/97/205/s5], June 29, 1982, [96 Stat. 134][/us/stat/96/134], provided that this section is effective Jan. 1, 1984.
 
 ----------
 
@@ -39,6 +39,6 @@
 [/us/stat/96/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F135
 [/us/usc/t42/s1973aa–6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1973aa%E2%80%936
 [/us/pl/97/205/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F205%2Fs5
-[/us/stat/96/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F135
+[/us/stat/96/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F134
 
 

@@ -25,15 +25,15 @@
 
     (4) carrying out the duties described in part D of this subchapter (relating to election assistance), and providing information and training on the management of the payments and grants provided under such part;
 
-    (5) carrying out the duties described in part B of subchapter III of this chapter (relating to the adoption of voluntary guidance); and
+    (5) carrying out the duties described in part B of subchapter III (relating to the adoption of voluntary guidance); and
 
-    (6) developing and carrying out the Help America Vote College Program under subchapter V of this chapter.
+    (6) developing and carrying out the Help America Vote College Program under subchapter V.
 
 ([Pub. L. 107–252, title II, § 202][/us/pl/107/252/s202], Oct. 29, 2002, [116 Stat. 1673][/us/stat/116/1673].)
 
  __Codification__ 
 
-    Section was formerly classified to [section 15322 of Title 42][/us/usc/t42/s15322], The Public Health and Welfare, prior to editorial reclassification and renumbering in Title 52, Voting and Elections.
+    Section was formerly classified to [section 15322 of Title 42][/us/usc/t42/s15322], The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
 ----------
 

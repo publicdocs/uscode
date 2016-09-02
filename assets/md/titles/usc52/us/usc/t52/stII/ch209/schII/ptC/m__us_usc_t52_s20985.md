@@ -47,7 +47,7 @@
 
         (1) __Submission__ 
 
-            Not later than 20 months after October 29, 2002, the Commission shall transmit to the Committee on House Administration of the House of Representatives and the Committee on Rules and Administration of the Senate a report on the results of the study conducted under subsection (a) of this section, including such legislative recommendations or model State laws as are required to address the findings of the Commission.
+            Not later than 20 months after October 29, 2002, the Commission shall transmit to the Committee on House Administration of the House of Representatives and the Committee on Rules and Administration of the Senate a report on the results of the study conducted under subsection (a), including such legislative recommendations or model State laws as are required to address the findings of the Commission.
 
         (2) __Internet posting__ 
 
@@ -57,7 +57,7 @@
 
  __Codification__ 
 
-    Section was formerly classified to [section 15385 of Title 42][/us/usc/t42/s15385], The Public Health and Welfare, prior to editorial reclassification and renumbering in Title 52, Voting and Elections.
+    Section was formerly classified to [section 15385 of Title 42][/us/usc/t42/s15385], The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
 ----------
 

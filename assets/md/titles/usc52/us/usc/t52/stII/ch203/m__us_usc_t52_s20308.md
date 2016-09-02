@@ -73,11 +73,11 @@
 
  __References in Text__ 
 
-    This Act, referred to in subsec. (a)(2)(C), is [Pub. L. 99–410][/us/pl/99/410], Aug. 28, 1986, [100 Stat. 924][/us/stat/100/924], known as the Uniformed and Overseas Citizens Absentee Voting Act, which enacted this chapter. For complete classification of this Act to the Code, see Tables.
+    This Act, referred to in subsec. (a)(2)(C), is [Pub. L. 99–410][/us/pl/99/410], Aug. 28, 1986, [100 Stat. 924][/us/stat/100/924], known as the Uniformed and Overseas Citizens Absentee Voting Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Tables.
 
  __Codification__ 
 
-    Section was formerly classified to [section 1973ff–4a of Title 42][/us/usc/t42/s1973ff–4a], The Public Health and Welfare, prior to editorial reclassification and renumbering in Title 52, Voting and Elections.
+    Section was formerly classified to [section 1973ff–4a of Title 42][/us/usc/t42/s1973ff–4a], The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
 ----------
 

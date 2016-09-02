@@ -21,7 +21,7 @@
 
      Notwithstanding any other provision of law—
 
-        (1) the period of limitations referred to in subsection (a) of this section shall apply with respect to violations referred to in such subsection committed before, on, or after the effective date of this section; and
+        (1) the period of limitations referred to in subsection (a) shall apply with respect to violations referred to in such subsection committed before, on, or after the effective date of this section; and
 
         (2) no criminal proceeding shall be instituted against any person for any act or omission which was a violation of any provision of subchapter I of this chapter, as in effect on December 31, 1974, if such act or omission does not constitute a violation of any such provision, as amended by the Federal Election Campaign Act Amendments of 1974.
 
@@ -35,7 +35,7 @@
 
  __Codification__ 
 
-    Section was formerly classified to [section 455 of Title 2][/us/usc/t2/s455], The Congress, prior to editorial reclassification and renumbering in Title 52, Voting and Elections. Any notes below for amendments to this section prior to 2013 reflect the former classification of this section.
+    Section was formerly classified to [section 455 of Title 2][/us/usc/t2/s455], The Congress, prior to editorial reclassification and renumbering as this section.
 
  __Amendments__ 
 

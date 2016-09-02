@@ -33,7 +33,7 @@
 
             The opposition personal funds amount is an amount equal to the excess (if any) of—
 
-                (i) the greatest aggregate amount of expenditures from personal funds (as defined in subsection (b)(1) of this section) that an opposing candidate in the same election makes; over
+                (i) the greatest aggregate amount of expenditures from personal funds (as defined in subsection (b)(1)) that an opposing candidate in the same election makes; over
 
                 (ii) the aggregate amount of expenditures from personal funds made by the candidate with respect to the election.
 
@@ -57,7 +57,7 @@
 
             Subject to subparagraph (B), a candidate and the candidate’s authorized committee shall not accept any contribution, and a party committee shall not make any expenditure, under the increased limit under paragraph (1)—
 
-                (i) until the candidate has received notification of the opposition personal funds amount under subsection (b)(1) of this section; and
+                (i) until the candidate has received notification of the opposition personal funds amount under subsection (b)(1); and
 
                 (ii) to the extent that such contribution, when added to the aggregate amount of contributions previously accepted and party expenditures previously made under the increased limits under this subsection for the election cycle, exceeds 100 percent of the opposition personal funds amount.
 
@@ -119,21 +119,25 @@
 
         (2) __Notification of disposal of excess contributions__ 
 
-            In the next regularly scheduled report after the date of the election for which a candidate seeks nomination for election to, or election to, Federal office, the candidate or the candidate’s authorized committee shall submit to the Commission a report indicating the source and amount of any excess contributions (as determined under subsection (a) of this section) and the manner in which the candidate or the candidate’s authorized committee used such funds.
+            In the next regularly scheduled report after the date of the election for which a candidate seeks nomination for election to, or election to, Federal office, the candidate or the candidate’s authorized committee shall submit to the Commission a report indicating the source and amount of any excess contributions (as determined under subsection (a)) and the manner in which the candidate or the candidate’s authorized committee used such funds.
 
         (3) __Enforcement__ 
 
-            For provisions providing for the enforcement of the reporting requirements under this subsection, see [section 30114 of this title][/us/usc/t52/s30114].
+            For provisions providing for the enforcement of the reporting requirements under this subsection, see [section 30109 of this title][/us/usc/t52/s30109].
 
 ([Pub. L. 92–225, title III, § 315A][/us/pl/92/225/s315A], as added [Pub. L. 107–155, title III, § 319(a)][/us/pl/107/155/s319/a], Mar. 27, 2002, [116 Stat. 109][/us/stat/116/109].)
 
  __References in Text__ 
 
-    Subsections (a)(1)(A), (3), and (d), referred to in subsec. (a)(1), probably mean subsections (a)(1)(A), (3), and (d) of [section 30124 of this title][/us/usc/t52/s30124].
+    Subsections (a)(1)(A), (3), and (d), referred to in subsec. (a)(1), probably mean subsections (a)(1)(A), (3), and (d) of [section 30116 of this title][/us/usc/t52/s30116].
+
+ __Constitutionality__ 
+
+For information regarding constitutionality of [section 315A of Pub. L. 92–225][/us/pl/92/225/s315A], as added by [section 319(a) of Pub. L. 107–155][/us/pl/107/155/s319/a], see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Appendix 1, Acts of Congress Held Unconstitutional in Whole or in Part by the Supreme Court of the United States.
 
  __Codification__ 
 
-    Section was formerly classified to [section 441a–1 of Title 2][/us/usc/t2/s441a–1], The Congress, prior to editorial reclassification and renumbering in Title 52, Voting and Elections.
+    Section was formerly classified to [section 441a–1 of Title 2][/us/usc/t2/s441a–1], The Congress, prior to editorial reclassification and renumbering as this section.
 
  __Effective Date__ 
 
@@ -146,11 +150,13 @@
 ----------
 ----------
 
-[/us/usc/t52/s30114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs30114
+[/us/usc/t52/s30109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs30109
 [/us/pl/92/225/s315A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F225%2Fs315A
 [/us/pl/107/155/s319/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F155%2Fs319%2Fa
 [/us/stat/116/109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F109
-[/us/usc/t52/s30124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs30124
+[/us/usc/t52/s30116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs30116
+[/us/pl/92/225/s315A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F225%2Fs315A
+[/us/pl/107/155/s319/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F155%2Fs319%2Fa
 [/us/usc/t2/s441a–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs441a%E2%80%931
 [/us/pl/107/155/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F155%2Fs402
 [/us/usc/t52/s30101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs30101

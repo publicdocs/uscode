@@ -31,7 +31,7 @@
 
     (c) __Specification__ 
 
-    Any printed communication described in subsection (a) of this section shall—
+    Any printed communication described in subsection (a) shall—
 
         (1) be of sufficient type size to be clearly readable by the recipient of the communication;
 
@@ -45,11 +45,11 @@
 
             (A) __By radio__ 
 
-                Any communication described in paragraph (1) or (2) of subsection (a) of this section which is transmitted through radio shall include, in addition to the requirements of that paragraph, an audio statement by the candidate that identifies the candidate and states that the candidate has approved the communication.
+                Any communication described in paragraph (1) or (2) of subsection (a) which is transmitted through radio shall include, in addition to the requirements of that paragraph, an audio statement by the candidate that identifies the candidate and states that the candidate has approved the communication.
 
             (B) __By television__ 
 
-            Any communication described in paragraph (1) or (2) of subsection (a) of this section which is transmitted through television shall include, in addition to the requirements of that paragraph, a statement that identifies the candidate and states that the candidate has approved the communication. Such statement—
+            Any communication described in paragraph (1) or (2) of subsection (a) which is transmitted through television shall include, in addition to the requirements of that paragraph, a statement that identifies the candidate and states that the candidate has approved the communication. Such statement—
 
                 (i)
 
@@ -63,19 +63,19 @@
 
         (2) __Communications by others__ 
 
-            Any communication described in paragraph (3) of subsection (a) of this section which is transmitted through radio or television shall include, in addition to the requirements of that paragraph, in a clearly spoken manner, the following audio statement: “\_\_\_\_\_ is responsible for the content of this advertising.” (with the blank to be filled in with the name of the political committee or other person paying for the communication and the name of any connected organization of the payor). If transmitted through television, the statement shall be conveyed by an unobscured, full-screen view of a representative of the political committee or other person making the statement, or by a representative of such political committee or other person in voice-over, and shall also appear in a clearly readable manner with a reasonable degree of color contrast between the background and the printed statement, for a period of at least 4 seconds.
+            Any communication described in paragraph (3) of subsection (a) which is transmitted through radio or television shall include, in addition to the requirements of that paragraph, in a clearly spoken manner, the following audio statement: “\_\_\_\_\_ is responsible for the content of this advertising.” (with the blank to be filled in with the name of the political committee or other person paying for the communication and the name of any connected organization of the payor). If transmitted through television, the statement shall be conveyed by an unobscured, full-screen view of a representative of the political committee or other person making the statement, or by a representative of such political committee or other person in voice-over, and shall also appear in a clearly readable manner with a reasonable degree of color contrast between the background and the printed statement, for a period of at least 4 seconds.
 
 ([Pub. L. 92–225, title III, § 318][/us/pl/92/225/s318], formerly § 323, as added [Pub. L. 94–283, title I, § 112(2)][/us/pl/94/283/s112/2], May 11, 1976, [90 Stat. 493][/us/stat/90/493]; renumbered § 318 and amended [Pub. L. 96–187, title I][/us/pl/96/187], §§ 105(5), 111, Jan. 8, 1980, [93 Stat. 1354][/us/stat/93/1354], 1365; [Pub. L. 107–155, title III, § 311][/us/pl/107/155/s311], Mar. 27, 2002, [116 Stat. 105][/us/stat/116/105].)
 
  __Codification__ 
 
-    Section was formerly classified to [section 441d of Title 2][/us/usc/t2/s441d], The Congress, prior to editorial reclassification and renumbering in Title 52, Voting and Elections. Any notes below for amendments to this section prior to 2013 reflect the former classification of this section.
+    Section was formerly classified to [section 441d of Title 2][/us/usc/t2/s441d], The Congress, prior to editorial reclassification and renumbering as this section. Some section numbers referenced in amendment notes below reflect the classification of such sections prior to their editorial reclassification to this title.
 
  __Prior Provisions__ 
 
-    A prior [section 318 of Pub. L. 92–225][/us/pl/92/225/s318] was classified to [section 439b of Title 2][/us/usc/t2/s439b], The Congress, prior to repeal by [Pub. L. 96–187][/us/pl/96/187] and subsequent reclassification and renumbering as [section 30120 of this title][/us/usc/t52/s30120].
+    A prior [section 318 of Pub. L. 92–225][/us/pl/92/225/s318] was classified to [section 439b of Title 2][/us/usc/t2/s439b], The Congress, prior to repeal by [Pub. L. 96–187][/us/pl/96/187].
 
-    Another prior [section 318 of Pub. L. 92–225][/us/pl/92/225/s318] was renumbered section 313, and is classified to [section 30119 of this title][/us/usc/t52/s30119].
+    Another prior [section 318 of Pub. L. 92–225][/us/pl/92/225/s318] was renumbered section 313, and is classified to [section 30114 of this title][/us/usc/t52/s30114].
 
  __Amendments__ 
 
@@ -118,9 +118,8 @@
 [/us/pl/92/225/s318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F225%2Fs318
 [/us/usc/t2/s439b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs439b
 [/us/pl/96/187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F187
-[/us/usc/t52/s30120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs30120
 [/us/pl/92/225/s318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F225%2Fs318
-[/us/usc/t52/s30119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs30119
+[/us/usc/t52/s30114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs30114
 [/us/pl/107/155/s311/1/A/iv]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F155%2Fs311%2F1%2FA%2Fiv
 [/us/usc/t52/s434/f/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs434%2Ff%2F3
 [/us/pl/107/155/s311/1/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F155%2Fs311%2F1%2FA%2Fi

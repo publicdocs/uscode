@@ -21,15 +21,15 @@
 
  __Codification__ 
 
-    Section was formerly classified to [section 441f of Title 2][/us/usc/t2/s441f], The Congress, prior to editorial reclassification and renumbering in Title 52, Voting and Elections.
+    Section was formerly classified to [section 441f of Title 2][/us/usc/t2/s441f], The Congress, prior to editorial reclassification and renumbering as this section.
 
  __Prior Provisions__ 
 
-    A prior [section 320 of Pub. L. 92–225][/us/pl/92/225/s320] was renumbered section 315, and is classified to [section 30124 of this title][/us/usc/t52/s30124].
+    A prior [section 320 of Pub. L. 92–225][/us/pl/92/225/s320] was renumbered section 315, and is classified to [section 30116 of this title][/us/usc/t52/s30116].
 
-    Another prior [section 320 of Pub. L. 92–225][/us/pl/92/225/s320] was classified to [section 441 of Title 2][/us/usc/t2/s441], The Congress, prior to repeal by [Pub. L. 94–283][/us/pl/94/283] and subsequent reclassification and renumbering as [section 30123 of this title][/us/usc/t52/s30123].
+    Another prior [section 320 of Pub. L. 92–225][/us/pl/92/225/s320] was classified to [section 441 of Title 2][/us/usc/t2/s441], The Congress, prior to repeal by [Pub. L. 94–283][/us/pl/94/283].
 
-    Another prior [section 320 of Pub. L. 92–225][/us/pl/92/225/s320] was renumbered section 314, and is classified to [section 30121 of this title][/us/usc/t52/s30121].
+    Another prior [section 320 of Pub. L. 92–225][/us/pl/92/225/s320] was renumbered section 314, and is classified to [section 30115 of this title][/us/usc/t52/s30115].
 
 ----------
 
@@ -45,12 +45,11 @@
 [/us/stat/93/1354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F1354
 [/us/usc/t2/s441f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs441f
 [/us/pl/92/225/s320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F225%2Fs320
-[/us/usc/t52/s30124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs30124
+[/us/usc/t52/s30116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs30116
 [/us/pl/92/225/s320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F225%2Fs320
 [/us/usc/t2/s441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs441
 [/us/pl/94/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F283
-[/us/usc/t52/s30123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs30123
 [/us/pl/92/225/s320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F225%2Fs320
-[/us/usc/t52/s30121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs30121
+[/us/usc/t52/s30115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs30115
 
 

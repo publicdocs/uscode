@@ -41,17 +41,25 @@
 
                 (i)
 
-                 Notwithstanding subparagraph (A), in the case of a violation of any requirement of [section 30104(a) of this title][/us/usc/t52/s30104/a], the Commission may—
+                 Notwithstanding subparagraph (A), in the case of a violation of a qualified disclosure requirement, the Commission may—
 
                     (I) find that a person committed such a violation on the basis of information obtained pursuant to the procedures described in paragraphs (1) and (2); and
 
-                    (II) based on such finding, require the person to pay a civil money penalty in an amount determined under a schedule of penalties which is established and published by the Commission and which takes into account the amount of the violation involved, the existence of previous violations by the person, and such other factors as the Commission considers appropriate.
+                    (II) based on such finding, require the person to pay a civil money penalty in an amount determined, for violations of each qualified disclosure requirement, under a schedule of penalties which is established and published by the Commission and which takes into account the amount of the violation involved, the existence of previous violations by the person, and such other factors as the Commission considers appropriate.
 
                 (ii) The Commission may not make any determination adverse to a person under clause (i) until the person has been given written notice and an opportunity to be heard before the Commission.
 
                 (iii) Any person against whom an adverse determination is made under this subparagraph may obtain a review of such determination in the district court of the United States for the district in which the person resides, or transacts business, by filing in such court (prior to the expiration of the 30-day period which begins on the date the person receives notification of the determination) a written petition requesting that the determination be modified or set aside.
 
-                (iv) This subparagraph shall apply with respect to violations that relate to reporting periods that begin on or after January 1, 2000, and that end on or before December 31, 2013.
+                (iv)
+
+                 In this subparagraph, the term “qualified disclosure requirement” means any requirement of—
+
+                    (I) subsections  <sup>\[2\]</sup>  <sup><sup> 2 So in original. Probably should be “subsection”. </sup></sup>  (a), (c), (e), (f), (g), or (i) of [section 30104 of this title][/us/usc/t52/s30104]; or
+
+                    (II) [section 30105 of this title][/us/usc/t52/s30105].
+
+                (v) This subparagraph shall apply with respect to violations that relate to reporting periods that begin on or after January 1, 2000, and that end on or before December 31, 2018.
 
         (5)
 
@@ -59,7 +67,7 @@
 
             (B) If the Commission believes that a knowing and willful violation of this Act or of chapter 95 or chapter 96 of title 26 has been committed, a conciliation agreement entered into by the Commission under paragraph (4)(A) may require that the person involved in such conciliation agreement shall pay a civil penalty which does not exceed the greater of $10,000 or an amount equal to 200 percent of any contribution or expenditure involved in such violation (or, in the case of a violation of [section 30122 of this title][/us/usc/t52/s30122], which is not less than 300 percent of the amount involved in the violation and is not more than the greater of $50,000 or 1,000 percent of the amount involved in the violation).
 
-            (C) If the Commission by an affirmative vote of 4 of its members, determines that there is probable cause to believe that a knowing and willful violation of this Act which is subject to subsection (d) of this section, or a knowing and willful violation of chapter 95 or chapter 96 of title 26, has occurred or is about to occur, it may refer such apparent violation to the Attorney General of the United States without regard to any limitations set forth in paragraph (4)(A).
+            (C) If the Commission by an affirmative vote of 4 of its members, determines that there is probable cause to believe that a knowing and willful violation of this Act which is subject to subsection (d), or a knowing and willful violation of chapter 95 or chapter 96 of title 26, has occurred or is about to occur, it may refer such apparent violation to the Attorney General of the United States without regard to any limitations set forth in paragraph (4)(A).
 
             (D) In any case in which a person has entered into a conciliation agreement with the Commission under paragraph (4)(A), the Commission may institute a civil action for relief under paragraph (6)(A) if it believes that the person has violated any provision of such conciliation agreement. For the Commission to obtain relief in any civil action, the Commission need only establish that the person has violated, in whole or in part, any requirement of such conciliation agreement.
 
@@ -95,7 +103,7 @@
 
     (b) __Notice to persons not filing required reports prior to institution of enforcement action; publication of identity of persons and unfiled reports__ 
 
-        Before taking any action under subsection (a) of this section against any person who has failed to file a report required under [section 30104(a)(2)(A)(iii) of this title][/us/usc/t52/s30104/a/2/A/iii] for the calendar quarter immediately preceding the election involved, or in accordance with [section 30104(a)(2)(A)(i) of this title][/us/usc/t52/s30104/a/2/A/i], the Commission shall notify the person of such failure to file the required reports. If a satisfactory response is not received within 4 business days after the date of notification, the Commission shall, pursuant to [section 30111(a)(7) of this title][/us/usc/t52/s30111/a/7], publish before the election the name of the person and the report or reports such person has failed to file.
+        Before taking any action under subsection (a) against any person who has failed to file a report required under [section 30104(a)(2)(A)(iii) of this title][/us/usc/t52/s30104/a/2/A/iii] for the calendar quarter immediately preceding the election involved, or in accordance with [section 30104(a)(2)(A)(i) of this title][/us/usc/t52/s30104/a/2/A/i], the Commission shall notify the person of such failure to file the required reports. If a satisfactory response is not received within 4 business days after the date of notification, the Commission shall, pursuant to [section 30111(a)(7) of this title][/us/usc/t52/s30111/a/7], publish before the election the name of the person and the report or reports such person has failed to file.
 
     (c) __Reports by Attorney General of apparent violations__ 
 
@@ -133,7 +141,7 @@
 
                 (iii) both imprisoned under clause (i) and fined under clause (ii).
 
-        (2) In any criminal action brought for a violation of any provision of this Act or of chapter 95 or chapter 96 of title 26, any defendant may evidence their lack of knowledge or intent to commit the alleged violation by introducing as evidence a conciliation agreement entered into between the defendant and the Commission under subsection (a)(4)(A) of this section which specifically deals with the act or failure to act constituting such violation and which is still in effect.
+        (2) In any criminal action brought for a violation of any provision of this Act or of chapter 95 or chapter 96 of title 26, any defendant may evidence their lack of knowledge or intent to commit the alleged violation by introducing as evidence a conciliation agreement entered into between the defendant and the Commission under subsection (a)(4)(A) which specifically deals with the act or failure to act constituting such violation and which is still in effect.
 
         (3)
 
@@ -145,7 +153,7 @@
 
             (C) the defendant is, with respect to the violation involved, in compliance with the conciliation agreement.
 
-([Pub. L. 92–225, title III, § 309][/us/pl/92/225/s309], formerly § 314, as added [Pub. L. 93–443, title II, § 208(a)][/us/pl/93/443/s208/a], Oct. 15, 1974, [88 Stat. 1284][/us/stat/88/1284]; renumbered § 313 and amended [Pub. L. 94–283, title I][/us/pl/94/283], §§ 105, 109, May 11, 1976, [90 Stat. 481][/us/stat/90/481], 483; renumbered § 309 and amended [Pub. L. 96–187, title I][/us/pl/96/187], §§ 105(4), 108, Jan. 8, 1980, [93 Stat. 1354][/us/stat/93/1354], 1358; [Pub. L. 98–620, title IV, § 402(1)(A)][/us/pl/98/620/s402/1/A], Nov. 8, 1984, [98 Stat. 3357][/us/stat/98/3357]; [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095]; [Pub. L. 106–58, title VI, § 640(a)][/us/pl/106/58/s640/a], (b), Sept. 29, 1999, [113 Stat. 476][/us/stat/113/476], 477; [Pub. L. 107–155, title III][/us/pl/107/155], §§ 312(a), 315(a), (b), Mar. 27, 2002, [116 Stat. 106][/us/stat/116/106], 108; [Pub. L. 110–433, § 1(a)][/us/pl/110/433/s1/a], Oct. 16, 2008, [122 Stat. 4971][/us/stat/122/4971].)
+([Pub. L. 92–225, title III, § 309][/us/pl/92/225/s309], formerly § 314, as added [Pub. L. 93–443, title II, § 208(a)][/us/pl/93/443/s208/a], Oct. 15, 1974, [88 Stat. 1284][/us/stat/88/1284]; renumbered § 313 and amended [Pub. L. 94–283, title I][/us/pl/94/283], §§ 105, 109, May 11, 1976, [90 Stat. 481][/us/stat/90/481], 483; renumbered § 309 and amended [Pub. L. 96–187, title I][/us/pl/96/187], §§ 105(4), 108, Jan. 8, 1980, [93 Stat. 1354][/us/stat/93/1354], 1358; [Pub. L. 98–620, title IV, § 402(1)(A)][/us/pl/98/620/s402/1/A], Nov. 8, 1984, [98 Stat. 3357][/us/stat/98/3357]; [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095]; [Pub. L. 106–58, title VI, § 640(a)][/us/pl/106/58/s640/a], (b), Sept. 29, 1999, [113 Stat. 476][/us/stat/113/476], 477; [Pub. L. 107–155, title III][/us/pl/107/155], §§ 312(a), 315(a), (b), Mar. 27, 2002, [116 Stat. 106][/us/stat/116/106], 108; [Pub. L. 110–433, § 1(a)][/us/pl/110/433/s1/a], Oct. 16, 2008, [122 Stat. 4971][/us/stat/122/4971]; [Pub. L. 113–72][/us/pl/113/72], §§ 1, 2, Dec. 26, 2013, [127 Stat. 1210][/us/stat/127/1210].)
 
  __References in Text__ 
 
@@ -153,11 +161,9 @@
 
  __Codification__ 
 
-    Section was formerly classified to [section 437g of Title 2][/us/usc/t2/s437g], The Congress, prior to editorial reclassification and renumbering in Title 52, Voting and Elections. Any notes below for amendments to this section prior to 2013 reflect the former classification of this section.
+    Section was formerly classified to [section 437g of Title 2][/us/usc/t2/s437g], The Congress, prior to editorial reclassification and renumbering as this section. Some section numbers referenced in amendment notes below reflect the classification of such sections prior to their editorial reclassification to this title.
 
  __Prior Provisions__ 
-
-    Provisions similar to those comprising subsec. (a) of this section were contained in [section 308(d) of Pub. L. 92–225][/us/pl/92/225/s308/d], title III, Feb. 7, 1972, [86 Stat. 18][/us/stat/86/18] ([section 30111(d) of this title][/us/usc/t52/s30111/d]), prior to amendment of [section 308 of Pub. L. 92–225][/us/pl/92/225/s308] by [Pub. L. 93–443][/us/pl/93/443].
 
     A prior [section 309 of Pub. L. 92–225][/us/pl/92/225/s309] was renumbered section 306, and is classified to [section 30106 of this title][/us/usc/t52/s30106].
 
@@ -166,6 +172,16 @@
     Another prior [section 309 of Pub. L. 92–225][/us/pl/92/225/s309] was renumbered section 312, and is classified to [section 30113 of this title][/us/usc/t52/s30113].
 
  __Amendments__ 
+
+    2013—Subsec. (a)(4)(C)(i). [Pub. L. 113–72, § 2(a)][/us/pl/113/72/s2/a], substituted “a qualified disclosure requirement” for “any requirement of [section 434(a) of this title][/us/usc/t52/s434/a]” in introductory provisions.
+
+    Subsec. (a)(4)(C)(i)(II). [Pub. L. 113–72, § 2(b)][/us/pl/113/72/s2/b], inserted “, for violations of each qualified disclosure requirement,” before “under a schedule of penalties”.
+
+    Subsec. (a)(4)(C)(iv). [Pub. L. 113–72, § 2(c)(2)][/us/pl/113/72/s2/c/2], added cl. (iv). Former cl. (iv) redesignated (v).
+
+    [Pub. L. 113–72, § 1][/us/pl/113/72/s1], substituted “December 31, 2018” for “December 31, 2013”.
+
+    Subsec. (a)(4)(C)(v). [Pub. L. 113–72, § 2(c)(1)][/us/pl/113/72/s2/c/1], redesignated cl. (iv) as (v).
 
     2008—Subsec. (a)(4)(C)(iv). [Pub. L. 110–433][/us/pl/110/433] added cl. (iv).
 
@@ -192,6 +208,16 @@
     1976—Subsec. (a). [Pub. L. 94–283, § 109][/us/pl/94/283/s109], generally revised provisions of subsec. (a) to reflect enactment of sections 441a to 441j of this title and repeal of sections 608 and 610 to 617 of title 18 and to update the operations of the Commission.
 
     Subsecs. (b), (c). [Pub. L. 94–283, § 109][/us/pl/94/283/s109], reenacted subsec. (b) without change and added subsec. (c).
+
+ __Effective Date of 2013 Amendment__ 
+
+[Pub. L. 113–72, § 3][/us/pl/113/72/s3], Dec. 26, 2013, [127 Stat. 1211][/us/stat/127/1211], provided that: 
+
+> “The amendments made by this Act \[amending this section\] shall take effect on the earlier of—
+
+>     “(1) December 31, 2013; or
+
+>     “(2) the date of the enactment of this Act \[Dec. 26, 2013\].”
 
  __Effective Date of 2008 Amendment__ 
 
@@ -233,7 +259,8 @@
 ----------
 
 [/us/usc/t18/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1001
-[/us/usc/t52/s30104/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs30104%2Fa
+[/us/usc/t52/s30104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs30104
+[/us/usc/t52/s30105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs30105
 [/us/usc/t52/s30122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs30122
 [/us/usc/t52/s30122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs30122
 [/us/usc/t28/s1254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1254
@@ -263,13 +290,10 @@
 [/us/stat/116/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F106
 [/us/pl/110/433/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F433%2Fs1%2Fa
 [/us/stat/122/4971]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4971
+[/us/pl/113/72]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F72
+[/us/stat/127/1210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1210
 [/us/usc/t52/s30101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs30101
 [/us/usc/t2/s437g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs437g
-[/us/pl/92/225/s308/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F225%2Fs308%2Fd
-[/us/stat/86/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F18
-[/us/usc/t52/s30111/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs30111%2Fd
-[/us/pl/92/225/s308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F225%2Fs308
-[/us/pl/93/443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F443
 [/us/pl/92/225/s309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F225%2Fs309
 [/us/usc/t52/s30106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs30106
 [/us/pl/92/225/s309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F225%2Fs309
@@ -277,6 +301,12 @@
 [/us/pl/96/187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F187
 [/us/pl/92/225/s309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F225%2Fs309
 [/us/usc/t52/s30113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs30113
+[/us/pl/113/72/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F72%2Fs2%2Fa
+[/us/usc/t52/s434/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs434%2Fa
+[/us/pl/113/72/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F72%2Fs2%2Fb
+[/us/pl/113/72/s2/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F72%2Fs2%2Fc%2F2
+[/us/pl/113/72/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F72%2Fs1
+[/us/pl/113/72/s2/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F72%2Fs2%2Fc%2F1
 [/us/pl/110/433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F433
 [/us/pl/107/155/s315/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F155%2Fs315%2Fa%2F1
 [/us/usc/t52/s441f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs441f
@@ -293,6 +323,8 @@
 [/us/pl/96/187/s108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F187%2Fs108
 [/us/pl/94/283/s109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F283%2Fs109
 [/us/pl/94/283/s109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F283%2Fs109
+[/us/pl/113/72/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F72%2Fs3
+[/us/stat/127/1211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1211
 [/us/pl/110/433/s1/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F433%2Fs1%2Fc
 [/us/stat/122/4971]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4971
 [/us/pl/106/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F58

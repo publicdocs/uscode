@@ -79,13 +79,13 @@
 
         (2) __Other activities__ 
 
-            No member appointed to the Commission under subsection (a) of this section may engage in any other business, vocation, or employment while serving as a member of the Commission and shall terminate or liquidate such business, vocation, or employment before sitting as a member of the Commission.
+            No member appointed to the Commission under subsection (a) may engage in any other business, vocation, or employment while serving as a member of the Commission and shall terminate or liquidate such business, vocation, or employment before sitting as a member of the Commission.
 
 ([Pub. L. 107–252, title II, § 203][/us/pl/107/252/s203], Oct. 29, 2002, [116 Stat. 1674][/us/stat/116/1674].)
 
  __Codification__ 
 
-    Section was formerly classified to [section 15323 of Title 42][/us/usc/t42/s15323], The Public Health and Welfare, prior to editorial reclassification and renumbering in Title 52, Voting and Elections.
+    Section was formerly classified to [section 15323 of Title 42][/us/usc/t42/s15323], The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
 ----------
 

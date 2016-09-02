@@ -17,7 +17,7 @@
 
     (a) __In general__ 
 
-    On such periodic basis as the Commission may determine, the Commission shall conduct and make available to the public studies regarding the election administration issues described in subsection (b) of this section, with the goal of promoting methods of voting and administering elections which—
+    On such periodic basis as the Commission may determine, the Commission shall conduct and make available to the public studies regarding the election administration issues described in subsection (b), with the goal of promoting methods of voting and administering elections which—
 
         (1) will be the most convenient, accessible, and easy to use for voters, including members of the uniformed services and overseas voters, individuals with disabilities, including the blind and visually impaired, and voters with limited proficiency in the English language;
 
@@ -29,7 +29,7 @@
 
     (b) __Election administration issues described__ 
 
-    For purposes of subsection (a) of this section, the election administration issues described in this subsection are as follows:
+    For purposes of subsection (a), the election administration issues described in this subsection are as follows:
 
         (1) Methods and mechanisms of election technology and voting systems used in voting and counting votes in elections for Federal office, including the over-vote and under-vote notification capabilities of such technology and systems.
 
@@ -95,17 +95,17 @@
 
     (c) __Reports__ 
 
-        The Commission shall submit to the President and to the Committee on House Administration of the House of Representatives and the Committee on Rules and Administration of the Senate a report on each study conducted under subsection (a) of this section together with such recommendations for administrative and legislative action as the Commission determines is appropriate.
+        The Commission shall submit to the President and to the Committee on House Administration of the House of Representatives and the Committee on Rules and Administration of the Senate a report on each study conducted under subsection (a) together with such recommendations for administrative and legislative action as the Commission determines is appropriate.
 
 ([Pub. L. 107–252, title II, § 241][/us/pl/107/252/s241], Oct. 29, 2002, [116 Stat. 1686][/us/stat/116/1686].)
 
  __Codification__ 
 
-    Section was formerly classified to [section 15381 of Title 42][/us/usc/t42/s15381], The Public Health and Welfare, prior to editorial reclassification and renumbering in Title 52, Voting and Elections.
+    Section was formerly classified to [section 15381 of Title 42][/us/usc/t42/s15381], The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
  __Election Data Collection Grants__ 
 
-    [Pub. L. 110–161, div. D, title V, § 501][/us/pl/110/161/s501], Dec. 26, 2007, [121 Stat. 1997][/us/stat/121/1997], required that, no later than Mar. 30, 2008, the Election Assistance Commission establish an election data collection grant program to provide grants of $2,000,000 to 5 eligible States to improve the collection of data relating to the regularly scheduled general election for Federal office held in Nov. 2008, and that the Commission, in consultation with the States that received grants under the program and the Election Assistance Commission Board of Advisors, submit a report to Congress on the impact of the program by June 30, 2009.
+    [Pub. L. 110–161, div. D, title V, § 501][/us/pl/110/161/s501], Dec. 26, 2007, [121 Stat. 1997][/us/stat/121/1997], required the Election Assistance Commission to establish an election data collection grant program.
 
 ----------
 

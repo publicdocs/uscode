@@ -53,7 +53,7 @@
 
     (e) __Principal and additional campaign committees; designations, status of candidate, authorized committees, etc.__ 
 
-        (1) Each candidate for Federal office (other than the nominee for the office of Vice President) shall designate in writing a political committee in accordance with paragraph (3) to serve as the principal campaign committee of such candidate. Such designation shall be made no later than 15 days after becoming a candidate. A candidate may designate additional political committees in accordance with paragraph (3) to serve as authorized committees of such candidate. Such designation shall be in writing and filed with the principal campaign committee of such candidate in accordance with subsection (f)(1) of this section.
+        (1) Each candidate for Federal office (other than the nominee for the office of Vice President) shall designate in writing a political committee in accordance with paragraph (3) to serve as the principal campaign committee of such candidate. Such designation shall be made no later than 15 days after becoming a candidate. A candidate may designate additional political committees in accordance with paragraph (3) to serve as authorized committees of such candidate. Such designation shall be in writing and filed with the principal campaign committee of such candidate in accordance with subsection (f)(1).
 
         (2) Any candidate described in paragraph (1) who receives a contribution, or any loan for use in connection with the campaign of such candidate for election, or makes a disbursement in connection with such campaign, shall be considered, for purposes of this Act, as having received the contribution or loan, or as having made the disbursement, as the case may be, as an agent of the authorized committee or committees of such candidate.
 
@@ -93,7 +93,7 @@
 
         (1) Each political committee shall designate one or more State banks, federally chartered depository institutions, or depository institutions the deposits or accounts of which are insured by the Federal Deposit Insurance Corporation, the Federal Savings and Loan Insurance Corporation, or the National Credit Union Administration, as its campaign depository or depositories. Each political committee shall maintain at least one checking account and such other accounts as the committee determines at a depository designated by such committee. All receipts received by such committee shall be deposited in such accounts. No disbursements may be made (other than petty cash disbursements under paragraph (2)) by such committee except by check drawn on such accounts in accordance with this section.
 
-        (2) A political committee may maintain a petty cash fund for disbursements not in excess of $100 to any person in connection with a single purchase or transaction. A record of all petty cash disbursements shall be maintained in accordance with subsection (c)(5) of this section.
+        (2) A political committee may maintain a petty cash fund for disbursements not in excess of $100 to any person in connection with a single purchase or transaction. A record of all petty cash disbursements shall be maintained in accordance with subsection (c)(5).
 
     (i) __Reports and records, compliance with requirements based on best efforts__ 
 
@@ -107,13 +107,13 @@
 
  __Codification__ 
 
-    Section was formerly classified to [section 432 of Title 2][/us/usc/t2/s432], The Congress, prior to editorial reclassification and renumbering in Title 52, Voting and Elections. Any notes below for amendments to this section prior to 2013 reflect the former classification of this section.
+    Section was formerly classified to [section 432 of Title 2][/us/usc/t2/s432], The Congress, prior to editorial reclassification and renumbering as this section. Some section numbers referenced in amendment notes below reflect the classification of such sections prior to their editorial reclassification to this title.
 
  __Amendments__ 
 
     2004—Subsec. (e)(3)(B). [Pub. L. 108–447][/us/pl/108/447] substituted “$2,000” for “$1,000”.
 
-    1997—Subsec. (g)(1). [Pub. L. 105–55][/us/pl/105/55] struck out “and” after “Senator,” and inserted “and by the Republican and Democratic Senatorial Campaign Committees” after “candidate,”.
+    1997—Subsec. (g)(1). [Pub. L. 105–61][/us/pl/105/61] struck out “and” after “Senator,” and inserted “and by the Republican and Democratic Senatorial Campaign Committees” after “candidate,”.
 
     1995—Subsec. (d). [Pub. L. 104–79, § 1(b)][/us/pl/104/79/s1/b], inserted at end “For any report filed in electronic format under [section 434(a)(11) of this title][/us/usc/t52/s434/a/11], the treasurer shall retain a machine-readable copy of the report as the copy preserved under the preceding sentence.”
 
@@ -209,7 +209,7 @@
 [/us/usc/t52/s30101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs30101
 [/us/usc/t2/s432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs432
 [/us/pl/108/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447
-[/us/pl/105/55]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F55
+[/us/pl/105/61]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F61
 [/us/pl/104/79/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F79%2Fs1%2Fb
 [/us/usc/t52/s434/a/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs434%2Fa%2F11
 [/us/pl/104/79/s3/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F79%2Fs3%2Fa%2F1

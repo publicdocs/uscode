@@ -25,13 +25,13 @@
 
     (b) __Continuing availability of funds after appropriation__ 
 
-        Any payment made to a State under this subchapter shall be available to the State without fiscal year limitation (subject to subsection (c)(2)(B) of this section).
+        Any payment made to a State under this subchapter shall be available to the State without fiscal year limitation (subject to subsection (c)(2)(B)).
 
     (c) __Use of returned funds and funds remaining unexpended for requirements payments__ 
 
         (1) __In general__ 
 
-            The amounts described in paragraph (2) shall be transferred to the Election Assistance Commission (established under subchapter II of this chapter) and used by the Commission to make requirements payments under subpart 1 of part D of subchapter II of this chapter.
+            The amounts described in paragraph (2) shall be transferred to the Election Assistance Commission (established under subchapter II) and used by the Commission to make requirements payments under subpart 1 of part D of subchapter II.
 
         (2) __Amounts described__ 
 
@@ -47,13 +47,13 @@
 
     (e) __Authorization of appropriations for Administrator__ 
 
-        In addition to the amounts authorized under subsection (a) of this section, there are authorized to be appropriated to the Administrator such sums as may be necessary to administer the programs under this subchapter.
+        In addition to the amounts authorized under subsection (a), there are authorized to be appropriated to the Administrator such sums as may be necessary to administer the programs under this subchapter.
 
 ([Pub. L. 107–252, title I, § 104][/us/pl/107/252/s104], Oct. 29, 2002, [116 Stat. 1672][/us/stat/116/1672].)
 
  __Codification__ 
 
-    Section was formerly classified to [section 15304 of Title 42][/us/usc/t42/s15304], The Public Health and Welfare, prior to editorial reclassification and renumbering in Title 52, Voting and Elections.
+    Section was formerly classified to [section 15304 of Title 42][/us/usc/t42/s15304], The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
 ----------
 

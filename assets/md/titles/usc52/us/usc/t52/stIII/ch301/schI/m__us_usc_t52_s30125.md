@@ -65,15 +65,15 @@
 
             (C) __Prohibiting involvement of national parties, Federal candidates and officeholders, and State parties acting jointly__ 
 
-            Notwithstanding subsection (e) of this section (other than subsection (e)(3)), amounts specifically authorized to be spent under subparagraph (B)(iii) meet the requirements of this subparagraph only if the amounts—
+            Notwithstanding subsection (e) (other than subsection (e)(3)), amounts specifically authorized to be spent under subparagraph (B)(iii) meet the requirements of this subparagraph only if the amounts—
 
-                (i) are not solicited, received, directed, transferred, or spent by or in the name of any person described in subsection (a) or (e) of this section; and
+                (i) are not solicited, received, directed, transferred, or spent by or in the name of any person described in subsection (a) or (e); and
 
                 (ii) are not solicited, received, or directed through fundraising activities conducted jointly by 2 or more State, local, or district committees of any political party or their agents, or by a State, local, or district committee of a political party on behalf of the State, local, or district committee of a political party or its agent in one or more other States.
 
     (c) __Fundraising costs__ 
 
-        An amount spent by a person described in subsection (a) or (b) of this section to raise funds that are used, in whole or in part, for expenditures and disbursements for a Federal election activity shall be made from funds subject to the limitations, prohibitions, and reporting requirements of this Act.
+        An amount spent by a person described in subsection (a) or (b) to raise funds that are used, in whole or in part, for expenditures and disbursements for a Federal election activity shall be made from funds subject to the limitations, prohibitions, and reporting requirements of this Act.
 
     (d) __Tax-exempt organizations__ 
 
@@ -95,7 +95,7 @@
 
              solicit, receive, direct, transfer, or spend funds in connection with any election other than an election for Federal office or disburse funds in connection with such an election unless the funds—
 
-                (i) are not in excess of the amounts permitted with respect to contributions to candidates and political committees under paragraphs (1), (2), and (3) of [section 30124(a) of this title][/us/usc/t52/s30124/a]; and
+                (i) are not in excess of the amounts permitted with respect to contributions to candidates and political committees under paragraphs (1), (2), and (3) of [section 30116(a) of this title][/us/usc/t52/s30116/a]; and
 
                 (ii) are not from sources prohibited by this Act from making contributions in connection with an election for Federal office.
 
@@ -105,7 +105,7 @@
 
         (3) __Fundraising events__ 
 
-            Notwithstanding paragraph (1) or subsection (b)(2)(C) of this section, a candidate or an individual holding Federal office may attend, speak, or be a featured guest at a fundraising event for a State, district, or local committee of a political party.
+            Notwithstanding paragraph (1) or subsection (b)(2)(C), a candidate or an individual holding Federal office may attend, speak, or be a featured guest at a fundraising event for a State, district, or local committee of a political party.
 
         (4) __Permitting certain solicitations__ 
 
@@ -139,13 +139,13 @@
 
  __Codification__ 
 
-    Section was formerly classified to [section 441i of Title 2][/us/usc/t2/s441i], The Congress, prior to editorial reclassification and renumbering in Title 52, Voting and Elections.
+    Section was formerly classified to [section 441i of Title 2][/us/usc/t2/s441i], The Congress, prior to editorial reclassification and renumbering as this section.
 
  __Prior Provisions__ 
 
     A prior [section 323 of Pub. L. 92–225][/us/pl/92/225/s323] was classified to [section 441i of Title 2][/us/usc/t2/s441i], The Congress, and related to acceptance of excessive honorariums, prior to repeal by [Pub. L. 102–90, title I, § 6(d)][/us/pl/102/90/s6/d], Aug. 14, 1991, [105 Stat. 451][/us/stat/105/451].
 
-    Another prior [section 323 of Pub. L. 92–225][/us/pl/92/225/s323] was renumbered section 318, and is classified to [section 30128 of this title][/us/usc/t52/s30128].
+    Another prior [section 323 of Pub. L. 92–225][/us/pl/92/225/s323] was renumbered section 318, and is classified to [section 30120 of this title][/us/usc/t52/s30120].
 
  __Effective Date__ 
 
@@ -160,7 +160,7 @@
 
 [/us/usc/t52/s30101/20/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs30101%2F20%2FA
 [/us/usc/t26/s501/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs501%2Fc
-[/us/usc/t52/s30124/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs30124%2Fa
+[/us/usc/t52/s30116/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs30116%2Fa
 [/us/usc/t26/s501/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs501%2Fc
 [/us/usc/t52/s30101/20/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs30101%2F20%2FA
 [/us/usc/t52/s30101/20/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs30101%2F20%2FA
@@ -175,7 +175,7 @@
 [/us/pl/102/90/s6/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F90%2Fs6%2Fd
 [/us/stat/105/451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F451
 [/us/pl/92/225/s323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F225%2Fs323
-[/us/usc/t52/s30128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs30128
+[/us/usc/t52/s30120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs30120
 [/us/pl/107/155/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F155%2Fs402
 [/us/usc/t52/s30101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs30101
 

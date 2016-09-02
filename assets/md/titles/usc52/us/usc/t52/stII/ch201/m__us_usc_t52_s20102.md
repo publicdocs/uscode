@@ -17,11 +17,11 @@
 
     (a) __Accessibility to all polling places as responsibility of each political subdivision__ 
 
-        Within each State, except as provided in subsection (b) of this section, each political subdivision responsible for conducting elections shall assure that all polling places for Federal elections are accessible to handicapped and elderly voters.
+        Within each State, except as provided in subsection (b), each political subdivision responsible for conducting elections shall assure that all polling places for Federal elections are accessible to handicapped and elderly voters.
 
     (b) __Exception__ 
 
-    Subsection (a) of this section shall not apply to a polling place—
+    Subsection (a) shall not apply to a polling place—
 
         (1) in the case of an emergency, as determined by the chief election officer of the State; or
 
@@ -51,7 +51,7 @@
 
  __Codification__ 
 
-    Section was formerly classified to [section 1973ee–1 of Title 42][/us/usc/t42/s1973ee–1], The Public Health and Welfare, prior to editorial reclassification and renumbering in Title 52, Voting and Elections.
+    Section was formerly classified to [section 1973ee–1 of Title 42][/us/usc/t42/s1973ee–1], The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
 ----------
 

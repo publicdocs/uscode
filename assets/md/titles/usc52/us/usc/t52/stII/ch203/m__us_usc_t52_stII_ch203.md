@@ -113,6 +113,10 @@
 
 </table>
 
+ __Prior Provisions__ 
+
+    Provisions similar to this chapter were contained in subchapters I–D and I–E (1973cc et seq. and 1973dd et seq.) of chapter 20 of title 42 prior to repeal by [Pub. L. 99–410][/us/pl/99/410] and then in subchapter I–G (1973ff et seq.) of chapter 20 of title 42 prior to editorial reclassification and renumbering as this chapter.
+
 ----------
 
 [Previous](./../../../../..//us/usc/t52/stII/ch201/m__us_usc_t52_s20107.md) | [Next](./../../../../..//us/usc/t52/stII/ch203/m__us_usc_t52_s20301.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2FstII%2Fch203)
@@ -120,5 +124,6 @@
 ----------
 ----------
 
+[/us/pl/99/410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F410
 
 

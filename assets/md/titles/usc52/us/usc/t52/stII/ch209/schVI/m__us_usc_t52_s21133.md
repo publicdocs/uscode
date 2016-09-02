@@ -33,11 +33,11 @@
 
  __References in Text__ 
 
-    This subchapter, referred to in text, was in the original “this subtitle”, meaning subtitle A (§§ 801–804) of title VIII of [Pub. L. 107–252][/us/pl/107/252], Oct. 29, 2002, [116 Stat. 1725][/us/stat/116/1725], which enacted this subchapter and amended sections 20508 and 30111 of this title. For complete classification of subtitle A to the Code, see Tables.
+    This subchapter, referred to in text, was in the original “this subtitle”, meaning subtitle A (§§ 801–804) of title VIII of [Pub. L. 107–252][/us/pl/107/252], Oct. 29, 2002, [116 Stat. 1725][/us/stat/116/1725]. For complete classification of subtitle A to the Code, see Tables.
 
  __Codification__ 
 
-    Section was formerly classified to [section 15533 of Title 42][/us/usc/t42/s15533], The Public Health and Welfare, prior to editorial reclassification and renumbering in Title 52, Voting and Elections.
+    Section was formerly classified to [section 15533 of Title 42][/us/usc/t42/s15533], The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
 ----------
 

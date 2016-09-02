@@ -43,19 +43,19 @@
 
  __Codification__ 
 
-    Section was formerly classified to [section 441e of Title 2][/us/usc/t2/s441e], The Congress, prior to editorial reclassification and renumbering in Title 52, Voting and Elections. Any notes below for amendments to this section prior to 2013 reflect the former classification of this section.
+    Section was formerly classified to [section 441e of Title 2][/us/usc/t2/s441e], The Congress, prior to editorial reclassification and renumbering as this section.
 
  __Prior Provisions__ 
 
-    A prior [section 319 of Pub. L. 92–225][/us/pl/92/225/s319] was renumbered section 314, and is classified to [section 30121 of this title][/us/usc/t52/s30121].
+    A prior [section 319 of Pub. L. 92–225][/us/pl/92/225/s319] was renumbered section 314, and is classified to [section 30115 of this title][/us/usc/t52/s30115].
 
-    Another prior [section 319 of Pub. L. 92–225][/us/pl/92/225/s319] was renumbered section 318, and was classified to [section 439b of Title 2][/us/usc/t2/s439b], The Congress, prior to repeal by [Pub. L. 96–187][/us/pl/96/187] and subsequent reclassification and renumbering as [section 30120 of this title][/us/usc/t52/s30120].
+    Another prior [section 319 of Pub. L. 92–225][/us/pl/92/225/s319] was renumbered section 318, and was classified to [section 439b of Title 2][/us/usc/t2/s439b], The Congress, prior to repeal by [Pub. L. 96–187][/us/pl/96/187].
 
  __Amendments__ 
 
     2002—[Pub. L. 107–155, § 303(1)][/us/pl/107/155/s303/1], substituted “Contributions and donations by foreign nationals” for “Contributions by foreign nationals” in section catchline.
 
-    Subsec. (a). [Pub. L. 107–155, § 303(2)][/us/pl/107/155/s303/2], added subsec. (a) and struck out former subsec. (a) which read as follows: “ It shall be unlawful for a foreign national directly or through any other person to make any contribution of money or other thing of value, or to promise expressly or impliedly to make any such contribution, in connection with an election to any political office or in connection with any primary election, convention, or caucus held to select candidates for any political office; or for any person to solicit, accept, or receive any such contribution from a foreign national.”
+    Subsec. (a). [Pub. L. 107–155, § 303(2)][/us/pl/107/155/s303/2], added subsec. (a) and struck out former subsec. (a) which read as follows: “It shall be unlawful for a foreign national directly or through any other person to make any contribution of money or other thing of value, or to promise expressly or impliedly to make any such contribution, in connection with an election to any political office or in connection with any primary election, convention, or caucus held to select candidates for any political office; or for any person to solicit, accept, or receive any such contribution from a foreign national.”
 
     Subsec. (b)(2). [Pub. L. 107–155, § 317][/us/pl/107/155/s317], inserted “or a national of the United States (as defined in [section 1101(a)(22) of title 8][/us/usc/t8/s1101/a/22])” after “United States”.
 
@@ -83,11 +83,10 @@
 [/us/stat/116/96]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F96
 [/us/usc/t2/s441e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs441e
 [/us/pl/92/225/s319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F225%2Fs319
-[/us/usc/t52/s30121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs30121
+[/us/usc/t52/s30115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs30115
 [/us/pl/92/225/s319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F225%2Fs319
 [/us/usc/t2/s439b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs439b
 [/us/pl/96/187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F187
-[/us/usc/t52/s30120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs30120
 [/us/pl/107/155/s303/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F155%2Fs303%2F1
 [/us/pl/107/155/s303/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F155%2Fs303%2F2
 [/us/pl/107/155/s317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F155%2Fs317

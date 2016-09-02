@@ -25,7 +25,7 @@
 
         A State shall use the funds provided under a payment made under this section to carry out one or more of the following activities:
 
-            (A) Complying with the requirements under subchapter III of this chapter.
+            (A) Complying with the requirements under subchapter III.
 
             (B) Improving the administration of elections for Federal office.
 
@@ -33,7 +33,7 @@
 
             (D) Training election officials, poll workers, and election volunteers.
 
-            (E) Developing the State plan for requirements payments to be submitted under subpart 1 of part D of subchapter II of this chapter.
+            (E) Developing the State plan for requirements payments to be submitted under subpart 1 of part D of subchapter II.
 
             (F) Improving, acquiring, leasing, modifying, or replacing voting systems and technology and methods for casting and counting votes.
 
@@ -55,7 +55,7 @@
 
         (1) the State will use the funds provided under the payment in a manner that is consistent with each of the laws described in [section 21145 of this title][/us/usc/t52/s21145], as such laws relate to the provisions of this chapter; and
 
-        (2) the proposed uses of the funds are not inconsistent with the requirements of subchapter III of this chapter.
+        (2) the proposed uses of the funds are not inconsistent with the requirements of subchapter III.
 
     (d) __Amount of payment__ 
 
@@ -91,13 +91,13 @@
 
  __References in Text__ 
 
-    Subchapter III of this chapter, referred to in subsecs. (b)(1)(A) and (c)(2), was in the original “title III”, meaning title III of [Pub. L. 107–252][/us/pl/107/252], Oct. 29, 2002, [116 Stat. 1704][/us/stat/116/1704], which enacted subchapter III of this chapter and amended [section 405 of Title 42][/us/usc/t42/s405], The Public Health and Welfare. For complete classification of title III to the Code, see Tables.
+    Subchapter III, referred to in subsecs. (b)(1)(A) and (c)(2), was in the original “title III”, meaning title III of [Pub. L. 107–252][/us/pl/107/252], Oct. 29, 2002, [116 Stat. 1704][/us/stat/116/1704], which enacted subchapter III of this chapter and amended [section 405 of Title 42][/us/usc/t42/s405], The Public Health and Welfare. For complete classification of title III to the Code, see Tables.
 
-    This chapter, referred to in subsec. (c)(1), was in the original “this Act”, meaning [Pub. L. 107–252][/us/pl/107/252], Oct. 29, 2002, [116 Stat. 1666][/us/stat/116/1666], which is classified principally to this chapter. For complete classification of this Act to the Code, see Tables.
+    This chapter, referred to in subsec. (c)(1), was in the original “this Act”, meaning [Pub. L. 107–252][/us/pl/107/252], Oct. 29, 2002, [116 Stat. 1666][/us/stat/116/1666], known as the Help America Vote Act of 2002, which is classified principally to this chapter. For complete classification of this Act to the Code, see Tables.
 
  __Codification__ 
 
-    Section was formerly classified to [section 15301 of Title 42][/us/usc/t42/s15301], The Public Health and Welfare, prior to editorial reclassification and renumbering in Title 52, Voting and Elections.
+    Section was formerly classified to [section 15301 of Title 42][/us/usc/t42/s15301], The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
 ----------
 

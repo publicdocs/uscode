@@ -25,7 +25,7 @@
 
     (b) __Availability of forms__ 
 
-        The chief State election official of a State shall make the forms described in subsection (a) of this section available for distribution through governmental and private entities, with particular emphasis on making them available for organized voter registration programs.
+        The chief State election official of a State shall make the forms described in subsection (a) available for distribution through governmental and private entities, with particular emphasis on making them available for organized voter registration programs.
 
     (c) __First-time voters__ 
 
@@ -59,7 +59,7 @@
 
  __Codification__ 
 
-    Section was formerly classified to [section 1973gg–4 of Title 42][/us/usc/t42/s1973gg–4], The Public Health and Welfare, prior to editorial reclassification and renumbering in Title 52, Voting and Elections.
+    Section was formerly classified to [section 1973gg–4 of Title 42][/us/usc/t42/s1973gg–4], The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
 ----------
 

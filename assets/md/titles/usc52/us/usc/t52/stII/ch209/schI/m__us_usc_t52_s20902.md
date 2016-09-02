@@ -19,7 +19,7 @@
 
         (1) __In general__ 
 
-            Not later than 45 days after October 29, 2002, the Administrator shall establish a program under which the Administrator shall make a payment to each State eligible under subsection (b) of this section in which a precinct within that State used a punch card voting system or a lever voting system to administer the regularly scheduled general election for Federal office held in November 2000 (in this section referred to as a “qualifying precinct”).
+            Not later than 45 days after October 29, 2002, the Administrator shall establish a program under which the Administrator shall make a payment to each State eligible under subsection (b) in which a precinct within that State used a punch card voting system or a lever voting system to administer the regularly scheduled general election for Federal office held in November 2000 (in this section referred to as a “qualifying precinct”).
 
         (2) __Use of funds__ 
 
@@ -47,7 +47,7 @@
 
         A State is eligible to receive a payment under the program under this section if it submits to the Administrator a notice not later than the date that is 6 months after October 29, 2002 (in such form as the Administrator may require) that contains—
 
-            (A) certifications that the State will use the payment (either directly or as reimbursement, including as reimbursement for costs incurred on or after January 1, 2001, under multiyear contracts) to replace punch card voting systems or lever voting systems (as the case may be) in the qualifying precincts within the State by the deadline described in subsection (a)(3) of this section;
+            (A) certifications that the State will use the payment (either directly or as reimbursement, including as reimbursement for costs incurred on or after January 1, 2001, under multiyear contracts) to replace punch card voting systems or lever voting systems (as the case may be) in the qualifying precincts within the State by the deadline described in subsection (a)(3);
 
             (B) certifications that the State will continue to comply with the laws described in [section 21145 of this title][/us/usc/t52/s21145];
 
@@ -77,7 +77,7 @@
 
         (1) __In general__ 
 
-            If a State receiving funds under the program under this section fails to meet the deadline applicable to the State under subsection (a)(3) of this section, the State shall pay to the Administrator an amount equal to the noncompliant precinct percentage of the amount of the funds provided to the State under the program.
+            If a State receiving funds under the program under this section fails to meet the deadline applicable to the State under subsection (a)(3), the State shall pay to the Administrator an amount equal to the noncompliant precinct percentage of the amount of the funds provided to the State under the program.
 
         (2) __Noncompliant precinct percentage defined__ 
 
@@ -109,7 +109,7 @@
 
  __Codification__ 
 
-    Section was formerly classified to [section 15302 of Title 42][/us/usc/t42/s15302], The Public Health and Welfare, prior to editorial reclassification and renumbering in Title 52, Voting and Elections. Any notes below for amendments to this section prior to 2013 reflect the former classification of this section.
+    Section was formerly classified to [section 15302 of Title 42][/us/usc/t42/s15302], The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
  __Amendments__ 
 
@@ -121,13 +121,13 @@
 
 [Pub. L. 111–8, div. D, title VI, § 625(b)][/us/pl/111/8/s625/b], Mar. 11, 2009, [123 Stat. 678][/us/stat/123/678], provided that: 
 
-> “The amendment made by subsection (a) \[amending this section\] shall take effect as if included in the enactment of the Help America Vote Act of 2002 \[[Pub. L. 107–252][/us/pl/107/252]\].”
+> “The amendment made by subsection (a) \[amending this section\] shall take effect as if included in the enactment of the Help America Vote Act of 2002 \[[Pub. L. 107–252][/us/pl/107/252], see Tables for classification\].”
 
  __Effective Date of 2007 Amendment__ 
 
 [Pub. L. 110–28, title VI, § 6301(b)][/us/pl/110/28/s6301/b], May 25, 2007, [121 Stat. 171][/us/stat/121/171], provided that: 
 
-> “The amendment made by subsection (a) \[amending this section\] shall take effect as if included in the enactment of the Help America Vote Act of 2002 \[[Pub. L. 107–252][/us/pl/107/252]\].”
+> “The amendment made by subsection (a) \[amending this section\] shall take effect as if included in the enactment of the Help America Vote Act of 2002 \[[Pub. L. 107–252][/us/pl/107/252], see Tables for classification\].”
 
 ----------
 

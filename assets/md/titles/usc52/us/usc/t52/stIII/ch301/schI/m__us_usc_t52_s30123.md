@@ -21,13 +21,13 @@
 
  __Codification__ 
 
-    Section was formerly classified to [section 441g of Title 2][/us/usc/t2/s441g], The Congress, prior to editorial reclassification and renumbering in Title 52, Voting and Elections.
+    Section was formerly classified to [section 441g of Title 2][/us/usc/t2/s441g], The Congress, prior to editorial reclassification and renumbering as this section.
 
  __Prior Provisions__ 
 
-    A prior [section 321 of Pub. L. 92–225][/us/pl/92/225/s321] was renumbered section 316, and is classified to [section 30126 of this title][/us/usc/t52/s30126].
+    A prior [section 321 of Pub. L. 92–225][/us/pl/92/225/s321] was renumbered section 316, and is classified to [section 30118 of this title][/us/usc/t52/s30118].
 
-    Another prior [section 321 of Pub. L. 92–225][/us/pl/92/225/s321] was renumbered section 320, and was classified to [section 441 of Title 2][/us/usc/t2/s441], The Congress, prior to repeal by [Pub. L. 94–283][/us/pl/94/283] and subsequent reclassification and renumbering as [section 30123 of this title][/us/usc/t52/s30123].
+    Another prior [section 321 of Pub. L. 92–225][/us/pl/92/225/s321] was renumbered section 320, and was classified to [section 441 of Title 2][/us/usc/t2/s441], The Congress, prior to repeal by [Pub. L. 94–283][/us/pl/94/283].
 
 ----------
 
@@ -43,10 +43,9 @@
 [/us/stat/93/1354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F1354
 [/us/usc/t2/s441g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs441g
 [/us/pl/92/225/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F225%2Fs321
-[/us/usc/t52/s30126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs30126
+[/us/usc/t52/s30118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs30118
 [/us/pl/92/225/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F225%2Fs321
 [/us/usc/t2/s441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs441
 [/us/pl/94/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F283
-[/us/usc/t52/s30123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs30123
 
 

@@ -39,7 +39,7 @@
 
     (b) __Judicial orders for compliance with subpenas and orders of Commission; contempt of court__ 
 
-        Upon petition by the Commission, any United States district court within the jurisdiction of which any inquiry is being carried on may, in case of refusal to obey a subpena or order of the Commission issued under subsection (a) of this section, issue an order requiring compliance. Any failure to obey the order of the court may be punished by the court as a contempt thereof.
+        Upon petition by the Commission, any United States district court within the jurisdiction of which any inquiry is being carried on may, in case of refusal to obey a subpena or order of the Commission issued under subsection (a), issue an order requiring compliance. Any failure to obey the order of the court may be punished by the court as a contempt thereof.
 
     (c) __Civil liability for disclosure of information__ 
 
@@ -53,7 +53,7 @@
 
     (e) __Exclusive civil remedy for enforcement__ 
 
-        Except as provided in [section 30109(a)(8) of this title][/us/usc/t52/s30109/a/8], the power of the Commission to initiate civil actions under subsection (a)(6) of this section shall be the exclusive civil remedy for the enforcement of the provisions of this Act.
+        Except as provided in [section 30109(a)(8) of this title][/us/usc/t52/s30109/a/8], the power of the Commission to initiate civil actions under subsection (a)(6) shall be the exclusive civil remedy for the enforcement of the provisions of this Act.
 
 ([Pub. L. 92–225, title III, § 307][/us/pl/92/225/s307], formerly § 311, as added [Pub. L. 93–443, title II, § 208(a)][/us/pl/93/443/s208/a], Oct. 15, 1974, [88 Stat. 1282][/us/stat/88/1282]; renumbered § 310 and amended [Pub. L. 94–283, title I][/us/pl/94/283], §§ 105, 107, 115(b), May 11, 1976, [90 Stat. 481][/us/stat/90/481], 495; renumbered § 307 and amended [Pub. L. 96–187, title I][/us/pl/96/187], §§ 105(3), 106, Jan. 8, 1980, [93 Stat. 1354][/us/stat/93/1354], 1356; [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095].)
 
@@ -63,7 +63,7 @@
 
  __Codification__ 
 
-    Section was formerly classified to [section 437d of Title 2][/us/usc/t2/s437d], The Congress, prior to editorial reclassification and renumbering in Title 52, Voting and Elections. Any notes below for amendments to this section prior to 2013 reflect the former classification of this section.
+    Section was formerly classified to [section 437d of Title 2][/us/usc/t2/s437d], The Congress, prior to editorial reclassification and renumbering as this section. Some section numbers referenced in amendment notes below reflect the classification of such sections prior to their editorial reclassification to this title.
 
  __Prior Provisions__ 
 

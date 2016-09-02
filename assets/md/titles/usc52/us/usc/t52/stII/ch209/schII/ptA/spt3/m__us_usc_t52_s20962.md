@@ -43,17 +43,17 @@
 
     (c) __Review__ 
 
-        Upon receipt of voluntary voting system guidelines described in subsection (b) of this section (or a modification of such guidelines) from the Executive Director of the Commission, the Board of Advisors and the Standards Board shall each review and submit comments and recommendations regarding the guideline (or modification) to the Commission.
+        Upon receipt of voluntary voting system guidelines described in subsection (b) (or a modification of such guidelines) from the Executive Director of the Commission, the Board of Advisors and the Standards Board shall each review and submit comments and recommendations regarding the guideline (or modification) to the Commission.
 
     (d) __Final adoption__ 
 
         (1) __In general__ 
 
-            A voluntary voting system guideline described in subsection (b) of this section (or modification of such a guideline) shall not be considered to be finally adopted by the Commission unless the Commission votes to approve the final adoption of the guideline (or modification), taking into consideration the comments and recommendations submitted by the Board of Advisors and the Standards Board under subsection (c) of this section.
+            A voluntary voting system guideline described in subsection (b) (or modification of such a guideline) shall not be considered to be finally adopted by the Commission unless the Commission votes to approve the final adoption of the guideline (or modification), taking into consideration the comments and recommendations submitted by the Board of Advisors and the Standards Board under subsection (c).
 
         (2) __Minimum period for consideration of comments and recommendations__ 
 
-            The Commission may not vote on the final adoption of a guideline described in subsection (b) of this section (or modification of such a guideline) until the expiration of the 90-day period which begins on the date the Executive Director of the Commission submits the proposed guideline (or modification) to the Board of Advisors and the Standards Board under subsection (b) of this section.
+            The Commission may not vote on the final adoption of a guideline described in subsection (b) (or modification of such a guideline) until the expiration of the 90-day period which begins on the date the Executive Director of the Commission submits the proposed guideline (or modification) to the Board of Advisors and the Standards Board under subsection (b).
 
     (e) __Special rule for initial set of guidelines__ 
 
@@ -63,7 +63,7 @@
 
  __Codification__ 
 
-    Section was formerly classified to [section 15362 of Title 42][/us/usc/t42/s15362], The Public Health and Welfare, prior to editorial reclassification and renumbering in Title 52, Voting and Elections.
+    Section was formerly classified to [section 15362 of Title 42][/us/usc/t42/s15362], The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
 ----------
 

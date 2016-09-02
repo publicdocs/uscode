@@ -29,21 +29,21 @@
 
         (1) __Submission__ 
 
-            Not later than the date that is 1 year after October 29, 2002, the Commission shall submit to Congress a report on the study conducted under subsection (a)(1) of this section together with recommendations for such legislative and administrative action as the Commission determines appropriate.
+            Not later than the date that is 1 year after October 29, 2002, the Commission shall submit to Congress a report on the study conducted under subsection (a)(1) together with recommendations for such legislative and administrative action as the Commission determines appropriate.
 
         (2) __Costs__ 
 
-            The report submitted under paragraph (1) shall contain an estimate of the costs of establishing the program described in subsection (a)(1) of this section.
+            The report submitted under paragraph (1) shall contain an estimate of the costs of establishing the program described in subsection (a)(1).
 
         (3) __Implementation__ 
 
-            The report submitted under paragraph (1) shall contain an analysis of the feasibility of implementing the program described in subsection (a)(1) of this section with respect to the absentee ballots to be submitted in the general election for Federal office held in 2004.
+            The report submitted under paragraph (1) shall contain an analysis of the feasibility of implementing the program described in subsection (a)(1) with respect to the absentee ballots to be submitted in the general election for Federal office held in 2004.
 
         (4) __Recommendations regarding the elderly and disabled__ 
 
         The report submitted under paragraph (1) shall—
 
-            (A) include recommendations on ways that program described in subsection (a)(1) of this section would target elderly individuals and individuals with disabilities; and
+            (A) include recommendations on ways that program described in subsection (a)(1) would target elderly individuals and individuals with disabilities; and
 
             (B) identify methods to increase the number of such individuals who vote in elections for Federal office.
 
@@ -55,7 +55,7 @@
 
  __Codification__ 
 
-    Section was formerly classified to [section 15386 of Title 42][/us/usc/t42/s15386], The Public Health and Welfare, prior to editorial reclassification and renumbering in Title 52, Voting and Elections.
+    Section was formerly classified to [section 15386 of Title 42][/us/usc/t42/s15386], The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
 ----------
 

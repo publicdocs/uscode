@@ -17,7 +17,7 @@
 
     (a) __In general__ 
 
-    Except as provided in subsection (b) of this section, notwithstanding any other Federal or State law, in addition to any other method of voter registration provided for under State law, each State shall establish procedures to register to vote in elections for Federal office—
+    Except as provided in subsection (b), notwithstanding any other Federal or State law, in addition to any other method of voter registration provided for under State law, each State shall establish procedures to register to vote in elections for Federal office—
 
         (1) by application made simultaneously with an application for a motor vehicle driver’s license pursuant to [section 20504 of this title][/us/usc/t52/s20504];
 
@@ -47,7 +47,7 @@
 
  __Codification__ 
 
-    Section was formerly classified to [section 1973gg–2 of Title 42][/us/usc/t42/s1973gg–2], The Public Health and Welfare, prior to editorial reclassification and renumbering in Title 52, Voting and Elections. Any notes below for amendments to this section prior to 2013 reflect the former classification of this section.
+    Section was formerly classified to [section 1973gg–2 of Title 42][/us/usc/t42/s1973gg–2], The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
     Amendment by [Pub. L. 104–91][/us/pl/104/91] is based on section 116(a) of H.R. 2076, One Hundred Fourth Congress, as passed by the House of Representatives on Dec. 6, 1995, which was enacted into law by [Pub. L. 104–91][/us/pl/104/91].
 
@@ -59,7 +59,7 @@
 
 Section 116(b) of H.R. 2076, One Hundred Fourth Congress, as passed by the House of Representatives on Dec. 6, 1995, and as enacted into law by [Pub. L. 104–91, title I, § 101(a)][/us/pl/104/91/s101/a], Jan. 6, 1996, [110 Stat. 11][/us/stat/110/11], as amended by [Pub. L. 104–99, title II, § 211][/us/pl/104/99/s211], Jan. 26, 1996, [110 Stat. 37][/us/stat/110/37], provided that: 
 
-> “The amendments made by subsection (a) \[amending this section\] shall take effect as if included in the provisions of the National Voter Registration Act of 1993 \[[Pub. L. 103–31][/us/pl/103/31]\].”
+> “The amendments made by subsection (a) \[amending this section\] shall take effect as if included in the provisions of the National Voter Registration Act of 1993 \[[Pub. L. 103–31][/us/pl/103/31], see Tables for classification\].”
 
 ----------
 

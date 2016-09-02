@@ -107,13 +107,13 @@
 
     (b) __Federal Government and private sector cooperation__ 
 
-        All departments, agencies, and other entities of the executive branch of the Federal Government shall, to the greatest extent practicable, cooperate with the States in carrying out subsection (a) of this section, and all nongovernmental entities are encouraged to do so.
+        All departments, agencies, and other entities of the executive branch of the Federal Government shall, to the greatest extent practicable, cooperate with the States in carrying out subsection (a), and all nongovernmental entities are encouraged to do so.
 
     (c) __Armed Forces recruitment offices__ 
 
         (1) Each State and the Secretary of Defense shall jointly develop and implement procedures for persons to apply to register to vote at recruitment offices of the Armed Forces of the United States.
 
-        (2) A recruitment office of the Armed Forces of the United States shall be considered to be a voter registration agency designated under subsection (a)(2) of this section for all purposes of this chapter.
+        (2) A recruitment office of the Armed Forces of the United States shall be considered to be a voter registration agency designated under subsection (a)(2) for all purposes of this chapter.
 
     (d) __Transmittal deadline__ 
 
@@ -125,7 +125,7 @@
 
  __Codification__ 
 
-    Section was formerly classified to [section 1973gg–5 of Title 42][/us/usc/t42/s1973gg–5], The Public Health and Welfare, prior to editorial reclassification and renumbering in Title 52, Voting and Elections.
+    Section was formerly classified to [section 1973gg–5 of Title 42][/us/usc/t42/s1973gg–5], The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
  __Ex. Ord. No. 12926. Implementation of National Voter Registration Act of 1993__ 
 

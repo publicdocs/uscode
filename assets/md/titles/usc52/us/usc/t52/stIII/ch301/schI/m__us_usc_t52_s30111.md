@@ -39,7 +39,7 @@
 
         (7) prepare and publish periodically lists of authorized committees which fail to file reports as required by this Act;
 
-        (8) prescribe rules, regulations, and forms to carry out the provisions of this Act, in accordance with the provisions of subsection (d) of this section; and
+        (8) prescribe rules, regulations, and forms to carry out the provisions of this Act, in accordance with the provisions of subsection (d); and
 
         (9) transmit to the President and to each House of the Congress no later than June 1 of each year, a report which states in detail the activities of the Commission in carrying out its duties under this Act, and any recommendations for any legislative or other action the Commission considers appropriate.
 
@@ -49,7 +49,7 @@
 
     (c) __Statutory provisions applicable to forms and information-gathering activities__ 
 
-        Any forms prescribed by the Commission under subsection (a)(1) of this section, and any information-gathering activities of the Commission under this Act, shall not be subject to the provisions of section 3512  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of title 44.
+        Any forms prescribed by the Commission under subsection (a)(1), and any information-gathering activities of the Commission under this Act, shall not be subject to the provisions of section 3512  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of title 44.
 
     (d) __Rules, regulations, or forms; issuance, procedures applicable, etc.__ 
 
@@ -85,15 +85,15 @@
 
  __Codification__ 
 
-    Section was formerly classified to [section 438 of Title 2][/us/usc/t2/s438], The Congress, prior to editorial reclassification and renumbering in Title 52, Voting and Elections. Any notes below for amendments to this section prior to 2013 reflect the former classification of this section.
+    Section was formerly classified to [section 438 of Title 2][/us/usc/t2/s438], The Congress, prior to editorial reclassification and renumbering as this section. Some section numbers referenced in amendment notes below reflect the classification of such sections prior to their editorial reclassification to this title.
 
  __Prior Provisions__ 
 
-    A prior [section 311 of Pub. L. 92–225][/us/pl/92/225/s311] was classified to [section 437e of Title 2][/us/usc/t2/s437e], The Congress, prior to repeal by [Pub. L. 96–187][/us/pl/96/187] and subsequent reclassification and renumbering as [section 30112 of this title][/us/usc/t52/s30112].
+    A prior [section 311 of Pub. L. 92–225][/us/pl/92/225/s311] was classified to [section 437e of Title 2][/us/usc/t2/s437e], The Congress, prior to repeal by [Pub. L. 96–187][/us/pl/96/187].
 
-    Another prior [section 311 of Pub. L. 92–225][/us/pl/92/225/s311] was renumbered section 307, and is classified to [section 30111 of this title][/us/usc/t52/s30111].
+    Another prior [section 311 of Pub. L. 92–225][/us/pl/92/225/s311] was renumbered section 307, and is classified to [section 30107 of this title][/us/usc/t52/s30107].
 
-    Another prior [section 311 of Pub. L. 92–225][/us/pl/92/225/s311] was renumbered section 320, and was classified to [section 441 of Title 2][/us/usc/t2/s441], The Congress, prior to repeal by [Pub. L. 94–283][/us/pl/94/283] and subsequent reclassification and renumbering as [section 30123 of this title][/us/usc/t52/s30123].
+    Another prior [section 311 of Pub. L. 92–225][/us/pl/92/225/s311] was renumbered section 320, and was classified to [section 441 of Title 2][/us/usc/t2/s441], The Congress, prior to repeal by [Pub. L. 94–283][/us/pl/94/283].
 
  __Amendments__ 
 
@@ -157,7 +157,7 @@
 
     Subsec. (a)(9). [Pub. L. 93–443, § 209(a)(1)][/us/pl/93/443/s209/a/1], redesignated par. (12) as (9) and struck out former par. (9) provision for preparation and publication of other reports.
 
-    Subsec. (a)(10). [Pub. L. 93–443, § 209(a)(1)][/us/pl/93/443/s209/a/1], (b)(1), redesignated par. (13) as (10), inserted end text reading “, in accordance with the provisions of subsection (c) of this section”, and struck out former par. (10) provision for dissemination of information.
+    Subsec. (a)(10). [Pub. L. 93–443, § 209(a)(1)][/us/pl/93/443/s209/a/1], (b)(1), redesignated par. (13) as (10), inserted end text reading “, in accordance with the provisions of subsection (c)”, and struck out former par. (10) provision for dissemination of information.
 
     Subsec. (a)(11) to (13). [Pub. L. 93–443, § 209(a)(1)][/us/pl/93/443/s209/a/1], redesignated pars. (11) to (13) as (8) to (10), respectively.
 
@@ -169,7 +169,7 @@
 
  __Effective Date of 2002 Amendment__ 
 
-    Amendment by [Pub. L. 107–252][/us/pl/107/252] effective upon appointment of all members of the Election Assistance Commission under [section 21323 of this title][/us/usc/t52/s21323], see [section 21534(a) of this title][/us/usc/t52/s21534/a].
+    Amendment by [Pub. L. 107–252][/us/pl/107/252] effective upon appointment of all members of the Election Assistance Commission under [section 20923 of this title][/us/usc/t52/s20923], see [section 21134(a) of this title][/us/usc/t52/s21134/a].
 
  __Effective Date of 1995 Amendment__ 
 
@@ -186,12 +186,6 @@
  __Transition Provisions__ 
 
     Disapproval of rules and regulations by either House of Congress under subsec. (d) of this section within 30 legislative days after receipt to be deemed to allow such disapproval within 15 days with respect to rules and regulations implementing [Pub. L. 96–187][/us/pl/96/187] proposed under [section 303(a) of Pub. L. 96–187][/us/pl/96/187/s303/a], see [section 303(b) of Pub. L. 96–187][/us/pl/96/187/s303/b], set out as a note under [section 30101 of this title][/us/usc/t52/s30101].
-
- __Annual Reports for Calendar Years Beginning After__  __Dec. 31, 1972__ 
-
-[Pub. L. 93–443, title II, § 209(a)(2)][/us/pl/93/443/s209/a/2], Oct. 15, 1974, [88 Stat. 1287][/us/stat/88/1287], provided that: 
-
-> “Notwithstanding section 308(a)(7) of the Federal Election Campaign Act of 1971 \[[52 U.S.C. 30116(a)(7)][/us/usc/t52/s30116/a/7]\] (relating to an annual report by the supervisory officer), as in effect on the day before the effective date of the amendments made by paragraph (1) of this subsection, no such annual report shall be required with respect to any calendar year beginning after December 31, 1972.”
 
 ----------
 
@@ -223,13 +217,11 @@
 [/us/pl/92/225/s311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F225%2Fs311
 [/us/usc/t2/s437e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs437e
 [/us/pl/96/187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F187
-[/us/usc/t52/s30112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs30112
 [/us/pl/92/225/s311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F225%2Fs311
-[/us/usc/t52/s30111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs30111
+[/us/usc/t52/s30107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs30107
 [/us/pl/92/225/s311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F225%2Fs311
 [/us/usc/t2/s441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs441
 [/us/pl/94/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F283
-[/us/usc/t52/s30123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs30123
 [/us/pl/107/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F252
 [/us/pl/104/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F79
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
@@ -268,8 +260,8 @@
 [/us/pl/93/443/s209/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F443%2Fs209%2Fb%2F2%2FA
 [/us/usc/t52/s437g/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs437g%2Fa
 [/us/pl/107/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F252
-[/us/usc/t52/s21323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs21323
-[/us/usc/t52/s21534/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs21534%2Fa
+[/us/usc/t52/s20923]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs20923
+[/us/usc/t52/s21134/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs21134%2Fa
 [/us/pl/104/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F79
 [/us/pl/104/79/s3/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F79%2Fs3%2Fd
 [/us/usc/t52/s30102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs30102
@@ -282,8 +274,5 @@
 [/us/pl/96/187/s303/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F187%2Fs303%2Fa
 [/us/pl/96/187/s303/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F187%2Fs303%2Fb
 [/us/usc/t52/s30101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs30101
-[/us/pl/93/443/s209/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F443%2Fs209%2Fa%2F2
-[/us/stat/88/1287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1287
-[/us/usc/t52/s30116/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs30116%2Fa%2F7
 
 
