@@ -37,11 +37,37 @@
 
             (B) unsuccessful attempts to enter into a closing agreement under section 7121 or a compromise under section 7122.
 
-(Added [Pub. L. 105–206, title III, § 3465(a)(1)][/us/pl/105/206/s3465/a/1], July 22, 1998, [112 Stat. 768][/us/stat/112/768].)
+    (c) __Administrative appeal relating to adverse determination of tax-exempt status of certain organizations__ 
+
+        (1) __In general__ 
+
+            The Secretary shall prescribe procedures under which an organization which claims to be described in section 501(c) may request an administrative appeal (including a conference relating to such appeal if requested by the organization) to the Internal Revenue Service Office of Appeals of an adverse determination described in paragraph (2).
+
+        (2) __Adverse determinations__ 
+
+        For purposes of paragraph (1), an adverse determination is described in this paragraph if such determination is adverse to an organization with respect to—
+
+            (A) the initial qualification or continuing qualification of the organization as exempt from tax under section 501(a) or as an organization described in section 170(c)(2),
+
+            (B) the initial classification or continuing classification of the organization as a private foundation under section 509(a), or
+
+            (C) the initial classification or continuing classification of the organization as a private operating foundation under section 4942(j)(3).
+
+(Added [Pub. L. 105–206, title III, § 3465(a)(1)][/us/pl/105/206/s3465/a/1], July 22, 1998, [112 Stat. 768][/us/stat/112/768]; amended [Pub. L. 114–113, div. Q, title IV, § 404(a)][/us/pl/114/113/s404/a], Dec. 18, 2015, [129 Stat. 3118][/us/stat/129/3118].)
 
  __Prior Provisions__ 
 
     A prior section 7123 was renumbered [section 7124 of this title][/us/usc/t26/s7124].
+
+ __Amendments__ 
+
+    2015—Subsec. (c). [Pub. L. 114–113][/us/pl/114/113] added subsec. (c).
+
+ __Effective Date of 2015 Amendment__ 
+
+[Pub. L. 114–113, div. Q, title IV, § 404(b)][/us/pl/114/113/s404/b], Dec. 18, 2015, [129 Stat. 3118][/us/stat/129/3118], provided that: 
+
+> “The amendment made by subsection (a) \[amending this section\] shall apply to determinations made on or after May 19, 2014.”
 
 ----------
 
@@ -52,6 +78,11 @@
 
 [/us/pl/105/206/s3465/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs3465%2Fa%2F1
 [/us/stat/112/768]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F768
+[/us/pl/114/113/s404/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs404%2Fa
+[/us/stat/129/3118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3118
 [/us/usc/t26/s7124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs7124
+[/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
+[/us/pl/114/113/s404/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs404%2Fb
+[/us/stat/129/3118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3118
 
 

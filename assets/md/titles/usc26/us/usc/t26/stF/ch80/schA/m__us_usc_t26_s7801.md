@@ -93,6 +93,12 @@
 
     For order of succession during any period when both Secretary and Deputy Secretary of the Treasury are unable to perform functions and duties of office of Secretary, see Ex. Ord. No. 13246, Dec. 18, 2001, 66 F.R. 66270, listed in a table under [section 3345 of Title 5][/us/usc/t5/s3345], Government Organization and Employees.
 
+ __IRS Employees Prohibited From Using Personal Email Accounts for Official Business__ 
+
+[Pub. L. 114–113, div. Q, title IV, § 402][/us/pl/114/113/s402], Dec. 18, 2015, [129 Stat. 3117][/us/stat/129/3117], provided that: 
+
+> “No officer or employee of the Internal Revenue Service may use a personal email account to conduct any official business of the Government.”
+
  __IRS Reports on Information Technology Investments__ 
 
 [Pub. L. 112–74, div. C, title I][/us/pl/112/74], Dec. 23, 2011, [125 Stat. 888][/us/stat/125/888], provided in part: 
@@ -100,6 +106,8 @@
 > “That not later than 14 days after the end of each quarter of each fiscal year, the Internal Revenue Service shall submit a report to the House and Senate Committees on Appropriations and the Comptroller General of the United States detailing the cost and schedule performance for its major information technology investments, including the purpose and life-cycle stages of the investments; the reasons for any cost and schedule variances; the risks of such investments and strategies the Internal Revenue Service is using to mitigate such risks; and the expected developmental milestones to be achieved and costs to be incurred in the next quarter”.
 
 Similar provisions were contained in the following appropriation acts:
+
+    [Pub. L. 114–113, div. E, title I][/us/pl/114/113], Dec. 18, 2015, [129 Stat. 2428][/us/stat/129/2428].
 
     [Pub. L. 113–235, div. E, title I][/us/pl/113/235], Dec. 16, 2014, [128 Stat. 2337][/us/stat/128/2337].
 
@@ -110,6 +118,8 @@ Similar provisions were contained in the following appropriation acts:
 > “That not later than 14 days after the end of each quarter of each fiscal year, the Internal Revenue Service shall submit a report to the House and Senate Committees on Appropriations and the Comptroller General of the United States detailing the cost and schedule performance for CADE2 and Modernized e-File information technology investments, including the purposes and life-cycle stages of the investments; the reasons for any cost and schedule variances; the risks of such investments and the strategies the Internal Revenue Service is using to mitigate such risks; and the expected developmental milestones to be achieved and costs to be incurred in the next quarter.”
 
 Similar provisions were contained in the following appropriation acts:
+
+    [Pub. L. 114–113, div. E, title I][/us/pl/114/113], Dec. 18, 2015, [129 Stat. 2429][/us/stat/129/2429].
 
     [Pub. L. 113–235, div. E, title I][/us/pl/113/235], Dec. 16, 2014, [128 Stat. 2337][/us/stat/128/2337].
 
@@ -780,14 +790,20 @@ Similar provisions were contained in the following appropriation acts:
 [/us/usc/t6/s531/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs531%2Fc
 [/us/usc/t28/s599A/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs599A%2Fc%2F1
 [/us/usc/t5/s3345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3345
+[/us/pl/114/113/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs402
+[/us/stat/129/3117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3117
 [/us/pl/112/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74
 [/us/stat/125/888]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F888
+[/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
+[/us/stat/129/2428]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2428
 [/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
 [/us/stat/128/2337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2337
 [/us/pl/113/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76
 [/us/stat/128/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F189
 [/us/pl/112/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74
 [/us/stat/125/889]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F889
+[/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
+[/us/stat/129/2429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2429
 [/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
 [/us/stat/128/2337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2337
 [/us/pl/113/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76

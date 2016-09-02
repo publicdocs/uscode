@@ -171,9 +171,9 @@
 
     (f) __Termination__ 
 
-        This section shall not apply to taxable years beginning after December 31, 2014.
+        This section shall not apply to taxable years beginning after December 31, 2016.
 
-(Added [Pub. L. 103–66, title XIII, § 13322(b)][/us/pl/103/66/s13322/b], Aug. 10, 1993, [107 Stat. 559][/us/stat/107/559]; amended [Pub. L. 104–188, title I, § 1201(e)(1)][/us/pl/104/188/s1201/e/1], Aug. 20, 1996, [110 Stat. 1772][/us/stat/110/1772]; [Pub. L. 105–206, title VI, § 6023(1)][/us/pl/105/206/s6023/1], July 22, 1998, [112 Stat. 824][/us/stat/112/824]; [Pub. L. 107–147, title VI, § 613(a)][/us/pl/107/147/s613/a], Mar. 9, 2002, [116 Stat. 61][/us/stat/116/61]; [Pub. L. 108–311, title III, § 315][/us/pl/108/311/s315], title IV, § 404(b)(1), Oct. 4, 2004, [118 Stat. 1181][/us/stat/118/1181], 1188; [Pub. L. 109–432, div. A, title I, § 111(a)][/us/pl/109/432/s111/a], Dec. 20, 2006, [120 Stat. 2940][/us/stat/120/2940]; [Pub. L. 110–343, div. C, title III, § 314(a)][/us/pl/110/343/s314/a], Oct. 3, 2008, [122 Stat. 3872][/us/stat/122/3872]; [Pub. L. 111–312, title VII, § 732(a)][/us/pl/111/312/s732/a], Dec. 17, 2010, [124 Stat. 3317][/us/stat/124/3317]; [Pub. L. 112–240, title III, § 304(a)][/us/pl/112/240/s304/a], Jan. 2, 2013, [126 Stat. 2329][/us/stat/126/2329]; [Pub. L. 113–295, div. A, title I, § 114(a)][/us/pl/113/295/s114/a], title II, § 216(a), Dec. 19, 2014, [128 Stat. 4014][/us/stat/128/4014], 4034.)
+(Added [Pub. L. 103–66, title XIII, § 13322(b)][/us/pl/103/66/s13322/b], Aug. 10, 1993, [107 Stat. 559][/us/stat/107/559]; amended [Pub. L. 104–188, title I, § 1201(e)(1)][/us/pl/104/188/s1201/e/1], Aug. 20, 1996, [110 Stat. 1772][/us/stat/110/1772]; [Pub. L. 105–206, title VI, § 6023(1)][/us/pl/105/206/s6023/1], July 22, 1998, [112 Stat. 824][/us/stat/112/824]; [Pub. L. 107–147, title VI, § 613(a)][/us/pl/107/147/s613/a], Mar. 9, 2002, [116 Stat. 61][/us/stat/116/61]; [Pub. L. 108–311, title III, § 315][/us/pl/108/311/s315], title IV, § 404(b)(1), Oct. 4, 2004, [118 Stat. 1181][/us/stat/118/1181], 1188; [Pub. L. 109–432, div. A, title I, § 111(a)][/us/pl/109/432/s111/a], Dec. 20, 2006, [120 Stat. 2940][/us/stat/120/2940]; [Pub. L. 110–343, div. C, title III, § 314(a)][/us/pl/110/343/s314/a], Oct. 3, 2008, [122 Stat. 3872][/us/stat/122/3872]; [Pub. L. 111–312, title VII, § 732(a)][/us/pl/111/312/s732/a], Dec. 17, 2010, [124 Stat. 3317][/us/stat/124/3317]; [Pub. L. 112–240, title III, § 304(a)][/us/pl/112/240/s304/a], Jan. 2, 2013, [126 Stat. 2329][/us/stat/126/2329]; [Pub. L. 113–295, div. A, title I, § 114(a)][/us/pl/113/295/s114/a], title II, § 216(a), Dec. 19, 2014, [128 Stat. 4014][/us/stat/128/4014], 4034; [Pub. L. 114–113, div. Q, title I, § 161(a)][/us/pl/114/113/s161/a], Dec. 18, 2015, [129 Stat. 3066][/us/stat/129/3066].)
 
  __Inflation Adjusted Items for Certain Years__ 
 
@@ -186,6 +186,8 @@
     The date of the enactment of this paragraph, referred to in subsec. (e)(4), is the date of enactment of [Pub. L. 103–66][/us/pl/103/66], which was approved Aug. 10, 1993.
 
  __Amendments__ 
+
+    2015—Subsec. (f). [Pub. L. 114–113][/us/pl/114/113] substituted “December 31, 2016” for “December 31, 2014”.
 
     2014—Subsec. (b)(1)(B). [Pub. L. 113–295, § 216(a)][/us/pl/113/295/s216/a], inserted at end “If any portion of wages are taken into account under subsection (e)(1)(A) of section 51, the preceding sentence shall be applied by substituting ‘2-year period’ for ‘1-year period’.”
 
@@ -208,6 +210,12 @@
     1998—Subsec. (b)(1)(B). [Pub. L. 105–206][/us/pl/105/206] substituted “work opportunity credit” for “targeted jobs credit” in heading.
 
     1996—Subsec. (b)(1)(B). [Pub. L. 104–188][/us/pl/104/188], which directed that subsec. (b)(1)(B) of this section be amended in the text by substituting “work opportunity credit” for “targeted jobs credit”, could not be executed because the words “targeted jobs credit” did not appear in the text.
+
+ __Effective Date of 2015 Amendment__ 
+
+[Pub. L. 114–113, div. Q, title I, § 161(b)][/us/pl/114/113/s161/b], Dec. 18, 2015, [129 Stat. 3066][/us/stat/129/3066], provided that: 
+
+> “The amendment made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2014.”
 
  __Effective Date of 2014 Amendment__ 
 
@@ -286,11 +294,14 @@
 [/us/stat/126/2329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2329
 [/us/pl/113/295/s114/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs114%2Fa
 [/us/stat/128/4014]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4014
+[/us/pl/114/113/s161/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs161%2Fa
+[/us/stat/129/3066]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3066
 [/us/usc/t26/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs401
 [/us/pl/92/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F203
 [/us/stat/85/688]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F688
 [/us/usc/t43/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1601
 [/us/pl/103/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66
+[/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
 [/us/pl/113/295/s216/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs216%2Fa
 [/us/pl/113/295/s114/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs114%2Fa
 [/us/pl/112/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240
@@ -302,6 +313,8 @@
 [/us/pl/107/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F147
 [/us/pl/105/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206
 [/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
+[/us/pl/114/113/s161/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs161%2Fb
+[/us/stat/129/3066]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3066
 [/us/pl/113/295/s114/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs114%2Fb
 [/us/stat/128/4014]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4014
 [/us/pl/113/295/s216/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs216%2Fb

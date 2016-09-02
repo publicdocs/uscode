@@ -119,11 +119,15 @@
 
     (d) __Proceeding after hearing__ 
 
-        (1) __Judicial review of determination__ 
+        (1) __Petition for review by Tax Court__ 
 
-            The person may, within 30 days of a determination under this section, appeal such determination to the Tax Court (and the Tax Court shall have jurisdiction with respect to such matter).
+            The person may, within 30 days of a determination under this section, petition the Tax Court for review of such determination (and the Tax Court shall have jurisdiction with respect to such matter).
 
-        (2) __Jurisdiction retained at IRS Office of Appeals__ 
+        (2) __Suspension of running of period for filing petition in title 11 cases__ 
+
+            In the case of a person who is prohibited by reason of a case under title 11, United States Code, from filing a petition under paragraph (1) with respect to a determination under this section, the running of the period prescribed by such subsection for filing such a petition with respect to such determination shall be suspended for the period during which the person is so prohibited from filing such a petition, and for 30 days thereafter, and  <sup>\[1\]</sup>  <sup><sup> 1 So in original. </sup></sup> 
+
+        (3) __Jurisdiction retained at IRS Office of Appeals__ 
 
         The Internal Revenue Service Office of Appeals shall retain jurisdiction with respect to any determination made under this section, including subsequent hearings requested by the person who requested the original hearing on issues regarding—
 
@@ -171,7 +175,7 @@
 
             A Federal contractor levy is any levy if the person whose property is subject to the levy (or any predecessor thereof) is a Federal contractor.
 
-(Added [Pub. L. 105–206, title III, § 3401(b)][/us/pl/105/206/s3401/b], July 22, 1998, [112 Stat. 747][/us/stat/112/747]; amended [Pub. L. 106–554, § 1(a)(7)][/us/pl/106/554/s1/a/7] \[title III, § 313(b)(2)(A), (d)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–642, 2763A–643; [Pub. L. 109–280, title VIII, § 855(a)][/us/pl/109/280/s855/a], Aug. 17, 2006, [120 Stat. 1019][/us/stat/120/1019]; [Pub. L. 109–432, div. A, title IV, § 407(b)][/us/pl/109/432/s407/b], Dec. 20, 2006, [120 Stat. 2961][/us/stat/120/2961]; [Pub. L. 110–28, title VIII, § 8243(a)][/us/pl/110/28/s8243/a], (b), May 25, 2007, [121 Stat. 200][/us/stat/121/200]; [Pub. L. 111–240, title II, § 2104(a)][/us/pl/111/240/s2104/a]–(c), Sept. 27, 2010, [124 Stat. 2565][/us/stat/124/2565]; [Pub. L. 114–74, title XI, § 1101(d)][/us/pl/114/74/s1101/d], Nov. 2, 2015, [129 Stat. 637][/us/stat/129/637].)
+(Added [Pub. L. 105–206, title III, § 3401(b)][/us/pl/105/206/s3401/b], July 22, 1998, [112 Stat. 747][/us/stat/112/747]; amended [Pub. L. 106–554, § 1(a)(7)][/us/pl/106/554/s1/a/7] \[title III, § 313(b)(2)(A), (d)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–642, 2763A–643; [Pub. L. 109–280, title VIII, § 855(a)][/us/pl/109/280/s855/a], Aug. 17, 2006, [120 Stat. 1019][/us/stat/120/1019]; [Pub. L. 109–432, div. A, title IV, § 407(b)][/us/pl/109/432/s407/b], Dec. 20, 2006, [120 Stat. 2961][/us/stat/120/2961]; [Pub. L. 110–28, title VIII, § 8243(a)][/us/pl/110/28/s8243/a], (b), May 25, 2007, [121 Stat. 200][/us/stat/121/200]; [Pub. L. 111–240, title II, § 2104(a)][/us/pl/111/240/s2104/a]–(c), Sept. 27, 2010, [124 Stat. 2565][/us/stat/124/2565]; [Pub. L. 114–74, title XI, § 1101(d)][/us/pl/114/74/s1101/d], Nov. 2, 2015, [129 Stat. 637][/us/stat/129/637]; [Pub. L. 114–113, div. Q, title IV, § 424(b)(1)][/us/pl/114/113/s424/b/1], Dec. 18, 2015, [129 Stat. 3124][/us/stat/129/3124].)
 
  __Amendment of Subsection (c)(4)__ 
 
@@ -184,6 +188,10 @@
  __Amendments__ 
 
     2015—Subsec. (c)(4)(C). [Pub. L. 114–74][/us/pl/114/74] added subpar. (C).
+
+    Subsec. (d)(1). [Pub. L. 114–113, § 424(b)(1)(A)][/us/pl/114/113/s424/b/1/A], (B), substituted “Petition for review by Tax Court” for “Judicial review of determination” in heading and “petition the Tax Court for review of such determination” for “appeal such determination to the Tax Court” in text.
+
+    Subsec. (d)(2), (3). [Pub. L. 114–113, § 424(b)(1)(C)][/us/pl/114/113/s424/b/1/C], (D), added par. (2) and redesignated former par. (2) as (3).
 
     2010—Subsec. (f). [Pub. L. 111–240, § 2104(c)][/us/pl/111/240/s2104/c], substituted “Exceptions” for “Jeopardy and State refund collection” in heading.
 
@@ -214,6 +222,10 @@
     Subsec. (e)(1). [Pub. L. 106–554, § 1(a)(7)][/us/pl/106/554/s1/a/7] \[title III, § 313(b)(2)(A)\], inserted at end “Notwithstanding the provisions of section 7421(a), the beginning of a levy or proceeding during the time the suspension under this paragraph is in force may be enjoined by a proceeding in the proper court, including the Tax Court. The Tax Court shall have no jurisdiction under this paragraph to enjoin any action or proceeding unless a timely appeal has been filed under subsection (d)(1) and then only in respect of the unpaid tax or proposed levy to which the determination being appealed relates.”
 
  __Effective Date of 2015 Amendment__ 
+
+[Pub. L. 114–113, div. Q, title IV, § 424(b)(2)][/us/pl/114/113/s424/b/2], Dec. 18, 2015, [129 Stat. 3124][/us/stat/129/3124], provided that: 
+
+> “The amendments made by this subsection \[amending this section\] shall apply to petitions filed under section 6330 of the Internal Revenue Code of 1986 after the date of the enactment of this Act \[Dec. 18, 2015\].”
 
     Amendment by [Pub. L. 114–74][/us/pl/114/74] applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, see [section 1101(g) of Pub. L. 114–74][/us/pl/114/74/s1101/g], set out as a note under [section 6221 of this title][/us/usc/t26/s6221].
 
@@ -266,9 +278,13 @@
 [/us/stat/124/2565]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2565
 [/us/pl/114/74/s1101/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs1101%2Fd
 [/us/stat/129/637]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F637
+[/us/pl/114/113/s424/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs424%2Fb%2F1
+[/us/stat/129/3124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3124
 [/us/pl/114/74/s1101/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs1101%2Fd
 [/us/stat/129/637]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F637
 [/us/pl/114/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74
+[/us/pl/114/113/s424/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs424%2Fb%2F1%2FA
+[/us/pl/114/113/s424/b/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs424%2Fb%2F1%2FC
 [/us/pl/111/240/s2104/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240%2Fs2104%2Fc
 [/us/pl/111/240/s2104/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240%2Fs2104%2Fa
 [/us/pl/111/240/s2104/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240%2Fs2104%2Fb
@@ -280,6 +296,8 @@
 [/us/pl/109/432/s407/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs407%2Fb%2F1
 [/us/pl/106/554/s1/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F7
 [/us/pl/106/554/s1/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F7
+[/us/pl/114/113/s424/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs424%2Fb%2F2
+[/us/stat/129/3124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3124
 [/us/pl/114/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74
 [/us/pl/114/74/s1101/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs1101%2Fg
 [/us/usc/t26/s6221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6221

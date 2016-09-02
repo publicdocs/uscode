@@ -243,13 +243,25 @@
 
         In the case of a disallowance of a claim for refund, the Secretary shall provide the taxpayer with an explanation for such disallowance.
 
-([Aug. 6, 1954, ch. 736][/us/act/1954-08-06/ch736], [68A Stat. 791][/us/stat/68A/791]; [Pub. L. 94–455, title XIX, § 1906(b)(13)][/us/pl/94/455/s1906/b/13] (A), (K), Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834], 1835; [Pub. L. 97–35, title XXIII, § 2331(c)][/us/pl/97/35/s2331/c], Aug. 13, 1981, [95 Stat. 861][/us/stat/95/861]; [Pub. L. 98–369, div. B, title VI, § 2653(b)(1)][/us/pl/98/369/s2653/b/1], (2), July 18, 1984, [98 Stat. 1154][/us/stat/98/1154], 1155; [Pub. L. 98–378, § 21(e)][/us/pl/98/378/s21/e], Aug. 16, 1984, [98 Stat. 1325][/us/stat/98/1325]; [Pub. L. 100–647, title VI, § 6276][/us/pl/100/647/s6276], Nov. 10, 1988, [102 Stat. 3753][/us/stat/102/3753]; [Pub. L. 101–508, title V, § 5129(c)][/us/pl/101/508/s5129/c], Nov. 5, 1990, [104 Stat. 1388–288][/us/stat/104/1388-288]; [Pub. L. 103–296, title I, § 108(h)(7)][/us/pl/103/296/s108/h/7], Aug. 15, 1994, [108 Stat. 1487][/us/stat/108/1487]; [Pub. L. 104–134, title III, § 31001(u)(2)][/us/pl/104/134/s31001/u/2], Apr. 26, 1996, [110 Stat. 1321–375][/us/stat/110/1321-375]; [Pub. L. 104–193, title I, § 110][/us/pl/104/193/s110](l)(7), Aug. 22, 1996, [110 Stat. 2173][/us/stat/110/2173]; [Pub. L. 105–33, title V, § 5514(a)(1)][/us/pl/105/33/s5514/a/1], Aug. 5, 1997, [111 Stat. 620][/us/stat/111/620]; [Pub. L. 105–206, title III][/us/pl/105/206], §§ 3505(a), 3711(a), (c), July 22, 1998, [112 Stat. 771][/us/stat/112/771], 779, 781; [Pub. L. 109–171, title VII, § 7301(d)][/us/pl/109/171/s7301/d], Feb. 8, 2006, [120 Stat. 144][/us/stat/120/144]; [Pub. L. 110–328, § 3(a)][/us/pl/110/328/s3/a], (d), Sept. 30, 2008, [122 Stat. 3570][/us/stat/122/3570], 3573; [Pub. L. 111–291, title VIII, § 801(a)][/us/pl/111/291/s801/a], Dec. 8, 2010, [124 Stat. 3157][/us/stat/124/3157]; [Pub. L. 111–312, title V, § 503(a)][/us/pl/111/312/s503/a], Dec. 17, 2010, [124 Stat. 3308][/us/stat/124/3308].)
+([Aug. 6, 1954, ch. 736][/us/act/1954-08-06/ch736], [68A Stat. 791][/us/stat/68A/791]; [Pub. L. 94–455, title XIX, § 1906(b)(13)][/us/pl/94/455/s1906/b/13] (A), (K), Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834], 1835; [Pub. L. 97–35, title XXIII, § 2331(c)][/us/pl/97/35/s2331/c], Aug. 13, 1981, [95 Stat. 861][/us/stat/95/861]; [Pub. L. 98–369, div. B, title VI, § 2653(b)(1)][/us/pl/98/369/s2653/b/1], (2), July 18, 1984, [98 Stat. 1154][/us/stat/98/1154], 1155; [Pub. L. 98–378, § 21(e)][/us/pl/98/378/s21/e], Aug. 16, 1984, [98 Stat. 1325][/us/stat/98/1325]; [Pub. L. 100–647, title VI, § 6276][/us/pl/100/647/s6276], Nov. 10, 1988, [102 Stat. 3753][/us/stat/102/3753]; [Pub. L. 101–508, title V, § 5129(c)][/us/pl/101/508/s5129/c], Nov. 5, 1990, [104 Stat. 1388–288][/us/stat/104/1388-288]; [Pub. L. 103–296, title I, § 108(h)(7)][/us/pl/103/296/s108/h/7], Aug. 15, 1994, [108 Stat. 1487][/us/stat/108/1487]; [Pub. L. 104–134, title III, § 31001(u)(2)][/us/pl/104/134/s31001/u/2], Apr. 26, 1996, [110 Stat. 1321–375][/us/stat/110/1321-375]; [Pub. L. 104–193, title I, § 110][/us/pl/104/193/s110](l)(7), Aug. 22, 1996, [110 Stat. 2173][/us/stat/110/2173]; [Pub. L. 105–33, title V, § 5514(a)(1)][/us/pl/105/33/s5514/a/1], Aug. 5, 1997, [111 Stat. 620][/us/stat/111/620]; [Pub. L. 105–206, title III][/us/pl/105/206], §§ 3505(a), 3711(a), (c), July 22, 1998, [112 Stat. 771][/us/stat/112/771], 779, 781; [Pub. L. 109–171, title VII, § 7301(d)][/us/pl/109/171/s7301/d], Feb. 8, 2006, [120 Stat. 144][/us/stat/120/144]; [Pub. L. 110–328, § 3(a)][/us/pl/110/328/s3/a], (d), Sept. 30, 2008, [122 Stat. 3570][/us/stat/122/3570], 3573; [Pub. L. 111–291, title VIII, § 801(a)][/us/pl/111/291/s801/a], Dec. 8, 2010, [124 Stat. 3157][/us/stat/124/3157]; [Pub. L. 111–312, title V, § 503(a)][/us/pl/111/312/s503/a], Dec. 17, 2010, [124 Stat. 3308][/us/stat/124/3308]; [Pub. L. 114–113, div. Q, title II, § 201(b)][/us/pl/114/113/s201/b], Dec. 18, 2015, [129 Stat. 3076][/us/stat/129/3076].)
+
+ __Amendment of Section__ 
+
+    [Pub. L. 114–113, div. Q, title II, § 201(b)][/us/pl/114/113/s201/b], (d), Dec. 18, 2015, [129 Stat. 3076][/us/stat/129/3076], provided that, applicable to credits or refunds made after Dec. 31, 2016, this section is amended by adding at the end the following:
+
+    (m) Earliest date for certain refunds
+
+    No credit or refund of an overpayment for a taxable year shall be made to a taxpayer before the 15th day of the second month following the close of such taxable year if a credit is allowed to such taxpayer under section 24 (by reason of subsection (d) thereof) or 32 for such taxable year.
+
+    See 2015 Amendment note below.
 
  __References in Text__ 
 
     The Social Security Act, referred to in subsecs. (c), (d)(2), (3)(D), and (g), is [act Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], [49 Stat. 620][/us/stat/49/620]. Title II of the Act is classified generally to subchapter II (§ 401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. Sections 204, 464, and 471(a)(17) of the Act are classified to sections 404, 664, and 671(a)(17) of Title 42. Section 402 of the Act, which was classified to [section 602 of Title 42][/us/usc/t42/s602], was repealed and a new section 402 enacted by [Pub. L. 104–193, title I, § 103(a)(1)][/us/pl/104/193/s103/a/1], Aug. 22, 1996, [110 Stat. 2112][/us/stat/110/2112]. As so enacted section 402 does not contain a subsec. (a)(26). For complete classification of this Act to the Code, see [section 1305 of Title 42][/us/usc/t42/s1305] and Tables.
 
  __Amendments__ 
+
+    2015—Subsec. (m). [Pub. L. 114–113][/us/pl/114/113] added subsec. (m).
 
     2010—Subsec. (f). [Pub. L. 111–291, § 801(a)(1)][/us/pl/111/291/s801/a/1], struck out “resulting from fraud” after “debts” in heading.
 
@@ -348,6 +360,10 @@
     Subsec. (c). [Pub. L. 97–35, § 2331(c)(2)][/us/pl/97/35/s2331/c/2], added subsec. (c).
 
     1976—[Pub. L. 94–455][/us/pl/94/455] struck out “or his delegate” after “Secretary” wherever appearing.
+
+ __Effective Date of 2015 Amendment__ 
+
+    Amendment by [Pub. L. 114–113][/us/pl/114/113] applicable to credits or refunds made after Dec. 31, 2016, see [section 201(d) of Pub. L. 114–113][/us/pl/114/113/s201/d], set out as a note under [section 6071 of this title][/us/usc/t26/s6071].
 
  __Effective Date of 2010 Amendment__ 
 
@@ -497,12 +513,17 @@
 [/us/stat/124/3157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3157
 [/us/pl/111/312/s503/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F312%2Fs503%2Fa
 [/us/stat/124/3308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3308
+[/us/pl/114/113/s201/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs201%2Fb
+[/us/stat/129/3076]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3076
+[/us/pl/114/113/s201/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs201%2Fb
+[/us/stat/129/3076]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3076
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F620
 [/us/usc/t42/s602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs602
 [/us/pl/104/193/s103/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs103%2Fa%2F1
 [/us/stat/110/2112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2112
 [/us/usc/t42/s1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1305
+[/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
 [/us/pl/111/291/s801/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F291%2Fs801%2Fa%2F1
 [/us/pl/111/291/s801/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F291%2Fs801%2Fa%2F2
 [/us/pl/111/291/s801/a/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F291%2Fs801%2Fa%2F3%2FA
@@ -561,6 +582,9 @@
 [/us/pl/97/35/s2331/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs2331%2Fc%2F1
 [/us/pl/97/35/s2331/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs2331%2Fc%2F2
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
+[/us/pl/114/113/s201/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs201%2Fd
+[/us/usc/t26/s6071]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6071
 [/us/pl/111/312/s503/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F312%2Fs503%2Fb
 [/us/stat/124/3308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3308
 [/us/pl/111/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F291

@@ -101,9 +101,9 @@
 
                 (v) __Subsequent years__ 
 
-                In the case of any calendar year after 2018, each of the dollar amounts under clauses (i) (after the application of clause (ii)) and (iv) shall be increased to the amount equal to such amount as in effect for the calendar year preceding such year, increased by an amount equal to the product of—
+                In the case of any calendar year after 2018, each of the dollar amounts under clauses (i) (after the application of clause (ii)) and (iv) shall be increased to the amount equal to such amount as determined for for the calendar year preceding such year, increased by an amount equal to the product of—
 
-                    (I) such amount as so in effect, multiplied by
+                    (I) such amount as so determined, multiplied by
 
                     (II) the cost-of-living adjustment determined under section 1(f)(3) for such year (determined by substituting the calendar year that is 2 years before such year for “1992” in subparagraph (B) thereof), increased by 1 percentage point in the case of determinations for calendar years beginning before 2020.
 
@@ -297,15 +297,15 @@
 
             All employers treated as a single employer under subsection (b), (c), (m), or (o) of section 414 shall be treated as a single employer.
 
-        (10) __Denial of deduction__ 
+        (10) __Deductibility of tax__ 
 
-            For denial of a deduction for the tax imposed by this section, see section 275(a)(6).
+            Section 275(a)(6) shall not apply to the tax imposed by subsection (a).
 
     (g) __Regulations__ 
 
         The Secretary shall prescribe such regulations as may be necessary to carry out this section.
 
-(Added and amended [Pub. L. 111–148, title IX, § 9001(a)][/us/pl/111/148/s9001/a], title X, § 10901(a), (b), Mar. 23, 2010, [124 Stat. 847][/us/stat/124/847], 1015, 1016; [Pub. L. 111–152, title I, § 1401(a)][/us/pl/111/152/s1401/a], Mar. 30, 2010, [124 Stat. 1059][/us/stat/124/1059].)
+(Added and amended [Pub. L. 111–148, title IX, § 9001(a)][/us/pl/111/148/s9001/a], title X, § 10901(a), (b), Mar. 23, 2010, [124 Stat. 847][/us/stat/124/847], 1015, 1016; [Pub. L. 111–152, title I, § 1401(a)][/us/pl/111/152/s1401/a], Mar. 30, 2010, [124 Stat. 1059][/us/stat/124/1059]; [Pub. L. 114–113, div. P, title I][/us/pl/114/113], §§ 101(b), 102, Dec. 18, 2015, [129 Stat. 3037][/us/stat/129/3037].)
 
  __References in Text__ 
 
@@ -318,6 +318,10 @@
     Section 3(16)(B) of the Employee Retirement Income Security Act of 1974, referred to in subsec. (f)(7), is classified to [section 1002(16)(B) of Title 29][/us/usc/t29/s1002/16/B], Labor.
 
  __Amendments__ 
+
+    2015—Subsec. (b)(3)(C)(v). [Pub. L. 114–113, § 101(b)][/us/pl/114/113/s101/b], substituted “as determined for” for “as in effect” in introductory provisions and “as so determined” for “as so in effect” in subcl. (I).
+
+    Subsec. (f)(10). [Pub. L. 114–113, § 102][/us/pl/114/113/s102], amended par. (10) generally. Prior to amendment, text read as follows: “For denial of a deduction for the tax imposed by this section, see section 275(a)(6).”
 
     2010—Subsec. (b)(3)(B). [Pub. L. 111–152, § 1401(a)(1)][/us/pl/111/152/s1401/a/1], designated existing provisions as cl. (i), inserted heading, substituted “Except as provided in clause (ii), the annual” for “The annual”, and added cl. (ii).
 
@@ -357,15 +361,15 @@
 
  __Effective Date of 2010 Amendment__ 
 
-[Pub. L. 111–148, title X, § 10901(c)][/us/pl/111/148/s10901/c], Mar. 23, 2010, [124 Stat. 1016][/us/stat/124/1016], as amended by [Pub. L. 111–152, title I, § 1401(b)(2)][/us/pl/111/152/s1401/b/2], Mar. 30, 2010, [124 Stat. 1060][/us/stat/124/1060], provided that: 
+[Pub. L. 111–148, title X, § 10901(c)][/us/pl/111/148/s10901/c], Mar. 23, 2010, [124 Stat. 1016][/us/stat/124/1016], as amended by [Pub. L. 111–152, title I, § 1401(b)(2)][/us/pl/111/152/s1401/b/2], Mar. 30, 2010, [124 Stat. 1060][/us/stat/124/1060]; [Pub. L. 114–113, div. P, title I, § 101(a)][/us/pl/114/113/s101/a], Dec. 18, 2015, [129 Stat. 3037][/us/stat/129/3037], provided that: 
 
-> “The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2017.”
+> “The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2019.”
 
  __Effective Date__ 
 
-[Pub. L. 111–148, title IX, § 9001(c)][/us/pl/111/148/s9001/c], Mar. 23, 2010, [124 Stat. 853][/us/stat/124/853], as amended by [Pub. L. 111–152, title I, § 1401(b)(1)][/us/pl/111/152/s1401/b/1], Mar. 30, 2010, [124 Stat. 1060][/us/stat/124/1060], provided that: 
+[Pub. L. 111–148, title IX, § 9001(c)][/us/pl/111/148/s9001/c], Mar. 23, 2010, [124 Stat. 853][/us/stat/124/853], as amended by [Pub. L. 111–152, title I, § 1401(b)(1)][/us/pl/111/152/s1401/b/1], Mar. 30, 2010, [124 Stat. 1060][/us/stat/124/1060]; [Pub. L. 114–113, div. P, title I, § 101(a)][/us/pl/114/113/s101/a], Dec. 18, 2015, [129 Stat. 3037][/us/stat/129/3037], provided that: 
 
-> “The amendments made by this section \[enacting this section\] shall apply to taxable years beginning after December 31, 2017.”
+> “The amendments made by this section \[enacting this section\] shall apply to taxable years beginning after December 31, 2019.”
 
 ----------
 
@@ -379,12 +383,16 @@
 [/us/stat/124/847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F847
 [/us/pl/111/152/s1401/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2Fs1401%2Fa
 [/us/stat/124/1059]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1059
+[/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
+[/us/stat/129/3037]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3037
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F620
 [/us/usc/t42/s1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1305
 [/us/usc/t42/s3796b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3796b
 [/us/usc/t29/s203/y]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs203%2Fy
 [/us/usc/t29/s1002/16/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1002%2F16%2FB
+[/us/pl/114/113/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs101%2Fb
+[/us/pl/114/113/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs102
 [/us/pl/111/152/s1401/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2Fs1401%2Fa%2F1
 [/us/pl/111/152/s1401/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2Fs1401%2Fa%2F2%2FA
 [/us/pl/111/152/s1401/a/2/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2Fs1401%2Fa%2F2%2FB%2Fi
@@ -406,9 +414,13 @@
 [/us/stat/124/1016]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1016
 [/us/pl/111/152/s1401/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2Fs1401%2Fb%2F2
 [/us/stat/124/1060]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1060
+[/us/pl/114/113/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs101%2Fa
+[/us/stat/129/3037]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3037
 [/us/pl/111/148/s9001/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs9001%2Fc
 [/us/stat/124/853]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F853
 [/us/pl/111/152/s1401/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2Fs1401%2Fb%2F1
 [/us/stat/124/1060]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1060
+[/us/pl/114/113/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs101%2Fa
+[/us/stat/129/3037]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3037
 
 

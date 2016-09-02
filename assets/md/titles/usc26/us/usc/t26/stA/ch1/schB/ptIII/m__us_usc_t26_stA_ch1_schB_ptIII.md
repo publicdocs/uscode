@@ -377,6 +377,14 @@
 
   <tr>
 
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs139F" data-uslm-ref="/us/usc/t26/s139F">139F.</a>  </td>
+
+    <td> Certain amounts received by wrongfully incarcerated individuals.  </td>
+
+  </tr>
+
+  <tr>
+
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs140" data-uslm-ref="/us/usc/t26/s140">140.</a>  </td>
 
     <td> Cross references to other Acts.  </td>
@@ -386,6 +394,8 @@
 </table>
 
  __Amendments__ 
+
+    2015—[Pub. L. 114–113, div. Q, title III, § 304(b)][/us/pl/114/113/s304/b], Dec. 18, 2015, [129 Stat. 3088][/us/stat/129/3088], added item 139F.
 
     2014—[Pub. L. 113–295, div. A, title II, § 221(a)(19)(A)][/us/pl/113/295/s221/a/19/A], Dec. 19, 2014, [128 Stat. 4039][/us/stat/128/4039], which directed amendment of part III by striking out item 120 in table of sections for “such subpart”, was executed by striking out item 120 “Amounts received under qualified group legal services plans” in table of sections for this part to reflect the probable intent of Congress.
 
@@ -453,6 +463,30 @@
 
     1958—[Pub. L. 85–866, title I, § 3(b)][/us/pl/85/866/s3/b], Sept. 2, 1958, [72 Stat. 1607][/us/stat/72/1607], struck out item 120 “Statutory subsistence allowance received by police”.
 
+ __Exclusion From Gross Income of Certain Clean Coal Power Grants to Non-Corporate Taxpayers__ 
+
+[Pub. L. 114–113, div. Q, title III, § 343][/us/pl/114/113/s343], Dec. 18, 2015, [129 Stat. 3114][/us/stat/129/3114], provided that:
+
+>     “(a)  __General Rule__  __.—__ 
+
+>     In the case of an eligible taxpayer other than a corporation, gross income for purposes of the Internal Revenue Code of 1986 shall not include any amount received under section 402 of the Energy Policy Act of 2005 \[[42 U.S.C. 15962][/us/usc/t42/s15962]\].
+
+>     “(b)  __Reduction in Basis__  __.—__ 
+
+>     The basis of any property subject to the allowance for depreciation under the Internal Revenue Code of 1986 which is acquired with any amount to which subsection (a) applies during the 12-month period beginning on the day such amount is received shall be reduced by an amount equal to such amount. The excess (if any) of such amount over the amount of the reduction under the preceding sentence shall be applied to the reduction (as of the last day of the period specified in the preceding sentence) of the basis of any other property held by the taxpayer. The particular properties to which the reductions required by this subsection are allocated shall be determined by the Secretary of the Treasury (or the Secretary’s delegate) under regulations similar to the regulations under section 362(c)(2) of such Code.
+
+>     “(c)  __Limitation to Amounts Which Would Be Contributions to Capital__  __.—__ 
+
+>     Subsection (a) shall not apply to any amount unless such amount, if received by a corporation, would be excluded from gross income under section 118 of the Internal Revenue Code of 1986.
+
+>     “(d)  __Eligible Taxpayer__  __.—__ 
+
+>     For purposes of this section, with respect to any amount received under section 402 of the Energy Policy Act of 2005 \[[42 U.S.C. 15962][/us/usc/t42/s15962]\], the term ‘eligible taxpayer’ means a taxpayer that makes a payment to the Secretary of the Treasury (or the Secretary’s delegate) equal to 1.18 percent of the amount so received. Such payment shall be made at such time and in such manner as such Secretary (or the Secretary’s delegate) shall prescribe. In the case of a partnership, such Secretary (or the Secretary’s delegate) shall prescribe regulations to determine the allocation of such payment amount among the partners.
+
+>     “(e)  __Effective Date__  __.—__ 
+
+>     This section shall apply to amounts received under section 402 of the Energy Policy Act of 2005 \[[42 U.S.C. 15962][/us/usc/t42/s15962]\] in taxable years beginning after December 31, 2011.”
+
  __No Federal Income Tax on Restitution Received by Victims of the Nazi Regime or Their Heirs or Estates__ 
 
 [Pub. L. 107–16, title VIII, § 803][/us/pl/107/16/s803], June 7, 2001, [115 Stat. 149][/us/stat/115/149], provided that:
@@ -508,6 +542,8 @@
 ----------
 ----------
 
+[/us/pl/114/113/s304/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs304%2Fb
+[/us/stat/129/3088]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3088
 [/us/pl/113/295/s221/a/19/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F19%2FA
 [/us/stat/128/4039]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4039
 [/us/pl/113/168/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F168%2Fs2%2Fb
@@ -577,6 +613,11 @@
 [/us/stat/78/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F40
 [/us/pl/85/866/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F866%2Fs3%2Fb
 [/us/stat/72/1607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1607
+[/us/pl/114/113/s343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs343
+[/us/stat/129/3114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3114
+[/us/usc/t42/s15962]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs15962
+[/us/usc/t42/s15962]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs15962
+[/us/usc/t42/s15962]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs15962
 [/us/pl/107/16/s803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2Fs803
 [/us/stat/115/149]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F149
 

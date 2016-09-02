@@ -47,7 +47,13 @@
 
                 (i) __Businesses in enterprise communities eligible__ 
 
-                    References in section 1397C to empowerment zones shall be treated as including references to enterprise communities.
+                    (I) __In general__ 
+
+                        Except as provided in subclause (II), references in section 1397C to empowerment zones shall be treated as including references to enterprise communities.
+
+                    (II) __Special rule for employee residence test__ 
+
+                        For purposes of subsection (b)(6) and (c)(5) of section 1397C, an employee shall be treated as a resident of an empowerment zone if such employee is a resident of an empowerment zone, an enterprise community, or a qualified low-income community within an applicable nominating jurisdiction.
 
                 (ii) __Waiver of requirements during startup period__ 
 
@@ -59,9 +65,41 @@
 
                 (iii) __Reduced requirements after testing period__ 
 
-                    A business shall not fail to be treated as an enterprise zone business for any taxable year beginning after the testing period by reason of failing to meet any requirement of subsection (b) or (c) of section 1397C if at least 35 percent of the employees of such business for such year are residents of an empowerment zone or an enterprise community. The preceding sentence shall not apply to any business which is not a qualified business by reason of paragraph (1), (4), or (5) of section 1397C(d).
+                    A business shall not fail to be treated as an enterprise zone business for any taxable year beginning after the testing period by reason of failing to meet any requirement of subsection (b) or (c) of section 1397C if at least 35 percent of the employees of such business for such year are residents of an empowerment zone, an enterprise community, or a qualified low-income community within an applicable nominating jurisdiction. The preceding sentence shall not apply to any business which is not a qualified business by reason of paragraph (1), (4), or (5) of section 1397C(d).
 
-            (C) __Definitions relating to subparagraph (B)__ 
+            (C) __Qualified low-income community__ 
+
+            For purposes of subparagraph (B)—
+
+                (i) __In general__ 
+
+                The term “qualified low-income community” means any population census tract if—
+
+                    (I) the poverty rate for such tract is at least 20 percent, or
+
+                    (II) the median family income for such tract does not exceed 80 percent of statewide median family income (or, in the case of a tract located within a metropolitan area, metropolitan area median family income if greater).
+
+                Subclause (II) shall be applied using possessionwide median family income in the case of census tracts located within a possession of the United States.
+
+                (ii) __Targeted populations__ 
+
+                    The Secretary shall prescribe regulations under which 1 or more targeted populations (within the meaning of section 103(20) of the Riegle Community Development and Regulatory Improvement Act of 1994) may be treated as qualified low-income communities.
+
+                (iii) __Areas not within census tracts__ 
+
+                    In the case of an area which is not tracted for population census tracts, the equivalent county divisions (as defined by the Bureau of the Census for purposes of defining poverty areas) shall be used for purposes of determining poverty rates and median family income.
+
+                (iv) __Modification of income requirement for census tracts within high migration rural counties__ 
+
+                    (I) __In general__ 
+
+                        In the case of a population census tract located within a high migration rural county, clause (i)(II) shall be applied to areas not located within a metropolitan area by substituting “85 percent” for “80 percent”.
+
+                    (II) __High migration rural county__ 
+
+                        For purposes of this clause, the term “high migration rural county” means any county which, during the 20-year period ending with the year in which the most recent census was conducted, has a net out-migration of inhabitants from the county of at least 10 percent of the population of the county at the beginning of such period.
+
+            (D) __Other definitions relating to subparagraph (B)__ 
 
             For purposes of subparagraph (B)—
 
@@ -77,7 +115,11 @@
 
                     The term “testing period” means the first 3 taxable years beginning after the startup period.
 
-            (D) __Portions of business may be enterprise zone business__ 
+                (iii) __Applicable nominating jurisdiction__ 
+
+                    The term “applicable nominating jurisdiction” means, with respect to any empowerment zone or enterprise community, any local government that nominated such community for designation under section 1391.
+
+            (E) __Portions of business may be enterprise zone business__ 
 
                 The term “enterprise zone business” includes any trades or businesses which would qualify as an enterprise zone business (determined after the modifications of subparagraph (B)) if such trades or businesses were separately incorporated.
 
@@ -173,7 +215,11 @@
 
             (B) in the case of obligations issued after December 31, 2001, all empowerment zones (other than the District of Columbia Enterprise Zone) were taken into account under sections 1397C and 1397D.
 
-(Added [Pub. L. 103–66, title XIII, § 13301(a)][/us/pl/103/66/s13301/a], Aug. 10, 1993, [107 Stat. 548][/us/stat/107/548]; amended [Pub. L. 104–188, title I, § 1703(n)(7)][/us/pl/104/188/s1703/n/7], Aug. 20, 1996, [110 Stat. 1877][/us/stat/110/1877]; [Pub. L. 105–34, title IX][/us/pl/105/34], §§ 953(a), 955(a), (b), Aug. 5, 1997, [111 Stat. 887][/us/stat/111/887], 889, 890; [Pub. L. 106–554, § 1(a)(7)][/us/pl/106/554/s1/a/7] \[title I, §§ 115(a), 116(b)(3), (4)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–601, 2763A–603; [Pub. L. 107–147, title IV, § 417(16)][/us/pl/107/147/s417/16], Mar. 9, 2002, [116 Stat. 56][/us/stat/116/56]; [Pub. L. 113–295, div. A, title II, § 220][/us/pl/113/295/s220](o), (p), Dec. 19, 2014, [128 Stat. 4036][/us/stat/128/4036].)
+(Added [Pub. L. 103–66, title XIII, § 13301(a)][/us/pl/103/66/s13301/a], Aug. 10, 1993, [107 Stat. 548][/us/stat/107/548]; amended [Pub. L. 104–188, title I, § 1703(n)(7)][/us/pl/104/188/s1703/n/7], Aug. 20, 1996, [110 Stat. 1877][/us/stat/110/1877]; [Pub. L. 105–34, title IX][/us/pl/105/34], §§ 953(a), 955(a), (b), Aug. 5, 1997, [111 Stat. 887][/us/stat/111/887], 889, 890; [Pub. L. 106–554, § 1(a)(7)][/us/pl/106/554/s1/a/7] \[title I, §§ 115(a), 116(b)(3), (4)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–601, 2763A–603; [Pub. L. 107–147, title IV, § 417(16)][/us/pl/107/147/s417/16], Mar. 9, 2002, [116 Stat. 56][/us/stat/116/56]; [Pub. L. 113–295, div. A, title II, § 220][/us/pl/113/295/s220](o), (p), Dec. 19, 2014, [128 Stat. 4036][/us/stat/128/4036]; [Pub. L. 114–113, div. Q, title I, § 171(b)][/us/pl/114/113/s171/b]–(d), Dec. 18, 2015, [129 Stat. 3070][/us/stat/129/3070], 3071.)
+
+ __References in Text__ 
+
+    Section 103(20) of the Riegle Community Development and Regulatory Improvement Act of 1994, referred to in subsec. (b)(3)(C)(ii), is classified to [section 4702(20) of Title 12][/us/usc/t12/s4702/20], Banks and Banking.
 
  __Prior Provisions__ 
 
@@ -182,6 +228,18 @@
     A prior section 1395, added [Pub. L. 95–600, title VI, § 601(a)][/us/pl/95/600/s601/a], Nov. 6, 1978, [92 Stat. 2895][/us/stat/92/2895], related to adjustment to basis of stock of shareholders, prior to repeal by [Pub. L. 99–514, title XIII, § 1303(a)][/us/pl/99/514/s1303/a], Oct. 22, 1986, [100 Stat. 2658][/us/stat/100/2658].
 
  __Amendments__ 
+
+    2015—Subsec. (b)(3)(B)(i). [Pub. L. 114–113, § 171(b)][/us/pl/114/113/s171/b], designated existing provisions as subcl. (I), inserted heading, substituted “Except as provided in subclause (II), references” for “References” in subcl. (I), and added subcl. (II).
+
+    Subsec. (b)(3)(B)(iii). [Pub. L. 114–113, § 171(d)(1)][/us/pl/114/113/s171/d/1], substituted “, an enterprise community, or a qualified low-income community within an applicable nominating jurisdiction” for “or an enterprise community”.
+
+    Subsec. (b)(3)(C). [Pub. L. 114–113, § 171(c)(1)][/us/pl/114/113/s171/c/1], added subpar. (C). Former subpar. (C) redesignated (D).
+
+    Subsec. (b)(3)(D). [Pub. L. 114–113, § 171(c)(1)][/us/pl/114/113/s171/c/1], (d)(2), redesignated subpar. (C) as (D) and substituted “Other definitions” for “Definitions” in heading. Former subpar. (D) redesignated (E).
+
+    Subsec. (b)(3)(D)(iii). [Pub. L. 114–113, § 171(c)(2)][/us/pl/114/113/s171/c/2], added cl. (iii).
+
+    Subsec. (b)(3)(E). [Pub. L. 114–113, § 171(c)(1)][/us/pl/114/113/s171/c/1], redesignated subpar. (D) as (E).
 
     2014—Subsec. (f). [Pub. L. 113–295, § 220][/us/pl/113/295/s220](o), struck out “designated under section 1391(g)” after “empowerment zones” in heading.
 
@@ -210,6 +268,12 @@
     Subsec. (f). [Pub. L. 105–34, § 953(a)][/us/pl/105/34/s953/a], added subsec. (f).
 
     1996—Subsec. (e)(2). [Pub. L. 104–188][/us/pl/104/188], which directed that par. (2) be amended by striking “(i)” and inserting “(A)” and by striking “(ii)” and inserting “(B)”, could not be executed, because par. (2) contained neither “(i)” nor “(ii)”.
+
+ __Effective Date of 2015 Amendment__ 
+
+[Pub. L. 114–113, div. Q, title I, § 171(e)(2)][/us/pl/114/113/s171/e/2], Dec. 18, 2015, [129 Stat. 3071][/us/stat/129/3071], provided that: 
+
+> “The amendments made by subsections (b), (c), and (d) \[amending this section\] shall apply to bonds issued after December 31, 2015.”
 
  __Effective Date of 2000 Amendment__ 
 
@@ -252,6 +316,9 @@
 [/us/stat/116/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F56
 [/us/pl/113/295/s220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs220
 [/us/stat/128/4036]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4036
+[/us/pl/114/113/s171/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs171%2Fb
+[/us/stat/129/3070]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3070
+[/us/usc/t12/s4702/20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4702%2F20
 [/us/pl/95/600/s601/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2Fs601%2Fa
 [/us/stat/92/2895]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2895
 [/us/pl/96/595/s3/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F595%2Fs3%2Fa%2F6
@@ -262,6 +329,12 @@
 [/us/stat/92/2895]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2895
 [/us/pl/99/514/s1303/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1303%2Fa
 [/us/stat/100/2658]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2658
+[/us/pl/114/113/s171/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs171%2Fb
+[/us/pl/114/113/s171/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs171%2Fd%2F1
+[/us/pl/114/113/s171/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs171%2Fc%2F1
+[/us/pl/114/113/s171/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs171%2Fc%2F1
+[/us/pl/114/113/s171/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs171%2Fc%2F2
+[/us/pl/114/113/s171/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs171%2Fc%2F1
 [/us/pl/113/295/s220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs220
 [/us/pl/113/295/s220/p]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs220%2Fp
 [/us/pl/107/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F147
@@ -274,6 +347,8 @@
 [/us/pl/105/34/s955/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs955%2Fb
 [/us/pl/105/34/s953/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs953%2Fa
 [/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
+[/us/pl/114/113/s171/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs171%2Fe%2F2
+[/us/stat/129/3071]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3071
 [/us/pl/106/554/s1/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F7
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
 [/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554

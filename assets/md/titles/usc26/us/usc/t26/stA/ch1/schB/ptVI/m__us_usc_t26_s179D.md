@@ -49,7 +49,7 @@
 
                 (i) located in the United States, and
 
-                (ii) within the scope of Standard 90.1–2001,
+                (ii) within the scope of Standard 90.1–2007,
 
             (C)
 
@@ -61,11 +61,11 @@
 
                 (iii) the building envelope, and
 
-            (D) which is certified in accordance with subsection (d)(6) as being installed as part of a plan designed to reduce the total annual energy and power costs with respect to the interior lighting systems, heating, cooling, ventilation, and hot water systems of the building by 50 percent or more in comparison to a reference building which meets the minimum requirements of Standard 90.1–2001 using methods of calculation under subsection (d)(2).
+            (D) which is certified in accordance with subsection (d)(6) as being installed as part of a plan designed to reduce the total annual energy and power costs with respect to the interior lighting systems, heating, cooling, ventilation, and hot water systems of the building by 50 percent or more in comparison to a reference building which meets the minimum requirements of Standard 90.1–2007 using methods of calculation under subsection (d)(2).
 
-        (2) __Standard 90.1–2001__ 
+        (2) __Standard 90.1–2007__ 
 
-            The term “Standard 90.1–2001” means Standard 90.1–2001 of the American Society of Heating, Refrigerating, and Air Conditioning Engineers and the Illuminating Engineering Society of North America (as in effect on April 2, 2003).
+            The term “Standard 90.1–2007” means Standard 90.1–2007 of the American Society of Heating, Refrigerating, and Air Conditioning Engineers and the Illuminating Engineering Society of North America (as in effect on the day before the date of the adoption of Standard 90.1–2010 of such Societies).
 
     (d) __Special rules__ 
 
@@ -137,7 +137,7 @@
 
         (1) __In general__ 
 
-            The lighting system target under subsection (d)(1)(A)(ii) shall be a reduction in lighting power density of 25 percent (50 percent in the case of a warehouse) of the minimum requirements in Table 9.3.1.1 or Table 9.3.1.2 (not including additional interior lighting power allowances) of Standard 90.1–2001.
+            The lighting system target under subsection (d)(1)(A)(ii) shall be a reduction in lighting power density of 25 percent (50 percent in the case of a warehouse) of the minimum requirements in Table 9.5.1 or Table 9.6.1 (not including additional interior lighting power allowances) of Standard 90.1–2007.
 
         (2) __Reduction in deduction if reduction less than 40 percent__ 
 
@@ -157,7 +157,7 @@
 
             This subsection shall not apply to any system—
 
-                (i) the controls and circuiting of which do not comply fully with the mandatory and prescriptive requirements of Standard 90.1–2001 and which do not include provision for bilevel switching in all occupancies except hotel and motel guest rooms, store rooms, restrooms, and public lobbies, or
+                (i) the controls and circuiting of which do not comply fully with the mandatory and prescriptive requirements of Standard 90.1–2007 and which do not include provision for bilevel switching in all occupancies except hotel and motel guest rooms, store rooms, restrooms, and public lobbies, or
 
                 (ii) which does not meet the minimum requirements for calculated lighting levels as set forth in the Illuminating Engineering Society of North America Lighting Handbook, Performance and Application, Ninth Edition, 2000.
 
@@ -171,17 +171,37 @@
 
     (h) __Termination__ 
 
-        This section shall not apply with respect to property placed in service after December 31, 2014.
+        This section shall not apply with respect to property placed in service after December 31, 2016.
 
-(Added [Pub. L. 109–58, title XIII, § 1331(a)][/us/pl/109/58/s1331/a], Aug. 8, 2005, [119 Stat. 1020][/us/stat/119/1020]; amended [Pub. L. 109–432, div. A, title II, § 204][/us/pl/109/432/s204], Dec. 20, 2006, [120 Stat. 2945][/us/stat/120/2945]; [Pub. L. 110–343, div. B, title III, § 303][/us/pl/110/343/s303], Oct. 3, 2008, [122 Stat. 3845][/us/stat/122/3845]; [Pub. L. 113–295, div. A, title I, § 158(a)][/us/pl/113/295/s158/a], Dec. 19, 2014, [128 Stat. 4022][/us/stat/128/4022].)
+(Added [Pub. L. 109–58, title XIII, § 1331(a)][/us/pl/109/58/s1331/a], Aug. 8, 2005, [119 Stat. 1020][/us/stat/119/1020]; amended [Pub. L. 109–432, div. A, title II, § 204][/us/pl/109/432/s204], Dec. 20, 2006, [120 Stat. 2945][/us/stat/120/2945]; [Pub. L. 110–343, div. B, title III, § 303][/us/pl/110/343/s303], Oct. 3, 2008, [122 Stat. 3845][/us/stat/122/3845]; [Pub. L. 113–295, div. A, title I, § 158(a)][/us/pl/113/295/s158/a], Dec. 19, 2014, [128 Stat. 4022][/us/stat/128/4022]; [Pub. L. 114–113, div. Q, title I, § 190(a)][/us/pl/114/113/s190/a], title III, § 341(a), (b), Dec. 18, 2015, [129 Stat. 3075][/us/stat/129/3075], 3113.)
 
  __Amendments__ 
+
+    2015—Subsec. (c)(1)(B)(ii), (D). [Pub. L. 114–113, § 341(a)][/us/pl/114/113/s341/a], substituted “Standard 90.1–2007” for “Standard 90.1–2001”.
+
+    Subsec. (c)(2). [Pub. L. 114–113, § 341(b)(1)][/us/pl/114/113/s341/b/1], amended par. (2) generally. Prior to amendment, text read as follows: “The term ‘Standard 90.1–2001’ means Standard 90.1–2001 of the American Society of Heating, Refrigerating, and Air Conditioning Engineers and the Illuminating Engineering Society of North America (as in effect on April 2, 2003).”
+
+    Subsec. (f)(1). [Pub. L. 114–113, § 341(b)(2)][/us/pl/114/113/s341/b/2], (3), substituted “Table 9.5.1” for “Table 9.3.1.1”, “Table 9.6.1” for “Table 9.3.1.2”, and “Standard 90.1–2007” for “Standard 90.1–2001”.
+
+    Subsec. (f)(2)(C)(i). [Pub. L. 114–113, § 341(b)(2)][/us/pl/114/113/s341/b/2], substituted “Standard 90.1–2007” for “Standard 90.1–2001”.
+
+    Subsec. (h). [Pub. L. 114–113, § 190(a)][/us/pl/114/113/s190/a], substituted “December 31, 2016” for “December 31, 2014”.
 
     2014—Subsec. (h). [Pub. L. 113–295][/us/pl/113/295] substituted “December 31, 2014” for “December 31, 2013”.
 
     2008—Subsec. (h). [Pub. L. 110–343][/us/pl/110/343] substituted “December 31, 2013” for “December 31, 2008”.
 
     2006—Subsec. (h). [Pub. L. 109–432][/us/pl/109/432] substituted “2008” for “2007”.
+
+ __Effective Date of 2015 Amendment__ 
+
+[Pub. L. 114–113, div. Q, title I, § 190(b)][/us/pl/114/113/s190/b], Dec. 18, 2015, [129 Stat. 3075][/us/stat/129/3075], provided that: 
+
+> “The amendment made by subsection (a) \[amending this section\] shall apply to property placed in service after December 31, 2014.”
+
+[Pub. L. 114–113, div. Q, title III, § 341(c)][/us/pl/114/113/s341/c], Dec. 18, 2015, [129 Stat. 3113][/us/stat/129/3113], provided that: 
+
+> “The amendments made by this subsection \[probably means this section, amending this section\] shall apply to property placed in service after December 31, 2015.”
 
  __Effective Date of 2014 Amendment__ 
 
@@ -210,9 +230,20 @@
 [/us/stat/122/3845]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3845
 [/us/pl/113/295/s158/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs158%2Fa
 [/us/stat/128/4022]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4022
+[/us/pl/114/113/s190/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs190%2Fa
+[/us/stat/129/3075]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3075
+[/us/pl/114/113/s341/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs341%2Fa
+[/us/pl/114/113/s341/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs341%2Fb%2F1
+[/us/pl/114/113/s341/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs341%2Fb%2F2
+[/us/pl/114/113/s341/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs341%2Fb%2F2
+[/us/pl/114/113/s190/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs190%2Fa
 [/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
 [/us/pl/110/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343
 [/us/pl/109/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432
+[/us/pl/114/113/s190/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs190%2Fb
+[/us/stat/129/3075]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3075
+[/us/pl/114/113/s341/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs341%2Fc
+[/us/stat/129/3113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3113
 [/us/pl/113/295/s158/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs158%2Fb
 [/us/stat/128/4022]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4022
 [/us/pl/109/58/s1331/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1331%2Fd

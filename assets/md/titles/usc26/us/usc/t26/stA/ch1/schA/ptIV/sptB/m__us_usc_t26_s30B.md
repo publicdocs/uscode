@@ -1013,7 +1013,7 @@
 
     This section shall not apply to any property purchased after—
 
-        (1) in the case of a new qualified fuel cell motor vehicle (as described in subsection (b)), December 31, 2014,
+        (1) in the case of a new qualified fuel cell motor vehicle (as described in subsection (b)), December 31, 2016,
 
         (2) in the case of a new advanced lean burn technology motor vehicle (as described in subsection (c)) or a new qualified hybrid motor vehicle (as described in subsection (d)(2)(A)), December 31, 2010,
 
@@ -1021,7 +1021,7 @@
 
         (4) in the case of a new qualified alternative fuel vehicle (as described in subsection (e)), December 31, 2010.
 
-(Added [Pub. L. 109–58, title XIII, § 1341(a)][/us/pl/109/58/s1341/a], Aug. 8, 2005, [119 Stat. 1038][/us/stat/119/1038]; amended [Pub. L. 109–135, title IV][/us/pl/109/135], §§ 402(j), 412(d), Dec. 21, 2005, [119 Stat. 2615][/us/stat/119/2615], 2636; [Pub. L. 110–343, div. B, title II, § 205(b)][/us/pl/110/343/s205/b], Oct. 3, 2008, [122 Stat. 3838][/us/stat/122/3838]; [Pub. L. 111–5, div. B, title I][/us/pl/111/5], §§ 1141(b)(1), 1142(b)(2), 1143(a)–(c), 1144(a), Feb. 17, 2009, [123 Stat. 328][/us/stat/123/328], 330–332; [Pub. L. 111–148, title X, § 10909(b)(2)(G)][/us/pl/111/148/s10909/b/2/G], (c), Mar. 23, 2010, [124 Stat. 1023][/us/stat/124/1023]; [Pub. L. 111–312, title I, § 101(b)(1)][/us/pl/111/312/s101/b/1], Dec. 17, 2010, [124 Stat. 3298][/us/stat/124/3298]; [Pub. L. 112–240, title I, § 104(c)(2)(H)][/us/pl/112/240/s104/c/2/H], Jan. 2, 2013, [126 Stat. 2322][/us/stat/126/2322]; [Pub. L. 113–295, div. A, title II][/us/pl/113/295], §§ 218(a), 220(a), Dec. 19, 2014, [128 Stat. 4035][/us/stat/128/4035].)
+(Added [Pub. L. 109–58, title XIII, § 1341(a)][/us/pl/109/58/s1341/a], Aug. 8, 2005, [119 Stat. 1038][/us/stat/119/1038]; amended [Pub. L. 109–135, title IV][/us/pl/109/135], §§ 402(j), 412(d), Dec. 21, 2005, [119 Stat. 2615][/us/stat/119/2615], 2636; [Pub. L. 110–343, div. B, title II, § 205(b)][/us/pl/110/343/s205/b], Oct. 3, 2008, [122 Stat. 3838][/us/stat/122/3838]; [Pub. L. 111–5, div. B, title I][/us/pl/111/5], §§ 1141(b)(1), 1142(b)(2), 1143(a)–(c), 1144(a), Feb. 17, 2009, [123 Stat. 328][/us/stat/123/328], 330–332; [Pub. L. 111–148, title X, § 10909(b)(2)(G)][/us/pl/111/148/s10909/b/2/G], (c), Mar. 23, 2010, [124 Stat. 1023][/us/stat/124/1023]; [Pub. L. 111–312, title I, § 101(b)(1)][/us/pl/111/312/s101/b/1], Dec. 17, 2010, [124 Stat. 3298][/us/stat/124/3298]; [Pub. L. 112–240, title I, § 104(c)(2)(H)][/us/pl/112/240/s104/c/2/H], Jan. 2, 2013, [126 Stat. 2322][/us/stat/126/2322]; [Pub. L. 113–295, div. A, title II][/us/pl/113/295], §§ 218(a), 220(a), Dec. 19, 2014, [128 Stat. 4035][/us/stat/128/4035]; [Pub. L. 114–113, div. Q, title I, § 193(a)][/us/pl/114/113/s193/a], Dec. 18, 2015, [129 Stat. 3075][/us/stat/129/3075].)
 
  __References in Text__ 
 
@@ -1032,6 +1032,8 @@
     The date of the enactment of the Energy Tax Incentives Act of 2005, referred to in subsec. (e)(2), is the date of enactment of title XIII of [Pub. L. 109–58][/us/pl/109/58], which was approved Aug. 8, 2005.
 
  __Amendments__ 
+
+    2015—Subsec. (k)(1). [Pub. L. 114–113][/us/pl/114/113] substituted “December 31, 2016” for “December 31, 2014”.
 
     2014—Subsec. (h)(5)(B). [Pub. L. 113–295, § 218(a)][/us/pl/113/295/s218/a], inserted “(determined without regard to subsection (g))” before period at end.
 
@@ -1062,6 +1064,12 @@
     2005—Subsec. (g)(2)(A). [Pub. L. 109–135, § 412(d)][/us/pl/109/135/s412/d], substituted “regular tax liability (as defined in section 26(b))” for “regular tax”.
 
     Subsec. (h)(6). [Pub. L. 109–135, § 402(j)][/us/pl/109/135/s402/j], inserted at end “For purposes of subsection (g), property to which this paragraph applies shall be treated as of a character subject to an allowance for depreciation.”
+
+ __Effective Date of 2015 Amendment__ 
+
+[Pub. L. 114–113, div. Q, title I, § 193(b)][/us/pl/114/113/s193/b], Dec. 18, 2015, [129 Stat. 3076][/us/stat/129/3076], provided that: 
+
+> “The amendment made by this section \[amending this section\] shall apply to property purchased after December 31, 2014.”
 
  __Effective Date of 2014 Amendment__ 
 
@@ -1132,11 +1140,14 @@
 [/us/stat/126/2322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2322
 [/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
 [/us/stat/128/4035]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4035
+[/us/pl/114/113/s193/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs193%2Fa
+[/us/stat/129/3075]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3075
 [/us/act/1955-07-14/ch360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-14%2Fch360
 [/us/stat/69/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F322
 [/us/usc/t42/s7401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7401
 [/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
 [/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
+[/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
 [/us/pl/113/295/s218/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs218%2Fa
 [/us/pl/113/295/s220/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs220%2Fa
 [/us/pl/112/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240
@@ -1151,6 +1162,8 @@
 [/us/pl/110/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343
 [/us/pl/109/135/s412/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135%2Fs412%2Fd
 [/us/pl/109/135/s402/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135%2Fs402%2Fj
+[/us/pl/114/113/s193/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs193%2Fb
+[/us/stat/129/3076]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3076
 [/us/pl/113/295/s218/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs218%2Fc
 [/us/stat/128/4035]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4035
 [/us/usc/t26/s30C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs30C

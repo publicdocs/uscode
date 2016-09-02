@@ -63,9 +63,19 @@
 
   </tr>
 
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs506" data-uslm-ref="/us/usc/t26/s506">506.</a>  </td>
+
+    <td> Organizations required to notify Secretary of intent to operate under 501(c)(4).  </td>
+
+  </tr>
+
 </table>
 
  __Amendments__ 
+
+    2015—[Pub. L. 114–113, div. Q, title IV, § 405(d)][/us/pl/114/113/s405/d], Dec. 18, 2015, [129 Stat. 3119][/us/stat/129/3119], added item 506.
 
     1987—[Pub. L. 100–203, title X, § 10711(b)(2)(B)][/us/pl/100/203/s10711/b/2/B], Dec. 22, 1987, [101 Stat. 1330–464][/us/stat/101/1330-464], substituted “substantial lobbying or because of political activities” for “substantial lobbying” in item 504.
 
@@ -82,6 +92,8 @@
 ----------
 ----------
 
+[/us/pl/114/113/s405/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs405%2Fd
+[/us/stat/129/3119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3119
 [/us/pl/100/203/s10711/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs10711%2Fb%2F2%2FB
 [/us/stat/101/1330-464]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-464
 [/us/pl/98/369/s513/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs513%2Fb

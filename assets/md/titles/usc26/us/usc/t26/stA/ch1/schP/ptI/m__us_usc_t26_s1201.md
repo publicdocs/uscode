@@ -27,7 +27,7 @@
 
         (1) __In general__ 
 
-        If, for any taxable year ending after the date of the enactment of the Food, Conservation, and Energy Act of 2008 and beginning on or before the date which is 1 year after such date, a corporation has both a net capital gain and qualified timber gain—
+        If, for any taxable year beginning in 2016, a corporation has both a net capital gain and qualified timber gain—
 
             (A) subsection (a) shall apply to such corporation for the taxable year without regard to whether the applicable tax rate exceeds 35 percent, and
 
@@ -37,7 +37,7 @@
 
                 (i)
 
-                 15 percent of the least of—
+                 23.8 percent of the least of—
 
                     (I) qualified timber gain,
 
@@ -57,14 +57,6 @@
 
             For purposes of subparagraphs (A) and (B), only timber held more than 15 years shall be taken into account.
 
-        (3) __Computation for taxable years in which rate first applies or ends__ 
-
-        In the case of any taxable year which includes either of the dates set forth in paragraph (1), the qualified timber gain for such year shall not exceed the qualified timber gain properly taken into account for—
-
-            (A) in the case of the taxable year including the date of the enactment of the Food, Conservation, and Energy Act of 2008, the portion of the year after such date, and
-
-            (B) in the case of the taxable year including the date which is 1 year after such date of enactment, the portion of the year on or before such later date.
-
     (c) __Cross references__ 
 
     For computation of the alternative tax—
@@ -75,17 +67,15 @@
 
         (3) in the case of real estate investment trusts, see section 857(b)(3)(A).
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 320][/us/stat/68A/320]; [Mar. 13, 1956, ch. 83, § 5(7)][/us/act/1956-03-13/ch83/s5/7], [70 Stat. 49][/us/stat/70/49]; [Pub. L. 86–69, § 3(f)(2)][/us/pl/86/69/s3/f/2], June 25, 1959, [73 Stat. 140][/us/stat/73/140]; [Pub. L. 87–834, § 8(g)(3)][/us/pl/87/834/s8/g/3], Oct. 16, 1962, [76 Stat. 999][/us/stat/76/999]; [Pub. L. 91–172, title V, § 511(b)][/us/pl/91/172/s511/b], Dec. 30, 1969, [83 Stat. 635][/us/stat/83/635]; [Pub. L. 94–455, title XIX, § 1901(a)(135)][/us/pl/94/455/s1901/a/135], (b)(33)(L), Oct. 4, 1976, [90 Stat. 1786][/us/stat/90/1786], 1801; [Pub. L. 95–600, title IV][/us/pl/95/600], §§ 401(a), 403(a), (b), Nov. 6, 1978, [92 Stat. 2866][/us/stat/92/2866], 2868; [Pub. L. 96–222, title I, § 104(a)(2)(B)][/us/pl/96/222/s104/a/2/B], (3)(A), Apr. 1, 1980, [94 Stat. 214][/us/stat/94/214], 215; [Pub. L. 98–369, div. A, title II, § 211(b)(16)][/us/pl/98/369/s211/b/16], July 18, 1984, [98 Stat. 756][/us/stat/98/756]; [Pub. L. 99–514, title III, § 311(a)][/us/pl/99/514/s311/a], title X, § 1024(c)(14), Oct. 22, 1986, [100 Stat. 2219][/us/stat/100/2219], 2408; [Pub. L. 100–647, title I, § 1003(c)(1)][/us/pl/100/647/s1003/c/1], title II, § 2004(l), Nov. 10, 1988, [102 Stat. 3384][/us/stat/102/3384], 3606; [Pub. L. 103–66, title XIII, § 13221(c)(2)][/us/pl/103/66/s13221/c/2], Aug. 10, 1993, [107 Stat. 477][/us/stat/107/477]; [Pub. L. 104–188, title I, § 1703(f)][/us/pl/104/188/s1703/f], Aug. 20, 1996, [110 Stat. 1876][/us/stat/110/1876]; [Pub. L. 105–34, title III, § 314(a)][/us/pl/105/34/s314/a], Aug. 5, 1997, [111 Stat. 842][/us/stat/111/842]; [Pub. L. 110–234, title XV, § 15311(a)][/us/pl/110/234/s15311/a], May 22, 2008, [122 Stat. 1502][/us/stat/122/1502]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title XV, § 15311(a), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2264.)
-
- __References in Text__ 
-
-    The date of the enactment of the Food, Conservation, and Energy Act of 2008, referred to in subsec. (b)(1), (3), is the date of enactment of [Pub. L. 110–246][/us/pl/110/246], which was approved June 18, 2008.
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 320][/us/stat/68A/320]; [Mar. 13, 1956, ch. 83, § 5(7)][/us/act/1956-03-13/ch83/s5/7], [70 Stat. 49][/us/stat/70/49]; [Pub. L. 86–69, § 3(f)(2)][/us/pl/86/69/s3/f/2], June 25, 1959, [73 Stat. 140][/us/stat/73/140]; [Pub. L. 87–834, § 8(g)(3)][/us/pl/87/834/s8/g/3], Oct. 16, 1962, [76 Stat. 999][/us/stat/76/999]; [Pub. L. 91–172, title V, § 511(b)][/us/pl/91/172/s511/b], Dec. 30, 1969, [83 Stat. 635][/us/stat/83/635]; [Pub. L. 94–455, title XIX, § 1901(a)(135)][/us/pl/94/455/s1901/a/135], (b)(33)(L), Oct. 4, 1976, [90 Stat. 1786][/us/stat/90/1786], 1801; [Pub. L. 95–600, title IV][/us/pl/95/600], §§ 401(a), 403(a), (b), Nov. 6, 1978, [92 Stat. 2866][/us/stat/92/2866], 2868; [Pub. L. 96–222, title I, § 104(a)(2)(B)][/us/pl/96/222/s104/a/2/B], (3)(A), Apr. 1, 1980, [94 Stat. 214][/us/stat/94/214], 215; [Pub. L. 98–369, div. A, title II, § 211(b)(16)][/us/pl/98/369/s211/b/16], July 18, 1984, [98 Stat. 756][/us/stat/98/756]; [Pub. L. 99–514, title III, § 311(a)][/us/pl/99/514/s311/a], title X, § 1024(c)(14), Oct. 22, 1986, [100 Stat. 2219][/us/stat/100/2219], 2408; [Pub. L. 100–647, title I, § 1003(c)(1)][/us/pl/100/647/s1003/c/1], title II, § 2004(l), Nov. 10, 1988, [102 Stat. 3384][/us/stat/102/3384], 3606; [Pub. L. 103–66, title XIII, § 13221(c)(2)][/us/pl/103/66/s13221/c/2], Aug. 10, 1993, [107 Stat. 477][/us/stat/107/477]; [Pub. L. 104–188, title I, § 1703(f)][/us/pl/104/188/s1703/f], Aug. 20, 1996, [110 Stat. 1876][/us/stat/110/1876]; [Pub. L. 105–34, title III, § 314(a)][/us/pl/105/34/s314/a], Aug. 5, 1997, [111 Stat. 842][/us/stat/111/842]; [Pub. L. 110–234, title XV, § 15311(a)][/us/pl/110/234/s15311/a], May 22, 2008, [122 Stat. 1502][/us/stat/122/1502]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title XV, § 15311(a), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2264; [Pub. L. 114–113, div. Q, title III, § 334(a)][/us/pl/114/113/s334/a], Dec. 18, 2015, [129 Stat. 3108][/us/stat/129/3108].)
 
  __Codification__ 
 
     [Pub. L. 110–234][/us/pl/110/234] and [Pub. L. 110–246][/us/pl/110/246] made identical amendments to this section. The amendments by [Pub. L. 110–234][/us/pl/110/234] were repealed by [section 4(a) of Pub. L. 110–246][/us/pl/110/246/s4/a].
 
  __Amendments__ 
+
+    2015—Subsec. (b). [Pub. L. 114–113][/us/pl/114/113] amended subsec. (b) generally. Prior to amendment, subsec. (b) related to special rate for qualified timber gains.
 
     2008—Subsecs. (b), (c). [Pub. L. 110–246][/us/pl/110/246] added subsec. (b) and redesignated former subsec. (b) as (c).
 
@@ -184,6 +174,10 @@
     Subsec. (c). [Pub. L. 86–69][/us/pl/86/69] added subsec. (c).
 
     1956—Subsec. (a). Act Mar. 13, 1956, inserted reference to section 802(a).
+
+ __Effective Date of 2015 Amendmen__ 
+
+    Amendment by [Pub. L. 114–113][/us/pl/114/113] applicable to taxable years beginning after Dec. 31, 2015, see [section 334(c) of Pub. L. 114–113][/us/pl/114/113/s334/c], set out as a note under [section 55 of this title][/us/usc/t26/s55].
 
  __Effective Date of 2008 Amendment__ 
 
@@ -436,11 +430,13 @@
 [/us/stat/122/1502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1502
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
-[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/114/113/s334/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs334%2Fa
+[/us/stat/129/3108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3108
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
 [/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
@@ -479,6 +475,9 @@
 [/us/pl/87/834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F834
 [/us/pl/86/69]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F69
 [/us/pl/86/69]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F69
+[/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
+[/us/pl/114/113/s334/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs334%2Fc
+[/us/usc/t26/s55]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs55
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234

@@ -81,7 +81,7 @@
 
                 <td> 
 
-            2 or more qualifying children  </td>
+            2 qualifying children  </td>
 
                 <td> 
 
@@ -97,15 +97,31 @@
 
                 <td> 
 
+            3 or more qualifying children  </td>
+
+                <td> 
+
+            45  </td>
+
+                <td> 
+
+            21.06  </td>
+
+  </tr>
+
+              <tr>
+
+                <td> 
+
             No qualifying children  </td>
 
                 <td> 
 
-             7.65  </td>
+            7.65  </td>
 
                 <td> 
 
-             7.65  </td>
+            7.65  </td>
 
   </tr>
 
@@ -191,25 +207,13 @@
 
             (B) __Joint returns__ 
 
-                In the case of a joint return filed by an eligible individual and such individual’s spouse, the phaseout amount determined under subparagraph (A) shall be increased by $3,000.
-
-        (3) __Special rules for for__  __ <sup>\[__  __1__  __\]</sup> __  __ <sup><sup> __  __1__  __ So in original.__  __ </sup></sup> __  __certain years__ 
-
-        In the case of any taxable year beginning after 2008 and before 2018—
-
-            (A) __Increased credit percentage for 3 or more qualifying children__ 
-
-                In the case of a taxpayer with 3 or more qualifying children, the credit percentage is 45 percent.
-
-            (B) __Reduction of marriage penalty__ 
-
                 (i) __In general__ 
 
-                    The dollar amount in effect under paragraph (2)(B) shall be $5,000.
+                    In the case of a joint return filed by an eligible individual and such individual’s spouse, the phaseout amount determined under subparagraph (A) shall be increased by $5,000.
 
                 (ii) __Inflation adjustment__ 
 
-                In the case of any taxable year beginning after 2009, the $5,000 amount in clause (i) shall be increased by an amount equal to—
+                In the case of any taxable year beginning after 2015, the $5,000 amount in clause (i) shall be increased by an amount equal to—
 
                     (I) such dollar amount, multiplied by
 
@@ -447,13 +451,13 @@
 
         (5) the Food and Nutrition Act of 2008,
 
-        any refund made to an individual (or the spouse of an individual) by reason of this section, and any payment made to such individual (or such spouse) by an employer under section 3507, <sup>\[2\]</sup>  <sup><sup> 2 See References in Text note below. </sup></sup>  shall not be treated as income (and shall not be taken into account in determining resources for the month of its receipt and the following month).
+        any refund made to an individual (or the spouse of an individual) by reason of this section, and any payment made to such individual (or such spouse) by an employer under section 3507, <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  shall not be treated as income (and shall not be taken into account in determining resources for the month of its receipt and the following month).
 
     (m) __Identification numbers__ 
 
-        Solely for purposes of subsections (c)(1)(E) and (c)(3)(D), a taxpayer identification number means a social security number issued to an individual by the Social Security Administration (other than a social security number issued pursuant to clause (II) (or that portion of clause (III) that relates to clause (II)) of section 205(c)(2)(B)(i) of the Social Security Act).
+        Solely for purposes of subsections (c)(1)(E) and (c)(3)(D), a taxpayer identification number means a social security number issued to an individual by the Social Security Administration (other than a social security number issued pursuant to clause (II) (or that portion of clause (III) that relates to clause (II)) of section 205(c)(2)(B)(i) of the Social Security Act) on or before the due date for filing the return for the taxable year.
 
-(Added [Pub. L. 94–12, title II, § 204(a)][/us/pl/94/12/s204/a], Mar. 29, 1975, [89 Stat. 30][/us/stat/89/30], § 43; amended [Pub. L. 94–164, § 2(c)][/us/pl/94/164/s2/c], Dec. 23, 1975, [89 Stat. 971][/us/stat/89/971]; [Pub. L. 94–455, title IV, § 401(c)(1)(B)][/us/pl/94/455/s401/c/1/B], (2), Oct. 4, 1976, [90 Stat. 1557][/us/stat/90/1557]; [Pub. L. 95–600, title I][/us/pl/95/600], §§ 104(a)–(e), 105(a), Nov. 6, 1978, [92 Stat. 2772][/us/stat/92/2772], 2773; [Pub. L. 95–615, § 202(g)(5)][/us/pl/95/615/s202/g/5], formerly § 202(f)(5), Nov. 8, 1978, [92 Stat. 3100][/us/stat/92/3100], renumbered § 202(g)(5) and amended [Pub. L. 96–222, title I][/us/pl/96/222], §§ 101(a)(1), (2)(E), 108(a)(1)(A), Apr. 1, 1980, [94 Stat. 194][/us/stat/94/194], 195, 223; [Pub. L. 97–34, title I][/us/pl/97/34], §§ 111(b)(2), 112(b)(3), Aug. 13, 1981, [95 Stat. 194][/us/stat/95/194], 195; [Pub. L. 98–21, title I, § 124(c)(4)(B)][/us/pl/98/21/s124/c/4/B], Apr. 20, 1983, [97 Stat. 91][/us/stat/97/91]; renumbered § 32 and amended [Pub. L. 98–369, div. A, title IV][/us/pl/98/369], §§ 423(c)(3), 471(c), title X, § 1042(a)–(d)(2), July 18, 1984, [98 Stat. 801][/us/stat/98/801], 826, 1043; [Pub. L. 99–514, title I][/us/pl/99/514], §§ 104(b)(1)(B), 111(a)–(d)(1), title XII, § 1272(d)(4), title XIII, § 1301(j)(8), Oct. 22, 1986, [100 Stat. 2104][/us/stat/100/2104], 2107, 2594, 2658; [Pub. L. 100–647, title I][/us/pl/100/647], §§ 1001(c), 1007(g)(12), Nov. 10, 1988, [102 Stat. 3350][/us/stat/102/3350], 3436; [Pub. L. 101–508, title XI][/us/pl/101/508], §§ 11101(d)(1)(B), 11111(a), (b), (e), Nov. 5, 1990, [104 Stat. 1388–405][/us/stat/104/1388-405], 1388–408, 1388–412, 1388–413; [Pub. L. 103–66, title XIII, § 13131(a)][/us/pl/103/66/s13131/a]–(d)(1), Aug. 10, 1993, [107 Stat. 433–435][/us/stat/107/433-435]; [Pub. L. 103–465, title VII][/us/pl/103/465], §§ 721(a), 722(a), 723(a), 742(a), Dec. 8, 1994, [108 Stat. 5002][/us/stat/108/5002], 5003, 5010; [Pub. L. 104–7, § 4(a)][/us/pl/104/7/s4/a], Apr. 11, 1995, [109 Stat. 95][/us/stat/109/95]; [Pub. L. 104–193, title IV, § 451(a)][/us/pl/104/193/s451/a], (b), title IX, §§ 909(a), (b), 910(a), (b), Aug. 22, 1996, [110 Stat. 2276][/us/stat/110/2276], 2277, 2351, 2352; [Pub. L. 105–34, title I, § 101(b)][/us/pl/105/34/s101/b], title III, § 312(d)(2), title X, § 1085(a)(1), (b)–(d), Aug. 5, 1997, [111 Stat. 798][/us/stat/111/798], 840, 955, 956; [Pub. L. 105–206, title VI][/us/pl/105/206], §§ 6003(b), 6010(p)(1), (2), 6021(a), (b), July 22, 1998, [112 Stat. 791][/us/stat/112/791], 816, 817, 823, 824; [Pub. L. 106–170, title IV, § 412(a)][/us/pl/106/170/s412/a], Dec. 17, 1999, [113 Stat. 1917][/us/stat/113/1917]; [Pub. L. 107–16, title II, § 201(c)(3)][/us/pl/107/16/s201/c/3], title III, § 303(a)–(f), (h), June 7, 2001, [115 Stat. 47][/us/stat/115/47], 55–57; [Pub. L. 107–147, title IV, § 416(a)(1)][/us/pl/107/147/s416/a/1], Mar. 9, 2002, [116 Stat. 55][/us/stat/116/55]; [Pub. L. 108–311, title I, § 104(b)][/us/pl/108/311/s104/b], title II, § 205, Oct. 4, 2004, [118 Stat. 1169][/us/stat/118/1169], 1176; [Pub. L. 109–135, title III, § 302(a)][/us/pl/109/135/s302/a], Dec. 21, 2005, [119 Stat. 2608][/us/stat/119/2608]; [Pub. L. 109–432, div. A, title I, § 106(a)][/us/pl/109/432/s106/a], Dec. 20, 2006, [120 Stat. 2938][/us/stat/120/2938]; [Pub. L. 110–234, title IV, § 4002(b)(1)(B)][/us/pl/110/234/s4002/b/1/B], (2)(O), May 22, 2008, [122 Stat. 1096][/us/stat/122/1096], 1097; [Pub. L. 110–245, title I, § 102(a)][/us/pl/110/245/s102/a], June 17, 2008, [122 Stat. 1625][/us/stat/122/1625]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title IV, § 4002(b)(1)(B), (2)(O), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1857, 1858; [Pub. L. 111–5, div. B, title I, § 1002(a)][/us/pl/111/5/s1002/a], Feb. 17, 2009, [123 Stat. 312][/us/stat/123/312]; [Pub. L. 111–226, title II, § 219(a)(2)][/us/pl/111/226/s219/a/2], Aug. 10, 2010, [124 Stat. 2403][/us/stat/124/2403]; [Pub. L. 111–312, title I, § 103(c)][/us/pl/111/312/s103/c], Dec. 17, 2010, [124 Stat. 3299][/us/stat/124/3299]; [Pub. L. 112–240, title I, § 103(c)][/us/pl/112/240/s103/c], Jan. 2, 2013, [126 Stat. 2319][/us/stat/126/2319]; [Pub. L. 113–295, div. A, title II][/us/pl/113/295], §§ 206(a), 221(a)(3), Dec. 19, 2014, [128 Stat. 4027][/us/stat/128/4027], 4037.)
+(Added [Pub. L. 94–12, title II, § 204(a)][/us/pl/94/12/s204/a], Mar. 29, 1975, [89 Stat. 30][/us/stat/89/30], § 43; amended [Pub. L. 94–164, § 2(c)][/us/pl/94/164/s2/c], Dec. 23, 1975, [89 Stat. 971][/us/stat/89/971]; [Pub. L. 94–455, title IV, § 401(c)(1)(B)][/us/pl/94/455/s401/c/1/B], (2), Oct. 4, 1976, [90 Stat. 1557][/us/stat/90/1557]; [Pub. L. 95–600, title I][/us/pl/95/600], §§ 104(a)–(e), 105(a), Nov. 6, 1978, [92 Stat. 2772][/us/stat/92/2772], 2773; [Pub. L. 95–615, § 202(g)(5)][/us/pl/95/615/s202/g/5], formerly § 202(f)(5), Nov. 8, 1978, [92 Stat. 3100][/us/stat/92/3100], renumbered § 202(g)(5) and amended [Pub. L. 96–222, title I][/us/pl/96/222], §§ 101(a)(1), (2)(E), 108(a)(1)(A), Apr. 1, 1980, [94 Stat. 194][/us/stat/94/194], 195, 223; [Pub. L. 97–34, title I][/us/pl/97/34], §§ 111(b)(2), 112(b)(3), Aug. 13, 1981, [95 Stat. 194][/us/stat/95/194], 195; [Pub. L. 98–21, title I, § 124(c)(4)(B)][/us/pl/98/21/s124/c/4/B], Apr. 20, 1983, [97 Stat. 91][/us/stat/97/91]; renumbered § 32 and amended [Pub. L. 98–369, div. A, title IV][/us/pl/98/369], §§ 423(c)(3), 471(c), title X, § 1042(a)–(d)(2), July 18, 1984, [98 Stat. 801][/us/stat/98/801], 826, 1043; [Pub. L. 99–514, title I][/us/pl/99/514], §§ 104(b)(1)(B), 111(a)–(d)(1), title XII, § 1272(d)(4), title XIII, § 1301(j)(8), Oct. 22, 1986, [100 Stat. 2104][/us/stat/100/2104], 2107, 2594, 2658; [Pub. L. 100–647, title I][/us/pl/100/647], §§ 1001(c), 1007(g)(12), Nov. 10, 1988, [102 Stat. 3350][/us/stat/102/3350], 3436; [Pub. L. 101–508, title XI][/us/pl/101/508], §§ 11101(d)(1)(B), 11111(a), (b), (e), Nov. 5, 1990, [104 Stat. 1388–405][/us/stat/104/1388-405], 1388–408, 1388–412, 1388–413; [Pub. L. 103–66, title XIII, § 13131(a)][/us/pl/103/66/s13131/a]–(d)(1), Aug. 10, 1993, [107 Stat. 433–435][/us/stat/107/433-435]; [Pub. L. 103–465, title VII][/us/pl/103/465], §§ 721(a), 722(a), 723(a), 742(a), Dec. 8, 1994, [108 Stat. 5002][/us/stat/108/5002], 5003, 5010; [Pub. L. 104–7, § 4(a)][/us/pl/104/7/s4/a], Apr. 11, 1995, [109 Stat. 95][/us/stat/109/95]; [Pub. L. 104–193, title IV, § 451(a)][/us/pl/104/193/s451/a], (b), title IX, §§ 909(a), (b), 910(a), (b), Aug. 22, 1996, [110 Stat. 2276][/us/stat/110/2276], 2277, 2351, 2352; [Pub. L. 105–34, title I, § 101(b)][/us/pl/105/34/s101/b], title III, § 312(d)(2), title X, § 1085(a)(1), (b)–(d), Aug. 5, 1997, [111 Stat. 798][/us/stat/111/798], 840, 955, 956; [Pub. L. 105–206, title VI][/us/pl/105/206], §§ 6003(b), 6010(p)(1), (2), 6021(a), (b), July 22, 1998, [112 Stat. 791][/us/stat/112/791], 816, 817, 823, 824; [Pub. L. 106–170, title IV, § 412(a)][/us/pl/106/170/s412/a], Dec. 17, 1999, [113 Stat. 1917][/us/stat/113/1917]; [Pub. L. 107–16, title II, § 201(c)(3)][/us/pl/107/16/s201/c/3], title III, § 303(a)–(f), (h), June 7, 2001, [115 Stat. 47][/us/stat/115/47], 55–57; [Pub. L. 107–147, title IV, § 416(a)(1)][/us/pl/107/147/s416/a/1], Mar. 9, 2002, [116 Stat. 55][/us/stat/116/55]; [Pub. L. 108–311, title I, § 104(b)][/us/pl/108/311/s104/b], title II, § 205, Oct. 4, 2004, [118 Stat. 1169][/us/stat/118/1169], 1176; [Pub. L. 109–135, title III, § 302(a)][/us/pl/109/135/s302/a], Dec. 21, 2005, [119 Stat. 2608][/us/stat/119/2608]; [Pub. L. 109–432, div. A, title I, § 106(a)][/us/pl/109/432/s106/a], Dec. 20, 2006, [120 Stat. 2938][/us/stat/120/2938]; [Pub. L. 110–234, title IV, § 4002(b)(1)(B)][/us/pl/110/234/s4002/b/1/B], (2)(O), May 22, 2008, [122 Stat. 1096][/us/stat/122/1096], 1097; [Pub. L. 110–245, title I, § 102(a)][/us/pl/110/245/s102/a], June 17, 2008, [122 Stat. 1625][/us/stat/122/1625]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title IV, § 4002(b)(1)(B), (2)(O), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1857, 1858; [Pub. L. 111–5, div. B, title I, § 1002(a)][/us/pl/111/5/s1002/a], Feb. 17, 2009, [123 Stat. 312][/us/stat/123/312]; [Pub. L. 111–226, title II, § 219(a)(2)][/us/pl/111/226/s219/a/2], Aug. 10, 2010, [124 Stat. 2403][/us/stat/124/2403]; [Pub. L. 111–312, title I, § 103(c)][/us/pl/111/312/s103/c], Dec. 17, 2010, [124 Stat. 3299][/us/stat/124/3299]; [Pub. L. 112–240, title I, § 103(c)][/us/pl/112/240/s103/c], Jan. 2, 2013, [126 Stat. 2319][/us/stat/126/2319]; [Pub. L. 113–295, div. A, title II][/us/pl/113/295], §§ 206(a), 221(a)(3), Dec. 19, 2014, [128 Stat. 4027][/us/stat/128/4027], 4037; [Pub. L. 114–113, div. Q, title I, § 103(a)][/us/pl/114/113/s103/a]–(c), title II, § 204(a), Dec. 18, 2015, [129 Stat. 3044][/us/stat/129/3044], 3045, 3081.)
 
  __Inflation Adjusted Items for Certain Years__ 
 
@@ -484,6 +488,14 @@
     A prior section 32 was renumbered [section 33 of this title][/us/usc/t26/s33].
 
  __Amendments__ 
+
+    2015—Subsec. (b)(1). [Pub. L. 114–113, § 103(a)][/us/pl/114/113/s103/a], amended par. (1) generally. Prior to amendment, par. (1) provided credit and phaseout percentages for eligible individuals with 1, 2 or more, or no qualifying children.
+
+    Subsec. (b)(2)(B). [Pub. L. 114–113, § 103(b)][/us/pl/114/113/s103/b], amended subpar. (B) generally. Prior to amendment, text read as follows: “In the case of a joint return filed by an eligible individual and such individual’s spouse, the phaseout amount determined under subparagraph (A) shall be increased by $3,000.”
+
+    Subsec. (b)(3). [Pub. L. 114–113, § 103(c)][/us/pl/114/113/s103/c], struck out par. (3) which provided for increased credit percentage for 3 or more qualifying children and reduction of marriage penalty in taxable years beginning after 2008 and before 2018, with adjustment for inflation.
+
+    Subsec. (m). [Pub. L. 114–113, § 204(a)][/us/pl/114/113/s204/a], inserted “on or before the due date for filing the return for the taxable year” before period at end.
 
     2014—Subsec. (b)(1). [Pub. L. 113–295, § 221(a)(3)(A)][/us/pl/113/295/s221/a/3/A], struck out subpar. (A) designation, heading “In general”, and introductory provisions “In the case of taxable years beginning after 1995:” before the table and struck out subpars. (B) and (C) which related to transitional percentages for 1995 and transitional percentages for 1994, respectively, and realigned margins.
 
@@ -800,6 +812,22 @@
     1975—Subsec. (a). [Pub. L. 94–164][/us/pl/94/164] designated existing provisions as par. (1) and added par. (2).
 
     Subsec. (b). [Pub. L. 94–164][/us/pl/94/164] designated existing provisions as par. (1) and added par. (2).
+
+ __Effective Date of 2015 Amendment__ 
+
+[Pub. L. 114–113, div. Q, title I, § 103(d)][/us/pl/114/113/s103/d], Dec. 18, 2015, [129 Stat. 3045][/us/stat/129/3045], provided that: 
+
+> “The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2015.”
+
+[Pub. L. 114–113, div. Q, title II, § 204(b)][/us/pl/114/113/s204/b], Dec. 18, 2015, [129 Stat. 3081][/us/stat/129/3081], provided that:
+
+>     “(1)  __In general__  __.—__ 
+
+>     Except as provided in paragraph (2), the amendment made by this section \[amending this section\] shall apply to any return of tax, and any amendment or supplement to any return of tax, which is filed after the date of the enactment of this Act \[Dec. 18, 2015\].
+
+>     “(2)  __Exception for timely-filed 2015 returns__  __.—__ 
+
+>     The amendment made by this section shall not apply to any return of tax (other than an amendment or supplement to any return of tax) for any taxable year which includes the date of the enactment of this Act if such return is filed on or before the due date for such return of tax.”
 
  __Effective Date of 2014 Amendment__ 
 
@@ -1218,6 +1246,8 @@
 [/us/stat/126/2319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2319
 [/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
 [/us/stat/128/4027]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4027
+[/us/pl/114/113/s103/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs103%2Fa
+[/us/stat/129/3044]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3044
 [/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F620
@@ -1242,6 +1272,10 @@
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
 [/us/usc/t26/s33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs33
+[/us/pl/114/113/s103/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs103%2Fa
+[/us/pl/114/113/s103/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs103%2Fb
+[/us/pl/114/113/s103/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs103%2Fc
+[/us/pl/114/113/s204/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs204%2Fa
 [/us/pl/113/295/s221/a/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F3%2FA
 [/us/pl/113/295/s221/a/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F3%2FB
 [/us/pl/113/295/s206/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs206%2Fa
@@ -1357,6 +1391,10 @@
 [/us/pl/94/455/s401/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs401%2Fc%2F2
 [/us/pl/94/164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F164
 [/us/pl/94/164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F164
+[/us/pl/114/113/s103/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs103%2Fd
+[/us/stat/129/3045]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3045
+[/us/pl/114/113/s204/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs204%2Fb
+[/us/stat/129/3081]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3081
 [/us/pl/113/295/s206/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs206%2Fd
 [/us/stat/128/4027]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4027
 [/us/usc/t26/s2001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs2001

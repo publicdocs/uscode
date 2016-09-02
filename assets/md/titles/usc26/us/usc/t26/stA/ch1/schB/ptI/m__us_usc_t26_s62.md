@@ -39,7 +39,11 @@
 
             (D) __Certain expenses of elementary and secondary school teachers__ 
 
-                In the case of taxable years beginning during 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, or 2014, the deductions allowed by section 162 which consist of expenses, not in excess of $250, paid or incurred by an eligible educator in connection with books, supplies (other than nonathletic supplies for courses of instruction in health or physical education), computer equipment (including related software and services) and other equipment, and supplementary materials used by the eligible educator in the classroom.
+            The deductions allowed by section 162 which consist of expenses, not in excess of $250, paid or incurred by an eligible educator—
+
+                (i) by reason of the participation of the educator in professional development courses related to the curriculum in which the educator provides instruction or to the students for which the educator provides instruction, and
+
+                (ii) in connection with books, supplies (other than nonathletic supplies for courses of instruction in health or physical education), computer equipment (including related software and services) and other equipment, and supplementary materials used by the eligible educator in the classroom.
 
             (E) __Certain expenses of members of reserve components of the Armed Forces of the United States__ 
 
@@ -183,6 +187,16 @@
 
             A deduction shall be allowed under subsection (a)(2)(D) for expenses only to the extent the amount of such expenses exceeds the amount excludable under section 135, 529(c)(1), or 530(d)(2) for the taxable year.
 
+        (3) __Inflation adjustment__ 
+
+        In the case of any taxable year beginning after 2015, the $250 amount in subsection (a)(2)(D) shall be increased by an amount equal to—
+
+            (A) such dollar amount, multiplied by
+
+            (B) the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, determined by substituting “calendar year 2014” for “calendar year 1992” in subparagraph (B) thereof.
+
+            Any increase determined under the preceding sentence shall be rounded to the nearest multiple of $50.
+
     (e) __Unlawful discrimination defined__ 
 
     For purposes of subsection (a)(20), the term “unlawful discrimination” means an act that is unlawful under any of the following:
@@ -229,7 +243,7 @@
 
             (ii) regulating any aspect of the employment relationship, including claims for wages, compensation, or benefits, or prohibiting the discharge of an employee, the discrimination against an employee, or any other form of retaliation or reprisal against an employee for asserting rights or taking other actions permitted by law.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 17][/us/stat/68A/17]; [Pub. L. 87–792, § 7(b)][/us/pl/87/792/s7/b], Oct. 10, 1962, [76 Stat. 828][/us/stat/76/828]; [Pub. L. 88–272, title II, § 213(b)][/us/pl/88/272/s213/b], Feb. 26, 1964, [78 Stat. 52][/us/stat/78/52]; [Pub. L. 91–172, title V, § 531(b)][/us/pl/91/172/s531/b], Dec. 30, 1969, [83 Stat. 655][/us/stat/83/655]; [Pub. L. 93–406, title II][/us/pl/93/406], §§ 2002(a)(2), 2005(c)(9), Sept. 2, 1974, [88 Stat. 959][/us/stat/88/959], 992; [Pub. L. 93–483, § 6(a)][/us/pl/93/483/s6/a], Oct. 26, 1974, [88 Stat. 1458][/us/stat/88/1458]; [Pub. L. 94–455, title V, § 502(a)][/us/pl/94/455/s502/a], title XV, § 1501(b)(1), title XIX, § 1901(a)(8), (9), Oct. 4, 1976, [90 Stat. 1559][/us/stat/90/1559], 1735, 1765; [Pub. L. 95–615, § 203(b)][/us/pl/95/615/s203/b], Nov. 8, 1978, [92 Stat. 3106][/us/stat/92/3106]; [Pub. L. 96–451, title III, § 301(b)][/us/pl/96/451/s301/b], Oct. 14, 1980, [94 Stat. 1990][/us/stat/94/1990]; [Pub. L. 96–608, § 3(a)][/us/pl/96/608/s3/a], Dec. 28, 1980, [94 Stat. 3551][/us/stat/94/3551]; [Pub. L. 97–34, title I][/us/pl/97/34], §§ 103(b), 112(b)(2), title III, § 311(h)(1), Aug. 13, 1981, [95 Stat. 187][/us/stat/95/187], 195, 282; [Pub. L. 97–354, § 5(a)(17)][/us/pl/97/354/s5/a/17], Oct. 19, 1982, [96 Stat. 1693][/us/stat/96/1693]; [Pub. L. 98–369, div. A, title IV, § 491(d)(2)][/us/pl/98/369/s491/d/2], July 18, 1984, [98 Stat. 849][/us/stat/98/849]; [Pub. L. 99–514, title I][/us/pl/99/514], §§ 131(b)(1), 132(b), (c), title III, § 301(b)(1), title XVIII, § 1875(c)(3), Oct. 22, 1986, [100 Stat. 2113][/us/stat/100/2113], 2115, 2116, 2217, 2894; [Pub. L. 100–485, title VII, § 702(a)][/us/pl/100/485/s702/a], Oct. 13, 1988, [102 Stat. 2426][/us/stat/102/2426]; [Pub. L. 100–647, title I, § 1001(b)(3)(A)][/us/pl/100/647/s1001/b/3/A], title VI, § 6007(b), Nov. 10, 1988, [102 Stat. 3349][/us/stat/102/3349], 3687; [Pub. L. 101–508, title XI, § 11802(e)(1)][/us/pl/101/508/s11802/e/1], Nov. 5, 1990, [104 Stat. 1388–530][/us/stat/104/1388-530]; [Pub. L. 102–318, title V, § 521(b)(2)][/us/pl/102/318/s521/b/2], July 3, 1992, [106 Stat. 310][/us/stat/106/310]; [Pub. L. 102–486, title XIX, § 1913(a)(2)][/us/pl/102/486/s1913/a/2], Oct. 24, 1992, [106 Stat. 3019][/us/stat/106/3019]; [Pub. L. 103–66, title XIII, § 13213(c)(1)][/us/pl/103/66/s13213/c/1], Aug. 10, 1993, [107 Stat. 474][/us/stat/107/474]; [Pub. L. 104–188, title I, § 1401(b)(4)][/us/pl/104/188/s1401/b/4], Aug. 20, 1996, [110 Stat. 1788][/us/stat/110/1788]; [Pub. L. 104–191, title III, § 301(b)][/us/pl/104/191/s301/b], Aug. 21, 1996, [110 Stat. 2048][/us/stat/110/2048]; [Pub. L. 105–34, title II, § 202(b)][/us/pl/105/34/s202/b], title IX, § 975(a), Aug. 5, 1997, [111 Stat. 808][/us/stat/111/808], 898; [Pub. L. 106–554, § 1(a)(7)][/us/pl/106/554/s1/a/7] \[title II, § 202(b)(1)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–629; [Pub. L. 107–16, title IV, § 431(b)][/us/pl/107/16/s431/b], June 7, 2001, [115 Stat. 68][/us/stat/115/68]; [Pub. L. 107–147, title IV, § 406(a)][/us/pl/107/147/s406/a], (b), Mar. 9, 2002, [116 Stat. 43][/us/stat/116/43]; [Pub. L. 108–121, title I, § 109(b)][/us/pl/108/121/s109/b], Nov. 11, 2003, [117 Stat. 1341][/us/stat/117/1341]; [Pub. L. 108–173, title XII, § 1201(b)][/us/pl/108/173/s1201/b], Dec. 8, 2003, [117 Stat. 2476][/us/stat/117/2476]; [Pub. L. 108–311, title III, § 307(a)][/us/pl/108/311/s307/a], Oct. 4, 2004, [118 Stat. 1179][/us/stat/118/1179]; [Pub. L. 108–357, title VII, § 703(a)][/us/pl/108/357/s703/a], (b), Oct. 22, 2004, [118 Stat. 1546][/us/stat/118/1546], 1547; [Pub. L. 109–135, title IV, § 412(q)][/us/pl/109/135/s412/q], Dec. 21, 2005, [119 Stat. 2638][/us/stat/119/2638]; [Pub. L. 109–432, div. A, title I, § 108(a)][/us/pl/109/432/s108/a], title IV, § 406(a)(3), Dec. 20, 2006, [120 Stat. 2939][/us/stat/120/2939], 2959; [Pub. L. 110–343, div. C, title II, § 203(a)][/us/pl/110/343/s203/a], Oct. 3, 2008, [122 Stat. 3864][/us/stat/122/3864]; [Pub. L. 111–312, title VII, § 721(a)][/us/pl/111/312/s721/a], Dec. 17, 2010, [124 Stat. 3316][/us/stat/124/3316]; [Pub. L. 112–240, title II, § 201(a)][/us/pl/112/240/s201/a], Jan. 2, 2013, [126 Stat. 2323][/us/stat/126/2323]; [Pub. L. 113–295, div. A, title I, § 101(a)][/us/pl/113/295/s101/a], title II, § 221(a)(34)(C), Dec. 19, 2014, [128 Stat. 4012][/us/stat/128/4012], 4042.)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 17][/us/stat/68A/17]; [Pub. L. 87–792, § 7(b)][/us/pl/87/792/s7/b], Oct. 10, 1962, [76 Stat. 828][/us/stat/76/828]; [Pub. L. 88–272, title II, § 213(b)][/us/pl/88/272/s213/b], Feb. 26, 1964, [78 Stat. 52][/us/stat/78/52]; [Pub. L. 91–172, title V, § 531(b)][/us/pl/91/172/s531/b], Dec. 30, 1969, [83 Stat. 655][/us/stat/83/655]; [Pub. L. 93–406, title II][/us/pl/93/406], §§ 2002(a)(2), 2005(c)(9), Sept. 2, 1974, [88 Stat. 959][/us/stat/88/959], 992; [Pub. L. 93–483, § 6(a)][/us/pl/93/483/s6/a], Oct. 26, 1974, [88 Stat. 1458][/us/stat/88/1458]; [Pub. L. 94–455, title V, § 502(a)][/us/pl/94/455/s502/a], title XV, § 1501(b)(1), title XIX, § 1901(a)(8), (9), Oct. 4, 1976, [90 Stat. 1559][/us/stat/90/1559], 1735, 1765; [Pub. L. 95–615, § 203(b)][/us/pl/95/615/s203/b], Nov. 8, 1978, [92 Stat. 3106][/us/stat/92/3106]; [Pub. L. 96–451, title III, § 301(b)][/us/pl/96/451/s301/b], Oct. 14, 1980, [94 Stat. 1990][/us/stat/94/1990]; [Pub. L. 96–608, § 3(a)][/us/pl/96/608/s3/a], Dec. 28, 1980, [94 Stat. 3551][/us/stat/94/3551]; [Pub. L. 97–34, title I][/us/pl/97/34], §§ 103(b), 112(b)(2), title III, § 311(h)(1), Aug. 13, 1981, [95 Stat. 187][/us/stat/95/187], 195, 282; [Pub. L. 97–354, § 5(a)(17)][/us/pl/97/354/s5/a/17], Oct. 19, 1982, [96 Stat. 1693][/us/stat/96/1693]; [Pub. L. 98–369, div. A, title IV, § 491(d)(2)][/us/pl/98/369/s491/d/2], July 18, 1984, [98 Stat. 849][/us/stat/98/849]; [Pub. L. 99–514, title I][/us/pl/99/514], §§ 131(b)(1), 132(b), (c), title III, § 301(b)(1), title XVIII, § 1875(c)(3), Oct. 22, 1986, [100 Stat. 2113][/us/stat/100/2113], 2115, 2116, 2217, 2894; [Pub. L. 100–485, title VII, § 702(a)][/us/pl/100/485/s702/a], Oct. 13, 1988, [102 Stat. 2426][/us/stat/102/2426]; [Pub. L. 100–647, title I, § 1001(b)(3)(A)][/us/pl/100/647/s1001/b/3/A], title VI, § 6007(b), Nov. 10, 1988, [102 Stat. 3349][/us/stat/102/3349], 3687; [Pub. L. 101–508, title XI, § 11802(e)(1)][/us/pl/101/508/s11802/e/1], Nov. 5, 1990, [104 Stat. 1388–530][/us/stat/104/1388-530]; [Pub. L. 102–318, title V, § 521(b)(2)][/us/pl/102/318/s521/b/2], July 3, 1992, [106 Stat. 310][/us/stat/106/310]; [Pub. L. 102–486, title XIX, § 1913(a)(2)][/us/pl/102/486/s1913/a/2], Oct. 24, 1992, [106 Stat. 3019][/us/stat/106/3019]; [Pub. L. 103–66, title XIII, § 13213(c)(1)][/us/pl/103/66/s13213/c/1], Aug. 10, 1993, [107 Stat. 474][/us/stat/107/474]; [Pub. L. 104–188, title I, § 1401(b)(4)][/us/pl/104/188/s1401/b/4], Aug. 20, 1996, [110 Stat. 1788][/us/stat/110/1788]; [Pub. L. 104–191, title III, § 301(b)][/us/pl/104/191/s301/b], Aug. 21, 1996, [110 Stat. 2048][/us/stat/110/2048]; [Pub. L. 105–34, title II, § 202(b)][/us/pl/105/34/s202/b], title IX, § 975(a), Aug. 5, 1997, [111 Stat. 808][/us/stat/111/808], 898; [Pub. L. 106–554, § 1(a)(7)][/us/pl/106/554/s1/a/7] \[title II, § 202(b)(1)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–629; [Pub. L. 107–16, title IV, § 431(b)][/us/pl/107/16/s431/b], June 7, 2001, [115 Stat. 68][/us/stat/115/68]; [Pub. L. 107–147, title IV, § 406(a)][/us/pl/107/147/s406/a], (b), Mar. 9, 2002, [116 Stat. 43][/us/stat/116/43]; [Pub. L. 108–121, title I, § 109(b)][/us/pl/108/121/s109/b], Nov. 11, 2003, [117 Stat. 1341][/us/stat/117/1341]; [Pub. L. 108–173, title XII, § 1201(b)][/us/pl/108/173/s1201/b], Dec. 8, 2003, [117 Stat. 2476][/us/stat/117/2476]; [Pub. L. 108–311, title III, § 307(a)][/us/pl/108/311/s307/a], Oct. 4, 2004, [118 Stat. 1179][/us/stat/118/1179]; [Pub. L. 108–357, title VII, § 703(a)][/us/pl/108/357/s703/a], (b), Oct. 22, 2004, [118 Stat. 1546][/us/stat/118/1546], 1547; [Pub. L. 109–135, title IV, § 412(q)][/us/pl/109/135/s412/q], Dec. 21, 2005, [119 Stat. 2638][/us/stat/119/2638]; [Pub. L. 109–432, div. A, title I, § 108(a)][/us/pl/109/432/s108/a], title IV, § 406(a)(3), Dec. 20, 2006, [120 Stat. 2939][/us/stat/120/2939], 2959; [Pub. L. 110–343, div. C, title II, § 203(a)][/us/pl/110/343/s203/a], Oct. 3, 2008, [122 Stat. 3864][/us/stat/122/3864]; [Pub. L. 111–312, title VII, § 721(a)][/us/pl/111/312/s721/a], Dec. 17, 2010, [124 Stat. 3316][/us/stat/124/3316]; [Pub. L. 112–240, title II, § 201(a)][/us/pl/112/240/s201/a], Jan. 2, 2013, [126 Stat. 2323][/us/stat/126/2323]; [Pub. L. 113–295, div. A, title I, § 101(a)][/us/pl/113/295/s101/a], title II, § 221(a)(34)(C), Dec. 19, 2014, [128 Stat. 4012][/us/stat/128/4012], 4042; [Pub. L. 114–113, div. Q, title I, § 104(a)][/us/pl/114/113/s104/a]–(c), Dec. 18, 2015, [129 Stat. 3045][/us/stat/129/3045].)
 
  __References in Text__ 
 
@@ -246,6 +260,12 @@
     The Worker Adjustment and Retraining Notification Act, referred to in subsec. (e)(10), is [Pub. L. 100–379][/us/pl/100/379], Aug. 4, 1988, [102 Stat. 890][/us/stat/102/890], as amended, which is classified generally to chapter 23 (§ 2101 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 2101 of Title 29][/us/usc/t29/s2101] and Tables.
 
  __Amendments__ 
+
+    2015—Subsec. (a)(2)(D). [Pub. L. 114–113, § 104(c)][/us/pl/114/113/s104/c], substituted “educator—” for “educator in connection with books, supplies (other than nonathletic supplies for courses of instruction in health or physical education), computer equipment (including related software and services) and other equipment, and supplementary materials used by the eligible educator in the classroom.” and added cls. (i) and (ii).
+
+    [Pub. L. 114–113, § 104(a)][/us/pl/114/113/s104/a], substituted “The deductions” for “In the case of taxable years beginning during 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, or 2014, the deductions”.
+
+    Subsec. (d)(3). [Pub. L. 114–113, § 104(b)][/us/pl/114/113/s104/b], added par. (3).
 
     2014—Subsec. (a)(2)(D). [Pub. L. 113–295, § 101(a)][/us/pl/113/295/s101/a], substituted “2013, or 2014” for “or 2013”.
 
@@ -360,6 +380,18 @@
     1964—Par. (8). [Pub. L. 88–272][/us/pl/88/272] added par. (8).
 
     1962—Par. (7). [Pub. L. 87–792][/us/pl/87/792] added par. (7).
+
+ __Effective Date of 2015 Amendment__ 
+
+[Pub. L. 114–113, div. Q, title I, § 104(d)][/us/pl/114/113/s104/d], Dec. 18, 2015, [129 Stat. 3046][/us/stat/129/3046], provided that:
+
+>     “(1)  __Extension__  __.—__ 
+
+>     The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after December 31, 2014.
+
+>     “(2)  __Modifications__  __.—__ 
+
+>     The amendments made by subsections (b) and (c) \[amending this section\] shall apply to taxable years beginning after December 31, 2015.”
 
  __Effective Date of 2014 Amendment__ 
 
@@ -675,6 +707,8 @@
 [/us/stat/126/2323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2323
 [/us/pl/113/295/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs101%2Fa
 [/us/stat/128/4012]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4012
+[/us/pl/114/113/s104/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs104%2Fa
+[/us/stat/129/3045]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3045
 [/us/usc/t2/s1202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1202
 [/us/usc/t42/s2000e–16b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2000e%E2%80%9316b
 [/us/act/1935-07-05/ch372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-07-05%2Fch372
@@ -692,6 +726,9 @@
 [/us/pl/100/379]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F379
 [/us/stat/102/890]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F890
 [/us/usc/t29/s2101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2101
+[/us/pl/114/113/s104/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs104%2Fc
+[/us/pl/114/113/s104/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs104%2Fa
+[/us/pl/114/113/s104/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs104%2Fb
 [/us/pl/113/295/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs101%2Fa
 [/us/pl/113/295/s221/a/34/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F34%2FC
 [/us/pl/112/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240
@@ -751,6 +788,8 @@
 [/us/pl/91/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172
 [/us/pl/88/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F272
 [/us/pl/87/792]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F792
+[/us/pl/114/113/s104/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs104%2Fd
+[/us/stat/129/3046]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3046
 [/us/pl/113/295/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs101%2Fb
 [/us/stat/128/4013]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4013
 [/us/pl/113/295/s221/a/34/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F34%2FC

@@ -169,15 +169,23 @@
 
             (D) is capable of achieving a speed of 45 miles per hour or greater, and
 
-            (E) is acquired after December 31, 2011, and before January 1, 2014.
+            (E)
 
-(Added [Pub. L. 110–343, div. B, title II, § 205(a)][/us/pl/110/343/s205/a], Oct. 3, 2008, [122 Stat. 3835][/us/stat/122/3835]; amended [Pub. L. 111–5, div. B, title I, § 1141(a)][/us/pl/111/5/s1141/a], Feb. 17, 2009, [123 Stat. 326][/us/stat/123/326]; [Pub. L. 111–148, title X, § 10909(b)(2)(H)][/us/pl/111/148/s10909/b/2/H], (c), Mar. 23, 2010, [124 Stat. 1023][/us/stat/124/1023]; [Pub. L. 111–312, title I, § 101(b)(1)][/us/pl/111/312/s101/b/1], Dec. 17, 2010, [124 Stat. 3298][/us/stat/124/3298]; [Pub. L. 112–240, title I, § 104(c)(2)(I)][/us/pl/112/240/s104/c/2/I], title IV, § 403(a), (b), Jan. 2, 2013, [126 Stat. 2322][/us/stat/126/2322], 2337, 2338; [Pub. L. 113–295, div. A, title II, § 209(e)][/us/pl/113/295/s209/e], Dec. 19, 2014, [128 Stat. 4028][/us/stat/128/4028].)
+             is acquired—
+
+                (i) after December 31, 2011, and before January 1, 2014, or
+
+                (ii) in the case of a vehicle that has 2 wheels, after December 31, 2014, and before January 1, 2017.
+
+(Added [Pub. L. 110–343, div. B, title II, § 205(a)][/us/pl/110/343/s205/a], Oct. 3, 2008, [122 Stat. 3835][/us/stat/122/3835]; amended [Pub. L. 111–5, div. B, title I, § 1141(a)][/us/pl/111/5/s1141/a], Feb. 17, 2009, [123 Stat. 326][/us/stat/123/326]; [Pub. L. 111–148, title X, § 10909(b)(2)(H)][/us/pl/111/148/s10909/b/2/H], (c), Mar. 23, 2010, [124 Stat. 1023][/us/stat/124/1023]; [Pub. L. 111–312, title I, § 101(b)(1)][/us/pl/111/312/s101/b/1], Dec. 17, 2010, [124 Stat. 3298][/us/stat/124/3298]; [Pub. L. 112–240, title I, § 104(c)(2)(I)][/us/pl/112/240/s104/c/2/I], title IV, § 403(a), (b), Jan. 2, 2013, [126 Stat. 2322][/us/stat/126/2322], 2337, 2338; [Pub. L. 113–295, div. A, title II, § 209(e)][/us/pl/113/295/s209/e], Dec. 19, 2014, [128 Stat. 4028][/us/stat/128/4028]; [Pub. L. 114–113, div. Q, title I, § 183(a)][/us/pl/114/113/s183/a], Dec. 18, 2015, [129 Stat. 3072][/us/stat/129/3072].)
 
  __References in Text__ 
 
     The Clean Air Act, referred to in subsecs. (d)(1)(D), (3), (f)(7)(A), is [act July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], [69 Stat. 322][/us/stat/69/322], which is classified generally to chapter 85 (§ 7401 et seq.) of Title 42, The Public Health and Welfare. Title II of the Act, known as the National Emissions Standards Act, is classified generally to subchapter II (§ 7521 et seq.) of chapter 85 of Title 42. Section 209(b) of the Act is classified to [section 7543(b) of Title 42][/us/usc/t42/s7543/b]. For complete classification of this Act to the Code, see Short Title note set out under [section 7401 of Title 42][/us/usc/t42/s7401] and Tables.
 
  __Amendments__ 
+
+    2015—Subsec. (g)(3)(E). [Pub. L. 114–113][/us/pl/114/113] substituted “acquired—” for “acquired after December 31, 2011, and before January 1, 2014.” and added cls. (i) and (ii).
 
     2014—Subsec. (f)(1), (2). [Pub. L. 113–295, § 209(e)(1)(A)][/us/pl/113/295/s209/e/1/A], (B), inserted “(determined without regard to subsection (c))” before period at end.
 
@@ -194,6 +202,12 @@
     2010—Subsec. (c)(2)(B)(ii). [Pub. L. 111–148, § 10909(b)(2)(H)][/us/pl/111/148/s10909/b/2/H], (c), as amended by [Pub. L. 111–312][/us/pl/111/312], temporarily substituted “section 25D” for “sections 23 and 25D”. See Effective and Termination Dates of 2010 Amendment note below.
 
     2009—[Pub. L. 111–5][/us/pl/111/5] amended section generally. Prior to amendment, section provided credit with respect to each new qualified plug-in electric drive motor vehicle placed in service and set forth provisions defining “applicable amount” and “new qualified plug-in electric drive motor vehicle” and stating limitations based on vehicle weight, the number of vehicles eligible for credit, and amount of tax liability.
+
+ __Effective Date of 2015 Amendment__ 
+
+[Pub. L. 114–113, div. Q, title I, § 183(b)][/us/pl/114/113/s183/b], Dec. 18, 2015, [129 Stat. 3073][/us/stat/129/3073], provided that: 
+
+> “The amendments made by this section \[amending this section\] shall apply to vehicles acquired after December 31, 2014.”
 
  __Effective Date of 2014 Amendment__ 
 
@@ -241,10 +255,13 @@
 [/us/stat/126/2322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2322
 [/us/pl/113/295/s209/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs209%2Fe
 [/us/stat/128/4028]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4028
+[/us/pl/114/113/s183/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs183%2Fa
+[/us/stat/129/3072]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3072
 [/us/act/1955-07-14/ch360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-14%2Fch360
 [/us/stat/69/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F322
 [/us/usc/t42/s7543/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7543%2Fb
 [/us/usc/t42/s7401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7401
+[/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
 [/us/pl/113/295/s209/e/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs209%2Fe%2F1%2FA
 [/us/pl/113/295/s209/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs209%2Fe%2F2
 [/us/pl/112/240/s104/c/2/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs104%2Fc%2F2%2FI
@@ -254,6 +271,8 @@
 [/us/pl/111/148/s10909/b/2/H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10909%2Fb%2F2%2FH
 [/us/pl/111/312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F312
 [/us/pl/111/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5
+[/us/pl/114/113/s183/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs183%2Fb
+[/us/stat/129/3073]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3073
 [/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
 [/us/pl/111/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5
 [/us/pl/113/295/s209/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs209%2Fk

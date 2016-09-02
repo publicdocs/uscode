@@ -41,7 +41,7 @@
 
             (A)
 
-                (i) in the case of an empowerment zone, December 31, 2014, or
+                (i) in the case of an empowerment zone, December 31, 2016, or
 
                 (ii) in the case of an enterprise community, the close of the 10th calendar year beginning on or after such date of designation,
 
@@ -191,7 +191,7 @@
 
             The number of areas which may be designated as empowerment zones under this subsection shall be increased by 1 for each area which ceases to be an empowerment zone by reason of section 1400E(e). Each additional area designated by reason of the preceding sentence shall have the same urban or rural character as the area it is replacing.
 
-(Added [Pub. L. 103–66, title XIII, § 13301(a)][/us/pl/103/66/s13301/a], Aug. 10, 1993, [107 Stat. 543][/us/stat/107/543]; amended [Pub. L. 105–34, title IX][/us/pl/105/34], §§ 951(a), 952(a), (d), Aug. 5, 1997, [111 Stat. 885–887][/us/stat/111/885-887]; [Pub. L. 106–554, § 1(a)(7)][/us/pl/106/554/s1/a/7] \[title I, §§ 111, 112, title III, § 319(13)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–600, 2763A–601, 2763A–646; [Pub. L. 111–312, title VII, § 753(a)][/us/pl/111/312/s753/a], Dec. 17, 2010, [124 Stat. 3321][/us/stat/124/3321]; [Pub. L. 112–240, title III, § 327(a)][/us/pl/112/240/s327/a], Jan. 2, 2013, [126 Stat. 2334][/us/stat/126/2334]; [Pub. L. 113–295, div. A, title I, § 139(a)][/us/pl/113/295/s139/a], Dec. 19, 2014, [128 Stat. 4020][/us/stat/128/4020].)
+(Added [Pub. L. 103–66, title XIII, § 13301(a)][/us/pl/103/66/s13301/a], Aug. 10, 1993, [107 Stat. 543][/us/stat/107/543]; amended [Pub. L. 105–34, title IX][/us/pl/105/34], §§ 951(a), 952(a), (d), Aug. 5, 1997, [111 Stat. 885–887][/us/stat/111/885-887]; [Pub. L. 106–554, § 1(a)(7)][/us/pl/106/554/s1/a/7] \[title I, §§ 111, 112, title III, § 319(13)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–600, 2763A–601, 2763A–646; [Pub. L. 111–312, title VII, § 753(a)][/us/pl/111/312/s753/a], Dec. 17, 2010, [124 Stat. 3321][/us/stat/124/3321]; [Pub. L. 112–240, title III, § 327(a)][/us/pl/112/240/s327/a], Jan. 2, 2013, [126 Stat. 2334][/us/stat/126/2334]; [Pub. L. 113–295, div. A, title I, § 139(a)][/us/pl/113/295/s139/a], Dec. 19, 2014, [128 Stat. 4020][/us/stat/128/4020]; [Pub. L. 114–113, div. Q, title I, § 171(a)(1)][/us/pl/114/113/s171/a/1], Dec. 18, 2015, [129 Stat. 3069][/us/stat/129/3069].)
 
  __References in Text__ 
 
@@ -204,6 +204,8 @@
     A prior section 1391, added [Pub. L. 95–600, title VI, § 601(a)][/us/pl/95/600/s601/a], Nov. 6, 1978, [92 Stat. 2892][/us/stat/92/2892]; amended [Pub. L. 96–222, title I, § 106(a)(4)][/us/pl/96/222/s106/a/4], Apr. 1, 1980, [94 Stat. 221][/us/stat/94/221]; [Pub. L. 96–595, § 3(a)(1)][/us/pl/96/595/s3/a/1], (2), Dec. 24, 1980, [94 Stat. 3465][/us/stat/94/3465], defined terms used in former subchapter U, prior to repeal by [Pub. L. 99–514, title XIII, § 1303(a)][/us/pl/99/514/s1303/a], Oct. 22, 1986, [100 Stat. 2658][/us/stat/100/2658].
 
  __Amendments__ 
+
+    2015—Subsec. (d)(1)(A)(i). [Pub. L. 114–113][/us/pl/114/113] substituted “December 31, 2016” for “December 31, 2014”.
 
     2014—Subsec. (d)(1)(A)(i). [Pub. L. 113–295][/us/pl/113/295] substituted “December 31, 2014” for “December 31, 2013”.
 
@@ -231,6 +233,12 @@
 
     Subsec. (g). [Pub. L. 105–34, § 952(a)][/us/pl/105/34/s952/a], added subsec. (g).
 
+ __Effective Date of 2015 Amendment__ 
+
+[Pub. L. 114–113, div. Q, title I, § 171(e)(1)][/us/pl/114/113/s171/e/1], Dec. 18, 2015, [129 Stat. 3071][/us/stat/129/3071], provided that: 
+
+> “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after December 31, 2014.”
+
  __Effective Date of 2014 Amendment__ 
 
 [Pub. L. 113–295, div. A, title I, § 139(c)][/us/pl/113/295/s139/c], Dec. 19, 2014, [128 Stat. 4020][/us/stat/128/4020], provided that: 
@@ -252,6 +260,10 @@
 > “The amendments made by this section \[amending this section and [section 1396 of this title][/us/usc/t26/s1396]\] shall take effect on the date of the enactment of this Act \[Aug. 5, 1997\], except that designations of new empowerment zones made pursuant to such amendments shall be made during the 180-day period beginning on the date of the enactment of this Act. No designation pursuant to such amendments shall take effect before January 1, 2000.”
 
  __Treatment of Certain Termination Dates Specified in Nominations__ 
+
+[Pub. L. 114–113, div. Q, title I, § 171(a)(2)][/us/pl/114/113/s171/a/2], Dec. 18, 2015, [129 Stat. 3069][/us/stat/129/3069], provided that: 
+
+> “In the case of a designation of an empowerment zone the nomination for which included a termination date which is contemporaneous with the date specified in subparagraph (A)(i) of section 1391(d)(1) of the Internal Revenue Code of 1986 (as in effect before the enactment of this Act \[Dec. 18, 2015\]), subparagraph (B) of such section shall not apply with respect to such designation if, after the date of the enactment of this section, the entity which made such nomination amends the nomination to provide for a new termination date in such manner as the Secretary of the Treasury (or the Secretary’s designee) may provide.”
 
 [Pub. L. 113–295, div. A, title I, § 139(b)][/us/pl/113/295/s139/b], Dec. 19, 2014, [128 Stat. 4020][/us/stat/128/4020], provided that: 
 
@@ -284,6 +296,8 @@
 [/us/stat/126/2334]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2334
 [/us/pl/113/295/s139/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs139%2Fa
 [/us/stat/128/4020]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4020
+[/us/pl/114/113/s171/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs171%2Fa%2F1
+[/us/stat/129/3069]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3069
 [/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
 [/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/pl/95/600/s601/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2Fs601%2Fa
@@ -294,6 +308,7 @@
 [/us/stat/94/3465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3465
 [/us/pl/99/514/s1303/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1303%2Fa
 [/us/stat/100/2658]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2658
+[/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
 [/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
 [/us/pl/112/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240
 [/us/pl/111/312/s753/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F312%2Fs753%2Fa%2F1
@@ -307,6 +322,8 @@
 [/us/pl/105/34/s952/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs952%2Fd%2F2
 [/us/pl/105/34/s952/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs952%2Fd%2F1
 [/us/pl/105/34/s952/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs952%2Fa
+[/us/pl/114/113/s171/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs171%2Fe%2F1
+[/us/stat/129/3071]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3071
 [/us/pl/113/295/s139/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs139%2Fc
 [/us/stat/128/4020]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4020
 [/us/pl/112/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240
@@ -318,6 +335,8 @@
 [/us/pl/105/34/s951/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs951%2Fc
 [/us/stat/111/885]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F885
 [/us/usc/t26/s1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1396
+[/us/pl/114/113/s171/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs171%2Fa%2F2
+[/us/stat/129/3069]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3069
 [/us/pl/113/295/s139/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs139%2Fb
 [/us/stat/128/4020]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4020
 [/us/pl/112/240/s327/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs327%2Fc

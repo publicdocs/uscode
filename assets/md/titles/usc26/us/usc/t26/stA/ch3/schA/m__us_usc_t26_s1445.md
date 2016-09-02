@@ -17,7 +17,7 @@
 
     (a) __General rule__ 
 
-        Except as otherwise provided in this section, in the case of any disposition of a United States real property interest (as defined in section 897(c)) by a foreign person, the transferee shall be required to deduct and withhold a tax equal to 10 percent of the amount realized on the disposition.
+        Except as otherwise provided in this section, in the case of any disposition of a United States real property interest (as defined in section 897(c)) by a foreign person, the transferee shall be required to deduct and withhold a tax equal to 15 percent of the amount realized on the disposition.
 
     (b) __Exemptions__ 
 
@@ -141,6 +141,18 @@
 
                 The Secretary shall take action with respect to any request described in subparagraph (A) within 90 days after the Secretary receives the request.
 
+        (4) __Reduced rate of withholding for residence where amount realized does not exceed $1,000,000__ 
+
+        In the case of a disposition—
+
+            (A) of property which is acquired by the transferee for use by the transferee as a residence,
+
+            (B) with respect to which the amount realized for such property does not exceed $1,000,000, and
+
+            (C) to which subsection (b)(5) does not apply,
+
+            subsection (a) shall be applied by substituting “10 percent” for “15 percent”.
+
     (d) __Liability of transferor’s agents, transferee’s agents, or qualified substitutes__ 
 
         (1) __Notice of false affidavit; foreign corporations__ 
@@ -215,15 +227,15 @@
 
         (3) __Distributions by certain domestic corporations to foreign shareholders__ 
 
-            If a domestic corporation which is or has been a United States real property holding corporation (as defined in section 897(c)(2)) during the applicable period specified in section 897(c)(1)(A)(ii) distributes property to a foreign person in a transaction to which section 302 or part II of subchapter C applies, such corporation shall deduct and withhold under subsection (a) a tax equal to 10 percent of the amount realized by the foreign shareholder. The preceding sentence shall not apply if, as of the date of the distribution, interests in such corporation are not United States real property interests by reason of section 897(c)(1)(B). Rules similar to the rules of the preceding provisions of this paragraph shall apply in the case of any distribution to which section 301 applies and which is not made out of the earnings and profits of such a domestic corporation.
+            If a domestic corporation which is or has been a United States real property holding corporation (as defined in section 897(c)(2)) during the applicable period specified in section 897(c)(1)(A)(ii) distributes property to a foreign person in a transaction to which section 302 or part II of subchapter C applies, such corporation shall deduct and withhold under subsection (a) a tax equal to 15 percent of the amount realized by the foreign shareholder. The preceding sentence shall not apply if, as of the date of the distribution, interests in such corporation are not United States real property interests by reason of section 897(c)(1)(B). Rules similar to the rules of the preceding provisions of this paragraph shall apply in the case of any distribution to which section 301 applies and which is not made out of the earnings and profits of such a domestic corporation.
 
         (4) __Taxable distributions by domestic or foreign partnerships, trusts, or estates__ 
 
-            A domestic or foreign partnership, the trustee of a domestic or foreign trust, or the executor of a domestic or foreign estate shall be required to deduct and withhold under subsection (a) a tax equal to 10 percent of the fair market value (as of the time of the taxable distribution) of any United States real property interest distributed to a partner of the partnership or a beneficiary of the trust or estate, as the case may be, who is a foreign person in a transaction which would constitute a taxable distribution under the regulations promulgated by the Secretary pursuant to section 897.
+            A domestic or foreign partnership, the trustee of a domestic or foreign trust, or the executor of a domestic or foreign estate shall be required to deduct and withhold under subsection (a) a tax equal to 15 percent of the fair market value (as of the time of the taxable distribution) of any United States real property interest distributed to a partner of the partnership or a beneficiary of the trust or estate, as the case may be, who is a foreign person in a transaction which would constitute a taxable distribution under the regulations promulgated by the Secretary pursuant to section 897.
 
         (5) __Rules relating to dispositions of interest in partnerships, trusts, or estates__ 
 
-            To the extent provided in regulations, the transferee of a partnership interest or of a beneficial interest in a trust or estate shall be required to deduct and withhold under subsection (a) a tax equal to 10 percent of the amount realized on the disposition.
+            To the extent provided in regulations, the transferee of a partnership interest or of a beneficial interest in a trust or estate shall be required to deduct and withhold under subsection (a) a tax equal to 15 percent of the amount realized on the disposition.
 
         (6) __Distributions by regulated investment companies and real estate investment trusts__ 
 
@@ -247,7 +259,11 @@
 
         (3) __Foreign person__ 
 
-            The term “foreign person” means any person other than a United States person.
+        The term “foreign person” means any person other than—
+
+            (A) a United States person, and
+
+            (B) except as otherwise provided by the Secretary, an entity with respect to which section 897 does not apply by reason of subsection (l) thereof.
 
         (4) __Transferor’s maximum tax liability__ 
 
@@ -269,9 +285,17 @@
 
             (B) the transferee’s agent.
 
-(Added [Pub. L. 98–369, div. A, title I, § 129(a)(1)][/us/pl/98/369/s129/a/1], July 18, 1984, [98 Stat. 655][/us/stat/98/655]; amended [Pub. L. 99–514, title III, § 311(b)(4)][/us/pl/99/514/s311/b/4], title XVIII, § 1810(f)(2)–(4)(A), (5), (6), (8), Oct. 22, 1986, [100 Stat. 2219][/us/stat/100/2219], 2827, 2828; [Pub. L. 100–647, title I, § 1003(b)(3)][/us/pl/100/647/s1003/b/3], Nov. 10, 1988, [102 Stat. 3384][/us/stat/102/3384]; [Pub. L. 103–66, title XIII, § 13221(c)(3)][/us/pl/103/66/s13221/c/3], Aug. 10, 1993, [107 Stat. 477][/us/stat/107/477]; [Pub. L. 104–188, title I, § 1704(c)(1)][/us/pl/104/188/s1704/c/1], Aug. 20, 1996, [110 Stat. 1878][/us/stat/110/1878]; [Pub. L. 105–34, title III, § 311(c)(1)][/us/pl/105/34/s311/c/1], Aug. 5, 1997, [111 Stat. 835][/us/stat/111/835]; [Pub. L. 108–27, title III, § 301(a)(2)(C)][/us/pl/108/27/s301/a/2/C], May 28, 2003, [117 Stat. 758][/us/stat/117/758]; [Pub. L. 109–222, title V][/us/pl/109/222], §§ 505(b), 506(b), May 17, 2006, [120 Stat. 356][/us/stat/120/356], 358; [Pub. L. 110–289, div. C, title I, § 3024(a)][/us/pl/110/289/s3024/a]–(c), July 30, 2008, [122 Stat. 2895][/us/stat/122/2895]; [Pub. L. 112–240, title I, § 102(c)(1)(C)][/us/pl/112/240/s102/c/1/C], (3), Jan. 2, 2013, [126 Stat. 2319][/us/stat/126/2319].)
+(Added [Pub. L. 98–369, div. A, title I, § 129(a)(1)][/us/pl/98/369/s129/a/1], July 18, 1984, [98 Stat. 655][/us/stat/98/655]; amended [Pub. L. 99–514, title III, § 311(b)(4)][/us/pl/99/514/s311/b/4], title XVIII, § 1810(f)(2)–(4)(A), (5), (6), (8), Oct. 22, 1986, [100 Stat. 2219][/us/stat/100/2219], 2827, 2828; [Pub. L. 100–647, title I, § 1003(b)(3)][/us/pl/100/647/s1003/b/3], Nov. 10, 1988, [102 Stat. 3384][/us/stat/102/3384]; [Pub. L. 103–66, title XIII, § 13221(c)(3)][/us/pl/103/66/s13221/c/3], Aug. 10, 1993, [107 Stat. 477][/us/stat/107/477]; [Pub. L. 104–188, title I, § 1704(c)(1)][/us/pl/104/188/s1704/c/1], Aug. 20, 1996, [110 Stat. 1878][/us/stat/110/1878]; [Pub. L. 105–34, title III, § 311(c)(1)][/us/pl/105/34/s311/c/1], Aug. 5, 1997, [111 Stat. 835][/us/stat/111/835]; [Pub. L. 108–27, title III, § 301(a)(2)(C)][/us/pl/108/27/s301/a/2/C], May 28, 2003, [117 Stat. 758][/us/stat/117/758]; [Pub. L. 109–222, title V][/us/pl/109/222], §§ 505(b), 506(b), May 17, 2006, [120 Stat. 356][/us/stat/120/356], 358; [Pub. L. 110–289, div. C, title I, § 3024(a)][/us/pl/110/289/s3024/a]–(c), July 30, 2008, [122 Stat. 2895][/us/stat/122/2895]; [Pub. L. 112–240, title I, § 102(c)(1)(C)][/us/pl/112/240/s102/c/1/C], (3), Jan. 2, 2013, [126 Stat. 2319][/us/stat/126/2319]; [Pub. L. 114–113, div. Q, title III][/us/pl/114/113], §§ 323(b), 324(a), (b), Dec. 18, 2015, [129 Stat. 3103][/us/stat/129/3103].)
 
  __Amendments__ 
+
+    2015—Subsec. (a). [Pub. L. 114–113, § 324(a)][/us/pl/114/113/s324/a], substituted “15 percent” for “10 percent”.
+
+    Subsec. (c)(4). [Pub. L. 114–113, § 324(b)][/us/pl/114/113/s324/b], added par. (4).
+
+    Subsec. (e)(3) to (5). [Pub. L. 114–113, § 324(a)][/us/pl/114/113/s324/a], substituted “15 percent” for “10 percent”.
+
+    Subsec. (f)(3). [Pub. L. 114–113, § 323(b)][/us/pl/114/113/s323/b], substituted “any person other than—” for “any person other than a United States person.” and added subpars. (A) and (B).
 
     2013—Subsec. (e)(1). [Pub. L. 112–240, § 102(c)(1)(C)][/us/pl/112/240/s102/c/1/C], substituted “20 percent” for “15 percent” in introductory provisions.
 
@@ -330,6 +354,14 @@
     Subsec. (e)(4). [Pub. L. 99–514, § 1810(f)(6)][/us/pl/99/514/s1810/f/6], substituted “section 897” for “section 897(g)”.
 
     Subsec. (e)(6). [Pub. L. 99–514, § 1810(f)(8)][/us/pl/99/514/s1810/f/8], inserted “and regulations for the application of this subsection in the case of payments through 1 or more entities”.
+
+ __Effective Date of 2015 Amendment__ 
+
+    Amendment by [section 323(b) of Pub. L. 114–113][/us/pl/114/113/s323/b] applicable to dispositions and distributions after Dec. 18, 2015, see [section 323(c) of Pub. L. 114–113][/us/pl/114/113/s323/c], set out as a note under [section 897 of this title][/us/usc/t26/s897].
+
+[Pub. L. 114–113, div. Q, title III, § 324(c)][/us/pl/114/113/s324/c], Dec. 18, 2015, [129 Stat. 3103][/us/stat/129/3103], provided that: 
+
+> “The amendments made by this section \[amending this section\] shall apply to dispositions after the date which is 60 days after the date of the enactment of this Act \[Dec. 18, 2015\].”
 
  __Effective Date of 2013 Amendment__ 
 
@@ -412,6 +444,12 @@
 [/us/stat/122/2895]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2895
 [/us/pl/112/240/s102/c/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs102%2Fc%2F1%2FC
 [/us/stat/126/2319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2319
+[/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
+[/us/stat/129/3103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3103
+[/us/pl/114/113/s324/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs324%2Fa
+[/us/pl/114/113/s324/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs324%2Fb
+[/us/pl/114/113/s324/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs324%2Fa
+[/us/pl/114/113/s323/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs323%2Fb
 [/us/pl/112/240/s102/c/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs102%2Fc%2F1%2FC
 [/us/pl/112/240/s102/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs102%2Fc%2F3
 [/us/pl/110/289/s3024/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs3024%2Fc%2F1
@@ -436,6 +474,11 @@
 [/us/pl/99/514/s1810/f/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1810%2Ff%2F5
 [/us/pl/99/514/s1810/f/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1810%2Ff%2F6
 [/us/pl/99/514/s1810/f/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1810%2Ff%2F8
+[/us/pl/114/113/s323/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs323%2Fb
+[/us/pl/114/113/s323/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs323%2Fc
+[/us/usc/t26/s897]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs897
+[/us/pl/114/113/s324/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs324%2Fc
+[/us/stat/129/3103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3103
 [/us/pl/112/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240
 [/us/pl/112/240/s102/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs102%2Fd
 [/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1

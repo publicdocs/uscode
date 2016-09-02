@@ -1815,6 +1815,10 @@ The corresponding percentages shall be substituted for
 
  __Short Title of 2015 Amendment__ 
 
+[Pub. L. 114–113, div. Q, § 1(a)][/us/pl/114/113/s1/a], Dec. 18, 2015, [129 Stat. 3040][/us/stat/129/3040], provided that: 
+
+> “This division \[see Tables for classification\] may be cited as the ‘Protecting Americans from Tax Hikes Act of 2015’.”
+
 [Pub. L. 114–74, § 1][/us/pl/114/74/s1], Nov. 2, 2015, [129 Stat. 584][/us/stat/129/584], provided that: 
 
 > “This Act \[see Tables for classification\] may be cited as the ‘Bipartisan Budget Act of 2015’.”
@@ -3067,9 +3071,11 @@ The corresponding percentages shall be substituted for
 
  __Inflation Adjusted Items for Certain Years__ 
 
-    Provisions relating to inflation adjustment of items in sections 1, 23, 24, 25A, 25B, 32, 36B, 42, 45R, 55, 59, 63, 68, 125, 132, 135, 137, 146, 147, 151, 179, 213, 219, 220, 221, 223, 408A, 512, 513, 685, 877, 877A, 911, 2010, 2032A, 2503, 2523, 2631, 4001, 4003, 4161, 4261, 6012, 6013, 6033, 6039F, 6323, 6334, 6601, 7430, and 7702B of this title for certain years were contained in the following:
+    Provisions relating to inflation adjustment of items in sections 1, 23, 24, 25A, 25B, 32, 36B, 42, 45R, 55, 59, 63, 68, 125, 132, 135, 137, 146, 147, 151, 179, 213, 219, 220, 221, 223, 408A, 512, 513, 685, 877, 877A, 911, 2010, 2032A, 2503, 2523, 2631, 4001, 4003, 4161, 4261, 6012, 6013, 6033, 6039F, 6323, 6334, 6601, 6651, 6652, 6695, 6698, 6699, 6721, 6722, 7430, and 7702B of this title for certain years were contained in the following:
 
-    2015—Revenue Procedure 2014–61.
+    2016—Revenue Procedure 2015–53, as modified by Revenue Procedure 2016–11.
+
+    2015—Revenue Procedures 2014–61 and 2016–11.
 
     2014—Revenue Procedure 2013–35.
 
@@ -3536,6 +3542,8 @@ The corresponding percentages shall be substituted for
 [/us/stat/78/30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F30
 [/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
+[/us/pl/114/113/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs1%2Fa
+[/us/stat/129/3040]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3040
 [/us/pl/114/74/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs1
 [/us/stat/129/584]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F584
 [/us/pl/114/55/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F55%2Fs1%2Fa

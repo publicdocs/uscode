@@ -151,9 +151,41 @@
 
         The credit allowed under this section shall not apply to property placed in service after December 31, 2016.
 
-(Added [Pub. L. 109–58, title XIII, § 1335(a)][/us/pl/109/58/s1335/a], Aug. 8, 2005, [119 Stat. 1033][/us/stat/119/1033]; amended [Pub. L. 109–135, title IV, § 402(i)(1)][/us/pl/109/135/s402/i/1], (2), (3)(E), Dec. 21, 2005, [119 Stat. 2612][/us/stat/119/2612], 2614; [Pub. L. 109–432, div. A, title II, § 206][/us/pl/109/432/s206], Dec. 20, 2006, [120 Stat. 2945][/us/stat/120/2945]; [Pub. L. 110–343, div. B, title I, § 106(a)][/us/pl/110/343/s106/a]–(c)(3)(A), (c)(4)–(e)(1), Oct. 3, 2008, [122 Stat. 3814–3816][/us/stat/122/3814-3816]; [Pub. L. 111–5, div. B, title I][/us/pl/111/5], §§ 1103(b)(2)(B), 1122(a), Feb. 17, 2009, [123 Stat. 320][/us/stat/123/320], 324; [Pub. L. 112–240, title I, § 104(c)(2)(F)][/us/pl/112/240/s104/c/2/F], Jan. 2, 2013, [126 Stat. 2322][/us/stat/126/2322].)
+(Added [Pub. L. 109–58, title XIII, § 1335(a)][/us/pl/109/58/s1335/a], Aug. 8, 2005, [119 Stat. 1033][/us/stat/119/1033]; amended [Pub. L. 109–135, title IV, § 402(i)(1)][/us/pl/109/135/s402/i/1], (2), (3)(E), Dec. 21, 2005, [119 Stat. 2612][/us/stat/119/2612], 2614; [Pub. L. 109–432, div. A, title II, § 206][/us/pl/109/432/s206], Dec. 20, 2006, [120 Stat. 2945][/us/stat/120/2945]; [Pub. L. 110–343, div. B, title I, § 106(a)][/us/pl/110/343/s106/a]–(c)(3)(A), (c)(4)–(e)(1), Oct. 3, 2008, [122 Stat. 3814–3816][/us/stat/122/3814-3816]; [Pub. L. 111–5, div. B, title I][/us/pl/111/5], §§ 1103(b)(2)(B), 1122(a), Feb. 17, 2009, [123 Stat. 320][/us/stat/123/320], 324; [Pub. L. 112–240, title I, § 104(c)(2)(F)][/us/pl/112/240/s104/c/2/F], Jan. 2, 2013, [126 Stat. 2322][/us/stat/126/2322]; [Pub. L. 114–113, div. P, title III, § 304(a)][/us/pl/114/113/s304/a], Dec. 18, 2015, [129 Stat. 3039][/us/stat/129/3039].)
+
+ __Amendment of Section__ 
+
+    [Pub. L. 114–113, div. P, title III, § 304][/us/pl/114/113/s304], Dec. 18, 2015, [129 Stat. 3039][/us/stat/129/3039], provided that, effective Jan. 1, 2017, this section is amended as follows:
+
+    (1) in paragraphs (1) and (2) of subsection (a), by striking “30 percent” each place it appears and inserting “the applicable percentage”;
+
+    (2) in subsection (g), by inserting “(December 31, 2021, in the case of any qualified solar electric property expenditures and qualified solar water heating property expenditures)” before the period at the end;
+
+    (3) by redesignating subsection (g) as subsection (h); and
+
+    (4) by inserting after subsection (f) the following new subsection:
+
+    (g) Applicable percentage
+
+    For purposes of paragraphs (1) and (2) of subsection (a), the applicable percentage shall be—
+
+    (1) in the case of property placed in service after December 31, 2016, and before January 1, 2020, 30 percent,
+
+    (2) in the case of property placed in service after December 31, 2019, and before January 1, 2021, 26 percent, and
+
+    (3) in the case of property placed in service after December 31, 2020, and before January 1, 2022, 22 percent.
+
+    See 2015 Amendment notes below.
 
  __Amendments__ 
+
+    2015—Subsec. (a)(1), (2). [Pub. L. 114–113, § 304(a)(1)][/us/pl/114/113/s304/a/1], substituted “the applicable percentage” for “30 percent”.
+
+    Subsec. (g). [Pub. L. 114–113, § 304(a)(4)][/us/pl/114/113/s304/a/4], added subsec. (g). Former subsec. (g) redesignated (h).
+
+    [Pub. L. 114–113, § 304(a)(2)][/us/pl/114/113/s304/a/2], inserted “(December 31, 2021, in the case of any qualified solar electric property expenditures and qualified solar water heating property expenditures)” before period at end.
+
+    Subsec. (h). [Pub. L. 114–113, § 304(a)(3)][/us/pl/114/113/s304/a/3], redesignated subsec. (g) as (h).
 
     2013—Subsec. (c). [Pub. L. 112–240][/us/pl/112/240] amended subsec. (c) generally. Prior to amendment, subsec. (c) related to limitation based on amount of tax and carryforward of unused credit.
 
@@ -209,6 +241,12 @@
 
     “(B) There shall be allowable, with respect to such expenditures to each of such individuals, a credit under subsection (a) for the taxable year in which such calendar year ends in an amount which bears the same ratio to the amount determined under subparagraph (A) as the amount of such expenditures made by such individual during such calendar year bears to the aggregate of such expenditures made by all of such individuals during such calendar year.”
 
+ __Effective Date of 2015 Amendment__ 
+
+[Pub. L. 114–113, div. P, title III, § 304(b)][/us/pl/114/113/s304/b], Dec. 18, 2015, [129 Stat. 3040][/us/stat/129/3040], provided that: 
+
+> “The amendments made by this section \[amending this section\] shall take effect on January 1, 2017.”
+
  __Effective Date of 2013 Amendment__ 
 
     Amendment by [Pub. L. 112–240][/us/pl/112/240] applicable to taxable years beginning after Dec. 31, 2011, see [section 104(d) of Pub. L. 112–240][/us/pl/112/240/s104/d], set out as a note under [section 23 of this title][/us/usc/t26/s23].
@@ -254,6 +292,14 @@
 [/us/stat/123/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F320
 [/us/pl/112/240/s104/c/2/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs104%2Fc%2F2%2FF
 [/us/stat/126/2322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2322
+[/us/pl/114/113/s304/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs304%2Fa
+[/us/stat/129/3039]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3039
+[/us/pl/114/113/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs304
+[/us/stat/129/3039]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3039
+[/us/pl/114/113/s304/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs304%2Fa%2F1
+[/us/pl/114/113/s304/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs304%2Fa%2F4
+[/us/pl/114/113/s304/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs304%2Fa%2F2
+[/us/pl/114/113/s304/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs304%2Fa%2F3
 [/us/pl/112/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240
 [/us/pl/111/5/s1122/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs1122%2Fa%2F1
 [/us/pl/111/5/s1122/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs1122%2Fa%2F2%2FA
@@ -281,6 +327,8 @@
 [/us/pl/109/135/s402/i/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135%2Fs402%2Fi%2F1
 [/us/pl/109/135/s402/i/3/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135%2Fs402%2Fi%2F3%2FE
 [/us/pl/109/135/s402/i/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135%2Fs402%2Fi%2F2
+[/us/pl/114/113/s304/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs304%2Fb
+[/us/stat/129/3040]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3040
 [/us/pl/112/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240
 [/us/pl/112/240/s104/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs104%2Fd
 [/us/usc/t26/s23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs23

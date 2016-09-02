@@ -31,7 +31,7 @@
 
         (2) __Windows__ 
 
-            In the case of amounts paid or incurred for components described in subsection (c)(2)(B) by any taxpayer for any taxable year, the credit allowed under this section with respect to such amounts for such year shall not exceed the excess (if any) of $200 over the aggregate credits allowed under this section with respect to such amounts for all prior taxable years ending after December 31, 2005.
+            In the case of amounts paid or incurred for components described in subsection (c)(2)(B)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  by any taxpayer for any taxable year, the credit allowed under this section with respect to such amounts for such year shall not exceed the excess (if any) of $200 over the aggregate credits allowed under this section with respect to such amounts for all prior taxable years ending after December 31, 2005.
 
         (3) __Limitation on residential energy property expenditures__ 
 
@@ -49,7 +49,7 @@
 
         (1) __In general__ 
 
-        The term “qualified energy efficiency improvements” means any energy efficient building envelope component which meets the prescriptive criteria for such component established by the 2009 International Energy Conservation Code, as such Code (including supplements) is in effect on the date of the enactment of the American Recovery and Reinvestment Tax Act of 2009 (or, in the case of an exterior window, a skylight, an exterior door, a metal roof with appropriate pigmented coatings, or an asphalt roof with appropriate cooling granules, which meet the Energy Star program requirements), if—
+        The term “qualified energy efficiency improvements” means any energy efficient building envelope component, if—
 
             (A) such component is installed in or on a dwelling unit located in the United States and owned and used by the taxpayer as the taxpayer’s principal residence (within the meaning of section 121),
 
@@ -57,7 +57,17 @@
 
             (C) such component reasonably can be expected to remain in use for at least 5 years.
 
-        (2) __Building envelope component__ 
+        (2) __Energy efficient building envelope component__ 
+
+        The term “energy efficient building envelope component” means a building envelope component which meets—
+
+            (A) applicable Energy Star program requirements, in the case of a roof or roof products,
+
+            (B) version 6.0 Energy Star program requirements, in the case of an exterior window, a skylight, or an exterior door, and
+
+            (C) the prescriptive criteria for such component established by the 2009 International Energy Conservation Code, as such Code (including supplements) is in effect on the date of the enactment of the American Recovery and Reinvestment Tax Act of 2009, in the case of any other component.
+
+        (3) __Building envelope component__ 
 
         The term “building envelope component” means—
 
@@ -69,7 +79,7 @@
 
             (D) any metal roof or asphalt roof installed on a dwelling unit, but only if such roof has appropriate pigmented coatings or cooling granules which are specifically and primarily designed to reduce the heat gain of such dwelling unit.
 
-        (3) __Manufactured homes included__ 
+        (4) __Manufactured homes included__ 
 
             The term “dwelling unit” includes a manufactured home which conforms to Federal Manufactured Home Construction and Safety Standards (part 3280 of title 24, Code of Federal Regulations).
 
@@ -121,11 +131,11 @@
 
             (A) an electric heat pump water heater which yields an energy factor of at least 2.0 in the standard Department of Energy test procedure,
 
-            (B) an electric heat pump which achieves the highest efficiency tier established by the Consortium for Energy Efficiency, as in effect on January 1, 2009. <sup>\[1\]</sup>  <sup><sup> 1 So in original. The period probably should be a comma. </sup></sup> 
+            (B) an electric heat pump which achieves the highest efficiency tier established by the Consortium for Energy Efficiency, as in effect on January 1, 2009. <sup>\[2\]</sup>  <sup><sup> 2 So in original. The period probably should be a comma. </sup></sup> 
 
             (C) a central air conditioner which achieves the highest efficiency tier established by the Consortium for Energy Efficiency, as in effect on January 1, 2009,
 
-            (D) a natural gas, propane, or oil water heater which has either an energy factor of at least 0.82 or a thermal efficiency of at least 90 percent. <sup>\[2\]</sup>  <sup><sup> 2 So in original. The period probably should be “, and”. </sup></sup> 
+            (D) a natural gas, propane, or oil water heater which has either an energy factor of at least 0.82 or a thermal efficiency of at least 90 percent. <sup>\[3\]</sup>  <sup><sup> 3 So in original. The period probably should be “, and”. </sup></sup> 
 
             (E) a stove which uses the burning of biomass fuel to heat a dwelling unit located in the United States and used as a residence by the taxpayer, or to heat water for use in such a dwelling unit, and which has a thermal efficiency rating of at least 75 percent.
 
@@ -173,15 +183,23 @@
 
         (1) after December 31, 2007, and before January 1, 2009, or
 
-        (2) after December 31, 2014.. <sup>\[3\]</sup>  <sup><sup> 3 So in original. </sup></sup> 
+        (2) after December 31, 2016.. <sup>\[4\]</sup>  <sup><sup> 4 So in original. </sup></sup> 
 
-(Added [Pub. L. 109–58, title XIII, § 1333(a)][/us/pl/109/58/s1333/a], Aug. 8, 2005, [119 Stat. 1026][/us/stat/119/1026]; amended [Pub. L. 109–135, title IV, § 412(b)][/us/pl/109/135/s412/b], Dec. 21, 2005, [119 Stat. 2636][/us/stat/119/2636]; [Pub. L. 110–172, § 11(a)(2)][/us/pl/110/172/s11/a/2], Dec. 29, 2007, [121 Stat. 2484][/us/stat/121/2484]; [Pub. L. 110–343, div. B, title III, § 302(a)][/us/pl/110/343/s302/a]–(e), Oct. 3, 2008, [122 Stat. 3844][/us/stat/122/3844], 3845; [Pub. L. 111–5, div. B, title I][/us/pl/111/5], §§ 1103(b)(2)(A), 1121(a)–(e), Feb. 17, 2009, [123 Stat. 320][/us/stat/123/320], 322–324; [Pub. L. 111–312, title VII, § 710(a)][/us/pl/111/312/s710/a], (b), Dec. 17, 2010, [124 Stat. 3314][/us/stat/124/3314]; [Pub. L. 112–240, title IV, § 401(a)][/us/pl/112/240/s401/a], Jan. 2, 2013, [126 Stat. 2337][/us/stat/126/2337]; [Pub. L. 113–295, div. A, title I, § 151(a)][/us/pl/113/295/s151/a], Dec. 19, 2014, [128 Stat. 4021][/us/stat/128/4021].)
+(Added [Pub. L. 109–58, title XIII, § 1333(a)][/us/pl/109/58/s1333/a], Aug. 8, 2005, [119 Stat. 1026][/us/stat/119/1026]; amended [Pub. L. 109–135, title IV, § 412(b)][/us/pl/109/135/s412/b], Dec. 21, 2005, [119 Stat. 2636][/us/stat/119/2636]; [Pub. L. 110–172, § 11(a)(2)][/us/pl/110/172/s11/a/2], Dec. 29, 2007, [121 Stat. 2484][/us/stat/121/2484]; [Pub. L. 110–343, div. B, title III, § 302(a)][/us/pl/110/343/s302/a]–(e), Oct. 3, 2008, [122 Stat. 3844][/us/stat/122/3844], 3845; [Pub. L. 111–5, div. B, title I][/us/pl/111/5], §§ 1103(b)(2)(A), 1121(a)–(e), Feb. 17, 2009, [123 Stat. 320][/us/stat/123/320], 322–324; [Pub. L. 111–312, title VII, § 710(a)][/us/pl/111/312/s710/a], (b), Dec. 17, 2010, [124 Stat. 3314][/us/stat/124/3314]; [Pub. L. 112–240, title IV, § 401(a)][/us/pl/112/240/s401/a], Jan. 2, 2013, [126 Stat. 2337][/us/stat/126/2337]; [Pub. L. 113–295, div. A, title I, § 151(a)][/us/pl/113/295/s151/a], Dec. 19, 2014, [128 Stat. 4021][/us/stat/128/4021]; [Pub. L. 114–113, div. Q, title I, § 181(a)][/us/pl/114/113/s181/a], (b), Dec. 18, 2015, [129 Stat. 3072][/us/stat/129/3072].)
 
  __References in Text__ 
 
-    The date of the enactment of the American Recovery and Reinvestment Tax Act of 2009, referred to in subsec. (c)(1), is the date of the enactment of div. B of [Pub. L. 111–5][/us/pl/111/5], which was approved Feb. 17, 2009.
+    Subsection (c)(2)(B), referred to in subsec. (b)(2), was redesignated (c)(3)(B) by [Pub. L. 114–113, div. Q, § 181(b)(2)][/us/pl/114/113/s181/b/2], Dec. 18, 2015, [129 Stat. 3072][/us/stat/129/3072].
+
+    The date of the enactment of the American Recovery and Reinvestment Tax Act of 2009, referred to in subsec. (c)(2)(C), is the date of enactment of title I of div. B of [Pub. L. 111–5][/us/pl/111/5], which was approved Feb. 17, 2009.
 
  __Amendments__ 
+
+    2015—Subsec. (c)(1). [Pub. L. 114–113, § 181(b)(1)][/us/pl/114/113/s181/b/1], struck out “which meets the prescriptive criteria for such component established by the 2009 International Energy Conservation Code, as such Code (including supplements) is in effect on the date of the enactment of the American Recovery and Reinvestment Tax Act of 2009 (or, in the case of an exterior window, a skylight, an exterior door, a metal roof with appropriate pigmented coatings, or an asphalt roof with appropriate cooling granules, which meet the Energy Star program requirements)” after “envelope component” in introductory provisions.
+
+    Subsec. (c)(2) to (4). [Pub. L. 114–113, § 181(b)(2)][/us/pl/114/113/s181/b/2], added par. (2) and redesignated former pars. (2) and (3) as (3) and (4), respectively.
+
+    Subsec. (g)(2). [Pub. L. 114–113, § 181(a)][/us/pl/114/113/s181/a], substituted “December 31, 2016” for “December 31, 2014”.
 
     2014—Subsec. (g)(2). [Pub. L. 113–295][/us/pl/113/295] substituted “December 31, 2014” for “December 31, 2013”.
 
@@ -267,6 +285,18 @@
 
     2005—Subsec. (b)(2). [Pub. L. 109–135][/us/pl/109/135] substituted “subsection (c)(2)(B)” for “subsection (c)(3)(B)”.
 
+ __Effective Date of 2015 Amendment__ 
+
+[Pub. L. 114–113, div. Q, title I, § 181(c)][/us/pl/114/113/s181/c], Dec. 18, 2015, [129 Stat. 3072][/us/stat/129/3072], provided that:
+
+>     “(1)  __Extension__  __.—__ 
+
+>     The amendment made by subsection (a) \[amending this section\] shall apply to property placed in service after December 31, 2014.
+
+>     “(2)  __Modification__  __.—__ 
+
+>     The amendments made by subsection (b) \[amending this section\] shall apply to property placed in service after December 31, 2015.”
+
  __Effective Date of 2014 Amendment__ 
 
 [Pub. L. 113–295, div. A, title I, § 151(b)][/us/pl/113/295/s151/b], Dec. 19, 2014, [128 Stat. 4021][/us/stat/128/4021], provided that: 
@@ -348,7 +378,14 @@
 [/us/stat/126/2337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2337
 [/us/pl/113/295/s151/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs151%2Fa
 [/us/stat/128/4021]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4021
+[/us/pl/114/113/s181/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs181%2Fa
+[/us/stat/129/3072]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3072
+[/us/pl/114/113/s181/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs181%2Fb%2F2
+[/us/stat/129/3072]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3072
 [/us/pl/111/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5
+[/us/pl/114/113/s181/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs181%2Fb%2F1
+[/us/pl/114/113/s181/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs181%2Fb%2F2
+[/us/pl/114/113/s181/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs181%2Fa
 [/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
 [/us/pl/112/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240
 [/us/pl/111/312/s710/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F312%2Fs710%2Fb%2F1
@@ -384,6 +421,8 @@
 [/us/pl/110/343/s302/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs302%2Fa
 [/us/pl/110/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F172
 [/us/pl/109/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135
+[/us/pl/114/113/s181/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs181%2Fc
+[/us/stat/129/3072]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3072
 [/us/pl/113/295/s151/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs151%2Fb
 [/us/stat/128/4021]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4021
 [/us/pl/112/240/s401/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs401%2Fb

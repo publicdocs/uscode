@@ -561,7 +561,7 @@
 
  __Effective Date of 1982 Amendment__ 
 
-[Pub. L. 97–248, title II, § 251(e)][/us/pl/97/248/s251/e], Sept. 3, 1982, [96 Stat. 531][/us/stat/96/531], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
+[Pub. L. 97–248, title II, § 251(e)][/us/pl/97/248/s251/e], Sept. 3, 1982, [96 Stat. 531][/us/stat/96/531], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095]; [Pub. L. 114–113, div. Q, title III, § 336(b)(1)][/us/pl/114/113/s336/b/1], Dec. 18, 2015, [129 Stat. 3110][/us/stat/129/3110], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -581,7 +581,13 @@
 
 >     “(5)  __Special rule for existing defined benefit arrangements__  __.—__ 
 
->     Any defined benefit arrangement which is established by a church or a convention or association of churches (including an organization described in section 414(e)(3)(B)(ii) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\]) and which is in effect on the date of the enactment of this Act \[Sept. 3, 1982\] shall not be treated as failing to meet the requirements of section 403(b)(2) of such Code merely because it is a defined benefit arrangement.”
+>     Any defined benefit arrangement which is established by a church or a convention or association of churches (including an organization described in section 414(e)(3)(B)(ii) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\]) and which is in effect on the date of the enactment of this Act \[Sept. 3, 1982\] shall not be treated as failing to meet the requirements of section 403(b) of such Code merely because it is a defined benefit arrangement, and shall be subject to the applicable limitations of section 415(b) of such Code as if it were a defined benefit plan under section 401(a) of such Code (and not to the limitations of section 415(c) of such Code)..\[sic\]”
+
+\[[Pub. L. 114–113, div. Q, title III, § 336(b)(2)][/us/pl/114/113/s336/b/2], Dec. 18, 2015, [129 Stat. 3110][/us/stat/129/3110], provided that: 
+
+> “The amendments made by this subsection \[amending [section 251(e)(5) of Pub. L. 97–248][/us/pl/97/248/s251/e/5], set out above\] shall apply to years beginning before, on, or after the date of the enactment of this Act \[Dec. 18, 2015\].”
+
+\]
 
  __Effective Date of 1981 Amendment__ 
 
@@ -1037,8 +1043,13 @@
 [/us/stat/96/531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F531
 [/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
+[/us/pl/114/113/s336/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs336%2Fb%2F1
+[/us/stat/129/3110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3110
 [/us/usc/t26/s415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs415
 [/us/usc/t26/s415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs415
+[/us/pl/114/113/s336/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs336%2Fb%2F2
+[/us/stat/129/3110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3110
+[/us/pl/97/248/s251/e/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs251%2Fe%2F5
 [/us/pl/97/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34
 [/us/pl/97/34/s311/i/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34%2Fs311%2Fi%2F1
 [/us/usc/t26/s219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs219

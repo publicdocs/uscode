@@ -115,7 +115,7 @@
 
         (6) __Termination__ 
 
-            This subsection shall not apply to any sale, use, or removal for any period after December 31, 2014.
+            This subsection shall not apply to any sale, use, or removal for any period after December 31, 2016.
 
     (d) __Alternative fuel credit__ 
 
@@ -163,7 +163,7 @@
 
         (5) __Termination__ 
 
-            This subsection shall not apply to any sale or use for any period after December 31, 2014.
+            This subsection shall not apply to any sale or use for any period after December 31, 2016.
 
     (e) __Alternative fuel mixture credit__ 
 
@@ -181,7 +181,7 @@
 
         (3) __Termination__ 
 
-            This subsection shall not apply to any sale or use for any period after December 31, 2014.
+            This subsection shall not apply to any sale or use for any period after December 31, 2016.
 
     (f) __Mixture not used as a fuel, etc.__ 
 
@@ -225,7 +225,15 @@
 
         For purposes of this subsection, the term “United States” includes any possession of the United States.
 
-(Added [Pub. L. 108–357, title III, § 301(a)][/us/pl/108/357/s301/a], Oct. 22, 2004, [118 Stat. 1459][/us/stat/118/1459]; amended [Pub. L. 109–58, title XIII, § 1344(a)][/us/pl/109/58/s1344/a], Aug. 8, 2005, [119 Stat. 1052][/us/stat/119/1052]; [Pub. L. 109–59, title XI][/us/pl/109/59], §§ 11113(b)(1)–(3)(A), 11151(e)(2), Aug. 10, 2005, [119 Stat. 1947][/us/stat/119/1947], 1948, 1969; [Pub. L. 110–172, § 5(a)(2)][/us/pl/110/172/s5/a/2], (3), Dec. 29, 2007, [121 Stat. 2479][/us/stat/121/2479]; [Pub. L. 110–234, title XV][/us/pl/110/234], §§ 15331(b), 15332(b), May 22, 2008, [122 Stat. 1516][/us/stat/122/1516]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title XV, §§ 15331(b), 15332(b), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2278; [Pub. L. 110–343, div. B, title II][/us/pl/110/343], §§ 202(a), (b)(2), 203(c)(1), 204(a)(1), (2), (b), (c), Oct. 3, 2008, [122 Stat. 3832][/us/stat/122/3832], 3834; [Pub. L. 111–312, title VII][/us/pl/111/312], §§ 701(b)(1), 704(a), (b), 708(b)(1), Dec. 17, 2010, [124 Stat. 3310–3312][/us/stat/124/3310-3312]; [Pub. L. 112–240, title IV][/us/pl/112/240], §§ 405(b)(1), 412(a), Jan. 2, 2013, [126 Stat. 2340][/us/stat/126/2340], 2343; [Pub. L. 113–295, div. A, title I, § 160(a)(1)][/us/pl/113/295/s160/a/1], (b)(1), (c)(1), Dec. 19, 2014, [128 Stat. 4022][/us/stat/128/4022].)
+    (j) __Energy equivalency determinations for liquefied petroleum gas and liquefied natural gas__ 
+
+    For purposes of determining any credit under this section, any reference to the number of gallons of an alternative fuel or the gasoline gallon equivalent of such a fuel shall be treated as a reference to—
+
+        (1) in the case of liquefied petroleum gas, the energy equivalent of a gallon of gasoline, as defined in section 4041(a)(2)(C), and
+
+        (2) in the case of liquefied natural gas, the energy equivalent of a gallon of diesel, as defined in section 4041(a)(2)(D).
+
+(Added [Pub. L. 108–357, title III, § 301(a)][/us/pl/108/357/s301/a], Oct. 22, 2004, [118 Stat. 1459][/us/stat/118/1459]; amended [Pub. L. 109–58, title XIII, § 1344(a)][/us/pl/109/58/s1344/a], Aug. 8, 2005, [119 Stat. 1052][/us/stat/119/1052]; [Pub. L. 109–59, title XI][/us/pl/109/59], §§ 11113(b)(1)–(3)(A), 11151(e)(2), Aug. 10, 2005, [119 Stat. 1947][/us/stat/119/1947], 1948, 1969; [Pub. L. 110–172, § 5(a)(2)][/us/pl/110/172/s5/a/2], (3), Dec. 29, 2007, [121 Stat. 2479][/us/stat/121/2479]; [Pub. L. 110–234, title XV][/us/pl/110/234], §§ 15331(b), 15332(b), May 22, 2008, [122 Stat. 1516][/us/stat/122/1516]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title XV, §§ 15331(b), 15332(b), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2278; [Pub. L. 110–343, div. B, title II][/us/pl/110/343], §§ 202(a), (b)(2), 203(c)(1), 204(a)(1), (2), (b), (c), Oct. 3, 2008, [122 Stat. 3832][/us/stat/122/3832], 3834; [Pub. L. 111–312, title VII][/us/pl/111/312], §§ 701(b)(1), 704(a), (b), 708(b)(1), Dec. 17, 2010, [124 Stat. 3310–3312][/us/stat/124/3310-3312]; [Pub. L. 112–240, title IV][/us/pl/112/240], §§ 405(b)(1), 412(a), Jan. 2, 2013, [126 Stat. 2340][/us/stat/126/2340], 2343; [Pub. L. 113–295, div. A, title I, § 160(a)(1)][/us/pl/113/295/s160/a/1], (b)(1), (c)(1), Dec. 19, 2014, [128 Stat. 4022][/us/stat/128/4022]; [Pub. L. 114–113, div. Q, title I][/us/pl/114/113], §§ 185(b)(1), 192(a)(1), title III, § 342(a), Dec. 18, 2015, [129 Stat. 3073][/us/stat/129/3073], 3075, 3114.)
 
  __Codification__ 
 
@@ -236,6 +244,12 @@
     A prior section 6426, added [Pub. L. 91–258, title II, § 206(c)][/us/pl/91/258/s206/c], May 21, 1970, [84 Stat. 245][/us/stat/84/245]; amended [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834], provided for a refund of aircraft use tax where plane transports for hire in foreign air commerce, prior to repeal by [Pub. L. 97–248, title II, § 280(c)(2)(G)][/us/pl/97/248/s280/c/2/G], (d), Sept. 3, 1982, [96 Stat. 564][/us/stat/96/564], 565, applicable with respect to transportation beginning after Aug. 31, 1982.
 
  __Amendments__ 
+
+    2015—Subsec. (c)(6). [Pub. L. 114–113, § 185(b)(1)][/us/pl/114/113/s185/b/1], substituted “December 31, 2016” for “December 31, 2014”.
+
+    Subsecs. (d)(5), (e)(3). [Pub. L. 114–113, § 192(a)(1)][/us/pl/114/113/s192/a/1], substituted “December 31, 2016” for “December 31, 2014”.
+
+    Subsec. (j). [Pub. L. 114–113, § 342(a)][/us/pl/114/113/s342/a], added subsec. (j).
 
     2014—Subsec. (c)(6). [Pub. L. 113–295, § 160(a)(1)][/us/pl/113/295/s160/a/1], substituted “December 31, 2014” for “December 31, 2013”.
 
@@ -307,6 +321,20 @@
 
     Subsecs. (e) to (g). [Pub. L. 109–59, § 11113(b)(2)][/us/pl/109/59/s11113/b/2], added subsec. (e) and redesignated former subsecs. (d) and (e) as (f) and (g), respectively.
 
+ __Effective Date of 2015 Amendment__ 
+
+[Pub. L. 114–113, div. Q, title I, § 185(b)(3)][/us/pl/114/113/s185/b/3], Dec. 18, 2015, [129 Stat. 3073][/us/stat/129/3073], provided that: 
+
+> “The amendments made by this subsection \[amending this section and [section 6427 of this title][/us/usc/t26/s6427]\] shall apply to fuel sold or used after December 31, 2014.”
+
+[Pub. L. 114–113, div. Q, title I, § 192(b)][/us/pl/114/113/s192/b], Dec. 18, 2015, [129 Stat. 3075][/us/stat/129/3075], provided that: 
+
+> “The amendments made by this section \[amending this section and [section 6427 of this title][/us/usc/t26/s6427]\] shall apply to fuel sold or used after December 31, 2014.”
+
+[Pub. L. 114–113, div. Q, title III, § 342(b)][/us/pl/114/113/s342/b], Dec. 18, 2015, [129 Stat. 3114][/us/stat/129/3114], provided that: 
+
+> “The amendments made by this section \[amending this section\] shall apply to fuel sold or used after December 31, 2015.”
+
  __Effective Date of 2014 Amendment__ 
 
 [Pub. L. 113–295, div. A, title I, § 160(d)][/us/pl/113/295/s160/d], Dec. 19, 2014, [128 Stat. 4022][/us/stat/128/4022], provided that:
@@ -371,6 +399,16 @@
 
     Section applicable to fuel sold or used after Dec. 31, 2004, see [section 301(d)(1) of Pub. L. 108–357][/us/pl/108/357/s301/d/1], set out as an Effective Date of 2004 Amendment note under [section 40 of this title][/us/usc/t26/s40].
 
+ __Special Rules for 2015__ 
+
+[Pub. L. 114–113, div. Q, title I, § 185(b)(4)][/us/pl/114/113/s185/b/4], Dec. 18, 2015, [129 Stat. 3073][/us/stat/129/3073], provided that: 
+
+> “Notwithstanding any other provision of law, in the case of any biodiesel mixture credit properly determined under section 6426(c) of the Internal Revenue Code of 1986 for the period beginning on January 1, 2015, and ending on December 31, 2015, such credit shall be allowed, and any refund or payment attributable to such credit (including any payment under section 6427(e) of such Code) shall be made, only in such manner as the Secretary of the Treasury (or the Secretary’s delegate) shall provide. Such Secretary shall issue guidance within 30 days after the date of the enactment of this Act \[Dec. 18, 2015\] providing for a one-time submission of claims covering periods described in the preceding sentence. Such guidance shall provide for a 180-day period for the submission of such claims (in such manner as prescribed by such Secretary) to begin not later than 30 days after such guidance is issued. Such claims shall be paid by such Secretary not later than 60 days after receipt. If such Secretary has not paid pursuant to a claim filed under this subsection within 60 days after the date of the filing of such claim, the claim shall be paid with interest from such date determined by using the overpayment rate and method under section 6621 of such Code.”
+
+[Pub. L. 114–113, div. Q, title I, § 192(c)][/us/pl/114/113/s192/c], Dec. 18, 2015, [129 Stat. 3075][/us/stat/129/3075], provided that: 
+
+> “Notwithstanding any other provision of law, in the case of any alternative fuel credit properly determined under section 6426(d) of the Internal Revenue Code of 1986 for the period beginning on January 1, 2015, and ending on December 31, 2015, such credit shall be allowed, and any refund or payment attributable to such credit (including any payment under section 6427(e) of such Code) shall be made, only in such manner as the Secretary of the Treasury (or the Secretary’s delegate) shall provide. Such Secretary shall issue guidance within 30 days after the date of the enactment of this Act \[Dec. 18, 2015\] providing for a one-time submission of claims covering periods described in the preceding sentence. Such guidance shall provide for a 180-day period for the submission of such claims (in such manner as prescribed by such Secretary) to begin not later than 30 days after such guidance is issued. Such claims shall be paid by such Secretary not later than 60 days after receipt. If such Secretary has not paid pursuant to a claim filed under this subsection within 60 days after the date of the filing of such claim, the claim shall be paid with interest from such date determined by using the overpayment rate and method under section 6621 of such Code.”
+
  __Special Rule for Certain Periods During 2014__ 
 
 [Pub. L. 113–295, div. A, title I, § 160(e)][/us/pl/113/295/s160/e], Dec. 19, 2014, [128 Stat. 4023][/us/stat/128/4023], provided that: 
@@ -421,6 +459,8 @@
 [/us/stat/126/2340]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2340
 [/us/pl/113/295/s160/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs160%2Fa%2F1
 [/us/stat/128/4022]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4022
+[/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
+[/us/stat/129/3073]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3073
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
@@ -431,6 +471,9 @@
 [/us/stat/90/1834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1834
 [/us/pl/97/248/s280/c/2/G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs280%2Fc%2F2%2FG
 [/us/stat/96/564]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F564
+[/us/pl/114/113/s185/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs185%2Fb%2F1
+[/us/pl/114/113/s192/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs192%2Fa%2F1
+[/us/pl/114/113/s342/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs342%2Fa
 [/us/pl/113/295/s160/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs160%2Fa%2F1
 [/us/pl/113/295/s160/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs160%2Fc%2F1
 [/us/pl/113/295/s160/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs160%2Fb%2F1
@@ -462,6 +505,14 @@
 [/us/pl/109/59/s11113/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs11113%2Fb%2F2
 [/us/pl/109/59/s11151/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs11151%2Fe%2F2
 [/us/pl/109/59/s11113/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs11113%2Fb%2F2
+[/us/pl/114/113/s185/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs185%2Fb%2F3
+[/us/stat/129/3073]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3073
+[/us/usc/t26/s6427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6427
+[/us/pl/114/113/s192/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs192%2Fb
+[/us/stat/129/3075]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3075
+[/us/usc/t26/s6427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6427
+[/us/pl/114/113/s342/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs342%2Fb
+[/us/stat/129/3114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3114
 [/us/pl/113/295/s160/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs160%2Fd
 [/us/stat/128/4022]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4022
 [/us/usc/t26/s6427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6427
@@ -513,6 +564,10 @@
 [/us/usc/t26/s38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs38
 [/us/pl/108/357/s301/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs301%2Fd%2F1
 [/us/usc/t26/s40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs40
+[/us/pl/114/113/s185/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs185%2Fb%2F4
+[/us/stat/129/3073]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3073
+[/us/pl/114/113/s192/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs192%2Fc
+[/us/stat/129/3075]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3075
 [/us/pl/113/295/s160/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs160%2Fe
 [/us/stat/128/4023]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4023
 [/us/pl/111/312/s701/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F312%2Fs701%2Fc

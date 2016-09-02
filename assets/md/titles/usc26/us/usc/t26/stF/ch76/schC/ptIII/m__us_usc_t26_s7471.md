@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../../..//us/usc/t26/stF/ch76/schC/ptIII/m__us_usc_t26_stF_ch76_schC_ptIII.md) | [Next](./../../../../../../..//us/usc/t26/stF/ch76/schC/ptIII/m__us_usc_t26_s7472.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs7471)
+[Previous](./../../../../../../..//us/usc/t26/stF/ch76/schC/ptIII/m__us_usc_t26_s7470A.md) | [Next](./../../../../../../..//us/usc/t26/stF/ch76/schC/ptIII/m__us_usc_t26_s7472.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs7471)
 
 ## § 7471. Employees
 
@@ -137,7 +137,7 @@
 
 ----------
 
-[Previous](./../../../../../../..//us/usc/t26/stF/ch76/schC/ptIII/m__us_usc_t26_stF_ch76_schC_ptIII.md) | [Next](./../../../../../../..//us/usc/t26/stF/ch76/schC/ptIII/m__us_usc_t26_s7472.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs7471)
+[Previous](./../../../../../../..//us/usc/t26/stF/ch76/schC/ptIII/m__us_usc_t26_s7470A.md) | [Next](./../../../../../../..//us/usc/t26/stF/ch76/schC/ptIII/m__us_usc_t26_s7472.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs7471)
 
 ----------
 ----------

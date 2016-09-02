@@ -61,15 +61,17 @@
 
     (g) __Termination__ 
 
-        This section shall not apply to property placed in service after December 31, 2014.
+        This section shall not apply to property placed in service after December 31, 2016.
 
-(Added [Pub. L. 109–432, div. A, title IV, § 404(a)][/us/pl/109/432/s404/a], Dec. 20, 2006, [120 Stat. 2955][/us/stat/120/2955]; amended [Pub. L. 110–343, div. C, title III, § 311][/us/pl/110/343/s311], Oct. 3, 2008, [122 Stat. 3869][/us/stat/122/3869]; [Pub. L. 111–312, title VII, § 743(a)][/us/pl/111/312/s743/a], Dec. 17, 2010, [124 Stat. 3319][/us/stat/124/3319]; [Pub. L. 112–240, title III, § 316(a)][/us/pl/112/240/s316/a], Jan. 2, 2013, [126 Stat. 2331][/us/stat/126/2331]; [Pub. L. 113–295, div. A, title I, § 128(a)][/us/pl/113/295/s128/a], Dec. 19, 2014, [128 Stat. 4018][/us/stat/128/4018].)
+(Added [Pub. L. 109–432, div. A, title IV, § 404(a)][/us/pl/109/432/s404/a], Dec. 20, 2006, [120 Stat. 2955][/us/stat/120/2955]; amended [Pub. L. 110–343, div. C, title III, § 311][/us/pl/110/343/s311], Oct. 3, 2008, [122 Stat. 3869][/us/stat/122/3869]; [Pub. L. 111–312, title VII, § 743(a)][/us/pl/111/312/s743/a], Dec. 17, 2010, [124 Stat. 3319][/us/stat/124/3319]; [Pub. L. 112–240, title III, § 316(a)][/us/pl/112/240/s316/a], Jan. 2, 2013, [126 Stat. 2331][/us/stat/126/2331]; [Pub. L. 113–295, div. A, title I, § 128(a)][/us/pl/113/295/s128/a], Dec. 19, 2014, [128 Stat. 4018][/us/stat/128/4018]; [Pub. L. 114–113, div. Q, title I, § 168(a)][/us/pl/114/113/s168/a], Dec. 18, 2015, [129 Stat. 3067][/us/stat/129/3067].)
 
  __References in Text__ 
 
     The date of the enactment of this section, referred to in subsec. (c)(2), is the date of enactment of [Pub. L. 109–432][/us/pl/109/432], which was approved Dec. 20, 2006.
 
  __Amendments__ 
+
+    2015—Subsec. (g). [Pub. L. 114–113][/us/pl/114/113] substituted “December 31, 2016” for “December 31, 2014”.
 
     2014—Subsec. (g). [Pub. L. 113–295][/us/pl/113/295] substituted “December 31, 2014” for “December 31, 2013”.
 
@@ -78,6 +80,12 @@
     2010—Subsec. (g). [Pub. L. 111–312][/us/pl/111/312] substituted “December 31, 2011” for “December 31, 2009”.
 
     2008—Subsec. (g). [Pub. L. 110–343][/us/pl/110/343] substituted “December 31, 2009” for “December 31, 2008”.
+
+ __Effective Date of 2015 Amendment__ 
+
+[Pub. L. 114–113, div. Q, title I, § 168(b)][/us/pl/114/113/s168/b], Dec. 18, 2015, [129 Stat. 3067][/us/stat/129/3067], provided that: 
+
+> “The amendment made by this section \[amending this section\] shall apply to property placed in service after December 31, 2014.”
 
  __Effective Date of 2014 Amendment__ 
 
@@ -120,11 +128,16 @@
 [/us/stat/126/2331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2331
 [/us/pl/113/295/s128/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs128%2Fa
 [/us/stat/128/4018]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4018
+[/us/pl/114/113/s168/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs168%2Fa
+[/us/stat/129/3067]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3067
 [/us/pl/109/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432
+[/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
 [/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
 [/us/pl/112/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240
 [/us/pl/111/312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F312
 [/us/pl/110/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343
+[/us/pl/114/113/s168/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs168%2Fb
+[/us/stat/129/3067]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3067
 [/us/pl/113/295/s128/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs128%2Fb
 [/us/stat/128/4018]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4018
 [/us/pl/112/240/s316/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs316%2Fb

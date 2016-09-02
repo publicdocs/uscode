@@ -35,7 +35,13 @@
 
     (c) __Preferential dividends__ 
 
-        Except in the case of a publicly offered regulated investment company (as defined in section 67(c)(2)(B)), the amount of any distribution shall not be considered as a dividend for purposes of computing the dividends paid deduction, unless such distribution is pro rata, with no preference to any share of stock as compared with other shares of the same class, and with no preference to one class of stock as compared with another class except to the extent that the former is entitled (without reference to waivers of their rights by shareholders) to such preference. In the case of a distribution by a regulated investment company (other than a publicly offered regulated investment company (as so defined)) to a shareholder who made an initial investment of at least $10,000,000 in such company, such distribution shall not be treated as not being pro rata or as being preferential solely by reason of an increase in the distribution by reason of reductions in administrative expenses of the company.
+        (1) __In general__ 
+
+            Except in the case of a publicly offered regulated investment company (as defined in section 67(c)(2)(B)) or a publicly offered REIT, the amount of any distribution shall not be considered as a dividend for purposes of computing the dividends paid deduction, unless such distribution is pro rata, with no preference to any share of stock as compared with other shares of the same class, and with no preference to one class of stock as compared with another class except to the extent that the former is entitled (without reference to waivers of their rights by shareholders) to such preference. In the case of a distribution by a regulated investment company (other than a publicly offered regulated investment company (as so defined)) to a shareholder who made an initial investment of at least $10,000,000 in such company, such distribution shall not be treated as not being pro rata or as being preferential solely by reason of an increase in the distribution by reason of reductions in administrative expenses of the company.
+
+        (2) __Publicly offered reit__ 
+
+            For purposes of this subsection, the term “publicly offered REIT” means a real estate investment trust which is required to file annual and periodic reports with the Securities and Exchange Commission under the Securities Exchange Act of 1934.
 
     (d) __Distributions by a member of an affiliated group__ 
 
@@ -43,11 +49,35 @@
 
     (e) __Special rules for real estate investment trusts__ 
 
-        In the case of a real estate investment trust, in determining the amount of dividends under section 316 for purposes of computing the dividends paid deduction, the earnings and profits of such trust for any taxable year beginning after December 31, 1980, shall be increased by the total amount of gain (if any) on the sale or exchange of real property by such trust during such taxable year.
+        (1) __Determination of earnings and profits for purposes of dividends paid deduction__ 
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 198][/us/stat/68A/198]; [Pub. L. 88–272, title II, § 225(f)(3)][/us/pl/88/272/s225/f/3], Feb. 26, 1964, [78 Stat. 88][/us/stat/78/88]; [Pub. L. 97–248, title II, § 222(e)(7)][/us/pl/97/248/s222/e/7], Sept. 3, 1982, [96 Stat. 480][/us/stat/96/480]; [Pub. L. 97–448, title I, § 102(c)(2)][/us/pl/97/448/s102/c/2], Jan. 12, 1983, [96 Stat. 2370][/us/stat/96/2370]; [Pub. L. 99–514, title VI, § 657(a)][/us/pl/99/514/s657/a], title XVIII, § 1804(d)(1), Oct. 22, 1986, [100 Stat. 2299][/us/stat/100/2299], 2800; [Pub. L. 108–357, title IV, § 413(c)(9)][/us/pl/108/357/s413/c/9], Oct. 22, 2004, [118 Stat. 1507][/us/stat/118/1507]; [Pub. L. 111–325, title III, § 307(a)][/us/pl/111/325/s307/a], (b), Dec. 22, 2010, [124 Stat. 3550][/us/stat/124/3550].)
+        In the case of a real estate investment trust, in determining the amount of dividends under section 316 for purposes of computing the dividends paid deduction—
+
+            (A) the earnings and profits of such trust for any taxable year (but not its accumulated earnings) shall be increased by the amount of gain (if any) on the sale or exchange of real property which is taken into account in determining the taxable income of such trust for such taxable year (and not otherwise taken into account in determining such earnings and profits), and
+
+            (B) section 857(d)(1) shall be applied without regard to subparagraph (B) thereof.
+
+        (2) __Authority to provide alternative remedies for certain failures__ 
+
+        In the case of a failure of a distribution by a real estate investment trust to comply with the requirements of subsection (c), the Secretary may provide an appropriate remedy to cure such failure in lieu of not considering the distribution to be a dividend for purposes of computing the dividends paid deduction if—
+
+            (A) the Secretary determines that such failure is inadvertent or is due to reasonable cause and not due to willful neglect, or
+
+            (B) such failure is of a type of failure which the Secretary has identified for purposes of this paragraph as being described in subparagraph (A).
+
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 198][/us/stat/68A/198]; [Pub. L. 88–272, title II, § 225(f)(3)][/us/pl/88/272/s225/f/3], Feb. 26, 1964, [78 Stat. 88][/us/stat/78/88]; [Pub. L. 97–248, title II, § 222(e)(7)][/us/pl/97/248/s222/e/7], Sept. 3, 1982, [96 Stat. 480][/us/stat/96/480]; [Pub. L. 97–448, title I, § 102(c)(2)][/us/pl/97/448/s102/c/2], Jan. 12, 1983, [96 Stat. 2370][/us/stat/96/2370]; [Pub. L. 99–514, title VI, § 657(a)][/us/pl/99/514/s657/a], title XVIII, § 1804(d)(1), Oct. 22, 1986, [100 Stat. 2299][/us/stat/100/2299], 2800; [Pub. L. 108–357, title IV, § 413(c)(9)][/us/pl/108/357/s413/c/9], Oct. 22, 2004, [118 Stat. 1507][/us/stat/118/1507]; [Pub. L. 111–325, title III, § 307(a)][/us/pl/111/325/s307/a], (b), Dec. 22, 2010, [124 Stat. 3550][/us/stat/124/3550]; [Pub. L. 114–113, div. Q, title III][/us/pl/114/113], §§ 314(a), (b), 315(a), 320(b), Dec. 18, 2015, [129 Stat. 3093][/us/stat/129/3093], 3097.)
+
+ __References in Text__ 
+
+    The Securities Exchange Act of 1934, referred to in subsec. (c)(2), is [act June 6, 1934, ch. 404][/us/act/1934-06-06/ch404], [48 Stat. 881][/us/stat/48/881], which is classified principally to chapter 2B (§ 78a et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see [section 78a of Title 15][/us/usc/t15/s78a] and Tables.
 
  __Amendments__ 
+
+    2015—Subsec. (c). [Pub. L. 114–113, § 314(a)][/us/pl/114/113/s314/a], (b), designated existing provisions as par. (1), inserted heading and “or a publicly offered REIT” after “a publicly offered regulated investment company (as defined in section 67(c)(2)(B))” in text, and added par. (2).
+
+    Subsec. (e). [Pub. L. 114–113, § 315(a)][/us/pl/114/113/s315/a], designated existing provisions as par. (1), inserted heading, and added par. (2).
+
+    Subsec. (e)(1). [Pub. L. 114–113, § 320(b)][/us/pl/114/113/s320/b], substituted “deduction—” for “deduction, the earnings and profits of such trust for any taxable year beginning after December 31, 1980, shall be increased by the total amount of gain (if any) on the sale or exchange of real property by such trust during such taxable year.” in introductory provisions and added subpars. (A) and (B).
 
     2010—Subsec. (c). [Pub. L. 111–325][/us/pl/111/325] substituted “Except in the case of a publicly offered regulated investment company (as defined in section 67(c)(2)(B)), the amount” for “The amount” in first sentence and inserted “(other than a publicly offered regulated investment company (as so defined))” after “regulated investment company” in second sentence.
 
@@ -62,6 +92,20 @@
     1982—Subsec. (b)(1). [Pub. L. 97–248][/us/pl/97/248] inserted sentence at end providing that, for purposes of subpar. (A), a liquidation includes a redemption of stock to which section 302 applies.
 
     1964—Subsec. (b). [Pub. L. 88–272][/us/pl/88/272] designated existing provisions as subpars. (A) and (B) of par. (1), excepted personal holding companies in section 542, and foreign personal holding companies in section 552 therefrom, and added par. (2).
+
+ __Effective Date of 2015 Amendment__ 
+
+[Pub. L. 114–113, div. Q, title III, § 314(c)][/us/pl/114/113/s314/c], Dec. 18, 2015, [129 Stat. 3093][/us/stat/129/3093], provided that: 
+
+> “The amendments made by this section \[amending this section\] shall apply to distributions in taxable years beginning after December 31, 2014.”
+
+[Pub. L. 114–113, div. Q, title III, § 315(b)][/us/pl/114/113/s315/b], Dec. 18, 2015, [129 Stat. 3093][/us/stat/129/3093], provided that: 
+
+> “The amendments made by this section \[amending this section\] shall apply to distributions in taxable years beginning after December 31, 2015.”
+
+[Pub. L. 114–113, div. Q, title III, § 320(c)][/us/pl/114/113/s320/c], Dec. 18, 2015, [129 Stat. 3097][/us/stat/129/3097], provided that: 
+
+> “The amendments made by this section \[amending this section and [section 857 of this title][/us/usc/t26/s857]\] shall apply to taxable years beginning after December 31, 2015.”
 
  __Effective Date of 2010 Amendment__ 
 
@@ -120,6 +164,14 @@
 [/us/stat/118/1507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1507
 [/us/pl/111/325/s307/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F325%2Fs307%2Fa
 [/us/stat/124/3550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3550
+[/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
+[/us/stat/129/3093]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3093
+[/us/act/1934-06-06/ch404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-06%2Fch404
+[/us/stat/48/881]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F881
+[/us/usc/t15/s78a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78a
+[/us/pl/114/113/s314/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs314%2Fa
+[/us/pl/114/113/s315/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs315%2Fa
+[/us/pl/114/113/s320/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs320%2Fb
 [/us/pl/111/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F325
 [/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
 [/us/pl/99/514/s1804/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1804%2Fd%2F1
@@ -127,6 +179,13 @@
 [/us/pl/97/448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F448
 [/us/pl/97/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248
 [/us/pl/88/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F272
+[/us/pl/114/113/s314/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs314%2Fc
+[/us/stat/129/3093]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3093
+[/us/pl/114/113/s315/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs315%2Fb
+[/us/stat/129/3093]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3093
+[/us/pl/114/113/s320/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs320%2Fc
+[/us/stat/129/3097]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3097
+[/us/usc/t26/s857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs857
 [/us/pl/111/325/s307/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F325%2Fs307%2Fc
 [/us/stat/124/3550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3550
 [/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357

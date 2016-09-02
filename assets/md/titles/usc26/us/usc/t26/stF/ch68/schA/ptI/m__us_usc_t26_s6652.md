@@ -107,11 +107,21 @@
 
                 Any term used in this section which is also used in section 4965 shall have the meaning given such term under section 4965.
 
-        (4) __Reasonable cause exception__ 
+        (4) __Notices under section 506__ 
+
+            (A) __Penalty on organization__ 
+
+                In the case of a failure to submit a notice required under section 506(a) (relating to organizations required to notify Secretary of intent to operate as 501(c)(4)) on the date and in the manner prescribed therefor, there shall be paid by the organization failing to so submit $20 for each day during which such failure continues, but the total amount imposed under this subparagraph on any organization for failure to submit any one notice shall not exceed $5,000.
+
+            (B) __Managers__ 
+
+                The Secretary may make written demand on an organization subject to penalty under subparagraph (A) specifying in such demand a reasonable future date by which the notice shall be submitted for purposes of this subparagraph. If such notice is not submitted on or before such date, there shall be paid by the person failing to so submit $20 for each day after the expiration of the time specified in the written demand during which such failure continues, but the total amount imposed under this subparagraph on all persons for failure to submit any one notice shall not exceed $5,000.
+
+        (5) __Reasonable cause exception__ 
 
             No penalty shall be imposed under this subsection with respect to any failure if it is shown that such failure is due to reasonable cause.
 
-        (5) __Other special rules__ 
+        (6) __Other special rules__ 
 
             (A) __Treatment as tax__ 
 
@@ -125,7 +135,7 @@
 
                 For purposes of this subsection, the term “person” means any officer, director, trustee, employee, or other individual who is under a duty to perform the act in respect of which the violation occurs.
 
-        (6) __Adjustment for inflation__ 
+        (7) __Adjustment for inflation__ 
 
             (A) __In general__ 
 
@@ -203,7 +213,11 @@
 
         In the case of a failure to make a report required under section 3511, 6053(c)(8), or 7705 which contains the information required by such section on the date prescribed therefor (determined with regard to any extension of time for filing), there shall be paid (on notice and demand by the Secretary and in the same manner as tax) by the person failing to make such report, an amount equal to $50 for each report with respect to which there was such a failure. In the case of any failure due to negligence or intentional disregard the preceding sentence shall be applied by substituting “$100” for “$50”.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 821][/us/stat/68A/821]; [Pub. L. 85–866, title I, § 85][/us/pl/85/866/s85], Sept. 2, 1958, [72 Stat. 1664][/us/stat/72/1664]; [Pub. L. 87–834, § 19(d)][/us/pl/87/834/s19/d], Oct. 16, 1962, [76 Stat. 1057][/us/stat/76/1057]; [Pub. L. 88–272, title II, § 221(b)(2)][/us/pl/88/272/s221/b/2], Feb. 26, 1964, [78 Stat. 74][/us/stat/78/74]; [Pub. L. 89–97, title III, § 313(e)(2)(B)][/us/pl/89/97/s313/e/2/B], (3), July 30, 1965, [79 Stat. 385][/us/stat/79/385]; [Pub. L. 89–212, § 2(e)][/us/pl/89/212/s2/e], Sept. 29, 1965, [79 Stat. 859][/us/stat/79/859]; [Pub. L. 91–172, title I, § 101(d)(4)][/us/pl/91/172/s101/d/4], Dec. 30, 1969, [83 Stat. 522][/us/stat/83/522]; [Pub. L. 93–406, title II, § 1031(b)(1)(A)][/us/pl/93/406/s1031/b/1/A], (B)(i), Sept. 2, 1974, [88 Stat. 945][/us/stat/88/945], 946; [Pub. L. 94–455, title XII, § 1207(e)(3)(B)][/us/pl/94/455/s1207/e/3/B], (C), title XIX, § 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1708][/us/stat/90/1708], 1834; [Pub. L. 96–167, § 7(b)(1)][/us/pl/96/167/s7/b/1], Dec. 29, 1979, [93 Stat. 1277][/us/stat/93/1277]; [Pub. L. 96–223, title I, § 101(d)(2)(A)][/us/pl/96/223/s101/d/2/A], Apr. 2, 1980, [94 Stat. 251][/us/stat/94/251]; [Pub. L. 96–499, title XI, § 1123(b)][/us/pl/96/499/s1123/b], Dec. 5, 1980, [94 Stat. 2689][/us/stat/94/2689]; [Pub. L. 96–603, § 1(d)(2)][/us/pl/96/603/s1/d/2], Dec. 28, 1980, [94 Stat. 3504][/us/stat/94/3504]; [Pub. L. 97–34, title III, § 311(f)][/us/pl/97/34/s311/f], title VII, § 723(a)(1), (3), (4), Aug. 13, 1981, [95 Stat. 281][/us/stat/95/281], 343, 344; [Pub. L. 97–248, title III][/us/pl/97/248], §§ 309(b)(2), 315(a), (b), Sept. 3, 1982, [96 Stat. 595][/us/stat/96/595], 605, 606; [Pub. L. 97–448, title II, § 201(i)(2)][/us/pl/97/448/s201/i/2], Jan. 12, 1983, [96 Stat. 2395][/us/stat/96/2395]; [Pub. L. 98–67, title I, § 105(b)(1)][/us/pl/98/67/s105/b/1], Aug. 5, 1983, [97 Stat. 380][/us/stat/97/380]; [Pub. L. 98–369, div. A, title I][/us/pl/98/369], §§ 145(b)(1), (2), 146(b)(1), (2), 148(b)(1), (2), 149(b)(1), 155(b)(2)(A), title IV, § 491(d)(50), title V, § 531(b)(4)(B), title VII, § 714(j)(3), July 18, 1984, [98 Stat. 685][/us/stat/98/685], 686, 688, 689, 693, 852, 882, 963; [Pub. L. 98–397, title II, § 207(b)][/us/pl/98/397/s207/b], Aug. 23, 1984, [98 Stat. 1450][/us/stat/98/1450]; [Pub. L. 98–611, § 1(d)(2)][/us/pl/98/611/s1/d/2], Oct. 31, 1984, [98 Stat. 3177][/us/stat/98/3177]; [Pub. L. 98–612, § 1(b)(2)][/us/pl/98/612/s1/b/2], Oct. 31, 1984, [98 Stat. 3181][/us/stat/98/3181]; [Pub. L. 99–514, title XI, § 1151(b)][/us/pl/99/514/s1151/b], title XIII, § 1301(g), title XV, § 1501(d)(1)(A), title XVII, § 1702(b), title XVIII, §§ 1810(f)(9), 1811(c)(2), Oct. 22, 1986, [100 Stat. 2502][/us/stat/100/2502], 2656, 2740, 2774, 2828, 2833; [Pub. L. 100–203, title X][/us/pl/100/203], §§ 10502(d)(11), 10704(a), Dec. 22, 1987, [101 Stat. 1330–444][/us/stat/101/1330-444], 1330–461; [Pub. L. 100–647, title I][/us/pl/100/647], §§ 1011B(a)(10), 1017(b), 1018(u)(36), title III, § 3021(a)(10), Nov. 10, 1988, [102 Stat. 3484][/us/stat/102/3484], 3575, 3592, 3630; [Pub. L. 101–140, title II, § 203(a)(1)][/us/pl/101/140/s203/a/1], Nov. 8, 1989, [103 Stat. 830][/us/stat/103/830]; [Pub. L. 101–239, title VII][/us/pl/101/239], §§ 7208(b)(2), 7841(d)(5), Dec. 19, 1989, [103 Stat. 2338][/us/stat/103/2338], 2428; [Pub. L. 102–318, title V, § 522(b)(2)(F)][/us/pl/102/318/s522/b/2/F], July 3, 1992, [106 Stat. 314][/us/stat/106/314]; [Pub. L. 103–66, title XIII, § 13113(c)][/us/pl/103/66/s13113/c], Aug. 10, 1993, [107 Stat. 429][/us/stat/107/429]; [Pub. L. 104–168, title XIII][/us/pl/104/168], §§ 1314(a), (b), July 30, 1996, [110 Stat. 1480][/us/stat/110/1480]; [Pub. L. 104–188, title I][/us/pl/104/188], §§ 1455(c), (d)(2), 1704(s), Aug. 20, 1996, [110 Stat. 1818][/us/stat/110/1818], 1887; [Pub. L. 105–34, title XII, § 1281(a)][/us/pl/105/34/s1281/a], (b), title XVI, § 1602(d)(2)(B), Aug. 5, 1997, [111 Stat. 1037][/us/stat/111/1037], 1094; [Pub. L. 105–277, div. J, title I, § 1004(b)(2)(B)][/us/pl/105/277/s1004/b/2/B], (C), Oct. 21, 1998, [112 Stat. 2681–890][/us/stat/112/2681-890]; [Pub. L. 106–230][/us/pl/106/230], §§ 1(c), 2(c), 3(c), July 1, 2000, [114 Stat. 479][/us/stat/114/479], 482, 483; [Pub. L. 109–222, title V, § 516(c)][/us/pl/109/222/s516/c], May 17, 2006, [120 Stat. 371][/us/stat/120/371]; [Pub. L. 109–280, title XII][/us/pl/109/280], §§ 1201(b)(2), 1223(d), Aug. 17, 2006, [120 Stat. 1065][/us/stat/120/1065], 1091; [Pub. L. 113–295, div. A, title II, § 221(a)(39)(B)][/us/pl/113/295/s221/a/39/B], div. B, title II, §§ 206(c)(4), 208(b), Dec. 19, 2014, [128 Stat. 4043][/us/stat/128/4043], 4071, 4072.)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 821][/us/stat/68A/821]; [Pub. L. 85–866, title I, § 85][/us/pl/85/866/s85], Sept. 2, 1958, [72 Stat. 1664][/us/stat/72/1664]; [Pub. L. 87–834, § 19(d)][/us/pl/87/834/s19/d], Oct. 16, 1962, [76 Stat. 1057][/us/stat/76/1057]; [Pub. L. 88–272, title II, § 221(b)(2)][/us/pl/88/272/s221/b/2], Feb. 26, 1964, [78 Stat. 74][/us/stat/78/74]; [Pub. L. 89–97, title III, § 313(e)(2)(B)][/us/pl/89/97/s313/e/2/B], (3), July 30, 1965, [79 Stat. 385][/us/stat/79/385]; [Pub. L. 89–212, § 2(e)][/us/pl/89/212/s2/e], Sept. 29, 1965, [79 Stat. 859][/us/stat/79/859]; [Pub. L. 91–172, title I, § 101(d)(4)][/us/pl/91/172/s101/d/4], Dec. 30, 1969, [83 Stat. 522][/us/stat/83/522]; [Pub. L. 93–406, title II, § 1031(b)(1)(A)][/us/pl/93/406/s1031/b/1/A], (B)(i), Sept. 2, 1974, [88 Stat. 945][/us/stat/88/945], 946; [Pub. L. 94–455, title XII, § 1207(e)(3)(B)][/us/pl/94/455/s1207/e/3/B], (C), title XIX, § 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1708][/us/stat/90/1708], 1834; [Pub. L. 96–167, § 7(b)(1)][/us/pl/96/167/s7/b/1], Dec. 29, 1979, [93 Stat. 1277][/us/stat/93/1277]; [Pub. L. 96–223, title I, § 101(d)(2)(A)][/us/pl/96/223/s101/d/2/A], Apr. 2, 1980, [94 Stat. 251][/us/stat/94/251]; [Pub. L. 96–499, title XI, § 1123(b)][/us/pl/96/499/s1123/b], Dec. 5, 1980, [94 Stat. 2689][/us/stat/94/2689]; [Pub. L. 96–603, § 1(d)(2)][/us/pl/96/603/s1/d/2], Dec. 28, 1980, [94 Stat. 3504][/us/stat/94/3504]; [Pub. L. 97–34, title III, § 311(f)][/us/pl/97/34/s311/f], title VII, § 723(a)(1), (3), (4), Aug. 13, 1981, [95 Stat. 281][/us/stat/95/281], 343, 344; [Pub. L. 97–248, title III][/us/pl/97/248], §§ 309(b)(2), 315(a), (b), Sept. 3, 1982, [96 Stat. 595][/us/stat/96/595], 605, 606; [Pub. L. 97–448, title II, § 201(i)(2)][/us/pl/97/448/s201/i/2], Jan. 12, 1983, [96 Stat. 2395][/us/stat/96/2395]; [Pub. L. 98–67, title I, § 105(b)(1)][/us/pl/98/67/s105/b/1], Aug. 5, 1983, [97 Stat. 380][/us/stat/97/380]; [Pub. L. 98–369, div. A, title I][/us/pl/98/369], §§ 145(b)(1), (2), 146(b)(1), (2), 148(b)(1), (2), 149(b)(1), 155(b)(2)(A), title IV, § 491(d)(50), title V, § 531(b)(4)(B), title VII, § 714(j)(3), July 18, 1984, [98 Stat. 685][/us/stat/98/685], 686, 688, 689, 693, 852, 882, 963; [Pub. L. 98–397, title II, § 207(b)][/us/pl/98/397/s207/b], Aug. 23, 1984, [98 Stat. 1450][/us/stat/98/1450]; [Pub. L. 98–611, § 1(d)(2)][/us/pl/98/611/s1/d/2], Oct. 31, 1984, [98 Stat. 3177][/us/stat/98/3177]; [Pub. L. 98–612, § 1(b)(2)][/us/pl/98/612/s1/b/2], Oct. 31, 1984, [98 Stat. 3181][/us/stat/98/3181]; [Pub. L. 99–514, title XI, § 1151(b)][/us/pl/99/514/s1151/b], title XIII, § 1301(g), title XV, § 1501(d)(1)(A), title XVII, § 1702(b), title XVIII, §§ 1810(f)(9), 1811(c)(2), Oct. 22, 1986, [100 Stat. 2502][/us/stat/100/2502], 2656, 2740, 2774, 2828, 2833; [Pub. L. 100–203, title X][/us/pl/100/203], §§ 10502(d)(11), 10704(a), Dec. 22, 1987, [101 Stat. 1330–444][/us/stat/101/1330-444], 1330–461; [Pub. L. 100–647, title I][/us/pl/100/647], §§ 1011B(a)(10), 1017(b), 1018(u)(36), title III, § 3021(a)(10), Nov. 10, 1988, [102 Stat. 3484][/us/stat/102/3484], 3575, 3592, 3630; [Pub. L. 101–140, title II, § 203(a)(1)][/us/pl/101/140/s203/a/1], Nov. 8, 1989, [103 Stat. 830][/us/stat/103/830]; [Pub. L. 101–239, title VII][/us/pl/101/239], §§ 7208(b)(2), 7841(d)(5), Dec. 19, 1989, [103 Stat. 2338][/us/stat/103/2338], 2428; [Pub. L. 102–318, title V, § 522(b)(2)(F)][/us/pl/102/318/s522/b/2/F], July 3, 1992, [106 Stat. 314][/us/stat/106/314]; [Pub. L. 103–66, title XIII, § 13113(c)][/us/pl/103/66/s13113/c], Aug. 10, 1993, [107 Stat. 429][/us/stat/107/429]; [Pub. L. 104–168, title XIII][/us/pl/104/168], §§ 1314(a), (b), July 30, 1996, [110 Stat. 1480][/us/stat/110/1480]; [Pub. L. 104–188, title I][/us/pl/104/188], §§ 1455(c), (d)(2), 1704(s), Aug. 20, 1996, [110 Stat. 1818][/us/stat/110/1818], 1887; [Pub. L. 105–34, title XII, § 1281(a)][/us/pl/105/34/s1281/a], (b), title XVI, § 1602(d)(2)(B), Aug. 5, 1997, [111 Stat. 1037][/us/stat/111/1037], 1094; [Pub. L. 105–277, div. J, title I, § 1004(b)(2)(B)][/us/pl/105/277/s1004/b/2/B], (C), Oct. 21, 1998, [112 Stat. 2681–890][/us/stat/112/2681-890]; [Pub. L. 106–230][/us/pl/106/230], §§ 1(c), 2(c), 3(c), July 1, 2000, [114 Stat. 479][/us/stat/114/479], 482, 483; [Pub. L. 109–222, title V, § 516(c)][/us/pl/109/222/s516/c], May 17, 2006, [120 Stat. 371][/us/stat/120/371]; [Pub. L. 109–280, title XII][/us/pl/109/280], §§ 1201(b)(2), 1223(d), Aug. 17, 2006, [120 Stat. 1065][/us/stat/120/1065], 1091; [Pub. L. 113–295, div. A, title II, § 221(a)(39)(B)][/us/pl/113/295/s221/a/39/B], div. B, title II, §§ 206(c)(4), 208(b), Dec. 19, 2014, [128 Stat. 4043][/us/stat/128/4043], 4071, 4072; [Pub. L. 114–113, div. Q, title IV, § 405(c)][/us/pl/114/113/s405/c], Dec. 18, 2015, [129 Stat. 3119][/us/stat/129/3119].)
+
+ __Inflation Adjusted Items for Certain Years__ 
+
+    For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table under [section 1 of this title][/us/usc/t26/s1].
 
  __Codification__ 
 
@@ -212,6 +226,8 @@
     [Pub. L. 101–140, § 203(a)(1)][/us/pl/101/140/s203/a/1], amended this section to read as if the amendments made by [section 1151(b) of Pub. L. 99–514][/us/pl/99/514/s1151/b] (enacting subsec. (l)) had not been enacted. Subsequent to enactment by [Pub. L. 99–514][/us/pl/99/514], subsec. (l) was amended by [Pub. L. 100–203][/us/pl/100/203], [Pub. L. 100–647][/us/pl/100/647], and [Pub. L. 101–239][/us/pl/101/239]. See 1989, 1988, and 1987 Amendment notes below.
 
  __Amendments__ 
+
+    2015—Subsec. (c)(4) to (7). [Pub. L. 114–113][/us/pl/114/113] added par. (4) and redesignated former pars. (4) to (6) as (5) to (7), respectively.
 
     2014—Subsec. (c)(1)(A). [Pub. L. 113–295, § 208(b)(2)(A)][/us/pl/113/295/s208/b/2/A], substituted “in applying the first sentence of this subparagraph, the amount of the penalty for each day during which a failure continues shall be $100 in lieu of the amount otherwise specified, and” for “the first sentence of this subparagraph shall be applied by substituting ‘$100’ for ‘$20’ and”.
 
@@ -408,6 +424,10 @@
     Subsec. (c). [Pub. L. 87–834][/us/pl/87/834] redesignated former subsec. (b) as (c).
 
     1958—Subsec. (a). [Pub. L. 85–866][/us/pl/85/866] substituted “section 6042(1)” for “section 6042” and “(upon notice and demand by the Secretary or his delegate and in the same manner as tax), by the person failing to so file the statement, $1 for each such statement not so filed” for “by the person failing to file the statement, upon notice and demand by the Secretary or his delegate and in the same manner as tax, $1 for each such statement not filed”, deleted “section 6045 (relating to returns of brokers)” after “patronage dividends)” and inserted “on the date prescribed therefor (determined with regard to any extension of time for filing)” after “income tax withheld),”.
+
+ __Effective Date of 2015 Amendment__ 
+
+    Amendment by [Pub. L. 114–113][/us/pl/114/113] applicable to organizations which are described in [section 501(c)(4) of this title][/us/usc/t26/s501/c/4] and organized after Dec. 18, 2015, and to certain then-existing organizations, see [section 405(f) of Pub. L. 114–113][/us/pl/114/113/s405/f], set out as an Effective Date note under [section 506 of this title][/us/usc/t26/s506].
 
  __Effective Date of 2014 Amendment__ 
 
@@ -714,6 +734,9 @@
 [/us/stat/120/1065]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1065
 [/us/pl/113/295/s221/a/39/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F39%2FB
 [/us/stat/128/4043]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4043
+[/us/pl/114/113/s405/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs405%2Fc
+[/us/stat/129/3119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3119
+[/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
 [/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
 [/us/pl/101/140/s203/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F140%2Fs203%2Fa%2F1
 [/us/pl/99/514/s1151/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1151%2Fb
@@ -721,6 +744,7 @@
 [/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203
 [/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
 [/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
+[/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
 [/us/pl/113/295/s208/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs208%2Fb%2F2%2FA
 [/us/pl/113/295/s208/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs208%2Fb%2F2%2FB
 [/us/pl/113/295/s208/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs208%2Fb%2F1
@@ -828,6 +852,10 @@
 [/us/pl/87/834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F834
 [/us/pl/87/834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F834
 [/us/pl/85/866]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F866
+[/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
+[/us/usc/t26/s501/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs501%2Fc%2F4
+[/us/pl/114/113/s405/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs405%2Ff
+[/us/usc/t26/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs506
 [/us/pl/113/295/s221/a/39/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F39%2FB
 [/us/pl/113/295/s221/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fb
 [/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1

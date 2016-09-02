@@ -137,7 +137,45 @@
 
             (B) is not described in subparagraph (A) and is not a multiple of $10, such amount shall be rounded to the next lowest multiple of $10.
 
-(Added [Pub. L. 99–514, title XV, § 1501(a)][/us/pl/99/514/s1501/a], Oct. 22, 1986, [100 Stat. 2732][/us/stat/100/2732]; amended [Pub. L. 100–690, title VII, § 7601(a)(2)(A)][/us/pl/100/690/s7601/a/2/A], Nov. 18, 1988, [102 Stat. 4503][/us/stat/102/4503]; [Pub. L. 101–239, title VII, § 7711(a)][/us/pl/101/239/s7711/a], Dec. 19, 1989, [103 Stat. 2388][/us/stat/103/2388]; [Pub. L. 101–508, title XI, § 11318(b)][/us/pl/101/508/s11318/b], Nov. 5, 1990, [104 Stat. 1388–459][/us/stat/104/1388-459]; [Pub. L. 109–280, title XII, § 1211(b)(2)][/us/pl/109/280/s1211/b/2], Aug. 17, 2006, [120 Stat. 1073][/us/stat/120/1073]; [Pub. L. 111–240, title II, § 2102(a)][/us/pl/111/240/s2102/a]–(f), Sept. 27, 2010, [124 Stat. 2561][/us/stat/124/2561], 2562; [Pub. L. 113–295, div. B, title II, § 208(f)][/us/pl/113/295/s208/f], Dec. 19, 2014, [128 Stat. 4074][/us/stat/128/4074]; [Pub. L. 114–27, title VIII, § 806(a)][/us/pl/114/27/s806/a]–(d), June 29, 2015, [129 Stat. 416][/us/stat/129/416], 417.)
+(Added [Pub. L. 99–514, title XV, § 1501(a)][/us/pl/99/514/s1501/a], Oct. 22, 1986, [100 Stat. 2732][/us/stat/100/2732]; amended [Pub. L. 100–690, title VII, § 7601(a)(2)(A)][/us/pl/100/690/s7601/a/2/A], Nov. 18, 1988, [102 Stat. 4503][/us/stat/102/4503]; [Pub. L. 101–239, title VII, § 7711(a)][/us/pl/101/239/s7711/a], Dec. 19, 1989, [103 Stat. 2388][/us/stat/103/2388]; [Pub. L. 101–508, title XI, § 11318(b)][/us/pl/101/508/s11318/b], Nov. 5, 1990, [104 Stat. 1388–459][/us/stat/104/1388-459]; [Pub. L. 109–280, title XII, § 1211(b)(2)][/us/pl/109/280/s1211/b/2], Aug. 17, 2006, [120 Stat. 1073][/us/stat/120/1073]; [Pub. L. 111–240, title II, § 2102(a)][/us/pl/111/240/s2102/a]–(f), Sept. 27, 2010, [124 Stat. 2561][/us/stat/124/2561], 2562; [Pub. L. 113–295, div. B, title II, § 208(f)][/us/pl/113/295/s208/f], Dec. 19, 2014, [128 Stat. 4074][/us/stat/128/4074]; [Pub. L. 114–27, title VIII, § 806(a)][/us/pl/114/27/s806/a]–(d), June 29, 2015, [129 Stat. 416][/us/stat/129/416], 417; [Pub. L. 114–113, div. Q, title II, § 202(a)][/us/pl/114/113/s202/a], (d), Dec. 18, 2015, [129 Stat. 3076][/us/stat/129/3076], 3077.)
+
+ __Amendment of Subsection (c)__ 
+
+    [Pub. L. 114–113, div. Q, title II, § 202(a)][/us/pl/114/113/s202/a], (d), (e), Dec. 18, 2015, [129 Stat. 3076–3078][/us/stat/129/3076-3078], provided that, applicable to returns required to be filed, and payee statements required to be provided, after Dec. 31, 2016, subsection (c) of this section is amended as follows:
+
+    (1) in the subsection heading, by striking “Exception for de minimis failures to include all required information” and inserting “Exceptions for certain de minimis failures”;
+
+    (2) in the par. (1) heading, by striking “In general” and inserting “Exception for de minimis failure to include all required information”; and
+
+    (3) by adding at the end the following new paragraph:
+
+    (3) Safe harbor for certain de minimis errors
+
+    (A) In general
+
+    If, with respect to an information return filed with the Secretary—
+
+    (i) there are 1 or more failures described in subsection (a)(2)(B) relating to an incorrect dollar amount,
+
+    (ii) no single amount in error differs from the correct amount by more than $100, and
+
+    (iii) no single amount reported for tax withheld on any information return differs from the correct amount by more than $25,
+
+    then no correction shall be required and, for purposes of this section, such return shall be treated as having been filed with all of the correct required information.
+
+    (B) Exception
+
+    Subparagraph (A) shall not apply with respect to any incorrect dollar amount to the extent that such error relates to an amount with respect to which an election is made under section 6722(c)(3)(B).
+
+    (C) Regulatory authority
+
+    The Secretary may issue regulations to prevent the abuse of the safe harbor under this paragraph, including regulations providing that this paragraph shall not apply to the extent necessary to prevent any such abuse.
+
+    See 2015 Amendment notes below.
+
+ __Inflation Adjusted Items for Certain Years__ 
+
+    For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table under [section 1 of this title][/us/usc/t26/s1].
 
  __Amendments__ 
 
@@ -150,6 +188,12 @@
     Subsec. (b)(2)(A). [Pub. L. 114–27, § 806(b)(2)(A)][/us/pl/114/27/s806/b/2/A], (B), substituted “$100” for “$60” and “$250” for “$100”.
 
     Subsec. (b)(2)(B). [Pub. L. 114–27, § 806(b)(2)(C)][/us/pl/114/27/s806/b/2/C], substituted “$1,500,000” for “$500,000”.
+
+    Subsec. (c). [Pub. L. 114–113, § 202(d)(1)][/us/pl/114/113/s202/d/1], substituted “Exceptions for certain de minimis failures” for “Exception for de minimis failures to include all required information” in heading.
+
+    Subsec. (c)(1). [Pub. L. 114–113, § 202(d)(2)][/us/pl/114/113/s202/d/2], substituted “Exception for de minimis failure to include all required information” for “In general” in heading.
+
+    Subsec. (c)(3). [Pub. L. 114–113, § 202(a)][/us/pl/114/113/s202/a], added par. (3).
 
     Subsec. (d)(1)(A). [Pub. L. 114–27, § 806(c)(1)][/us/pl/114/27/s806/c/1], substituted “$1,000,000” for “$500,000” and “$3,000,000” for “$1,500,000”.
 
@@ -196,6 +240,8 @@
     1988—Subsec. (b)(1)(A). [Pub. L. 100–690][/us/pl/100/690] inserted “(or, if greater, in the case of a return filed under section 6050I, 10 percent of the taxable income derived from the transaction)” after “reported”.
 
  __Effective Date of 2015 Amendment__ 
+
+    Amendment by [Pub. L. 114–113][/us/pl/114/113] applicable to returns required to be filed, and payee statements required to be provided, after Dec. 31, 2016, see [section 202(e) of Pub. L. 114–113][/us/pl/114/113/s202/e], set out as a note under [section 6045 of this title][/us/usc/t26/s6045].
 
 [Pub. L. 114–27, title VIII, § 806(f)][/us/pl/114/27/s806/f], June 29, 2015, [129 Stat. 418][/us/stat/129/418], provided that: 
 
@@ -258,11 +304,19 @@
 [/us/stat/128/4074]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4074
 [/us/pl/114/27/s806/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27%2Fs806%2Fa
 [/us/stat/129/416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F416
+[/us/pl/114/113/s202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs202%2Fa
+[/us/stat/129/3076]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3076
+[/us/pl/114/113/s202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs202%2Fa
+[/us/stat/129/3076-3078]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3076-3078
+[/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
 [/us/pl/114/27/s806/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27%2Fs806%2Fa
 [/us/pl/114/27/s806/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27%2Fs806%2Fb%2F1%2FA
 [/us/pl/114/27/s806/b/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27%2Fs806%2Fb%2F1%2FC
 [/us/pl/114/27/s806/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27%2Fs806%2Fb%2F2%2FA
 [/us/pl/114/27/s806/b/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27%2Fs806%2Fb%2F2%2FC
+[/us/pl/114/113/s202/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs202%2Fd%2F1
+[/us/pl/114/113/s202/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs202%2Fd%2F2
+[/us/pl/114/113/s202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs202%2Fa
 [/us/pl/114/27/s806/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27%2Fs806%2Fc%2F1
 [/us/pl/114/27/s806/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27%2Fs806%2Fc%2F2
 [/us/pl/114/27/s806/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27%2Fs806%2Fc%2F3
@@ -285,6 +339,9 @@
 [/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
 [/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
 [/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
+[/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
+[/us/pl/114/113/s202/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs202%2Fe
+[/us/usc/t26/s6045]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6045
 [/us/pl/114/27/s806/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27%2Fs806%2Ff
 [/us/stat/129/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F418
 [/us/usc/t26/s6722]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6722

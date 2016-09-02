@@ -111,9 +111,19 @@
 
   </tr>
 
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs3512" data-uslm-ref="/us/usc/t26/s3512">3512.</a>  </td>
+
+    <td> Treatment of certain persons as employers with respect to motion picture projects.  </td>
+
+  </tr>
+
 </table>
 
  __Amendments__ 
+
+    2015—[Pub. L. 114–113, div. Q, title III, § 346(b)][/us/pl/114/113/s346/b], Dec. 18, 2015, [129 Stat. 3116][/us/stat/129/3116], added item 3512.
 
     2014—[Pub. L. 113–295, div. B, title II, § 206(d)(1)][/us/pl/113/295/s206/d/1], Dec. 19, 2014, [128 Stat. 4071][/us/stat/128/4071], added item 3511.
 
@@ -144,6 +154,8 @@
 ----------
 ----------
 
+[/us/pl/114/113/s346/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs346%2Fb
+[/us/stat/129/3116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3116
 [/us/pl/113/295/s206/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs206%2Fd%2F1
 [/us/stat/128/4071]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4071
 [/us/pl/111/226/s219/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F226%2Fs219%2Fb%2F3

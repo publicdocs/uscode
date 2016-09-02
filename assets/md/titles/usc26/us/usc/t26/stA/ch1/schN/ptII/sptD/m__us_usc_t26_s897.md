@@ -57,7 +57,7 @@
 
             (A) __In general__ 
 
-            Except as provided in subparagraph (B), the term “United States real property interest” means—
+            Except as provided in subparagraph (B) or subsection (k), the term “United States real property interest” means—
 
                 (i) an interest in real property (including an interest in a mine, well, or other natural deposit) located in the United States or the Virgin Islands, and
 
@@ -73,7 +73,7 @@
 
             The term “United States real property interest” does not include any interest in a corporation if—
 
-                (i) as of the date of the disposition of such interest, such corporation did not hold any United States real property interests, and
+                (i) as of the date of the disposition of such interest, such corporation did not hold any United States real property interests,
 
                 (ii)
 
@@ -81,7 +81,9 @@
 
                     (I) were disposed of in transactions in which the full amount of the gain (if any) was recognized, or
 
-                    (II) ceased to be United States real property interests by reason of the application of this subparagraph to 1 or more other corporations.
+                    (II) ceased to be United States real property interests by reason of the application of this subparagraph to 1 or more other corporations, and
+
+                (iii) neither such corporation nor any predecessor of such corporation was a regulated investment company or a real estate investment trust at any time during the shorter of the periods described in subparagraph (A)(ii).
 
         (2) __United States real property holding corporation__ 
 
@@ -215,21 +217,15 @@
 
             In the case of a domestically controlled qualified investment entity, rules similar to the rules of subsection (d) shall apply to the foreign ownership percentage of any gain.
 
-        (4) __Definitions__ 
+        (4) __Definitions and special rules__ 
 
             (A) __Qualified investment entity__ 
 
-                (i) __In general__ 
+            The term “qualified investment entity” means—
 
-                The term “qualified investment entity” means—
+                (i) any real estate investment trust, and
 
-                    (I) any real estate investment trust, and
-
-                    (II) any regulated investment company which is a United States real property holding corporation or which would be a United States real property holding corporation if the exceptions provided in subsections (c)(3) and (h)(2) did not apply to interests in any real estate investment trust or regulated investment company.
-
-                (ii) __Termination__ 
-
-                    Clause (i)(II) shall not apply after December 31, 2014. Notwithstanding the preceding sentence, an entity described in clause (i)(II) shall be treated as a qualified investment entity for purposes of applying paragraphs (1) and (5) and section 1445 with respect to any distribution by the entity to a nonresident alien individual or a foreign corporation which is attributable directly or indirectly to a distribution to the entity from a real estate investment trust.
+                (ii) anyregulated investment company which is a United States real property holding corporation or which would be a United States real property holding corporation if the exceptions provided in subsections (c)(3) and (h)(2) did not apply to interests in any real estate investment trust and for purposes of determining whether a real estate investment trust is a domestically controlled qualified investment entity under this subsection or regulated investment company.
 
             (B) __Domestically controlled__ 
 
@@ -248,6 +244,24 @@
                 (ii) the 5-year period ending on the date of the disposition or of the distribution, as the case may be, or
 
                 (iii) the period during which the qualified investment entity was in existence.
+
+            (E) __Special ownership rules__ 
+
+            For purposes of determining the holder of stock under subparagraphs (B) and (C)—
+
+                (i) in the case of any class of stock of the qualified investment entity which is regularly traded on an established securities market in the United States, a person holding less than 5 percent of such class of stock at all times during the testing period shall be treated as a United States person unless the qualified investment entity has actual knowledge that such person is not a United States person,
+
+                (ii)
+
+                 any stock in the qualified investment entity held by another qualified investment entity—
+
+                    (I) any class of stock of which is regularly traded on an established securities market, or
+
+                    (II) which is a regulated investment company which issues redeemable securities (within the meaning of section 2 of the Investment Company Act of 1940),
+
+                 shall be treated as held by a foreign person, except that if such other qualified investment entity is domestically controlled (determined after application of this subparagraph), such stock shall be treated as held by a United States person, and
+
+                (iii) any stock in the qualified investment entity held by any other qualified investment entity not described in subclause (I) or (II) of clause (ii) shall only be treated as held by a United States person in proportion to the stock of such other qualified investment entity which is (or is treated under clause (ii) or (iii) as) held by a United States person.
 
         (5) __Treatment of certain wash sale transactions__ 
 
@@ -331,9 +345,183 @@
 
             (B) the amount of gain, if any, recognized to the transferor under any other provision at the time of the transfer.
 
-(Added [Pub. L. 96–499, title XI, § 1122(a)][/us/pl/96/499/s1122/a], Dec. 5, 1980, [94 Stat. 2682][/us/stat/94/2682]; amended [Pub. L. 97–34, title VIII, § 831(a)(1)][/us/pl/97/34/s831/a/1], (b)–(d), (f), (g), Aug. 13, 1981, [95 Stat. 352–354][/us/stat/95/352-354]; [Pub. L. 97–248, title II, § 201(d)(6)][/us/pl/97/248/s201/d/6], formerly § 201(c)(6), Sept. 3, 1982, [96 Stat. 419][/us/stat/96/419], renumbered § 201(d)(6), [Pub. L. 97–448, title III, § 306(a)(1)(A)(i)][/us/pl/97/448/s306/a/1/A/i], Jan. 12, 1983, [96 Stat. 2400][/us/stat/96/2400]; [Pub. L. 99–514, title VI, § 631(e)(12)][/us/pl/99/514/s631/e/12], title VII, § 701(e)(4)(G), title XVIII, § 1810(f)(1), Oct. 22, 1986, [100 Stat. 2275][/us/stat/100/2275], 2343, 2826; [Pub. L. 100–647, title I, § 1006(e)(19)][/us/pl/100/647/s1006/e/19], Nov. 10, 1988, [102 Stat. 3403][/us/stat/102/3403]; [Pub. L. 101–508, title XI, § 11801(a)(30)][/us/pl/101/508/s11801/a/30], Nov. 5, 1990, [104 Stat. 1388–521][/us/stat/104/1388-521]; [Pub. L. 103–66, title XIII, § 13203(c)(2)][/us/pl/103/66/s13203/c/2], Aug. 10, 1993, [107 Stat. 462][/us/stat/107/462]; [Pub. L. 104–188, title I, § 1702(g)(2)][/us/pl/104/188/s1702/g/2], Aug. 20, 1996, [110 Stat. 1873][/us/stat/110/1873]; [Pub. L. 108–357, title IV][/us/pl/108/357], §§ 411(c), 418(a), Oct. 22, 2004, [118 Stat. 1504][/us/stat/118/1504], 1512; [Pub. L. 109–135, title IV, § 403(p)(1)][/us/pl/109/135/s403/p/1], Dec. 21, 2005, [119 Stat. 2626][/us/stat/119/2626]; [Pub. L. 109–222, title V][/us/pl/109/222], §§ 504(a), 505(a), 506(a), May 17, 2006, [120 Stat. 355][/us/stat/120/355], 357; [Pub. L. 110–343, div. C, title II, § 208(a)][/us/pl/110/343/s208/a], Oct. 3, 2008, [122 Stat. 3865][/us/stat/122/3865]; [Pub. L. 111–312, title VII, § 749(a)][/us/pl/111/312/s749/a], Dec. 17, 2010, [124 Stat. 3320][/us/stat/124/3320]; [Pub. L. 112–240, title III, § 321(a)][/us/pl/112/240/s321/a], Jan. 2, 2013, [126 Stat. 2332][/us/stat/126/2332]; [Pub. L. 113–295, div. A, title I, § 133(a)][/us/pl/113/295/s133/a], Dec. 19, 2014, [128 Stat. 4018][/us/stat/128/4018].)
+    (k) __Special rules relating to real estate investment trusts__ 
+
+        (1) __Increase in percentage ownership for exceptions for persons holding publicly traded stock__ 
+
+            (A) __Dispositions__ 
+
+                In the case of any disposition of stock in a real estate investment trust, paragraphs (3) and (6)(C) of subsection (c) shall each be applied by substituting “more than 10 percent” for “more than 5 percent”.
+
+            (B) __Distributions__ 
+
+                In the case of any distribution from a real estate investment trust, subsection (h)(1) shall be applied by substituting “10 percent” for “5 percent”.
+
+        (2) __Stock held by qualified shareholders not treated as USRPI__ 
+
+            (A) __In general__ 
+
+            Except as provided in subparagraph (B)—
+
+                (i) stock of a real estate investment trust which is held directly (or indirectly through 1 or more partnerships) by a qualified shareholder shall not be treated as a United States real property interest, and
+
+                (ii) notwithstanding subsection (h)(1), any distribution to a qualified shareholder shall not be treated as gain recognized from the sale or exchange of a United States real property interest to the extent the stock of the real estate investment trust held by such qualified shareholder is not treated as a United States real property interest under clause (i).
+
+            (B) __Exception__ 
+
+            In the case of a qualified shareholder with 1 or more applicable investors—
+
+                (i) subparagraph (A)(i) shall not apply to so much of the stock of a real estate investment trust held by a qualified shareholder as bears the same ratio to the value of the interests (other than interests held solely as a creditor) held by such applicable investors in the qualified shareholder bears to value of all interests (other than interests held solely as a creditor) in the qualified shareholder, and
+
+                (ii) a percentage equal to the ratio determined under clause (i) of the amounts realized by the qualified shareholder with respect to any disposition of stock in the real estate investment trust or with respect to any distribution from the real estate investment trust attributable to gain from sales or exchanges of a United States real property interest shall be treated as amounts realized from the disposition of United States real property interests.
+
+            (C) __Special rule for certain distributions treated as sale or exchange__ 
+
+            If a distribution by a real estate investment trust is treated as a sale or exchange of stock under section 301(c)(3), 302, or 331 with respect to a qualified shareholder—
+
+                (i) in the case of an applicable investor, subparagraph (B) shall apply with respect to such distribution, and
+
+                (ii) in the case of any other person, such distribution shall be treated under section 857(b)(3)(F) as a dividend from a real estate investment trust notwithstanding any other provision of this title.
+
+            (D) __Applicable investor__ 
+
+            For purposes of this paragraph, the term “applicable investor” means, with respect to any qualified shareholder holding stock in a real estate investment trust, a person (other than a qualified shareholder) which—
+
+                (i) holds an interest (other than an interest solely as a creditor) in such qualified shareholder, and
+
+                (ii) holds more than 10 percent of the stock of such real estate investment trust (whether or not by reason of the person’s ownership interest in the qualified shareholder).
+
+            (E) __Constructive ownership rules__ 
+
+                For purposes of subparagraphs (B)(i) and (C) and paragraph (4), the constructive ownership rules under subsection (c)(6)(C) shall apply.
+
+        (3) __Qualified shareholder__ 
+
+        For purposes of this subsection—
+
+            (A) __In general__ 
+
+            The term “qualified shareholder” means a foreign person which—
+
+                (i)
+
+                    (I) is eligible for benefits of a comprehensive income tax treaty with the United States which includes an exchange of information program and the principal class of interests of which is listed and regularly traded on 1 or more recognized stock exchanges (as defined in such comprehensive income tax treaty), or
+
+                    (II) is a foreign partnership that is created or organized under foreign law as a limited partnership in a jurisdiction that has an agreement for the exchange of information with respect to taxes with the United States and has a class of limited partnership units which is regularly traded on the New York Stock Exchange or Nasdaq Stock Market and such class of limited partnership units value is greater than 50 percent of the value of all the partnership units,
+
+                (ii) is a qualified collective investment vehicle, and
+
+                (iii) maintains records on the identity of each person who, at any time during the foreign person’s taxable year, holds directly 5 percent or more of the class of interest described in subclause (I) or (II) of clause (i), as the case may be.
+
+            (B) __Qualified collective investment vehicle__ 
+
+            For purposes of this subsection, the term “qualified collective investment vehicle” means a foreign person—
+
+                (i) which, under the comprehensive income tax treaty described in subparagraph (A)(i), is eligible for a reduced rate of withholding with respect to ordinary dividends paid by a real estate investment trust even if such person holds more than 10 percent of the stock of such real estate investment trust,
+
+                (ii)
+
+                 which—
+
+                    (I) is a publicly traded partnership (as defined in section 7704(b)) to which subsection (a) of section 7704 does not apply,
+
+                    (II) is a withholding foreign partnership for purposes of chapters 3, 4, and 61,
+
+                    (III) if such foreign partnership were a United States corporation, would be a United States real property holding corporation (determined without regard to paragraph (1)) at any time during the 5-year period ending on the date of disposition of, or distribution with respect to, such partnership’s interests in a real estate investment trust, or
+
+                (iii)
+
+                 which is designated as a qualified collective investment vehicle by the Secretary and is either—
+
+                    (I) fiscally transparent within the meaning of section 894, or
+
+                    (II) required to include dividends in its gross income, but entitled to a deduction for distributions to persons holding interests (other than interests solely as a creditor) in such foreign person.
+
+        (4) __Partnership allocations__ 
+
+            (A) __In general__ 
+
+            For the purposes of this subsection, in the case of an applicable investor who is a nonresident alien individual or a foreign corporation and is a partner in a partnership that is a qualified shareholder, if such partner’s proportionate share of USRPI gain for the taxable year exceeds such partner’s distributive share of USRPI gain for the taxable year, then
+
+                (i) such partner’s distributive share of the amount of gain taken into account under subsection (a)(1) by the partner for the taxable year (determined without regard to this paragraph) shall be increased by the amount of such excess, and
+
+                (ii) such partner’s distributive share of items of income or gain for the taxable year that are not treated as gain taken into account under subsection (a)(1) (determined without regard to this paragraph) shall be decreased (but not below zero) by the amount of such excess.
+
+            (B) __USRPI gain__ 
+
+            For the purposes of this paragraph, the term “USRPI gain” means the excess (if any) of—
+
+                (i)
+
+                 the sum of—
+
+                    (I) any gain recognized from the disposition of a United States real property interest, and
+
+                    (II) any distribution by a real estate investment trust that is treated as gain recognized from the sale or exchange of a United States real property interest, over
+
+                (ii) any loss recognized from the disposition of a United States real property interest.
+
+            (C) __Proportionate share of USRPI gain__ 
+
+                For purposes of this paragraph, an applicable investor’s proportionate share of USRPI gain shall be determined on the basis of such investor’s share of partnership items of income or gain (excluding gain allocated under section 704(c)), whichever results in the largest proportionate share. If the investor’s share of partnership items of income or gain (excluding gain allocated under section 704(c)) may vary during the period such investor is a partner in the partnership, such share shall be the highest share such investor may receive.
+
+    (l) __Exception for interests held by foreign pension funds__ 
+
+        (1) __In general__ 
+
+        This section shall not apply to any United States real property interest held directly (or indirectly through 1 or more partnerships) by, or to any distribution received from a real estate investment trust by—
+
+            (A) a qualified foreign pension fund, or
+
+            (B) any entity all of the interests of which are held by a qualified foreign pension fund.
+
+        (2) __Qualified foreign pension fund__ 
+
+        For purposes of this subsection, the term “qualified foreign pension fund” means any trust, corporation, or other organization or arrangement—
+
+            (A) which is created or organized under the law of a country other than the United States,
+
+            (B) which is established to provide retirement or pension benefits to participants or beneficiaries that are current or former employees (or persons designated by such employees) of one or more employers in consideration for services rendered,
+
+            (C) which does not have a single participant or beneficiary with a right to more than five percent of its assets or income,
+
+            (D) which is subject to government regulation and provides annual information reporting about its beneficiaries to the relevant tax authorities in the country in which it is established or operates, and
+
+            (E)
+
+             with respect to which, under the laws of the country in which it is established or operates—
+
+                (i) contributions to such trust, corporation, organization, or arrangement which would otherwise be subject to tax under such laws are deductible or excluded from the gross income of such entity or taxed at a reduced rate, or
+
+                (ii) taxation of any investment income of such trust, corporation, organization or arrangement is deferred or such income is taxed at a reduced rate.
+
+        (3) __Regulations__ 
+
+            The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this subsection.
+
+(Added [Pub. L. 96–499, title XI, § 1122(a)][/us/pl/96/499/s1122/a], Dec. 5, 1980, [94 Stat. 2682][/us/stat/94/2682]; amended [Pub. L. 97–34, title VIII, § 831(a)(1)][/us/pl/97/34/s831/a/1], (b)–(d), (f), (g), Aug. 13, 1981, [95 Stat. 352–354][/us/stat/95/352-354]; [Pub. L. 97–248, title II, § 201(d)(6)][/us/pl/97/248/s201/d/6], formerly § 201(c)(6), Sept. 3, 1982, [96 Stat. 419][/us/stat/96/419], renumbered § 201(d)(6), [Pub. L. 97–448, title III, § 306(a)(1)(A)(i)][/us/pl/97/448/s306/a/1/A/i], Jan. 12, 1983, [96 Stat. 2400][/us/stat/96/2400]; [Pub. L. 99–514, title VI, § 631(e)(12)][/us/pl/99/514/s631/e/12], title VII, § 701(e)(4)(G), title XVIII, § 1810(f)(1), Oct. 22, 1986, [100 Stat. 2275][/us/stat/100/2275], 2343, 2826; [Pub. L. 100–647, title I, § 1006(e)(19)][/us/pl/100/647/s1006/e/19], Nov. 10, 1988, [102 Stat. 3403][/us/stat/102/3403]; [Pub. L. 101–508, title XI, § 11801(a)(30)][/us/pl/101/508/s11801/a/30], Nov. 5, 1990, [104 Stat. 1388–521][/us/stat/104/1388-521]; [Pub. L. 103–66, title XIII, § 13203(c)(2)][/us/pl/103/66/s13203/c/2], Aug. 10, 1993, [107 Stat. 462][/us/stat/107/462]; [Pub. L. 104–188, title I, § 1702(g)(2)][/us/pl/104/188/s1702/g/2], Aug. 20, 1996, [110 Stat. 1873][/us/stat/110/1873]; [Pub. L. 108–357, title IV][/us/pl/108/357], §§ 411(c), 418(a), Oct. 22, 2004, [118 Stat. 1504][/us/stat/118/1504], 1512; [Pub. L. 109–135, title IV, § 403(p)(1)][/us/pl/109/135/s403/p/1], Dec. 21, 2005, [119 Stat. 2626][/us/stat/119/2626]; [Pub. L. 109–222, title V][/us/pl/109/222], §§ 504(a), 505(a), 506(a), May 17, 2006, [120 Stat. 355][/us/stat/120/355], 357; [Pub. L. 110–343, div. C, title II, § 208(a)][/us/pl/110/343/s208/a], Oct. 3, 2008, [122 Stat. 3865][/us/stat/122/3865]; [Pub. L. 111–312, title VII, § 749(a)][/us/pl/111/312/s749/a], Dec. 17, 2010, [124 Stat. 3320][/us/stat/124/3320]; [Pub. L. 112–240, title III, § 321(a)][/us/pl/112/240/s321/a], Jan. 2, 2013, [126 Stat. 2332][/us/stat/126/2332]; [Pub. L. 113–295, div. A, title I, § 133(a)][/us/pl/113/295/s133/a], Dec. 19, 2014, [128 Stat. 4018][/us/stat/128/4018]; [Pub. L. 114–113, div. Q, title I, § 133(a)][/us/pl/114/113/s133/a], title III, §§ 322(a)(1), (2)(A), (b), 323(a), 325(a), Dec. 18, 2015, [129 Stat. 3055][/us/stat/129/3055], 3098, 3101–3103.)
+
+ __References in Text__ 
+
+    Section 2 of the Investment Company Act of 1940, referred to in subsec. (h)(4)(E)(ii)(II), is classified to [section 80a–2 of Title 15][/us/usc/t15/s80a–2], Commerce and Trade.
 
  __Amendments__ 
+
+    2015—Subsec. (c)(1)(A). [Pub. L. 114–113, § 322(a)(2)(A)][/us/pl/114/113/s322/a/2/A], inserted “or subsection (k)” after “subparagraph (B)” in introductory provisions.
+
+    Subsec. (c)(1)(B)(iii). [Pub. L. 114–113, § 325(a)][/us/pl/114/113/s325/a], added cl. (iii).
+
+    Subsec. (h)(4). [Pub. L. 114–113, § 322(b)(1)(B)][/us/pl/114/113/s322/b/1/B], inserted “and special rules” after “Definitions” in heading.
+
+    Subsec. (h)(4)(A). [Pub. L. 114–113, § 133(a)][/us/pl/114/113/s133/a], struck out cl. (i) designation and heading before “The term ‘qualified investment entity’ means—”, redesignated subcls. (I) and (II) of former cl. (i) as cls. (i) and (ii), respectively, and struck out former cl. (ii). Prior to amendment, text of cl. (ii) read as follows: “Clause (i)(II) shall not apply after December 31, 2014. Notwithstanding the preceding sentence, an entity described in clause (i)(II) shall be treated as a qualified investment entity for purposes of applying paragraphs (1) and (5) and section 1445 with respect to any distribution by the entity to a nonresident alien individual or a foreign corporation which is attributable directly or indirectly to a distribution to the entity from a real estate investment trust.”
+
+    Subsec. (h)(4)(A)(ii). [Pub. L. 114–113, § 322(b)(2)][/us/pl/114/113/s322/b/2], inserted “and for purposes of determining whether a real estate investment trust is a domestically controlled qualified investment entity under this subsection” after “real estate investment trust”.
+
+    Subsec. (h)(4)(E). [Pub. L. 114–113, § 322(b)(1)(A)][/us/pl/114/113/s322/b/1/A], added subpar. (E).
+
+    Subsec. (k). [Pub. L. 114–113, § 322(a)(1)][/us/pl/114/113/s322/a/1], added subsec. (k).
+
+    Subsec. (l). [Pub. L. 114–113, § 323(a)][/us/pl/114/113/s323/a], added subsec. (l).
 
     2014—Subsec. (h)(4)(A)(ii). [Pub. L. 113–295][/us/pl/113/295] substituted “December 31, 2014” for “December 31, 2013”.
 
@@ -414,6 +602,44 @@
     Subsec. (i). [Pub. L. 97–34, § 831(d)][/us/pl/97/34/s831/d], in par. (1)(A) substituted “holds a United States real property interest” for “has a permanent establishment in the United States”, in par. (1)(B) substituted “treaty obligation of the United States the foreign corporation is entitled to nondiscriminatory treatment with respect to that interest” for “treaty, such permanent establishment may not be treated less favorably than domestic corporations carrying on the same activities”, in par. (3) inserted subpar. (A), designated existing provisions as subpar. (B), in subpar. (B) substituted “such other conditions as the Secretary may prescribe by regulations with respect to the corporation or its shareholders” for “such conditions as may be prescribed by the Secretary”, and prescribed percentage interest required for making the requisite election and application of constructive ownership rules in determining existence of the required percentage of a class of interest.
 
     Subsecs. (j) to (l). [Pub. L. 97–34, § 831(f)][/us/pl/97/34/s831/f], (g), added subsecs. (j) to (l).
+
+ __Effective Date of 2015 Amendment__ 
+
+[Pub. L. 114–113, div. Q, title I, § 133(b)][/us/pl/114/113/s133/b], Dec. 18, 2015, [129 Stat. 3055][/us/stat/129/3055], provided that:
+
+>     “(1)  __In general__  __.—__ 
+
+>     The amendments made by this section \[amending this section\] shall take effect on January 1, 2015. Notwithstanding the preceding sentence, such amendments shall not apply with respect to the withholding requirement under section 1445 of the Internal Revenue Code of 1986 for any payment made before the date of the enactment of this Act \[Dec. 18, 2015\].
+
+>     “(2)  __Amounts withheld on or before date of enactment__  __.—__ 
+
+>     In the case of a regulated investment company—
+
+>         “(A) which makes a distribution after December 31, 2014, and before the date of the enactment of this Act, and
+
+>         “(B) which would (but for the second sentence of paragraph (1)) have been required to withhold with respect to such distribution under section 1445 of such Code,
+
+>         such investment company shall not be liable to any person to whom such distribution was made for any amount so withheld and paid over to the Secretary of the Treasury.”
+
+    Amendment by [section 322(a) of Pub. L. 114–113][/us/pl/114/113/s322/a] effective Dec. 18, 2015, and applicable to any disposition on and after Dec. 18, 2015, and any distribution by a real estate investment trust on or after such date which is treated as a deduction for a taxable year of such trust ending after such date, see [section 322(c)(1) of Pub. L. 114–113][/us/pl/114/113/s322/c/1], set out as a note under [section 857 of this title][/us/usc/t26/s857].
+
+[Pub. L. 114–113, div. Q, title III, § 322(c)(2)][/us/pl/114/113/s322/c/2], (3), Dec. 18, 2015, [129 Stat. 3102][/us/stat/129/3102], provided that:
+
+>     “(2)  __Determination of domestic control__  __.—__ 
+
+>     The amendments made by subsection (b)(1) \[amending this section\] shall take effect on the date of the enactment of this Act \[Dec. 18, 2015\].
+
+>     “(3)  __Technical amendment__  __.—__ 
+
+>     The amendment made by subsection (b)(2) \[amending this section\] shall take effect on January 1, 2015.”
+
+[Pub. L. 114–113, div. Q, title III, § 323(c)][/us/pl/114/113/s323/c], Dec. 18, 2015, [129 Stat. 3103][/us/stat/129/3103], provided that: 
+
+> “The amendments made by this section \[amending this section and [section 1445 of this title][/us/usc/t26/s1445]\] shall apply to dispositions and distributions after the date of the enactment of this Act \[Dec. 18, 2015\].”
+
+[Pub. L. 114–113, div. Q, title III, § 325(b)][/us/pl/114/113/s325/b], Dec. 18, 2015, [129 Stat. 3103][/us/stat/129/3103], provided that: 
+
+> “The amendment made by this section \[amending this section\] shall apply to dispositions on or after the date of the enactment of this Act \[Dec. 18, 2015\].”
 
  __Effective Date of 2014 Amendment__ 
 
@@ -670,6 +896,17 @@
 [/us/stat/126/2332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2332
 [/us/pl/113/295/s133/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs133%2Fa
 [/us/stat/128/4018]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4018
+[/us/pl/114/113/s133/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs133%2Fa
+[/us/stat/129/3055]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3055
+[/us/usc/t15/s80a–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs80a%E2%80%932
+[/us/pl/114/113/s322/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs322%2Fa%2F2%2FA
+[/us/pl/114/113/s325/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs325%2Fa
+[/us/pl/114/113/s322/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs322%2Fb%2F1%2FB
+[/us/pl/114/113/s133/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs133%2Fa
+[/us/pl/114/113/s322/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs322%2Fb%2F2
+[/us/pl/114/113/s322/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs322%2Fb%2F1%2FA
+[/us/pl/114/113/s322/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs322%2Fa%2F1
+[/us/pl/114/113/s323/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs323%2Fa
 [/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
 [/us/pl/112/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240
 [/us/pl/111/312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F312
@@ -700,6 +937,18 @@
 [/us/pl/97/34/s831/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34%2Fs831%2Fc
 [/us/pl/97/34/s831/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34%2Fs831%2Fd
 [/us/pl/97/34/s831/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34%2Fs831%2Ff
+[/us/pl/114/113/s133/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs133%2Fb
+[/us/stat/129/3055]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3055
+[/us/pl/114/113/s322/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs322%2Fa
+[/us/pl/114/113/s322/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs322%2Fc%2F1
+[/us/usc/t26/s857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs857
+[/us/pl/114/113/s322/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs322%2Fc%2F2
+[/us/stat/129/3102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3102
+[/us/pl/114/113/s323/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs323%2Fc
+[/us/stat/129/3103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3103
+[/us/usc/t26/s1445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1445
+[/us/pl/114/113/s325/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs325%2Fb
+[/us/stat/129/3103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3103
 [/us/pl/113/295/s133/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs133%2Fb
 [/us/stat/128/4018]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4018
 [/us/pl/112/240/s321/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs321%2Fb

@@ -153,15 +153,9 @@
 
                     Clause (i)(I) shall not apply to any transfer if such transfer occurs within 12 months from the date of a previous transfer to any qualified tuition program for the benefit of the designated beneficiary.
 
-            (D) __Operating rules__ 
+            (D) __Special rule for contributions of refunded amounts__ 
 
-            For purposes of applying section 72—
-
-                (i) to the extent provided by the Secretary, all qualified tuition programs of which an individual is a designated beneficiary shall be treated as one program,
-
-                (ii) except to the extent provided by the Secretary, all distributions during a taxable year shall be treated as one distribution, and
-
-                (iii) except to the extent provided by the Secretary, the value of the contract, income on the contract, and investment in the contract shall be computed as of the close of the calendar year in which the taxable year begins.
+                In the case of a beneficiary who receives a refund of any qualified higher education expenses from an eligible educational institution, subparagraph (A) shall not apply to that portion of any distribution for the taxable year which is recontributed to a qualified tuition program of which such individual is a beneficiary, but only to the extent such recontribution is made not later than 60 days after the date of such refund and does not exceed the refunded amount.
 
         (4) __Estate tax treatment__ 
 
@@ -237,7 +231,7 @@
 
                 (ii) expenses for special needs services in the case of a special needs beneficiary which are incurred in connection with such enrollment or attendance  <sup>\[2\]</sup>  <sup><sup> 2 So in original. Probably should be followed by “; and”. </sup></sup> 
 
-                (iii) expenses paid or incurred in 2009 or 2010 for the purchase of any computer technology or equipment (as defined in section 170(e)(6)(F)(i))  <sup>\[3\]</sup>  <sup><sup> 3 See References in Text note below. </sup></sup>  or Internet access and related services, if such technology, equipment, or services are to be used by the beneficiary and the beneficiary’s family during any of the years the beneficiary is enrolled at an eligible educational institution.
+                (iii) expenses for the purchase of computer or peripheral equipment (as defined in section 168(i)(2)(B)), computer software (as defined in section 197(e)(3)(B)), or Internet access and related services, if such equipment, software, or services are to be used primarily by the beneficiary during any of the years the beneficiary is enrolled at an eligible educational institution.
 
                 Clause (iii) shall not include expenses for computer software designed for sports, games, or hobbies unless the software is predominantly educational in nature.
 
@@ -271,11 +265,9 @@
 
         Notwithstanding any other provision of this section, the Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this section and to prevent abuse of such purposes, including regulations under chapters 11, 12, and 13 of this title.
 
-(Added [Pub. L. 104–188, title I, § 1806(a)][/us/pl/104/188/s1806/a], Aug. 20, 1996, [110 Stat. 1895][/us/stat/110/1895]; amended [Pub. L. 105–34, title II, § 211(a)][/us/pl/105/34/s211/a], (b), (d), (e)(2)(A), title XVI, § 1601(h)(1)(A), (B), Aug. 5, 1997, [111 Stat. 810][/us/stat/111/810], 812, 1092; [Pub. L. 105–206, title VI, § 6004(c)(2)][/us/pl/105/206/s6004/c/2], (3), July 22, 1998, [112 Stat. 793][/us/stat/112/793]; [Pub. L. 106–554, § 1(a)(7)][/us/pl/106/554/s1/a/7] \[title III, § 319(5)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–646; [Pub. L. 107–16, title IV, § 402(a)(1)][/us/pl/107/16/s402/a/1]–(3), (4)(A), (C), (D), (b)(1), (c)–(g), June 7, 2001, [115 Stat. 60–63][/us/stat/115/60-63]; [Pub. L. 107–22, § 1(b)(3)(C)][/us/pl/107/22/s1/b/3/C], July 26, 2001, [115 Stat. 197][/us/stat/115/197]; [Pub. L. 107–147, title IV, § 417(11)][/us/pl/107/147/s417/11], Mar. 9, 2002, [116 Stat. 56][/us/stat/116/56]; [Pub. L. 108–311, title II, § 207(21)][/us/pl/108/311/s207/21], title IV, § 406(a), Oct. 4, 2004, [118 Stat. 1178][/us/stat/118/1178], 1189; [Pub. L. 109–135, title IV, § 412(ee)(3)][/us/pl/109/135/s412/ee/3], Dec. 21, 2005, [119 Stat. 2639][/us/stat/119/2639]; [Pub. L. 109–280, title XIII, § 1304(b)][/us/pl/109/280/s1304/b], Aug. 17, 2006, [120 Stat. 1110][/us/stat/120/1110]; [Pub. L. 111–5, div. B, title I, § 1005(a)][/us/pl/111/5/s1005/a], Feb. 17, 2009, [123 Stat. 316][/us/stat/123/316]; [Pub. L. 113–295, div. B, title I, § 105(a)][/us/pl/113/295/s105/a], Dec. 19, 2014, [128 Stat. 4064][/us/stat/128/4064].)
+(Added [Pub. L. 104–188, title I, § 1806(a)][/us/pl/104/188/s1806/a], Aug. 20, 1996, [110 Stat. 1895][/us/stat/110/1895]; amended [Pub. L. 105–34, title II, § 211(a)][/us/pl/105/34/s211/a], (b), (d), (e)(2)(A), title XVI, § 1601(h)(1)(A), (B), Aug. 5, 1997, [111 Stat. 810][/us/stat/111/810], 812, 1092; [Pub. L. 105–206, title VI, § 6004(c)(2)][/us/pl/105/206/s6004/c/2], (3), July 22, 1998, [112 Stat. 793][/us/stat/112/793]; [Pub. L. 106–554, § 1(a)(7)][/us/pl/106/554/s1/a/7] \[title III, § 319(5)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–646; [Pub. L. 107–16, title IV, § 402(a)(1)][/us/pl/107/16/s402/a/1]–(3), (4)(A), (C), (D), (b)(1), (c)–(g), June 7, 2001, [115 Stat. 60–63][/us/stat/115/60-63]; [Pub. L. 107–22, § 1(b)(3)(C)][/us/pl/107/22/s1/b/3/C], July 26, 2001, [115 Stat. 197][/us/stat/115/197]; [Pub. L. 107–147, title IV, § 417(11)][/us/pl/107/147/s417/11], Mar. 9, 2002, [116 Stat. 56][/us/stat/116/56]; [Pub. L. 108–311, title II, § 207(21)][/us/pl/108/311/s207/21], title IV, § 406(a), Oct. 4, 2004, [118 Stat. 1178][/us/stat/118/1178], 1189; [Pub. L. 109–135, title IV, § 412(ee)(3)][/us/pl/109/135/s412/ee/3], Dec. 21, 2005, [119 Stat. 2639][/us/stat/119/2639]; [Pub. L. 109–280, title XIII, § 1304(b)][/us/pl/109/280/s1304/b], Aug. 17, 2006, [120 Stat. 1110][/us/stat/120/1110]; [Pub. L. 111–5, div. B, title I, § 1005(a)][/us/pl/111/5/s1005/a], Feb. 17, 2009, [123 Stat. 316][/us/stat/123/316]; [Pub. L. 113–295, div. B, title I, § 105(a)][/us/pl/113/295/s105/a], Dec. 19, 2014, [128 Stat. 4064][/us/stat/128/4064]; [Pub. L. 114–113, div. Q, title III, § 302(a)(1)][/us/pl/114/113/s302/a/1], (b)(1), (c)(1), Dec. 18, 2015, [129 Stat. 3086][/us/stat/129/3086].)
 
  __References in Text__ 
-
-    Section 170(e)(6)(F)(i), referred to in subsec. (e)(3)(A)(iii), was repealed by [Pub. L. 113–295, div. A, title II, § 221(a)(28)(B)][/us/pl/113/295/s221/a/28/B], Dec. 19, 2014, [128 Stat. 4041][/us/stat/128/4041].
 
     The date of the enactment of the Economic Growth and Tax Relief Reconciliation Act of 2001, referred to in subsec. (e)(3)(B)(ii)(I), is the date of enactment of [Pub. L. 107–16][/us/pl/107/16], which was approved June 7, 2001.
 
@@ -284,6 +276,18 @@
     The Higher Education Act of 1965, referred to in subsec. (e)(5), is [Pub. L. 89–329][/us/pl/89/329], Nov. 8, 1965, [79 Stat. 1219][/us/stat/79/1219], as amended. Title IV of the Act is classified generally to subchapter IV (§ 1070 et seq.) of chapter 28 of Title 20, Education, and part C (§ 2751 et seq.) of subchapter I of chapter 34 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of Title 20][/us/usc/t20/s1001] and Tables.
 
  __Amendments__ 
+
+    2015—Subsec. (c)(3)(D). [Pub. L. 114–113, § 302(c)(1)][/us/pl/114/113/s302/c/1], added subpar. (D).
+
+    [Pub. L. 114–113, § 302(b)(1)][/us/pl/114/113/s302/b/1], struck out subpar. (D). Prior to amendment, text read as follows: “For purposes of applying section 72—
+
+    “(i) to the extent provided by the Secretary, all qualified tuition programs of which an individual is a designated beneficiary shall be treated as one program,
+
+    “(ii) except to the extent provided by the Secretary, all distributions during a taxable year shall be treated as one distribution, and
+
+    “(iii) except to the extent provided by the Secretary, the value of the contract, income on the contract, and investment in the contract shall be computed as of the close of the calendar year in which the taxable year begins.”
+
+    Subsec. (e)(3)(A)(iii). [Pub. L. 114–113, § 302(a)(1)][/us/pl/114/113/s302/a/1], amended cl. (iii) generally. Prior to amendment, cl. (iii) read as follows: “expenses paid or incurred in 2009 or 2010 for the purchase of any computer technology or equipment (as defined in section 170(e)(6)(F)(i)) or Internet access and related services, if such technology, equipment, or services are to be used by the beneficiary and the beneficiary’s family during any of the years the beneficiary is enrolled at an eligible educational institution.”
 
     2014—Subsec. (b)(4). [Pub. L. 113–295][/us/pl/113/295] substituted “Limited” for “No” in heading and “may, directly or indirectly, direct the investment of any contributions to the program (or any earnings thereon) no more than 2 times in any calendar year.” for “may not directly or indirectly direct the investment of any contributions to the program (or any earnings thereon).” in text.
 
@@ -398,6 +402,26 @@
     Subsec. (e)(3). [Pub. L. 105–34, § 211(a)][/us/pl/105/34/s211/a], amended heading and text of par. (3) generally. Prior to amendment, text read as follows: “The term ‘qualified higher education expenses’ means tuition, fees, books, supplies, and equipment required for the enrollment or attendance of a designated beneficiary at an eligible educational institution (as defined in section 135(c)(3)).”
 
     Subsec. (e)(5). [Pub. L. 105–34, § 211(b)(2)][/us/pl/105/34/s211/b/2], added par. (5).
+
+ __Effective Date of 2015 Amendment__ 
+
+[Pub. L. 114–113, div. Q, title III, § 302(a)(2)][/us/pl/114/113/s302/a/2], Dec. 18, 2015, [129 Stat. 3086][/us/stat/129/3086], provided that: 
+
+> “The amendment made by this subsection \[amending this section\] shall apply to taxable years beginning after December 31, 2014.”
+
+[Pub. L. 114–113, div. Q, title III, § 302(b)(2)][/us/pl/114/113/s302/b/2], Dec. 18, 2015, [129 Stat. 3086][/us/stat/129/3086], provided that: 
+
+> “The amendment made by this subsection \[amending this section\] shall apply to distributions after December 31, 2014.”
+
+[Pub. L. 114–113, div. Q, title III, § 302(c)(2)][/us/pl/114/113/s302/c/2], Dec. 18, 2015, [129 Stat. 3087][/us/stat/129/3087], provided that:
+
+>     “(A)  __In general__  __.—__ 
+
+>     The amendment made by this subsection \[amending this section\] shall apply with respect to refunds of qualified higher education expenses after December 31, 2014.
+
+>     “(B)  __Transition rule__  __.—__ 
+
+>     In the case of a refund of qualified higher education expenses received after December 31, 2014, and before the date of the enactment of this Act \[Dec. 18, 2015\], section 529(c)(3)(D) of the Internal Revenue Code of 1986 (as added by this subsection) shall be applied by substituting ‘not later than 60 days after the date of the enactment of this subparagraph \[Dec. 18, 2015\]’ for ‘not later than 60 days after the date of such refund’.”
 
  __Effective Date of 2014 Amendment__ 
 
@@ -522,13 +546,16 @@
 [/us/stat/123/316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F316
 [/us/pl/113/295/s105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs105%2Fa
 [/us/stat/128/4064]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4064
-[/us/pl/113/295/s221/a/28/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F28%2FB
-[/us/stat/128/4041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4041
+[/us/pl/114/113/s302/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs302%2Fa%2F1
+[/us/stat/129/3086]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3086
 [/us/pl/107/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16
 [/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
 [/us/pl/89/329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329
 [/us/stat/79/1219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1219
 [/us/usc/t20/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1001
+[/us/pl/114/113/s302/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs302%2Fc%2F1
+[/us/pl/114/113/s302/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs302%2Fb%2F1
+[/us/pl/114/113/s302/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs302%2Fa%2F1
 [/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
 [/us/pl/111/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5
 [/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
@@ -577,6 +604,12 @@
 [/us/pl/105/34/s211/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs211%2Fb%2F1
 [/us/pl/105/34/s211/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs211%2Fa
 [/us/pl/105/34/s211/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs211%2Fb%2F2
+[/us/pl/114/113/s302/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs302%2Fa%2F2
+[/us/stat/129/3086]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3086
+[/us/pl/114/113/s302/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs302%2Fb%2F2
+[/us/stat/129/3086]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3086
+[/us/pl/114/113/s302/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs302%2Fc%2F2
+[/us/stat/129/3087]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3087
 [/us/pl/113/295/s105/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs105%2Fb
 [/us/stat/128/4064]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4064
 [/us/pl/111/5/s1005/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs1005%2Fb

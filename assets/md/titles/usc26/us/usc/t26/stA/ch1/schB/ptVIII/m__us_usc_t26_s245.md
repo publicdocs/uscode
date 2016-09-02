@@ -77,6 +77,10 @@
 
             For purposes of this subsection, the term “dividend” does not include any amount treated as a dividend under section 1248.
 
+        (12) __Dividends derived from RICs and REITs ineligible for deduction__ 
+
+            Regulated investment companies and real estate investment trusts shall not be treated as domestic corporations for purposes of paragraph (5)(B).
+
     (b) __Certain dividends received from wholly owned foreign subsidiaries__ 
 
         (1) __In general__ 
@@ -141,7 +145,7 @@
 
             Any reference in this subsection to section 922, 923, or 927 shall be treated as a reference to such section as in effect before its repeal by the FSC Repeal and Extraterritorial Income Exclusion Act of 2000.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 73][/us/stat/68A/73]; [Pub. L. 87–834, § 5(c)][/us/pl/87/834/s5/c], Oct. 16, 1962, [76 Stat. 977][/us/stat/76/977]; [Pub. L. 89–809, title I, § 104(d)][/us/pl/89/809/s104/d], (e), Nov. 13, 1966, [80 Stat. 1558][/us/stat/80/1558]; [Pub. L. 98–369, div. A, title VIII, § 801(b)(1)][/us/pl/98/369/s801/b/1], (2)(B), July 18, 1984, [98 Stat. 994][/us/stat/98/994], 995; [Pub. L. 99–514, title XII, § 1226(a)][/us/pl/99/514/s1226/a], title XVIII, § 1876(d)(1), (j), Oct. 22, 1986, [100 Stat. 2559][/us/stat/100/2559], 2898, 2900; [Pub. L. 100–203, title X, § 10221(d)(1)][/us/pl/100/203/s10221/d/1], Dec. 22, 1987, [101 Stat. 1330–409][/us/stat/101/1330-409]; [Pub. L. 100–647, title I][/us/pl/100/647], §§ 1006(e)(16), 1012(l)(2), (3), (bb)(9)(A), Nov. 10, 1988, [102 Stat. 3403][/us/stat/102/3403], 3513, 3537; [Pub. L. 101–239, title VII, § 7811(i)(14)][/us/pl/101/239/s7811/i/14], Dec. 19, 1989, [103 Stat. 2411][/us/stat/103/2411]; [Pub. L. 108–357, title IV, § 413(c)(3)][/us/pl/108/357/s413/c/3], Oct. 22, 2004, [118 Stat. 1507][/us/stat/118/1507]; [Pub. L. 110–172, § 11(g)(3)][/us/pl/110/172/s11/g/3], (4), Dec. 29, 2007, [121 Stat. 2490][/us/stat/121/2490].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 73][/us/stat/68A/73]; [Pub. L. 87–834, § 5(c)][/us/pl/87/834/s5/c], Oct. 16, 1962, [76 Stat. 977][/us/stat/76/977]; [Pub. L. 89–809, title I, § 104(d)][/us/pl/89/809/s104/d], (e), Nov. 13, 1966, [80 Stat. 1558][/us/stat/80/1558]; [Pub. L. 98–369, div. A, title VIII, § 801(b)(1)][/us/pl/98/369/s801/b/1], (2)(B), July 18, 1984, [98 Stat. 994][/us/stat/98/994], 995; [Pub. L. 99–514, title XII, § 1226(a)][/us/pl/99/514/s1226/a], title XVIII, § 1876(d)(1), (j), Oct. 22, 1986, [100 Stat. 2559][/us/stat/100/2559], 2898, 2900; [Pub. L. 100–203, title X, § 10221(d)(1)][/us/pl/100/203/s10221/d/1], Dec. 22, 1987, [101 Stat. 1330–409][/us/stat/101/1330-409]; [Pub. L. 100–647, title I][/us/pl/100/647], §§ 1006(e)(16), 1012(l)(2), (3), (bb)(9)(A), Nov. 10, 1988, [102 Stat. 3403][/us/stat/102/3403], 3513, 3537; [Pub. L. 101–239, title VII, § 7811(i)(14)][/us/pl/101/239/s7811/i/14], Dec. 19, 1989, [103 Stat. 2411][/us/stat/103/2411]; [Pub. L. 108–357, title IV, § 413(c)(3)][/us/pl/108/357/s413/c/3], Oct. 22, 2004, [118 Stat. 1507][/us/stat/118/1507]; [Pub. L. 110–172, § 11(g)(3)][/us/pl/110/172/s11/g/3], (4), Dec. 29, 2007, [121 Stat. 2490][/us/stat/121/2490]; [Pub. L. 114–113, div. Q, title III, § 326(a)][/us/pl/114/113/s326/a], Dec. 18, 2015, [129 Stat. 3103][/us/stat/129/3103].)
 
  __References in Text__ 
 
@@ -150,6 +154,8 @@
     The FSC Repeal and Extraterritorial Income Exclusion Act of 2000, referred to in subsec. (c)(5), is [Pub. L. 106–519][/us/pl/106/519], Nov. 15, 2000, [114 Stat. 2423][/us/stat/114/2423]. For complete classification of this Act to the Code, see Short Title of 2000 Amendments note set out under [section 1 of this title][/us/usc/t26/s1] and Tables.
 
  __Amendments__ 
+
+    2015—Subsec. (a)(12). [Pub. L. 114–113][/us/pl/114/113] added par. (12).
 
     2007—Subsec. (c)(4)(C). [Pub. L. 110–172, § 11(g)(3)][/us/pl/110/172/s11/g/3], added subpar. (C).
 
@@ -186,6 +192,12 @@
     Subsecs. (b), (c). [Pub. L. 89–809, § 104(e)(1)][/us/pl/89/809/s104/e/1], (3), added subsec. (b), redesignated former subsec. (b) as (c), and substituted therein “subsections (a) and (b)” for “subsection (a)”.
 
     1962—Subsec. (b). [Pub. L. 87–834][/us/pl/87/834] designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
+
+ __Effective Date of 2015 Amendment__ 
+
+[Pub. L. 114–113, div. Q, title III, § 326(b)][/us/pl/114/113/s326/b], Dec. 18, 2015, [129 Stat. 3104][/us/stat/129/3104], provided that: 
+
+> “The amendment made by this section \[amending this section\] shall apply to dividends received from regulated investment companies and real estate investment trusts on or after the date of the enactment of this Act \[Dec. 18, 2015\].”
 
  __Effective Date of 2004 Amendment__ 
 
@@ -249,6 +261,12 @@
 
     Amendment by [Pub. L. 87–834][/us/pl/87/834] applicable to distributions made after Dec. 31, 1962, see [section 5(d) of Pub. L. 87–834][/us/pl/87/834/s5/d], set out as a note under [section 301 of this title][/us/usc/t26/s301].
 
+ __Construction of 2015 Amendment__ 
+
+[Pub. L. 114–113, div. Q, title III, § 326(c)][/us/pl/114/113/s326/c], Dec. 18, 2015, [129 Stat. 3104][/us/stat/129/3104], provided that: 
+
+> “Nothing contained in this section \[amending this section and enacting provisions set out as a note above\] or the amendments made by this section shall be construed to create any inference with respect to the proper treatment under section 245 of the Internal Revenue Code of 1986 of dividends received from regulated investment companies or real estate investment trusts before the date of the enactment of this Act \[Dec. 18, 2015\].”
+
  __Dividends Received or Accrued During 1987__ 
 
 [Pub. L. 100–647, title I, § 1006(b)(1)][/us/pl/100/647/s1006/b/1], Nov. 10, 1988, [102 Stat. 3393][/us/stat/102/3393], provided that: 
@@ -290,11 +308,14 @@
 [/us/stat/118/1507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1507
 [/us/pl/110/172/s11/g/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F172%2Fs11%2Fg%2F3
 [/us/stat/121/2490]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2490
+[/us/pl/114/113/s326/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs326%2Fa
+[/us/stat/129/3103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3103
 [/us/pl/91/172/s401/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2Fs401%2Fa%2F2
 [/us/stat/83/600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F600
 [/us/pl/106/519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F519
 [/us/stat/114/2423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2423
 [/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
+[/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
 [/us/pl/110/172/s11/g/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F172%2Fs11%2Fg%2F3
 [/us/pl/110/172/s11/g/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F172%2Fs11%2Fg%2F4
 [/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
@@ -315,6 +336,8 @@
 [/us/pl/89/809/s104/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F809%2Fs104%2Fd
 [/us/pl/89/809/s104/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F809%2Fs104%2Fe%2F1
 [/us/pl/87/834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F834
+[/us/pl/114/113/s326/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs326%2Fb
+[/us/stat/129/3104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3104
 [/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
 [/us/pl/108/357/s413/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs413%2Fd%2F1
 [/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
@@ -350,6 +373,8 @@
 [/us/pl/87/834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F834
 [/us/pl/87/834/s5/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F834%2Fs5%2Fd
 [/us/usc/t26/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs301
+[/us/pl/114/113/s326/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs326%2Fc
+[/us/stat/129/3104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3104
 [/us/pl/100/647/s1006/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1006%2Fb%2F1
 [/us/stat/102/3393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3393
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514

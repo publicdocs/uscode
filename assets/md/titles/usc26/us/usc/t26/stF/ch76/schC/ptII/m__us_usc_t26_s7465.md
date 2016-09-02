@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../../..//us/usc/t26/stF/ch76/schC/ptII/m__us_usc_t26_s7464.md) | [Next](./../../../../../../..//us/usc/t26/stF/ch76/schC/ptIII/m__us_usc_t26_stF_ch76_schC_ptIII.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs7465)
+[Previous](./../../../../../../..//us/usc/t26/stF/ch76/schC/ptII/m__us_usc_t26_s7464.md) | [Next](./../../../../../../..//us/usc/t26/stF/ch76/schC/ptII/m__us_usc_t26_s7466.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs7465)
 
 ## § 7465. Provisions of special application to transferees
 
@@ -23,7 +23,7 @@
 
 ----------
 
-[Previous](./../../../../../../..//us/usc/t26/stF/ch76/schC/ptII/m__us_usc_t26_s7464.md) | [Next](./../../../../../../..//us/usc/t26/stF/ch76/schC/ptIII/m__us_usc_t26_stF_ch76_schC_ptIII.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs7465)
+[Previous](./../../../../../../..//us/usc/t26/stF/ch76/schC/ptII/m__us_usc_t26_s7464.md) | [Next](./../../../../../../..//us/usc/t26/stF/ch76/schC/ptII/m__us_usc_t26_s7466.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs7465)
 
 ----------
 ----------

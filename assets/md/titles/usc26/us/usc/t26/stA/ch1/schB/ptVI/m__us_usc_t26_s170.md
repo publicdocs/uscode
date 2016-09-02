@@ -57,9 +57,11 @@
 
                 (vi) an organization referred to in subsection (c)(2) which normally receives a substantial part of its support (exclusive of income received in the exercise or performance by such organization of its charitable, educational, or other purpose or function constituting the basis for its exemption under section 501(a)) from a governmental unit referred to in subsection (c)(1) or from direct or indirect contributions from the general public,
 
-                (vii) a private foundation described in subparagraph (F), or
+                (vii) a private foundation described in subparagraph (F),
 
-                (viii) an organization described in section 509(a)(2) or (3),
+                (viii) an organization described in section 509(a)(2) or (3), or
+
+                (ix) an agricultural research organization directly engaged in the continuous active conduct of agricultural research (as defined in section 1404 of the Agricultural Research, Extension, and Teaching Policy Act of 1977)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  in conjunction with a land-grant college or university (as defined in such section) or a non-land grant college of agriculture (as defined in such section), and during the calendar year in which the contribution is made such organization is committed to spend such contribution for such research before January 1 of the fifth calendar year which begins after the date such contribution is made,
 
                 shall be allowed to the extent that the aggregate of such contributions does not exceed 50 percent of the taxpayer’s contribution base for the taxable year.
 
@@ -127,10 +129,6 @@
 
                     For purposes of clause (iv), the term “qualified farmer or rancher” means a taxpayer whose gross income from the trade or business of farming (within the meaning of section 2032A(e)(5)) is greater than 50 percent of the taxpayer’s gross income for the taxable year.
 
-                (vi) __Termination__ 
-
-                    This subparagraph shall not apply to any contribution made in taxable years beginning after December 31, 2014.
-
             (F) __Certain private foundations__ 
 
             The private foundations referred to in subparagraph (A)(vii) and subsection (e)(1)(B) are—
@@ -151,7 +149,7 @@
 
             (A) __In general__ 
 
-                The total deductions under subsection (a) for any taxable year (other than for contributions to which subparagraph (B) applies) shall not exceed 10 percent of the taxpayer’s taxable income.
+                The total deductions under subsection (a) for any taxable year (other than for contributions to which subparagraph (B) or (C) applies) shall not exceed 10 percent of the taxpayer’s taxable income.
 
             (B) __Qualified conservation contributions by certain corporate farmers and ranchers__ 
 
@@ -167,13 +165,29 @@
 
                 (ii) __Carryover__ 
 
-                    If the aggregate amount of contributions described in clause (i) exceeds the limitation of clause (i), such excess shall be treated (in a manner consistent with the rules of subsection (d)(2)) as a charitable contribution to which clause (i) applies in each of the 15 succeeding years in order of time.
+                    If the aggregate amount of contributions described in clause (i) exceeds the limitation of clause (i), such excess shall be treated (in a manner consistent with the rules of subsection (d)(2)) as a charitable contribution to which clause (i) applies in each of the 15 succeeding taxable years in order of time.
 
-                (iii) __Termination__ 
+            (C) __Qualified conservation contributions by certain native corporations__ 
 
-                    This subparagraph shall not apply to any contribution made in taxable years beginning after December 31, 2014.
+                (i) __In general__ 
 
-            (C) __Taxable income__ 
+                Any qualified conservation contribution (as defined in subsection (h)(1)) which—
+
+                    (I) is made by a Native Corporation, and
+
+                    (II) is a contribution of property which was land conveyed under the Alaska Native Claims Settlement Act,
+
+                 shall be allowed to the extent that the aggregate amount of such contributions does not exceed the excess of the taxpayer’s taxable income over the amount of charitable contributions allowable under subparagraph (A).
+
+                (ii) __Carryover__ 
+
+                    If the aggregate amount of contributions described in clause (i) exceeds the limitation of clause (i), such excess shall be treated (in a manner consistent with the rules of subsection (d)(2)) as a charitable contribution to which clause (i) applies in each of the 15 succeeding taxable years in order of time.
+
+                (iii) __Native corporation__ 
+
+                    For purposes of this subparagraph, the term “Native Corporation” has the meaning given such term by section 3(m) of the Alaska Native Claims Settlement Act.
+
+            (D) __Taxable income__ 
 
             For purposes of this paragraph, taxable income shall be computed without regard to—
 
@@ -321,15 +335,43 @@
 
                 (ii) __Limitation__ 
 
-                    In the case of a taxpayer other than a C corporation, the aggregate amount of such contributions for any taxable year which may be taken into account under this section shall not exceed 10 percent of the taxpayer’s aggregate net income for such taxable year from all trades or businesses from which such contributions were made for such year, computed without regard to this section.
+                The aggregate amount of such contributions for any taxable year which may be taken into account under this section shall not exceed—
 
-                (iii) __Apparently wholesome food__ 
+                    (I) in the case of any taxpayer other than a C corporation, 15 percent of the taxpayer’s aggregate net income for such taxable year from all trades or businesses from which such contributions were made for such year, computed without regard to this section, and
+
+                    (II) in the case of a C corporation, 15 percent of taxable income (as defined in subsection (b)(2)(D)).
+
+                (iii) __Rules related to limitation__ 
+
+                    (I) __Carryover__ 
+
+                        If such aggregate amount exceeds the limitation imposed under clause (ii), such excess shall be treated (in a manner consistent with the rules of subsection (d)) as a charitable contribution described in clause (i) in each of the 5 succeeding taxable years in order of time.
+
+                    (II) __Coordination with overall corporate limitation__ 
+
+                        In the case of any charitable contribution which is allowable after the application of clause (ii)(II), subsection (b)(2)(A) shall not apply to such contribution, but the limitation imposed by such subsection shall be reduced (but not below zero) by the aggregate amount of such contributions. For purposes of subsection (b)(2)(B), such contributions shall be treated as allowable under subsection (b)(2)(A).
+
+                (iv) __Determination of basis for certain taxpayers__ 
+
+                If a taxpayer—
+
+                    (I) does not account for inventories under section 471, and
+
+                    (II) is not required to capitalize indirect costs under section 263A,
+
+                 the taxpayer may elect, solely for purposes of subparagraph (B), to treat the basis of any apparently wholesome food as being equal to 25 percent of the fair market value of such food.
+
+                (v) __Determination of fair market value__ 
+
+                In the case of any such contribution of apparently wholesome food which cannot or will not be sold solely by reason of internal standards of the taxpayer, lack of market, or similar circumstances, or by reason of being produced by the taxpayer exclusively for the purposes of transferring the food to an organization described in subparagraph (A), the fair market value of such contribution shall be determined—
+
+                    (I) without regard to such internal standards, such lack of market, such circumstances, or such exclusive purpose, and
+
+                    (II) by taking into account the price at which the same or substantially the same food items (as to both type and quality) are sold by the taxpayer at the time of the contribution (or, if not so sold at such time, in the recent past).
+
+                (vi) __Apparently wholesome food__ 
 
                     For purposes of this subparagraph, the term “apparently wholesome food” has the meaning given to such term by section 22(b)(2) of the Bill Emerson Good Samaritan Food Donation Act ([42 U.S.C. 1791(b)(2)][/us/usc/t42/s1791/b/2]), as in effect on the date of the enactment of this subparagraph.
-
-                (iv) __Termination__ 
-
-                    This subparagraph shall not apply to contributions made after December 31, 2014.
 
             (D) __Special rule for contributions of book inventory to public schools__ 
 
@@ -709,7 +751,7 @@
 
                     (I) the individual demonstrates verifiable education and experience in valuing the type of property subject to the appraisal, and
 
-                    (II) the individual has not been prohibited from practicing before the Internal Revenue Service by the Secretary under [section 330(c) of title 31][/us/usc/t31/s330/c], United States Code, at any time during the 3-year period ending on the date of the appraisal.
+                    (II) the individual has not been prohibited from practicing before the Internal Revenue Service by the Secretary under section 330(c) 1 of title 31, United States Code, at any time during the 3-year period ending on the date of the appraisal.
 
             (F) __Aggregation of similar items of property__ 
 
@@ -1413,15 +1455,19 @@
 
         (9) For charitable contributions to or for the use of Indian tribal governments (or their subdivisions), see section 7871.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 58][/us/stat/68A/58]; [Aug. 7, 1956, ch. 1031, § 1][/us/act/1956-08-07/ch1031/s1], [70 Stat. 1117][/us/stat/70/1117]; [Pub. L. 85–866, title I][/us/pl/85/866], §§ 10(a), 11, 12(a), Sept. 2, 1958, [72 Stat. 1609][/us/stat/72/1609], 1610; [Pub. L. 86–779, § 7(a)][/us/pl/86/779/s7/a], Sept. 14, 1960, [74 Stat. 1002][/us/stat/74/1002]; [Pub. L. 87–834, § 13(d)][/us/pl/87/834/s13/d], Oct. 16, 1962, [76 Stat. 1034][/us/stat/76/1034]; [Pub. L. 87–858, § 2(a)][/us/pl/87/858/s2/a], (b), Oct. 23, 1962, [76 Stat. 1134][/us/stat/76/1134]; [Pub. L. 88–272, title II][/us/pl/88/272], §§ 209(a), (b), (c)(1), (d)(1), (e), 231(b)(1), Feb. 26, 1964, [78 Stat. 43][/us/stat/78/43], 45–47, 105; [Pub. L. 89–570, § 1(b)(1)][/us/pl/89/570/s1/b/1], Sept. 12, 1966, [80 Stat. 762][/us/stat/80/762]; [Pub. L. 91–172, title I, § 101(j)(2)][/us/pl/91/172/s101/j/2], title II, § 201(a)(1), (2)(A), (h)(1), Dec. 30, 1969, [83 Stat. 526][/us/stat/83/526], 549, 558, 565; [Pub. L. 94–455, title II, § 205(c)(1)(A)][/us/pl/94/455/s205/c/1/A], title X, § 1052(c)(2), title XIII, §§ 1307(c), (d)(1)(B)(i), 1313(b)(1), title XIX, §§ 1901(a)(28), (b)(8)(A), 1906(b)(13)(A), title XXI, §§ 2124(e)(1), 2135(a), Oct. 4, 1976, [90 Stat. 1535][/us/stat/90/1535], 1648, 1726, 1727, 1730, 1768, 1794, 1834, 1919, 1928; [Pub. L. 95–30, title III, § 309(a)][/us/pl/95/30/s309/a], May 23, 1977, [91 Stat. 154][/us/stat/91/154]; [Pub. L. 95–600, title IV][/us/pl/95/600], §§ 402(b)(2), 403(c)(1), Nov. 6, 1978, [92 Stat. 2868][/us/stat/92/2868]; [Pub. L. 96–465, title II, § 2206(e)(2)][/us/pl/96/465/s2206/e/2], Oct. 17, 1980, [94 Stat. 2162][/us/stat/94/2162]; [Pub. L. 96–541, § 6(a)][/us/pl/96/541/s6/a], (b), Dec. 17, 1980, [94 Stat. 3206][/us/stat/94/3206]; [Pub. L. 97–34, title I, § 121(a)][/us/pl/97/34/s121/a], title II, §§ 222(a), 263(a), Aug. 13, 1981, [95 Stat. 196][/us/stat/95/196], 248, 264; [Pub. L. 97–248, title II, § 286(b)(1)][/us/pl/97/248/s286/b/1], Sept. 3, 1982, [96 Stat. 570][/us/stat/96/570]; [Pub. L. 97–258, § 3(f)(1)][/us/pl/97/258/s3/f/1], Sept. 13, 1982, [96 Stat. 1064][/us/stat/96/1064]; [Pub. L. 97–354, § 5(a)(21)][/us/pl/97/354/s5/a/21], Oct. 19, 1982, [96 Stat. 1694][/us/stat/96/1694]; [Pub. L. 97–448, title I, § 102(f)(7)][/us/pl/97/448/s102/f/7], Jan. 12, 1983, [96 Stat. 2372][/us/stat/96/2372]; [Pub. L. 97–473, title II, § 202(b)(4)][/us/pl/97/473/s202/b/4], Jan. 14, 1983, [96 Stat. 2609][/us/stat/96/2609]; [Pub. L. 98–369, div. A, title I, § 174(b)(5)(A)][/us/pl/98/369/s174/b/5/A], title III, § 301(a)–(c), title IV, § 492(b)(1), title X, §§ 1022(b), 1031(a), 1032(b)(1), 1035(a), July 18, 1984, [98 Stat. 707][/us/stat/98/707], 777, 778, 854, 1028, 1033, 1042; [Pub. L. 99–514, title I, § 142(d)][/us/pl/99/514/s142/d], title II, § 231(f), title III, § 301(b)(2), title XVIII, § 1831, Oct. 22, 1986, [100 Stat. 2120][/us/stat/100/2120], 2180, 2217, 2851; [Pub. L. 100–203, title X, § 10711(a)(1)][/us/pl/100/203/s10711/a/1], Dec. 22, 1987, [101 Stat. 1330–464][/us/stat/101/1330-464]; [Pub. L. 100–647, title VI, § 6001(a)][/us/pl/100/647/s6001/a], Nov. 10, 1988, [102 Stat. 3683][/us/stat/102/3683]; [Pub. L. 101–508, title XI][/us/pl/101/508], §§ 11801(a)(11), (c)(5), 11813(b)(10), Nov. 5, 1990, [104 Stat. 1388–520][/us/stat/104/1388-520], 1388–523, 1388–554; [Pub. L. 103–66, title XIII][/us/pl/103/66], §§ 13172(a), 13222(b), Aug. 10, 1993, [107 Stat. 455][/us/stat/107/455], 479; [Pub. L. 104–188, title I][/us/pl/104/188], §§ 1206(a), 1316(b), Aug. 20, 1996, [110 Stat. 1776][/us/stat/110/1776], 1786; [Pub. L. 105–34, title II, § 224(a)][/us/pl/105/34/s224/a], title V, § 508(d), title VI, § 602(a), title IX, § 973(a), Aug. 5, 1997, [111 Stat. 818][/us/stat/111/818], 860, 862, 898; [Pub. L. 105–206, title VI, § 6004(e)][/us/pl/105/206/s6004/e], July 22, 1998, [112 Stat. 795][/us/stat/112/795]; [Pub. L. 105–277, div. J, title I, § 1004(a)(1)][/us/pl/105/277/s1004/a/1], Oct. 21, 1998, [112 Stat. 2681–888][/us/stat/112/2681-888]; [Pub. L. 106–170, title V][/us/pl/106/170], §§ 532(c)(1)(A), (B), 537(a), Dec. 17, 1999, [113 Stat. 1930][/us/stat/113/1930], 1936; [Pub. L. 106–554, § 1(a)(7)][/us/pl/106/554/s1/a/7] \[title I, § 165(a)–(e)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–626; [Pub. L. 107–16, title V, § 542(e)(2)(B)][/us/pl/107/16/s542/e/2/B], June 7, 2001, [115 Stat. 85][/us/stat/115/85]; [Pub. L. 107–147, title IV, § 417(7)][/us/pl/107/147/s417/7], (22), Mar. 9, 2002, [116 Stat. 56][/us/stat/116/56], 57; [Pub. L. 108–81, title V, § 503][/us/pl/108/81/s503], Sept. 25, 2003, [117 Stat. 1003][/us/stat/117/1003]; [Pub. L. 108–311, title II, § 207(15)][/us/pl/108/311/s207/15], (16), title III, § 306(a), Oct. 4, 2004, [118 Stat. 1177][/us/stat/118/1177], 1179; [Pub. L. 108–357, title III, § 335(a)][/us/pl/108/357/s335/a], title IV, § 413(c)(30), title VIII, §§ 882(a), (b), (d), 883(a), 884(a), Oct. 22, 2004, [118 Stat. 1478][/us/stat/118/1478], 1509, 1627, 1631, 1632; [Pub. L. 109–73, title III][/us/pl/109/73], §§ 305(a), 306(a), Sept. 23, 2005, [119 Stat. 2025][/us/stat/119/2025]; [Pub. L. 109–135, title IV, § 403(a)(16)][/us/pl/109/135/s403/a/16], (gg), Dec. 21, 2005, [119 Stat. 2619][/us/stat/119/2619], 2631; [Pub. L. 109–222, title II, § 204(b)][/us/pl/109/222/s204/b], May 17, 2006, [120 Stat. 350][/us/stat/120/350]; [Pub. L. 109–280, title XII][/us/pl/109/280], §§ 1202(a), 1204(a), 1206(a), (b)(1), 1213(a)–(d), 1214(a), (b), 1215(a), 1216(a), 1217(a), 1218(a), 1219(c)(1), 1234(a), Aug. 17, 2006, [120 Stat. 1066][/us/stat/120/1066], 1068, 1069, 1075–1077, 1079, 1080, 1084, 1100; [Pub. L. 109–432, div. A, title I, § 116(a)(1)][/us/pl/109/432/s116/a/1], (b)(1), (2), Dec. 20, 2006, [120 Stat. 2941][/us/stat/120/2941]; [Pub. L. 110–172][/us/pl/110/172], §§ 3(c), 11(a)(14)(A), (B), (15), (16), Dec. 29, 2007, [121 Stat. 2474][/us/stat/121/2474], 2485; [Pub. L. 110–234, title XV, § 15302(a)][/us/pl/110/234/s15302/a], May 22, 2008, [122 Stat. 1501][/us/stat/122/1501]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title XV, § 15302(a), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2263; [Pub. L. 110–343, div. C, title III][/us/pl/110/343], §§ 321(a), 323(a)(1), (b)(1), 324(a), (b), Oct. 3, 2008, [122 Stat. 3873–3875][/us/stat/122/3873-3875]; [Pub. L. 111–312, title III, § 301(a)][/us/pl/111/312/s301/a], title VII, §§ 723(a), (b), 740(a), 741(a), 742(a), Dec. 17, 2010, [124 Stat. 3300][/us/stat/124/3300], 3316, 3319; [Pub. L. 112–240, title II, § 206(a)][/us/pl/112/240/s206/a], (b), title III, § 314(a), Jan. 2, 2013, [126 Stat. 2324][/us/stat/126/2324], 2330; [Pub. L. 113–295, div. A, title I][/us/pl/113/295], §§ 106(a), (b), 126(a), title II, § 221(a)(28), Dec. 19, 2014, [128 Stat. 4013][/us/stat/128/4013], 4017, 4041; [Pub. L. 114–41, title II, § 2006(a)(2)(A)][/us/pl/114/41/s2006/a/2/A], July 31, 2015, [129 Stat. 457][/us/stat/129/457].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 58][/us/stat/68A/58]; [Aug. 7, 1956, ch. 1031, § 1][/us/act/1956-08-07/ch1031/s1], [70 Stat. 1117][/us/stat/70/1117]; [Pub. L. 85–866, title I][/us/pl/85/866], §§ 10(a), 11, 12(a), Sept. 2, 1958, [72 Stat. 1609][/us/stat/72/1609], 1610; [Pub. L. 86–779, § 7(a)][/us/pl/86/779/s7/a], Sept. 14, 1960, [74 Stat. 1002][/us/stat/74/1002]; [Pub. L. 87–834, § 13(d)][/us/pl/87/834/s13/d], Oct. 16, 1962, [76 Stat. 1034][/us/stat/76/1034]; [Pub. L. 87–858, § 2(a)][/us/pl/87/858/s2/a], (b), Oct. 23, 1962, [76 Stat. 1134][/us/stat/76/1134]; [Pub. L. 88–272, title II][/us/pl/88/272], §§ 209(a), (b), (c)(1), (d)(1), (e), 231(b)(1), Feb. 26, 1964, [78 Stat. 43][/us/stat/78/43], 45–47, 105; [Pub. L. 89–570, § 1(b)(1)][/us/pl/89/570/s1/b/1], Sept. 12, 1966, [80 Stat. 762][/us/stat/80/762]; [Pub. L. 91–172, title I, § 101(j)(2)][/us/pl/91/172/s101/j/2], title II, § 201(a)(1), (2)(A), (h)(1), Dec. 30, 1969, [83 Stat. 526][/us/stat/83/526], 549, 558, 565; [Pub. L. 94–455, title II, § 205(c)(1)(A)][/us/pl/94/455/s205/c/1/A], title X, § 1052(c)(2), title XIII, §§ 1307(c), (d)(1)(B)(i), 1313(b)(1), title XIX, §§ 1901(a)(28), (b)(8)(A), 1906(b)(13)(A), title XXI, §§ 2124(e)(1), 2135(a), Oct. 4, 1976, [90 Stat. 1535][/us/stat/90/1535], 1648, 1726, 1727, 1730, 1768, 1794, 1834, 1919, 1928; [Pub. L. 95–30, title III, § 309(a)][/us/pl/95/30/s309/a], May 23, 1977, [91 Stat. 154][/us/stat/91/154]; [Pub. L. 95–600, title IV][/us/pl/95/600], §§ 402(b)(2), 403(c)(1), Nov. 6, 1978, [92 Stat. 2868][/us/stat/92/2868]; [Pub. L. 96–465, title II, § 2206(e)(2)][/us/pl/96/465/s2206/e/2], Oct. 17, 1980, [94 Stat. 2162][/us/stat/94/2162]; [Pub. L. 96–541, § 6(a)][/us/pl/96/541/s6/a], (b), Dec. 17, 1980, [94 Stat. 3206][/us/stat/94/3206]; [Pub. L. 97–34, title I, § 121(a)][/us/pl/97/34/s121/a], title II, §§ 222(a), 263(a), Aug. 13, 1981, [95 Stat. 196][/us/stat/95/196], 248, 264; [Pub. L. 97–248, title II, § 286(b)(1)][/us/pl/97/248/s286/b/1], Sept. 3, 1982, [96 Stat. 570][/us/stat/96/570]; [Pub. L. 97–258, § 3(f)(1)][/us/pl/97/258/s3/f/1], Sept. 13, 1982, [96 Stat. 1064][/us/stat/96/1064]; [Pub. L. 97–354, § 5(a)(21)][/us/pl/97/354/s5/a/21], Oct. 19, 1982, [96 Stat. 1694][/us/stat/96/1694]; [Pub. L. 97–448, title I, § 102(f)(7)][/us/pl/97/448/s102/f/7], Jan. 12, 1983, [96 Stat. 2372][/us/stat/96/2372]; [Pub. L. 97–473, title II, § 202(b)(4)][/us/pl/97/473/s202/b/4], Jan. 14, 1983, [96 Stat. 2609][/us/stat/96/2609]; [Pub. L. 98–369, div. A, title I, § 174(b)(5)(A)][/us/pl/98/369/s174/b/5/A], title III, § 301(a)–(c), title IV, § 492(b)(1), title X, §§ 1022(b), 1031(a), 1032(b)(1), 1035(a), July 18, 1984, [98 Stat. 707][/us/stat/98/707], 777, 778, 854, 1028, 1033, 1042; [Pub. L. 99–514, title I, § 142(d)][/us/pl/99/514/s142/d], title II, § 231(f), title III, § 301(b)(2), title XVIII, § 1831, Oct. 22, 1986, [100 Stat. 2120][/us/stat/100/2120], 2180, 2217, 2851; [Pub. L. 100–203, title X, § 10711(a)(1)][/us/pl/100/203/s10711/a/1], Dec. 22, 1987, [101 Stat. 1330–464][/us/stat/101/1330-464]; [Pub. L. 100–647, title VI, § 6001(a)][/us/pl/100/647/s6001/a], Nov. 10, 1988, [102 Stat. 3683][/us/stat/102/3683]; [Pub. L. 101–508, title XI][/us/pl/101/508], §§ 11801(a)(11), (c)(5), 11813(b)(10), Nov. 5, 1990, [104 Stat. 1388–520][/us/stat/104/1388-520], 1388–523, 1388–554; [Pub. L. 103–66, title XIII][/us/pl/103/66], §§ 13172(a), 13222(b), Aug. 10, 1993, [107 Stat. 455][/us/stat/107/455], 479; [Pub. L. 104–188, title I][/us/pl/104/188], §§ 1206(a), 1316(b), Aug. 20, 1996, [110 Stat. 1776][/us/stat/110/1776], 1786; [Pub. L. 105–34, title II, § 224(a)][/us/pl/105/34/s224/a], title V, § 508(d), title VI, § 602(a), title IX, § 973(a), Aug. 5, 1997, [111 Stat. 818][/us/stat/111/818], 860, 862, 898; [Pub. L. 105–206, title VI, § 6004(e)][/us/pl/105/206/s6004/e], July 22, 1998, [112 Stat. 795][/us/stat/112/795]; [Pub. L. 105–277, div. J, title I, § 1004(a)(1)][/us/pl/105/277/s1004/a/1], Oct. 21, 1998, [112 Stat. 2681–888][/us/stat/112/2681-888]; [Pub. L. 106–170, title V][/us/pl/106/170], §§ 532(c)(1)(A), (B), 537(a), Dec. 17, 1999, [113 Stat. 1930][/us/stat/113/1930], 1936; [Pub. L. 106–554, § 1(a)(7)][/us/pl/106/554/s1/a/7] \[title I, § 165(a)–(e)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–626; [Pub. L. 107–16, title V, § 542(e)(2)(B)][/us/pl/107/16/s542/e/2/B], June 7, 2001, [115 Stat. 85][/us/stat/115/85]; [Pub. L. 107–147, title IV, § 417(7)][/us/pl/107/147/s417/7], (22), Mar. 9, 2002, [116 Stat. 56][/us/stat/116/56], 57; [Pub. L. 108–81, title V, § 503][/us/pl/108/81/s503], Sept. 25, 2003, [117 Stat. 1003][/us/stat/117/1003]; [Pub. L. 108–311, title II, § 207(15)][/us/pl/108/311/s207/15], (16), title III, § 306(a), Oct. 4, 2004, [118 Stat. 1177][/us/stat/118/1177], 1179; [Pub. L. 108–357, title III, § 335(a)][/us/pl/108/357/s335/a], title IV, § 413(c)(30), title VIII, §§ 882(a), (b), (d), 883(a), 884(a), Oct. 22, 2004, [118 Stat. 1478][/us/stat/118/1478], 1509, 1627, 1631, 1632; [Pub. L. 109–73, title III][/us/pl/109/73], §§ 305(a), 306(a), Sept. 23, 2005, [119 Stat. 2025][/us/stat/119/2025]; [Pub. L. 109–135, title IV, § 403(a)(16)][/us/pl/109/135/s403/a/16], (gg), Dec. 21, 2005, [119 Stat. 2619][/us/stat/119/2619], 2631; [Pub. L. 109–222, title II, § 204(b)][/us/pl/109/222/s204/b], May 17, 2006, [120 Stat. 350][/us/stat/120/350]; [Pub. L. 109–280, title XII][/us/pl/109/280], §§ 1202(a), 1204(a), 1206(a), (b)(1), 1213(a)–(d), 1214(a), (b), 1215(a), 1216(a), 1217(a), 1218(a), 1219(c)(1), 1234(a), Aug. 17, 2006, [120 Stat. 1066][/us/stat/120/1066], 1068, 1069, 1075–1077, 1079, 1080, 1084, 1100; [Pub. L. 109–432, div. A, title I, § 116(a)(1)][/us/pl/109/432/s116/a/1], (b)(1), (2), Dec. 20, 2006, [120 Stat. 2941][/us/stat/120/2941]; [Pub. L. 110–172][/us/pl/110/172], §§ 3(c), 11(a)(14)(A), (B), (15), (16), Dec. 29, 2007, [121 Stat. 2474][/us/stat/121/2474], 2485; [Pub. L. 110–234, title XV, § 15302(a)][/us/pl/110/234/s15302/a], May 22, 2008, [122 Stat. 1501][/us/stat/122/1501]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title XV, § 15302(a), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2263; [Pub. L. 110–343, div. C, title III][/us/pl/110/343], §§ 321(a), 323(a)(1), (b)(1), 324(a), (b), Oct. 3, 2008, [122 Stat. 3873–3875][/us/stat/122/3873-3875]; [Pub. L. 111–312, title III, § 301(a)][/us/pl/111/312/s301/a], title VII, §§ 723(a), (b), 740(a), 741(a), 742(a), Dec. 17, 2010, [124 Stat. 3300][/us/stat/124/3300], 3316, 3319; [Pub. L. 112–240, title II, § 206(a)][/us/pl/112/240/s206/a], (b), title III, § 314(a), Jan. 2, 2013, [126 Stat. 2324][/us/stat/126/2324], 2330; [Pub. L. 113–295, div. A, title I][/us/pl/113/295], §§ 106(a), (b), 126(a), title II, § 221(a)(28), Dec. 19, 2014, [128 Stat. 4013][/us/stat/128/4013], 4017, 4041; [Pub. L. 114–41, title II, § 2006(a)(2)(A)][/us/pl/114/41/s2006/a/2/A], July 31, 2015, [129 Stat. 457][/us/stat/129/457]; [Pub. L. 114–113, div. Q, title I][/us/pl/114/113], §§ 111(a)–(b)(2), 113(a), (b), title III, § 331(a), Dec. 18, 2015, [129 Stat. 3046][/us/stat/129/3046], 3047, 3104.)
 
  __References in Text__ 
 
+    Section 1404 of the Agricultural Research, Extension, and Teaching Policy Act of 1977, referred to in subsec. (b)(1)(A)(ix), probably means section 1404 of the National Agricultural Research, Extension, and Teaching Policy Act of 1977, which is classified to [section 3103 of Title 7][/us/usc/t7/s3103], Agriculture.
+
     The date of the enactment of this subparagraph, referred to in subsecs. (b)(1)(E)(iv)(II), (2)(B)(i)(II) and (h)(4)(B)(iii), is the date of enactment of [Pub. L. 109–280][/us/pl/109/280], which was approved Aug. 17, 2006.
+
+    The Alaska Native Claims Settlement Act, referred to in subsec. (b)(2)(C)(i)(II), (iii), is [Pub. L. 92–203][/us/pl/92/203], Dec. 18, 1971, [85 Stat. 688][/us/stat/85/688], which is classified generally to chapter 33 (§ 1601 et seq.) of Title 43, Public Lands. Section 3 of the Act is classified to [section 1602 of Title 43][/us/usc/t43/s1602]. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 43][/us/usc/t43/s1601] and Tables.
 
     The Federal Food, Drug, and Cosmetic Act, as amended, referred to in subsec. (e)(3)(A)(iv), is [act June 25, 1938, ch. 675][/us/act/1938-06-25/ch675], [52 Stat. 1040][/us/stat/52/1040], as amended, which is classified generally to chapter 9 (§ 301 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see [section 301 of Title 21][/us/usc/t21/s301] and Tables.
 
-    The date of the enactment of this subparagraph, referred to in subsec. (e)(3)(C)(iii), is the date of enactment of [Pub. L. 109–73][/us/pl/109/73], which was approved Sept. 23, 2005.
+    The date of the enactment of this subparagraph, referred to in subsec. (e)(3)(C)(vi), is the date of enactment of [Pub. L. 109–73][/us/pl/109/73], which was approved Sept. 23, 2005.[Section 330(c) of title 31][/us/usc/t31/s330/c], referred to in subsec. (f)(11)(E)(iii)(II), was redesignated [section 330(d) of title 31][/us/usc/t31/s330/d] by [Pub. L. 114–113, div. Q, title IV, § 410(1)][/us/pl/114/113/s410/1], Dec. 18, 2015, [129 Stat. 3121][/us/stat/129/3121].
 
     Section 25 of the State Department Basic Authorities Act of 1956, referred to in subsec. (p)(7), is classified to [section 2697 of Title 22][/us/usc/t22/s2697], Foreign Relations and Intercourse.
 
@@ -1434,6 +1480,28 @@
  __Amendments__ 
 
     2015—Subsec. (a)(2)(B). [Pub. L. 114–41][/us/pl/114/41] substituted “fourth month” for “third month”.
+
+    Subsec. (b)(1)(A)(ix). [Pub. L. 114–113, § 331(a)][/us/pl/114/113/s331/a], added cl. (ix).
+
+    Subsec. (b)(1)(E)(vi). [Pub. L. 114–113, § 111(a)(1)][/us/pl/114/113/s111/a/1], struck out cl. (vi). Text read as follows “This subparagraph shall not apply to any contribution made in taxable years beginning after December 31, 2014.”
+
+    Subsec. (b)(2)(A). [Pub. L. 114–113, § 111(b)(2)(A)][/us/pl/114/113/s111/b/2/A], substituted “subparagraph (B) or (C) applies” for “subparagraph (B) applies”.
+
+    Subsec. (b)(2)(B)(ii). [Pub. L. 114–113, § 111(b)(2)(B)][/us/pl/114/113/s111/b/2/B], substituted “15 succeeding taxable years” for “15 succeeding years”.
+
+    Subsec. (b)(2)(B)(iii). [Pub. L. 114–113, § 111(a)(2)][/us/pl/114/113/s111/a/2], struck out cl. (iii). Text read as follows: “This subparagraph shall not apply to any contribution made in taxable years beginning after December 31, 2014.”
+
+    Subsec. (b)(2)(C), (D). [Pub. L. 114–113, § 111(b)(1)][/us/pl/114/113/s111/b/1], added subpar. (C) and redesignated former subpar. (C) as (D).
+
+    Subsec. (e)(3)(C)(ii). [Pub. L. 114–113, § 113(b)][/us/pl/114/113/s113/b], added cl. (ii) and struck out former cl. (ii). Prior to amendment, text read as follows: “In the case of a taxpayer other than a C corporation, the aggregate amount of such contributions for any taxable year which may be taken into account under this section shall not exceed 10 percent of the taxpayer’s aggregate net income for such taxable year from all trades or businesses from which such contributions were made for such year, computed without regard to this section.”
+
+    Subsec. (e)(3)(C)(iii). [Pub. L. 114–113, § 113(b)][/us/pl/114/113/s113/b], added cl. (iii). Former cl. (iii) redesignated (vi).
+
+    Subsec. (e)(3)(C)(iv). [Pub. L. 114–113, § 113(b)][/us/pl/114/113/s113/b], added cl. (iv).
+
+    [Pub. L. 114–113, § 113(a)][/us/pl/114/113/s113/a], struck out cl. (iv). Text read as follows: “This subparagraph shall not apply to contributions made after December 31, 2014.”
+
+    Subsec. (e)(3)(C)(v), (vi). [Pub. L. 114–113, § 113(b)][/us/pl/114/113/s113/b], added cl. (v) and redesignated cl. (iii) as (vi).
 
     2014—Subsec. (b)(1)(E)(vi). [Pub. L. 113–295, § 106(a)][/us/pl/113/295/s106/a], substituted “December 31, 2014” for “December 31, 2013”.
 
@@ -1830,6 +1898,30 @@
     International Communication Agency, and Director thereof, redesignated United States Information Agency, and Director thereof, by [section 303 of Pub. L. 97–241][/us/pl/97/241/s303], title III, Aug. 24, 1982, [96 Stat. 291][/us/stat/96/291], set out as a note under [section 1461 of Title 22][/us/usc/t22/s1461], Foreign Relations and Intercourse. United States Information Agency (other than Broadcasting Board of Governors and International Broadcasting Bureau) abolished and functions transferred to Secretary of State, see sections 6531 and 6532 of Title 22.
 
  __Effective Date of 2015 Amendment__ 
+
+[Pub. L. 114–113, div. Q, title I, § 111(c)][/us/pl/114/113/s111/c], Dec. 18, 2015, [129 Stat. 3047][/us/stat/129/3047], provided that:
+
+>     “(1)  __Extension__  __.—__ 
+
+>     The amendments made by subsection (a) \[amending this section\] shall apply to contributions made in taxable years beginning after December 31, 2014.
+
+>     “(2)  __Modification__  __.—__ 
+
+>     The amendments made by subsection (b) \[amending this section\] shall apply to contributions made in taxable years beginning after December 31, 2015.”
+
+[Pub. L. 114–113, div. Q, title I, § 113(c)][/us/pl/114/113/s113/c], Dec. 18, 2015, [129 Stat. 3048][/us/stat/129/3048], provided that:
+
+>     “(1)  __Extension__  __.—__ 
+
+>     The amendment made by subsection (a) \[amending this section\] shall apply to contributions made after December 31, 2014.
+
+>     “(2)  __Modifications__  __.—__ 
+
+>     The amendments made by subsection (b) \[amending this section\] shall apply to taxable years beginning after December 31, 2015.”
+
+[Pub. L. 114–113, div. Q, title III, § 331(c)][/us/pl/114/113/s331/c], Dec. 18, 2015, [129 Stat. 3104][/us/stat/129/3104], provided that: 
+
+> “The amendments made by this section \[amending this section and [section 501 of this title][/us/usc/t26/s501]\] shall apply to contributions made on and after the date of the enactment of this Act \[Dec. 18, 2015\].”
 
 [Pub. L. 114–41, title II, § 2006(a)(3)][/us/pl/114/41/s2006/a/3], July 31, 2015, [129 Stat. 457][/us/stat/129/457], provided that:
 
@@ -2353,6 +2445,12 @@
 
     For provisions that nothing in amendment by [Pub. L. 101–508][/us/pl/101/508] be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see [section 11821(b) of Pub. L. 101–508][/us/pl/101/508/s11821/b], set out as a note under [section 45K of this title][/us/usc/t26/s45K].
 
+ __Construction; Valid Existing Rights Preserved__ 
+
+[Pub. L. 114–113, div. Q, title I, § 111(b)(3)][/us/pl/114/113/s111/b/3], Dec. 18, 2015, [129 Stat. 3047][/us/stat/129/3047], provided that: 
+
+> “Nothing in this subsection \[amending this section\] (or any amendment made by this subsection) shall be construed to modify the existing property rights validly conveyed to Native Corporations (within the meaning of section 3(m) of the Alaska Native Claims Settlement Act \[[43 U.S.C. 1602(m)][/us/usc/t43/s1602/m]\]) under such Act \[[43 U.S.C. 1601][/us/usc/t43/s1601] et seq.\].”
+
  __Transfer of Functions__ 
 
     United States International Development Cooperation Agency (other than Agency for International Development and Overseas Private Investment Corporation) abolished and functions and authorities transferred, see sections 6561 and 6562 of Title 22, Foreign Relations and Intercourse.
@@ -2499,7 +2597,6 @@
 [/us/usc/t42/s1791/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1791%2Fb%2F2
 [/us/pl/113/295/s221/a/28/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F28%2FB
 [/us/stat/128/4041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4041
-[/us/usc/t31/s330/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs330%2Fc
 [/us/pl/113/295/s221/a/28/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F28%2FC
 [/us/stat/128/4041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4041
 [/us/usc/t10/s6973]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs6973
@@ -2604,11 +2701,22 @@
 [/us/stat/128/4013]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4013
 [/us/pl/114/41/s2006/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F41%2Fs2006%2Fa%2F2%2FA
 [/us/stat/129/457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F457
+[/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
+[/us/stat/129/3046]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3046
+[/us/usc/t7/s3103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs3103
 [/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
+[/us/pl/92/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F203
+[/us/stat/85/688]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F688
+[/us/usc/t43/s1602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1602
+[/us/usc/t43/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1601
 [/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
 [/us/stat/52/1040]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F1040
 [/us/usc/t21/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs301
 [/us/pl/109/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F73
+[/us/usc/t31/s330/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs330%2Fc
+[/us/usc/t31/s330/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs330%2Fd
+[/us/pl/114/113/s410/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs410%2F1
+[/us/stat/129/3121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3121
 [/us/usc/t22/s2697]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2697
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
@@ -2616,6 +2724,17 @@
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
 [/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
 [/us/pl/114/41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F41
+[/us/pl/114/113/s331/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs331%2Fa
+[/us/pl/114/113/s111/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs111%2Fa%2F1
+[/us/pl/114/113/s111/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs111%2Fb%2F2%2FA
+[/us/pl/114/113/s111/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs111%2Fb%2F2%2FB
+[/us/pl/114/113/s111/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs111%2Fa%2F2
+[/us/pl/114/113/s111/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs111%2Fb%2F1
+[/us/pl/114/113/s113/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs113%2Fb
+[/us/pl/114/113/s113/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs113%2Fb
+[/us/pl/114/113/s113/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs113%2Fb
+[/us/pl/114/113/s113/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs113%2Fa
+[/us/pl/114/113/s113/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs113%2Fb
 [/us/pl/113/295/s106/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs106%2Fa
 [/us/pl/113/295/s106/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs106%2Fb
 [/us/pl/113/295/s221/a/28/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F28%2FA
@@ -2826,6 +2945,13 @@
 [/us/pl/97/241/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F241%2Fs303
 [/us/stat/96/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F291
 [/us/usc/t22/s1461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1461
+[/us/pl/114/113/s111/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs111%2Fc
+[/us/stat/129/3047]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3047
+[/us/pl/114/113/s113/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs113%2Fc
+[/us/stat/129/3048]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3048
+[/us/pl/114/113/s331/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs331%2Fc
+[/us/stat/129/3104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3104
+[/us/usc/t26/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs501
 [/us/pl/114/41/s2006/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F41%2Fs2006%2Fa%2F3
 [/us/stat/129/457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F457
 [/us/pl/113/295/s106/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs106%2Fc
@@ -3106,6 +3232,10 @@
 [/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
 [/us/pl/101/508/s11821/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11821%2Fb
 [/us/usc/t26/s45K]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs45K
+[/us/pl/114/113/s111/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs111%2Fb%2F3
+[/us/stat/129/3047]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3047
+[/us/usc/t43/s1602/m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1602%2Fm
+[/us/usc/t43/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1601
 [/us/pl/108/357/s882/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs882%2Fe
 [/us/stat/118/1631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1631
 [/us/pl/100/647/s6281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs6281

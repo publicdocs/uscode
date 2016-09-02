@@ -43,7 +43,7 @@
 
          For purposes of subsection (a)—
 
-            (A) any excess of the sum of the credits allowable under sections 24(d), 25A by reason of subsection (i)(6) thereof, 32, 34, 35, 36, 36B, 168(k)(4), and 6431 over the tax imposed by subtitle A (determined without regard to such credits), and
+            (A) any excess of the sum of the credits allowable under sections 24(d), 25A by reason of subsection (i)(6)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  thereof, 32, 34, 35, 36, 36B, 168(k)(4), and 6431 over the tax imposed by subtitle A (determined without regard to such credits), and
 
             (B) any excess of the sum of such credits as shown by the taxpayer on his return over the amount shown as the tax by the taxpayer on such return (determined without regard to such credits),
 
@@ -54,6 +54,10 @@
         In determining the amount of any deficiency for purposes of this subchapter, adjustments to partnership items shall be made only as provided in subchapters C and D.
 
 ([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 770][/us/stat/68A/770]; [Pub. L. 89–44, title VIII, § 809(d)(5)(A)][/us/pl/89/44/s809/d/5/A], June 21, 1965, [79 Stat. 168][/us/stat/79/168]; [Pub. L. 89–368, title I, § 102(b)(4)][/us/pl/89/368/s102/b/4], Mar. 15, 1966, [80 Stat. 64][/us/stat/80/64]; [Pub. L. 91–172, title I, § 101(f)(1)][/us/pl/91/172/s101/f/1], (j)(39), Dec. 30, 1969, [83 Stat. 524][/us/stat/83/524], 530; [Pub. L. 93–406, title II, § 1016(a)(9)][/us/pl/93/406/s1016/a/9], Sept. 2, 1974, [88 Stat. 929][/us/stat/88/929]; [Pub. L. 94–455, title XII, § 1204(c)(4)][/us/pl/94/455/s1204/c/4], title XIII, § 1307(d)(2)(E), (F)(i), title XVI, § 1605(b)(4), title XIX, § 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1698][/us/stat/90/1698], 1728, 1754, 1834; [Pub. L. 96–223, title I, § 101(f)(1)(A)][/us/pl/96/223/s101/f/1/A], (B), (2), (3), Apr. 2, 1980, [94 Stat. 252][/us/stat/94/252]; [Pub. L. 98–369, div. A, title IV, § 474(r)(33)][/us/pl/98/369/s474/r/33], July 18, 1984, [98 Stat. 845][/us/stat/98/845]; [Pub. L. 100–203, title X, § 10713(b)(2)(B)][/us/pl/100/203/s10713/b/2/B], Dec. 22, 1987, [101 Stat. 1330–470][/us/stat/101/1330-470]; [Pub. L. 100–418, title I, § 1941(b)(2)(B)(i)][/us/pl/100/418/s1941/b/2/B/i], (ii), (C), (D), Aug. 23, 1988, [102 Stat. 1323][/us/stat/102/1323]; [Pub. L. 100–647, title I, § 1015(r)(2)][/us/pl/100/647/s1015/r/2], Nov. 10, 1988, [102 Stat. 3572][/us/stat/102/3572]; [Pub. L. 105–34, title XII, § 1231(b)][/us/pl/105/34/s1231/b], Aug. 5, 1997, [111 Stat. 1023][/us/stat/111/1023]; [Pub. L. 105–206, title VI, § 6012(f)][/us/pl/105/206/s6012/f], July 22, 1998, [112 Stat. 819][/us/stat/112/819]; [Pub. L. 106–554, § 1(a)(7)][/us/pl/106/554/s1/a/7] \[title III, § 314(a)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–643; [Pub. L. 109–432, div. A, title IV, § 402(b)(1)][/us/pl/109/432/s402/b/1], Dec. 20, 2006, [120 Stat. 2954][/us/stat/120/2954]; [Pub. L. 110–172, § 11(a)(35)][/us/pl/110/172/s11/a/35], Dec. 29, 2007, [121 Stat. 2487][/us/stat/121/2487]; [Pub. L. 110–185, title I, § 101(b)(1)][/us/pl/110/185/s101/b/1], Feb. 13, 2008, [122 Stat. 615][/us/stat/122/615]; [Pub. L. 110–289, div. C, title I, § 3011(b)(2)][/us/pl/110/289/s3011/b/2], July 30, 2008, [122 Stat. 2891][/us/stat/122/2891]; [Pub. L. 111–5, div. B, title I][/us/pl/111/5], §§ 1001(e)(1), 1004(b)(7), 1201(a)(3)(B), (b)(2), 1531(c)(4), Feb. 17, 2009, [123 Stat. 312][/us/stat/123/312], 314, 334, 360; [Pub. L. 111–148, title I, § 1401(d)(3)][/us/pl/111/148/s1401/d/3], as added title X, §§ 10105(d), 10909(b)(2)(N), (c), Mar. 23, 2010, [124 Stat. 906][/us/stat/124/906], 1023; [Pub. L. 111–312, title I, § 101(b)(1)][/us/pl/111/312/s101/b/1], Dec. 17, 2010, [124 Stat. 3298][/us/stat/124/3298]; [Pub. L. 113–295, div. A, title II, § 221(a)(5)(B)][/us/pl/113/295/s221/a/5/B], (8)(B), (112)(B), Dec. 19, 2014, [128 Stat. 4037][/us/stat/128/4037], 4038, 4054.)
+
+ __References in Text__ 
+
+    Section 25A(i)(6), referred to in subsec. (b)(4)(A), was redesignated section 25A(i)(5) by [Pub. L. 112–240, title I, § 104(c)(2)(D)(i)][/us/pl/112/240/s104/c/2/D/i], Jan. 2, 2013, [126 Stat. 2322][/us/stat/126/2322].
 
  __Amendments__ 
 
@@ -268,6 +272,8 @@
 [/us/stat/124/3298]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3298
 [/us/pl/113/295/s221/a/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F5%2FB
 [/us/stat/128/4037]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4037
+[/us/pl/112/240/s104/c/2/D/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs104%2Fc%2F2%2FD%2Fi
+[/us/stat/126/2322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2322
 [/us/pl/113/295/s221/a/112/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F112%2FB
 [/us/pl/113/295/s221/a/8/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F8%2FB
 [/us/pl/113/295/s221/a/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F5%2FB

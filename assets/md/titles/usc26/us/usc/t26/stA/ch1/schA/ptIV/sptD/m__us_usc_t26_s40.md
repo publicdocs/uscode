@@ -205,7 +205,7 @@
 
                 (i) __In general__ 
 
-                    This paragraph shall apply with respect to qualified second generation biofuel production after December 31, 2008, and before January 1, 2015.
+                    This paragraph shall apply with respect to qualified second generation biofuel production after December 31, 2008, and before January 1, 2017.
 
                 (ii) __No carryover to certain years after expiration__ 
 
@@ -507,7 +507,7 @@
 
                 A determination described in this subparagraph with respect to any calendar year is a determination, in consultation with the Administrator of the Environmental Protection Agency, that an amount less than 7,500,000,000 gallons of ethanol (including cellulosic ethanol) has been produced in or imported into the United States in such year.
 
-(Added [Pub. L. 96–223, title II, § 232(b)(1)][/us/pl/96/223/s232/b/1], Apr. 2, 1980, [94 Stat. 273][/us/stat/94/273], § 44E; amended [Pub. L. 97–34, title II][/us/pl/97/34] § 207(c)(3), Aug. 13, 1981, [95 Stat. 225][/us/stat/95/225]; [Pub. L. 97–354, § 5(a)(2)][/us/pl/97/354/s5/a/2], Oct. 19, 1982, [96 Stat. 1692][/us/stat/96/1692]; [Pub. L. 97–424, title V, § 511(b)(2)][/us/pl/97/424/s511/b/2], (d)(3), Jan. 6, 1983, [96 Stat. 2170][/us/stat/96/2170], 2171; renumbered § 40 and amended [Pub. L. 98–369, div. A, title IV][/us/pl/98/369], §§ 471(c), 474(k), title IX, §§ 912(c), (f), 913(b), July 18, 1984, [98 Stat. 826][/us/stat/98/826], 832, 1007, 1008; [Pub. L. 100–203, title X, § 10502(d)(1)][/us/pl/100/203/s10502/d/1], Dec. 22, 1987, [101 Stat. 1330–444][/us/stat/101/1330-444]; [Pub. L. 101–508, title XI, § 11502(a)][/us/pl/101/508/s11502/a]–(f), Nov. 5, 1990, [104 Stat. 1388–480][/us/stat/104/1388-480] to 1388–482; [Pub. L. 104–188, title I, § 1703(j)][/us/pl/104/188/s1703/j], Aug. 20, 1996, [110 Stat. 1876][/us/stat/110/1876]; [Pub. L. 105–178, title IX, § 9003(a)(3)][/us/pl/105/178/s9003/a/3], (b)(1), June 9, 1998, [112 Stat. 502][/us/stat/112/502]; [Pub. L. 108–357, title III][/us/pl/108/357], §§ 301(c)(1)–(4), 313(a), Oct. 22, 2004, [118 Stat. 1461][/us/stat/118/1461], 1467; [Pub. L. 109–58, title XIII, § 1347(a)][/us/pl/109/58/s1347/a], (b), Aug. 8, 2005, [119 Stat. 1056][/us/stat/119/1056]; [Pub. L. 110–234, title XV][/us/pl/110/234], §§ 15321(a)–(b)(2), (3)(B), (c)–(e), 15331(a), 15332(a), May 22, 2008, [122 Stat. 1512–1516][/us/stat/122/1512-1516]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title XV, §§ 15321(a)–(b)(2), (3)(B), (c)–(e), 15331(a), 15332(a), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2274–2278; [Pub. L. 110–343, div. B, title II, § 203(a)][/us/pl/110/343/s203/a], Oct. 3, 2008, [122 Stat. 3833][/us/stat/122/3833]; [Pub. L. 111–152, title I, § 1408(a)][/us/pl/111/152/s1408/a], Mar. 30, 2010, [124 Stat. 1067][/us/stat/124/1067]; [Pub. L. 111–240, title II, § 2121(a)][/us/pl/111/240/s2121/a], Sept. 27, 2010, [124 Stat. 2567][/us/stat/124/2567]; [Pub. L. 111–312, title VII, § 708(a)(1)][/us/pl/111/312/s708/a/1], (2), Dec. 17, 2010, [124 Stat. 3312][/us/stat/124/3312]; [Pub. L. 112–240, title IV, § 404(a)(1)][/us/pl/112/240/s404/a/1], (2), (b)(1)–(3)(B), Jan. 2, 2013, [126 Stat. 2338][/us/stat/126/2338], 2339; [Pub. L. 113–295, div. A, title I, § 152(a)][/us/pl/113/295/s152/a], Dec. 19, 2014, [128 Stat. 4021][/us/stat/128/4021].)
+(Added [Pub. L. 96–223, title II, § 232(b)(1)][/us/pl/96/223/s232/b/1], Apr. 2, 1980, [94 Stat. 273][/us/stat/94/273], § 44E; amended [Pub. L. 97–34, title II][/us/pl/97/34] § 207(c)(3), Aug. 13, 1981, [95 Stat. 225][/us/stat/95/225]; [Pub. L. 97–354, § 5(a)(2)][/us/pl/97/354/s5/a/2], Oct. 19, 1982, [96 Stat. 1692][/us/stat/96/1692]; [Pub. L. 97–424, title V, § 511(b)(2)][/us/pl/97/424/s511/b/2], (d)(3), Jan. 6, 1983, [96 Stat. 2170][/us/stat/96/2170], 2171; renumbered § 40 and amended [Pub. L. 98–369, div. A, title IV][/us/pl/98/369], §§ 471(c), 474(k), title IX, §§ 912(c), (f), 913(b), July 18, 1984, [98 Stat. 826][/us/stat/98/826], 832, 1007, 1008; [Pub. L. 100–203, title X, § 10502(d)(1)][/us/pl/100/203/s10502/d/1], Dec. 22, 1987, [101 Stat. 1330–444][/us/stat/101/1330-444]; [Pub. L. 101–508, title XI, § 11502(a)][/us/pl/101/508/s11502/a]–(f), Nov. 5, 1990, [104 Stat. 1388–480][/us/stat/104/1388-480] to 1388–482; [Pub. L. 104–188, title I, § 1703(j)][/us/pl/104/188/s1703/j], Aug. 20, 1996, [110 Stat. 1876][/us/stat/110/1876]; [Pub. L. 105–178, title IX, § 9003(a)(3)][/us/pl/105/178/s9003/a/3], (b)(1), June 9, 1998, [112 Stat. 502][/us/stat/112/502]; [Pub. L. 108–357, title III][/us/pl/108/357], §§ 301(c)(1)–(4), 313(a), Oct. 22, 2004, [118 Stat. 1461][/us/stat/118/1461], 1467; [Pub. L. 109–58, title XIII, § 1347(a)][/us/pl/109/58/s1347/a], (b), Aug. 8, 2005, [119 Stat. 1056][/us/stat/119/1056]; [Pub. L. 110–234, title XV][/us/pl/110/234], §§ 15321(a)–(b)(2), (3)(B), (c)–(e), 15331(a), 15332(a), May 22, 2008, [122 Stat. 1512–1516][/us/stat/122/1512-1516]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title XV, §§ 15321(a)–(b)(2), (3)(B), (c)–(e), 15331(a), 15332(a), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2274–2278; [Pub. L. 110–343, div. B, title II, § 203(a)][/us/pl/110/343/s203/a], Oct. 3, 2008, [122 Stat. 3833][/us/stat/122/3833]; [Pub. L. 111–152, title I, § 1408(a)][/us/pl/111/152/s1408/a], Mar. 30, 2010, [124 Stat. 1067][/us/stat/124/1067]; [Pub. L. 111–240, title II, § 2121(a)][/us/pl/111/240/s2121/a], Sept. 27, 2010, [124 Stat. 2567][/us/stat/124/2567]; [Pub. L. 111–312, title VII, § 708(a)(1)][/us/pl/111/312/s708/a/1], (2), Dec. 17, 2010, [124 Stat. 3312][/us/stat/124/3312]; [Pub. L. 112–240, title IV, § 404(a)(1)][/us/pl/112/240/s404/a/1], (2), (b)(1)–(3)(B), Jan. 2, 2013, [126 Stat. 2338][/us/stat/126/2338], 2339; [Pub. L. 113–295, div. A, title I, § 152(a)][/us/pl/113/295/s152/a], Dec. 19, 2014, [128 Stat. 4021][/us/stat/128/4021]; [Pub. L. 114–113, div. Q, title I, § 184(a)][/us/pl/114/113/s184/a], Dec. 18, 2015, [129 Stat. 3073][/us/stat/129/3073].)
 
  __Codification__ 
 
@@ -520,6 +520,8 @@
     Another prior section 40 was renumbered [section 37 of this title][/us/usc/t26/s37].
 
  __Amendments__ 
+
+    2015—Subsec. (b)(6)(J)(i). [Pub. L. 114–113][/us/pl/114/113] substituted “January 1, 2017” for “January 1, 2015”.
 
     2014—Subsec. (b)(6)(J)(i). [Pub. L. 113–295][/us/pl/113/295] substituted “January 1, 2015” for “January 1, 2014”.
 
@@ -684,6 +686,12 @@
     1982—Subsec. (d)(5). [Pub. L. 97–354][/us/pl/97/354] substituted “Pass-thru in the case of estates and trusts” for “Pass-through in the case of subchapter S corporations, etc.” in par. heading, and substituted provisions relating to the applicability of rules similar to rules of subsec. (d) of section 52 for provisions relating to the applicability of rules similar to rules of subsecs. (d) and (e) of section 52.
 
     1981—Subsec. (e)(2)(A). [Pub. L. 97–34][/us/pl/97/34] substituted “15” for “7” in two places, and “14” for “6” in one place.
+
+ __Effective Date of 2015 Amendment__ 
+
+[Pub. L. 114–113, div. Q, title I, § 184(b)][/us/pl/114/113/s184/b], Dec. 18, 2015, [129 Stat. 3073][/us/stat/129/3073], provided that: 
+
+> “The amendment made by this subsection \[probably means this section, amending this section\] shall apply to qualified second generation biofuel production after December 31, 2014.”
 
  __Effective Date of 2014 Amendment__ 
 
@@ -871,6 +879,8 @@
 [/us/stat/126/2338]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2338
 [/us/pl/113/295/s152/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs152%2Fa
 [/us/stat/128/4021]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4021
+[/us/pl/114/113/s184/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs184%2Fa
+[/us/stat/129/3073]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3073
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
@@ -882,6 +892,7 @@
 [/us/pl/98/369/s474/m/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs474%2Fm%2F1
 [/us/stat/98/833]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F833
 [/us/usc/t26/s37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs37
+[/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
 [/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
 [/us/pl/112/240/s404/b/3/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs404%2Fb%2F3%2FA%2Fi
 [/us/pl/112/240/s404/b/3/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs404%2Fb%2F3%2FA%2Fii
@@ -962,6 +973,8 @@
 [/us/pl/97/424/s511/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F424%2Fs511%2Fd%2F3
 [/us/pl/97/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F354
 [/us/pl/97/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34
+[/us/pl/114/113/s184/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs184%2Fb
+[/us/stat/129/3073]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3073
 [/us/pl/113/295/s152/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs152%2Fb
 [/us/stat/128/4021]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4021
 [/us/pl/112/240/s404/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs404%2Fa%2F3

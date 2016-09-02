@@ -113,15 +113,17 @@
 
     (g) __Termination__ 
 
-        This section shall not apply to any property placed in service after December 31, 2014.
+        This section shall not apply to any property placed in service after December 31, 2016.
 
-(Added [Pub. L. 109–58, title XIII, § 1342(a)][/us/pl/109/58/s1342/a], Aug. 8, 2005, [119 Stat. 1049][/us/stat/119/1049]; amended [Pub. L. 109–135, title IV][/us/pl/109/135], §§ 402(k), 412(d), Dec. 21, 2005, [119 Stat. 2615][/us/stat/119/2615], 2636; [Pub. L. 110–172, § 6(b)][/us/pl/110/172/s6/b], Dec. 29, 2007, [121 Stat. 2479][/us/stat/121/2479]; [Pub. L. 110–343, div. B, title II, § 207(a)][/us/pl/110/343/s207/a], (b), Oct. 3, 2008, [122 Stat. 3839][/us/stat/122/3839]; [Pub. L. 111–5, div. B, title I][/us/pl/111/5], §§ 1123(a), 1142(b)(3), 1144(b)(2), Feb. 17, 2009, [123 Stat. 325][/us/stat/123/325], 331, 332; [Pub. L. 111–312, title VII, § 711(a)][/us/pl/111/312/s711/a], Dec. 17, 2010, [124 Stat. 3315][/us/stat/124/3315]; [Pub. L. 112–240, title IV, § 402(a)][/us/pl/112/240/s402/a], Jan. 2, 2013, [126 Stat. 2337][/us/stat/126/2337]; [Pub. L. 113–295, div. A, title I, § 161(a)][/us/pl/113/295/s161/a], title II, §§ 218(b), 221(a)(34)(B), Dec. 19, 2014, [128 Stat. 4023][/us/stat/128/4023], 4035, 4042.)
+(Added [Pub. L. 109–58, title XIII, § 1342(a)][/us/pl/109/58/s1342/a], Aug. 8, 2005, [119 Stat. 1049][/us/stat/119/1049]; amended [Pub. L. 109–135, title IV][/us/pl/109/135], §§ 402(k), 412(d), Dec. 21, 2005, [119 Stat. 2615][/us/stat/119/2615], 2636; [Pub. L. 110–172, § 6(b)][/us/pl/110/172/s6/b], Dec. 29, 2007, [121 Stat. 2479][/us/stat/121/2479]; [Pub. L. 110–343, div. B, title II, § 207(a)][/us/pl/110/343/s207/a], (b), Oct. 3, 2008, [122 Stat. 3839][/us/stat/122/3839]; [Pub. L. 111–5, div. B, title I][/us/pl/111/5], §§ 1123(a), 1142(b)(3), 1144(b)(2), Feb. 17, 2009, [123 Stat. 325][/us/stat/123/325], 331, 332; [Pub. L. 111–312, title VII, § 711(a)][/us/pl/111/312/s711/a], Dec. 17, 2010, [124 Stat. 3315][/us/stat/124/3315]; [Pub. L. 112–240, title IV, § 402(a)][/us/pl/112/240/s402/a], Jan. 2, 2013, [126 Stat. 2337][/us/stat/126/2337]; [Pub. L. 113–295, div. A, title I, § 161(a)][/us/pl/113/295/s161/a], title II, §§ 218(b), 221(a)(34)(B), Dec. 19, 2014, [128 Stat. 4023][/us/stat/128/4023], 4035, 4042; [Pub. L. 114–113, div. Q, title I, § 182(a)][/us/pl/114/113/s182/a], Dec. 18, 2015, [129 Stat. 3072][/us/stat/129/3072].)
 
  __References in Text__ 
 
     Section 179A as in effect immediately before its repeal, referred to in subsec. (e)(7), means [section 179A of this title][/us/usc/t26/s179A] as in effect before it was repealed by [Pub. L. 113–295, div. A, title II, § 221(a)(34)(A)][/us/pl/113/295/s221/a/34/A], Dec, 19, 2014, [128 Stat. 4042][/us/stat/128/4042], effective Dec. 19, 2014.
 
  __Amendments__ 
+
+    2015—Subsec. (g). [Pub. L. 114–113][/us/pl/114/113] substituted “December 31, 2016” for “December 31, 2014”.
 
     2014—Subsec. (e)(1). [Pub. L. 113–295, § 218(b)][/us/pl/113/295/s218/b], amended par. (1) generally. Prior to amendment, text read as follows: “The basis of any property shall be reduced by the portion of the cost of such property taken into account under subsection (a).”
 
@@ -162,6 +164,12 @@
     2005—Subsec. (d)(2)(A). [Pub. L. 109–135, § 412(d)][/us/pl/109/135/s412/d], substituted “regular tax liability (as defined in section 26(b))” for “regular tax”.
 
     Subsec. (e)(2). [Pub. L. 109–135, § 402(k)][/us/pl/109/135/s402/k], inserted at end “For purposes of subsection (d), property to which this paragraph applies shall be treated as of a character subject to an allowance for depreciation.”
+
+ __Effective Date of 2015 Amendment__ 
+
+[Pub. L. 114–113, div. Q, title I, § 182(b)][/us/pl/114/113/s182/b], Dec. 18, 2015, [129 Stat. 3072][/us/stat/129/3072], provided that: 
+
+> “The amendment made by this section \[amending this section\] shall apply to property placed in service after December 31, 2014.”
 
  __Effective Date of 2014 Amendment__ 
 
@@ -250,9 +258,12 @@
 [/us/stat/126/2337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2337
 [/us/pl/113/295/s161/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs161%2Fa
 [/us/stat/128/4023]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4023
+[/us/pl/114/113/s182/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs182%2Fa
+[/us/stat/129/3072]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3072
 [/us/usc/t26/s179A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs179A
 [/us/pl/113/295/s221/a/34/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F34%2FA
 [/us/stat/128/4042]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4042
+[/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
 [/us/pl/113/295/s218/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs218%2Fb
 [/us/pl/113/295/s221/a/34/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F34%2FB
 [/us/pl/113/295/s161/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs161%2Fa
@@ -267,6 +278,8 @@
 [/us/pl/110/172/s6/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F172%2Fs6%2Fb%2F2
 [/us/pl/109/135/s412/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135%2Fs412%2Fd
 [/us/pl/109/135/s402/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135%2Fs402%2Fk
+[/us/pl/114/113/s182/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs182%2Fb
+[/us/stat/129/3072]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3072
 [/us/pl/113/295/s161/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs161%2Fb
 [/us/stat/128/4023]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4023
 [/us/pl/113/295/s218/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs218%2Fb

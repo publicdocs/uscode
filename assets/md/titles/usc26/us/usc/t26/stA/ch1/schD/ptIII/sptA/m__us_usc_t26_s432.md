@@ -1091,6 +1091,10 @@
 
 (Added [Pub. L. 109–280, title II, § 212(a)][/us/pl/109/280/s212/a], Aug. 17, 2006, [120 Stat. 899][/us/stat/120/899]; amended [Pub. L. 110–458, title I, § 102(b)(2)(A)][/us/pl/110/458/s102/b/2/A]–(G), Dec. 23, 2008, [122 Stat. 5101][/us/stat/122/5101], 5102; [Pub. L. 113–235, div. O, title I][/us/pl/113/235], §§ 102(b), 103(b), 104(b), 105(b), 106(b), 107(b), 109(b), title II, § 201(b)(1)–(6), Dec. 16, 2014, [128 Stat. 2776][/us/stat/128/2776], 2778, 2780–2782, 2784, 2790, 2810–2822.)
 
+ __Inflation Adjusted Items for Certain Years__ 
+
+    For inflation adjustment of certain items in this section, see Internal Revenue Notices listed in a table under [section 401 of this title][/us/usc/t26/s401].
+
  __References in Text__ 
 
     The Employee Retirement Income Security Act of 1974, referred to in text, is [Pub. L. 93–406][/us/pl/93/406], Sept. 2, 1974, [88 Stat. 829][/us/stat/88/829]. Sections 101, 103, 104, 502, 515, 4004, 4022A, 4201, 4203, 4211, 4212, 4219, 4233, and 4245 of the Act are classified to sections 1021, 1023, 1024, 1132, 1145, 1304, 1322a, 1381, 1383, 1391, 1392, 1399, 1413, and 1426, respectively, of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of Title 29][/us/usc/t29/s1001] and Tables.
@@ -1366,6 +1370,7 @@
 [/us/stat/122/5101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F5101
 [/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
 [/us/stat/128/2776]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2776
+[/us/usc/t26/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs401
 [/us/pl/93/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406
 [/us/stat/88/829]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F829
 [/us/usc/t29/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1001

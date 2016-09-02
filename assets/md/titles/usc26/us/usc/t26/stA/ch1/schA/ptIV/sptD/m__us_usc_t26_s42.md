@@ -63,11 +63,11 @@
 
                 (iii) by assuming that the credit allowable under this section for any year is received on the last day of such year.
 
-        (2) __Temporary minimum credit rate for non-federally subsidized new buildings__ 
+        (2) __Minimum credit rate for non-federally subsidized new buildings__ 
 
         In the case of any new building—
 
-            (A) which is placed in service by the taxpayer after the date of the enactment of this paragraph with respect to housing credit dollar amount allocations made before January 1, 2015, and
+            (A) which is placed in service by the taxpayer after the date of the enactment of this paragraph, and
 
             (B) which is not federally subsidized for the taxable year,
 
@@ -1509,7 +1509,7 @@
 
         (4) providing the opportunity for housing credit agencies to correct administrative errors and omissions with respect to allocations and record keeping within a reasonable period after their discovery, taking into account the availability of regulations and other administrative guidance from the Secretary.
 
-(Added [Pub. L. 99–514, title II, § 252(a)][/us/pl/99/514/s252/a], Oct. 22, 1986, [100 Stat. 2189][/us/stat/100/2189]; amended [Pub. L. 99–509, title VIII, § 8072(a)][/us/pl/99/509/s8072/a], Oct. 21, 1986, [100 Stat. 1964][/us/stat/100/1964]; [Pub. L. 100–647, title I][/us/pl/100/647], §§ 1002(l)(1)–(25), (32), 1007(g)(3)(B), title IV, §§ 4003(a), (b)(1), (3), 4004(a), Nov. 10, 1988, [102 Stat. 3373–3381][/us/stat/102/3373-3381], 3435, 3643, 3644; [Pub. L. 101–239, title VII][/us/pl/101/239], §§ 7108(a)(1), (b)–(e)(2), (f)–(m), (n)(2)–(q), 7811(a), 7831(c), 7841(d)(13)–(15), Dec. 19, 1989, [103 Stat. 2306–2321][/us/stat/103/2306-2321], 2406, 2426, 2429; [Pub. L. 101–508, title XI][/us/pl/101/508], §§ 11407(a)(1), (b)(1)–(9), 11701(a)(1)–(3)(A), (4), (5)(A), (6)–(10), 11812(b)(3), 11813(b)(3), Nov. 5, 1990, [104 Stat. 1388–474][/us/stat/104/1388-474], 1388–475, 1388–505 to 1388–507, 1388–535, 1388–551; [Pub. L. 102–227, title I, § 107(a)][/us/pl/102/227/s107/a], Dec. 11, 1991, [105 Stat. 1687][/us/stat/105/1687]; [Pub. L. 103–66, title XIII, § 13142(a)(1)][/us/pl/103/66/s13142/a/1], (b)(1)–(5), Aug. 10, 1993, [107 Stat. 437–439][/us/stat/107/437-439]; [Pub. L. 104–188, title I, § 1704(t)(53)][/us/pl/104/188/s1704/t/53], (64), Aug. 20, 1996, [110 Stat. 1890][/us/stat/110/1890]; [Pub. L. 105–206, title VI, § 6004(g)(5)][/us/pl/105/206/s6004/g/5], July 22, 1998, [112 Stat. 796][/us/stat/112/796]; [Pub. L. 106–400, § 2][/us/pl/106/400/s2], Oct. 30, 2000, [114 Stat. 1675][/us/stat/114/1675]; [Pub. L. 106–554, § 1(a)(7)][/us/pl/106/554/s1/a/7] \[title I, §§ 131(a)–(c), 132–136\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–610 to 2763A–613; [Pub. L. 107–147, title IV, § 417(2)][/us/pl/107/147/s417/2], (3), Mar. 9, 2002, [116 Stat. 56][/us/stat/116/56]; [Pub. L. 108–311, title II, § 207(8)][/us/pl/108/311/s207/8], title IV, § 408(a)(3), Oct. 4, 2004, [118 Stat. 1177][/us/stat/118/1177], 1191; [Pub. L. 110–142, § 6(a)][/us/pl/110/142/s6/a], Dec. 20, 2007, [121 Stat. 1806][/us/stat/121/1806]; [Pub. L. 110–289, div. C, title I][/us/pl/110/289], §§ 3001–3002(b), 3003(a)–(g), 3004(a)–(g), 3007(b), July 30, 2008, [122 Stat. 2878–2884][/us/stat/122/2878-2884], 2886; [Pub. L. 111–5, div. B, title I, § 1404][/us/pl/111/5/s1404], Feb. 17, 2009, [123 Stat. 352][/us/stat/123/352]; [Pub. L. 112–240, title III, § 302(a)][/us/pl/112/240/s302/a], Jan. 2, 2013, [126 Stat. 2328][/us/stat/126/2328]; [Pub. L. 113–295, div. A, title I, § 112(a)][/us/pl/113/295/s112/a], title II, §§ 212(a), 221(a)(7), Dec. 19, 2014, [128 Stat. 4014][/us/stat/128/4014], 4033, 4038.)
+(Added [Pub. L. 99–514, title II, § 252(a)][/us/pl/99/514/s252/a], Oct. 22, 1986, [100 Stat. 2189][/us/stat/100/2189]; amended [Pub. L. 99–509, title VIII, § 8072(a)][/us/pl/99/509/s8072/a], Oct. 21, 1986, [100 Stat. 1964][/us/stat/100/1964]; [Pub. L. 100–647, title I][/us/pl/100/647], §§ 1002(l)(1)–(25), (32), 1007(g)(3)(B), title IV, §§ 4003(a), (b)(1), (3), 4004(a), Nov. 10, 1988, [102 Stat. 3373–3381][/us/stat/102/3373-3381], 3435, 3643, 3644; [Pub. L. 101–239, title VII][/us/pl/101/239], §§ 7108(a)(1), (b)–(e)(2), (f)–(m), (n)(2)–(q), 7811(a), 7831(c), 7841(d)(13)–(15), Dec. 19, 1989, [103 Stat. 2306–2321][/us/stat/103/2306-2321], 2406, 2426, 2429; [Pub. L. 101–508, title XI][/us/pl/101/508], §§ 11407(a)(1), (b)(1)–(9), 11701(a)(1)–(3)(A), (4), (5)(A), (6)–(10), 11812(b)(3), 11813(b)(3), Nov. 5, 1990, [104 Stat. 1388–474][/us/stat/104/1388-474], 1388–475, 1388–505 to 1388–507, 1388–535, 1388–551; [Pub. L. 102–227, title I, § 107(a)][/us/pl/102/227/s107/a], Dec. 11, 1991, [105 Stat. 1687][/us/stat/105/1687]; [Pub. L. 103–66, title XIII, § 13142(a)(1)][/us/pl/103/66/s13142/a/1], (b)(1)–(5), Aug. 10, 1993, [107 Stat. 437–439][/us/stat/107/437-439]; [Pub. L. 104–188, title I, § 1704(t)(53)][/us/pl/104/188/s1704/t/53], (64), Aug. 20, 1996, [110 Stat. 1890][/us/stat/110/1890]; [Pub. L. 105–206, title VI, § 6004(g)(5)][/us/pl/105/206/s6004/g/5], July 22, 1998, [112 Stat. 796][/us/stat/112/796]; [Pub. L. 106–400, § 2][/us/pl/106/400/s2], Oct. 30, 2000, [114 Stat. 1675][/us/stat/114/1675]; [Pub. L. 106–554, § 1(a)(7)][/us/pl/106/554/s1/a/7] \[title I, §§ 131(a)–(c), 132–136\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–610 to 2763A–613; [Pub. L. 107–147, title IV, § 417(2)][/us/pl/107/147/s417/2], (3), Mar. 9, 2002, [116 Stat. 56][/us/stat/116/56]; [Pub. L. 108–311, title II, § 207(8)][/us/pl/108/311/s207/8], title IV, § 408(a)(3), Oct. 4, 2004, [118 Stat. 1177][/us/stat/118/1177], 1191; [Pub. L. 110–142, § 6(a)][/us/pl/110/142/s6/a], Dec. 20, 2007, [121 Stat. 1806][/us/stat/121/1806]; [Pub. L. 110–289, div. C, title I][/us/pl/110/289], §§ 3001–3002(b), 3003(a)–(g), 3004(a)–(g), 3007(b), July 30, 2008, [122 Stat. 2878–2884][/us/stat/122/2878-2884], 2886; [Pub. L. 111–5, div. B, title I, § 1404][/us/pl/111/5/s1404], Feb. 17, 2009, [123 Stat. 352][/us/stat/123/352]; [Pub. L. 112–240, title III, § 302(a)][/us/pl/112/240/s302/a], Jan. 2, 2013, [126 Stat. 2328][/us/stat/126/2328]; [Pub. L. 113–295, div. A, title I, § 112(a)][/us/pl/113/295/s112/a], title II, §§ 212(a), 221(a)(7), Dec. 19, 2014, [128 Stat. 4014][/us/stat/128/4014], 4033, 4038; [Pub. L. 114–113, div. Q, title I, § 131(a)][/us/pl/114/113/s131/a], (b), Dec. 18, 2015, [129 Stat. 3055][/us/stat/129/3055].)
 
  __Inflation Adjusted Items for Certain Years__ 
 
@@ -1546,6 +1546,10 @@
     Another prior section 42 was renumbered [section 37 of this title][/us/usc/t26/s37].
 
  __Amendments__ 
+
+    2015—Subsec. (b)(2). [Pub. L. 114–113, § 131(b)][/us/pl/114/113/s131/b], substituted “Minimum” for “Temporary minimum” in heading.
+
+    Subsec. (b)(2)(A). [Pub. L. 114–113, § 131(a)][/us/pl/114/113/s131/a], struck out “with respect to housing credit dollar amount allocations made before January 1, 2015” after “paragraph”.
 
     2014—Subsec. (b)(1). [Pub. L. 113–295, § 212(a)][/us/pl/113/295/s212/a], substituted “For purposes of this section—” for “For purposes of this section, the term”, inserted subpar. (A) designation and heading, and inserted “The term” at beginning of subpar. (A).
 
@@ -2010,6 +2014,12 @@
     Subsec. (n)(1). [Pub. L. 100–647, § 1002][/us/pl/100/647/s1002](l)(25), inserted “, and, except for any building described in paragraph (2)(B), subsection (h)(4) shall not apply to any building placed in service after 1989” after “year after 1989”.
 
     1986—Subsec. (k)(1). [Pub. L. 99–509][/us/pl/99/509] substituted “subparagraphs (D)(ii)(II) and (D)(iv)(I)” for “subparagraph (D)(iv)(I)”.
+
+ __Effective Date of 2015 Amendment__ 
+
+[Pub. L. 114–113, div. Q, title I, § 131(c)][/us/pl/114/113/s131/c], Dec. 18, 2015, [129 Stat. 3055][/us/stat/129/3055], provided that: 
+
+> “The amendments made by this section \[amending this section\] shall take effect on January 1, 2015.”
 
  __Effective Date of 2014 Amendment__ 
 
@@ -2793,6 +2803,8 @@
 [/us/stat/126/2328]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2328
 [/us/pl/113/295/s112/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs112%2Fa
 [/us/stat/128/4014]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4014
+[/us/pl/114/113/s131/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs131%2Fa
+[/us/stat/129/3055]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3055
 [/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
 [/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
 [/us/pl/99/514/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs201%2Fa
@@ -2841,6 +2853,8 @@
 [/us/stat/92/2771]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2771
 [/us/usc/t26/s32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs32
 [/us/usc/t26/s37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs37
+[/us/pl/114/113/s131/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs131%2Fb
+[/us/pl/114/113/s131/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs131%2Fa
 [/us/pl/113/295/s212/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs212%2Fa
 [/us/pl/113/295/s112/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs112%2Fa
 [/us/pl/113/295/s221/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F7
@@ -3043,6 +3057,8 @@
 [/us/pl/100/647/s4003/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs4003%2Fb%2F3
 [/us/pl/100/647/s1002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1002
 [/us/pl/99/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509
+[/us/pl/114/113/s131/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs131%2Fc
+[/us/stat/129/3055]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3055
 [/us/pl/113/295/s112/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs112%2Fb
 [/us/stat/128/4014]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4014
 [/us/pl/113/295/s212/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs212%2Fd

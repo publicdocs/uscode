@@ -29,7 +29,31 @@
 
     (c) __Employees of partnerships, proprietorships, etc., which are under common control__ 
 
-        For purposes of sections 401, 408(k), 408(p), 410, 411, 415, and 416, under regulations prescribed by the Secretary, all employees of trades or businesses (whether or not incorporated) which are under common control shall be treated as employed by a single employer. The regulations prescribed under this subsection shall be based on principles similar to the principles which apply in the case of subsection (b).
+        (1) __In general__ 
+
+            Except as provided in paragraph (2), for purposes of sections 401, 408(k), 408(p), 410, 411, 415, and 416, under regulations prescribed by the Secretary, all employees of trades or businesses (whether or not incorporated) which are under common control shall be treated as employed by a single employer. The regulations prescribed under this subsection shall be based on principles similar to the principles which apply in the case of subsection (b).
+
+        (2) __Special rules relating to church plans__ 
+
+            (A) __General rule__ 
+
+            Except as provided in subparagraphs (B) and (C), for purposes of this subsection and subsection (m), an organization that is otherwise eligible to participate in a church plan shall not be aggregated with another such organization and treated as a single employer with such other organization for a plan year beginning in a taxable year unless—
+
+                (i) one such organization provides (directly or indirectly) at least 80 percent of the operating funds for the other organization during the preceding taxable year of the recipient organization, and
+
+                (ii) there is a degree of common management or supervision between the organizations such that the organization providing the operating funds is directly involved in the day-to-day operations of the other organization.
+
+            (B) __Nonqualified church-controlled organizations__ 
+
+                Notwithstanding subparagraph (A), for purposes of this subsection and subsection (m), an organization that is a nonqualified church-controlled organization shall be aggregated with 1 or more other nonqualified church-controlled organizations, or with an organization that is not exempt from tax under section 501, and treated as a single employer with such other organization, if at least 80 percent of the directors or trustees of such other organization are either representatives of, or directly or indirectly controlled by, such nonqualified church-controlled organization. For purposes of this subparagraph, the term “nonqualified church-controlled organization” means a church-controlled tax-exempt organization described in section 501(c)(3) that is not a qualified church-controlled organization (as defined in section 3121(w)(3)(B)).
+
+            (C) __Permissive aggregation among church-related organizations__ 
+
+                The church or convention or association of churches with which an organization described in subparagraph (A) is associated (within the meaning of subsection (e)(3)(D)), or an organization designated by such church or convention or association of churches, may elect to treat such organizations as a single employer for a plan year. Such election, once made, shall apply to all succeeding plan years unless revoked with notice provided to the Secretary in such manner as the Secretary shall prescribe.
+
+            (D) __Permissive disaggregation of church-related organizations__ 
+
+                For purposes of subparagraph (A), in the case of a church plan, an employer may elect to treat churches (as defined in section 403(b)(12)(B)) separately from entities that are not churches (as so defined), without regard to whether such entities maintain separate church plans. Such election, once made, shall apply to all succeeding plan years unless revoked with notice provided to the Secretary in such manner as the Secretary shall prescribe.
 
     (d) __Governmental plan__ 
 
@@ -1397,7 +1421,7 @@
 
         (2) __Aggregation__ 
 
-            All employers that are treated as a single employer under subsection (b) or (c) shall be treated as a single employer for purposes of determining if a plan was maintained by more than one employer under subparagraph  <sup>\[6\]</sup>  <sup><sup> 6 So in original. </sup></sup>  (B) and  <sup>\[6\]</sup>  (C) of paragraph (1).
+            All employers that are treated as a single employer under subsection (b) or (c) shall be treated as a single employer for purposes of determining if a plan was maintained by more than one employer under subparagraph  <sup>\[6\]</sup>  <sup><sup> 6 So in original. </sup></sup>  (B) and (C) of paragraph (1).
 
         (3) __Election__ 
 
@@ -1409,7 +1433,47 @@
 
                 If a plan described in subparagraph (A) is treated as a CSEC plan, section 104 of the Pension Protection Act of 2006, as amended by the Preservation of Access to Care for Medicare Beneficiaries and Pension Relief Act of 2010, shall cease to apply to such plan as of the first date as of which such plan is treated as a CSEC plan.
 
-(Added [Pub. L. 93–406, title II, § 1015][/us/pl/93/406/s1015], Sept. 2, 1974, [88 Stat. 925][/us/stat/88/925]; amended [Pub. L. 94–455, title XIX][/us/pl/94/455], §§ 1901(a)(64), 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1775][/us/stat/90/1775], 1834; [Pub. L. 95–600, title I, § 152(d)][/us/pl/95/600/s152/d], Nov. 6, 1978, [92 Stat. 2799][/us/stat/92/2799]; [Pub. L. 96–364, title II][/us/pl/96/364], §§ 207, 208(a), title IV, § 407(b), Sept. 26, 1980, [94 Stat. 1288][/us/stat/94/1288], 1289, 1305; [Pub. L. 96–605, title II, § 201(a)][/us/pl/96/605/s201/a], Dec. 28, 1980, [94 Stat. 3526][/us/stat/94/3526]; [Pub. L. 96–613, § 5(a)][/us/pl/96/613/s5/a], Dec. 28, 1980, [94 Stat. 3580][/us/stat/94/3580]; [Pub. L. 97–248, title II][/us/pl/97/248], §§ 240(c), 246(a), 248(a), Sept. 3, 1982, [96 Stat. 520][/us/stat/96/520], 525, 526; [Pub. L. 98–369, div. A, title IV, § 491(d)(26)][/us/pl/98/369/s491/d/26], (27), title V, § 526(a)(1), (b)(1), (d)(1), (2), title VII, § 713(i), July 18, 1984, [98 Stat. 850][/us/stat/98/850], 874, 875, 960; [Pub. L. 98–397, title II, § 204(b)][/us/pl/98/397/s204/b], Aug. 23, 1984, [98 Stat. 1445][/us/stat/98/1445]; [Pub. L. 99–514, title XI][/us/pl/99/514], §§ 1114(a), (b)(11), 1115(a), 1117(c), 1146(a), (b), 1151(e)(1), (i), title XIII, § 1301(j)(4), title XVIII, §§ 1852(f), 1898(c)(2)(A), (4)(A), (6)(A), (7)(A)(ii)–(vii), 1899A(12), Oct. 22, 1986, [100 Stat. 2448][/us/stat/100/2448], 2451, 2452, 2462, 2491, 2506, 2507, 2657, 2868, 2951, 2953, 2954, 2958; [Pub. L. 100–203, title IX, § 9305(c)][/us/pl/100/203/s9305/c], Dec. 22, 1987, [101 Stat. 1330–352][/us/stat/101/1330-352]; [Pub. L. 100–647, title I][/us/pl/100/647], §§ 1011(d)(8), (e)(4), (h)(5), (i)(1)–(4)(A), (j)(1), (2), 1011A(b)(3), 1011B(a)(16), (17), (19), (20), 1018(t)(8)(E)–(G), title II, § 2005(c)(1), (2), title III, §§ 3011(b)(4), (5), 3021(b)(1), (2)(A), title VI, § 6067(a), Nov. 10, 1988, [102 Stat. 3460][/us/stat/102/3460], 3461, 3465, 3467, 3468, 3473, 3485, 3589, 3611, 3612, 3625, 3631, 3632, 3703; [Pub. L. 101–140, title II][/us/pl/101/140], §§ 203(a)(6), 204(b)(2), Nov. 8, 1989, [103 Stat. 831][/us/stat/103/831], 833; [Pub. L. 101–239, title VII][/us/pl/101/239], §§ 7811(m)(5), 7813(b), 7841(a)(2), Dec. 19, 1989, [103 Stat. 2412][/us/stat/103/2412], 2413, 2427; [Pub. L. 101–508, title XI, § 11703(b)(1)][/us/pl/101/508/s11703/b/1], Nov. 5, 1990, [104 Stat. 1388–517][/us/stat/104/1388-517]; [Pub. L. 102–318, title V, § 521(b)(20)][/us/pl/102/318/s521/b/20]–(22), July 3, 1992, [106 Stat. 311][/us/stat/106/311]; [Pub. L. 104–188, title I][/us/pl/104/188], §§ 1421(b)(9)(C), 1431(a), (b)(1), (c)(1)(A), (D), (E), 1434(b), 1454(a), 1461(a), 1462(a), 1704(n)(1), Aug. 20, 1996, [110 Stat. 1798][/us/stat/110/1798], 1802, 1803, 1807, 1817, 1822, 1824, 1883; [Pub. L. 105–34, title XV, § 1522(a)][/us/pl/105/34/s1522/a], title XVI, § 1601(d)(6)(A), (7), (h)(2)(D)(i), (ii), Aug. 5, 1997, [111 Stat. 1070][/us/stat/111/1070], 1089, 1090, 1092; [Pub. L. 105–206, title VI, § 6018(c)][/us/pl/105/206/s6018/c], July 22, 1998, [112 Stat. 822][/us/stat/112/822]; [Pub. L. 106–554, § 1(a)(7)][/us/pl/106/554/s1/a/7] \[title III, § 314(e)(2)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–643; [Pub. L. 107–16, title VI][/us/pl/107/16], §§ 631(a), 635(a)–(c), June 7, 2001, [115 Stat. 111][/us/stat/115/111], 117; [Pub. L. 107–147, title IV, § 411][/us/pl/107/147/s411](o)(3)–(8), Mar. 9, 2002, [116 Stat. 48][/us/stat/116/48], 49; [Pub. L. 108–311, title IV, § 408(a)(15)][/us/pl/108/311/s408/a/15], Oct. 4, 2004, [118 Stat. 1192][/us/stat/118/1192]; [Pub. L. 109–280, title I, § 114(c)][/us/pl/109/280/s114/c], title IX, §§ 902(d)(1), 903(a), 906(a)(1), (b)(1)(C), title XI, § 1106(b), Aug. 17, 2006, [120 Stat. 853][/us/stat/120/853], 1036, 1040, 1051, 1052, 1062; [Pub. L. 110–28, title VI, § 6611(a)(2)][/us/pl/110/28/s6611/a/2], (b)(2), May 25, 2007, [121 Stat. 180][/us/stat/121/180], 181; [Pub. L. 110–245, title I][/us/pl/110/245], §§ 104(b), 105(b)(1), June 17, 2008, [122 Stat. 1626][/us/stat/122/1626], 1628; [Pub. L. 110–289, div. A, title VI, § 1604(b)(4)][/us/pl/110/289/s1604/b/4], July 30, 2008, [122 Stat. 2829][/us/stat/122/2829]; [Pub. L. 110–458, title I][/us/pl/110/458], §§ 101(d)(2)(E), 109(b)(4)–(c)(1), Dec. 23, 2008, [122 Stat. 5099][/us/stat/122/5099], 5111; [Pub. L. 113–97, title II][/us/pl/113/97], §§ 201, 203(a), Apr. 7, 2014, [128 Stat. 1121][/us/stat/128/1121], 1138; [Pub. L. 113–235, div. P, § 3(b)][/us/pl/113/235/s3/b], Dec. 16, 2014, [128 Stat. 2829][/us/stat/128/2829]; [Pub. L. 113–295, div. A, title II, § 221(a)(19)(B)(i)][/us/pl/113/295/s221/a/19/B/i], (ii), (55), Dec. 19, 2014, [128 Stat. 4039][/us/stat/128/4039], 4045.)
+    (z) __Certain plan transfers and mergers__ 
+
+        (1) __In general__ 
+
+        Under rules prescribed by the Secretary, except as provided in paragraph (2), no amount shall be includible in gross income by reason of—
+
+            (A) a transfer of all or a portion of the accrued benefit of a participant or beneficiary, whether or not vested, from a church plan that is a plan described in section 401(a) or an annuity contract described in section 403(b) to an annuity contract described in section 403(b), if such plan and annuity contract are both maintained by the same church or convention or association of churches,
+
+            (B) a transfer of all or a portion of the accrued benefit of a participant or beneficiary, whether or not vested, from an annuity contract described in section 403(b) to a church plan that is a plan described in section 401(a), if such plan and annuity contract are both maintained by the same church or convention or association of churches, or
+
+            (C) a merger of a church plan that is a plan described in section 401(a), or an annuity contract described in section 403(b), with an annuity contract described in section 403(b), if such plan and annuity contract are both maintained by the same church or convention or association of churches.
+
+        (2) __Limitation__ 
+
+            Paragraph (1) shall not apply to a transfer or merger unless the participant’s or beneficiary’s total accrued benefit immediately after the transfer or merger is equal to or greater than the participant’s or beneficiary’s total accrued benefit immediately before the transfer or merger, and such total accrued benefit is nonforfeitable after the transfer or merger.
+
+        (3) __Qualification__ 
+
+            A plan or annuity contract shall not fail to be considered to be described in section 401(a) or 403(b) merely because such plan or annuity contract engages in a transfer or merger described in this subsection.
+
+        (4) __Definitions__ 
+
+        For purposes of this subsection—
+
+            (A) __Church or convention or association of churches__ 
+
+                The term “church or convention or association of churches” includes an organization described in subparagraph (A) or (B)(ii) of subsection (e)(3).
+
+            (B) __Annuity contract__ 
+
+                The term “annuity contract” includes a custodial account described in section 403(b)(7) and a retirement income account described in section 403(b)(9).
+
+            (C) __Accrued benefit__ 
+
+            The term “accrued benefit” means—
+
+                (i) in the case of a defined benefit plan, the employee’s accrued benefit determined under the plan, and
+
+                (ii) in the case of a plan other than a defined benefit plan, the balance of the employee’s account under the plan.
+
+(Added [Pub. L. 93–406, title II, § 1015][/us/pl/93/406/s1015], Sept. 2, 1974, [88 Stat. 925][/us/stat/88/925]; amended [Pub. L. 94–455, title XIX][/us/pl/94/455], §§ 1901(a)(64), 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1775][/us/stat/90/1775], 1834; [Pub. L. 95–600, title I, § 152(d)][/us/pl/95/600/s152/d], Nov. 6, 1978, [92 Stat. 2799][/us/stat/92/2799]; [Pub. L. 96–364, title II][/us/pl/96/364], §§ 207, 208(a), title IV, § 407(b), Sept. 26, 1980, [94 Stat. 1288][/us/stat/94/1288], 1289, 1305; [Pub. L. 96–605, title II, § 201(a)][/us/pl/96/605/s201/a], Dec. 28, 1980, [94 Stat. 3526][/us/stat/94/3526]; [Pub. L. 96–613, § 5(a)][/us/pl/96/613/s5/a], Dec. 28, 1980, [94 Stat. 3580][/us/stat/94/3580]; [Pub. L. 97–248, title II][/us/pl/97/248], §§ 240(c), 246(a), 248(a), Sept. 3, 1982, [96 Stat. 520][/us/stat/96/520], 525, 526; [Pub. L. 98–369, div. A, title IV, § 491(d)(26)][/us/pl/98/369/s491/d/26], (27), title V, § 526(a)(1), (b)(1), (d)(1), (2), title VII, § 713(i), July 18, 1984, [98 Stat. 850][/us/stat/98/850], 874, 875, 960; [Pub. L. 98–397, title II, § 204(b)][/us/pl/98/397/s204/b], Aug. 23, 1984, [98 Stat. 1445][/us/stat/98/1445]; [Pub. L. 99–514, title XI][/us/pl/99/514], §§ 1114(a), (b)(11), 1115(a), 1117(c), 1146(a), (b), 1151(e)(1), (i), title XIII, § 1301(j)(4), title XVIII, §§ 1852(f), 1898(c)(2)(A), (4)(A), (6)(A), (7)(A)(ii)–(vii), 1899A(12), Oct. 22, 1986, [100 Stat. 2448][/us/stat/100/2448], 2451, 2452, 2462, 2491, 2506, 2507, 2657, 2868, 2951, 2953, 2954, 2958; [Pub. L. 100–203, title IX, § 9305(c)][/us/pl/100/203/s9305/c], Dec. 22, 1987, [101 Stat. 1330–352][/us/stat/101/1330-352]; [Pub. L. 100–647, title I][/us/pl/100/647], §§ 1011(d)(8), (e)(4), (h)(5), (i)(1)–(4)(A), (j)(1), (2), 1011A(b)(3), 1011B(a)(16), (17), (19), (20), 1018(t)(8)(E)–(G), title II, § 2005(c)(1), (2), title III, §§ 3011(b)(4), (5), 3021(b)(1), (2)(A), title VI, § 6067(a), Nov. 10, 1988, [102 Stat. 3460][/us/stat/102/3460], 3461, 3465, 3467, 3468, 3473, 3485, 3589, 3611, 3612, 3625, 3631, 3632, 3703; [Pub. L. 101–140, title II][/us/pl/101/140], §§ 203(a)(6), 204(b)(2), Nov. 8, 1989, [103 Stat. 831][/us/stat/103/831], 833; [Pub. L. 101–239, title VII][/us/pl/101/239], §§ 7811(m)(5), 7813(b), 7841(a)(2), Dec. 19, 1989, [103 Stat. 2412][/us/stat/103/2412], 2413, 2427; [Pub. L. 101–508, title XI, § 11703(b)(1)][/us/pl/101/508/s11703/b/1], Nov. 5, 1990, [104 Stat. 1388–517][/us/stat/104/1388-517]; [Pub. L. 102–318, title V, § 521(b)(20)][/us/pl/102/318/s521/b/20]–(22), July 3, 1992, [106 Stat. 311][/us/stat/106/311]; [Pub. L. 104–188, title I][/us/pl/104/188], §§ 1421(b)(9)(C), 1431(a), (b)(1), (c)(1)(A), (D), (E), 1434(b), 1454(a), 1461(a), 1462(a), 1704(n)(1), Aug. 20, 1996, [110 Stat. 1798][/us/stat/110/1798], 1802, 1803, 1807, 1817, 1822, 1824, 1883; [Pub. L. 105–34, title XV, § 1522(a)][/us/pl/105/34/s1522/a], title XVI, § 1601(d)(6)(A), (7), (h)(2)(D)(i), (ii), Aug. 5, 1997, [111 Stat. 1070][/us/stat/111/1070], 1089, 1090, 1092; [Pub. L. 105–206, title VI, § 6018(c)][/us/pl/105/206/s6018/c], July 22, 1998, [112 Stat. 822][/us/stat/112/822]; [Pub. L. 106–554, § 1(a)(7)][/us/pl/106/554/s1/a/7] \[title III, § 314(e)(2)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–643; [Pub. L. 107–16, title VI][/us/pl/107/16], §§ 631(a), 635(a)–(c), June 7, 2001, [115 Stat. 111][/us/stat/115/111], 117; [Pub. L. 107–147, title IV, § 411][/us/pl/107/147/s411](o)(3)–(8), Mar. 9, 2002, [116 Stat. 48][/us/stat/116/48], 49; [Pub. L. 108–311, title IV, § 408(a)(15)][/us/pl/108/311/s408/a/15], Oct. 4, 2004, [118 Stat. 1192][/us/stat/118/1192]; [Pub. L. 109–280, title I, § 114(c)][/us/pl/109/280/s114/c], title IX, §§ 902(d)(1), 903(a), 906(a)(1), (b)(1)(C), title XI, § 1106(b), Aug. 17, 2006, [120 Stat. 853][/us/stat/120/853], 1036, 1040, 1051, 1052, 1062; [Pub. L. 110–28, title VI, § 6611(a)(2)][/us/pl/110/28/s6611/a/2], (b)(2), May 25, 2007, [121 Stat. 180][/us/stat/121/180], 181; [Pub. L. 110–245, title I][/us/pl/110/245], §§ 104(b), 105(b)(1), June 17, 2008, [122 Stat. 1626][/us/stat/122/1626], 1628; [Pub. L. 110–289, div. A, title VI, § 1604(b)(4)][/us/pl/110/289/s1604/b/4], July 30, 2008, [122 Stat. 2829][/us/stat/122/2829]; [Pub. L. 110–458, title I][/us/pl/110/458], §§ 101(d)(2)(E), 109(b)(4)–(c)(1), Dec. 23, 2008, [122 Stat. 5099][/us/stat/122/5099], 5111; [Pub. L. 113–97, title II][/us/pl/113/97], §§ 201, 203(a), Apr. 7, 2014, [128 Stat. 1121][/us/stat/128/1121], 1138; [Pub. L. 113–235, div. P, § 3(b)][/us/pl/113/235/s3/b], Dec. 16, 2014, [128 Stat. 2829][/us/stat/128/2829]; [Pub. L. 113–295, div. A, title II, § 221(a)(19)(B)(i)][/us/pl/113/295/s221/a/19/B/i], (ii), (55), Dec. 19, 2014, [128 Stat. 4039][/us/stat/128/4039], 4045; [Pub. L. 114–113, div. Q, title III, § 336(a)(1)][/us/pl/114/113/s336/a/1], (d)(1), Dec. 18, 2015, [129 Stat. 3109][/us/stat/129/3109], 3112.)
 
  __Inflation Adjusted Items for Certain Years__ 
 
@@ -1432,6 +1496,10 @@
     The Preservation of Access to Care for Medicare Beneficiaries and Pension Relief Act of 2010, referred to in subsec. (y)(1)(A)(ii), (3)(B), is [Pub. L. 111–192][/us/pl/111/192], June 25, 2010, [124 Stat. 1280][/us/stat/124/1280]. For complete classification of this Act to the Code, see Short Title of 2010 Amendment note set out under [section 1001 of Title 29][/us/usc/t29/s1001], Labor, and Tables.
 
  __Amendments__ 
+
+    2015—Subsec. (c). [Pub. L. 114–113, § 336(a)(1)][/us/pl/114/113/s336/a/1], designated existing provisions as par. (1), inserted heading, substituted “Except as provided in paragraph (2), for purposes” for “For purposes”, and added par. (2).
+
+    Subsec. (z). [Pub. L. 114–113, § 336(d)(1)][/us/pl/114/113/s336/d/1], added subsec. (z).
 
     2014—Subsec. (n)(3)(C). [Pub. L. 113–295, § 221(a)(19)(B)(i)][/us/pl/113/295/s221/a/19/B/i], struck out “120,” after “117(d),”.
 
@@ -1799,6 +1867,16 @@
 
     Subsec. (l). [Pub. L. 94–455, § 1901(a)(64)(B)][/us/pl/94/455/s1901/a/64/B], substituted reference to Sept. 2, 1974, for reference to the date of enactment of the Employee Retirement Income Security Act of 1974.
 
+ __Effective Date of 2015 Amendment__ 
+
+[Pub. L. 114–113, div. Q, title III, § 336(a)(3)][/us/pl/114/113/s336/a/3], Dec. 18, 2015, [129 Stat. 3110][/us/stat/129/3110], provided that: 
+
+> “The amendments made by paragraph (1) \[amending this section\] shall apply to years beginning before, on, or after the date of the enactment of this Act \[Dec. 18, 2015\].”
+
+[Pub. L. 114–113, div. Q, title III, § 336(d)(2)][/us/pl/114/113/s336/d/2], Dec. 18, 2015, [129 Stat. 3113][/us/stat/129/3113], provided that: 
+
+> “The amendment made by this subsection \[amending this section\] shall apply to transfers or mergers occurring after the date of the enactment of this Act \[Dec. 18, 2015\].”
+
  __Effective Date of 2014 Amendment__ 
 
     Amendment by [Pub. L. 113–295][/us/pl/113/295] effective Dec. 19, 2014, subject to a savings provision, see [section 221(b) of Pub. L. 113–295][/us/pl/113/295/s221/b], set out as a note under [section 1 of this title][/us/usc/t26/s1].
@@ -2103,6 +2181,74 @@
 
 >             “(ii) such plan or contract amendment applies retroactively for such period.”
 
+ __Clarification Relating to Application of Anti-Abuse Rule__ 
+
+[Pub. L. 114–113, div. Q, title III, § 336(a)(2)][/us/pl/114/113/s336/a/2], Dec. 18, 2015, [129 Stat. 3110][/us/stat/129/3110], provided that: 
+
+> “The rule of 26 CFR 1.414(c)–5(f) shall continue to apply to each paragraph of section 414(c) of the Internal Revenue Code of 1986, as amended by paragraph (1).”
+
+ __Automatic Enrollment by Church Plans__ 
+
+[Pub. L. 114–113, div. Q, title III, § 336(c)][/us/pl/114/113/s336/c], Dec. 18, 2015, [129 Stat. 3110][/us/stat/129/3110], provided that:
+
+>     “(1)  __In general__  __.—__ 
+
+>     This subsection shall supersede any law of a State that relates to wage, salary, or payroll payment, collection, deduction, garnishment, assignment, or withholding which would directly or indirectly prohibit or restrict the inclusion in any church plan (as defined in section 414(e) of the Internal Revenue Code of 1986) of an automatic contribution arrangement.
+
+>     “(2)  __Definition of automatic contribution arrangement__  __.—__ 
+
+>     For purposes of this subsection, the term ‘automatic contribution arrangement’ means an arrangement—
+
+>         “(A) under which a participant may elect to have the plan sponsor or the employer make payments as contributions under the plan on behalf of the participant, or to the participant directly in cash,
+
+>         “(B) under which a participant is treated as having elected to have the plan sponsor or the employer make such contributions in an amount equal to a uniform percentage of compensation provided under the plan until the participant specifically elects not to have such contributions made (or specifically elects to have such contributions made at a different percentage), and
+
+>         “(C) under which the notice and election requirements of paragraph (3), and the investment requirements of paragraph (4), are satisfied.
+
+>     “(3) __Notice requirements.—__ 
+
+>         “(A)  __In general__  __.—__ 
+
+>         The plan sponsor of, or plan administrator or employer maintaining, an automatic contribution arrangement shall, within a reasonable period before the first day of each plan year, provide to each participant to whom the arrangement applies for such plan year notice of the participant’s rights and obligations under the arrangement which—
+
+>             “(i) is sufficiently accurate and comprehensive to apprise the participant of such rights and obligations, and
+
+>             “(ii) is written in a manner calculated to be understood by the average participant to whom the arrangement applies.
+
+>         “(B)  __Election requirements__  __.—__ 
+
+>         A notice shall not be treated as meeting the requirements of subparagraph (A) with respect to a participant unless—
+
+>             “(i) the notice includes an explanation of the participant’s right under the arrangement not to have elective contributions made on the participant’s behalf (or to elect to have such contributions made at a different percentage),
+
+>             “(ii) the participant has a reasonable period of time, after receipt of the explanation described in clause (i) and before the first elective contribution is made, to make such election, and
+
+>             “(iii) the notice explains how contributions made under the arrangement will be invested in the absence of any investment election by the participant.
+
+>     “(4)  __Default investment__  __.—__ 
+
+>     If no affirmative investment election has been made with respect to any automatic contribution arrangement, contributions to such arrangement shall be invested in a default investment selected with the care, skill, prudence, and diligence that a prudent person selecting an investment option would use.
+
+>     “(5)  __Effective date__  __.—__ 
+
+>     This subsection shall take effect on the date of the enactment of this Act \[Dec. 18, 2015\].”
+
+ __Investments by Church Plans in Collective Trusts__ 
+
+[Pub. L. 114–113, div. Q, title III, § 336(e)][/us/pl/114/113/s336/e], Dec. 18, 2015, [129 Stat. 3113][/us/stat/129/3113], provided that:
+
+>     “(1)  __In general__  __.—__ 
+
+>     In the case of—
+
+>         “(A) a church plan (as defined in section 414(e) of the Internal Revenue Code of 1986), including a plan described in section 401(a) of such Code and a retirement income account described in section 403(b)(9) of such Code, and
+
+>         “(B) an organization described in section 414(e)(3)(A) of such Code the principal purpose or function of which is the administration of such a plan or account,    “the assets of such plan, account, or organization (including any assets otherwise permitted to be commingled for investment purposes with the assets of such a plan, account, or organization) may be invested in a group trust otherwise described in Internal Revenue Service Revenue Ruling 81–100 (as modified by Internal Revenue Service Revenue Rulings 2004–67, 2011–1, and 2014–24), or any subsequent revenue ruling that supersedes or modifies such revenue ruling, without adversely affecting the tax status of the group trust, such plan, account, or organization, or any other plan or trust that invests in the group trust.
+
+>     “(2)  __Effective date__  __.—__ 
+
+>     This subsection shall apply to investments made after the date of the enactment of this Act \[Dec. 18, 2015\].”
+
  __Applicability of Amendments by Subtitles A and B of Title I of__  __[__  __Pub. L. 109–280__  __][/us/pl/109/280]__ 
 
     For special rules on applicability of amendments by subtitles A (§§ 101–108) and B (§§ 111–116) of title I of [Pub. L. 109–280][/us/pl/109/280] to certain eligible cooperative plans, PBGC settlement plans, and eligible government contractor plans, see sections 104, 105, and 106 of [Pub. L. 109–280][/us/pl/109/280], set out as notes under [section 401 of this title][/us/usc/t26/s401].
@@ -2252,6 +2398,8 @@
 [/us/stat/128/2829]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2829
 [/us/pl/113/295/s221/a/19/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F19%2FB%2Fi
 [/us/stat/128/4039]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4039
+[/us/pl/114/113/s336/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs336%2Fa%2F1
+[/us/stat/129/3109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3109
 [/us/usc/t26/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs401
 [/us/act/1935-08-29/ch812]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-29%2Fch812
 [/us/stat/49/867]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F867
@@ -2275,6 +2423,8 @@
 [/us/pl/111/192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F192
 [/us/stat/124/1280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1280
 [/us/usc/t29/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1001
+[/us/pl/114/113/s336/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs336%2Fa%2F1
+[/us/pl/114/113/s336/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs336%2Fd%2F1
 [/us/pl/113/295/s221/a/19/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F19%2FB%2Fi
 [/us/pl/113/295/s221/a/19/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F19%2FB%2Fii
 [/us/pl/113/295/s221/a/55]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F55
@@ -2441,6 +2591,10 @@
 [/us/pl/94/455/s1901/a/64/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1901%2Fa%2F64%2FA
 [/us/pl/94/455/s1906/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FA
 [/us/pl/94/455/s1901/a/64/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1901%2Fa%2F64%2FB
+[/us/pl/114/113/s336/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs336%2Fa%2F3
+[/us/stat/129/3110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3110
+[/us/pl/114/113/s336/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs336%2Fd%2F2
+[/us/stat/129/3113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3113
 [/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
 [/us/pl/113/295/s221/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fb
 [/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
@@ -2646,6 +2800,12 @@
 [/us/pl/110/245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F245
 [/us/pl/110/245/s105/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F245%2Fs105%2Fc
 [/us/stat/122/1629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1629
+[/us/pl/114/113/s336/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs336%2Fa%2F2
+[/us/stat/129/3110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3110
+[/us/pl/114/113/s336/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs336%2Fc
+[/us/stat/129/3110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3110
+[/us/pl/114/113/s336/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs336%2Fe
+[/us/stat/129/3113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3113
 [/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
 [/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
 [/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280

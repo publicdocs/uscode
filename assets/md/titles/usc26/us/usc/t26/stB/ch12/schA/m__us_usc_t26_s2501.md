@@ -71,6 +71,10 @@
 
                 (ii) the total fair market value (at such time) of all assets owned by such foreign corporation.
 
+        (6) __Transfers to certain exempt organizations__ 
+
+            Paragraph (1) shall not apply to the transfer of money or other property to an organization described in paragraph (4), (5), or (6) of section 501(c) and exempt from tax under section 501(a), for the use of such organization.
+
     (b) __Certain residents of possessions considered citizens of the United States__ 
 
         A donor who is a citizen of the United States and a resident of a possession thereof shall, for purposes of the tax imposed by this chapter, be considered a “citizen” of the United States within the meaning of that term wherever used in this title unless he acquired his United States citizenship solely by reason of (1) his being a citizen of such possession of the United States, or (2) his birth or residence within such possession of the United States.
@@ -85,9 +89,11 @@
 
         (2) For exclusion of transfers of property outside the United States by a nonresident who is not a citizen of the United States, see section 2511(a).
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 403][/us/stat/68A/403]; [Pub. L. 85–866, title I][/us/pl/85/866], §§ 43(b), 102(b), Sept. 2, 1958, [72 Stat. 1641][/us/stat/72/1641], 1674; [Pub. L. 86–779, § 4(d)][/us/pl/86/779/s4/d], Sept. 14, 1960, [74 Stat. 1000][/us/stat/74/1000]; [Pub. L. 89–809, title I, § 109(a)][/us/pl/89/809/s109/a], Nov. 13, 1966, [80 Stat. 1574][/us/stat/80/1574]; [Pub. L. 91–614, title I, § 102(a)(1)][/us/pl/91/614/s102/a/1], Dec. 31, 1970, [84 Stat. 1838][/us/stat/84/1838]; [Pub. L. 93–625, § 14(a)][/us/pl/93/625/s14/a], Jan. 3, 1975, [88 Stat. 2121][/us/stat/88/2121]; [Pub. L. 94–455, title XIX][/us/pl/94/455], §§ 1902(a)(10), 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1805][/us/stat/90/1805], 1834; [Pub. L. 97–34, title IV, § 442(a)(1)][/us/pl/97/34/s442/a/1], Aug. 13, 1981, [95 Stat. 320][/us/stat/95/320]; [Pub. L. 100–647, title III, § 3031(a)(2)][/us/pl/100/647/s3031/a/2], Nov. 10, 1988, [102 Stat. 3635][/us/stat/102/3635]; [Pub. L. 101–508, title XI, § 11601(b)(2)][/us/pl/101/508/s11601/b/2], Nov. 5, 1990, [104 Stat. 1388–490][/us/stat/104/1388-490]; [Pub. L. 104–191, title V, § 511(e)(2)][/us/pl/104/191/s511/e/2], (f)(2)(B), Aug. 21, 1996, [110 Stat. 2098][/us/stat/110/2098], 2100; [Pub. L. 105–34, title XVI, § 1602(g)(5)][/us/pl/105/34/s1602/g/5], Aug. 5, 1997, [111 Stat. 1095][/us/stat/111/1095]; [Pub. L. 108–357, title VIII, § 804(d)][/us/pl/108/357/s804/d], Oct. 22, 2004, [118 Stat. 1571][/us/stat/118/1571].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 403][/us/stat/68A/403]; [Pub. L. 85–866, title I][/us/pl/85/866], §§ 43(b), 102(b), Sept. 2, 1958, [72 Stat. 1641][/us/stat/72/1641], 1674; [Pub. L. 86–779, § 4(d)][/us/pl/86/779/s4/d], Sept. 14, 1960, [74 Stat. 1000][/us/stat/74/1000]; [Pub. L. 89–809, title I, § 109(a)][/us/pl/89/809/s109/a], Nov. 13, 1966, [80 Stat. 1574][/us/stat/80/1574]; [Pub. L. 91–614, title I, § 102(a)(1)][/us/pl/91/614/s102/a/1], Dec. 31, 1970, [84 Stat. 1838][/us/stat/84/1838]; [Pub. L. 93–625, § 14(a)][/us/pl/93/625/s14/a], Jan. 3, 1975, [88 Stat. 2121][/us/stat/88/2121]; [Pub. L. 94–455, title XIX][/us/pl/94/455], §§ 1902(a)(10), 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1805][/us/stat/90/1805], 1834; [Pub. L. 97–34, title IV, § 442(a)(1)][/us/pl/97/34/s442/a/1], Aug. 13, 1981, [95 Stat. 320][/us/stat/95/320]; [Pub. L. 100–647, title III, § 3031(a)(2)][/us/pl/100/647/s3031/a/2], Nov. 10, 1988, [102 Stat. 3635][/us/stat/102/3635]; [Pub. L. 101–508, title XI, § 11601(b)(2)][/us/pl/101/508/s11601/b/2], Nov. 5, 1990, [104 Stat. 1388–490][/us/stat/104/1388-490]; [Pub. L. 104–191, title V, § 511(e)(2)][/us/pl/104/191/s511/e/2], (f)(2)(B), Aug. 21, 1996, [110 Stat. 2098][/us/stat/110/2098], 2100; [Pub. L. 105–34, title XVI, § 1602(g)(5)][/us/pl/105/34/s1602/g/5], Aug. 5, 1997, [111 Stat. 1095][/us/stat/111/1095]; [Pub. L. 108–357, title VIII, § 804(d)][/us/pl/108/357/s804/d], Oct. 22, 2004, [118 Stat. 1571][/us/stat/118/1571]; [Pub. L. 114–113, div. Q, title IV, § 408(a)][/us/pl/114/113/s408/a], Dec. 18, 2015, [129 Stat. 3120][/us/stat/129/3120].)
 
  __Amendments__ 
+
+    2015—Subsec. (a)(6). [Pub. L. 114–113][/us/pl/114/113] added par. (6).
 
     2004—Subsec. (a)(3) to (5). [Pub. L. 108–357][/us/pl/108/357] added pars. (3) and (5), redesignated former par. (5) as (4), and struck out former pars. (3) and (4) which related to exception of certain individuals from taxable transfers and burden of proof.
 
@@ -126,6 +132,12 @@
     1958—Subsec. (b). [Pub. L. 85–866, § 102(b)][/us/pl/85/866/s102/b], added subsec. (b) and redesignated former subsec. (b) as (c).
 
     Subsec. (c). [Pub. L. 85–866, § 102(b)][/us/pl/85/866/s102/b], redesignated former subsec. (b) as (c) and [Pub. L. 85–866, § 43(b)][/us/pl/85/866/s43/b], made the heading read in the plural, designated existing provisions as par. (2) and added par. (1).
+
+ __Effective Date of 2015 Amendment__ 
+
+[Pub. L. 114–113, div. Q, title IV, § 408(b)][/us/pl/114/113/s408/b], Dec. 18, 2015, [129 Stat. 3121][/us/stat/129/3121], provided that: 
+
+> “The amendment made by subsection (a) \[amending this section\] shall apply to gifts made after the date of the enactment of this Act \[Dec. 18, 2015\].”
 
  __Effective Date of 2004 Amendment__ 
 
@@ -187,6 +199,12 @@
 
     Amendment by [Pub. L. 85–866][/us/pl/85/866] applicable to gifts made after September 2, 1958, see [section 102(d) of Pub. L. 85–866][/us/pl/85/866/s102/d], set out as a note under [section 2014 of this title][/us/usc/t26/s2014].
 
+ __Construction__ 
+
+[Pub. L. 114–113, div. Q, title IV, § 408(c)][/us/pl/114/113/s408/c], Dec. 18, 2015, [129 Stat. 3121][/us/stat/129/3121], provided that: 
+
+> “Nothing in the amendment made by subsection (a) \[amending this section\] shall be construed to create any inference with respect to whether any transfer of property (whether made before, on, or after the date of the enactment of this Act \[Dec. 18, 2015\]) to an organization described in paragraph (4), (5), or (6) of section 501(c) of the Internal Revenue Code of 1986 is a transfer of property by gift for purposes of chapter 12 of such Code.”
+
  __Election To Have Amendments by Title IV of the Economic Recovery Tax Act of 1981 Not Apply__ 
 
 [Pub. L. 97–448, title I, § 104(d)(3)][/us/pl/97/448/s104/d/3], Jan. 12, 1983, [96 Stat. 2383][/us/stat/96/2383], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
@@ -238,6 +256,9 @@
 [/us/stat/111/1095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1095
 [/us/pl/108/357/s804/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs804%2Fd
 [/us/stat/118/1571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1571
+[/us/pl/114/113/s408/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs408%2Fa
+[/us/stat/129/3120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3120
+[/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
 [/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
 [/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
 [/us/pl/104/191/s511/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191%2Fs511%2Fe%2F2
@@ -257,6 +278,8 @@
 [/us/pl/85/866/s102/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F866%2Fs102%2Fb
 [/us/pl/85/866/s102/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F866%2Fs102%2Fb
 [/us/pl/85/866/s43/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F866%2Fs43%2Fb
+[/us/pl/114/113/s408/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs408%2Fb
+[/us/stat/129/3121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3121
 [/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
 [/us/pl/108/357/s804/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs804%2Ff
 [/us/usc/t26/s877]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs877
@@ -292,6 +315,8 @@
 [/us/pl/85/866]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F866
 [/us/pl/85/866/s102/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F866%2Fs102%2Fd
 [/us/usc/t26/s2014]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs2014
+[/us/pl/114/113/s408/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs408%2Fc
+[/us/stat/129/3121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3121
 [/us/pl/97/448/s104/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F448%2Fs104%2Fd%2F3
 [/us/stat/96/2383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2383
 [/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2

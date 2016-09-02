@@ -89,6 +89,10 @@
 
             Paragraphs (2) and (3) shall apply to any amount allowable as a deduction under section 59(e) for qualified expenditures described in subparagraphs (B), (C), (D), and (E) of paragraph (2) thereof.
 
+        (7) __Coordination with section 168(k)(5)__ 
+
+            This section shall not apply to any amount allowed as a deduction by reason of section 168(k)(5) (relating to special rules for certain plants bearing fruits and nuts).
+
     (d) __Exception for farming businesses__ 
 
         (1) __Section not to apply to certain property__ 
@@ -357,9 +361,11 @@
 
         (2) regulations providing for simplified procedures for the application of this section in the case of property described in subsection (b)(2).
 
-(Added [Pub. L. 99–514, title VIII, § 803(a)][/us/pl/99/514/s803/a], Oct. 22, 1986, [100 Stat. 2350][/us/stat/100/2350]; amended [Pub. L. 100–647, title I, § 1008(b)(1)][/us/pl/100/647/s1008/b/1]–(4), title VI, § 6026(a)–(c), Nov. 10, 1988, [102 Stat. 3437][/us/stat/102/3437], 3438, 3691–3693; [Pub. L. 101–239, title VII, § 7816(d)(1)][/us/pl/101/239/s7816/d/1], Dec. 19, 1989, [103 Stat. 2420][/us/stat/103/2420]; [Pub. L. 106–170, title V, § 532(c)(2)(B)][/us/pl/106/170/s532/c/2/B], Dec. 17, 1999, [113 Stat. 1930][/us/stat/113/1930]; [Pub. L. 108–357, title III, § 338(b)(2)][/us/pl/108/357/s338/b/2], Oct. 22, 2004, [118 Stat. 1481][/us/stat/118/1481]; [Pub. L. 109–58, title XIII, § 1329(b)][/us/pl/109/58/s1329/b], Aug. 8, 2005, [119 Stat. 1020][/us/stat/119/1020]).
+(Added [Pub. L. 99–514, title VIII, § 803(a)][/us/pl/99/514/s803/a], Oct. 22, 1986, [100 Stat. 2350][/us/stat/100/2350]; amended [Pub. L. 100–647, title I, § 1008(b)(1)][/us/pl/100/647/s1008/b/1]–(4), title VI, § 6026(a)–(c), Nov. 10, 1988, [102 Stat. 3437][/us/stat/102/3437], 3438, 3691–3693; [Pub. L. 101–239, title VII, § 7816(d)(1)][/us/pl/101/239/s7816/d/1], Dec. 19, 1989, [103 Stat. 2420][/us/stat/103/2420]; [Pub. L. 106–170, title V, § 532(c)(2)(B)][/us/pl/106/170/s532/c/2/B], Dec. 17, 1999, [113 Stat. 1930][/us/stat/113/1930]; [Pub. L. 108–357, title III, § 338(b)(2)][/us/pl/108/357/s338/b/2], Oct. 22, 2004, [118 Stat. 1481][/us/stat/118/1481]; [Pub. L. 109–58, title XIII, § 1329(b)][/us/pl/109/58/s1329/b], Aug. 8, 2005, [119 Stat. 1020][/us/stat/119/1020]; [Pub. L. 114–113, div. Q, title I, § 143(b)(6)(H)][/us/pl/114/113/s143/b/6/H], Dec. 18, 2015, [129 Stat. 3064][/us/stat/129/3064].)
 
  __Amendments__ 
+
+    2015—Subsec. (c)(7). [Pub. L. 114–113][/us/pl/114/113] added par. (7).
 
     2005—Subsec. (c)(3). [Pub. L. 109–58][/us/pl/109/58] inserted “167(h),” after “under section”.
 
@@ -402,6 +408,10 @@
     Subsec. (f)(3). [Pub. L. 100–647, § 1008(b)(4)][/us/pl/100/647/s1008/b/4], substituted “allocable (as determined under paragraph (2)) to” for “incurred or continued in connection with” and inserted “(as so determined)” after “allocable”.
 
     Subsecs. (h), (i). [Pub. L. 100–647, § 6026(a)][/us/pl/100/647/s6026/a], added subsec. (h) and redesignated former subsec. (h) as (i).
+
+ __Effective Date of 2015 Amendment__ 
+
+    Amendment by [Pub. L. 114–113][/us/pl/114/113] applicable to property placed in service after Dec. 31, 2015, in taxable years ending after such date, see [section 143(b)(7) of Pub. L. 114–113][/us/pl/114/113/s143/b/7], set out as a note under [section 168 of this title][/us/usc/t26/s168].
 
  __Effective Date of 2005 Amendment__ 
 
@@ -564,6 +574,9 @@
 [/us/stat/118/1481]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1481
 [/us/pl/109/58/s1329/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1329%2Fb
 [/us/stat/119/1020]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1020
+[/us/pl/114/113/s143/b/6/H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs143%2Fb%2F6%2FH
+[/us/stat/129/3064]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3064
+[/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
 [/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
 [/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
 [/us/pl/106/170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170
@@ -580,6 +593,9 @@
 [/us/pl/100/647/s6026/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs6026%2Fb%2F2%2FB
 [/us/pl/100/647/s1008/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1008%2Fb%2F4
 [/us/pl/100/647/s6026/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs6026%2Fa
+[/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
+[/us/pl/114/113/s143/b/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs143%2Fb%2F7
+[/us/usc/t26/s168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs168
 [/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
 [/us/pl/109/58/s1329/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1329%2Fc
 [/us/usc/t26/s167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs167

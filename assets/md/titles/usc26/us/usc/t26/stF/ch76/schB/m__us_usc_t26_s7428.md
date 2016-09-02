@@ -27,9 +27,11 @@
 
             (B) with respect to the initial classification or continuing classification of an organization as a private foundation (as defined in section 509(a)),
 
-            (C) with respect to the initial classification or continuing classification of an organization as a private operating foundation (as defined in section 4942(j)(3)), or
+            (C) with respect to the initial classification or continuing classification of an organization as a private operating foundation (as defined in section 4942(j)(3)),
 
             (D) with respect to the initial classification or continuing classification of a cooperative as an organization described in section 521(b) which is exempt from tax under section 521(a), or
+
+            (E) with respect to the initial qualification or continuing qualification of an organization as an organization described in section 501(c) (other than paragraph (3)) or 501(d) and exempt from tax under section 501(a), or
 
         (2) a failure by the Secretary to make a determination with respect to an issue referred to in paragraph (1),
 
@@ -93,13 +95,15 @@
 
         In any action brought under this section in the district court of the United States for the District of Columbia, a subpoena requiring the attendance of a witness at a trial or hearing may be served at any place in the United States.
 
-(Added [Pub. L. 94–455, title XIII, § 1306(a)][/us/pl/94/455/s1306/a], Oct. 4, 1976, [90 Stat. 1717][/us/stat/90/1717]; amended [Pub. L. 95–600, title VII, § 701(dd)(2)][/us/pl/95/600/s701/dd/2], Nov. 6, 1978, [92 Stat. 2924][/us/stat/92/2924]; [Pub. L. 97–164, title I, § 152][/us/pl/97/164/s152], Apr. 2, 1982, [96 Stat. 46][/us/stat/96/46]; [Pub. L. 98–369, div. A, title X, § 1033(b)][/us/pl/98/369/s1033/b], July 18, 1984, [98 Stat. 1039][/us/stat/98/1039]; [Pub. L. 102–572, title IX, § 902(b)][/us/pl/102/572/s902/b], Oct. 29, 1992, [106 Stat. 4516][/us/stat/106/4516]; [Pub. L. 108–357, title III, § 317(a)][/us/pl/108/357/s317/a], Oct. 22, 2004, [118 Stat. 1470][/us/stat/118/1470]; [Pub. L. 109–280, title XII, § 1223(c)][/us/pl/109/280/s1223/c], Aug. 17, 2006, [120 Stat. 1091][/us/stat/120/1091].)
+(Added [Pub. L. 94–455, title XIII, § 1306(a)][/us/pl/94/455/s1306/a], Oct. 4, 1976, [90 Stat. 1717][/us/stat/90/1717]; amended [Pub. L. 95–600, title VII, § 701(dd)(2)][/us/pl/95/600/s701/dd/2], Nov. 6, 1978, [92 Stat. 2924][/us/stat/92/2924]; [Pub. L. 97–164, title I, § 152][/us/pl/97/164/s152], Apr. 2, 1982, [96 Stat. 46][/us/stat/96/46]; [Pub. L. 98–369, div. A, title X, § 1033(b)][/us/pl/98/369/s1033/b], July 18, 1984, [98 Stat. 1039][/us/stat/98/1039]; [Pub. L. 102–572, title IX, § 902(b)][/us/pl/102/572/s902/b], Oct. 29, 1992, [106 Stat. 4516][/us/stat/106/4516]; [Pub. L. 108–357, title III, § 317(a)][/us/pl/108/357/s317/a], Oct. 22, 2004, [118 Stat. 1470][/us/stat/118/1470]; [Pub. L. 109–280, title XII, § 1223(c)][/us/pl/109/280/s1223/c], Aug. 17, 2006, [120 Stat. 1091][/us/stat/120/1091]; [Pub. L. 114–113, div. Q, title IV, § 406(a)][/us/pl/114/113/s406/a], Dec. 18, 2015, [129 Stat. 3120][/us/stat/129/3120].)
 
  __Prior Provisions__ 
 
     A prior section 7428 was renumbered 7437 of this title.
 
  __Amendments__ 
+
+    2015—Subsec. (a)(1)(E). [Pub. L. 114–113][/us/pl/114/113] added subpar. (E).
 
     2006—Subsec. (b)(4). [Pub. L. 109–280][/us/pl/109/280], which directed addition of par. (4) at the end of section 7428(b), without specifying the act to be amended, was executed by making the addition at the end of subsec. (b) of this section, which is section 7428 of the Internal Revenue Code of 1986, to reflect the probable intent of Congress.
 
@@ -114,6 +118,12 @@
     1982—Subsecs. (a), (b)(2), (c)(1)(C)(iii). [Pub. L. 97–164][/us/pl/97/164] substituted “Claims Court” for “Court of Claims”.
 
     1978—Subsec. (a). [Pub. L. 95–600][/us/pl/95/600] inserted provision relating to change in qualification or classification.
+
+ __Effective Date of 2015 Amendment__ 
+
+[Pub. L. 114–113, div. Q, title IV, § 406(b)][/us/pl/114/113/s406/b], Dec. 18, 2015, [129 Stat. 3120][/us/stat/129/3120], provided that: 
+
+> “The amendments made by this section \[amending this section\] shall apply to pleadings filed after the date of the enactment of this Act \[Dec. 18, 2015\].”
 
  __Effective Date of 2006 Amendment__ 
 
@@ -168,6 +178,9 @@
 [/us/stat/118/1470]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1470
 [/us/pl/109/280/s1223/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs1223%2Fc
 [/us/stat/120/1091]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1091
+[/us/pl/114/113/s406/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs406%2Fa
+[/us/stat/129/3120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3120
+[/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
 [/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
 [/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
 [/us/pl/102/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572
@@ -175,6 +188,8 @@
 [/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
 [/us/pl/97/164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164
 [/us/pl/95/600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600
+[/us/pl/114/113/s406/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs406%2Fb
+[/us/stat/129/3120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3120
 [/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
 [/us/pl/109/280/s1223/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs1223%2Ff
 [/us/usc/t26/s6033]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6033

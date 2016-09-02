@@ -393,10 +393,6 @@
 
                         The term “post-December reported amount” means the aggregate reported amount determined by taking into account only dividends paid after December 31 of the taxable year.
 
-                (v) __Termination__ 
-
-                    The term “interest related dividend” shall not include any dividend with respect to any taxable year of the company beginning after December 31, 2014.
-
             (D) __Qualified net interest income__ 
 
                 For purposes of subparagraph (C), the term “qualified net interest income” means the qualified interest income of the regulated investment company reduced by the deductions properly allocable to such income.
@@ -478,10 +474,6 @@
                     (IV) __Post-December reported amount__ 
 
                         The term “post-December reported amount” means the aggregate reported amount determined by taking into account only dividends paid after December 31 of the taxable year.
-
-                (v) __Termination__ 
-
-                    The term “short-term capital gain dividend” shall not include any dividend with respect to any taxable year of the company beginning after December 31, 2014.
 
             (D) __Qualified short-term gain__ 
 
@@ -649,7 +641,7 @@
 
         (7) For special tax treatment of gain or loss from the disposition by a nonresident alien individual of a United States real property interest, see section 897.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 278][/us/stat/68A/278]; [Pub. L. 85–866, title I][/us/pl/85/866], §§ 40(a), 41(a), Sept. 2, 1958, [72 Stat. 1638][/us/stat/72/1638], 1639; [Pub. L. 86–437, § 2(b)][/us/pl/86/437/s2/b], Apr. 22, 1960, [74 Stat. 79][/us/stat/74/79]; [Pub. L. 87–256, § 110(b)][/us/pl/87/256/s110/b], Sept. 21, 1961, [75 Stat. 535][/us/stat/75/535]; [Pub. L. 88–272, title I, § 113(b)][/us/pl/88/272/s113/b], title II, § 201(d)(12), Feb. 26, 1964, [78 Stat. 24][/us/stat/78/24], 32; [Pub. L. 89–809, title I, § 103(a)(1)][/us/pl/89/809/s103/a/1], Nov. 13, 1966, [80 Stat. 1547][/us/stat/80/1547]; [Pub. L. 92–178, title III, § 313(a)][/us/pl/92/178/s313/a], (b), Dec. 10, 1971, [85 Stat. 526][/us/stat/85/526], 527; [Pub. L. 93–406, title II, § 2005(c)(8)][/us/pl/93/406/s2005/c/8], Sept. 2, 1974, [88 Stat. 992][/us/stat/88/992]; [Pub. L. 94–455, title X, § 1012(a)(2)][/us/pl/94/455/s1012/a/2], title XIX, §§ 1901(b)(3)(I), 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1613][/us/stat/90/1613], 1793, 1834; [Pub. L. 95–600, title IV][/us/pl/95/600], §§ 401(b)(3), 421(e)(4), Nov. 6, 1978, [92 Stat. 2867][/us/stat/92/2867], 2876; [Pub. L. 96–222, title I, § 104(a)(4)(H)(v)][/us/pl/96/222/s104/a/4/H/v], Apr. 1, 1980, [94 Stat. 217][/us/stat/94/217]; [Pub. L. 96–499, title XI, § 1122(c)(1)][/us/pl/96/499/s1122/c/1], Dec. 5, 1980, [94 Stat. 2687][/us/stat/94/2687]; [Pub. L. 96–605, title II, § 227(a)][/us/pl/96/605/s227/a], Dec. 28, 1980, [94 Stat. 3530][/us/stat/94/3530]; [Pub. L. 97–34, title VII, § 725(c)(1)][/us/pl/97/34/s725/c/1], Aug. 13, 1981, [95 Stat. 346][/us/stat/95/346]; [Pub. L. 98–21, title I, § 121(c)(1)][/us/pl/98/21/s121/c/1], title III, § 335(b)(2)(B), Apr. 20, 1983, [97 Stat. 82][/us/stat/97/82], 130; [Pub. L. 98–369, div. A, title I][/us/pl/98/369], §§ 42(a)(9), 127(a), 128(a), title IV, § 412(b)(1), July 18, 1984, [98 Stat. 557][/us/stat/98/557], 648, 653, 792; [Pub. L. 99–272, title XII, § 12103(b)][/us/pl/99/272/s12103/b], Apr. 7, 1986, [100 Stat. 285][/us/stat/100/285]; [Pub. L. 99–514, title III, § 301(b)(9)][/us/pl/99/514/s301/b/9], title XII, §§ 1211(b)(4), (5), 1214(c)(1), title XVIII, § 1810(d)(1)(A), (2), (3)(A), (B), (e)(2)(A), Oct. 22, 1986, [100 Stat. 2217][/us/stat/100/2217], 2536, 2542, 2825, 2826; [Pub. L. 100–647, title I, § 1001(d)(2)(B)][/us/pl/100/647/s1001/d/2/B], title VI, § 6134(a)(1), Nov. 10, 1988, [102 Stat. 3350][/us/stat/102/3350], 3721; [Pub. L. 102–318, title V, § 521(b)(28)][/us/pl/102/318/s521/b/28]–(30), July 3, 1992, [106 Stat. 312][/us/stat/106/312]; [Pub. L. 103–66, title XIII][/us/pl/103/66], §§ 13113(d)(5), 13237(a)(1), (c)(1), Aug. 10, 1993, [107 Stat. 430][/us/stat/107/430], 506, 508; [Pub. L. 103–296, title III, § 320(a)(1)(A)][/us/pl/103/296/s320/a/1/A], Aug. 15, 1994, [108 Stat. 1535][/us/stat/108/1535]; [Pub. L. 103–465, title VII, § 733(a)][/us/pl/103/465/s733/a], Dec. 8, 1994, [108 Stat. 5006][/us/stat/108/5006]; [Pub. L. 104–188, title I][/us/pl/104/188], §§ 1401(b)(10), 1954(b)(1), Aug. 20, 1996, [110 Stat. 1789][/us/stat/110/1789], 1928; [Pub. L. 105–206, title VI, § 6023(10)][/us/pl/105/206/s6023/10], July 22, 1998, [112 Stat. 825][/us/stat/112/825]; [Pub. L. 106–170, title V, § 532(b)(2)][/us/pl/106/170/s532/b/2], Dec. 17, 1999, [113 Stat. 1930][/us/stat/113/1930]; [Pub. L. 106–554, § 1(a)(7)][/us/pl/106/554/s1/a/7] \[title III, § 319(11)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–646; [Pub. L. 108–357, title IV][/us/pl/108/357], §§ 409(a), 411(a)(1), Oct. 22, 2004, [118 Stat. 1500][/us/stat/118/1500]; [Pub. L. 109–222, title V, § 505(c)(2)][/us/pl/109/222/s505/c/2], May 17, 2006, [120 Stat. 356][/us/stat/120/356]; [Pub. L. 110–343, div. C, title II, § 206(a)][/us/pl/110/343/s206/a], (b), Oct. 3, 2008, [122 Stat. 3865][/us/stat/122/3865]; [Pub. L. 111–147, title V][/us/pl/111/147], §§ 502(b)(1), (2)(A), 541(a), Mar. 18, 2010, [124 Stat. 107][/us/stat/124/107], 115; [Pub. L. 111–226, title II, § 217(b)][/us/pl/111/226/s217/b], Aug. 10, 2010, [124 Stat. 2400][/us/stat/124/2400]; [Pub. L. 111–312, title VII, § 748(a)][/us/pl/111/312/s748/a], Dec. 17, 2010, [124 Stat. 3320][/us/stat/124/3320]; [Pub. L. 111–325, title III][/us/pl/111/325], §§ 301(f), 302(b)(2), 308(b)(3), Dec. 22, 2010, [124 Stat. 3544][/us/stat/124/3544], 3548, 3551; [Pub. L. 112–240, title III, § 320(a)][/us/pl/112/240/s320/a], Jan. 2, 2013, [126 Stat. 2332][/us/stat/126/2332]; [Pub. L. 113–295, div. A, title I, § 132(a)][/us/pl/113/295/s132/a], title II, § 221(a)(71), Dec. 19, 2014, [128 Stat. 4018][/us/stat/128/4018], 4048.)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 278][/us/stat/68A/278]; [Pub. L. 85–866, title I][/us/pl/85/866], §§ 40(a), 41(a), Sept. 2, 1958, [72 Stat. 1638][/us/stat/72/1638], 1639; [Pub. L. 86–437, § 2(b)][/us/pl/86/437/s2/b], Apr. 22, 1960, [74 Stat. 79][/us/stat/74/79]; [Pub. L. 87–256, § 110(b)][/us/pl/87/256/s110/b], Sept. 21, 1961, [75 Stat. 535][/us/stat/75/535]; [Pub. L. 88–272, title I, § 113(b)][/us/pl/88/272/s113/b], title II, § 201(d)(12), Feb. 26, 1964, [78 Stat. 24][/us/stat/78/24], 32; [Pub. L. 89–809, title I, § 103(a)(1)][/us/pl/89/809/s103/a/1], Nov. 13, 1966, [80 Stat. 1547][/us/stat/80/1547]; [Pub. L. 92–178, title III, § 313(a)][/us/pl/92/178/s313/a], (b), Dec. 10, 1971, [85 Stat. 526][/us/stat/85/526], 527; [Pub. L. 93–406, title II, § 2005(c)(8)][/us/pl/93/406/s2005/c/8], Sept. 2, 1974, [88 Stat. 992][/us/stat/88/992]; [Pub. L. 94–455, title X, § 1012(a)(2)][/us/pl/94/455/s1012/a/2], title XIX, §§ 1901(b)(3)(I), 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1613][/us/stat/90/1613], 1793, 1834; [Pub. L. 95–600, title IV][/us/pl/95/600], §§ 401(b)(3), 421(e)(4), Nov. 6, 1978, [92 Stat. 2867][/us/stat/92/2867], 2876; [Pub. L. 96–222, title I, § 104(a)(4)(H)(v)][/us/pl/96/222/s104/a/4/H/v], Apr. 1, 1980, [94 Stat. 217][/us/stat/94/217]; [Pub. L. 96–499, title XI, § 1122(c)(1)][/us/pl/96/499/s1122/c/1], Dec. 5, 1980, [94 Stat. 2687][/us/stat/94/2687]; [Pub. L. 96–605, title II, § 227(a)][/us/pl/96/605/s227/a], Dec. 28, 1980, [94 Stat. 3530][/us/stat/94/3530]; [Pub. L. 97–34, title VII, § 725(c)(1)][/us/pl/97/34/s725/c/1], Aug. 13, 1981, [95 Stat. 346][/us/stat/95/346]; [Pub. L. 98–21, title I, § 121(c)(1)][/us/pl/98/21/s121/c/1], title III, § 335(b)(2)(B), Apr. 20, 1983, [97 Stat. 82][/us/stat/97/82], 130; [Pub. L. 98–369, div. A, title I][/us/pl/98/369], §§ 42(a)(9), 127(a), 128(a), title IV, § 412(b)(1), July 18, 1984, [98 Stat. 557][/us/stat/98/557], 648, 653, 792; [Pub. L. 99–272, title XII, § 12103(b)][/us/pl/99/272/s12103/b], Apr. 7, 1986, [100 Stat. 285][/us/stat/100/285]; [Pub. L. 99–514, title III, § 301(b)(9)][/us/pl/99/514/s301/b/9], title XII, §§ 1211(b)(4), (5), 1214(c)(1), title XVIII, § 1810(d)(1)(A), (2), (3)(A), (B), (e)(2)(A), Oct. 22, 1986, [100 Stat. 2217][/us/stat/100/2217], 2536, 2542, 2825, 2826; [Pub. L. 100–647, title I, § 1001(d)(2)(B)][/us/pl/100/647/s1001/d/2/B], title VI, § 6134(a)(1), Nov. 10, 1988, [102 Stat. 3350][/us/stat/102/3350], 3721; [Pub. L. 102–318, title V, § 521(b)(28)][/us/pl/102/318/s521/b/28]–(30), July 3, 1992, [106 Stat. 312][/us/stat/106/312]; [Pub. L. 103–66, title XIII][/us/pl/103/66], §§ 13113(d)(5), 13237(a)(1), (c)(1), Aug. 10, 1993, [107 Stat. 430][/us/stat/107/430], 506, 508; [Pub. L. 103–296, title III, § 320(a)(1)(A)][/us/pl/103/296/s320/a/1/A], Aug. 15, 1994, [108 Stat. 1535][/us/stat/108/1535]; [Pub. L. 103–465, title VII, § 733(a)][/us/pl/103/465/s733/a], Dec. 8, 1994, [108 Stat. 5006][/us/stat/108/5006]; [Pub. L. 104–188, title I][/us/pl/104/188], §§ 1401(b)(10), 1954(b)(1), Aug. 20, 1996, [110 Stat. 1789][/us/stat/110/1789], 1928; [Pub. L. 105–206, title VI, § 6023(10)][/us/pl/105/206/s6023/10], July 22, 1998, [112 Stat. 825][/us/stat/112/825]; [Pub. L. 106–170, title V, § 532(b)(2)][/us/pl/106/170/s532/b/2], Dec. 17, 1999, [113 Stat. 1930][/us/stat/113/1930]; [Pub. L. 106–554, § 1(a)(7)][/us/pl/106/554/s1/a/7] \[title III, § 319(11)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–646; [Pub. L. 108–357, title IV][/us/pl/108/357], §§ 409(a), 411(a)(1), Oct. 22, 2004, [118 Stat. 1500][/us/stat/118/1500]; [Pub. L. 109–222, title V, § 505(c)(2)][/us/pl/109/222/s505/c/2], May 17, 2006, [120 Stat. 356][/us/stat/120/356]; [Pub. L. 110–343, div. C, title II, § 206(a)][/us/pl/110/343/s206/a], (b), Oct. 3, 2008, [122 Stat. 3865][/us/stat/122/3865]; [Pub. L. 111–147, title V][/us/pl/111/147], §§ 502(b)(1), (2)(A), 541(a), Mar. 18, 2010, [124 Stat. 107][/us/stat/124/107], 115; [Pub. L. 111–226, title II, § 217(b)][/us/pl/111/226/s217/b], Aug. 10, 2010, [124 Stat. 2400][/us/stat/124/2400]; [Pub. L. 111–312, title VII, § 748(a)][/us/pl/111/312/s748/a], Dec. 17, 2010, [124 Stat. 3320][/us/stat/124/3320]; [Pub. L. 111–325, title III][/us/pl/111/325], §§ 301(f), 302(b)(2), 308(b)(3), Dec. 22, 2010, [124 Stat. 3544][/us/stat/124/3544], 3548, 3551; [Pub. L. 112–240, title III, § 320(a)][/us/pl/112/240/s320/a], Jan. 2, 2013, [126 Stat. 2332][/us/stat/126/2332]; [Pub. L. 113–295, div. A, title I, § 132(a)][/us/pl/113/295/s132/a], title II, § 221(a)(71), Dec. 19, 2014, [128 Stat. 4018][/us/stat/128/4018], 4048; [Pub. L. 114–113, div. Q, title I, § 125(a)][/us/pl/114/113/s125/a], Dec. 18, 2015, [129 Stat. 3054][/us/stat/129/3054].)
 
  __References in Text__ 
 
@@ -664,6 +656,10 @@
     The date of the enactment of this subsection, referred to in subsec. (m)(3)(B), is the date of enactment of [Pub. L. 111–147][/us/pl/111/147], which was approved Mar. 18, 2010.
 
  __Amendments__ 
+
+    2015—Subsec. (k)(1)(C)(v). [Pub. L. 114–113, § 125(a)][/us/pl/114/113/s125/a], struck out cl. (v). Text read as follows: “The term ‘interest related dividend’ shall not include any dividend with respect to any taxable year of the company beginning after December 31, 2014.”
+
+    2015—Subsec. (k)(2)(C)(v). [Pub. L. 114–113, § 125(a)][/us/pl/114/113/s125/a], struck out cl. (v). Text read as follows: “The term ‘short-term capital gain dividend’ shall not include any dividend with respect to any taxable year of the company beginning after December 31, 2014.”
 
     2014—Subsec. (a)(1)(B). [Pub. L. 113–295, § 221(a)(71)][/us/pl/113/295/s221/a/71], amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “gains described in section 631(b) or (c), and gains on transfers described in section 1235 made on or before October 4, 1966,”.
 
@@ -828,6 +824,12 @@
     1958—Subsec. (a)(1). [Pub. L. 85–866, § 40(a)][/us/pl/85/866/s40/a], inserted “section 403(a)(2),” after “section 402(a)(2),”.
 
     Subsec. (b). [Pub. L. 85–866, § 41(a)][/us/pl/85/866/s41/a], inserted last par. covering former provisions of par. (3), which was struck out by the amendment, and containing new provisions with references to credits under section 34 and 35 and exclusion under [section 116 of this title][/us/usc/t26/s116].
+
+ __Effective Date of 2015 Amendment__ 
+
+[Pub. L. 114–113, div. Q, title I, § 125(b)][/us/pl/114/113/s125/b], Dec. 18, 2015, [129 Stat. 3054][/us/stat/129/3054], provided that: 
+
+> “The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2014.”
 
  __Effective Date of 2014 Amendment__ 
 
@@ -1172,6 +1174,8 @@
 [/us/stat/126/2332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2332
 [/us/pl/113/295/s132/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs132%2Fa
 [/us/stat/128/4018]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4018
+[/us/pl/114/113/s125/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs125%2Fa
+[/us/stat/129/3054]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3054
 [/us/usc/t42/s407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs407
 [/us/usc/t26/s932/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs932%2Fc
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
@@ -1181,6 +1185,8 @@
 [/us/usc/t19/s2101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2101
 [/us/pl/111/226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F226
 [/us/pl/111/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F147
+[/us/pl/114/113/s125/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs125%2Fa
+[/us/pl/114/113/s125/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs125%2Fa
 [/us/pl/113/295/s221/a/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F71
 [/us/pl/113/295/s132/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs132%2Fa
 [/us/pl/112/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240
@@ -1261,6 +1267,8 @@
 [/us/pl/85/866/s40/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F866%2Fs40%2Fa
 [/us/pl/85/866/s41/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F866%2Fs41%2Fa
 [/us/usc/t26/s116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs116
+[/us/pl/114/113/s125/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs125%2Fb
+[/us/stat/129/3054]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3054
 [/us/pl/113/295/s132/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs132%2Fb
 [/us/stat/128/4018]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4018
 [/us/pl/113/295/s221/a/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F71

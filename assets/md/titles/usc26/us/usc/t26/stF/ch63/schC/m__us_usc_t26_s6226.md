@@ -163,6 +163,12 @@
 
     (C) at the underpayment rate under section 6621(a)(2), determined by substituting “5 percentage points” for “3 percentage points” in subparagraph (B) thereof.
 
+[Pub. L. 114–113, div. Q, title IV, § 411(b)(1)][/us/pl/114/113/s411/b/1], (e), Dec. 18, 2015, [129 Stat. 3122][/us/stat/129/3122], provided that, effective as if included in [section 1101 of Pub. L. 114–74][/us/pl/114/74/s1101], this section (as added by [Pub. L. 114–74][/us/pl/114/74], see note above) is amended by adding at the end the following new subsection:
+
+    (d) Judicial review
+
+    For the time period within which a partnership may file a petition for a readjustment, see section 6234(a).
+
  __Amendments__ 
 
     1997—Subsec. (b)(5), (6). [Pub. L. 105–34, § 1240(a)][/us/pl/105/34/s1240/a], added par. (5) and redesignated former par. (5) as (6).
@@ -175,9 +181,13 @@
 
     1983—Subsec. (g). [Pub. L. 97–448][/us/pl/97/448] substituted “With respect to the partnership, only the tax matters partner” for “Only the tax matters partner”.
 
- __Effective Date of Repeal__ 
+ __Effective Date of 2015 Amendment__ 
 
-    Repeal applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, see [section 1101(g) of Pub. L. 114–74][/us/pl/114/74/s1101/g], set out as an Effective Date of 2015 Amendment note under [section 6221 of this title][/us/usc/t26/s6221].
+    Amendment by [Pub. L. 114–113][/us/pl/114/113] effective as if included in [section 1101 of Pub. L. 114–74][/us/pl/114/74/s1101], see [section 411(e) of Pub. L. 114–113][/us/pl/114/113/s411/e], set out as a note under [section 6031 of this title][/us/usc/t26/s6031].
+
+ __Effective Date of Repeal and Reenactment__ 
+
+    Repeal and reenacted section applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, see [section 1101(g) of Pub. L. 114–74][/us/pl/114/74/s1101/g], set out as an Effective Date of 2015 Amendment note under [section 6221 of this title][/us/usc/t26/s6221].
 
  __Effective Date of 1997 Amendment__ 
 
@@ -214,11 +224,19 @@
 [/us/stat/111/1026-1028]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1026-1028
 [/us/pl/114/74/s1101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs1101%2Fa
 [/us/stat/129/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F625
+[/us/pl/114/113/s411/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs411%2Fb%2F1
+[/us/stat/129/3122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3122
+[/us/pl/114/74/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs1101
+[/us/pl/114/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74
 [/us/pl/105/34/s1240/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1240%2Fa
 [/us/pl/105/34/s1239/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1239%2Fb
 [/us/pl/105/34/s1238/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1238%2Fb%2F1
 [/us/pl/102/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572
 [/us/pl/97/448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F448
+[/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
+[/us/pl/114/74/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs1101
+[/us/pl/114/113/s411/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs411%2Fe
+[/us/usc/t26/s6031]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6031
 [/us/pl/114/74/s1101/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs1101%2Fg
 [/us/usc/t26/s6221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6221
 [/us/pl/105/34/s1238/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1238%2Fb%2F1

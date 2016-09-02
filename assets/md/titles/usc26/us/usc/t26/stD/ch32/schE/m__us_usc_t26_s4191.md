@@ -39,7 +39,11 @@
 
             (D) any other medical device determined by the Secretary to be of a type which is generally purchased by the general public at retail for individual use.
 
-(Added [Pub. L. 111–152, title I, § 1405(a)(1)][/us/pl/111/152/s1405/a/1], Mar. 30, 2010, [124 Stat. 1064][/us/stat/124/1064].)
+    (c) __Moratorium__ 
+
+        The tax imposed under subsection (a) shall not apply to sales during the period beginning on January 1, 2016, and ending on December 31, 2017.
+
+(Added [Pub. L. 111–152, title I, § 1405(a)(1)][/us/pl/111/152/s1405/a/1], Mar. 30, 2010, [124 Stat. 1064][/us/stat/124/1064]; [Pub. L. 114–113, div. Q, title I, § 174(a)][/us/pl/114/113/s174/a], Dec. 18, 2015, [129 Stat. 3071][/us/stat/129/3071].)
 
  __References in Text__ 
 
@@ -48,6 +52,16 @@
  __Prior Provisions__ 
 
     For prior sections 4191, 4192, 4201, and 4211, see Prior Provisions note set out preceding this section.
+
+ __Amendments__ 
+
+    2015—Subsec. (c). [Pub. L. 114–113][/us/pl/114/113] added subsec. (c).
+
+ __Effective Date of 2015 Amendment__ 
+
+[Pub. L. 114–113, div. Q, title I, § 174(b)][/us/pl/114/113/s174/b], Dec. 18, 2015, [129 Stat. 3072][/us/stat/129/3072], provided that: 
+
+> “The amendment made by this section \[amending this section\] shall apply to sales after December 31, 2015.”
 
  __Effective Date__ 
 
@@ -64,7 +78,12 @@
 
 [/us/pl/111/152/s1405/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2Fs1405%2Fa%2F1
 [/us/stat/124/1064]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1064
+[/us/pl/114/113/s174/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs174%2Fa
+[/us/stat/129/3071]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3071
 [/us/usc/t21/s321/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs321%2Fh
+[/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
+[/us/pl/114/113/s174/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs174%2Fb
+[/us/stat/129/3072]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3072
 [/us/pl/111/152/s1405/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2Fs1405%2Fc
 [/us/stat/124/1065]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1065
 

@@ -127,6 +127,8 @@
 
     Provisions relating to inflation adjustment of items in this section for certain years were contained in the following:
 
+    2016—Revenue Ruling 2015–24.
+
     2015—Revenue Ruling 2014–30.
 
     2014—Revenue Ruling 2013–23.

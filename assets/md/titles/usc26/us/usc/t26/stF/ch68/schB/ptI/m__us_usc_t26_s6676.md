@@ -17,7 +17,7 @@
 
     (a) __Civil penalty__ 
 
-        If a claim for refund or credit with respect to income tax (other than a claim for a refund or credit relating to the earned income credit under section 32) is made for an excessive amount, unless it is shown that the claim for such excessive amount has a reasonable basis, the person making such claim shall be liable for a penalty in an amount equal to 20 percent of the excessive amount.
+        If a claim for refund or credit with respect to income tax is made for an excessive amount, unless it is shown that the claim for such excessive amount is due to reasonable cause, the person making such claim shall be liable for a penalty in an amount equal to 20 percent of the excessive amount.
 
     (b) __Excessive amount__ 
 
@@ -25,13 +25,13 @@
 
     (c) __Noneconomic substance transactions treated as lacking reasonable basis__ 
 
-        For purposes of this section, any excessive amount which is attributable to any transaction described in section 6662(b)(6) shall not be treated as having a reasonable basis.
+        For purposes of this section, any excessive amount which is attributable to any transaction described in section 6662(b)(6) shall not be treated as due to reasonable cause.
 
     (d) __Coordination with other penalties__ 
 
         This section shall not apply to any portion of the excessive amount of a claim for refund or credit which is subject to a penalty imposed under part II of subchapter A of chapter 68.
 
-(Added [Pub. L. 110–28, title VIII, § 8247(a)][/us/pl/110/28/s8247/a], May 25, 2007, [121 Stat. 204][/us/stat/121/204]; amended [Pub. L. 111–152, title I, § 1409(d)][/us/pl/111/152/s1409/d], Mar. 30, 2010, [124 Stat. 1070][/us/stat/124/1070].)
+(Added [Pub. L. 110–28, title VIII, § 8247(a)][/us/pl/110/28/s8247/a], May 25, 2007, [121 Stat. 204][/us/stat/121/204]; amended [Pub. L. 111–152, title I, § 1409(d)][/us/pl/111/152/s1409/d], Mar. 30, 2010, [124 Stat. 1070][/us/stat/124/1070]; [Pub. L. 114–113, div. Q, title II, § 209(b)][/us/pl/114/113/s209/b], (c), Dec. 18, 2015, [129 Stat. 3084][/us/stat/129/3084], 3085.)
 
  __Codification__ 
 
@@ -43,7 +43,19 @@
 
  __Amendments__ 
 
+    2015—Subsec. (a). [Pub. L. 114–113, § 209(c)(1)][/us/pl/114/113/s209/c/1], substituted “is due to reasonable cause” for “has a reasonable basis”.
+
+    [Pub. L. 114–113, § 209(b)][/us/pl/114/113/s209/b], struck out “(other than a claim for a refund or credit relating to the earned income credit under section 32)” after “income tax”.
+
+    Subsec. (c). [Pub. L. 114–113, § 209(c)(2)][/us/pl/114/113/s209/c/2], substituted “due to reasonable cause” for “having a reasonable basis”.
+
     2010—Subsecs. (c), (d). [Pub. L. 111–152][/us/pl/111/152] added subsec. (c) and redesignated former subsec. (c) as (d). See Codification note above.
+
+ __Effective Date of 2015 Amendment__ 
+
+[Pub. L. 114–113, div. Q, title II, § 209(d)(2)][/us/pl/114/113/s209/d/2], Dec. 18, 2015, [129 Stat. 3085][/us/stat/129/3085], provided that: 
+
+> “The amendment made by subsection (b) \[amending this section\] shall apply to claims filed after the date of the enactment of this Act \[Dec. 18, 2015\].”
 
  __Effective Date of 2010 Amendment__ 
 
@@ -66,6 +78,8 @@
 [/us/stat/121/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F204
 [/us/pl/111/152/s1409/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2Fs1409%2Fd
 [/us/stat/124/1070]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1070
+[/us/pl/114/113/s209/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs209%2Fb
+[/us/stat/129/3084]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3084
 [/us/pl/111/152/s1409/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2Fs1409%2Fd
 [/us/pl/87/397/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F397%2Fs1%2Fb
 [/us/stat/75/828]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F828
@@ -85,7 +99,12 @@
 [/us/stat/102/3570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3570
 [/us/pl/101/239/s7711/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7711%2Fb%2F1
 [/us/stat/103/2393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2393
+[/us/pl/114/113/s209/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs209%2Fc%2F1
+[/us/pl/114/113/s209/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs209%2Fb
+[/us/pl/114/113/s209/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs209%2Fc%2F2
 [/us/pl/111/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152
+[/us/pl/114/113/s209/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs209%2Fd%2F2
+[/us/stat/129/3085]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3085
 [/us/pl/111/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152
 [/us/pl/111/152/s1409/e/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2Fs1409%2Fe%2F4
 [/us/usc/t26/s6662]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6662

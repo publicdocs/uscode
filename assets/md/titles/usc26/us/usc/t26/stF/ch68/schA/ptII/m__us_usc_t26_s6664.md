@@ -29,7 +29,7 @@
 
         (2) the amount of rebates made.
 
-        For purposes of paragraph (2), the term “rebate” means so much of an abatement, credit, refund, or other repayment, as was made on the ground that the tax imposed was less than the excess of the amount specified in paragraph (1) over the rebates previously made.
+        For purposes of paragraph (2), the term “rebate” means so much of an abatement, credit, refund, or other repayment, as was made on the ground that the tax imposed was less than the excess of the amount specified in paragraph (1) over the rebates previously made. A rule similar to the rule of section 6211(b)(4) shall apply for purposes of this subsection.
 
     (b) __Penalties applicable only where return filed__ 
 
@@ -137,7 +137,7 @@
 
                     (IV) fails to meet any other requirement as the Secretary may prescribe.
 
-(Added [Pub. L. 101–239, title VII, § 7721(a)][/us/pl/101/239/s7721/a], Dec. 19, 1989, [103 Stat. 2398][/us/stat/103/2398]; amended [Pub. L. 108–357, title VIII, § 812(c)][/us/pl/108/357/s812/c], Oct. 22, 2004, [118 Stat. 1579][/us/stat/118/1579]; [Pub. L. 109–280, title XII, § 1219(a)(3)][/us/pl/109/280/s1219/a/3], (c)(2), Aug. 17, 2006, [120 Stat. 1084][/us/stat/120/1084], 1085; [Pub. L. 111–152, title I, § 1409(c)][/us/pl/111/152/s1409/c], Mar. 30, 2010, [124 Stat. 1069][/us/stat/124/1069].)
+(Added [Pub. L. 101–239, title VII, § 7721(a)][/us/pl/101/239/s7721/a], Dec. 19, 1989, [103 Stat. 2398][/us/stat/103/2398]; amended [Pub. L. 108–357, title VIII, § 812(c)][/us/pl/108/357/s812/c], Oct. 22, 2004, [118 Stat. 1579][/us/stat/118/1579]; [Pub. L. 109–280, title XII, § 1219(a)(3)][/us/pl/109/280/s1219/a/3], (c)(2), Aug. 17, 2006, [120 Stat. 1084][/us/stat/120/1084], 1085; [Pub. L. 111–152, title I, § 1409(c)][/us/pl/111/152/s1409/c], Mar. 30, 2010, [124 Stat. 1069][/us/stat/124/1069]; [Pub. L. 114–113, div. Q, title II, § 209(a)][/us/pl/114/113/s209/a], Dec. 18, 2015, [129 Stat. 3084][/us/stat/129/3084].)
 
  __Codification__ 
 
@@ -146,6 +146,8 @@
     Section 1219(a)(3), (c)(2) of [Pub. L. 109–280][/us/pl/109/280], which directed the amendment of section 6664 without specifying the act to be amended, was executed to this section, which is section 6664 of the Internal Revenue Code of 1986, to reflect the probable intent of Congress. See 2006 Amendment notes below.
 
  __Amendments__ 
+
+    2015—Subsec. (a). [Pub. L. 114–113][/us/pl/114/113] inserted at end “A rule similar to the rule of section 6211(b)(4) shall apply for purposes of this subsection.”
 
     2010—Subsec. (c)(2) to (4). [Pub. L. 111–152, § 1409(c)(1)(A)][/us/pl/111/152/s1409/c/1/A], (C), added par. (2) and redesignated former pars. (2) and (3) as (3) and (4), respectively. See Codification note above.
 
@@ -172,6 +174,16 @@
     Subsec. (c)(1). [Pub. L. 108–357, § 812(c)(2)(A)][/us/pl/108/357/s812/c/2/A], substituted “section 6662 or 6663” for “this part”.
 
     Subsec. (d). [Pub. L. 108–357, § 812(c)(1)][/us/pl/108/357/s812/c/1], added subsec. (d).
+
+ __Effective Date of 2015 Amendment__ 
+
+[Pub. L. 114–113, div. Q, title II, § 209(d)(1)][/us/pl/114/113/s209/d/1], Dec. 18, 2015, [129 Stat. 3085][/us/stat/129/3085], provided that: 
+
+> “The amendment made by subsection (a) \[amending this section\] shall apply to—
+
+>     “(A) returns filed after the date of the enactment of this Act \[Dec. 18, 2015\], and
+
+>     “(B) returns filed on or before such date if the period specified in section 6501 of the Internal Revenue Code of 1986 for assessment of the taxes with respect to which such return relates has not expired as of such date.”
 
  __Effective Date of 2010 Amendment__ 
 
@@ -204,8 +216,11 @@
 [/us/stat/120/1084]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1084
 [/us/pl/111/152/s1409/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2Fs1409%2Fc
 [/us/stat/124/1069]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1069
+[/us/pl/114/113/s209/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs209%2Fa
+[/us/stat/129/3084]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3084
 [/us/pl/111/152/s1409/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2Fs1409%2Fc
 [/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
+[/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
 [/us/pl/111/152/s1409/c/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2Fs1409%2Fc%2F1%2FA
 [/us/pl/111/152/s1409/c/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2Fs1409%2Fc%2F1%2FB
 [/us/pl/111/152/s1409/c/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2Fs1409%2Fc%2F2%2FA
@@ -216,6 +231,8 @@
 [/us/pl/108/357/s812/c/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs812%2Fc%2F2%2FB
 [/us/pl/108/357/s812/c/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs812%2Fc%2F2%2FA
 [/us/pl/108/357/s812/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs812%2Fc%2F1
+[/us/pl/114/113/s209/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs209%2Fd%2F1
+[/us/stat/129/3085]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3085
 [/us/pl/111/152/s1409/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2Fs1409%2Fc%2F1
 [/us/pl/111/152/s1409/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2Fs1409%2Fe%2F2
 [/us/usc/t26/s6662]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6662

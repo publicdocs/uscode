@@ -113,7 +113,17 @@
 
                 In the case of any adjacent wine cellar, a bond furnished under this section which covers operations at such wine cellar shall be in lieu of any bond which would otherwise be required under section 5354 with respect to such wine cellar (other than supplemental bonds required under the second sentence of section 5354).
 
-(Added [Pub. L. 85–859, title II, § 201][/us/pl/85/859/s201], Sept. 2, 1958, [72 Stat. 1349][/us/stat/72/1349]; amended [Pub. L. 91–659, § 4][/us/pl/91/659/s4], Jan. 8, 1971, [84 Stat. 1966][/us/stat/84/1966]; [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 96–39, title VIII, § 805(c)][/us/pl/96/39/s805/c], July 26, 1979, [93 Stat. 276][/us/stat/93/276].)
+(Added [Pub. L. 85–859, title II, § 201][/us/pl/85/859/s201], Sept. 2, 1958, [72 Stat. 1349][/us/stat/72/1349]; amended [Pub. L. 91–659, § 4][/us/pl/91/659/s4], Jan. 8, 1971, [84 Stat. 1966][/us/stat/84/1966]; [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 96–39, title VIII, § 805(c)][/us/pl/96/39/s805/c], July 26, 1979, [93 Stat. 276][/us/stat/93/276]; [Pub. L. 114–113, div. Q, title III, § 332(b)(2)(A)][/us/pl/114/113/s332/b/2/A], Dec. 18, 2015, [129 Stat. 3105][/us/stat/129/3105].)
+
+ __Amendment of Subsection (a)__ 
+
+    [Pub. L. 114–113, title III, § 332(b)(2)(A)][/us/pl/114/113/s332/b/2/A], (c), Dec. 18, 2015, [129 Stat. 3105][/us/stat/129/3105], 3106, provided that, applicable to any calendar quarters beginning more than 1 year after Dec. 18, 2015, subsection (a) is amended:
+
+    (1) in paragraph (1), by striking out “No person” and inserting “Except as provided under section 5551(d), no person”; and
+
+    (2) in paragraph (2), by striking out “No distilled spirits” and inserting “Except as provided under section 5551(d), no distilled spirits”.
+
+    See 2015 Amendment notes below.
 
  __Prior Provisions__ 
 
@@ -271,6 +281,10 @@ Provisions similar to those comprising subsecs. (a), (b), (b)(1), (b)(1)(A) to (
 
  __Amendments__ 
 
+    2015—Subsec. (a)(1). [Pub. L. 114–113, § 332(b)(2)(A)(i)][/us/pl/114/113/s332/b/2/A/i], substituted “Except as provided under section 5551(d), no person” for “No person”.
+
+    Subsec. (a)(2). [Pub. L. 114–113, § 332(b)(2)(A)(ii)][/us/pl/114/113/s332/b/2/A/ii], substituted “Except as provided under section 5551(d), no distilled spirits” for “No distilled spirits”.
+
     1979—[Pub. L. 96–39][/us/pl/96/39], among other changes, struck out provisions relating to liens on distillery property and the furnishing of indemnity bonds as methods of securing tax payments and inserted provisions relating to the one plant operations bond, which will cover the operations at a bonded wine cellar which is adjacent to the distilled spirits plant and operated by the same person.
 
     1976—[Pub. L. 94–455][/us/pl/94/455] struck out “or his delegate” after “Secretary” wherever appearing.
@@ -280,6 +294,10 @@ Provisions similar to those comprising subsecs. (a), (b), (b)(1), (b)(1)(A) to (
     Subsec. (b)(2). [Pub. L. 91–659, § 4(c)][/us/pl/91/659/s4/c], inserted reference to par. (4).
 
     Subsec. (b)(4). [Pub. L. 91–659, § 4(a)][/us/pl/91/659/s4/a], added par. (4).
+
+ __Effective Date of 2015 Amendment__ 
+
+    Amendment by [Pub. L. 114–113][/us/pl/114/113] applicable to any calendar quarters beginning more than 1 year after Dec. 18, 2015, see [section 332(c) of Pub. L. 114–113][/us/pl/114/113/s332/c], set out as a note under [section 5061 of this title][/us/usc/t26/s5061].
 
  __Effective Date of 1979 Amendment__ 
 
@@ -310,17 +328,26 @@ Provisions similar to those comprising subsecs. (a), (b), (b)(1), (b)(1)(A) to (
 [/us/stat/90/1834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1834
 [/us/pl/96/39/s805/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs805%2Fc
 [/us/stat/93/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F276
+[/us/pl/114/113/s332/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs332%2Fb%2F2%2FA
+[/us/stat/129/3105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3105
+[/us/pl/114/113/s332/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs332%2Fb%2F2%2FA
+[/us/stat/129/3105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3105
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F628
 [/us/pl/85/859]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859
 [/us/pl/85/859]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/627]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F627
+[/us/pl/114/113/s332/b/2/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs332%2Fb%2F2%2FA%2Fi
+[/us/pl/114/113/s332/b/2/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs332%2Fb%2F2%2FA%2Fii
 [/us/pl/96/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/pl/91/659/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F659%2Fs4%2Fb
 [/us/pl/91/659/s4/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F659%2Fs4%2Fc
 [/us/pl/91/659/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F659%2Fs4%2Fa
+[/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
+[/us/pl/114/113/s332/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs332%2Fc
+[/us/usc/t26/s5061]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs5061
 [/us/pl/96/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39
 [/us/pl/96/39/s810]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs810
 [/us/usc/t26/s5001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs5001

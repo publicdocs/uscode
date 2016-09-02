@@ -109,7 +109,71 @@
 
             For purposes of this subsection, the term “seller-provided financing” means any indebtedness incurred in acquiring any residence if the person to whom such indebtedness is owed is the person from whom such residence was acquired.
 
-(Added [Pub. L. 87–397, § 1(a)][/us/pl/87/397/s1/a], Oct. 5, 1961, [75 Stat. 828][/us/stat/75/828]; amended [Pub. L. 94–455, title XII][/us/pl/94/455], §§ 1203(d), 1211(c), title XIX, § 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1691][/us/stat/90/1691], 1712, 1834; [Pub. L. 99–514, title XV, § 1524(a)][/us/pl/99/514/s1524/a], Oct. 22, 1986, [100 Stat. 2749][/us/stat/100/2749]; [Pub. L. 100–485, title VII][/us/pl/100/485], §§ 703(c)(3), 704(a), Oct. 13, 1988, [102 Stat. 2427][/us/stat/102/2427]; [Pub. L. 101–508, title XI, § 11112(a)][/us/pl/101/508/s11112/a], Nov. 5, 1990, [104 Stat. 1388–413][/us/stat/104/1388-413]; [Pub. L. 101–624, title XVII, § 1735(c)][/us/pl/101/624/s1735/c], title XXII, § 2201(d), Nov. 28, 1990, [104 Stat. 3792][/us/stat/104/3792], 3953; [Pub. L. 102–486, title XIX, § 1933(a)][/us/pl/102/486/s1933/a], Oct. 24, 1992, [106 Stat. 3031][/us/stat/106/3031]; [Pub. L. 103–296, title III, § 316(b)][/us/pl/103/296/s316/b], Aug. 15, 1994, [108 Stat. 1532][/us/stat/108/1532]; [Pub. L. 103–465, title VII, § 742(b)][/us/pl/103/465/s742/b], Dec. 8, 1994, [108 Stat. 5010][/us/stat/108/5010]; [Pub. L. 104–188, title I][/us/pl/104/188], §§ 1615(a)(2)(A), 1704(t)(42), Aug. 20, 1996, [110 Stat. 1853][/us/stat/110/1853], 1889; [Pub. L. 105–206, title III, § 3710(a)][/us/pl/105/206/s3710/a], July 22, 1998, [112 Stat. 779][/us/stat/112/779]; [Pub. L. 110–28, title VIII, § 8246(a)(2)(D)][/us/pl/110/28/s8246/a/2/D], May 25, 2007, [121 Stat. 201][/us/stat/121/201]; [Pub. L. 110–234, title IV, § 4002(b)(1)(B)][/us/pl/110/234/s4002/b/1/B], (G), (2)(O), May 22, 2008, [122 Stat. 1096][/us/stat/122/1096], 1097; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title IV, § 4002(b)(1)(B), (G), (2)(O), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1857, 1858.)
+    (i) __Special rules relating to the issuance of ITINs__ 
+
+        (1) __In general__ 
+
+        The Secretary is authorized to issue an individual taxpayer identification number to an individual only if the applicant submits an application, using such form as the Secretary may require and including the required documentation—
+
+            (A)
+
+             in the case of an applicant not described in subparagraph (B)—
+
+                (i) in person to an employee of the Internal Revenue Service or a community-based certified acceptance agent approved by the Secretary, or
+
+                (ii) by mail, pursuant to rules prescribed by the Secretary, or
+
+            (B) in the case of an applicant who resides outside of the United States, by mail or in person to an employee of the Internal Revenue Service or a designee of the Secretary at a United States diplomatic mission or consular post.
+
+        (2) __Required documentation__ 
+
+        For purposes of this subsection—
+
+            (A) __In general__ 
+
+                The term “required documentation” includes such documentation as the Secretary may require that proves the individual’s identity, foreign status, and residency.
+
+            (B) __Validity of documents__ 
+
+                The Secretary may accept only original documents or certified copies meeting the requirements of the Secretary.
+
+        (3) __Term of ITIN__ 
+
+            (A) __In general__ 
+
+                An individual taxpayer identification number issued after December 31, 2012, shall remain in effect unless the individual to whom such number is issued does not file a return of tax (or is not included as a dependent on the return of tax of another taxpayer) for 3 consecutive taxable years. In the case of an individual described in the preceding sentence, such number shall expire on the last day of such third consecutive taxable year.
+
+            (B) __Special rule for existing ITINs__ 
+
+            In the case of an individual with respect to whom an individual taxpayer identification number was issued before January 1, 2013, such number shall remain in effect until the earlier of—
+
+                (i) the applicable date, or
+
+                (ii)
+
+                 if the individual does not file a return of tax (or is not included as a dependent on the return of tax of another taxpayer) for 3 consecutive taxable years, the earlier of—
+
+                    (I) the last day of such third consecutive taxable year, or
+
+                    (II) the last day of the taxable year that includes the date of the enactment of this subsection.
+
+            (C) __Applicable date__ 
+
+            For purposes of subparagraph (B), the term “applicable date” means—
+
+                (i) January 1, 2017, in the case of an individual taxpayer identification number issued before January 1, 2008,
+
+                (ii) January 1, 2018, in the case of an individual taxpayer identification number issued in 2008,
+
+                (iii) January 1, 2019, in the case of an individual taxpayer identification number issued in 2009 or 2010, and
+
+                (iv) January 1, 2020, in the case of an individual taxpayer identification number issued in 2011 or 2012.
+
+        (4) __Distinguishing ITINs issued solely for purposes of treaty benefits__ 
+
+            The Secretary shall implement a system that ensures that individual taxpayer identification numbers issued solely for purposes of claiming tax treaty benefits are used only for such purposes, by distinguishing such numbers from other individual taxpayer identification numbers issued.
+
+(Added [Pub. L. 87–397, § 1(a)][/us/pl/87/397/s1/a], Oct. 5, 1961, [75 Stat. 828][/us/stat/75/828]; amended [Pub. L. 94–455, title XII][/us/pl/94/455], §§ 1203(d), 1211(c), title XIX, § 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1691][/us/stat/90/1691], 1712, 1834; [Pub. L. 99–514, title XV, § 1524(a)][/us/pl/99/514/s1524/a], Oct. 22, 1986, [100 Stat. 2749][/us/stat/100/2749]; [Pub. L. 100–485, title VII][/us/pl/100/485], §§ 703(c)(3), 704(a), Oct. 13, 1988, [102 Stat. 2427][/us/stat/102/2427]; [Pub. L. 101–508, title XI, § 11112(a)][/us/pl/101/508/s11112/a], Nov. 5, 1990, [104 Stat. 1388–413][/us/stat/104/1388-413]; [Pub. L. 101–624, title XVII, § 1735(c)][/us/pl/101/624/s1735/c], title XXII, § 2201(d), Nov. 28, 1990, [104 Stat. 3792][/us/stat/104/3792], 3953; [Pub. L. 102–486, title XIX, § 1933(a)][/us/pl/102/486/s1933/a], Oct. 24, 1992, [106 Stat. 3031][/us/stat/106/3031]; [Pub. L. 103–296, title III, § 316(b)][/us/pl/103/296/s316/b], Aug. 15, 1994, [108 Stat. 1532][/us/stat/108/1532]; [Pub. L. 103–465, title VII, § 742(b)][/us/pl/103/465/s742/b], Dec. 8, 1994, [108 Stat. 5010][/us/stat/108/5010]; [Pub. L. 104–188, title I][/us/pl/104/188], §§ 1615(a)(2)(A), 1704(t)(42), Aug. 20, 1996, [110 Stat. 1853][/us/stat/110/1853], 1889; [Pub. L. 105–206, title III, § 3710(a)][/us/pl/105/206/s3710/a], July 22, 1998, [112 Stat. 779][/us/stat/112/779]; [Pub. L. 110–28, title VIII, § 8246(a)(2)(D)][/us/pl/110/28/s8246/a/2/D], May 25, 2007, [121 Stat. 201][/us/stat/121/201]; [Pub. L. 110–234, title IV, § 4002(b)(1)(B)][/us/pl/110/234/s4002/b/1/B], (G), (2)(O), May 22, 2008, [122 Stat. 1096][/us/stat/122/1096], 1097; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title IV, § 4002(b)(1)(B), (G), (2)(O), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1857, 1858; [Pub. L. 114–113, div. Q, title II, § 203(a)][/us/pl/114/113/s203/a], Dec. 18, 2015, [129 Stat. 3078][/us/stat/129/3078].)
 
  __References in Text__ 
 
@@ -118,6 +182,8 @@
     The Food and Nutrition Act of 2008, referred to in subsec. (f), is [Pub. L. 88–525][/us/pl/88/525], Aug. 31, 1964, [78 Stat. 703][/us/stat/78/703], which is classified generally to chapter 51 (§ 2011 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under [section 2011 of Title 7][/us/usc/t7/s2011] and Tables.
 
     The Federal Crop Insurance Act, referred to in subsec. (g), is subtitle A of title V of [act Feb. 16, 1938, ch. 30][/us/act/1938-02-16/ch30], [52 Stat. 72][/us/stat/52/72], which is classified generally to subchapter I (§ 1501 et seq.) of chapter 36 of Title 7, Agriculture. Section 506 of the Act is classified to [section 1506 of Title 7][/us/usc/t7/s1506]. For complete classification of this Act to the Code, see [section 1501 of Title 7][/us/usc/t7/s1501] and Tables.
+
+    The date of the enactment of this subsection, referred to in subsec. (i)(3)(B)(ii)(II), is the date of enactment of [Pub. L. 114–113][/us/pl/114/113], which was approved Dec. 18, 2015.
 
  __Codification__ 
 
@@ -128,6 +194,8 @@
     A prior section 6109 was renumbered [section 6116 of this title][/us/usc/t26/s6116].
 
  __Amendments__ 
+
+    2015—Subsec. (i). [Pub. L. 114–113][/us/pl/114/113] added subsec. (i).
 
     2008—Subsec. (f). [Pub. L. 110–246, § 4002(b)(1)(G)][/us/pl/110/246/s4002/b/1/G], (2)(O), substituted “Food and Nutrition Act of 2008” for “Food Stamp Act” in heading.
 
@@ -176,6 +244,12 @@
     1976—Subsec. (a). [Pub. L. 94–455][/us/pl/94/455], §§ 1203(d), 1906(b)(13)(A), struck out in provisions preceding par. (1) “or his delegate” after “Secretary” and added par. (4).
 
     Subsec. (d). [Pub. L. 94–455, § 1211(c)][/us/pl/94/455/s1211/c], added subsec. (d).
+
+ __Effective Date of 2015 Amendment__ 
+
+[Pub. L. 114–113, div. Q, title II, § 203(f)][/us/pl/114/113/s203/f], Dec. 18, 2015, [129 Stat. 3081][/us/stat/129/3081], provided that: 
+
+> “The amendments made by this section \[amending this section and section 6213 of this section\] shall apply to applications for individual taxpayer identification numbers made after the date of the enactment of this Act \[Dec. 18, 2015\].”
 
  __Effective Date of 2008 Amendment__ 
 
@@ -235,6 +309,66 @@
 
 > “Paragraph (1) of section 6109(a) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], as added by subsection (a) of this section, shall apply only in respect of returns, statements, and other documents relating to periods commencing after December 31, 1961. Paragraphs (2) and (3) of such section 6109(a) shall apply only in respect of returns, statements, or other documents relating to periods commencing after December 31, 1962.”
 
+ __Audit by TIGTA__ 
+
+[Pub. L. 114–113, div. Q, title II, § 203(b)][/us/pl/114/113/s203/b], Dec. 18, 2015, [129 Stat. 3079][/us/stat/129/3079], provided that: 
+
+> “Not later than 2 years after the date of the enactment of this Act \[Dec. 18, 2015\], and every 2 years thereafter, the Treasury Inspector General for Tax Administration shall conduct an audit of the program of the Internal Revenue Service for the issuance of individual taxpayer identification numbers pursuant to section 6109(i) of the Internal Revenue Code of 1986 (as added by this section) and report the results of such audit to the Committee on Finance of the Senate and the Committee on the \[sic\] Ways and Means of the House of Representatives.”
+
+ __Community-based Certified Acceptance Agents__ 
+
+[Pub. L. 114–113, div. Q, title II, § 203(c)][/us/pl/114/113/s203/c], Dec. 18, 2015, [129 Stat. 3079][/us/stat/129/3079], provided that: 
+
+> “The Secretary of the Treasury, or the Secretary’s delegate, shall maintain a program for training and approving community-based certified acceptance agents for purposes of section 6109(i)(1)(A)(i) of the Internal Revenue Code of 1986 (as added by this section). Persons eligible to be acceptance agents under such program include—
+
+>     “(1) financial institutions (as defined in section 265(b)(5) of such Code and the regulations thereunder),
+
+>     “(2) colleges and universities which are described in section 501(c)(3) of such Code and exempt from taxation under section 501(a) of such Code,
+
+>     “(3) Federal agencies (as defined in section 6402(h) of such Code),
+
+>     “(4) State and local governments, including agencies responsible for vital records,
+
+>     “(5) community-based organizations which are described in subsection (c)(3) or (d) of section 501 of such Code and exempt from taxation under section 501(a) of such Code,
+
+>     “(6) persons that provide assistance to taxpayers in the preparation of their tax returns, and
+
+>     “(7) other persons or categories of persons as authorized by regulations or other guidance of the Secretary of the Treasury.”
+
+ __ITIN Study__ 
+
+[Pub. L. 114–113, div. Q, title II, § 203(d)][/us/pl/114/113/s203/d], Dec. 18, 2015, [129 Stat. 3079][/us/stat/129/3079], provided that:
+
+>     “(1)  __In general__  __.—__ 
+
+>     The Secretary of the Treasury, or the Secretary’s delegate, shall conduct a study on the effectiveness of the application process for individual taxpayer identification numbers before the implementation of the amendments made by this section \[amending this section and [section 6213 of this title][/us/usc/t26/s6213]\], the effects of the amendments made by this section on such application process, the comparative effectiveness of an in-person review process for application versus other methods of reducing fraud in the ITIN program and improper payments to ITIN holders as a result, and possible administrative and legislative recommendations to improve such process.
+
+>     “(2)  __Specific requirements__  __.—__ 
+
+>     Such study shall include an evaluation of the following:
+
+>         “(A) Possible administrative and legislative recommendations to reduce fraud and improper payments through the use of individual taxpayer identification numbers (hereinafter referred to as ‘ITINs’).
+
+>         “(B) If data supports an in-person initial review of ITIN applications to reduce fraud and improper payments, the administrative and legislative steps needed to implement such an in-person initial review of ITIN applications, in conjunction with an expansion of the community-based certified acceptance agent program under subsection (c) \[set out as a note above\], with a goal of transitioning to such a program by 2020.
+
+>         “(C) Strategies for more efficient processing of ITIN applications.
+
+>         “(D) The acceptance agent program as in existence on the date of the enactment of this Act \[Dec. 18, 2015\] and ways to expand the geographic availability of agents through the community-based certified acceptance agent program under subsection (c).
+
+>         “(E) Strategies for the Internal Revenue Service to work with other Federal agencies, State and local governments, and other organizations and persons described in subsection (c) to encourage participation in the community-based certified acceptance agent program under subsection (c) to facilitate in-person initial review of ITIN applications.
+
+>         “(F) Typical characteristics (derived from Form W–7 and other sources) of mail applications for ITINs as compared with typical characteristics of in-person applications.
+
+>         “(G) Typical characteristics (derived from 17 \[sic\] Form W–7 and other sources) of ITIN applications before the Internal Revenue Service revised its application procedures in 2012 as compared with typical characteristics of ITIN applications made after such revisions went into effect.
+
+>     “(3)  __Report__  __.—__ 
+
+>     The Secretary, or the Secretary’s delegate, shall submit to the Committee on Finance of the Senate and the Committee on Ways and Means of the House of Representatives a report detailing the study under paragraph (1) and its findings not later than 1 year after the date of the enactment of this Act \[Dec. 18, 2015\].
+
+>     “(4)  __Administrative steps__  __.—__ 
+
+>     The Secretary of the Treasury shall implement any administrative steps identified by the report under paragraph (3) not later than 180 days after submitting such report.”
+
 ----------
 
 [Previous](./../../../../../..//us/usc/t26/stF/ch61/schB/m__us_usc_t26_s6108.md) | [Next](./../../../../../..//us/usc/t26/stF/ch61/schB/m__us_usc_t26_s6110.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6109)
@@ -274,6 +408,8 @@
 [/us/stat/122/1096]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1096
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
+[/us/pl/114/113/s203/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs203%2Fa
+[/us/stat/129/3078]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3078
 [/us/usc/t42/s405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs405
 [/us/pl/88/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F525
 [/us/stat/78/703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F703
@@ -282,11 +418,13 @@
 [/us/stat/52/72]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F72
 [/us/usc/t7/s1506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1506
 [/us/usc/t7/s1501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1501
+[/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
 [/us/usc/t26/s6116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6116
+[/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
 [/us/pl/110/246/s4002/b/1/G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4002%2Fb%2F1%2FG
 [/us/pl/110/246/s4002/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4002%2Fb%2F1%2FB
 [/us/pl/110/28/s8246/a/2/D/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F28%2Fs8246%2Fa%2F2%2FD%2Fii
@@ -307,6 +445,8 @@
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/pl/94/455/s1211/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1211%2Fc
+[/us/pl/114/113/s203/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs203%2Ff
+[/us/stat/129/3081]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3081
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
@@ -346,5 +486,12 @@
 [/us/stat/75/829]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F829
 [/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
+[/us/pl/114/113/s203/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs203%2Fb
+[/us/stat/129/3079]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3079
+[/us/pl/114/113/s203/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs203%2Fc
+[/us/stat/129/3079]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3079
+[/us/pl/114/113/s203/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs203%2Fd
+[/us/stat/129/3079]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3079
+[/us/usc/t26/s6213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6213
 
 

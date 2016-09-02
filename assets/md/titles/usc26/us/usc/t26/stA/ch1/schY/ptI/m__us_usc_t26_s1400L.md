@@ -127,7 +127,7 @@
 
                 (ii) __Alternative depreciation property__ 
 
-                    The term “qualified New York Liberty Zone property” shall not include any property described in section 168(k)(2)(D)(i).
+                    The term “qualified New York Liberty Zone property” shall not include any property described in section 168(k)(2)(D)(i). <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup> 
 
                 (iii) __Qualified New York Liberty Zone leasehold improvement property__ 
 
@@ -135,7 +135,7 @@
 
                 (iv) __Election out__ 
 
-                    For purposes of this subsection, rules similar to the rules of section 168(k)(2)(D)(iii) shall apply.
+                    For purposes of this subsection, rules similar to the rules of section 168(k)(2)(D)(iii) 1 shall apply.
 
             (D) __Special rules__ 
 
@@ -153,7 +153,7 @@
 
         (2) __Qualified New York Liberty Zone leasehold improvement property__ 
 
-        For purposes of this section, the term “qualified New York Liberty Zone leasehold improvement property” means qualified leasehold improvement property (as defined in section 168(k)(3)) if—
+        For purposes of this section, the term “qualified New York Liberty Zone leasehold improvement property” means qualified leasehold improvement property (as defined in section 168(k)(3) 1) if—
 
             (A) such building is located in the New York Liberty Zone,
 
@@ -171,7 +171,7 @@
 
         (5) __Election out__ 
 
-            For purposes of this subsection, rules similar to the rules of section 168(k)(2)(D)(iii) shall apply.
+            For purposes of this subsection, rules similar to the rules of section 168(k)(2)(D)(iii) 1 shall apply.
 
     (d) __Tax-exempt bond financing__ 
 
@@ -329,6 +329,10 @@
 
  __References in Text__ 
 
+    Section 168(k)(2)(D), referred to in subsecs. (b)(2)(C)(ii), (iv), and (c)(5), was amended generally by [Pub. L. 114–113, div. Q, § 143(b)(1)][/us/pl/114/113/s143/b/1], Dec. 18, 2015, [129 Stat. 3057][/us/stat/129/3057], and as so amended, no longer contains provisions similar to former cl. (iii) of section 158(k)(2)(D). Provisions similar to those contained in former cl. (i) of section 168(k)(2)(D) are now contained in section 168(k)(2)(D).
+
+    Section 168(k)(3), referred to in subsec. (c)(2), was amended generally by [Pub. L. 114–113, div. Q, § 143(b)(2)][/us/pl/114/113/s143/b/2], Dec. 18, 2015, [129 Stat. 3057][/us/stat/129/3057]. Provisions similar to those contained in former par. (3) of section 168(k) are now contained in par. (6) of section 168(k).
+
     The date of the enactment of this section, referred to in subsecs. (d)(2)(D) and (e)(1), is the date of enactment of [Pub. L. 107–147][/us/pl/107/147], which was approved Mar. 9, 2002.
 
  __Amendments__ 
@@ -444,6 +448,10 @@
 [/us/stat/126/2334]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2334
 [/us/pl/113/295/s125/d/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs125%2Fd%2F4
 [/us/stat/128/4017]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4017
+[/us/pl/114/113/s143/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs143%2Fb%2F1
+[/us/stat/129/3057]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3057
+[/us/pl/114/113/s143/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs143%2Fb%2F2
+[/us/stat/129/3057]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3057
 [/us/pl/107/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F147
 [/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
 [/us/pl/112/240/s331/e/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs331%2Fe%2F4

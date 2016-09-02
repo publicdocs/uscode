@@ -53,6 +53,10 @@
 
 (Added [Pub. L. 110–142, § 9(a)][/us/pl/110/142/s9/a], Dec. 20, 2007, [121 Stat. 1807][/us/stat/121/1807]; amended [Pub. L. 110–458, title I, § 128(a)][/us/pl/110/458/s128/a], Dec. 23, 2008, [122 Stat. 5116][/us/stat/122/5116]; [Pub. L. 111–92, § 16(a)][/us/pl/111/92/s16/a], Nov. 6, 2009, [123 Stat. 2996][/us/stat/123/2996]; [Pub. L. 113–295, div. B, title II, § 208(e)][/us/pl/113/295/s208/e], Dec. 19, 2014, [128 Stat. 4073][/us/stat/128/4073].)
 
+ __Inflation Adjusted Items for Certain Years__ 
+
+    For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table under [section 1 of this title][/us/usc/t26/s1].
+
  __Codification__ 
 
     [Section 9(a) of Pub. L. 110–142][/us/pl/110/142/s9/a], which directed amendment of this part by adding this section at the end, was executed by inserting this section after section 6698, to reflect the probable intent of Congress.
@@ -104,6 +108,7 @@
 [/us/stat/123/2996]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2996
 [/us/pl/113/295/s208/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs208%2Fe
 [/us/stat/128/4073]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4073
+[/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
 [/us/pl/110/142/s9/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F142%2Fs9%2Fa
 [/us/pl/95/600/s141/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2Fs141%2Fc%2F1
 [/us/stat/92/2794]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2794

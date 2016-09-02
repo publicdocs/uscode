@@ -49,7 +49,7 @@
 
              the—
 
-                (i) aggregate amount of payments received or the aggregate amount billed for qualified tuition and related expenses with respect to the individual described in subparagraph (A) during the calendar year,
+                (i) aggregate amount of payments received for qualified tuition and related expenses with respect to the individual described in subparagraph (A) during the calendar year,
 
                 (ii) aggregate amount of grants received by such individual for payment of costs of attendance that are administered and processed by the institution during such calendar year,
 
@@ -57,9 +57,11 @@
 
                 (iv) aggregate amount of reimbursements or refunds (or similar amounts) paid to such individual during the calendar year by a person engaged in a trade or business described in subsection (a)(2), and
 
-                (v) aggregate amount of interest received for the calendar year from such individual, and
+                (v) aggregate amount of interest received for the calendar year from such individual,
 
-            (C) such other information as the Secretary may prescribe.
+            (C) the employer identification number of the institution, and
+
+            (D) such other information as the Secretary may prescribe.
 
     (c) __Application to governmental units__ 
 
@@ -91,11 +93,15 @@
 
         The Secretary shall prescribe such regulations as may be necessary to carry out the provisions of this section. No penalties shall be imposed under part II of subchapter B of chapter 68 with respect to any return or statement required under this section until such time as such regulations are issued.
 
-(Added and amended [Pub. L. 105–34, title II][/us/pl/105/34], §§ 201(c)(1), 202(c), Aug. 5, 1997, [111 Stat. 804][/us/stat/111/804], 808; [Pub. L. 105–206, title III, § 3712(a)][/us/pl/105/206/s3712/a], (b), title VI, § 6004(a)(2), July 22, 1998, [112 Stat. 781][/us/stat/112/781], 792; [Pub. L. 107–16, title IV, § 412(a)(2)][/us/pl/107/16/s412/a/2], June 7, 2001, [115 Stat. 63][/us/stat/115/63]; [Pub. L. 107–131, § 1][/us/pl/107/131/s1], Jan. 16, 2002, [115 Stat. 2410][/us/stat/115/2410]; [Pub. L. 114–27, title VIII, § 804(c)][/us/pl/114/27/s804/c], June 29, 2015, [129 Stat. 416][/us/stat/129/416].)
+(Added and amended [Pub. L. 105–34, title II][/us/pl/105/34], §§ 201(c)(1), 202(c), Aug. 5, 1997, [111 Stat. 804][/us/stat/111/804], 808; [Pub. L. 105–206, title III, § 3712(a)][/us/pl/105/206/s3712/a], (b), title VI, § 6004(a)(2), July 22, 1998, [112 Stat. 781][/us/stat/112/781], 792; [Pub. L. 107–16, title IV, § 412(a)(2)][/us/pl/107/16/s412/a/2], June 7, 2001, [115 Stat. 63][/us/stat/115/63]; [Pub. L. 107–131, § 1][/us/pl/107/131/s1], Jan. 16, 2002, [115 Stat. 2410][/us/stat/115/2410]; [Pub. L. 114–27, title VIII, § 804(c)][/us/pl/114/27/s804/c], June 29, 2015, [129 Stat. 416][/us/stat/129/416]; [Pub. L. 114–113, div. Q, title II][/us/pl/114/113], §§ 211(b), 212(a), Dec. 18, 2015, [129 Stat. 3085][/us/stat/129/3085], 3086.)
 
  __Amendments__ 
 
-    2015—Subsec. (d)(2). [Pub. L. 114–27][/us/pl/114/27] amended par. (2) generally. Prior to amendment, par. (2) read as follows: “the amounts described in subparagraph (B) of subsection (b)(2).”
+    2015—Subsec. (b)(2)(B)(i). [Pub. L. 114–113, § 212(a)][/us/pl/114/113/s212/a], struck out “or the aggregate amount billed” after “received”.
+
+    Subsec. (b)(2)(C), (D). [Pub. L. 114–113, § 211(b)][/us/pl/114/113/s211/b], added subpar. (C) and redesignated former subpar. (C) as (D).
+
+    Subsec. (d)(2). [Pub. L. 114–27][/us/pl/114/27] amended par. (2) generally. Prior to amendment, par. (2) read as follows: “the amounts described in subparagraph (B) of subsection (b)(2).”
 
     2002—Subsec. (a)(1). [Pub. L. 107–131, § 1(a)][/us/pl/107/131/s1/a], amended par. (1) generally. Prior to amendment, par. (1) read as follows: “which is an eligible educational institution—
 
@@ -159,6 +165,14 @@
 
  __Effective Date of 2015 Amendment__ 
 
+[Pub. L. 114–113, div. Q, title II, § 211(c)(2)][/us/pl/114/113/s211/c/2], Dec. 18, 2015, [129 Stat. 3085][/us/stat/129/3085], provided that: 
+
+> “The amendments made by subsection (b) \[amending this section\] shall apply to expenses paid after December 31, 2015, for education furnished in academic periods beginning after such date.”
+
+[Pub. L. 114–113, div. Q, title II, § 212(b)][/us/pl/114/113/s212/b], Dec. 18, 2015, [129 Stat. 3086][/us/stat/129/3086], provided that: 
+
+> “The amendments made by subsection (b) \[probably should be “subsection (a)”, amending this section\] shall apply to expenses paid after December 31, 2015, for education furnished in academic periods beginning after such date.”
+
     Amendment by [Pub. L. 114–27][/us/pl/114/27] applicable to taxable years beginning after June 29, 2015, see [section 804(d) of Pub. L. 114–27][/us/pl/114/27/s804/d], set out as a note under [section 25A of this title][/us/usc/t26/s25A].
 
  __Effective Date of 2002 Amendment__ 
@@ -204,6 +218,10 @@
 [/us/stat/115/2410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F2410
 [/us/pl/114/27/s804/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27%2Fs804%2Fc
 [/us/stat/129/416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F416
+[/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
+[/us/stat/129/3085]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3085
+[/us/pl/114/113/s212/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs212%2Fa
+[/us/pl/114/113/s211/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs211%2Fb
 [/us/pl/114/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27
 [/us/pl/107/131/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F131%2Fs1%2Fa
 [/us/pl/107/131/s1/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F131%2Fs1%2Fb%2F1
@@ -224,6 +242,10 @@
 [/us/pl/105/34/s202/c/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs202%2Fc%2F2%2FA
 [/us/pl/105/34/s202/c/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs202%2Fc%2F2%2FB
 [/us/pl/105/34/s202/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs202%2Fc%2F3
+[/us/pl/114/113/s211/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs211%2Fc%2F2
+[/us/stat/129/3085]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3085
+[/us/pl/114/113/s212/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs212%2Fb
+[/us/stat/129/3086]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3086
 [/us/pl/114/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27
 [/us/pl/114/27/s804/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27%2Fs804%2Fd
 [/us/usc/t26/s25A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs25A

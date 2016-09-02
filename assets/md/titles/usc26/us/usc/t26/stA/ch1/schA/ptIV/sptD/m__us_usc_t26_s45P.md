@@ -17,7 +17,7 @@
 
     (a) __General rule__ 
 
-        For purposes of section 38, in the case of an eligible small business employer, the differential wage payment credit for any taxable year is an amount equal to 20 percent of the sum of the eligible differential wage payments for each of the qualified employees of the taxpayer during such taxable year.
+        For purposes of section 38, the differential wage payment credit for any taxable year is an amount equal to 20 percent of the sum of the eligible differential wage payments for each of the qualified employees of the taxpayer during such taxable year.
 
     (b) __Definitions__ 
 
@@ -31,19 +31,9 @@
 
             The term “qualified employee” means a person who has been an employee of the taxpayer for the 91-day period immediately preceding the period for which any differential wage payment is made.
 
-        (3) __Eligible small business employer__ 
+        (3) __Controlled groups__ 
 
-            (A) __In general__ 
-
-            The term “eligible small business employer” means, with respect to any taxable year, any employer which—
-
-                (i) employed an average of less than 50 employees on business days during such taxable year, and
-
-                (ii) under a written plan of the employer, provides eligible differential wage payments to every qualified employee of the employer.
-
-            (B) __Controlled groups__ 
-
-                For purposes of subparagraph (A), all persons treated as a single employer under subsection (b), (c), (m), or (o) of section 414 shall be treated as a single employer.
+            All persons treated as a single employer under subsection (b), (c), (m), or (o) of section 414 shall be treated as a single employer.
 
     (c) __Coordination with other credits__ 
 
@@ -61,11 +51,7 @@
 
         For purposes of this section, rules similar to the rules of subsections (c), (d), and (e) of section 52 shall apply.
 
-    (f) __Termination__ 
-
-        This section shall not apply to any payments made after December 31, 2014.
-
-(Added [Pub. L. 110–245, title I, § 111(a)][/us/pl/110/245/s111/a], June 17, 2008, [122 Stat. 1634][/us/stat/122/1634]; amended [Pub. L. 111–312, title VII, § 736(a)][/us/pl/111/312/s736/a], Dec. 17, 2010, [124 Stat. 3318][/us/stat/124/3318]; [Pub. L. 112–240, title III, § 308(a)][/us/pl/112/240/s308/a], Jan. 2, 2013, [126 Stat. 2329][/us/stat/126/2329]; [Pub. L. 113–295, div. A, title I, § 118(a)][/us/pl/113/295/s118/a], Dec. 19, 2014, [128 Stat. 4015][/us/stat/128/4015].)
+(Added [Pub. L. 110–245, title I, § 111(a)][/us/pl/110/245/s111/a], June 17, 2008, [122 Stat. 1634][/us/stat/122/1634]; amended [Pub. L. 111–312, title VII, § 736(a)][/us/pl/111/312/s736/a], Dec. 17, 2010, [124 Stat. 3318][/us/stat/124/3318]; [Pub. L. 112–240, title III, § 308(a)][/us/pl/112/240/s308/a], Jan. 2, 2013, [126 Stat. 2329][/us/stat/126/2329]; [Pub. L. 113–295, div. A, title I, § 118(a)][/us/pl/113/295/s118/a], Dec. 19, 2014, [128 Stat. 4015][/us/stat/128/4015]; [Pub. L. 114–113, div. Q, title I, § 122(a)][/us/pl/114/113/s122/a], (b), Dec. 18, 2015, [129 Stat. 3052][/us/stat/129/3052].)
 
  __References in Text__ 
 
@@ -73,11 +59,29 @@
 
  __Amendments__ 
 
+    2015—Subsec. (a). [Pub. L. 114–113, § 122(b)(1)][/us/pl/114/113/s122/b/1], struck out “, in the case of an eligible small business employer” after “section 38”.
+
+    Subsec. (b)(3). [Pub. L. 114–113, § 122(b)(2)][/us/pl/114/113/s122/b/2], amended par. (3) generally. Prior to amendment, par. (3) defined “eligible small business employer”.
+
+    Subsec. (f). [Pub. L. 114–113, § 122(a)][/us/pl/114/113/s122/a], struck out subsec. (f). Text read as follows: “This section shall not apply to any payments made after December 31, 2014.”
+
     2014—Subsec. (f). [Pub. L. 113–295][/us/pl/113/295] substituted “December 31, 2014” for “December 31, 2013”.
 
     2013—Subsec. (f). [Pub. L. 112–240][/us/pl/112/240] substituted “December 31, 2013” for “December 31, 2011”.
 
     2010—Subsec. (f). [Pub. L. 111–312][/us/pl/111/312] substituted “December 31, 2011” for “December 31, 2009”.
+
+ __Effective Date of 2015 Amendment__ 
+
+[Pub. L. 114–113, div. Q, title I, § 122(c)][/us/pl/114/113/s122/c], Dec. 18, 2015, [129 Stat. 3052][/us/stat/129/3052], provided that:
+
+>     “(1)  __Extension__  __.—__ 
+
+>     The amendment made by subsection (a) \[amending this section\] shall apply to payments made after December 31, 2014.
+
+>     “(2)  __Modification__  __.—__ 
+
+>     The amendments made by subsection (b) \[amending this section\] shall apply to taxable years beginning after December 31, 2015.”
 
  __Effective Date of 2014 Amendment__ 
 
@@ -117,10 +121,17 @@
 [/us/stat/126/2329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2329
 [/us/pl/113/295/s118/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs118%2Fa
 [/us/stat/128/4015]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4015
+[/us/pl/114/113/s122/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs122%2Fa
+[/us/stat/129/3052]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3052
 [/us/pl/110/245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F245
+[/us/pl/114/113/s122/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs122%2Fb%2F1
+[/us/pl/114/113/s122/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs122%2Fb%2F2
+[/us/pl/114/113/s122/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs122%2Fa
 [/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
 [/us/pl/112/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240
 [/us/pl/111/312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F312
+[/us/pl/114/113/s122/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs122%2Fc
+[/us/stat/129/3052]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3052
 [/us/pl/113/295/s118/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs118%2Fb
 [/us/stat/128/4015]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4015
 [/us/pl/112/240/s308/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs308%2Fb

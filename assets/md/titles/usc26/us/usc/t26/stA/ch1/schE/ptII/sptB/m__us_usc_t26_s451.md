@@ -163,7 +163,7 @@
 
         (3) __Qualifying electric transmission transaction__ 
 
-        For purposes of this subsection, the term “qualifying electric transmission transaction” means any sale or other disposition before January 1, 2008 (before January 1, 2015, in the case of a qualified electric utility), of—
+        For purposes of this subsection, the term “qualifying electric transmission transaction” means any sale or other disposition before January 1, 2008 (before January 1, 2017, in the case of a qualified electric utility), of—
 
             (A) property used in the trade or business of providing electric transmission services, or
 
@@ -245,7 +245,7 @@
 
             Section 453 shall not apply to any qualifying electric transmission transaction with respect to which an election to apply this subsection is made.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 152][/us/stat/68A/152]; [Pub. L. 89–97, title III, § 313(b)][/us/pl/89/97/s313/b], July 30, 1965, [79 Stat. 382][/us/stat/79/382]; [Pub. L. 91–172, title II, § 215(a)][/us/pl/91/172/s215/a], Dec. 30, 1969, [83 Stat. 573][/us/stat/83/573]; [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], title XXI, §§ 2102(a), (b), 2141(a), Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834], 1900, 1933; [Pub. L. 99–514, title VIII, § 821(a)][/us/pl/99/514/s821/a], title IX, § 905(b), Oct. 22, 1986, [100 Stat. 2372][/us/stat/100/2372], 2386; [Pub. L. 100–647, title I, § 1009(d)(3)][/us/pl/100/647/s1009/d/3], title VI, §§ 6030(a), 6033(a), Nov. 10, 1988, [102 Stat. 3450][/us/stat/102/3450], 3694, 3695; [Pub. L. 105–34, title IX, § 913(a)][/us/pl/105/34/s913/a], Aug. 5, 1997, [111 Stat. 878][/us/stat/111/878]; [Pub. L. 105–277, div. J, title V, § 5301(a)][/us/pl/105/277/s5301/a], Oct. 21, 1998, [112 Stat. 2681–918][/us/stat/112/2681-918]; [Pub. L. 108–357, title III, § 311(c)][/us/pl/108/357/s311/c], title VIII, § 909(a), Oct. 22, 2004, [118 Stat. 1467][/us/stat/118/1467], 1657; [Pub. L. 109–58, title XIII, § 1305(a)][/us/pl/109/58/s1305/a], (b), Aug. 8, 2005, [119 Stat. 997][/us/stat/119/997]; [Pub. L. 110–343, div. B, title I, § 109(a)][/us/pl/110/343/s109/a]–(c), Oct. 3, 2008, [122 Stat. 3821][/us/stat/122/3821]; [Pub. L. 111–312, title VII, § 705(a)][/us/pl/111/312/s705/a], Dec. 17, 2010, [124 Stat. 3311][/us/stat/124/3311]; [Pub. L. 112–240, title IV, § 411(a)][/us/pl/112/240/s411/a], Jan. 2, 2013, [126 Stat. 2343][/us/stat/126/2343]; [Pub. L. 113–295, div. A, title I, § 159(a)][/us/pl/113/295/s159/a], Dec. 19, 2014, [128 Stat. 4022][/us/stat/128/4022].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 152][/us/stat/68A/152]; [Pub. L. 89–97, title III, § 313(b)][/us/pl/89/97/s313/b], July 30, 1965, [79 Stat. 382][/us/stat/79/382]; [Pub. L. 91–172, title II, § 215(a)][/us/pl/91/172/s215/a], Dec. 30, 1969, [83 Stat. 573][/us/stat/83/573]; [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], title XXI, §§ 2102(a), (b), 2141(a), Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834], 1900, 1933; [Pub. L. 99–514, title VIII, § 821(a)][/us/pl/99/514/s821/a], title IX, § 905(b), Oct. 22, 1986, [100 Stat. 2372][/us/stat/100/2372], 2386; [Pub. L. 100–647, title I, § 1009(d)(3)][/us/pl/100/647/s1009/d/3], title VI, §§ 6030(a), 6033(a), Nov. 10, 1988, [102 Stat. 3450][/us/stat/102/3450], 3694, 3695; [Pub. L. 105–34, title IX, § 913(a)][/us/pl/105/34/s913/a], Aug. 5, 1997, [111 Stat. 878][/us/stat/111/878]; [Pub. L. 105–277, div. J, title V, § 5301(a)][/us/pl/105/277/s5301/a], Oct. 21, 1998, [112 Stat. 2681–918][/us/stat/112/2681-918]; [Pub. L. 108–357, title III, § 311(c)][/us/pl/108/357/s311/c], title VIII, § 909(a), Oct. 22, 2004, [118 Stat. 1467][/us/stat/118/1467], 1657; [Pub. L. 109–58, title XIII, § 1305(a)][/us/pl/109/58/s1305/a], (b), Aug. 8, 2005, [119 Stat. 997][/us/stat/119/997]; [Pub. L. 110–343, div. B, title I, § 109(a)][/us/pl/110/343/s109/a]–(c), Oct. 3, 2008, [122 Stat. 3821][/us/stat/122/3821]; [Pub. L. 111–312, title VII, § 705(a)][/us/pl/111/312/s705/a], Dec. 17, 2010, [124 Stat. 3311][/us/stat/124/3311]; [Pub. L. 112–240, title IV, § 411(a)][/us/pl/112/240/s411/a], Jan. 2, 2013, [126 Stat. 2343][/us/stat/126/2343]; [Pub. L. 113–295, div. A, title I, § 159(a)][/us/pl/113/295/s159/a], Dec. 19, 2014, [128 Stat. 4022][/us/stat/128/4022]; [Pub. L. 114–113, div. Q, title I, § 191(a)][/us/pl/114/113/s191/a], Dec. 18, 2015, [129 Stat. 3075][/us/stat/129/3075].)
 
  __References in Text__ 
 
@@ -254,6 +254,8 @@
     The Disaster Assistance Act of 1988, referred to in subsec. (d), is [Pub. L. 100–387][/us/pl/100/387], Aug. 11, 1988, [102 Stat. 924][/us/stat/102/924]. Title II of the Disaster Assistance Act of 1988 is set out as a note under [section 1421 of Title 7][/us/usc/t7/s1421]. For complete classification of this Act to the Code, see Tables.
 
  __Amendments__ 
+
+    2015—Subsec. (i)(3). [Pub. L. 114–113][/us/pl/114/113] substituted “January 1, 2017” for “January 1, 2015” in introductory provisions.
 
     2014—Subsec. (i)(3). [Pub. L. 113–295][/us/pl/113/295] substituted “January 1, 2015” for “January 1, 2014” in introductory provisions.
 
@@ -298,6 +300,12 @@
     1969—Subsec. (d). [Pub. L. 91–172][/us/pl/91/172] added subsec. (d).
 
     1965—Subsec. (c). [Pub. L. 89–97][/us/pl/89/97] added subsec. (c).
+
+ __Effective Date of 2015 Amendment__ 
+
+[Pub. L. 114–113, div. Q, title I, § 191(b)][/us/pl/114/113/s191/b], Dec. 18, 2015, [129 Stat. 3075][/us/stat/129/3075], provided that: 
+
+> “The amendment made by this section \[amending this section\] shall apply to dispositions after December 31, 2014.”
 
  __Effective Date of 2014 Amendment__ 
 
@@ -719,12 +727,15 @@
 [/us/stat/126/2343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2343
 [/us/pl/113/295/s159/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs159%2Fa
 [/us/stat/128/4022]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4022
+[/us/pl/114/113/s191/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs191%2Fa
+[/us/stat/129/3075]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3075
 [/us/act/1949-10-31/ch792]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-31%2Fch792
 [/us/stat/63/1051]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F1051
 [/us/usc/t7/s1421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1421
 [/us/pl/100/387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F387
 [/us/stat/102/924]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F924
 [/us/usc/t7/s1421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1421
+[/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
 [/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
 [/us/pl/112/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240
 [/us/pl/111/312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F312
@@ -747,6 +758,8 @@
 [/us/pl/94/455/s2141/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs2141%2Fa
 [/us/pl/91/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172
 [/us/pl/89/97]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F97
+[/us/pl/114/113/s191/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs191%2Fb
+[/us/stat/129/3075]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3075
 [/us/pl/113/295/s159/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs159%2Fb
 [/us/stat/128/4022]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4022
 [/us/pl/112/240/s411/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs411%2Fb

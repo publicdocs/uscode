@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../../..//us/usc/t26/stA/ch1/schF/ptI/m__us_usc_t26_s504.md) | [Next](./../../../../../../..//us/usc/t26/stA/ch1/schF/ptII/m__us_usc_t26_stA_ch1_schF_ptII.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs505)
+[Previous](./../../../../../../..//us/usc/t26/stA/ch1/schF/ptI/m__us_usc_t26_s504.md) | [Next](./../../../../../../..//us/usc/t26/stA/ch1/schF/ptI/m__us_usc_t26_s506.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs505)
 
 ## § 505. Additional requirements for organizations described in paragraph (9), (17), or (20) of section 501(c)
 
@@ -195,7 +195,7 @@
 
 ----------
 
-[Previous](./../../../../../../..//us/usc/t26/stA/ch1/schF/ptI/m__us_usc_t26_s504.md) | [Next](./../../../../../../..//us/usc/t26/stA/ch1/schF/ptII/m__us_usc_t26_stA_ch1_schF_ptII.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs505)
+[Previous](./../../../../../../..//us/usc/t26/stA/ch1/schF/ptI/m__us_usc_t26_s504.md) | [Next](./../../../../../../..//us/usc/t26/stA/ch1/schF/ptI/m__us_usc_t26_s506.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs505)
 
 ----------
 ----------

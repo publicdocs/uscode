@@ -121,7 +121,39 @@
 
             (B) is not described in subparagraph (A) and is not a multiple of $10, such amount shall be rounded to the next lowest multiple of $10.
 
-(Added [Pub. L. 99–514, title XV, § 1501(a)][/us/pl/99/514/s1501/a], Oct. 22, 1986, [100 Stat. 2733][/us/stat/100/2733]; amended [Pub. L. 101–239, title VII, § 7711(a)][/us/pl/101/239/s7711/a], Dec. 19, 1989, [103 Stat. 2390][/us/stat/103/2390]; [Pub. L. 111–240, title II, § 2102(g)][/us/pl/111/240/s2102/g], Sept. 27, 2010, [124 Stat. 2562][/us/stat/124/2562]; [Pub. L. 113–295, div. A, title II, § 207(a)(2)][/us/pl/113/295/s207/a/2], (3), div. B, title II, § 208(g), Dec. 19, 2014, [128 Stat. 4027][/us/stat/128/4027], 4028, 4074; [Pub. L. 114–27, title VIII, § 806(e)][/us/pl/114/27/s806/e], June 29, 2015, [129 Stat. 417][/us/stat/129/417].)
+(Added [Pub. L. 99–514, title XV, § 1501(a)][/us/pl/99/514/s1501/a], Oct. 22, 1986, [100 Stat. 2733][/us/stat/100/2733]; amended [Pub. L. 101–239, title VII, § 7711(a)][/us/pl/101/239/s7711/a], Dec. 19, 1989, [103 Stat. 2390][/us/stat/103/2390]; [Pub. L. 111–240, title II, § 2102(g)][/us/pl/111/240/s2102/g], Sept. 27, 2010, [124 Stat. 2562][/us/stat/124/2562]; [Pub. L. 113–295, div. A, title II, § 207(a)(2)][/us/pl/113/295/s207/a/2], (3), div. B, title II, § 208(g), Dec. 19, 2014, [128 Stat. 4027][/us/stat/128/4027], 4028, 4074; [Pub. L. 114–27, title VIII, § 806(e)][/us/pl/114/27/s806/e], June 29, 2015, [129 Stat. 417][/us/stat/129/417]; [Pub. L. 114–113, div. Q, title II, § 202(b)][/us/pl/114/113/s202/b], Dec. 18, 2015, [129 Stat. 3077][/us/stat/129/3077].)
+
+ __Amendment of Subsection (c)__ 
+
+    [Pub. L. 114–113, div. Q, title II, § 202(b)][/us/pl/114/113/s202/b], (e), Dec. 18, 2015, [129 Stat. 3077][/us/stat/129/3077], 3078, provided that, applicable to returns required to be filed, and payee statements required to be provided, after Dec. 31, 2016, subsection (c) of this section is amended by adding at the end the following new paragraph:
+
+    (3) Safe harbor for certain de minimis errors
+
+    (A) In general
+
+    If, with respect to any payee statement—
+
+    (i) there are 1 or more failures described in subsection (a)(2)(B) relating to an incorrect dollar amount,
+
+    (ii) no single amount in error differs from the correct amount by more than $100, and
+
+    (iii) no single amount reported for tax withheld on any information return differs from the correct amount by more than $25,
+
+    then no correction shall be required and, for purposes of this section, such statement shall be treated as having been filed with all of the correct required information.
+
+    (B) Exception
+
+    Subparagraph (A) shall not apply to any payee statement if the person to whom such statement is required to be furnished makes an election (at such time and in such manner as the Secretary may prescribe) that subparagraph (A) not apply with respect to such statement.
+
+    (C) Regulatory authority
+
+    The Secretary may issue regulations to prevent the abuse of the safe harbor under this paragraph, including regulations providing that this paragraph shall not apply to the extent necessary to prevent any such abuse.
+
+    See 2015 Amendment note below.
+
+ __Inflation Adjusted Items for Certain Years__ 
+
+    For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table under [section 1 of this title][/us/usc/t26/s1].
 
  __Amendments__ 
 
@@ -134,6 +166,8 @@
     Subsec. (b)(2)(A). [Pub. L. 114–27, § 806(e)(2)(B)(i)][/us/pl/114/27/s806/e/2/B/i], (ii), substituted “$100” for “$60” and “$250” for “$100”.
 
     Subsec. (b)(2)(B). [Pub. L. 114–27, § 806(e)(2)(B)(iii)][/us/pl/114/27/s806/e/2/B/iii], substituted “$1,500,000” for “$500,000”.
+
+    Subsec. (c)(3). [Pub. L. 114–113][/us/pl/114/113] added par. (3).
 
     Subsec. (d)(1)(A). [Pub. L. 114–27, § 806(e)(3)(A)][/us/pl/114/27/s806/e/3/A], substituted “$1,000,000” for “$500,000” and “$3,000,000” for “$1,500,000”.
 
@@ -156,6 +190,8 @@
     1989—[Pub. L. 101–239][/us/pl/101/239] substituted “correct” for “certain” in section catchline and amended text generally, substituting subsecs. (a) to (c) for former subsec. (a) stating general rule and subsec. (b) relating to failure to notify partnership of exchange of partnership interest.
 
  __Effective Date of 2015 Amendment__ 
+
+    Amendment by [Pub. L. 114–113][/us/pl/114/113] applicable to returns required to be filed, and payee statements required to be provided, after Dec. 31, 2016, see [section 202(e) of Pub. L. 114–113][/us/pl/114/113/s202/e], set out as a note under [section 6045 of this title][/us/usc/t26/s6045].
 
     Amendment by [Pub. L. 114–27][/us/pl/114/27] applicable with respect to returns and statements required to be filed after Dec. 31, 2015, see [section 806(f) of Pub. L. 114–27][/us/pl/114/27/s806/f], set out as a note under [section 6721 of this title][/us/usc/t26/s6721].
 
@@ -196,11 +232,17 @@
 [/us/stat/128/4027]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4027
 [/us/pl/114/27/s806/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27%2Fs806%2Fe
 [/us/stat/129/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F417
+[/us/pl/114/113/s202/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs202%2Fb
+[/us/stat/129/3077]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3077
+[/us/pl/114/113/s202/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs202%2Fb
+[/us/stat/129/3077]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3077
+[/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
 [/us/pl/114/27/s806/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27%2Fs806%2Fe%2F1
 [/us/pl/114/27/s806/e/2/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27%2Fs806%2Fe%2F2%2FA%2Fi
 [/us/pl/114/27/s806/e/2/A/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27%2Fs806%2Fe%2F2%2FA%2Fiii
 [/us/pl/114/27/s806/e/2/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27%2Fs806%2Fe%2F2%2FB%2Fi
 [/us/pl/114/27/s806/e/2/B/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27%2Fs806%2Fe%2F2%2FB%2Fiii
+[/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
 [/us/pl/114/27/s806/e/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27%2Fs806%2Fe%2F3%2FA
 [/us/pl/114/27/s806/e/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27%2Fs806%2Fe%2F3%2FB
 [/us/pl/114/27/s806/e/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27%2Fs806%2Fe%2F3%2FC
@@ -211,6 +253,9 @@
 [/us/pl/113/295/s208/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs208%2Fg
 [/us/pl/111/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240
 [/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
+[/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
+[/us/pl/114/113/s202/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs202%2Fe
+[/us/usc/t26/s6045]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6045
 [/us/pl/114/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27
 [/us/pl/114/27/s806/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27%2Fs806%2Ff
 [/us/usc/t26/s6721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6721

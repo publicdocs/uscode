@@ -53,7 +53,7 @@
 
             (A) $5,000, or
 
-            (B) 50 percent of the income derived (or to be derived) by the tax return preparer with respect to the return or claim.
+            (B) 75 percent of the income derived (or to be derived) by the tax return preparer with respect to the return or claim.
 
         (2) __Willful or reckless conduct__ 
 
@@ -93,13 +93,15 @@
 
         For definition of tax return preparer, see section 7701(a)(36).
 
-(Added [Pub. L. 94–455, title XII, § 1203(b)(1)][/us/pl/94/455/s1203/b/1], Oct. 4, 1976, [90 Stat. 1689][/us/stat/90/1689]; amended [Pub. L. 101–239, title VII][/us/pl/101/239], §§ 7732(a), 7737(a), Dec. 19, 1989, [103 Stat. 2402][/us/stat/103/2402], 2404; [Pub. L. 110–28, title VIII, § 8246(a)(2)(F)(i)][/us/pl/110/28/s8246/a/2/F/i], (b), May 25, 2007, [121 Stat. 201][/us/stat/121/201], 203; [Pub. L. 110–343, div. C, title V, § 506(a)][/us/pl/110/343/s506/a], Oct. 3, 2008, [122 Stat. 3880][/us/stat/122/3880].)
+(Added [Pub. L. 94–455, title XII, § 1203(b)(1)][/us/pl/94/455/s1203/b/1], Oct. 4, 1976, [90 Stat. 1689][/us/stat/90/1689]; amended [Pub. L. 101–239, title VII][/us/pl/101/239], §§ 7732(a), 7737(a), Dec. 19, 1989, [103 Stat. 2402][/us/stat/103/2402], 2404; [Pub. L. 110–28, title VIII, § 8246(a)(2)(F)(i)][/us/pl/110/28/s8246/a/2/F/i], (b), May 25, 2007, [121 Stat. 201][/us/stat/121/201], 203; [Pub. L. 110–343, div. C, title V, § 506(a)][/us/pl/110/343/s506/a], Oct. 3, 2008, [122 Stat. 3880][/us/stat/122/3880]; [Pub. L. 114–113, div. Q, title II, § 210(a)][/us/pl/114/113/s210/a], Dec. 18, 2015, [129 Stat. 3085][/us/stat/129/3085].)
 
  __Codification__ 
 
     Another section 6694, relating to failure to file information with respect to carryover basis property, which was added by [Pub. L. 94–455, § 2005(d)(2)][/us/pl/94/455/s2005/d/2], was renumbered section 6698 by [Pub. L. 95–600][/us/pl/95/600], renumbered section 6698A by [Pub. L. 96–222][/us/pl/96/222], and repealed by [Pub. L. 96–223][/us/pl/96/223].
 
  __Amendments__ 
+
+    2015—Subsec. (b)(1)(B). [Pub. L. 114–113][/us/pl/114/113] substituted “75 percent” for “50 percent”.
 
     2008—Subsec. (a). [Pub. L. 110–343][/us/pl/110/343] amended subsec. (a) generally. Prior to amendment, subsec. (a) provided penalty for understatement due to unreasonable positions.
 
@@ -137,6 +139,12 @@
 
     Subsec. (c)(1). [Pub. L. 101–239, § 7737(a)][/us/pl/101/239/s7737/a], inserted at end “Nothing in this paragraph shall be construed to prohibit any counterclaim for the remainder of such penalty in a proceeding begun as provided in paragraph (2).”
 
+ __Effective Date of 2015 Amendment__ 
+
+[Pub. L. 114–113, div. Q, title II, § 210(b)][/us/pl/114/113/s210/b], Dec. 18, 2015, [129 Stat. 3085][/us/stat/129/3085], provided that: 
+
+> “The amendment made by this section \[amending this section\] shall apply to returns prepared for taxable years ending after the date of the enactment of this Act \[Dec. 18, 2015\].”
+
  __Effective Date of 2008 Amendment__ 
 
 [Pub. L. 110–343, div. C, title V, § 506(b)][/us/pl/110/343/s506/b], Oct. 3, 2008, [122 Stat. 3880][/us/stat/122/3880], provided that: 
@@ -172,10 +180,13 @@
 [/us/stat/121/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F201
 [/us/pl/110/343/s506/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs506%2Fa
 [/us/stat/122/3880]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3880
+[/us/pl/114/113/s210/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs210%2Fa
+[/us/stat/129/3085]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3085
 [/us/pl/94/455/s2005/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs2005%2Fd%2F2
 [/us/pl/95/600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600
 [/us/pl/96/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F222
 [/us/pl/96/223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F223
+[/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
 [/us/pl/110/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343
 [/us/pl/110/28/s8246/a/2/F/i/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F28%2Fs8246%2Fa%2F2%2FF%2Fi%2FI
 [/us/pl/110/28/s8246/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F28%2Fs8246%2Fb
@@ -187,6 +198,8 @@
 [/us/pl/101/239/s7732/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7732%2Fa
 [/us/pl/101/239/s7732/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7732%2Fa
 [/us/pl/101/239/s7737/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7737%2Fa
+[/us/pl/114/113/s210/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs210%2Fb
+[/us/stat/129/3085]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3085
 [/us/pl/110/343/s506/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs506%2Fb
 [/us/stat/122/3880]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3880
 [/us/pl/110/28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F28

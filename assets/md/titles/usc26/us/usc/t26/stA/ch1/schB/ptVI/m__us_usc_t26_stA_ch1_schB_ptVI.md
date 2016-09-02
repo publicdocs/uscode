@@ -227,7 +227,7 @@
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs181" data-uslm-ref="/us/usc/t26/s181">181.</a>  </td>
 
-    <td> Treatment of certain qualified film and television productions.  </td>
+    <td> Treatment of certain qualified film and television and live theatrical productions.  </td>
 
   </tr>
 
@@ -371,6 +371,8 @@
 
  __Amendments__ 
 
+    2015—[Pub. L. 114–113, div. Q, title I, § 169(b)(3)][/us/pl/114/113/s169/b/3], Dec. 18, 2015, [129 Stat. 3068][/us/stat/129/3068], substituted “Treatment of certain qualified film and television and live theatrical productions” for “Treatment of certain qualified film and television productions” in item 181.
+
     2014—[Pub. L. 113–295, div. A, title II, § 221(a)(34)(A)][/us/pl/113/295/s221/a/34/A], (35), Dec. 19, 2014, [128 Stat. 4042][/us/stat/128/4042], which directed amendment of table of sections for part VI of subchapter A of this chapter by striking items 179A and 198A, was executed by striking items 179A “Deduction for clean-fuel vehicles and certain refueling property” and 198A “Expensing of Qualified Disaster Expenses” in table of sections for part VI of this subchapter to reflect the probable intent of Congress.
 
     2008—[Pub. L. 110–343, div. C, title VII, § 707(b)][/us/pl/110/343/s707/b], Oct. 3, 2008, [122 Stat. 3924][/us/stat/122/3924], added item 198A.
@@ -438,6 +440,8 @@
 ----------
 ----------
 
+[/us/pl/114/113/s169/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs169%2Fb%2F3
+[/us/stat/129/3068]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3068
 [/us/pl/113/295/s221/a/34/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F34%2FA
 [/us/stat/128/4042]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4042
 [/us/pl/110/343/s707/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs707%2Fb

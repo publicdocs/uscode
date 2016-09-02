@@ -77,6 +77,10 @@
 
             The assessment or collection of any internal revenue tax or of any liability to the United States in respect of any internal revenue tax, or any action or proceeding by or on behalf of the United States in connection therewith, may be made, taken, begun, or prosecuted in accordance with law, without regard to the provisions of subsection (a), unless prior to such assessment collection, action, or proceeding it is ascertained that the person concerned is entitled to the benefits of subsection (a).
 
+        (3) __Collection period after assessment not extended as a result of hospitalization__ 
+
+            With respect to any period of continuous qualified hospitalization described in subsection (a) and the next 180 days thereafter, subsection (a) shall not apply in the application of section 6502.
+
     (f) __Treatment of individuals performing Desert Shield services__ 
 
         (1) __In general__ 
@@ -101,11 +105,13 @@
 
         Paragraph (2) shall not apply for purposes of applying this section with respect to the spouse of an individual entitled to the benefits of subsection (a).
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 898][/us/stat/68A/898]; [Pub. L. 93–597, § 5(a)][/us/pl/93/597/s5/a], Jan. 2, 1975, [88 Stat. 1952][/us/stat/88/1952]; [Pub. L. 94–455, title XIX, § 1906(a)(51)][/us/pl/94/455/s1906/a/51], (b)(13)(A), Oct. 4, 1976, [90 Stat. 1831][/us/stat/90/1831], 1834; [Pub. L. 94–569, § 3(e)][/us/pl/94/569/s3/e], Oct. 20, 1976, [90 Stat. 2700][/us/stat/90/2700]; [Pub. L. 96–589, § 6(i)(14)][/us/pl/96/589/s6/i/14], Dec. 24, 1980, [94 Stat. 3411][/us/stat/94/3411]; [Pub. L. 97–448, title III, § 307(d)][/us/pl/97/448/s307/d], Jan. 12, 1983, [96 Stat. 2407][/us/stat/96/2407]; [Pub. L. 99–514, title XVII, § 1708(a)(4)][/us/pl/99/514/s1708/a/4], Oct. 22, 1986, [100 Stat. 2782][/us/stat/100/2782]; [Pub. L. 102–2, § 1(a)][/us/pl/102/2/s1/a]–(c), Jan. 30, 1991, [105 Stat. 5][/us/stat/105/5]; [Pub. L. 107–134, title I, § 112(b)][/us/pl/107/134/s112/b], Jan. 23, 2002, [115 Stat. 2434][/us/stat/115/2434]; [Pub. L. 108–121, title I, § 104(a)][/us/pl/108/121/s104/a]–(b)(2), Nov. 11, 2003, [117 Stat. 1338][/us/stat/117/1338]; [Pub. L. 109–73, title IV, § 403(a)][/us/pl/109/73/s403/a], Sept. 23, 2005, [119 Stat. 2027][/us/stat/119/2027]; [Pub. L. 114–94, div. C, title XXXII, § 32101(d)][/us/pl/114/94/s32101/d], Dec. 4, 2015, [129 Stat. 1732][/us/stat/129/1732].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 898][/us/stat/68A/898]; [Pub. L. 93–597, § 5(a)][/us/pl/93/597/s5/a], Jan. 2, 1975, [88 Stat. 1952][/us/stat/88/1952]; [Pub. L. 94–455, title XIX, § 1906(a)(51)][/us/pl/94/455/s1906/a/51], (b)(13)(A), Oct. 4, 1976, [90 Stat. 1831][/us/stat/90/1831], 1834; [Pub. L. 94–569, § 3(e)][/us/pl/94/569/s3/e], Oct. 20, 1976, [90 Stat. 2700][/us/stat/90/2700]; [Pub. L. 96–589, § 6(i)(14)][/us/pl/96/589/s6/i/14], Dec. 24, 1980, [94 Stat. 3411][/us/stat/94/3411]; [Pub. L. 97–448, title III, § 307(d)][/us/pl/97/448/s307/d], Jan. 12, 1983, [96 Stat. 2407][/us/stat/96/2407]; [Pub. L. 99–514, title XVII, § 1708(a)(4)][/us/pl/99/514/s1708/a/4], Oct. 22, 1986, [100 Stat. 2782][/us/stat/100/2782]; [Pub. L. 102–2, § 1(a)][/us/pl/102/2/s1/a]–(c), Jan. 30, 1991, [105 Stat. 5][/us/stat/105/5]; [Pub. L. 107–134, title I, § 112(b)][/us/pl/107/134/s112/b], Jan. 23, 2002, [115 Stat. 2434][/us/stat/115/2434]; [Pub. L. 108–121, title I, § 104(a)][/us/pl/108/121/s104/a]–(b)(2), Nov. 11, 2003, [117 Stat. 1338][/us/stat/117/1338]; [Pub. L. 109–73, title IV, § 403(a)][/us/pl/109/73/s403/a], Sept. 23, 2005, [119 Stat. 2027][/us/stat/119/2027]; [Pub. L. 114–94, div. C, title XXXII, § 32101(d)][/us/pl/114/94/s32101/d], Dec. 4, 2015, [129 Stat. 1732][/us/stat/129/1732]; [Pub. L. 114–113, div. Q, title III, § 309(a)][/us/pl/114/113/s309/a], Dec. 18, 2015, [129 Stat. 3089][/us/stat/129/3089].)
 
  __Amendments__ 
 
     2015—Subsec. (a)(3). [Pub. L. 114–94][/us/pl/114/94] added par. (3).
+
+    Subsec. (e)(3). [Pub. L. 114–113][/us/pl/114/113] added par. (3).
 
     2005—Subsec. (a)(1)(A), (B). [Pub. L. 109–73][/us/pl/109/73] amended subpars. (A) and (B) generally. Prior to amendment, text read as follows:
 
@@ -148,6 +154,12 @@
     Subsec. (d). [Pub. L. 94–455, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], struck out “or his delegate” after “Secretary” wherever appearing.
 
     1975—Subsecs. (b) to (d). [Pub. L. 93–597][/us/pl/93/597] added subsecs. (b) and (c) and redesignated former subsec. (b) as (d).
+
+ __Effective Date of 2015 Amendment__ 
+
+[Pub. L. 114–113, div. Q, title III, § 309(b)][/us/pl/114/113/s309/b], Dec. 18, 2015, [129 Stat. 3090][/us/stat/129/3090], provided that: 
+
+> “The amendment made by this section \[amending this section\] shall apply to taxes assessed before, on, or after the date of the enactment of this Act \[Dec. 18, 2015\].”
 
  __Effective Date of 2005 Amendment__ 
 
@@ -245,7 +257,10 @@
 [/us/stat/119/2027]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2027
 [/us/pl/114/94/s32101/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs32101%2Fd
 [/us/stat/129/1732]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1732
+[/us/pl/114/113/s309/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs309%2Fa
+[/us/stat/129/3089]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3089
 [/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
 [/us/pl/109/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F73
 [/us/pl/108/121/s104/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F121%2Fs104%2Fb%2F2
 [/us/pl/108/121/s104/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F121%2Fs104%2Fa
@@ -264,6 +279,8 @@
 [/us/pl/94/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F569
 [/us/pl/94/455/s1906/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FA
 [/us/pl/93/597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F597
+[/us/pl/114/113/s309/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs309%2Fb
+[/us/stat/129/3090]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3090
 [/us/pl/109/73/s403/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F73%2Fs403%2Fc
 [/us/stat/119/2027]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2027
 [/us/pl/108/121/s104/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F121%2Fs104%2Fc

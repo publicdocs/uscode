@@ -83,7 +83,7 @@
 
             (G) amounts (other than amounts the determination of which depends in whole or in part on the income or profits of any person) received or accrued as consideration for entering into agreements (i) to make loans secured by mortgages on real property or on interests in real property or (ii) to purchase or lease real property (including interests in real property and interests in mortgages on real property);
 
-            (H) gain from the sale or other disposition of a real estate asset which is not a prohibited transaction solely by reason of section 857(b)(6); and
+            (H) gain from the sale or other disposition of a real estate asset (other than a nonqualified publicly offered REIT debt instrument) which is not a prohibited transaction solely by reason of section 857(b)(6); and
 
             (I) qualified temporary investment income; and
 
@@ -97,9 +97,11 @@
 
                 (i) not more than 25 percent of the value of its total assets is represented by securities (other than those includible under subparagraph (A)),
 
-                (ii) not more than 25 percent of the value of its total assets is represented by securities of one or more taxable REIT subsidiaries, <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be followed by “and”. </sup></sup> 
+                (ii) not more than 25 percent of the value of its total assets is represented by securities of one or more taxable REIT subsidiaries,
 
-                (iii)
+                (iii) not more than 25 percent of the value of its total assets is represented by nonqualified publicly offered REIT debt instruments, and
+
+                (iv)
 
                  except with respect to a taxable REIT subsidiary and securities includible under subparagraph (A)—
 
@@ -117,7 +119,7 @@
 
             (A) The term “value” means, with respect to securities for which market quotations are readily available, the market value of such securities; and with respect to other securities and assets, fair value as determined in good faith by the trustees, except that in the case of securities of real estate investment trusts such fair value shall not exceed market value or asset value, whichever is higher.
 
-            (B) The term “real estate assets” means real property (including interests in real property and interests in mortgages on real property) and shares (or transferable certificates of beneficial interest) in other real estate investment trusts which meet the requirements of this part. Such term also includes any property (not otherwise a real estate asset) attributable to the temporary investment of new capital, but only if such property is stock or a debt instrument, and only for the 1-year period beginning on the date the real estate trust receives such capital.
+            (B) The term “real estate assets” means real property (including interests in real property and interests in mortgages on real property or on interests in real property), shares (or transferable certificates of beneficial interest) in other real estate investment trusts which meet the requirements of this part, and debt instruments issued by publicly offered REITs. Such term also includes any property (not otherwise a real estate asset) attributable to the temporary investment of new capital, but only if such property is stock or a debt instrument, and only for the 1-year period beginning on the date the real estate trust receives such capital.
 
             (C) The term “interests in real property” includes fee ownership and co-ownership of land or improvements thereon, leaseholds of land or improvements thereon, options to acquire land or improvements thereon, and options to acquire leaseholds of land or improvements thereon, but does not include mineral, oil, or gas royalty interests.
 
@@ -149,9 +151,23 @@
 
             Except to the extent as determined by the Secretary—
 
-                (i) any income of a real estate investment trust from a hedging transaction (as defined in clause (ii) or (iii) of section 1221(b)(2)(A)) which is clearly identified pursuant to section 1221(a)(7), including gain from the sale or disposition of such a transaction, shall not constitute gross income under paragraphs (2) and (3) to the extent that the transaction hedges any indebtedness incurred or to be incurred by the trust to acquire or carry real estate assets, and
+                (i) any income of a real estate investment trust from a hedging transaction (as defined in clause (ii) or (iii) of section 1221(b)(2)(A)), including gain from the sale or disposition of such a transaction, shall not constitute gross income under paragraphs (2) and (3) to the extent that the transaction hedges any indebtedness incurred or to be incurred by the trust to acquire or carry real estate assets,
 
-                (ii) any income of a real estate investment trust from a transaction entered into by the trust primarily to manage risk of currency fluctuations with respect to any item of income or gain described in paragraph (2) or (3) (or any property which generates such income or gain), including gain from the termination of such a transaction, shall not constitute gross income under paragraphs (2) and (3), but only if such transaction is clearly identified as such before the close of the day on which it was acquired, originated, or entered into (or such other time as the Secretary may prescribe).
+                (ii) any income of a real estate investment trust from a transaction entered into by the trust primarily to manage risk of currency fluctuations with respect to any item of income or gain described in paragraph (2) or (3) (or any property which generates such income or gain), including gain from the termination of such a transaction, shall not constitute gross income under paragraphs (2) and (3),
+
+                (iii)
+
+                 if—
+
+                    (I) a real estate investment trust enters into one or more positions described in clause (i) with respect to indebtedness described in clause (i) or one or more positions described in clause (ii) with respect to property which generates income or gain described in paragraph (2) or (3),
+
+                    (II) any portion of such indebtedness is extinguished or any portion of such property is disposed of, and
+
+                    (III) in connection with such extinguishment or disposition, such trust enters into one or more transactions which would be hedging transactions described in clause (ii) or (iii) of section 1221(b)(2)(A) with respect to any position referred to in subclause (I) if such position were ordinary property,
+
+                 any income of such trust from any position referred to in subclause (I) and from any transaction referred to in subclause (III) (including gain from the termination of any such position or transaction) shall not constitute gross income under paragraphs (2) and (3) to the extent that such transaction hedges such position, and
+
+                (iv) clauses (i), (ii), and (iii) shall not apply with respect to any transaction unless such transaction satisfies the identification requirement described in section 1221(a)(7) (determined after taking into account any curative provisions provided under the regulations referred to therein).
 
             (H) __Treatment of timber gains.—__ 
 
@@ -194,6 +210,16 @@
                 (i) is held for use in the normal course of the activities of the trust or qualified business unit which give rise to items of income or gain described in paragraph (2) or (3) of subsection (c) or are directly related to acquiring or holding assets described in subsection (c)(4), and
 
                 (ii) is not held in connection with an activity described in subsection (n)(4).
+
+            (L) __Definitions related to debt instruments of publicly offered reits.—__ 
+
+                (i)  __Publicly offered reit__  __.—__ 
+
+                The term “publicly offered REIT” has the meaning given such term by section 562(c)(2).
+
+                (ii)  __Nonqualified publicly offered reit debt instrument__  __.—__ 
+
+                The term “nonqualified publicly offered REIT debt instrument” means any real estate asset which would cease to be a real estate asset if subparagraph (B) were applied without regard to the reference to “debt instruments issued by publicly offered REITs”.
 
         (6)
 
@@ -255,7 +281,27 @@
 
                 For purposes of subtitle F, the taxes imposed by this subparagraph shall be treated as excise taxes with respect to which the deficiency procedures of such subtitle apply.
 
-        (8)  __Termination date__  __.—__ 
+        (8)  __Election after tax-free reorganization__  __.—__ 
+
+        If a corporation was a distributing corporation or a controlled corporation (other than a controlled corporation with respect to a distribution described in section 355(h)(2)(A)) with respect to any distribution to which section 355 (or so much of section 356 as relates to section 355) applied, such corporation (and any successor corporation) shall not be eligible to make any election under paragraph (1) for any taxable year beginning before the end of the 10-year period beginning on the date of such distribution.
+
+        (9) __Special rules for certain personal property which is ancillary to real property.—__ 
+
+            (A)  __Certain personal property leased in connection with real property__  __.—__ 
+
+            Personal property shall be treated as a real estate asset for purposes of paragraph (4)(A) to the extent that rents attributable to such personal property are treated as rents from real property under subsection (d)(1)(C).
+
+            (B) __Certain personal property mortgaged in connection with real property.—__ 
+
+            In the case of an obligation secured by a mortgage on both real property and personal property, if the fair market value of such personal property does not exceed 15 percent of the total fair market value of all such property, such obligation shall be treated—
+
+                (i) for purposes of paragraph (3)(B), as an obligation described therein, and
+
+                (ii) for purposes of paragraph (4)(A), as a real estate asset.
+
+                For purposes of the preceding sentence, the fair market value of all such property shall be determined in the same manner as the fair market value of real property is determined for purposes of apportioning interest income between real property and personal property under paragraph (3)(B).
+
+        (10)  __Termination date__  __.—__ 
 
         For purposes of this subsection, the term “termination date” means, with respect to any taxpayer, the last day of the taxpayer’s first taxable year beginning after the date of the enactment of this paragraph and before the date that is 1 year after such date of enactment.
 
@@ -499,7 +545,7 @@
 
             (B) any construction takes place on such property (other than completion of a building, or completion of any other improvement, where more than 10 percent of the construction of such building or other improvement was completed before default became imminent), or
 
-            (C) if such day is more than 90 days after the day on which such property was acquired by the real estate investment trust and the property is used in a trade or business which is conducted by the trust (other than through an independent contractor (within the meaning of section (d)(3)) from whom the trust itself does not derive or receive any income).
+            (C) if such day is more than 90 days after the day on which such property was acquired by the real estate investment trust and the property is used in a trade or business which is conducted by the trust (other than through an independent contractor (within the meaning of section (d)(3)) from whom the trust itself does not derive or receive any income or through a taxable REIT subsidiary).
 
             For purposes of subparagraph (C), property shall not be treated as used in a trade or business by reason of any activities of the real estate investment trust with respect to such property to the extent that such activities would not result in amounts received or accrued, directly or indirectly, with respect to such property being treated as other than rents from real property.
 
@@ -957,7 +1003,11 @@
 
             Notwithstanding this subsection or any other provision of this part, any section 988 gain derived by a corporation, trust, or association from dealing, or engaging in substantial and regular trading, in securities (as defined in section 475(c)(2)) shall constitute gross income which does not qualify under paragraph (2) or (3) of subsection (c). This paragraph shall not apply to income which does not constitute gross income by reason of subsection (c)(5)(G).
 
-(Added [Pub. L. 86–779, § 10(a)][/us/pl/86/779/s10/a], Sept. 14, 1960, [74 Stat. 1004][/us/stat/74/1004]; amended [Pub. L. 88–272, title II, § 225(k)(4)][/us/pl/88/272/s225/k/4], Feb. 26, 1964, [78 Stat. 94][/us/stat/78/94]; [Pub. L. 88–554, § 4(b)(4)][/us/pl/88/554/s4/b/4], Aug. 31, 1964, [78 Stat. 763][/us/stat/78/763]; [Pub. L. 93–625, § 6(a)][/us/pl/93/625/s6/a], (b), (d)(1), Jan. 3, 1975, [88 Stat. 2112–2114][/us/stat/88/2112-2114]; [Pub. L. 94–455, title XIV, § 1402(b)(1)(O)][/us/pl/94/455/s1402/b/1/O], (2), title XVI, §§ 1602(a), 1603(a), (c)(1)–(4), 1604(a)–(c)(1), (d)–(f)(3)(A), (g), (k)(1), (2)(A), title XIX, §§ 1901(a)(111), 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1732][/us/stat/90/1732], 1746, 1748–1753, 1783, 1834; [Pub. L. 95–600, title III, § 363(a)][/us/pl/95/600/s363/a], (c), title VII, § 701(t)(2), Nov. 6, 1978, [92 Stat. 2852][/us/stat/92/2852], 2853, 2912; [Pub. L. 98–369, div. A, title X, § 1001(b)(12)][/us/pl/98/369/s1001/b/12], (e), July 18, 1984, [98 Stat. 1011][/us/stat/98/1011], 1012; [Pub. L. 99–514, title VI][/us/pl/99/514], §§ 661(a), 662, 663, 671(b)(1), title IX, § 901(d)(4)(E), Oct. 22, 1986, [100 Stat. 2299][/us/stat/100/2299], 2300, 2302, 2317, 2380; [Pub. L. 100–647, title I, § 1006(p)(1)][/us/pl/100/647/s1006/p/1], (3), (4)(A), (5), (q), (t)(11), Nov. 10, 1988, [102 Stat. 3416][/us/stat/102/3416], 3417, 3422; [Pub. L. 103–66, title XIII, § 13149(a)][/us/pl/103/66/s13149/a], Aug. 10, 1993, [107 Stat. 445][/us/stat/107/445]; [Pub. L. 104–188, title I][/us/pl/104/188], §§ 1621(b)(5), 1704(t)(35), Aug. 20, 1996, [110 Stat. 1867][/us/stat/110/1867], 1889; [Pub. L. 105–34, title XII][/us/pl/105/34], §§ 1251(b)–1253, 1255(a), (b)(1), 1257, 1258, 1261, 1262, Aug. 5, 1997, [111 Stat. 1031–1036][/us/stat/111/1031-1036]; [Pub. L. 106–170, title V][/us/pl/106/170], §§ 532(c)(2)(H)–(K), 541–542(b)(3)(A)(i), (B)(i), 543, 551(a), 561(a), Dec. 17, 1999, [113 Stat. 1930][/us/stat/113/1930], 1940–1943, 1948, 1949; [Pub. L. 106–554, § 1(a)(7)][/us/pl/106/554/s1/a/7] \[title III, § 319(9), (10)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–646; [Pub. L. 108–357, title II, § 243(a)][/us/pl/108/357/s243/a], (b), (d), (f)(1)–(3), title VIII, § 835(b)(4), Oct. 22, 2004, [118 Stat. 1439][/us/stat/118/1439], 1441–1444, 1593; [Pub. L. 109–135, title IV][/us/pl/109/135], §§ 403(d)(1), (2), 412(hh), Dec. 21, 2005, [119 Stat. 2620][/us/stat/119/2620], 2622, 2639; [Pub. L. 110–172][/us/pl/110/172], §§ 9(b), 11(a)(18), Dec. 29, 2007, [121 Stat. 2484][/us/stat/121/2484], 2486; [Pub. L. 110–234, title XV][/us/pl/110/234], §§ 15312(a), (b), 15313(a), (b), 15314(a), May 22, 2008, [122 Stat. 1503][/us/stat/122/1503], 1504; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title XV, §§ 15312(a), (b), 15313(a), (b), 15314(a), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2265, 2266; [Pub. L. 110–289, div. C, title II][/us/pl/110/289], §§ 3031, 3032, 3041, 3061, July 30, 2008, [122 Stat. 2897][/us/stat/122/2897], 2899–2901.)
+(Added [Pub. L. 86–779, § 10(a)][/us/pl/86/779/s10/a], Sept. 14, 1960, [74 Stat. 1004][/us/stat/74/1004]; amended [Pub. L. 88–272, title II, § 225(k)(4)][/us/pl/88/272/s225/k/4], Feb. 26, 1964, [78 Stat. 94][/us/stat/78/94]; [Pub. L. 88–554, § 4(b)(4)][/us/pl/88/554/s4/b/4], Aug. 31, 1964, [78 Stat. 763][/us/stat/78/763]; [Pub. L. 93–625, § 6(a)][/us/pl/93/625/s6/a], (b), (d)(1), Jan. 3, 1975, [88 Stat. 2112–2114][/us/stat/88/2112-2114]; [Pub. L. 94–455, title XIV, § 1402(b)(1)(O)][/us/pl/94/455/s1402/b/1/O], (2), title XVI, §§ 1602(a), 1603(a), (c)(1)–(4), 1604(a)–(c)(1), (d)–(f)(3)(A), (g), (k)(1), (2)(A), title XIX, §§ 1901(a)(111), 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1732][/us/stat/90/1732], 1746, 1748–1753, 1783, 1834; [Pub. L. 95–600, title III, § 363(a)][/us/pl/95/600/s363/a], (c), title VII, § 701(t)(2), Nov. 6, 1978, [92 Stat. 2852][/us/stat/92/2852], 2853, 2912; [Pub. L. 98–369, div. A, title X, § 1001(b)(12)][/us/pl/98/369/s1001/b/12], (e), July 18, 1984, [98 Stat. 1011][/us/stat/98/1011], 1012; [Pub. L. 99–514, title VI][/us/pl/99/514], §§ 661(a), 662, 663, 671(b)(1), title IX, § 901(d)(4)(E), Oct. 22, 1986, [100 Stat. 2299][/us/stat/100/2299], 2300, 2302, 2317, 2380; [Pub. L. 100–647, title I, § 1006(p)(1)][/us/pl/100/647/s1006/p/1], (3), (4)(A), (5), (q), (t)(11), Nov. 10, 1988, [102 Stat. 3416][/us/stat/102/3416], 3417, 3422; [Pub. L. 103–66, title XIII, § 13149(a)][/us/pl/103/66/s13149/a], Aug. 10, 1993, [107 Stat. 445][/us/stat/107/445]; [Pub. L. 104–188, title I][/us/pl/104/188], §§ 1621(b)(5), 1704(t)(35), Aug. 20, 1996, [110 Stat. 1867][/us/stat/110/1867], 1889; [Pub. L. 105–34, title XII][/us/pl/105/34], §§ 1251(b)–1253, 1255(a), (b)(1), 1257, 1258, 1261, 1262, Aug. 5, 1997, [111 Stat. 1031–1036][/us/stat/111/1031-1036]; [Pub. L. 106–170, title V][/us/pl/106/170], §§ 532(c)(2)(H)–(K), 541–542(b)(3)(A)(i), (B)(i), 543, 551(a), 561(a), Dec. 17, 1999, [113 Stat. 1930][/us/stat/113/1930], 1940–1943, 1948, 1949; [Pub. L. 106–554, § 1(a)(7)][/us/pl/106/554/s1/a/7] \[title III, § 319(9), (10)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–646; [Pub. L. 108–357, title II, § 243(a)][/us/pl/108/357/s243/a], (b), (d), (f)(1)–(3), title VIII, § 835(b)(4), Oct. 22, 2004, [118 Stat. 1439][/us/stat/118/1439], 1441–1444, 1593; [Pub. L. 109–135, title IV][/us/pl/109/135], §§ 403(d)(1), (2), 412(hh), Dec. 21, 2005, [119 Stat. 2620][/us/stat/119/2620], 2622, 2639; [Pub. L. 110–172][/us/pl/110/172], §§ 9(b), 11(a)(18), Dec. 29, 2007, [121 Stat. 2484][/us/stat/121/2484], 2486; [Pub. L. 110–234, title XV][/us/pl/110/234], §§ 15312(a), (b), 15313(a), (b), 15314(a), May 22, 2008, [122 Stat. 1503][/us/stat/122/1503], 1504; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title XV, §§ 15312(a), (b), 15313(a), (b), 15314(a), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2265, 2266; [Pub. L. 110–289, div. C, title II][/us/pl/110/289], §§ 3031, 3032, 3041, 3061, July 30, 2008, [122 Stat. 2897][/us/stat/122/2897], 2899–2901; [Pub. L. 114–113, div. Q, title III][/us/pl/114/113], §§ 311(b), 312(a), 317(a), (b), 318(a), 319(a), (b), 321(a)(3), Dec. 18, 2015, [129 Stat. 3090][/us/stat/129/3090], 3091, 3094–3097.)
+
+ __Amendment of Subsection (c)(4)(B)(ii)__ 
+
+    [Pub. L. 114–113, div. Q, title III, § 312][/us/pl/114/113/s312], Dec. 18, 2015, [129 Stat. 3091][/us/stat/129/3091], provided that, applicable with respect to taxable years beginning after December 31, 2017, subsection (c)(4)(B)(ii) of this section is amended by striking out “25 percent” and inserting “20 percent”. See 2015 Amendment note below.
 
  __References in Text__ 
 
@@ -965,7 +1015,7 @@
 
     The Investment Company Act of 1940, referred to in subsec. (c)(5)(F), is title I of [act Aug. 22, 1940, ch. 686][/us/act/1940-08-22/ch686], [54 Stat. 789][/us/stat/54/789], as amended, which is classified generally to subchapter I (§ 80a–1 et seq.) of chapter 2D of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see [section 80a–51 of Title 15][/us/usc/t15/s80a–51] and Tables.
 
-    The date of the enactment of this paragraph and such date of enactment, referred to in subsec. (c)(8), is the date of enactment of [Pub. L. 110–246][/us/pl/110/246], which was approved June 18, 2008.
+    The date of the enactment of this paragraph and such date of enactment, referred to in subsec. (c)(10), is the date of enactment of [Pub. L. 110–246][/us/pl/110/246], which was approved June 18, 2008.
 
     The Social Security Act, referred to in subsec. (e)(6)(D)(ii), is [act Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], [49 Stat. 620][/us/stat/49/620], as amended. Title XVIII of the Act is classified generally to subchapter XVIII (§ 1395 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see [section 1305 of Title 42][/us/usc/t42/s1305] and Tables.
 
@@ -978,6 +1028,34 @@
     [Pub. L. 110–234][/us/pl/110/234] and [Pub. L. 110–246][/us/pl/110/246] made identical amendments to this section. The amendments by [Pub. L. 110–234][/us/pl/110/234] were repealed by [section 4(a) of Pub. L. 110–246][/us/pl/110/246/s4/a].
 
  __Amendments__ 
+
+    2015—Subsec. (c)(3)(H). [Pub. L. 114–113, § 317(a)(2)][/us/pl/114/113/s317/a/2], inserted “(other than a nonqualified publicly offered REIT debt instrument)” after “real estate asset”.
+
+    Subsec. (c)(4)(B)(ii). [Pub. L. 114–113, § 312(a)][/us/pl/114/113/s312/a], substituted “20 percent” for “25 percent”.
+
+    Subsec. (c)(4)(B)(iii), (iv). [Pub. L. 114–113, § 317(a)(3)][/us/pl/114/113/s317/a/3], added cl. (iii) and redesignated former cl. (iii) as (iv).
+
+    Subsec. (c)(5)(B). [Pub. L. 114–113, § 317(a)(1)][/us/pl/114/113/s317/a/1], (b), inserted “or on interests in real property” after “interests in mortgages on real property”, substituted “, shares” for “and shares”, and inserted “, and debt instruments issued by publicly offered REITs” before period at end of first sentence.
+
+    Subsec. (c)(5)(G)(i). [Pub. L. 114–113, § 319(b)(2)(A)][/us/pl/114/113/s319/b/2/A], struck out “which is clearly identified pursuant to section 1221(a)(7)” after “of section 1221(b)(2)(A))”.
+
+    Subsec. (c)(5)(G)(ii). [Pub. L. 114–113, § 319(b)(2)(B)][/us/pl/114/113/s319/b/2/B], struck out before period at end “, but only if such transaction is clearly identified as such before the close of the day on which it was acquired, originated, or entered into (or such other time as the Secretary may prescribe)”.
+
+    Subsec. (c)(5)(G)(iii). [Pub. L. 114–113, § 319(a)][/us/pl/114/113/s319/a], added cl. (iii).
+
+    Subsec. (c)(5)(G)(iv). [Pub. L. 114–113, § 319(b)(1)][/us/pl/114/113/s319/b/1], added cl. (iv).
+
+    Subsec. (c)(5)(L). [Pub. L. 114–113, § 317(a)(4)][/us/pl/114/113/s317/a/4], added subpar. (L).
+
+    Subsec. (c)(8). [Pub. L. 114–113, § 311(b)][/us/pl/114/113/s311/b], added par. (8). Former par. (8) redesignated (9).
+
+    Subsec. (c)(9). [Pub. L. 114–113, § 318(a)][/us/pl/114/113/s318/a], added par. (9). Former par. (9) redesignated (10).
+
+    [Pub. L. 114–113, § 311(b)][/us/pl/114/113/s311/b], redesignated par. (8) as (9).
+
+    Subsec. (c)(10). [Pub. L. 114–113, § 318(a)][/us/pl/114/113/s318/a], redesignated par. (9) as (10).
+
+    Subsec. (e)(4)(C). [Pub. L. 114–113, § 321(a)(3)][/us/pl/114/113/s321/a/3], inserted “or through a taxable REIT subsidiary” after “receive any income”.
 
     2008—Subsec. (c)(2)(I). [Pub. L. 110–246, § 15313(a)][/us/pl/110/246/s15313/a], added subpar. (I).
 
@@ -1234,6 +1312,30 @@
     1964—Subsec. (a)(6). [Pub. L. 88–272][/us/pl/88/272] substituted “adjusted ordinary gross income (as defined in section 543(b)(2))” for “gross income”.
 
     Subsec. (d). [Pub. L. 88–554][/us/pl/88/554] inserted reference to subparagraph (C) of [section 318(a)(3) of this title][/us/usc/t26/s318/a/3].
+
+ __Effective Date of 2015 Amendment__ 
+
+    Amendment by [section 311(b) of Pub. L. 114–113][/us/pl/114/113/s311/b] applicable to distributions on or after December 7, 2015, except distributions pursuant to transactions described in ruling requests pending before the Internal Revenue Service as of such date, see [section 311(c) of Pub. L. 114–113][/us/pl/114/113/s311/c], set out as a note under [section 355 of this title][/us/usc/t26/s355].
+
+[Pub. L. 114–113, div. Q, title III, § 312(b)][/us/pl/114/113/s312/b], Dec. 18, 2015, [129 Stat. 3091][/us/stat/129/3091], provided that: 
+
+> “The amendment made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2017.”
+
+[Pub. L. 114–113, div. Q, title III, § 317(c)][/us/pl/114/113/s317/c], Dec. 18, 2015, [129 Stat. 3094][/us/stat/129/3094], provided that: 
+
+> “The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2015.”
+
+[Pub. L. 114–113, div. Q, title III, § 318(b)][/us/pl/114/113/s318/b], Dec. 18, 2015, [129 Stat. 3095][/us/stat/129/3095], provided that: 
+
+> “The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2015.”
+
+[Pub. L. 114–113, div. Q, title III, § 319(c)][/us/pl/114/113/s319/c], Dec. 18, 2015, [129 Stat. 3096][/us/stat/129/3096], provided that: 
+
+> “The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2015.”
+
+[Pub. L. 114–113, div. Q, title III, § 321(c)][/us/pl/114/113/s321/c], Dec. 18, 2015, [129 Stat. 3098][/us/stat/129/3098], provided that: 
+
+> “The amendments made by this section \[amending this section and [section 857 of this title][/us/usc/t26/s857]\] shall apply to taxable years beginning after December 31, 2015.”
 
  __Effective Dates of 2008 Amendment__ 
 
@@ -1547,6 +1649,10 @@
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
 [/us/stat/122/2897]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2897
+[/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
+[/us/stat/129/3090]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3090
+[/us/pl/114/113/s312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs312
+[/us/stat/129/3091]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3091
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/act/1940-08-22/ch686]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-08-22%2Fch686
 [/us/stat/54/789]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F789
@@ -1561,6 +1667,20 @@
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/114/113/s317/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs317%2Fa%2F2
+[/us/pl/114/113/s312/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs312%2Fa
+[/us/pl/114/113/s317/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs317%2Fa%2F3
+[/us/pl/114/113/s317/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs317%2Fa%2F1
+[/us/pl/114/113/s319/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs319%2Fb%2F2%2FA
+[/us/pl/114/113/s319/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs319%2Fb%2F2%2FB
+[/us/pl/114/113/s319/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs319%2Fa
+[/us/pl/114/113/s319/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs319%2Fb%2F1
+[/us/pl/114/113/s317/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs317%2Fa%2F4
+[/us/pl/114/113/s311/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs311%2Fb
+[/us/pl/114/113/s318/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs318%2Fa
+[/us/pl/114/113/s311/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs311%2Fb
+[/us/pl/114/113/s318/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs318%2Fa
+[/us/pl/114/113/s321/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs321%2Fa%2F3
 [/us/pl/110/246/s15313/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs15313%2Fa
 [/us/pl/110/289/s3032/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs3032%2Fa
 [/us/pl/110/289/s3041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs3041
@@ -1680,6 +1800,20 @@
 [/us/pl/88/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F272
 [/us/pl/88/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F554
 [/us/usc/t26/s318/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs318%2Fa%2F3
+[/us/pl/114/113/s311/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs311%2Fb
+[/us/pl/114/113/s311/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs311%2Fc
+[/us/usc/t26/s355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs355
+[/us/pl/114/113/s312/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs312%2Fb
+[/us/stat/129/3091]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3091
+[/us/pl/114/113/s317/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs317%2Fc
+[/us/stat/129/3094]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3094
+[/us/pl/114/113/s318/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs318%2Fb
+[/us/stat/129/3095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3095
+[/us/pl/114/113/s319/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs319%2Fc
+[/us/stat/129/3096]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3096
+[/us/pl/114/113/s321/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs321%2Fc
+[/us/stat/129/3098]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3098
+[/us/usc/t26/s857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs857
 [/us/pl/110/289/s3071]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs3071
 [/us/stat/122/2902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2902
 [/us/usc/t26/s857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs857

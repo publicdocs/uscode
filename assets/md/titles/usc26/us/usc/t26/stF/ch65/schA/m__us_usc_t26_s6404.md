@@ -115,11 +115,21 @@
 
             (B) ending on the date which is 21 days after the date on which notice described in paragraph (1)(A) is provided by the Secretary.
 
-    (h) __Review of denial of request for abatement of interest__ 
+    (h) __Judicial review of request for abatement of interest__ 
 
         (1) __In general__ 
 
-            The Tax Court shall have jurisdiction over any action brought by a taxpayer who meets the requirements referred to in section 7430(c)(4)(A)(ii) to determine whether the Secretary’s failure to abate interest under this section was an abuse of discretion, and may order an abatement, if such action is brought within 180 days after the date of the mailing of the Secretary’s final determination not to abate such interest.
+        The Tax Court shall have jurisdiction over any action brought by a taxpayer who meets the requirements referred to in section 7430(c)(4)(A)(ii) to determine whether the Secretary’s failure to abate interest under this section was an abuse of discretion, and may order an abatement, if such action is brought—
+
+            (A)
+
+             at any time after the earlier of—
+
+                (i) the date of the mailing of the Secretary’s final determination not to abate such interest, or
+
+                (ii) the date which is 180 days after the date of the filing with the Secretary (in such form as the Secretary may prescribe) of a claim for abatement under this section, and
+
+            (B) not later than the date which is 180 days after the date described in subparagraph (A)(i).
 
         (2) __Special rules__ 
 
@@ -139,13 +149,17 @@
 
         For authority to suspend running of interest, etc. by reason of Presidentially declared disaster or terroristic or military action, see section 7508A.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 792][/us/stat/68A/792]; [Pub. L. 94–455, title XII, § 1212(a)][/us/pl/94/455/s1212/a], title XIX, § 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1712][/us/stat/90/1712], 1834; [Pub. L. 96–589, § 6(b)(2)][/us/pl/96/589/s6/b/2], Dec. 24, 1980, [94 Stat. 3407][/us/stat/94/3407]; [Pub. L. 99–514, title XV, § 1563(a)][/us/pl/99/514/s1563/a], Oct. 22, 1986, [100 Stat. 2762][/us/stat/100/2762]; [Pub. L. 100–647, title I, § 1015(n)][/us/pl/100/647/s1015/n], title VI, § 6229(a), Nov. 10, 1988, [102 Stat. 3572][/us/stat/102/3572], 3733; [Pub. L. 104–168, title III][/us/pl/104/168], §§ 301(a), (b), 302(a), title VII, § 701(c)(3), July 30, 1996, [110 Stat. 1457][/us/stat/110/1457], 1464; [Pub. L. 105–206, title III][/us/pl/105/206], §§ 3305(a), 3309(a), July 22, 1998, [112 Stat. 743][/us/stat/112/743], 745; [Pub. L. 105–277, div. J, title IV, § 4003(e)(2)][/us/pl/105/277/s4003/e/2], Oct. 21, 1998, [112 Stat. 2681–909][/us/stat/112/2681-909]; [Pub. L. 107–134, title I, § 112(d)(1)][/us/pl/107/134/s112/d/1], Jan. 23, 2002, [115 Stat. 2434][/us/stat/115/2434]; [Pub. L. 108–357, title VIII, § 903(a)][/us/pl/108/357/s903/a]–(c), Oct. 22, 2004, [118 Stat. 1652][/us/stat/118/1652]; [Pub. L. 109–135, title III, § 303(b)(1)][/us/pl/109/135/s303/b/1], Dec. 21, 2005, [119 Stat. 2609][/us/stat/119/2609]; [Pub. L. 110–28, title VIII, § 8242(a)][/us/pl/110/28/s8242/a], May 25, 2007, [121 Stat. 200][/us/stat/121/200]; [Pub. L. 113–295, div. A, title II, § 221(a)(111)][/us/pl/113/295/s221/a/111], Dec. 19, 2014, [128 Stat. 4054][/us/stat/128/4054].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 792][/us/stat/68A/792]; [Pub. L. 94–455, title XII, § 1212(a)][/us/pl/94/455/s1212/a], title XIX, § 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1712][/us/stat/90/1712], 1834; [Pub. L. 96–589, § 6(b)(2)][/us/pl/96/589/s6/b/2], Dec. 24, 1980, [94 Stat. 3407][/us/stat/94/3407]; [Pub. L. 99–514, title XV, § 1563(a)][/us/pl/99/514/s1563/a], Oct. 22, 1986, [100 Stat. 2762][/us/stat/100/2762]; [Pub. L. 100–647, title I, § 1015(n)][/us/pl/100/647/s1015/n], title VI, § 6229(a), Nov. 10, 1988, [102 Stat. 3572][/us/stat/102/3572], 3733; [Pub. L. 104–168, title III][/us/pl/104/168], §§ 301(a), (b), 302(a), title VII, § 701(c)(3), July 30, 1996, [110 Stat. 1457][/us/stat/110/1457], 1464; [Pub. L. 105–206, title III][/us/pl/105/206], §§ 3305(a), 3309(a), July 22, 1998, [112 Stat. 743][/us/stat/112/743], 745; [Pub. L. 105–277, div. J, title IV, § 4003(e)(2)][/us/pl/105/277/s4003/e/2], Oct. 21, 1998, [112 Stat. 2681–909][/us/stat/112/2681-909]; [Pub. L. 107–134, title I, § 112(d)(1)][/us/pl/107/134/s112/d/1], Jan. 23, 2002, [115 Stat. 2434][/us/stat/115/2434]; [Pub. L. 108–357, title VIII, § 903(a)][/us/pl/108/357/s903/a]–(c), Oct. 22, 2004, [118 Stat. 1652][/us/stat/118/1652]; [Pub. L. 109–135, title III, § 303(b)(1)][/us/pl/109/135/s303/b/1], Dec. 21, 2005, [119 Stat. 2609][/us/stat/119/2609]; [Pub. L. 110–28, title VIII, § 8242(a)][/us/pl/110/28/s8242/a], May 25, 2007, [121 Stat. 200][/us/stat/121/200]; [Pub. L. 113–295, div. A, title II, § 221(a)(111)][/us/pl/113/295/s221/a/111], Dec. 19, 2014, [128 Stat. 4054][/us/stat/128/4054]; [Pub. L. 114–113, div. Q, title IV, § 421(a)][/us/pl/114/113/s421/a], Dec. 18, 2015, [129 Stat. 3123][/us/stat/129/3123].)
 
  __References in Text__ 
 
     Section 6664(d)(2)(A), referred to in subsec. (g)(2)(E), was redesignated as section 6664(d)(3)(A) by [Pub. L. 111–152, title I, § 1409(c)(2)(A)][/us/pl/111/152/s1409/c/2/A], Mar. 30, 2010, [124 Stat. 1069][/us/stat/124/1069].
 
  __Amendments__ 
+
+    2015—Subsec. (h). [Pub. L. 114–113, § 421(a)(1)][/us/pl/114/113/s421/a/1], substituted “Judicial review” for “Review of denial” in heading.
+
+    Subsec. (h)(1). [Pub. L. 114–113, § 421(a)(2)][/us/pl/114/113/s421/a/2], substituted “if such action is brought—” and subpars. (A) and (B) for “if such action is brought within 180 days after the date of the mailing of the Secretary’s final determination not to abate such interest.”
 
     2014—Subsec. (f)(3). [Pub. L. 113–295][/us/pl/113/295] struck out par. (3). Text read as follows: “Within 180 days after the date of the enactment of this subsection, the Secretary shall prescribe such initial regulations as may be necessary to carry out this subsection.”
 
@@ -196,6 +210,12 @@
     1976—Subsecs. (a), (c). [Pub. L. 94–455, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], struck out “or his delegate” after “Secretary” wherever appearing.
 
     Subsec. (d). [Pub. L. 94–455, § 1212(a)][/us/pl/94/455/s1212/a], added subsec. (d).
+
+ __Effective Date of 2015 Amendment__ 
+
+[Pub. L. 114–113, div. Q, title IV, § 421(b)][/us/pl/114/113/s421/b], Dec. 18, 2015, [129 Stat. 3123][/us/stat/129/3123], provided that: 
+
+> “The amendments made by this section \[amending this section\] shall apply to claims for abatement of interest filed with the Secretary of the Treasury after the date of the enactment of this Act \[Dec. 18, 2015\].”
 
  __Effective Date of 2014 Amendment__ 
 
@@ -370,8 +390,12 @@
 [/us/stat/121/200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F200
 [/us/pl/113/295/s221/a/111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F111
 [/us/stat/128/4054]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4054
+[/us/pl/114/113/s421/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs421%2Fa
+[/us/stat/129/3123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3123
 [/us/pl/111/152/s1409/c/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2Fs1409%2Fc%2F2%2FA
 [/us/stat/124/1069]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1069
+[/us/pl/114/113/s421/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs421%2Fa%2F1
+[/us/pl/114/113/s421/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs421%2Fa%2F2
 [/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
 [/us/pl/110/28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F28
 [/us/pl/109/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135
@@ -397,6 +421,8 @@
 [/us/pl/96/589]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F589
 [/us/pl/94/455/s1906/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FA
 [/us/pl/94/455/s1212/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1212%2Fa
+[/us/pl/114/113/s421/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs421%2Fb
+[/us/stat/129/3123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3123
 [/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
 [/us/pl/113/295/s221/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fb
 [/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1

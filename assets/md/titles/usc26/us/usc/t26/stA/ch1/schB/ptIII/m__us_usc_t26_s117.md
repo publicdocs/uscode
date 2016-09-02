@@ -45,9 +45,11 @@
 
         Paragraph (1) shall not apply to any amount received by an individual under—
 
-            (A) the National Health Service Corps Scholarship Program under section 338A(g)(1)(A) of the Public Health Service Act, or
+            (A) the National Health Service Corps Scholarship Program under section 338A(g)(1)(A) of the Public Health Service Act,
 
-            (B) the Armed Forces Health Professions Scholarship and Financial Assistance program under subchapter I of chapter 105 of title 10, United States Code.
+            (B) the Armed Forces Health Professions Scholarship and Financial Assistance program under subchapter I of chapter 105 of title 10, United States Code, or
+
+            (C) a comprehensive student work-learning-service program (as defined in section 448(e) of the Higher Education Act of 1965) operated by a work college (as defined in such section).
 
     (d) __Qualified tuition reduction__ 
 
@@ -73,13 +75,17 @@
 
             In the case of the education of an individual who is a graduate student at an educational organization described in section 170(b)(1)(A)(ii) and who is engaged in teaching or research activities for such organization, paragraph (2) shall be applied as if it did not contain the phrase “(below the graduate level)”.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 38][/us/stat/68A/38]; [Pub. L. 87–256, § 110(a)][/us/pl/87/256/s110/a], Sept. 21, 1961, [75 Stat. 535][/us/stat/75/535]; [Pub. L. 94–455, title XIX, § 1901(b)(8)(A)][/us/pl/94/455/s1901/b/8/A], (c)(3), Oct. 4, 1976, [90 Stat. 1794][/us/stat/90/1794], 1803; [Pub. L. 96–541, § 5(a)(1)][/us/pl/96/541/s5/a/1], Dec. 17, 1980, [94 Stat. 3205][/us/stat/94/3205]; [Pub. L. 98–369, div. A, title V, § 532(a)][/us/pl/98/369/s532/a], July 18, 1984, [98 Stat. 887][/us/stat/98/887]; [Pub. L. 99–514, title I, § 123(a)][/us/pl/99/514/s123/a], title XI, §§ 1114(b)(2), 1151(g)(2), Oct. 22, 1986, [100 Stat. 2112][/us/stat/100/2112], 2450, 2506; [Pub. L. 100–647, title I, § 1011B(a)(31)(B)][/us/pl/100/647/s1011B/a/31/B], title IV, § 4001(b)(2), Nov. 10, 1988, [102 Stat. 3488][/us/stat/102/3488], 3643; [Pub. L. 101–140, title II, § 203(a)(1)][/us/pl/101/140/s203/a/1], (2), Nov. 8, 1989, [103 Stat. 830][/us/stat/103/830]; [Pub. L. 104–188, title I, § 1703(n)(14)][/us/pl/104/188/s1703/n/14], Aug. 20, 1996, [110 Stat. 1878][/us/stat/110/1878]; [Pub. L. 107–16, title IV, § 413(a)][/us/pl/107/16/s413/a], June 7, 2001, [115 Stat. 64][/us/stat/115/64].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 38][/us/stat/68A/38]; [Pub. L. 87–256, § 110(a)][/us/pl/87/256/s110/a], Sept. 21, 1961, [75 Stat. 535][/us/stat/75/535]; [Pub. L. 94–455, title XIX, § 1901(b)(8)(A)][/us/pl/94/455/s1901/b/8/A], (c)(3), Oct. 4, 1976, [90 Stat. 1794][/us/stat/90/1794], 1803; [Pub. L. 96–541, § 5(a)(1)][/us/pl/96/541/s5/a/1], Dec. 17, 1980, [94 Stat. 3205][/us/stat/94/3205]; [Pub. L. 98–369, div. A, title V, § 532(a)][/us/pl/98/369/s532/a], July 18, 1984, [98 Stat. 887][/us/stat/98/887]; [Pub. L. 99–514, title I, § 123(a)][/us/pl/99/514/s123/a], title XI, §§ 1114(b)(2), 1151(g)(2), Oct. 22, 1986, [100 Stat. 2112][/us/stat/100/2112], 2450, 2506; [Pub. L. 100–647, title I, § 1011B(a)(31)(B)][/us/pl/100/647/s1011B/a/31/B], title IV, § 4001(b)(2), Nov. 10, 1988, [102 Stat. 3488][/us/stat/102/3488], 3643; [Pub. L. 101–140, title II, § 203(a)(1)][/us/pl/101/140/s203/a/1], (2), Nov. 8, 1989, [103 Stat. 830][/us/stat/103/830]; [Pub. L. 104–188, title I, § 1703(n)(14)][/us/pl/104/188/s1703/n/14], Aug. 20, 1996, [110 Stat. 1878][/us/stat/110/1878]; [Pub. L. 107–16, title IV, § 413(a)][/us/pl/107/16/s413/a], June 7, 2001, [115 Stat. 64][/us/stat/115/64]; [Pub. L. 114–113, div. Q, title III, § 301(a)][/us/pl/114/113/s301/a], Dec. 18, 2015, [129 Stat. 3086][/us/stat/129/3086].)
 
  __References in Text__ 
 
     Section 338A(g)(1)(A) of the Public Health Service Act, referred to in subsec. (c)(2)(A), is classified to section 254l(g)(1)(A) of Title 42, The Public Health and Welfare.
 
+    Section 448(e) of the Higher Education Act of 1965, referred to in subsec. (c)(2)(C), is classified to [section 2756b(e) of Title 42][/us/usc/t42/s2756b/e], The Public Health and Welfare.
+
  __Amendments__ 
+
+    2015—Subsec. (c)(2)(C). [Pub. L. 114–113][/us/pl/114/113] added subpar. (C).
 
     2001—Subsec. (c). [Pub. L. 107–16][/us/pl/107/16] designated existing provisions as par. (1), inserted par. heading, substituted “Except as provided in paragraph (2), subsections (a)” for “Subsections (a)”, and added par. (2).
 
@@ -136,6 +142,12 @@
     Subsec. (b)(2)(B). [Pub. L. 94–455, § 1901(b)(8)(A)][/us/pl/94/455/s1901/b/8/A], substituted “educational organization described in section 170(b)(1)(A)(ii)” for “educational institution (as defined in section 151(e)(4))” after “degree at an”.
 
     1961—Subsec. (b)(2)(A). [Pub. L. 87–256][/us/pl/87/256] included cases where the grantor of the scholarship or fellowship grant is a foreign government, an international organization, or a binational or multinational educational and cultural foundation or commission created or continued pursuant to the Mutual Educational and Cultural Exchange Act of 1961.
+
+ __Effective Date of 2015 Amendment__ 
+
+[Pub. L. 114–113, div. Q, title III, § 301(b)][/us/pl/114/113/s301/b], Dec. 18, 2015, [129 Stat. 3086][/us/stat/129/3086], provided that: 
+
+> “The amendments made by this section \[amending this section\] shall apply to amounts received in taxable years beginning after the date of the enactment of this Act \[Dec. 18, 2015\].”
 
  __Effective Date of 2001 Amendment__ 
 
@@ -282,6 +294,10 @@
 [/us/stat/110/1878]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1878
 [/us/pl/107/16/s413/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2Fs413%2Fa
 [/us/stat/115/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F64
+[/us/pl/114/113/s301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs301%2Fa
+[/us/stat/129/3086]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3086
+[/us/usc/t42/s2756b/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2756b%2Fe
+[/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
 [/us/pl/107/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16
 [/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
 [/us/pl/101/140/s203/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F140%2Fs203%2Fa%2F2
@@ -303,6 +319,8 @@
 [/us/pl/94/455/s1901/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1901%2Fc%2F3
 [/us/pl/94/455/s1901/b/8/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1901%2Fb%2F8%2FA
 [/us/pl/87/256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F256
+[/us/pl/114/113/s301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs301%2Fb
+[/us/stat/129/3086]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3086
 [/us/pl/107/16/s413/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2Fs413%2Fb
 [/us/stat/115/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F64
 [/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188

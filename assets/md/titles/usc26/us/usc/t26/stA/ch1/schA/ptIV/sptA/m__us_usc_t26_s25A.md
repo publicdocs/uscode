@@ -219,7 +219,7 @@
 
     (i) __American opportunity tax credit__ 
 
-    In the case of any taxable year beginning after 2008 and before 2018—
+    In the case of any taxable year beginning after 2008—
 
         (1) __Increase in credit__ 
 
@@ -255,15 +255,45 @@
 
             40 percent of so much of the credit allowed under subsection (a) as is attributable to the Hope Scholarship Credit (determined after application of paragraph (4) and without regard to this paragraph and section 26(a)) shall be treated as a credit allowable under subpart C (and not allowed under subsection (a)). The preceding sentence shall not apply to any taxpayer for any taxable year if such taxpayer is a child to whom subsection (g) of section 1 applies for such taxable year.
 
-        (6) __Coordination with midwestern disaster area benefits__ 
+        (6) __Identification numbers__ 
 
-            In the case of a taxpayer with respect to whom section 702(a)(1)(B) of the Heartland Disaster Tax Relief Act of 2008 applies for any taxable year, such taxpayer may elect to waive the application of this subsection to such taxpayer for such taxable year.
+            (A) __Student__ 
+
+                The requirements of subsection (g)(1) shall not be treated as met with respect to the Hope Scholarship Credit unless the individual’s taxpayer identification number was issued on or before the due date for filing the return of tax for the taxable year.
+
+            (B) __Taxpayer__ 
+
+                No Hope Scholarship Credit shall be allowed under this section if the identifying number of the taxpayer was issued after the due date for filing the return for the taxable year.
+
+            (C) __Institution__ 
+
+                No Hope Scholarship Credit shall be allowed under this section unless the taxpayer includes the employer identification number of any institution to which qualified tuition and related expenses were paid with respect to the individual.
+
+        (7) __Restrictions on taxpayers who improperly claimed credit in prior year__ 
+
+            (A) __Taxpayers making prior fraudulent or reckless claims__ 
+
+                (i) __In general__ 
+
+                    No credit shall be allowed under this section for any taxable year in the disallowance period.
+
+                (ii) __Disallowance period__ 
+
+                For purposes of clause (i), the disallowance period is—
+
+                    (I) the period of 10 taxable years after the most recent taxable year for which there was a final determination that the taxpayer’s claim of credit under this section was due to fraud, and
+
+                    (II) the period of 2 taxable years after the most recent taxable year for which there was a final determination that the taxpayer’s claim of credit under this section was due to reckless or intentional disregard of rules and regulations (but not due to fraud).
+
+            (B) __Taxpayers making improper prior claims__ 
+
+                In the case of a taxpayer who is denied credit under this section for any taxable year as a result of the deficiency procedures under subchapter B of chapter 63, no credit shall be allowed under this section for any subsequent taxable year unless the taxpayer provides such information as the Secretary may require to demonstrate eligibility for such credit.
 
     (j) __Regulations__ 
 
         The Secretary may prescribe such regulations as may be necessary or appropriate to carry out this section, including regulations providing for a recapture of the credit allowed under this section in cases where there is a refund in a subsequent taxable year of any amount which was taken into account in determining the amount of such credit.
 
-(Added [Pub. L. 105–34, title II, § 201(a)][/us/pl/105/34/s201/a], Aug. 5, 1997, [111 Stat. 799][/us/stat/111/799]; amended [Pub. L. 107–16, title IV, § 401(g)(2)(A)][/us/pl/107/16/s401/g/2/A], June 7, 2001, [115 Stat. 59][/us/stat/115/59]; [Pub. L. 111–5, div. B, title I, § 1004(a)][/us/pl/111/5/s1004/a], Feb. 17, 2009, [123 Stat. 313][/us/stat/123/313]; [Pub. L. 111–148, title X, § 10909(b)(2)(C)][/us/pl/111/148/s10909/b/2/C], (c), Mar. 23, 2010, [124 Stat. 1023][/us/stat/124/1023]; [Pub. L. 111–312, title I][/us/pl/111/312], §§ 101(b)(1), 103(a)(1), Dec. 17, 2010, [124 Stat. 3298][/us/stat/124/3298], 3299; [Pub. L. 112–240, title I][/us/pl/112/240], §§ 103(a)(1), 104(c)(2)(D), Jan. 2, 2013, [126 Stat. 2319][/us/stat/126/2319], 2322; [Pub. L. 113–295, div. A, title II, § 209(b)][/us/pl/113/295/s209/b], Dec. 19, 2014, [128 Stat. 4028][/us/stat/128/4028]; [Pub. L. 114–27, title VIII, § 804(a)][/us/pl/114/27/s804/a], June 29, 2015, [129 Stat. 415][/us/stat/129/415].)
+(Added [Pub. L. 105–34, title II, § 201(a)][/us/pl/105/34/s201/a], Aug. 5, 1997, [111 Stat. 799][/us/stat/111/799]; amended [Pub. L. 107–16, title IV, § 401(g)(2)(A)][/us/pl/107/16/s401/g/2/A], June 7, 2001, [115 Stat. 59][/us/stat/115/59]; [Pub. L. 111–5, div. B, title I, § 1004(a)][/us/pl/111/5/s1004/a], Feb. 17, 2009, [123 Stat. 313][/us/stat/123/313]; [Pub. L. 111–148, title X, § 10909(b)(2)(C)][/us/pl/111/148/s10909/b/2/C], (c), Mar. 23, 2010, [124 Stat. 1023][/us/stat/124/1023]; [Pub. L. 111–312, title I][/us/pl/111/312], §§ 101(b)(1), 103(a)(1), Dec. 17, 2010, [124 Stat. 3298][/us/stat/124/3298], 3299; [Pub. L. 112–240, title I][/us/pl/112/240], §§ 103(a)(1), 104(c)(2)(D), Jan. 2, 2013, [126 Stat. 2319][/us/stat/126/2319], 2322; [Pub. L. 113–295, div. A, title II, § 209(b)][/us/pl/113/295/s209/b], Dec. 19, 2014, [128 Stat. 4028][/us/stat/128/4028]; [Pub. L. 114–27, title VIII, § 804(a)][/us/pl/114/27/s804/a], June 29, 2015, [129 Stat. 415][/us/stat/129/415]; [Pub. L. 114–113, div. Q, title I, § 102(a)][/us/pl/114/113/s102/a], title II, §§ 206(a), 208(a)(2), 211(a), Dec. 18, 2015, [129 Stat. 3044][/us/stat/129/3044], 3082, 3083, 3085.)
 
  __Inflation Adjusted Items for Certain Years__ 
 
@@ -275,13 +305,21 @@
 
     The Higher Education Act of 1965, referred to in subsec. (f)(2)(B), is [Pub. L. 89–329][/us/pl/89/329], Nov. 8, 1965, [79 Stat. 1219][/us/stat/79/1219], as amended. Title IV of the Act is classified generally to subchapter IV (§ 1070 et seq.) of chapter 28 of Title 20, Education, and part C (§ 2751 et seq.) of subchapter I of chapter 34 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of Title 20][/us/usc/t20/s1001] and Tables.
 
-    Section 702(a)(1)(B) of the Heartland Disaster Tax Relief Act of 2008, referred to in subsec. (i)(6), is [section 702(a)(1)(B) of Pub. L. 110–343][/us/pl/110/343/s702/a/1/B], div. C, title VII, Oct. 3, 2008, [122 Stat. 3912][/us/stat/122/3912], which is not classified to the Code.
-
  __Amendments__ 
 
-    Subsec. (g)(3)(C). [Pub. L. 114–27, § 804(a)(2)][/us/pl/114/27/s804/a/2], added subpar. (C).
+    2015—Subsec. (g)(3)(C). [Pub. L. 114–27, § 804(a)(2)][/us/pl/114/27/s804/a/2], added subpar. (C).
 
     Subsec. (g)(8). [Pub. L. 114–27, § 804(a)(1)][/us/pl/114/27/s804/a/1], added par. (8).
+
+    Subsec. (i). [Pub. L. 114–113, § 102(a)][/us/pl/114/113/s102/a], struck out “and before 2018” after “2008” in introductory provisions.
+
+    Subsec. (i)(6). [Pub. L. 114–113, § 206(a)(2)][/us/pl/114/113/s206/a/2], added par. (6).
+
+    [Pub. L. 114–113, § 206(a)(1)][/us/pl/114/113/s206/a/1], struck out par. (6). Text read as follows: “In the case of a taxpayer with respect to whom section 702(a)(1)(B) of the Heartland Disaster Tax Relief Act of 2008 applies for any taxable year, such taxpayer may elect to waive the application of this subsection to such taxpayer for such taxable year.”
+
+    Subsec. (i)(6)(C). [Pub. L. 114–113, § 211(a)][/us/pl/114/113/s211/a], added subpar. (C).
+
+    Subsec. (i)(7). [Pub. L. 114–113, § 208(a)(2)][/us/pl/114/113/s208/a/2], added par. (7).
 
     2014—Subsec. (i)(3). [Pub. L. 113–295][/us/pl/113/295] substituted “For purposes of determining the Hope Scholarship Credit, subsection (f)(1)(A) shall be applied” for “Subsection (f)(1)(A) shall be applied”.
 
@@ -302,6 +340,30 @@
     “(2) Coordination with exclusions.—An election under this subsection shall not take effect with respect to an individual for any taxable year if any portion of any distribution during such taxable year from an education individual retirement account is excluded from gross income under section 530(d)(2).”
 
  __Effective Date of 2015 Amendment__ 
+
+[Pub. L. 114–113, div. Q, title I, § 102(c)][/us/pl/114/113/s102/c], Dec. 18, 2015, [129 Stat. 3044][/us/stat/129/3044], provided that: 
+
+> “The amendments made by this section \[amending this section and provisions set out as a note below\] shall apply to taxable years beginning after the date of the enactment of this Act \[Dec. 18, 2015\].”
+
+[Pub. L. 114–113, div. Q, title II, § 206(b)][/us/pl/114/113/s206/b], Dec. 18, 2015, [129 Stat. 3082][/us/stat/129/3082], provided that:
+
+>     “(1)  __In general__  __.—__ 
+
+>     Except as provided in paragraph (2), the amendment made by subsection (a)(2) \[amending this section\] shall apply to any return of tax, and any amendment or supplement to any return of tax, which is filed after the date of the enactment of this Act \[Dec. 18, 2015\].
+
+>     “(2)  __Exception for timely-filed 2015 returns__  __.—__ 
+
+>     The amendment made by subsection (a)(2) shall not apply to any return of tax (other than an amendment or supplement to any return of tax) for any taxable year which includes the date of the enactment of this Act if such return is filed on or before the due date for such return of tax.
+
+>     “(3)  __Repeal of deadwood__  __.—__ 
+
+>     The amendment made by subsection (a)(1) \[amending this section\] shall take effect on the date of the enactment of this Act.”
+
+    Amendment by [section 208(a)(2) of Pub. L. 114–113][/us/pl/114/113/s208/a/2] applicable to taxable years beginning after Dec. 31, 2015, see [section 208(c) of Pub. L. 114–113][/us/pl/114/113/s208/c], set out as a note under [section 24 of this title][/us/usc/t26/s24].
+
+[Pub. L. 114–113, div. Q, title II, § 211(c)(1)][/us/pl/114/113/s211/c/1], Dec. 18, 2015, [129 Stat. 3085][/us/stat/129/3085], provided that: 
+
+> “The amendments made by subsection (a) \[amending this section\] shall apply to taxable years beginning after December 31, 2015.”
 
 [Pub. L. 114–27, title VIII, § 804(d)][/us/pl/114/27/s804/d], June 29, 2015, [129 Stat. 416][/us/stat/129/416], provided that: 
 
@@ -349,17 +411,17 @@
 
  __Treatment of Possessions__ 
 
-[Pub. L. 111–5, div. B, title I, § 1004(c)][/us/pl/111/5/s1004/c], Feb. 17, 2009, [123 Stat. 314][/us/stat/123/314], as amended by [Pub. L. 111–312, title I, § 103(a)(2)][/us/pl/111/312/s103/a/2], Dec. 17, 2010, [124 Stat. 3299][/us/stat/124/3299]; [Pub. L. 112–240, title I, § 103(a)(2)][/us/pl/112/240/s103/a/2], Jan. 2, 2013, [126 Stat. 2319][/us/stat/126/2319], provided that:
+[Pub. L. 111–5, div. B, title I, § 1004(c)][/us/pl/111/5/s1004/c], Feb. 17, 2009, [123 Stat. 314][/us/stat/123/314], as amended by [Pub. L. 111–312, title I, § 103(a)(2)][/us/pl/111/312/s103/a/2], Dec. 17, 2010, [124 Stat. 3299][/us/stat/124/3299]; [Pub. L. 112–240, title I, § 103(a)(2)][/us/pl/112/240/s103/a/2], Jan. 2, 2013, [126 Stat. 2319][/us/stat/126/2319]; [Pub. L. 114–113, div. Q, title I, § 102(b)][/us/pl/114/113/s102/b], Dec. 18, 2015, [129 Stat. 3044][/us/stat/129/3044], provided that:
 
 >     “(1) __Payments to possessions.—__ 
 
 >         “(A)  __Mirror code possession__  __.—__ 
 
->         The Secretary of the Treasury shall pay to each possession of the United States with a mirror code tax system amounts equal to the loss to that possession by reason of the application of section 25A(i)(6) \[now 25A(i)(5)\] of the Internal Revenue Code of 1986 (as added by this section) with respect to taxable years beginning after 2008 and before 2018. Such amounts shall be determined by the Secretary of the Treasury based on information provided by the government of the respective possession.
+>         The Secretary of the Treasury shall pay to each possession of the United States with a mirror code tax system amounts equal to the loss to that possession by reason of the application of section 25A(i)(6) \[now 25A(i)(5)\] of the Internal Revenue Code of 1986 (as added by this section) with respect to taxable years beginning after 2008. Such amounts shall be determined by the Secretary of the Treasury based on information provided by the government of the respective possession.
 
 >         “(B)  __Other possessions__  __.—__ 
 
->         The Secretary of the Treasury shall pay to each possession of the United States which does not have a mirror code tax system amounts estimated by the Secretary of the Treasury as being equal to the aggregate benefits that would have been provided to residents of such possession by reason of the application of section 25A(i)(6) \[now 25A(i)(5)\] of such Code (as so added) for taxable years beginning after 2008 and before 2018 if a mirror code tax system had been in effect in such possession. The preceding sentence shall not apply with respect to any possession of the United States unless such possession has a plan, which has been approved by the Secretary of the Treasury, under which such possession will promptly distribute such payments to the residents of such possession.
+>         The Secretary of the Treasury shall pay to each possession of the United States which does not have a mirror code tax system amounts estimated by the Secretary of the Treasury as being equal to the aggregate benefits that would have been provided to residents of such possession by reason of the application of section 25A(i)(6) \[now 25A(i)(5)\] of such Code (as so added) for taxable years beginning after 2008 if a mirror code tax system had been in effect in such possession. The preceding sentence shall not apply with respect to any possession of the United States unless such possession has a plan, which has been approved by the Secretary of the Treasury, under which such possession will promptly distribute such payments to the residents of such possession.
 
 >     “(2)  __Coordination with credit allowed against united states income taxes__  __.—__ 
 
@@ -378,6 +440,8 @@
 >         “(C)  __Treatment of payments__  __.—__ 
 
 >         For purposes of [section 1324(b)(2) of title 31][/us/usc/t31/s1324/b/2], United States Code, the payments under this subsection shall be treated in the same manner as a refund due from the credit allowed under section 25A of the Internal Revenue Code of 1986 by reason of subsection (i)(6) \[now (i)(5)\] of such section (as added by this section).”
+
+    \[Amendments by [Pub. L. 112–240, § 103(a)(2)][/us/pl/112/240/s103/a/2], and [Pub. L. 114–113, § 102(b)][/us/pl/114/113/s102/b], were executed as the probable intent of Congress to section 1004(c)(1) of the American Recovery and Reinvestment Tax Act of 2009, set out above, which act is title I of div. B of [Pub. L. 111–5][/us/pl/111/5], notwithstanding directory language amending section 1004(c)(1) of division B of the American Recovery and Reinvestment Tax Act of 2009.\]
 
 ----------
 
@@ -404,15 +468,20 @@
 [/us/stat/128/4028]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4028
 [/us/pl/114/27/s804/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27%2Fs804%2Fa
 [/us/stat/129/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F415
+[/us/pl/114/113/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs102%2Fa
+[/us/stat/129/3044]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3044
 [/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
 [/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
 [/us/pl/89/329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329
 [/us/stat/79/1219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1219
 [/us/usc/t20/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1001
-[/us/pl/110/343/s702/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs702%2Fa%2F1%2FB
-[/us/stat/122/3912]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3912
 [/us/pl/114/27/s804/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27%2Fs804%2Fa%2F2
 [/us/pl/114/27/s804/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27%2Fs804%2Fa%2F1
+[/us/pl/114/113/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs102%2Fa
+[/us/pl/114/113/s206/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs206%2Fa%2F2
+[/us/pl/114/113/s206/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs206%2Fa%2F1
+[/us/pl/114/113/s211/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs211%2Fa
+[/us/pl/114/113/s208/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs208%2Fa%2F2
 [/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
 [/us/pl/112/240/s103/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs103%2Fa%2F1
 [/us/pl/112/240/s104/c/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs104%2Fc%2F2%2FD
@@ -421,6 +490,15 @@
 [/us/pl/111/312/s101/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F312%2Fs101%2Fb%2F1
 [/us/pl/111/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5
 [/us/pl/107/16/s401/g/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2Fs401%2Fg%2F2%2FA
+[/us/pl/114/113/s102/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs102%2Fc
+[/us/stat/129/3044]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3044
+[/us/pl/114/113/s206/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs206%2Fb
+[/us/stat/129/3082]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3082
+[/us/pl/114/113/s208/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs208%2Fa%2F2
+[/us/pl/114/113/s208/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs208%2Fc
+[/us/usc/t26/s24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs24
+[/us/pl/114/113/s211/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs211%2Fc%2F1
+[/us/stat/129/3085]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3085
 [/us/pl/114/27/s804/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27%2Fs804%2Fd
 [/us/stat/129/416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F416
 [/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
@@ -456,6 +534,11 @@
 [/us/stat/124/3299]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3299
 [/us/pl/112/240/s103/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs103%2Fa%2F2
 [/us/stat/126/2319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2319
+[/us/pl/114/113/s102/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs102%2Fb
+[/us/stat/129/3044]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3044
 [/us/usc/t31/s1324/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1324%2Fb%2F2
+[/us/pl/112/240/s103/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs103%2Fa%2F2
+[/us/pl/114/113/s102/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs102%2Fb
+[/us/pl/111/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5
 
 

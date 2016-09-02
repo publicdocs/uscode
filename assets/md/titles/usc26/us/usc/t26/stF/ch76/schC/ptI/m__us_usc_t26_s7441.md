@@ -15,11 +15,13 @@
 
 ## § 7441. Status
 
-    There is hereby established, under article I of the Constitution of the United States, a court of record to be known as the United States Tax Court. The members of the Tax Court shall be the chief judge and the judges of the Tax Court.
+    There is hereby established, under article I of the Constitution of the United States, a court of record to be known as the United States Tax Court. The members of the Tax Court shall be the chief judge and the judges of the Tax Court. The Tax Court is not an agency of, and shall be independent of, the executive branch of the Government.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 879][/us/stat/68A/879]; [Pub. L. 91–172, title IX, § 951][/us/pl/91/172/s951], Dec. 30, 1969, [83 Stat. 730][/us/stat/83/730].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 879][/us/stat/68A/879]; [Pub. L. 91–172, title IX, § 951][/us/pl/91/172/s951], Dec. 30, 1969, [83 Stat. 730][/us/stat/83/730]; [Pub. L. 114–113, div. Q, title IV, § 441][/us/pl/114/113/s441], Dec. 18, 2015, [129 Stat. 3126][/us/stat/129/3126].)
 
  __Amendments__ 
+
+    2015—[Pub. L. 114–113][/us/pl/114/113] inserted at end “The Tax Court is not an agency of, and shall be independent of, the executive branch of the Government.”
 
     1969—[Pub. L. 91–172][/us/pl/91/172] substituted provisions establishing Tax Court as a Constitutional court, and enumerating the members that comprise its bench, for provisions continuing the Board of Tax Appeals, known as the Tax Court, as an independent agency in the Executive Branch of Government and enumerating the members that comprise its bench.
 
@@ -52,6 +54,9 @@
 [/us/stat/68A/879]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F879
 [/us/pl/91/172/s951]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2Fs951
 [/us/stat/83/730]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F730
+[/us/pl/114/113/s441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs441
+[/us/stat/129/3126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3126
+[/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
 [/us/pl/91/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172
 [/us/pl/91/172/s962/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2Fs962%2Fa
 [/us/stat/83/736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F736

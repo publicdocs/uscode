@@ -123,7 +123,17 @@
 
                 Under regulations prescribed by the Secretary, principles similar to the principles of subparagraph (A) shall apply to a group of persons under common control where 1 or more of such persons is not a corporation.
 
-(Added [Pub. L. 85–859, title II, § 201][/us/pl/85/859/s201], Sept. 2, 1958, [72 Stat. 1335][/us/stat/72/1335]; amended [Pub. L. 94–455, title XIX][/us/pl/94/455], §§ 1905(a)(6), (b)(2)(E)(iii), 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1819][/us/stat/90/1819], 1822, 1834; [Pub. L. 96–39, title VIII][/us/pl/96/39], §§ 804(b), 807(a)(9), July 26, 1979, [93 Stat. 274][/us/stat/93/274], 281; [Pub. L. 98–369, div. A, title I, § 27(c)(1)][/us/pl/98/369/s27/c/1], July 18, 1984, [98 Stat. 509][/us/stat/98/509]; [Pub. L. 99–509, title VIII, § 8011(b)(1)][/us/pl/99/509/s8011/b/1], Oct. 21, 1986, [100 Stat. 1952][/us/stat/100/1952]; [Pub. L. 99–514, title XVIII, § 1801(c)(1)][/us/pl/99/514/s1801/c/1], Oct. 22, 1986, [100 Stat. 2786][/us/stat/100/2786]; [Pub. L. 100–647, title II, § 2003(b)(1)(A)][/us/pl/100/647/s2003/b/1/A], (B), Nov. 10, 1988, [102 Stat. 3598][/us/stat/102/3598]; [Pub. L. 101–508, title XI][/us/pl/101/508], §§ 11201(b)(3), 11704(a)(21), Nov. 5, 1990, [104 Stat. 1388–416][/us/stat/104/1388-416], 1388–519; [Pub. L. 103–465, title I, § 136(c)(5)][/us/pl/103/465/s136/c/5], title VII, § 712(b), Dec. 8, 1994, [108 Stat. 4842][/us/stat/108/4842], 5000; [Pub. L. 104–188, title I, § 1702(b)(6)][/us/pl/104/188/s1702/b/6], Aug. 20, 1996, [110 Stat. 1869][/us/stat/110/1869]; [Pub. L. 109–59, title XI, § 11127(a)][/us/pl/109/59/s11127/a], (b), Aug. 10, 2005, [119 Stat. 1958][/us/stat/119/1958], 1959.)
+(Added [Pub. L. 85–859, title II, § 201][/us/pl/85/859/s201], Sept. 2, 1958, [72 Stat. 1335][/us/stat/72/1335]; amended [Pub. L. 94–455, title XIX][/us/pl/94/455], §§ 1905(a)(6), (b)(2)(E)(iii), 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1819][/us/stat/90/1819], 1822, 1834; [Pub. L. 96–39, title VIII][/us/pl/96/39], §§ 804(b), 807(a)(9), July 26, 1979, [93 Stat. 274][/us/stat/93/274], 281; [Pub. L. 98–369, div. A, title I, § 27(c)(1)][/us/pl/98/369/s27/c/1], July 18, 1984, [98 Stat. 509][/us/stat/98/509]; [Pub. L. 99–509, title VIII, § 8011(b)(1)][/us/pl/99/509/s8011/b/1], Oct. 21, 1986, [100 Stat. 1952][/us/stat/100/1952]; [Pub. L. 99–514, title XVIII, § 1801(c)(1)][/us/pl/99/514/s1801/c/1], Oct. 22, 1986, [100 Stat. 2786][/us/stat/100/2786]; [Pub. L. 100–647, title II, § 2003(b)(1)(A)][/us/pl/100/647/s2003/b/1/A], (B), Nov. 10, 1988, [102 Stat. 3598][/us/stat/102/3598]; [Pub. L. 101–508, title XI][/us/pl/101/508], §§ 11201(b)(3), 11704(a)(21), Nov. 5, 1990, [104 Stat. 1388–416][/us/stat/104/1388-416], 1388–519; [Pub. L. 103–465, title I, § 136(c)(5)][/us/pl/103/465/s136/c/5], title VII, § 712(b), Dec. 8, 1994, [108 Stat. 4842][/us/stat/108/4842], 5000; [Pub. L. 104–188, title I, § 1702(b)(6)][/us/pl/104/188/s1702/b/6], Aug. 20, 1996, [110 Stat. 1869][/us/stat/110/1869]; [Pub. L. 109–59, title XI, § 11127(a)][/us/pl/109/59/s11127/a], (b), Aug. 10, 2005, [119 Stat. 1958][/us/stat/119/1958], 1959; [Pub. L. 114–113, div. Q, title III, § 332(a)][/us/pl/114/113/s332/a], Dec. 18, 2015, [129 Stat. 3104][/us/stat/129/3104].)
+
+ __Amendment of Subsection (d)(4)__ 
+
+    [Pub. L. 114–113, title III, § 332(a)][/us/pl/114/113/s332/a], (c), Dec. 18, 2015, [129 Stat. 3104][/us/stat/129/3104], 3106, provided that, applicable to any calendar quarters beginning more than 1 year after Dec. 18, 2015, subsection (d)(4) is amended:
+
+    (1) in subparagraph (A), by designating existing provisions as clause (i), inserting heading “More than $1,000 and not more than $50,000 in taxes”, striking out “In the case of” and inserting “Except as provided in clause (ii), in the case of”, striking out “under bond for deferred payment”, and adding clause (ii); and
+
+    (2) in subparagraph (B), by designating existing provisions as clause (i), inserting heading “Exceeds $50,000 limit”, striking out “Subparagraph (A)” and inserting “Subparagraph (A)(i)”, and adding clause (ii).
+
+    See 2015 Amendment notes below.
 
  __Prior Provisions__ 
 
@@ -132,6 +142,10 @@
     Provisions similar to those comprising subsec. (d) of this section were contained in former section 5001(c), [act Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 597][/us/stat/68A/597], prior to the general revision of this chapter by [Pub. L. 85–859][/us/pl/85/859].
 
  __Amendments__ 
+
+    2015—Subsec. (d)(4)(A). [Pub. L. 114–113, § 332(a)(1)][/us/pl/114/113/s332/a/1], designated existing provisions as cl. (i), inserted heading, substituted “Except as provided in clause (ii), in the case of” for “In the case of”, struck out “under bond for deferred payment” before “shall be the 14th day”, and added cl. (ii).
+
+    Subsec. (d)(4)(B). [Pub. L. 114–113, § 332(a)(2)][/us/pl/114/113/s332/a/2], designated existing provisions as cl. (i), inserted heading, substituted “Subparagraph (A)(i)” for “Subparagraph (A)”, and added cl. (ii).
 
     2005—Subsec. (d)(4) to (6). [Pub. L. 109–59][/us/pl/109/59] added par. (4), redesignated former pars. (4) and (5) as (5) and (6), respectively, and in par. (6) substituted “paragraph (5)” for “paragraph (4)”.
 
@@ -166,6 +180,12 @@
     Subsec. (c). [Pub. L. 94–455, § 1905(a)(6)(C)][/us/pl/94/455/s1905/a/6/C], substituted the import duties provision for provision respecting applicability of other provisions of law and reading “All administrative and penalty provisions of this title, insofar as applicable, shall apply to the collection of any tax which the Secretary or his delegate determines or prescribes shall be collected in any manner provided in this section.”
 
     Subsec. (d). [Pub. L. 94–455, § 1905(b)(2)(E)(iii)][/us/pl/94/455/s1905/b/2/E/iii], struck out subsec. (d) which provided cross reference to section 5689 for penalty and forfeiture for tampering with a stamp machine.
+
+ __Effective Date of 2015 Amendment__ 
+
+[Pub. L. 114–113, div. Q, title III, § 332(c)][/us/pl/114/113/s332/c], Dec. 18, 2015, [129 Stat. 3106][/us/stat/129/3106], provided that: 
+
+> “The amendments made by this section \[amending this section and sections 5173, 5351, 5401, and 5551 of this title\] shall apply to any calendar quarters beginning more than 1 year after the date of the enactment of this Act \[Dec. 18, 2015\].”
 
  __Effective Date of 2005 Amendment__ 
 
@@ -328,12 +348,18 @@
 [/us/stat/110/1869]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1869
 [/us/pl/109/59/s11127/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs11127%2Fa
 [/us/stat/119/1958]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1958
+[/us/pl/114/113/s332/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs332%2Fa
+[/us/stat/129/3104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3104
+[/us/pl/114/113/s332/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs332%2Fa
+[/us/stat/129/3104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3104
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F614
 [/us/pl/85/859]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F597
 [/us/pl/85/859]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859
+[/us/pl/114/113/s332/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs332%2Fa%2F1
+[/us/pl/114/113/s332/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs332%2Fa%2F2
 [/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
 [/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
 [/us/pl/103/465/s136/c/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs136%2Fc%2F5
@@ -351,6 +377,8 @@
 [/us/pl/94/455/s1905/a/6/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1905%2Fa%2F6%2FB
 [/us/pl/94/455/s1905/a/6/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1905%2Fa%2F6%2FC
 [/us/pl/94/455/s1905/b/2/E/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1905%2Fb%2F2%2FE%2Fiii
+[/us/pl/114/113/s332/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs332%2Fc
+[/us/stat/129/3106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3106
 [/us/pl/109/59/s11127/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs11127%2Fc
 [/us/stat/119/1959]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1959
 [/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188

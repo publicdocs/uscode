@@ -499,13 +499,39 @@
 
             (C) which modify the application of the attribution rules applied for purposes of this subsection.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 113][/us/stat/68A/113]; [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 96–589, § 4(e)(2)][/us/pl/96/589/s4/e/2], Dec. 24, 1980, [94 Stat. 3403][/us/stat/94/3403]; [Pub. L. 100–203, title X, § 10223(b)][/us/pl/100/203/s10223/b], Dec. 22, 1987, [101 Stat. 1330–411][/us/stat/101/1330-411]; [Pub. L. 100–647, title I, § 1018(d)(5)(C)][/us/pl/100/647/s1018/d/5/C], title II, § 2004(k)(1), Nov. 10, 1988, [102 Stat. 3580][/us/stat/102/3580], 3605; [Pub. L. 101–508, title XI][/us/pl/101/508], §§ 11321(a), 11702(e)(2), Nov. 5, 1990, [104 Stat. 1388–460][/us/stat/104/1388-460], 1388–515; [Pub. L. 104–188, title I, § 1704(t)(31)][/us/pl/104/188/s1704/t/31], Aug. 20, 1996, [110 Stat. 1889][/us/stat/110/1889]; [Pub. L. 105–34, title X][/us/pl/105/34], §§ 1012(a), (b)(1), 1014(c), (e)(1), (2), Aug. 5, 1997, [111 Stat. 914][/us/stat/111/914], 916, 921; [Pub. L. 105–206, title VI, § 6010(c)(2)][/us/pl/105/206/s6010/c/2], July 22, 1998, [112 Stat. 813][/us/stat/112/813]; [Pub. L. 109–222, title II, § 202][/us/pl/109/222/s202], title V, § 507(a), May 17, 2006, [120 Stat. 348][/us/stat/120/348], 358; [Pub. L. 109–432, div. A, title IV, § 410(a)][/us/pl/109/432/s410/a], Dec. 20, 2006, [120 Stat. 2963][/us/stat/120/2963]; [Pub. L. 110–172, § 4(b)(1)][/us/pl/110/172/s4/b/1], (2), Dec. 29, 2007, [121 Stat. 2476][/us/stat/121/2476]; [Pub. L. 113–295, div. A, title II, § 221(a)(50)][/us/pl/113/295/s221/a/50], Dec. 19, 2014, [128 Stat. 4045][/us/stat/128/4045].)
+    (h) __Restriction on distributions involving real estate investment trusts__ 
+
+        (1) __In general__ 
+
+            This section (and so much of section 356 as relates to this section) shall not apply to any distribution if either the distributing corporation or controlled corporation is a real estate investment trust.
+
+        (2) __Exceptions for certain spinoffs__ 
+
+            (A) __Spinoffs of a real estate investment trust by another real estate investment trust__ 
+
+                Paragraph (1) shall not apply to any distribution if, immediately after the distribution, the distributing corporation and the controlled corporation are both real estate investment trusts.
+
+            (B) __Spinoffs of certain taxable reit subsidiaries__ 
+
+            Paragraph (1) shall not apply to any distribution if—
+
+                (i) the distributing corporation has been a real estate investment trust at all times during the 3-year period ending on the date of such distribution,
+
+                (ii) the controlled corporation has been a taxable REIT subsidiary (as defined in section 856(l)) of the distributing corporation at all times during such period, and
+
+                (iii) the distributing corporation had control (as defined in section 368(c) applied by taking into account stock owned directly or indirectly, including through one or more corporations or partnerships, by the distributing corporation) of the controlled corporation at all times during such period.
+
+                A controlled corporation will be treated as meeting the requirements of clauses (ii) and (iii) if the stock of such corporation was distributed by a taxable REIT subsidiary in a transaction to which this section (or so much of section 356 as relates to this section) applies and the assets of such corporation consist solely of the stock or assets of assets held by one or more taxable REIT subsidiaries of the distributing corporation meeting the requirements of clauses (ii) and (iii). For purposes of clause (iii), control of a partnership means ownership of 80 percent of the profits interest and 80 percent of the capital interests.
+
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 113][/us/stat/68A/113]; [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 96–589, § 4(e)(2)][/us/pl/96/589/s4/e/2], Dec. 24, 1980, [94 Stat. 3403][/us/stat/94/3403]; [Pub. L. 100–203, title X, § 10223(b)][/us/pl/100/203/s10223/b], Dec. 22, 1987, [101 Stat. 1330–411][/us/stat/101/1330-411]; [Pub. L. 100–647, title I, § 1018(d)(5)(C)][/us/pl/100/647/s1018/d/5/C], title II, § 2004(k)(1), Nov. 10, 1988, [102 Stat. 3580][/us/stat/102/3580], 3605; [Pub. L. 101–508, title XI][/us/pl/101/508], §§ 11321(a), 11702(e)(2), Nov. 5, 1990, [104 Stat. 1388–460][/us/stat/104/1388-460], 1388–515; [Pub. L. 104–188, title I, § 1704(t)(31)][/us/pl/104/188/s1704/t/31], Aug. 20, 1996, [110 Stat. 1889][/us/stat/110/1889]; [Pub. L. 105–34, title X][/us/pl/105/34], §§ 1012(a), (b)(1), 1014(c), (e)(1), (2), Aug. 5, 1997, [111 Stat. 914][/us/stat/111/914], 916, 921; [Pub. L. 105–206, title VI, § 6010(c)(2)][/us/pl/105/206/s6010/c/2], July 22, 1998, [112 Stat. 813][/us/stat/112/813]; [Pub. L. 109–222, title II, § 202][/us/pl/109/222/s202], title V, § 507(a), May 17, 2006, [120 Stat. 348][/us/stat/120/348], 358; [Pub. L. 109–432, div. A, title IV, § 410(a)][/us/pl/109/432/s410/a], Dec. 20, 2006, [120 Stat. 2963][/us/stat/120/2963]; [Pub. L. 110–172, § 4(b)(1)][/us/pl/110/172/s4/b/1], (2), Dec. 29, 2007, [121 Stat. 2476][/us/stat/121/2476]; [Pub. L. 113–295, div. A, title II, § 221(a)(50)][/us/pl/113/295/s221/a/50], Dec. 19, 2014, [128 Stat. 4045][/us/stat/128/4045]; [Pub. L. 114–113, div. Q, title III, § 311(a)][/us/pl/114/113/s311/a], Dec. 18, 2015, [129 Stat. 3090][/us/stat/129/3090].)
 
  __References in Text__ 
 
     The date of the enactment of this subsection, referred to in subsec. (g)(2)(A)(i), is the date of enactment of [Pub. L. 109–222][/us/pl/109/222], which was approved May 17, 2006.
 
  __Amendments__ 
+
+    2015—Subsec. (h). [Pub. L. 114–113][/us/pl/114/113] added subsec. (h).
 
     2014—Subsec. (d)(3)(A), (B)(i), (ii)(II). [Pub. L. 113–295][/us/pl/113/295] struck out “after October 9, 1990, and” after “acquired by purchase”.
 
@@ -588,6 +614,12 @@
     Subsec. (a)(4). [Pub. L. 96–589, § 4(e)(2)][/us/pl/96/589/s4/e/2], designated existing provisions as subpar. (A), substituted “exchange if any property” for “distribution if any property”, inserted provisions excluding property to which paragraph (3)(C) applies, and added subpar. (B).
 
     1976—Subsec. (a)(1)(D)(ii). [Pub. L. 94–455][/us/pl/94/455] struck out “or his delegate” after “Secretary”.
+
+ __Effective Date of 2015 Amendment__ 
+
+[Pub. L. 114–113, div. Q, title III, § 311(c)][/us/pl/114/113/s311/c], Dec. 18, 2015, [129 Stat. 3091][/us/stat/129/3091], provided that: 
+
+> “The amendments made by this section \[amending this section and [section 856 of this title][/us/usc/t26/s856]\] shall apply to distributions on or after December 7, 2015, but shall not apply to any distribution pursuant to a transaction described in a ruling request initially submitted to the Internal Revenue Service on or before such date, which request has not been withdrawn and with respect to which a ruling has not been issued or denied in its entirety as of such date.”
 
  __Effective Date of 2014 Amendment__ 
 
@@ -746,7 +778,10 @@
 [/us/stat/121/2476]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2476
 [/us/pl/113/295/s221/a/50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F50
 [/us/stat/128/4045]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4045
+[/us/pl/114/113/s311/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs311%2Fa
+[/us/stat/129/3090]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3090
 [/us/pl/109/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F222
+[/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
 [/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
 [/us/pl/110/172/s4/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F172%2Fs4%2Fb%2F1
 [/us/pl/110/172/s4/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F172%2Fs4%2Fb%2F2
@@ -772,6 +807,9 @@
 [/us/pl/96/589]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F589
 [/us/pl/96/589/s4/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F589%2Fs4%2Fe%2F2
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/114/113/s311/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs311%2Fc
+[/us/stat/129/3091]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3091
+[/us/usc/t26/s856]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs856
 [/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
 [/us/pl/113/295/s221/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fb
 [/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1

@@ -205,6 +205,10 @@
 
             An individual who elects the application of subsection (b) or (c) or who requests equitable relief under subsection (f) (and who agrees with the Secretary’s determination of relief) may waive in writing at any time the restrictions in paragraph (1)(B) with respect to collection of the outstanding assessment (whether or not a notice of the Secretary’s final determination of relief has been mailed).
 
+        (6) __Suspension of running of period for filing petition in title 11 cases__ 
+
+            In the case of a person who is prohibited by reason of a case under title 11, United States Code, from filing a petition under paragraph (1)(A) with respect to a final determination of relief under this section, the running of the period prescribed by such paragraph for filing such a petition with respect to such final determination shall be suspended for the period during which the person is so prohibited from filing such a petition, and for 60 days thereafter.
+
     (f) __Equitable relief__ 
 
     Under procedures prescribed by the Secretary, if—
@@ -237,13 +241,15 @@
 
         (2) regulations providing the opportunity for an individual to have notice of, and an opportunity to participate in, any administrative proceeding with respect to an election made under subsection (b) or (c) or a request for equitable relief made under subsection (f) by the other individual filing the joint return.
 
-(Added [Pub. L. 105–206, title III, § 3201(a)][/us/pl/105/206/s3201/a], July 22, 1998, [112 Stat. 734][/us/stat/112/734]; amended [Pub. L. 105–277, div. J, title IV, § 4002(c)(2)][/us/pl/105/277/s4002/c/2], Oct. 21, 1998, [112 Stat. 2681–906][/us/stat/112/2681-906]; [Pub. L. 106–554, § 1(a)(7)][/us/pl/106/554/s1/a/7] \[title III, § 313(a)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–640; [Pub. L. 109–432, div. C, title IV, § 408(a)][/us/pl/109/432/s408/a], (b), Dec. 20, 2006, [120 Stat. 3061][/us/stat/120/3061], 3062.)
+(Added [Pub. L. 105–206, title III, § 3201(a)][/us/pl/105/206/s3201/a], July 22, 1998, [112 Stat. 734][/us/stat/112/734]; amended [Pub. L. 105–277, div. J, title IV, § 4002(c)(2)][/us/pl/105/277/s4002/c/2], Oct. 21, 1998, [112 Stat. 2681–906][/us/stat/112/2681-906]; [Pub. L. 106–554, § 1(a)(7)][/us/pl/106/554/s1/a/7] \[title III, § 313(a)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–640; [Pub. L. 109–432, div. C, title IV, § 408(a)][/us/pl/109/432/s408/a], (b), Dec. 20, 2006, [120 Stat. 3061][/us/stat/120/3061], 3062; [Pub. L. 114–113, div. Q, title IV, § 424(a)(1)][/us/pl/114/113/s424/a/1], Dec. 18, 2015, [129 Stat. 3124][/us/stat/129/3124].)
 
  __Prior Provisions__ 
 
     A prior section 6015, acts [Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 737][/us/stat/68A/737]; Sept. 2, 1958, [Pub. L. 85–866, title I, § 74][/us/pl/85/866/s74], [72 Stat. 1660][/us/stat/72/1660]; Sept. 14, 1960, [Pub. L. 86–779, § 5(a)][/us/pl/86/779/s5/a], [74 Stat. 1000][/us/stat/74/1000]; Sept. 25, 1962, [Pub. L. 87–682, § 1(a)(1)][/us/pl/87/682/s1/a/1], [76 Stat. 575][/us/stat/76/575]; Mar. 15, 1966, [Pub. L. 89–368, title I, § 102(a)][/us/pl/89/368/s102/a], [80 Stat. 62][/us/stat/80/62]; Nov. 13, 1966, [Pub. L. 89–809, title I, § 103(j)][/us/pl/89/809/s103/j], [80 Stat. 1554][/us/stat/80/1554]; Dec. 30, 1969, [Pub. L. 91–172, title III, § 301(b)(12)][/us/pl/91/172/s301/b/12], title VIII, § 803(d)(7), title IX, § 944(a), [83 Stat. 586][/us/stat/83/586], 684, 729; Dec. 10, 1971, [Pub. L. 92–178, title II, § 209(a)][/us/pl/92/178/s209/a], [85 Stat. 517][/us/stat/85/517]; Oct. 4, 1976, [Pub. L. 94–455, title XIX, § 1906(a)(2)][/us/pl/94/455/s1906/a/2], (b)(13)(A), [90 Stat. 1824][/us/stat/90/1824], 1834; Nov. 6, 1978, [Pub. L. 95–600, title IV, § 421(e)(7)][/us/pl/95/600/s421/e/7], [92 Stat. 2876][/us/stat/92/2876]; Aug. 13, 1981, [Pub. L. 97–34, title VII, § 725(a)][/us/pl/97/34/s725/a], (c)(2), [95 Stat. 345][/us/stat/95/345], 346; Sept. 3, 1982, [Pub. L. 97–248, title II, § 201(d)(7)][/us/pl/97/248/s201/d/7], formerly § 201(c)(7), title III, §§ 307(a)(6), 308(a), 328(b)(1), [96 Stat. 420][/us/stat/96/420], 589, 591, 618, redesignated and amended Jan. 12, 1983, [Pub. L. 97–448, title I, § 107(c)(2)][/us/pl/97/448/s107/c/2], title II, § 201(j)(1), title III, § 306(a)(1)(A)(i), [96 Stat. 2391][/us/stat/96/2391], 2395, 2400; Aug. 5, 1983, [Pub. L. 98–67, title I, § 102(a)][/us/pl/98/67/s102/a], [97 Stat. 369][/us/stat/97/369], related to declaration of estimated income tax by individuals, prior to repeal by [Pub. L. 98–369, div. A, title IV][/us/pl/98/369], §§ 412(a)(1), 414(a)(1), July 18, 1984, [98 Stat. 792][/us/stat/98/792], 793, applicable with respect to taxable years beginning after Dec. 31, 1984.
 
  __Amendments__ 
+
+    2015—Subsec. (e)(6). [Pub. L. 114–113][/us/pl/114/113] added par. (6).
 
     2006—Subsec. (e)(1). [Pub. L. 109–432, § 408(a)][/us/pl/109/432/s408/a], inserted “, or in the case of an individual who requests equitable relief under subsection (f)” after “apply” in introductory provisions.
 
@@ -278,6 +284,12 @@
     Subsecs. (g), (h). [Pub. L. 106–554, § 1(a)(7)][/us/pl/106/554/s1/a/7] \[title III, § 313(a)(2)(A)\], added subsec. (g) and redesignated former subsec. (g) as (h).
 
     1998—Subsec. (e)(3)(A). [Pub. L. 105–277][/us/pl/105/277] substituted “of subsection (b) or (f)” for “of this section”.
+
+ __Effective Date of 2015 Amendment__ 
+
+[Pub. L. 114–113, div. Q, title IV, § 424(a)(2)][/us/pl/114/113/s424/a/2], Dec. 18, 2015, [129 Stat. 3124][/us/stat/129/3124], provided that: 
+
+> “The amendment made by this subsection \[amending this section\] shall apply to petitions filed under section 6015(e) of the Internal Revenue Code of 1986 after the date of the enactment of this Act \[Dec. 18, 2015\].”
 
  __Effective Date of 2006 Amendment__ 
 
@@ -328,6 +340,8 @@
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
 [/us/pl/109/432/s408/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs408%2Fa
 [/us/stat/120/3061]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3061
+[/us/pl/114/113/s424/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs424%2Fa%2F1
+[/us/stat/129/3124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3124
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/737]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F737
 [/us/pl/85/866/s74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F866%2Fs74
@@ -358,6 +372,7 @@
 [/us/stat/97/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F369
 [/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
 [/us/stat/98/792]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F792
+[/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
 [/us/pl/109/432/s408/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs408%2Fa
 [/us/pl/109/432/s408/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs408%2Fb%2F1
 [/us/pl/109/432/s408/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs408%2Fb%2F2
@@ -375,6 +390,8 @@
 [/us/pl/106/554/s1/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F7
 [/us/pl/106/554/s1/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F7
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/114/113/s424/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs424%2Fa%2F2
+[/us/stat/129/3124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3124
 [/us/pl/109/432/s408/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs408%2Fc
 [/us/stat/120/3062]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3062
 [/us/pl/106/554/s1/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F7

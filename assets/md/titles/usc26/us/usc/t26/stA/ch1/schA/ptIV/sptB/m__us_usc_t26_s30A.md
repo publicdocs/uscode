@@ -155,7 +155,7 @@
 
  __American Samoa Economic Development Credit__ 
 
-[Pub. L. 109–432, div. A, title I, § 119][/us/pl/109/432/s119], Dec. 20, 2006, [120 Stat. 2942][/us/stat/120/2942], as amended by [Pub. L. 110–343, div. C, title III, § 309(a)][/us/pl/110/343/s309/a], Oct. 3, 2008, [122 Stat. 3869][/us/stat/122/3869]; [Pub. L. 111–312, title VII, § 756(a)][/us/pl/111/312/s756/a], Dec. 17, 2010, [124 Stat. 3322][/us/stat/124/3322]; [Pub. L. 112–240, title III, § 330(a)][/us/pl/112/240/s330/a], (b), Jan. 2, 2013, [126 Stat. 2335][/us/stat/126/2335]; [Pub. L. 113–295, div. A, title I, § 141(a)][/us/pl/113/295/s141/a], Dec. 19, 2014, [128 Stat. 4020][/us/stat/128/4020], provided that:
+[Pub. L. 109–432, div. A, title I, § 119][/us/pl/109/432/s119], Dec. 20, 2006, [120 Stat. 2942][/us/stat/120/2942], as amended by [Pub. L. 110–343, div. C, title III, § 309(a)][/us/pl/110/343/s309/a], Oct. 3, 2008, [122 Stat. 3869][/us/stat/122/3869]; [Pub. L. 111–312, title VII, § 756(a)][/us/pl/111/312/s756/a], Dec. 17, 2010, [124 Stat. 3322][/us/stat/124/3322]; [Pub. L. 112–240, title III, § 330(a)][/us/pl/112/240/s330/a], (b), Jan. 2, 2013, [126 Stat. 2335][/us/stat/126/2335]; [Pub. L. 113–295, div. A, title I, § 141(a)][/us/pl/113/295/s141/a], Dec. 19, 2014, [128 Stat. 4020][/us/stat/128/4020]; [Pub. L. 114–113, div. Q, title I, § 173(a)][/us/pl/114/113/s173/a], Dec. 18, 2015, [129 Stat. 3071][/us/stat/129/3071], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -195,13 +195,19 @@
 
 >     Notwithstanding section 30A(h) or section 936(j) of such Code, this section (and so much of section 30A and section 936 of such Code as relates to this section) shall apply—
 
->         “(1) in the case of a corporation that meets the requirements of subparagraphs (A) and (B) of subsection (a)(1), to the first 9 taxable years of such corporation which begin after December 31, 2006, and before January 1, 2015, and
+>         “(1) in the case of a corporation that meets the requirements of subparagraphs (A) and (B) of subsection (a)(1), to the first 11 taxable years of such corporation which begin after December 31, 2006, and before January 1, 2017, and
 
->         “(2) in the case of a corporation that does not meet the requirements of subparagraphs (A) and (B) of subsection (a)(1), to the first 3 taxable years of such corporation which begin after December 31, 2011, and before January 1, 2015.
+>         “(2) in the case of a corporation that does not meet the requirements of subparagraphs (A) and (B) of subsection (a)(1), to the first 5 taxable years of such corporation which begin after December 31, 2011, and before January 1, 2017.
 
 >     “(e)  __Qualified Production Activities Income Requirement__  __.—__ 
 
 >     A corporation meets the requirement of this subsection if such corporation has qualified production activities income, as defined in subsection (c) of section 199 of the Internal Revenue Code of 1986, determined by substituting ‘American Samoa’ for ‘the United States’ each place it appears in paragraphs (3), (4), and (6) of such subsection (c), for the taxable year.”
+
+\[[Pub. L. 114–113, div. Q, title I, § 173(b)][/us/pl/114/113/s173/b], Dec. 18, 2015, [129 Stat. 3071][/us/stat/129/3071], provided that: 
+
+> “The amendments made by this section \[amending [section 119 of Pub. L. 109–432][/us/pl/109/432/s119], set out above\] shall apply to taxable years beginning after December 31, 2014.”
+
+\]
 
 \[[Pub. L. 113–295, div. A, title I, § 141(b)][/us/pl/113/295/s141/b], Dec. 19, 2014, [128 Stat. 4020][/us/stat/128/4020], provided that: 
 
@@ -267,6 +273,11 @@
 [/us/stat/126/2335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2335
 [/us/pl/113/295/s141/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs141%2Fa
 [/us/stat/128/4020]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4020
+[/us/pl/114/113/s173/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs173%2Fa
+[/us/stat/129/3071]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3071
+[/us/pl/114/113/s173/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs173%2Fb
+[/us/stat/129/3071]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3071
+[/us/pl/109/432/s119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs119
 [/us/pl/113/295/s141/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs141%2Fb
 [/us/stat/128/4020]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4020
 [/us/pl/109/432/s119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs119

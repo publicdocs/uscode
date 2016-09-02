@@ -121,9 +121,9 @@
 
     A prior section 6241, added [Pub. L. 97–354, § 4(a)][/us/pl/97/354/s4/a], Oct. 19, 1982, [96 Stat. 1691][/us/stat/96/1691], directed that tax treatment be determined at the corporate level, prior to repeal by [Pub. L. 104–188, title I][/us/pl/104/188], §§ 1307(c)(1), 1317(a), Aug. 20, 1996, [110 Stat. 1781][/us/stat/110/1781], 1787, applicable to taxable years beginning after Dec. 31, 1996.
 
- __Effective Date of Repeal__ 
+ __Effective Date of Repeal and Reenactment__ 
 
-    Repeal applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, see [section 1101(g) of Pub. L. 114–74][/us/pl/114/74/s1101/g], set out as an Effective Date of 2015 Amendment note under [section 6221 of this title][/us/usc/t26/s6221].
+    Repeal and reenacted section applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, see [section 1101(g) of Pub. L. 114–74][/us/pl/114/74/s1101/g], set out as an Effective Date of 2015 Amendment note under [section 6221 of this title][/us/usc/t26/s6221].
 
 ----------
 

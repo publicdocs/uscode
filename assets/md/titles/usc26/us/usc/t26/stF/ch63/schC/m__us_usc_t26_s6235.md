@@ -29,9 +29,9 @@
 
             (C) the date on which the partnership filed an administrative adjustment request with respect to such year under section 6227, or
 
-        (2) in the case of any modification of an imputed underpayment under section 6225(c), the date that is 270 days (plus the number of days of any extension consented to by the Secretary under paragraph (4) thereof) after the date on which everything required to be submitted to the Secretary pursuant to such section is so submitted, or
+        (2) in the case of any modification of an imputed underpayment under section 6225(c), the date that is 270 days (plus the number of days of any extension consented to by the Secretary under paragraph (7) thereof) after the date on which everything required to be submitted to the Secretary pursuant to such section is so submitted, or
 
-        (3) in the case of any notice of a proposed partnership adjustment under section 6231(a)(2), the date that is 270 days after the date of such notice.
+        (3) in the case of any notice of a proposed partnership adjustment under section 6231(a)(2), the date that is 330 days (plus the number of days of any extension consented to by the Secretary under section 6225(c)(7) after the date of such notice.
 
     (b) __Extension by agreement__ 
 
@@ -63,11 +63,21 @@
 
         (2) for 1 year thereafter.
 
-(Added [Pub. L. 114–74, title XI, § 1101(c)(1)][/us/pl/114/74/s1101/c/1], Nov. 2, 2015, [129 Stat. 635][/us/stat/129/635].)
+(Added [Pub. L. 114–74, title XI, § 1101(c)(1)][/us/pl/114/74/s1101/c/1], Nov. 2, 2015, [129 Stat. 635][/us/stat/129/635]; amended [Pub. L. 114–113, div. Q, title IV, § 411(c)][/us/pl/114/113/s411/c], Dec. 18, 2015, [129 Stat. 3122][/us/stat/129/3122].)
 
  __Delayed Applicability of Section__ 
 
     For delayed applicability of section, see Effective Date note below.
+
+ __Amendments__ 
+
+    2015—Subsec. (a)(2). [Pub. L. 114–113, § 411(c)(1)][/us/pl/114/113/s411/c/1], substituted “paragraph (7)” for “paragraph (4)”.
+
+    Subsec. (a)(3). [Pub. L. 114–113, § 411(c)(2)][/us/pl/114/113/s411/c/2], substituted “330 days (plus the number of days of any extension consented to by the Secretary under section 6225(c)(7)” for “270 days”.
+
+ __Effective Date of 2015 Amendment__ 
+
+    Amendment by [Pub. L. 114–113][/us/pl/114/113] effective as if included in [section 1101 of Pub. L. 114–74][/us/pl/114/74/s1101], see [section 411(e) of Pub. L. 114–113][/us/pl/114/113/s411/e], set out as a note under [section 6031 of this title][/us/usc/t26/s6031].
 
  __Effective Date__ 
 
@@ -83,6 +93,14 @@
 [/us/pl/114/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74
 [/us/pl/114/74/s1101/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs1101%2Fc%2F1
 [/us/stat/129/635]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F635
+[/us/pl/114/113/s411/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs411%2Fc
+[/us/stat/129/3122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3122
+[/us/pl/114/113/s411/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs411%2Fc%2F1
+[/us/pl/114/113/s411/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs411%2Fc%2F2
+[/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
+[/us/pl/114/74/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs1101
+[/us/pl/114/113/s411/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs411%2Fe
+[/us/usc/t26/s6031]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6031
 [/us/pl/114/74/s1101/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs1101%2Fg
 [/us/usc/t26/s6221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6221
 

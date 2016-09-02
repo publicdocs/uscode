@@ -53,6 +53,10 @@
 
 (Added [Pub. L. 95–600, title II, § 211(a)][/us/pl/95/600/s211/a], Nov. 6, 1978, [92 Stat. 2817][/us/stat/92/2817]; amended [Pub. L. 110–142, § 8(a)][/us/pl/110/142/s8/a], (b), Dec. 20, 2007, [121 Stat. 1806][/us/stat/121/1806]; [Pub. L. 110–458, title I, § 127(a)][/us/pl/110/458/s127/a], Dec. 23, 2008, [122 Stat. 5116][/us/stat/122/5116]; [Pub. L. 111–92, § 16(a)][/us/pl/111/92/s16/a], Nov. 6, 2009, [123 Stat. 2996][/us/stat/123/2996]; [Pub. L. 113–295, div. B, title II, § 208(d)][/us/pl/113/295/s208/d], Dec. 19, 2014, [128 Stat. 4073][/us/stat/128/4073].)
 
+ __Inflation Adjusted Items for Certain Years__ 
+
+    For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table under [section 1 of this title][/us/usc/t26/s1].
+
  __Codification__ 
 
     Another section 6698, formerly section 6694, relating to failure to file information with respect to carryover basis property, which was added by [Pub. L. 94–455, § 2005(d)(2)][/us/pl/94/455/s2005/d/2], was renumbered section 6698 by [Pub. L. 95–600][/us/pl/95/600], renumbered section 6698A by [Pub. L. 96–222][/us/pl/96/222], and repealed by [Pub. L. 96–223][/us/pl/96/223].
@@ -120,6 +124,7 @@
 [/us/stat/123/2996]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2996
 [/us/pl/113/295/s208/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs208%2Fd
 [/us/stat/128/4073]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4073
+[/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
 [/us/pl/94/455/s2005/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs2005%2Fd%2F2
 [/us/pl/95/600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600
 [/us/pl/96/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F222

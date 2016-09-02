@@ -761,13 +761,13 @@
 
  __Effective Date of 2008 Amendment__ 
 
-[Pub. L. 110–289, div. C, title I, § 3005(b)][/us/pl/110/289/s3005/b], July 30, 2008, [122 Stat. 2885][/us/stat/122/2885], as amended by [Pub. L. 112–240, title III, § 303(a)][/us/pl/112/240/s303/a], Jan. 2, 2013, [126 Stat. 2329][/us/stat/126/2329]; [Pub. L. 113–295, div. A, title I, § 113(a)][/us/pl/113/295/s113/a], Dec. 19, 2014, [128 Stat. 4014][/us/stat/128/4014], provided that: 
+[Pub. L. 110–289, div. C, title I, § 3005(b)][/us/pl/110/289/s3005/b], July 30, 2008, [122 Stat. 2885][/us/stat/122/2885], as amended by [Pub. L. 112–240, title III, § 303(a)][/us/pl/112/240/s303/a], Jan. 2, 2013, [126 Stat. 2329][/us/stat/126/2329]; [Pub. L. 113–295, div. A, title I, § 113(a)][/us/pl/113/295/s113/a], Dec. 19, 2014, [128 Stat. 4014][/us/stat/128/4014]; [Pub. L. 114–113, div. Q, title I, § 132(a)][/us/pl/114/113/s132/a], Dec. 18, 2015, [129 Stat. 3055][/us/stat/129/3055], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall apply to—
 
 >     “(1)
 
->      determinations made after the date of the enactment of this Act \[July 30, 2008\] and before January 1, 2015, in the case of any qualified building (as defined in section 142(d)(2)(B)(iii) of the Internal Revenue Code of 1986)—
+>      determinations made after the date of the enactment of this Act \[July 30, 2008\], in the case of any qualified building (as defined in section 142(d)(2)(B)(iii) of the Internal Revenue Code of 1986)—
 
 >         “(A) with respect to which housing credit dollar amounts have been allocated on or before the date of the enactment of this Act \[July 30, 2008\], or
 
@@ -777,9 +777,15 @@
 
 >      determinations made after the date of enactment of this Act \[July 30, 2008\], in the case of qualified buildings (as so defined)—
 
->         “(A) with respect to which housing credit dollar amounts are allocated after the date of the enactment of this Act \[July 30, 2008\] and before January 1, 2015, or
+>         “(A) with respect to which housing credit dollar amounts are allocated after the date of the enactment of this Act \[July 30, 2008\], or
 
->         “(B) with respect to which buildings placed in service after the date of enactment of this Act \[July 30, 2008\] and before January 1, 2015, to the extent paragraph (1) of section 42(h) of such Code does not apply to such building by reason of paragraph (4) thereof, but only with respect to bonds issued after such date of enactment and before January 1, 2015.”
+>         “(B) with respect to which buildings placed in service after the date of enactment of this Act \[July 30, 2008\], to the extent paragraph (1) of section 42(h) of such Code does not apply to such building by reason of paragraph (4) thereof, but only with respect to bonds issued after such date of enactment.”
+
+\[[Pub. L. 114–113, div. Q, title I, § 132(b)][/us/pl/114/113/s132/b], Dec. 18, 2015, [129 Stat. 3055][/us/stat/129/3055], provided that: 
+
+> “The amendments made by this section \[amending [section 3005(b) of Pub. L. 110–289][/us/pl/110/289/s3005/b], set out above\] shall take effect as if included in the enactment of section 3005 of the Housing Assistance Tax Act of 2008 \[div. C of [Pub. L. 110–289][/us/pl/110/289]\].”
+
+\]
 
 \[[Pub. L. 113–295, div. A, title I, § 113(b)][/us/pl/113/295/s113/b], Dec. 19, 2014, [128 Stat. 4014][/us/stat/128/4014], provided that: 
 
@@ -967,6 +973,12 @@
 [/us/stat/126/2329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2329
 [/us/pl/113/295/s113/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs113%2Fa
 [/us/stat/128/4014]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4014
+[/us/pl/114/113/s132/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs132%2Fa
+[/us/stat/129/3055]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3055
+[/us/pl/114/113/s132/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs132%2Fb
+[/us/stat/129/3055]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3055
+[/us/pl/110/289/s3005/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs3005%2Fb
+[/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
 [/us/pl/113/295/s113/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs113%2Fb
 [/us/stat/128/4014]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4014
 [/us/pl/110/289/s3005/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs3005%2Fb

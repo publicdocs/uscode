@@ -91,13 +91,47 @@
 
         Notwithstanding subsection (a), any wine produced in the United States at any place other than the bonded premises provided for in this chapter shall (except as provided in section 5042 in the case of tax-free production) be subject to tax at the rate prescribed in subsection (b) at the time of production and whether or not removed for consumption or sale.
 
-(Added [Pub. L. 85–859, title II, § 201][/us/pl/85/859/s201], Sept. 2, 1958, [72 Stat. 1331][/us/stat/72/1331]; amended [Pub. L. 86–75, § 3(a)(5)][/us/pl/86/75/s3/a/5], June 30, 1959, [73 Stat. 157][/us/stat/73/157]; [Pub. L. 86–564, title II, § 202(a)(7)][/us/pl/86/564/s202/a/7], June 30, 1960, [74 Stat. 290][/us/stat/74/290]; [Pub. L. 87–72, § 3(a)(7)][/us/pl/87/72/s3/a/7], June 30, 1961, [75 Stat. 193][/us/stat/75/193]; [Pub. L. 87–508, § 3(a)(6)][/us/pl/87/508/s3/a/6], June 28, 1962, [76 Stat. 114][/us/stat/76/114]; [Pub. L. 88–52, § 3(a)(7)][/us/pl/88/52/s3/a/7], June 29, 1963, [77 Stat. 72][/us/stat/77/72]; [Pub. L. 88–348, § 2(a)(7)][/us/pl/88/348/s2/a/7], June 30, 1964, [78 Stat. 237][/us/stat/78/237]; [Pub. L. 89–44, title V, § 501(c)][/us/pl/89/44/s501/c], title VIII, § 806(a), June 21, 1965, [79 Stat. 150][/us/stat/79/150], 162; [Pub. L. 93–490, § 6(a)][/us/pl/93/490/s6/a], Oct. 26, 1974, [88 Stat. 1468][/us/stat/88/1468]; [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 100–647, title VI, § 6101(a)][/us/pl/100/647/s6101/a], Nov. 10, 1988, [102 Stat. 3710][/us/stat/102/3710]; [Pub. L. 101–508, title XI, § 11201(b)(1)][/us/pl/101/508/s11201/b/1], (2), Nov. 5, 1990, [104 Stat. 1388–415][/us/stat/104/1388-415], 1388–416; [Pub. L. 104–188, title I, § 1702(b)(5)][/us/pl/104/188/s1702/b/5], Aug. 20, 1996, [110 Stat. 1868][/us/stat/110/1868]; [Pub. L. 105–34, title IX, § 908(a)][/us/pl/105/34/s908/a], (b), Aug. 5, 1997, [111 Stat. 876][/us/stat/111/876]; [Pub. L. 105–206, title VI, § 6009(a)][/us/pl/105/206/s6009/a], July 22, 1998, [112 Stat. 812][/us/stat/112/812].)
+(Added [Pub. L. 85–859, title II, § 201][/us/pl/85/859/s201], Sept. 2, 1958, [72 Stat. 1331][/us/stat/72/1331]; amended [Pub. L. 86–75, § 3(a)(5)][/us/pl/86/75/s3/a/5], June 30, 1959, [73 Stat. 157][/us/stat/73/157]; [Pub. L. 86–564, title II, § 202(a)(7)][/us/pl/86/564/s202/a/7], June 30, 1960, [74 Stat. 290][/us/stat/74/290]; [Pub. L. 87–72, § 3(a)(7)][/us/pl/87/72/s3/a/7], June 30, 1961, [75 Stat. 193][/us/stat/75/193]; [Pub. L. 87–508, § 3(a)(6)][/us/pl/87/508/s3/a/6], June 28, 1962, [76 Stat. 114][/us/stat/76/114]; [Pub. L. 88–52, § 3(a)(7)][/us/pl/88/52/s3/a/7], June 29, 1963, [77 Stat. 72][/us/stat/77/72]; [Pub. L. 88–348, § 2(a)(7)][/us/pl/88/348/s2/a/7], June 30, 1964, [78 Stat. 237][/us/stat/78/237]; [Pub. L. 89–44, title V, § 501(c)][/us/pl/89/44/s501/c], title VIII, § 806(a), June 21, 1965, [79 Stat. 150][/us/stat/79/150], 162; [Pub. L. 93–490, § 6(a)][/us/pl/93/490/s6/a], Oct. 26, 1974, [88 Stat. 1468][/us/stat/88/1468]; [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 100–647, title VI, § 6101(a)][/us/pl/100/647/s6101/a], Nov. 10, 1988, [102 Stat. 3710][/us/stat/102/3710]; [Pub. L. 101–508, title XI, § 11201(b)(1)][/us/pl/101/508/s11201/b/1], (2), Nov. 5, 1990, [104 Stat. 1388–415][/us/stat/104/1388-415], 1388–416; [Pub. L. 104–188, title I, § 1702(b)(5)][/us/pl/104/188/s1702/b/5], Aug. 20, 1996, [110 Stat. 1868][/us/stat/110/1868]; [Pub. L. 105–34, title IX, § 908(a)][/us/pl/105/34/s908/a], (b), Aug. 5, 1997, [111 Stat. 876][/us/stat/111/876]; [Pub. L. 105–206, title VI, § 6009(a)][/us/pl/105/206/s6009/a], July 22, 1998, [112 Stat. 812][/us/stat/112/812]; [Pub. L. 114–113, div. Q, title III, § 335(a)][/us/pl/114/113/s335/a], Dec. 18, 2015, [129 Stat. 3109][/us/stat/129/3109].)
+
+ __Amendment of Section__ 
+
+    [Pub. L. 114–113, title III, § 335][/us/pl/114/113/s335], Dec. 18, 2015, [129 Stat. 3109][/us/stat/129/3109], provided that, applicable to hard cider removed during calendar years beginning after Dec. 31, 2016, this section is amended:
+
+    (1) in subsection (b)(6), by striking out “which is a still wine derived primarily from apples or apple concentrate and water, containing no other fruit product, and containing at least one-half of 1 percent and less than 7 percent alcohol by volume”; and
+
+    (2) by adding at the end the following new subsection:
+
+    (g) Hard cider
+
+    For purposes of subsection (b)(6), the term “hard cider” means a wine—
+
+    (1) containing not more than 0.64 gram of carbon dioxide per hundred milliliters of wine, except that the Secretary may by regulations prescribe such tolerances to this limitation as may be reasonably necessary in good commercial practice,
+
+    (2) which is derived primarily—
+
+    (A) from apples or pears, or
+
+    (B) from—
+
+    (i) apple juice concentrate or pear juice concentrate, and
+
+    (ii) water,
+
+    (3) which contains no fruit product or fruit flavoring other than apple or pear, and
+
+    (4) which contains at least one-half of 1 percent and less than 8.5 percent alcohol by volume.
+
+    See 2015 Amendment notes below.
 
  __Prior Provisions__ 
 
     A prior section 5041, acts [Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 609][/us/stat/68A/609]; [Mar. 30, 1955, ch. 18, § 3(a)(7)][/us/act/1955-03-30/ch18/s3/a/7], [69 Stat. 14][/us/stat/69/14]; [Mar. 29, 1956, ch. 115, § 3(a)(7)][/us/act/1956-03-29/ch115/s3/a/7], [70 Stat. 66][/us/stat/70/66]; Mar. 29, 1957, [Pub. L. 85–12, § 3(a)(5)][/us/pl/85/12/s3/a/5], [71 Stat. 9][/us/stat/71/9]; June 30, 1958, [Pub. L. 85–475, § 3(a)(5)][/us/pl/85/475/s3/a/5], [72 Stat. 259][/us/stat/72/259], consisted of provisions similar to those comprising this section, prior to the general revision of this chapter by [Pub. L. 85–859][/us/pl/85/859].
 
  __Amendments__ 
+
+    2015—Subsec. (b)(6). [Pub. L. 114–113, § 355(a)(1)][/us/pl/114/113/s355/a/1], struck out “which is a still wine derived primarily from apples or apple concentrate and water, containing no other fruit product, and containing at least one-half of 1 percent and less than 7 percent alcohol by volume” after “hard cider”.
+
+    Subsec. (g). [Pub. L. 114–113, § 335(a)(2)][/us/pl/114/113/s335/a/2], added subsec. (g).
 
     1998—Subsec. (b)(6). [Pub. L. 105–206][/us/pl/105/206] inserted “which is a still wine” after “hard cider”.
 
@@ -140,6 +174,12 @@
     1960—Subsec. (b). [Pub. L. 86–564][/us/pl/86/564] substituted “July 1, 1961” for “July 1, 1960” in five places.
 
     1959—Subsec. (b). [Pub. L. 86–75][/us/pl/86/75] substituted “July 1, 1960” for “July 1, 1959” in five places.
+
+ __Effective Date of 2015 Amendment__ 
+
+[Pub. L. 114–113, div. Q, title III, § 335(b)][/us/pl/114/113/s335/b], Dec. 18, 2015, [129 Stat. 3109][/us/stat/129/3109], provided that: 
+
+> “The amendments made by this section \[amending this section\] shall apply to hard cider removed during calendar years beginning after December 31, 2016.”
 
  __Effective Date of 1998 Amendment__ 
 
@@ -224,6 +264,10 @@
 [/us/stat/111/876]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F876
 [/us/pl/105/206/s6009/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs6009%2Fa
 [/us/stat/112/812]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F812
+[/us/pl/114/113/s335/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs335%2Fa
+[/us/stat/129/3109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3109
+[/us/pl/114/113/s335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs335
+[/us/stat/129/3109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3109
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F609
 [/us/act/1955-03-30/ch18/s3/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-03-30%2Fch18%2Fs3%2Fa%2F7
@@ -235,6 +279,8 @@
 [/us/pl/85/475/s3/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F475%2Fs3%2Fa%2F5
 [/us/stat/72/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F259
 [/us/pl/85/859]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859
+[/us/pl/114/113/s355/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs355%2Fa%2F1
+[/us/pl/114/113/s335/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs335%2Fa%2F2
 [/us/pl/105/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206
 [/us/pl/105/34/s908/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs908%2Fa
 [/us/pl/105/34/s908/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs908%2Fb
@@ -255,6 +301,8 @@
 [/us/pl/87/72]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F72
 [/us/pl/86/564]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F564
 [/us/pl/86/75]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F75
+[/us/pl/114/113/s335/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs335%2Fb
+[/us/stat/129/3109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3109
 [/us/pl/105/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206
 [/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
 [/us/pl/105/206/s6024]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs6024

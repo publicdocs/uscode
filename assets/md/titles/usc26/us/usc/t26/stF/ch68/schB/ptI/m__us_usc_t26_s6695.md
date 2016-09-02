@@ -45,9 +45,9 @@
 
         Any person who is a tax return preparer who endorses or otherwise negotiates (directly or through an agent) any check made in respect of the taxes imposed by this title which is issued to a taxpayer (other than the tax return preparer) shall pay a penalty of $500 with respect to each such check. The preceding sentence shall not apply with respect to the deposit by a bank (within the meaning of section 581) of the full amount of the check in the taxpayer’s account in such bank for the benefit of the taxpayer.
 
-    (g) __Failure to be diligent in determining eligibility for earned income credit__ 
+    (g) __Failure to be diligent in determining eligibility for child tax credit; American opportunity tax credit; and earned income credit__ 
 
-        Any person who is a tax return preparer with respect to any return or claim for refund who fails to comply with due diligence requirements imposed by the Secretary by regulations with respect to determining eligibility for, or the amount of, the credit allowable by section 32 shall pay a penalty of $500 for each such failure.
+        Any person who is a tax return preparer with respect to any return or claim for refund who fails to comply with due diligence requirements imposed by the Secretary by regulations with respect to determining eligibility for, or the amount of, the credit allowable by section 24, 25A(a)(1), or 32 shall pay a penalty of $500 for each such failure.
 
     (h) __Adjustment for inflation__ 
 
@@ -63,9 +63,15 @@
 
             (B) is not described in clause (i)  <sup>\[2\]</sup>  <sup><sup> 2 So in original. Probably should be “subparagraph (A)”. </sup></sup>  and is not a multiple of $5, such amount shall be rounded to the next lowest multiple of $5.
 
-(Added [Pub. L. 94–455, title XII, § 1203(f)][/us/pl/94/455/s1203/f], Oct. 4, 1976, [90 Stat. 1692][/us/stat/90/1692]; amended [Pub. L. 95–600, title VII, § 701(cc)(1)][/us/pl/95/600/s701/cc/1], Nov. 6, 1978, [92 Stat. 2923][/us/stat/92/2923]; [Pub. L. 98–369, div. A, title I, § 179(b)(2)][/us/pl/98/369/s179/b/2], July 18, 1984, [98 Stat. 718][/us/stat/98/718]; [Pub. L. 99–44, § 1(b)][/us/pl/99/44/s1/b], May 24, 1985, [99 Stat. 77][/us/stat/99/77]; [Pub. L. 101–239, title VII, § 7733(a)][/us/pl/101/239/s7733/a]–(d), Dec. 19, 1989, [103 Stat. 2402][/us/stat/103/2402], 2403; [Pub. L. 105–34, title X, § 1085(a)(2)][/us/pl/105/34/s1085/a/2], Aug. 5, 1997, [111 Stat. 956][/us/stat/111/956]; [Pub. L. 110–28, title VIII, § 8246(a)(2)(G)(i)][/us/pl/110/28/s8246/a/2/G/i], (ii), May 25, 2007, [121 Stat. 202][/us/stat/121/202]; [Pub. L. 112–41, title V, § 501(a)][/us/pl/112/41/s501/a], Oct. 21, 2011, [125 Stat. 459][/us/stat/125/459]; [Pub. L. 113–295, div. B, title II, § 208(c)][/us/pl/113/295/s208/c], Dec. 19, 2014, [128 Stat. 4073][/us/stat/128/4073].)
+(Added [Pub. L. 94–455, title XII, § 1203(f)][/us/pl/94/455/s1203/f], Oct. 4, 1976, [90 Stat. 1692][/us/stat/90/1692]; amended [Pub. L. 95–600, title VII, § 701(cc)(1)][/us/pl/95/600/s701/cc/1], Nov. 6, 1978, [92 Stat. 2923][/us/stat/92/2923]; [Pub. L. 98–369, div. A, title I, § 179(b)(2)][/us/pl/98/369/s179/b/2], July 18, 1984, [98 Stat. 718][/us/stat/98/718]; [Pub. L. 99–44, § 1(b)][/us/pl/99/44/s1/b], May 24, 1985, [99 Stat. 77][/us/stat/99/77]; [Pub. L. 101–239, title VII, § 7733(a)][/us/pl/101/239/s7733/a]–(d), Dec. 19, 1989, [103 Stat. 2402][/us/stat/103/2402], 2403; [Pub. L. 105–34, title X, § 1085(a)(2)][/us/pl/105/34/s1085/a/2], Aug. 5, 1997, [111 Stat. 956][/us/stat/111/956]; [Pub. L. 110–28, title VIII, § 8246(a)(2)(G)(i)][/us/pl/110/28/s8246/a/2/G/i], (ii), May 25, 2007, [121 Stat. 202][/us/stat/121/202]; [Pub. L. 112–41, title V, § 501(a)][/us/pl/112/41/s501/a], Oct. 21, 2011, [125 Stat. 459][/us/stat/125/459]; [Pub. L. 113–295, div. B, title II, § 208(c)][/us/pl/113/295/s208/c], Dec. 19, 2014, [128 Stat. 4073][/us/stat/128/4073]; [Pub. L. 114–113, div. Q, title II, § 207(a)][/us/pl/114/113/s207/a], Dec. 18, 2015, [129 Stat. 3082][/us/stat/129/3082].)
+
+ __Inflation Adjusted Items for Certain Years__ 
+
+    For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table under [section 1 of this title][/us/usc/t26/s1].
 
  __Amendments__ 
+
+    2015—Subsec. (g). [Pub. L. 114–113][/us/pl/114/113] inserted “child tax credit; American opportunity tax credit; and” before “earned income credit” in heading and substituted “section 24, 25A(a)(1), or 32” for “section 32” in text.
 
     2014—Subsec. (h). [Pub. L. 113–295][/us/pl/113/295] added subsec. (h).
 
@@ -96,6 +102,12 @@
     1984—Subsec. (b). [Pub. L. 98–369][/us/pl/98/369] amended subsec. (b) generally, substituting provisions dealing with failure to inform taxpayer of certain recordkeeping requirements of [section 274(d) of this title][/us/usc/t26/s274/d] or to sign returns, for provisions dealing with failure to sign returns. See 1985 Amendment note above.
 
     1978—Subsec. (f). [Pub. L. 95–600][/us/pl/95/600] inserted provision relating to deposits by a bank.
+
+ __Effective Date of 2015 Amendment__ 
+
+[Pub. L. 114–113, div. Q, title II, § 207(c)][/us/pl/114/113/s207/c], Dec. 18, 2015, [129 Stat. 3083][/us/stat/129/3083], provided that: 
+
+> “The amendment made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2015.”
 
  __Effective Date of 2014 Amendment__ 
 
@@ -162,6 +174,10 @@
 [/us/stat/125/459]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F459
 [/us/pl/113/295/s208/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs208%2Fc
 [/us/stat/128/4073]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4073
+[/us/pl/114/113/s207/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs207%2Fa
+[/us/stat/129/3082]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3082
+[/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
+[/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
 [/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
 [/us/pl/112/41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F41
 [/us/pl/110/28/s8246/a/2/G/i/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F28%2Fs8246%2Fa%2F2%2FG%2Fi%2FI
@@ -176,6 +192,8 @@
 [/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
 [/us/usc/t26/s274/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs274%2Fd
 [/us/pl/95/600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600
+[/us/pl/114/113/s207/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs207%2Fc
+[/us/stat/129/3083]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3083
 [/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
 [/us/pl/113/295/s208/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs208%2Fh
 [/us/usc/t26/s6651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6651

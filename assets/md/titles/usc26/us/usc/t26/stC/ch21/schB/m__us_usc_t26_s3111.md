@@ -107,7 +107,25 @@
 
             (B) the term “qualified veteran” has meaning  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be preceded by “the”. </sup></sup>  given such term by section 51(d)(3).
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 416][/us/stat/68A/416]; [Sept. 1, 1954, ch. 1206][/us/act/1954-09-01/ch1206], title II, § 208(c), [68 Stat. 1094][/us/stat/68/1094]; [Aug. 1, 1956. ch. 836][/us/act/1956-08-01/ch836], title II, § 202(c), [70 Stat. 845][/us/stat/70/845]; [Pub. L. 85–840, title IV, § 401(c)][/us/pl/85/840/s401/c], Aug. 28, 1958, [72 Stat. 1042][/us/stat/72/1042]; [Pub. L. 87–64, title II, § 201(c)][/us/pl/87/64/s201/c], June 30, 1961, [75 Stat. 141][/us/stat/75/141]; [Pub. L. 89–97, title I, § 111(c)(6)][/us/pl/89/97/s111/c/6], title III, § 321(c), July 30, 1965, [79 Stat. 343][/us/stat/79/343], 396; [Pub. L. 90–248, title I, § 109(a)(3)][/us/pl/90/248/s109/a/3], (b)(3), Jan. 2, 1968, [81 Stat. 836][/us/stat/81/836], 837; [Pub. L. 92–5, title II, § 204(a)(2)][/us/pl/92/5/s204/a/2], Mar. 17, 1971, [85 Stat. 11][/us/stat/85/11]; [Pub. L. 92–336, title II, § 204(a)(3)][/us/pl/92/336/s204/a/3], (b)(3), July 1, 1972, [86 Stat. 421][/us/stat/86/421], 422; [Pub. L. 92–603, title I, § 135(a)(3)][/us/pl/92/603/s135/a/3], (b)(3), Oct. 30, 1972, [86 Stat. 1363][/us/stat/86/1363], 1364; [Pub. L. 93–233, § 6(a)(2)][/us/pl/93/233/s6/a/2], (b)(3), Dec. 31, 1973, [87 Stat. 954][/us/stat/87/954], 955; [Pub. L. 94–455, title XIX, § 1903(a)(1)][/us/pl/94/455/s1903/a/1], Oct. 4, 1976, [90 Stat. 1806][/us/stat/90/1806]; [Pub. L. 95–216, title I, § 101(a)(2)][/us/pl/95/216/s101/a/2], (b)(2), title III, §§ 315(b), 317(b)(2), Dec. 20, 1977, [91 Stat. 1511][/us/stat/91/1511], 1512, 1537, 1540; [Pub. L. 98–21, title I, § 123(a)(2)][/us/pl/98/21/s123/a/2], Apr. 20, 1983, [97 Stat. 88][/us/stat/97/88]; [Pub. L. 100–203, title IX, § 9006(b)(1)][/us/pl/100/203/s9006/b/1], Dec. 22, 1987, [101 Stat. 1330–289][/us/stat/101/1330-289]; [Pub. L. 100–647, title VIII, § 8016(a)(5)][/us/pl/100/647/s8016/a/5], Nov. 10, 1988, [102 Stat. 3793][/us/stat/102/3793]; [Pub. L. 108–203, title IV, § 415][/us/pl/108/203/s415], Mar. 2, 2004, [118 Stat. 530][/us/stat/118/530]; [Pub. L. 111–147, title I, § 101(a)][/us/pl/111/147/s101/a], Mar. 18, 2010, [124 Stat. 72][/us/stat/124/72]; [Pub. L. 112–56, title II, § 261(e)(2)][/us/pl/112/56/s261/e/2], Nov. 21, 2011, [125 Stat. 730][/us/stat/125/730]; [Pub. L. 113–295, div. A, title II, § 221(a)(99)(B)][/us/pl/113/295/s221/a/99/B], Dec. 19, 2014, [128 Stat. 4051][/us/stat/128/4051].)
+    (f) __Credit for research expenditures of qualified small businesses__ 
+
+        (1) __In general__ 
+
+            In the case of a taxpayer who has made an election under section 41(h) for a taxable year, there shall be allowed as a credit against the tax imposed by subsection (a) for the first calendar quarter which begins after the date on which the taxpayer files the return specified in section 41(h)(4)(A)(ii) an amount equal to the payroll tax credit portion determined under section 41(h)(2).
+
+        (2) __Limitation__ 
+
+            The credit allowed by paragraph (1) shall not exceed the tax imposed by subsection (a) for any calendar quarter on the wages paid with respect to the employment of all individuals in the employ of the employer.
+
+        (3) __Carryover of unused credit__ 
+
+            If the amount of the credit under paragraph (1) exceeds the limitation of paragraph (2) for any calendar quarter, such excess shall be carried to the succeeding calendar quarter and allowed as a credit under paragraph (1) for such quarter.
+
+        (4) __Deduction allowed for credited amounts__ 
+
+            The credit allowed under paragraph (1) shall not be taken into account for purposes of determining the amount of any deduction allowed under chapter 1 for taxes imposed under subsection (a).
+
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 416][/us/stat/68A/416]; [Sept. 1, 1954, ch. 1206][/us/act/1954-09-01/ch1206], title II, § 208(c), [68 Stat. 1094][/us/stat/68/1094]; [Aug. 1, 1956. ch. 836][/us/act/1956-08-01/ch836], title II, § 202(c), [70 Stat. 845][/us/stat/70/845]; [Pub. L. 85–840, title IV, § 401(c)][/us/pl/85/840/s401/c], Aug. 28, 1958, [72 Stat. 1042][/us/stat/72/1042]; [Pub. L. 87–64, title II, § 201(c)][/us/pl/87/64/s201/c], June 30, 1961, [75 Stat. 141][/us/stat/75/141]; [Pub. L. 89–97, title I, § 111(c)(6)][/us/pl/89/97/s111/c/6], title III, § 321(c), July 30, 1965, [79 Stat. 343][/us/stat/79/343], 396; [Pub. L. 90–248, title I, § 109(a)(3)][/us/pl/90/248/s109/a/3], (b)(3), Jan. 2, 1968, [81 Stat. 836][/us/stat/81/836], 837; [Pub. L. 92–5, title II, § 204(a)(2)][/us/pl/92/5/s204/a/2], Mar. 17, 1971, [85 Stat. 11][/us/stat/85/11]; [Pub. L. 92–336, title II, § 204(a)(3)][/us/pl/92/336/s204/a/3], (b)(3), July 1, 1972, [86 Stat. 421][/us/stat/86/421], 422; [Pub. L. 92–603, title I, § 135(a)(3)][/us/pl/92/603/s135/a/3], (b)(3), Oct. 30, 1972, [86 Stat. 1363][/us/stat/86/1363], 1364; [Pub. L. 93–233, § 6(a)(2)][/us/pl/93/233/s6/a/2], (b)(3), Dec. 31, 1973, [87 Stat. 954][/us/stat/87/954], 955; [Pub. L. 94–455, title XIX, § 1903(a)(1)][/us/pl/94/455/s1903/a/1], Oct. 4, 1976, [90 Stat. 1806][/us/stat/90/1806]; [Pub. L. 95–216, title I, § 101(a)(2)][/us/pl/95/216/s101/a/2], (b)(2), title III, §§ 315(b), 317(b)(2), Dec. 20, 1977, [91 Stat. 1511][/us/stat/91/1511], 1512, 1537, 1540; [Pub. L. 98–21, title I, § 123(a)(2)][/us/pl/98/21/s123/a/2], Apr. 20, 1983, [97 Stat. 88][/us/stat/97/88]; [Pub. L. 100–203, title IX, § 9006(b)(1)][/us/pl/100/203/s9006/b/1], Dec. 22, 1987, [101 Stat. 1330–289][/us/stat/101/1330-289]; [Pub. L. 100–647, title VIII, § 8016(a)(5)][/us/pl/100/647/s8016/a/5], Nov. 10, 1988, [102 Stat. 3793][/us/stat/102/3793]; [Pub. L. 108–203, title IV, § 415][/us/pl/108/203/s415], Mar. 2, 2004, [118 Stat. 530][/us/stat/118/530]; [Pub. L. 111–147, title I, § 101(a)][/us/pl/111/147/s101/a], Mar. 18, 2010, [124 Stat. 72][/us/stat/124/72]; [Pub. L. 112–56, title II, § 261(e)(2)][/us/pl/112/56/s261/e/2], Nov. 21, 2011, [125 Stat. 730][/us/stat/125/730]; [Pub. L. 113–295, div. A, title II, § 221(a)(99)(B)][/us/pl/113/295/s221/a/99/B], Dec. 19, 2014, [128 Stat. 4051][/us/stat/128/4051]; [Pub. L. 114–113, div. Q, title I, § 121(c)(2)][/us/pl/114/113/s121/c/2], Dec. 18, 2015, [129 Stat. 3051][/us/stat/129/3051].)
 
  __References in Text__ 
 
@@ -118,6 +136,8 @@
     Section 101(b) of the Higher Education Act of 1965, referred to in subsec. (d)(2)(B), is classified to [section 1001(b) of Title 20][/us/usc/t20/s1001/b], Education.
 
  __Amendments__ 
+
+    2015—Subsec. (f). [Pub. L. 114–113][/us/pl/114/113] added subsec. (f).
 
     2014—Subsec. (a). [Pub. L. 113–295, § 221(a)(99)(B)(i)][/us/pl/113/295/s221/a/99/B/i], substituted “6.2 percent of the wages (as defined in section 3121(a)) paid by the employer with respect to employment (as defined in section 3121(b)).” for “the following percentages of the wages (as defined in section 3121(a)) paid by him with respect to employment (as defined in section 3121(b))—” and table of rates.
 
@@ -212,6 +232,10 @@
     1956—Act Aug. 1, 1956, increased rate of tax with respect to wages paid during calendar years 1957 to 1959, and for all calendar years thereafter, by one-quarter percent.
 
     1954—Act Sept. 1, 1954, increased 3¼ percent rate of tax for calendar year 1970 and subsequent years to 3½ percent for calendar years 1970 to 1974 and 4 percent for 1975 and subsequent years.
+
+ __Effective Date of 2015 Amendment__ 
+
+    Amendment by [Pub. L. 114–113][/us/pl/114/113] applicable to taxable years beginning after Dec. 31, 2015, see [section 121(d)(3) of Pub. L. 114–113][/us/pl/114/113/s121/d/3], set out as a note under [section 38 of this title][/us/usc/t26/s38].
 
  __Effective Date of 2014 Amendment__ 
 
@@ -342,9 +366,12 @@
 [/us/stat/125/730]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F730
 [/us/pl/113/295/s221/a/99/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F99%2FB
 [/us/stat/128/4051]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4051
+[/us/pl/114/113/s121/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs121%2Fc%2F2
+[/us/stat/129/3051]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3051
 [/us/usc/t42/s433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs433
 [/us/pl/111/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F147
 [/us/usc/t20/s1001/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1001%2Fb
+[/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
 [/us/pl/113/295/s221/a/99/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F99%2FB%2Fi
 [/us/pl/113/295/s221/a/99/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F99%2FB%2Fii
 [/us/pl/112/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F56
@@ -386,6 +413,9 @@
 [/us/pl/89/97/s111/c/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F97%2Fs111%2Fc%2F6
 [/us/pl/87/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F64
 [/us/pl/85/840]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F840
+[/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
+[/us/pl/114/113/s121/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs121%2Fd%2F3
+[/us/usc/t26/s38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs38
 [/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
 [/us/pl/113/295/s221/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fb
 [/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1

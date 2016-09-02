@@ -87,6 +87,16 @@
 
                 In the case of any property described in subparagraph (A) that had been exported by the taxpayer for further manufacture, the increase in cost or adjusted basis under subparagraph (A) shall not exceed the difference between the value of the property when exported and the value of the property when brought back into the United States after the further manufacture.
 
+            (C) __Transportation costs of independent refiners__ 
+
+                (i) __In general__ 
+
+                    In the case of any taxpayer who is in the trade or business of refining crude oil and who is not a major integrated oil company (as defined in section 167(h)(5)(B), determined without regard to clause (iii) thereof) for the taxable year, in computing oil related qualified production activities income under subsection (d)(9)(B), the amount allocated to domestic production gross receipts under paragraph (1)(B) for costs related to the transportation of oil shall be 25 percent of the amount properly allocable under such paragraph (determined without regard to this subparagraph).
+
+                (ii) __Termination__ 
+
+                    Clause (i) shall not apply to any taxable year beginning after December 31, 2021.
+
         (4) __Domestic production gross receipts__ 
 
             (A) __In general__ 
@@ -281,7 +291,7 @@
 
             (C) __Termination__ 
 
-                This paragraph shall apply only with respect to the first 9 taxable years of the taxpayer beginning after December 31, 2005, and before January 1, 2015.
+                This paragraph shall apply only with respect to the first 11 taxable years of the taxpayer beginning after December 31, 2005, and before January 1, 2017.
 
         (9) __Special rule for taxpayers with oil related qualified production activities income__ 
 
@@ -307,13 +317,17 @@
 
             The Secretary shall prescribe such regulations as are necessary to carry out the purposes of this section, including regulations which prevent more than 1 taxpayer from being allowed a deduction under this section with respect to any activity described in subsection (c)(4)(A)(i).
 
-(Added [Pub. L. 108–357, title I, § 102(a)][/us/pl/108/357/s102/a], Oct. 22, 2004, [118 Stat. 1424][/us/stat/118/1424]; amended [Pub. L. 109–135, title IV, § 403(a)(1)][/us/pl/109/135/s403/a/1]–(13), Dec. 21, 2005, [119 Stat. 2615–2619][/us/stat/119/2615-2619]; [Pub. L. 109–222, title V, § 514(a)][/us/pl/109/222/s514/a], (b), May 17, 2006, [120 Stat. 366][/us/stat/120/366]; [Pub. L. 109–432, div. A, title IV, § 401(a)][/us/pl/109/432/s401/a], Dec. 20, 2006, [120 Stat. 2953][/us/stat/120/2953]; [Pub. L. 110–343, div. B, title IV, § 401(a)][/us/pl/110/343/s401/a], (b), div. C, title III, § 312(a), title V, § 502(c), Oct. 3, 2008, [122 Stat. 3851][/us/stat/122/3851], 3869, 3876; [Pub. L. 111–312, title VII, § 746(a)][/us/pl/111/312/s746/a], Dec. 17, 2010, [124 Stat. 3319][/us/stat/124/3319]; [Pub. L. 112–240, title III, § 318(a)][/us/pl/112/240/s318/a], Jan. 2, 2013, [126 Stat. 2331][/us/stat/126/2331]; [Pub. L. 113–295, div. A, title I, § 130(a)][/us/pl/113/295/s130/a], title II, §§ 219(b), 221(a)(37), Dec. 19, 2014, [128 Stat. 4018][/us/stat/128/4018], 4035, 4043.)
+(Added [Pub. L. 108–357, title I, § 102(a)][/us/pl/108/357/s102/a], Oct. 22, 2004, [118 Stat. 1424][/us/stat/118/1424]; amended [Pub. L. 109–135, title IV, § 403(a)(1)][/us/pl/109/135/s403/a/1]–(13), Dec. 21, 2005, [119 Stat. 2615–2619][/us/stat/119/2615-2619]; [Pub. L. 109–222, title V, § 514(a)][/us/pl/109/222/s514/a], (b), May 17, 2006, [120 Stat. 366][/us/stat/120/366]; [Pub. L. 109–432, div. A, title IV, § 401(a)][/us/pl/109/432/s401/a], Dec. 20, 2006, [120 Stat. 2953][/us/stat/120/2953]; [Pub. L. 110–343, div. B, title IV, § 401(a)][/us/pl/110/343/s401/a], (b), div. C, title III, § 312(a), title V, § 502(c), Oct. 3, 2008, [122 Stat. 3851][/us/stat/122/3851], 3869, 3876; [Pub. L. 111–312, title VII, § 746(a)][/us/pl/111/312/s746/a], Dec. 17, 2010, [124 Stat. 3319][/us/stat/124/3319]; [Pub. L. 112–240, title III, § 318(a)][/us/pl/112/240/s318/a], Jan. 2, 2013, [126 Stat. 2331][/us/stat/126/2331]; [Pub. L. 113–295, div. A, title I, § 130(a)][/us/pl/113/295/s130/a], title II, §§ 219(b), 221(a)(37), Dec. 19, 2014, [128 Stat. 4018][/us/stat/128/4018], 4035, 4043; [Pub. L. 114–113, div. P, title III, § 305(a)][/us/pl/114/113/s305/a], div. Q, title I, § 170(a), Dec. 18, 2015, [129 Stat. 3040][/us/stat/129/3040], 3069.)
 
  __References in Text__ 
 
     [Section 927(a)(2)(C) of this title][/us/usc/t26/s927/a/2/C], referred to in subsec. (d)(9)(C), was repealed by [Pub. L. 106–519, § 2][/us/pl/106/519/s2], Nov. 15, 2000, [114 Stat. 2423][/us/stat/114/2423].
 
  __Amendments__ 
+
+    2015—Subsec. (c)(3)(C). [Pub. L. 114–113, § 305(a)][/us/pl/114/113/s305/a], added subpar. (C).
+
+    Subsec. (d)(8)(C). [Pub. L. 114–113, § 170(a)][/us/pl/114/113/s170/a], substituted “first 11 taxable years” for “first 9 taxable years” and “January 1, 2017” for “January 1, 2015”.
 
     Subsec. (a). [Pub. L. 113–295, § 221(a)(37)(A)][/us/pl/113/295/s221/a/37/A], struck out par. (1) designation and heading, redesignated subpars. (A) and (B) of former par. (1) as pars. (1) and (2), respectively, and realigned margins, and struck out former par. (2), which related to phasein of deduction for taxable years 2005 to 2009.
 
@@ -393,6 +407,16 @@
 
     Subsec. (d)(8). [Pub. L. 109–135, § 403(a)(12)][/us/pl/109/135/s403/a/12], (13), redesignated par. (7) as (8) and inserted before period at end “, including regulations which prevent more than 1 taxpayer from being allowed a deduction under this section with respect to any activity described in subsection (c)(4)(A)(i)”.
 
+ __Effective Date of 2015 Amendment__ 
+
+[Pub. L. 114–113, div. P, title III, § 305(b)][/us/pl/114/113/s305/b], Dec. 18, 2015, [129 Stat. 3040][/us/stat/129/3040], provided that: 
+
+> “The amendment made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2015.”
+
+[Pub. L. 114–113, div. Q, title I, § 170(b)][/us/pl/114/113/s170/b], Dec. 18, 2015, [129 Stat. 3069][/us/stat/129/3069], provided that: 
+
+> “The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2014.”
+
  __Effective Date of 2014 Amendment__ 
 
 [Pub. L. 113–295, div. A, title I, § 130(b)][/us/pl/113/295/s130/b], Dec. 19, 2014, [128 Stat. 4018][/us/stat/128/4018], provided that: 
@@ -471,9 +495,13 @@
 [/us/stat/126/2331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2331
 [/us/pl/113/295/s130/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs130%2Fa
 [/us/stat/128/4018]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4018
+[/us/pl/114/113/s305/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs305%2Fa
+[/us/stat/129/3040]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3040
 [/us/usc/t26/s927/a/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs927%2Fa%2F2%2FC
 [/us/pl/106/519/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F519%2Fs2
 [/us/stat/114/2423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2423
+[/us/pl/114/113/s305/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs305%2Fa
+[/us/pl/114/113/s170/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs170%2Fa
 [/us/pl/113/295/s221/a/37/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F37%2FA
 [/us/pl/113/295/s219/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs219%2Fb
 [/us/pl/113/295/s221/a/37/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F37%2FB
@@ -504,6 +532,10 @@
 [/us/pl/109/135/s403/a/11/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135%2Fs403%2Fa%2F11%2FA
 [/us/pl/109/135/s403/a/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135%2Fs403%2Fa%2F12
 [/us/pl/109/135/s403/a/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135%2Fs403%2Fa%2F12
+[/us/pl/114/113/s305/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs305%2Fb
+[/us/stat/129/3040]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3040
+[/us/pl/114/113/s170/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs170%2Fb
+[/us/stat/129/3069]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3069
 [/us/pl/113/295/s130/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs130%2Fb
 [/us/stat/128/4018]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4018
 [/us/pl/113/295/s219/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs219%2Fd

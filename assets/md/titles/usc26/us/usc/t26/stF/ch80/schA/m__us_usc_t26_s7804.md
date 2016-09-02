@@ -51,7 +51,7 @@
 
  __Termination of Employment for Misconduct__ 
 
-[Pub. L. 105–206, title I, § 1203][/us/pl/105/206/s1203], July 22, 1998, [112 Stat. 720][/us/stat/112/720], as amended by [Pub. L. 108–357, title VIII, § 881(d)][/us/pl/108/357/s881/d], Oct. 22, 2004, [118 Stat. 1627][/us/stat/118/1627], provided that:
+[Pub. L. 105–206, title I, § 1203][/us/pl/105/206/s1203], July 22, 1998, [112 Stat. 720][/us/stat/112/720], as amended by [Pub. L. 108–357, title VIII, § 881(d)][/us/pl/108/357/s881/d], Oct. 22, 2004, [118 Stat. 1627][/us/stat/118/1627]; [Pub. L. 114–113, div. Q, title IV, § 407(a)][/us/pl/114/113/s407/a], Dec. 18, 2015, [129 Stat. 3120][/us/stat/129/3120], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -99,7 +99,7 @@
 
 >         “(9) willful understatement of Federal tax liability, unless such understatement is due to reasonable cause and not to willful neglect; and
 
->         “(10) threatening to audit a taxpayer for the purpose of extracting personal gain or benefit.
+>         “(10) performing, delaying, or failing to perform (or threatening to perform, delay, or fail to perform) any official action (including any audit) with respect to a taxpayer for purpose of extracting personal gain or benefit or for a political purpose.
 
 >     “(c) __Determination of Commissioner.—__ 
 
@@ -122,6 +122,12 @@
 >     “(e)  __Individuals Performing Services Under a Qualified Tax Collection Contract__  __.—__ 
 
 >     An individual shall cease to be permitted to perform any services under any qualified tax collection contract (as defined in section 6306(b) of the Internal Revenue Code of 1986) if there is a final determination by the Secretary of the Treasury under such contract that such individual committed any act or omission described under subsection (b) in connection with the performance of such services.”
+
+\[[Pub. L. 114–113, div. Q, title IV, § 407(b)][/us/pl/114/113/s407/b], Dec. 18, 2015, [129 Stat. 3120][/us/stat/129/3120], provided that: 
+
+> “The amendment made by this section \[amending [section 1203 of Pub. L. 105–206][/us/pl/105/206/s1203], set out above\] shall take effect on the date of the enactment of this Act \[Dec. 18, 2015\].”
+
+\]
 
  __Employee Training Program__ 
 
@@ -353,12 +359,17 @@
 [/us/stat/112/720]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F720
 [/us/pl/108/357/s881/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs881%2Fd
 [/us/stat/118/1627]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1627
+[/us/pl/114/113/s407/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs407%2Fa
+[/us/stat/129/3120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3120
 [/us/usc/t42/s2000d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2000d
 [/us/usc/t20/s1681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1681
 [/us/usc/t29/s621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs621
 [/us/usc/t42/s6101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6101
 [/us/usc/t29/s791]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs791
 [/us/usc/t42/s12111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12111
+[/us/pl/114/113/s407/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs407%2Fb
+[/us/stat/129/3120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3120
+[/us/pl/105/206/s1203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs1203
 [/us/pl/105/206/s1205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs1205
 [/us/stat/112/722]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F722
 [/us/pl/105/206/s3701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs3701

@@ -273,7 +273,7 @@
 
                 (i) __Alternative depreciation property__ 
 
-                    Such term shall not include any property described in section 168(k)(2)(D)(i).
+                    Such term shall not include any property described in section 168(k)(2)(D)(i). <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup> 
 
                 (ii) __Tax-exempt bond-financed property__ 
 
@@ -837,6 +837,8 @@
 
     The Emergency Supplemental Appropriations Act for Defense, the Global War on Terror, and Hurricane Recovery, 2006, referred to in subsec. (c)(6), is [Pub. L. 109–234][/us/pl/109/234], June 15, 2006, [120 Stat. 418][/us/stat/120/418]. For complete classification of this Act to the Code, see Tables.
 
+    Section 168(k)(2)(D)(i), referred to in subsec. (d)(2)(B)(i), was amended generally by [Pub. L. 114–113, div. Q, § 143(b)(1)][/us/pl/114/113/s143/b/1], Dec. 18, 2015, [129 Stat. 3057][/us/stat/129/3057]. Provisions similar to those contained in former cl. (i) of section 168(k)(2)(D) are now contained in section 168(k)(2)(D).
+
     Subsec. (i) of section 172, referred to in subsecs. (i)(2) and (k)(4), was redesignated (h) by [Pub. L. 113–295, div. A, title II, § 221(a)(30)(A)(ii)][/us/pl/113/295/s221/a/30/A/ii], Dec. 19, 2014, [128 Stat. 4041][/us/stat/128/4041].
 
  __Codification__ 
@@ -1014,6 +1016,8 @@
 [/us/stat/119/2680]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2680
 [/us/pl/109/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F234
 [/us/stat/120/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F418
+[/us/pl/114/113/s143/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs143%2Fb%2F1
+[/us/stat/129/3057]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3057
 [/us/pl/113/295/s221/a/30/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F30%2FA%2Fii
 [/us/stat/128/4041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4041
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234

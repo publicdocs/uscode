@@ -137,7 +137,7 @@
 
 >     The report required under subsection (a) shall also include information on the following with respect to each year:
 
->         “(1) Any action taken under [section 330(b) of title 31][/us/usc/t31/s330/b], United States Code, with respect to any reportable transaction (as defined in section 6707A(c) of the Internal Revenue Code of 1986).
+>         “(1) Any action taken under section 330(b) \[now 330(c)\] of title 31, United States Code, with respect to any reportable transaction (as defined in section 6707A(c) of the Internal Revenue Code of 1986).
 
 >         “(2) Any extension of the time for assessment of tax enforced, or assessment of any amount under such an extension, under paragraph (10) of section 6501(c) of the Internal Revenue Code of 1986.
 
@@ -175,6 +175,5 @@
 [/us/usc/t26/s6662]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6662
 [/us/pl/111/240/s2103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240%2Fs2103
 [/us/stat/124/2564]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2564
-[/us/usc/t31/s330/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs330%2Fb
 
 

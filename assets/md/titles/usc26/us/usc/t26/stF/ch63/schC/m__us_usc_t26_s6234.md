@@ -163,13 +163,23 @@
 
     If an action brought under this section is dismissed other than by reason of a rescission under section 6231(c), the decision of the court dismissing the action shall be considered as its decision that the notice of final partnership adjustment is correct, and an appropriate order shall be entered in the records of the court.
 
+[Pub. L. 114–113, div. Q, title IV, § 411(b)(2)][/us/pl/114/113/s411/b/2], (3), (e), Dec. 18, 2015, [129 Stat. 3122][/us/stat/129/3122], provided that, effective as if included in [section 1101 of Pub. L. 114–74][/us/pl/114/74/s1101], this section (as added by [Pub. L. 114–74][/us/pl/114/74], see note above) is amended as follows:
+
+    (1) in subsections (a)(3), (b)(1), and (d), by striking “the Claims Court” and inserting “the Court of Federal Claims”; and
+
+    (2) in the heading of subsection (b), by striking “Claims Court” and inserting “Court of Federal Claims”.
+
  __Amendments__ 
 
     2002—Subsec. (g)(4)(A). [Pub. L. 107–147][/us/pl/107/147] inserted “or the Attorney General (or his delegate)” after “Secretary”.
 
- __Effective Date of Repeal__ 
+ __Effective Date of 2015 Amendment__ 
 
-    Repeal applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, see [section 1101(g) of Pub. L. 114–74][/us/pl/114/74/s1101/g], set out as an Effective Date of 2015 Amendment note under [section 6221 of this title][/us/usc/t26/s6221].
+    Amendment by [Pub. L. 114–113][/us/pl/114/113] effective as if included in [section 1101 of Pub. L. 114–74][/us/pl/114/74/s1101], see [section 411(e) of Pub. L. 114–113][/us/pl/114/113/s411/e], set out as a note under [section 6031 of this title][/us/usc/t26/s6031].
+
+ __Effective Date of Repeal and Reenactment__ 
+
+    Repeal and reenacted section applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, see [section 1101(g) of Pub. L. 114–74][/us/pl/114/74/s1101/g], set out as an Effective Date of 2015 Amendment note under [section 6221 of this title][/us/usc/t26/s6221].
 
  __Effective Date of 2002 Amendment__ 
 
@@ -192,7 +202,15 @@
 [/us/stat/116/55]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F55
 [/us/pl/114/74/s1101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs1101%2Fa
 [/us/stat/129/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F625
+[/us/pl/114/113/s411/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs411%2Fb%2F2
+[/us/stat/129/3122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3122
+[/us/pl/114/74/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs1101
+[/us/pl/114/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74
 [/us/pl/107/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F147
+[/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
+[/us/pl/114/74/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs1101
+[/us/pl/114/113/s411/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs411%2Fe
+[/us/usc/t26/s6031]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6031
 [/us/pl/114/74/s1101/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs1101%2Fg
 [/us/usc/t26/s6221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6221
 [/us/pl/107/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F147

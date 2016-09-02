@@ -143,9 +143,19 @@
 
   </tr>
 
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs7466" data-uslm-ref="/us/usc/t26/s7466">7466.</a>  </td>
+
+    <td> Judicial conduct and disability procedures.  </td>
+
+  </tr>
+
 </table>
 
  __Amendments__ 
+
+    2015—[Pub. L. 114–113, div. Q, title IV, § 431(b)][/us/pl/114/113/s431/b], Dec. 18, 2015, [129 Stat. 3125][/us/stat/129/3125], added item 7466.
 
     1998—[Pub. L. 105–206, title III, § 3103(b)(2)][/us/pl/105/206/s3103/b/2], July 22, 1998, [112 Stat. 731][/us/stat/112/731], substituted “$50,000” for “$10,000” in item 7463.
 
@@ -166,6 +176,8 @@
 ----------
 ----------
 
+[/us/pl/114/113/s431/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs431%2Fb
+[/us/stat/129/3125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3125
 [/us/pl/105/206/s3103/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs3103%2Fb%2F2
 [/us/stat/112/731]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F731
 [/us/pl/98/369/s461/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs461%2Fa%2F2%2FB

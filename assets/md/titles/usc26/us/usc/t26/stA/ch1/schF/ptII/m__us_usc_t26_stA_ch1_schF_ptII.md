@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../../..//us/usc/t26/stA/ch1/schF/ptI/m__us_usc_t26_s505.md) | [Next](./../../../../../../..//us/usc/t26/stA/ch1/schF/ptII/m__us_usc_t26_s507.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschF%2FptII)
+[Previous](./../../../../../../..//us/usc/t26/stA/ch1/schF/ptI/m__us_usc_t26_s506.md) | [Next](./../../../../../../..//us/usc/t26/stA/ch1/schF/ptII/m__us_usc_t26_s507.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschF%2FptII)
 
 ##### PART II—PRIVATE FOUNDATIONS
 
@@ -55,7 +55,7 @@
 
 ----------
 
-[Previous](./../../../../../../..//us/usc/t26/stA/ch1/schF/ptI/m__us_usc_t26_s505.md) | [Next](./../../../../../../..//us/usc/t26/stA/ch1/schF/ptII/m__us_usc_t26_s507.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschF%2FptII)
+[Previous](./../../../../../../..//us/usc/t26/stA/ch1/schF/ptI/m__us_usc_t26_s506.md) | [Next](./../../../../../../..//us/usc/t26/stA/ch1/schF/ptII/m__us_usc_t26_s507.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschF%2FptII)
 
 ----------
 ----------

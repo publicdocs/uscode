@@ -49,7 +49,31 @@
 
             If the Secretary determines not to delegate a power specified in subparagraph (A) or (B), such determination may not take effect until 30 days after the Secretary notifies the Committees on Ways and Means, Government Reform and Oversight, and Appropriations of the House of Representatives and the Committees on Finance, Governmental Affairs, and Appropriations of the Senate.
 
-        (3) __Consultation with Board__ 
+        (3) __Execution of duties in accord with taxpayer rights__ 
+
+        In discharging his duties, the Commissioner shall ensure that employees of the Internal Revenue Service are familiar with and act in accord with taxpayer rights as afforded by other provisions of this title, including—
+
+            (A) the right to be informed,
+
+            (B) the right to quality service,
+
+            (C) the right to pay no more than the correct amount of tax,
+
+            (D) the right to challenge the position of the Internal Revenue Service and be heard,
+
+            (E) the right to appeal a decision of the Internal Revenue Service in an independent forum,
+
+            (F) the right to finality,
+
+            (G) the right to privacy,
+
+            (H) the right to confidentiality,
+
+            (I) the right to retain representation, and
+
+            (J) the right to a fair and just tax system.
+
+        (4) __Consultation with Board__ 
 
             The Commissioner shall consult with the Oversight Board on all matters set forth in paragraphs (2) and (3) (other than paragraph (3)(A)) of section 7802(d).
 
@@ -291,7 +315,7 @@
 
             (C) not later than December 31, 2010, submit a written report to Congress on the implementation of section 6103(k)(10).
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 915][/us/stat/68A/915]; [Pub. L. 92–310, title II, § 230(e)][/us/pl/92/310/s230/e], June 6, 1972, [86 Stat. 209][/us/stat/86/209]; [Pub. L. 94–455, title XIX, § 1906(a)(58)][/us/pl/94/455/s1906/a/58], (b)(13)(A), Oct. 4, 1976, [90 Stat. 1833][/us/stat/90/1833], 1834; [Pub. L. 105–206, title I, § 1102(a)][/us/pl/105/206/s1102/a], July 22, 1998, [112 Stat. 697][/us/stat/112/697]; [Pub. L. 110–176, § 1(a)][/us/pl/110/176/s1/a], Jan. 4, 2008, [121 Stat. 2532][/us/stat/121/2532]; [Pub. L. 110–428, § 2(c)][/us/pl/110/428/s2/c], Oct. 15, 2008, [122 Stat. 4840][/us/stat/122/4840].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 915][/us/stat/68A/915]; [Pub. L. 92–310, title II, § 230(e)][/us/pl/92/310/s230/e], June 6, 1972, [86 Stat. 209][/us/stat/86/209]; [Pub. L. 94–455, title XIX, § 1906(a)(58)][/us/pl/94/455/s1906/a/58], (b)(13)(A), Oct. 4, 1976, [90 Stat. 1833][/us/stat/90/1833], 1834; [Pub. L. 105–206, title I, § 1102(a)][/us/pl/105/206/s1102/a], July 22, 1998, [112 Stat. 697][/us/stat/112/697]; [Pub. L. 110–176, § 1(a)][/us/pl/110/176/s1/a], Jan. 4, 2008, [121 Stat. 2532][/us/stat/121/2532]; [Pub. L. 110–428, § 2(c)][/us/pl/110/428/s2/c], Oct. 15, 2008, [122 Stat. 4840][/us/stat/122/4840]; [Pub. L. 114–113, div. Q, title IV, § 401(a)][/us/pl/114/113/s401/a], Dec. 18, 2015, [129 Stat. 3117][/us/stat/129/3117].)
 
  __References in Text__ 
 
@@ -304,6 +328,8 @@
     Section 6227 of the Omnibus Taxpayer Bill of Rights, referred to in subsec. (d)(3)(B), is [section 6227 of Pub. L. 100–647][/us/pl/100/647/s6227], which is set out as a note under [section 7801 of this title][/us/usc/t26/s7801].
 
  __Amendments__ 
+
+    2015—Subsec. (a)(3), (4). [Pub. L. 114–113][/us/pl/114/113] added par. (3) and redesignated former par. (3) as (4).
 
     2008—Subsec. (a)(1). [Pub. L. 110–176][/us/pl/110/176] amended par. (1) generally, substituting provisions relating to appointment, consisting of subpars. (A) to (E), for similar provisions, consisting of subpars. (A) to (D).
 
@@ -322,6 +348,12 @@
     Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999. Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
     Committee on Governmental Affairs of Senate changed to Committee on Homeland Security and Governmental Affairs of Senate, effective Jan. 4, 2005, by Senate Resolution No. 445, One Hundred Eighth Congress, Oct. 9, 2004.
+
+ __Effective Date of 2015 Amendment__ 
+
+[Pub. L. 114–113, div. Q, title IV, § 401(b)][/us/pl/114/113/s401/b], Dec. 18, 2015, [129 Stat. 3117][/us/stat/129/3117], provided that: 
+
+> “The amendments made by this section \[amending this section\] shall take effect on the date of the enactment of this Act \[Dec. 18, 2015\].”
 
  __Effective Date of 2008 Amendment__ 
 
@@ -379,10 +411,13 @@
 [/us/stat/121/2532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2532
 [/us/pl/110/428/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F428%2Fs2%2Fc
 [/us/stat/122/4840]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4840
+[/us/pl/114/113/s401/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs401%2Fa
+[/us/stat/129/3117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3117
 [/us/pl/95/452/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F452%2Fs5
 [/us/pl/105/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206
 [/us/pl/100/647/s6227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs6227
 [/us/usc/t26/s7801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs7801
+[/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
 [/us/pl/110/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F176
 [/us/pl/110/428]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F428
 [/us/pl/105/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206
@@ -390,6 +425,8 @@
 [/us/pl/94/455/s1906/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb
 [/us/pl/94/455/s1906/a/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fa%2F58
 [/us/pl/92/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F310
+[/us/pl/114/113/s401/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs401%2Fb
+[/us/stat/129/3117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3117
 [/us/pl/110/428]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F428
 [/us/pl/110/428/s2/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F428%2Fs2%2Fd
 [/us/usc/t26/s6103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6103

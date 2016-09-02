@@ -81,9 +81,9 @@
 
     then, to the extent provided in regulations, rules similar to the rules of subsection (a) shall apply.”
 
- __Effective Date of Repeal__ 
+ __Effective Date of Repeal and Reenactment__ 
 
-    Repeal applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, see [section 1101(g) of Pub. L. 114–74][/us/pl/114/74/s1101/g], set out as an Effective Date of 2015 Amendment note under [section 6221 of this title][/us/usc/t26/s6221].
+    Repeal and reenacted section applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, see [section 1101(g) of Pub. L. 114–74][/us/pl/114/74/s1101/g], set out as an Effective Date of 2015 Amendment note under [section 6221 of this title][/us/usc/t26/s6221].
 
  __Effective Date of 1996 Amendment__ 
 

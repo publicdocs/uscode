@@ -41,7 +41,7 @@
 
         (1) __National limitation__ 
 
-            There is a national zone academy bond limitation for each calendar year. Such limitation is $400,000,000 for 2008, $1,400,000,000 for 2009 and 2010, and $400,000,000 for 2011, 2012, 2013, and 2014 and, except as provided in paragraph (4), zero thereafter.
+            There is a national zone academy bond limitation for each calendar year. Such limitation is $400,000,000 for 2008, $1,400,000,000 for 2009 and 2010, and $400,000,000 for 2011, 2012, 2013, 2014, 2015, and 2016 and, except as provided in paragraph (4), zero thereafter.
 
         (2) __Allocation of limitation__ 
 
@@ -121,7 +121,7 @@
 
             (E) any other property or service specified by the eligible local education agency.
 
-(Added [Pub. L. 110–343, div. C, title III, § 313(a)][/us/pl/110/343/s313/a], Oct. 3, 2008, [122 Stat. 3869][/us/stat/122/3869]; amended [Pub. L. 111–5, div. B, title I, § 1522(a)][/us/pl/111/5/s1522/a], Feb. 17, 2009, [123 Stat. 358][/us/stat/123/358]; [Pub. L. 111–312, title VII, § 758(a)][/us/pl/111/312/s758/a], Dec. 17, 2010, [124 Stat. 3322][/us/stat/124/3322]; [Pub. L. 112–240, title III, § 310(a)][/us/pl/112/240/s310/a], Jan. 2, 2013, [126 Stat. 2330][/us/stat/126/2330]; [Pub. L. 113–295, div. A, title I, § 120(a)][/us/pl/113/295/s120/a], Dec. 19, 2014, [128 Stat. 4015][/us/stat/128/4015].)
+(Added [Pub. L. 110–343, div. C, title III, § 313(a)][/us/pl/110/343/s313/a], Oct. 3, 2008, [122 Stat. 3869][/us/stat/122/3869]; amended [Pub. L. 111–5, div. B, title I, § 1522(a)][/us/pl/111/5/s1522/a], Feb. 17, 2009, [123 Stat. 358][/us/stat/123/358]; [Pub. L. 111–312, title VII, § 758(a)][/us/pl/111/312/s758/a], Dec. 17, 2010, [124 Stat. 3322][/us/stat/124/3322]; [Pub. L. 112–240, title III, § 310(a)][/us/pl/112/240/s310/a], Jan. 2, 2013, [126 Stat. 2330][/us/stat/126/2330]; [Pub. L. 113–295, div. A, title I, § 120(a)][/us/pl/113/295/s120/a], Dec. 19, 2014, [128 Stat. 4015][/us/stat/128/4015]; [Pub. L. 114–113, div. Q, title I, § 164(a)][/us/pl/114/113/s164/a], Dec. 18, 2015, [129 Stat. 3066][/us/stat/129/3066].)
 
  __References in Text__ 
 
@@ -133,6 +133,8 @@
 
  __Amendments__ 
 
+    2015—Subsec. (c)(1). [Pub. L. 114–113][/us/pl/114/113] substituted “2014, 2015, and 2016” for “and 2014”.
+
     2014—Subsec. (c)(1). [Pub. L. 113–295][/us/pl/113/295] substituted “2013, and 2014” for “and 2013”.
 
     2013—Subsec. (c)(1). [Pub. L. 112–240][/us/pl/112/240] inserted “, 2012, and 2013” after “for 2011”.
@@ -140,6 +142,12 @@
     2010—Subsec. (c)(1). [Pub. L. 111–312][/us/pl/111/312] substituted “2008,” for “2008 and” and inserted “and $400,000,000 for 2011” after “2010,”.
 
     2009—Subsec. (c)(1). [Pub. L. 111–5][/us/pl/111/5] substituted “and $1,400,000,000 for 2009 and 2010” for “and 2009”.
+
+ __Effective Date of 2015 Amendment__ 
+
+[Pub. L. 114–113, div. Q, title I, § 164(b)][/us/pl/114/113/s164/b], Dec. 18, 2015, [129 Stat. 3067][/us/stat/129/3067], provided that: 
+
+> “The amendment made by this section \[amending this section\] shall apply to obligations issued after December 31, 2014.”
 
  __Effective Date of 2014 Amendment__ 
 
@@ -186,15 +194,20 @@
 [/us/stat/126/2330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2330
 [/us/pl/113/295/s120/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs120%2Fa
 [/us/stat/128/4015]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4015
+[/us/pl/114/113/s164/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs164%2Fa
+[/us/stat/129/3066]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3066
 [/us/pl/110/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343
 [/us/act/1946-06-04/ch281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-06-04%2Fch281
 [/us/stat/60/230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F230
 [/us/usc/t42/s1751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1751
 [/us/usc/t20/s7801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7801
+[/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
 [/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
 [/us/pl/112/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240
 [/us/pl/111/312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F312
 [/us/pl/111/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5
+[/us/pl/114/113/s164/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs164%2Fb
+[/us/stat/129/3067]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3067
 [/us/pl/113/295/s120/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs120%2Fb
 [/us/stat/128/4015]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4015
 [/us/pl/112/240/s310/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs310%2Fb

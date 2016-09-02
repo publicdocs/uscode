@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t26/stC/ch25/m__us_usc_t26_s3511.md) | [Next](./../../../..//us/usc/t26/stD/ch31/m__us_usc_t26_stD_ch31.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2FstD)
+[Previous](./../../../..//us/usc/t26/stC/ch25/m__us_usc_t26_s3512.md) | [Next](./../../../..//us/usc/t26/stD/ch31/m__us_usc_t26_stD_ch31.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2FstD)
 
 ## Subtitle D—Miscellaneous Excise Taxes
 
@@ -699,7 +699,7 @@
 
  __Imposition of Annual Fee on Health Insurance Providers__ 
 
-[Pub. L. 111–148, title IX, § 9010][/us/pl/111/148/s9010], title X, § 10905(a)–(f), Mar. 23, 2010, [124 Stat. 865][/us/stat/124/865], 1017–1019, as amended by [Pub. L. 111–152, title I, § 1406(a)][/us/pl/111/152/s1406/a], Mar. 30, 2010, [124 Stat. 1065][/us/stat/124/1065], provided that:
+[Pub. L. 111–148, title IX, § 9010][/us/pl/111/148/s9010], title X, § 10905(a)–(f), Mar. 23, 2010, [124 Stat. 865][/us/stat/124/865], 1017–1019, as amended by [Pub. L. 111–152, title I, § 1406(a)][/us/pl/111/152/s1406/a], Mar. 30, 2010, [124 Stat. 1065][/us/stat/124/1065]; [Pub. L. 114–113, div. P, title II, § 201][/us/pl/114/113/s201], Dec. 18, 2015, [129 Stat. 3037][/us/stat/129/3037], provided that:
 
 >     “(a) __Imposition of Fee.—__ 
 
@@ -1047,7 +1047,11 @@
 
 >     “(j)  __Effective Date__  __.—__ 
 
->     This section shall apply to calendar years beginning after December 31, 2013.”
+>     This section shall apply to calendar years—
+
+>         “(1) beginning after December 31, 2013, and ending before January 1, 2017, and
+
+>         “(2) beginning after December 31, 2017.”
 
     \[[Pub. L. 111–152, title I, § 1406(a)(3)(C)][/us/pl/111/152/s1406/a/3/C], Mar. 30, 2010, [124 Stat. 1065][/us/stat/124/1065], which directed amendment of [section 9010(c) of Pub. L. 111–148][/us/pl/111/148/s9010/c], set out above, by substituting “subparagraph (C) or (D)” for “subparagraph (C)(i)(I), (D)(i)(I), or (E)(i)” in par. (3)(A), was executed by making the substitution in concluding provisions of par. (3), to reflect the probable intent of Congress.\]
 
@@ -1065,7 +1069,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t26/stC/ch25/m__us_usc_t26_s3511.md) | [Next](./../../../..//us/usc/t26/stD/ch31/m__us_usc_t26_stD_ch31.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2FstD)
+[Previous](./../../../..//us/usc/t26/stC/ch25/m__us_usc_t26_s3512.md) | [Next](./../../../..//us/usc/t26/stD/ch31/m__us_usc_t26_stD_ch31.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2FstD)
 
 ----------
 ----------
@@ -1146,6 +1150,8 @@
 [/us/stat/124/865]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F865
 [/us/pl/111/152/s1406/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2Fs1406%2Fa
 [/us/stat/124/1065]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1065
+[/us/pl/114/113/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs201
+[/us/stat/129/3037]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3037
 [/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
 [/us/usc/t42/s1395ss/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ss%2Fg%2F1
 [/us/pl/111/152/s1406/a/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2Fs1406%2Fa%2F3%2FC

@@ -97,6 +97,10 @@
 
 ([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 821][/us/stat/68A/821]; [Pub. L. 90–364, title I, § 103(e)(4)][/us/pl/90/364/s103/e/4], June 28, 1968, [82 Stat. 264][/us/stat/82/264]; [Pub. L. 91–172, title IX, § 943(a)][/us/pl/91/172/s943/a], Dec. 30, 1969, [83 Stat. 727][/us/stat/83/727]; [Pub. L. 92–9, § 3(j)(1)][/us/pl/92/9/s3/j/1], Apr. 1, 1971, [85 Stat. 22][/us/stat/85/22]; [Pub. L. 94–455, title XIX, § 1904(b)(10)(A)(v)][/us/pl/94/455/s1904/b/10/A/v], Oct. 4, 1976, [90 Stat. 1817][/us/stat/90/1817]; [Pub. L. 97–248, title III, § 318(a)][/us/pl/97/248/s318/a], (b), Sept. 3, 1982, [96 Stat. 610][/us/stat/96/610]; [Pub. L. 98–369, div. A, title IV, § 412(b)(8)][/us/pl/98/369/s412/b/8], July 18, 1984, [98 Stat. 792][/us/stat/98/792]; [Pub. L. 99–514, title XV, § 1502(a)][/us/pl/99/514/s1502/a], (b), Oct. 22, 1986, [100 Stat. 2741][/us/stat/100/2741]; [Pub. L. 100–203, title X, § 10301(b)(6)][/us/pl/100/203/s10301/b/6], Dec. 22, 1987, [101 Stat. 1330–429][/us/stat/101/1330-429]; [Pub. L. 101–239, title VII, § 7741(a)][/us/pl/101/239/s7741/a], Dec. 19, 1989, [103 Stat. 2404][/us/stat/103/2404]; [Pub. L. 104–168, title III, § 303(b)(2)][/us/pl/104/168/s303/b/2], title XIII, § 1301(a), July 30, 1996, [110 Stat. 1458][/us/stat/110/1458], 1475; [Pub. L. 105–206, title III, § 3303(a)][/us/pl/105/206/s3303/a], July 22, 1998, [112 Stat. 742][/us/stat/112/742]; [Pub. L. 110–245, title III, § 303(a)][/us/pl/110/245/s303/a], June 17, 2008, [122 Stat. 1649][/us/stat/122/1649]; [Pub. L. 113–295, div. B, title II, § 208(a)][/us/pl/113/295/s208/a], Dec. 19, 2014, [128 Stat. 4072][/us/stat/128/4072].)
 
+ __Inflation Adjusted Items for Certain Years__ 
+
+    For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table under [section 1 of this title][/us/usc/t26/s1].
+
  __Amendments__ 
 
     2014—Subsec. (i). [Pub. L. 113–295][/us/pl/113/295] added subsec. (i).
@@ -284,6 +288,7 @@
 [/us/stat/122/1649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1649
 [/us/pl/113/295/s208/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs208%2Fa
 [/us/stat/128/4072]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4072
+[/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
 [/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
 [/us/pl/110/245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F245
 [/us/pl/105/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206

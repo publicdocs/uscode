@@ -29,11 +29,9 @@
 
             (A) under which a person may make contributions for a taxable year, for the benefit of an individual who is an eligible individual for such taxable year, to an ABLE account which is established for the purpose of meeting the qualified disability expenses of the designated beneficiary of the account,
 
-            (B) which limits a designated beneficiary to 1 ABLE account for purposes of this section,
+            (B) which limits a designated beneficiary to 1 ABLE account for purposes of this section, and
 
-            (C) which allows for the establishment of an ABLE account only for a designated beneficiary who is a resident of such State or a resident of a contracting State, and
-
-            (D) which meets the other requirements of this section.
+            (C) which meets the other requirements of this section.
 
         (2) __Cash contributions__ 
 
@@ -81,7 +79,7 @@
 
                 (i) __Rollovers from able accounts__ 
 
-                    Subparagraph (A) shall not apply to any amount paid or distributed from an ABLE account to the extent that the amount received is paid, not later than the 60th day after the date of such payment or distribution, into another ABLE account for the benefit of the same designated beneficiary or an eligible individual who is a family member of the designated beneficiary.
+                    Subparagraph (A) shall not apply to any amount paid or distributed from an ABLE account to the extent that the amount received is paid, not later than the 60th day after the date of such payment or distribution, into another ABLE account for the benefit of the same designated beneficiary or an eligible individual who is a member of the family of the designated beneficiary.
 
                 (ii) __Change in designated beneficiaries__ 
 
@@ -155,11 +153,11 @@
 
         (3) __Notice of establishment of able account__ 
 
-            A qualified ABLE program shall submit a notice to the Secretary upon the establishment of an ABLE account. Such notice shall contain the name and State of residence of the designated beneficiary and such other information as the Secretary may require.
+            A qualified ABLE program shall submit a notice to the Secretary upon the establishment of an ABLE account. Such notice shall contain the name of the designated beneficiary and such other information as the Secretary may require.
 
         (4) __Electronic distribution statements__ 
 
-            For purposes of section 4 of the Achieving a Better Life Experience Act of 2014, <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  States shall submit electronically on a monthly basis to the Commissioner of Social Security, in the manner specified by the Commissioner, statements on relevant distributions and account balances from all ABLE accounts.
+            For purposes of section 103 of the Achieving a Better Life Experience Act of 2014, <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  States shall submit electronically on a monthly basis to the Commissioner of Social Security, in the manner specified by the Commissioner, statements on relevant distributions and account balances from all ABLE accounts.
 
         (5) __Requirements__ 
 
@@ -213,10 +211,6 @@
 
             The term “ABLE account” means an account established by an eligible individual, owned by such eligible individual, and maintained under a qualified ABLE program.
 
-        (7) __Contracting State__ 
-
-            The term “contracting State” means a State without a qualified ABLE program which has entered into a contract with a State with a qualified ABLE program to provide residents of the contracting State access to a qualified ABLE program.
-
     (f) __Transfer to State__ 
 
         Subject to any outstanding payments due for qualified disability expenses, upon the death of the designated beneficiary, all amounts remaining in the qualified ABLE account not in excess of the amount equal to the total medical assistance paid for the designated beneficiary after the establishment of the account, net of any premiums paid from the account or paid by or on behalf of the beneficiary to a Medicaid Buy-In program under any State Medicaid plan established under title XIX of the Social Security Act, shall be distributed to such State upon filing of a claim for payment by such State. For purposes of this paragraph, the State shall be a creditor of an ABLE account and not a beneficiary. Subsection (c)(3) shall not apply to a distribution under the preceding sentence.
@@ -239,13 +233,31 @@
 
         (7) to allow for transfers from one ABLE account to another ABLE account.
 
-(Added [Pub. L. 113–295, div. B, title I, § 102(a)][/us/pl/113/295/s102/a], Dec. 19, 2014, [128 Stat. 4056][/us/stat/128/4056].)
+(Added [Pub. L. 113–295, div. B, title I, § 102(a)][/us/pl/113/295/s102/a], Dec. 19, 2014, [128 Stat. 4056][/us/stat/128/4056]; amended [Pub. L. 114–113, div. Q, title III, § 303(a)][/us/pl/114/113/s303/a]–(c), Dec. 18, 2015, [129 Stat. 3087][/us/stat/129/3087].)
 
  __References in Text__ 
 
-    The Achieving a Better Life Experience Act of 2014, referred to in subsec. (d)(4), probably means div. B of [Pub. L. 113–295][/us/pl/113/295], Dec. 19, 2014, [128 Stat. 4056][/us/stat/128/4056], known as the “Stephen Beck, Jr., Achieving a Better Life Experience Act of 2014” and also as the “Stephen Beck, Jr., ABLE Act of 2014”. No section 4 of the Act was enacted.
+    The Achieving a Better Life Experience Act of 2014, referred to in subsec. (d)(4), probably means div. B of [Pub. L. 113–295][/us/pl/113/295], Dec. 19, 2014, [128 Stat. 4056][/us/stat/128/4056], known as the “Stephen Beck, Jr., Achieving a Better Life Experience Act of 2014” and also as the “Stephen Beck, Jr., ABLE Act of 2014”. [Section 103 of div. B of Pub. L. 113–295][/us/pl/113/295/s103] is set out as a note under this section.
 
     The Social Security Act, referred to in subsecs. (e)(1)(A), (2) and (f), is [act Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], [49 Stat. 620][/us/stat/49/620]. Titles II, XVI, and XIX of the Act are classified generally to subchapters II (§ 401 et seq.), XVI (§ 1381 et seq.), and XIX (§ 1396 et seq.) respectively, of chapter 7 of Title 42, The Public Health and Welfare. Sections 1614 and 1861 of the Act are classified to sections 1382c and 1395x, respectively, of Title 42. For complete classification of this Act to the Code, see [section 1305 of Title 42][/us/usc/t42/s1305] and Tables.
+
+ __Amendments__ 
+
+    2015—Subsec. (b)(1)(B) to (D). [Pub. L. 114–113, § 303(a)][/us/pl/114/113/s303/a], inserted “and” at end of subpar. (B), redesignated subpar. (D) as (C), and struck out former subpar. (C). Prior to amendment, subpar. (C) read as follows: “which allows for the establishment of an ABLE account only for a designated beneficiary who is a resident of such State or a resident of a contracting State, and”.
+
+    Subsec. (c)(1)(C)(i). [Pub. L. 114–113, § 303(c)(2)][/us/pl/114/113/s303/c/2], substituted “member of the family” for “family member”.
+
+    Subsec. (d)(3). [Pub. L. 114–113, § 303(b)(1)][/us/pl/114/113/s303/b/1], struck out “and State of residence” after “the name”.
+
+    Subsec. (d)(4). [Pub. L. 114–113, § 303(c)(1)][/us/pl/114/113/s303/c/1], substituted “section 103” for “section 4”.
+
+    Subsec. (e)(7). [Pub. L. 114–113, § 303(b)(2)][/us/pl/114/113/s303/b/2], struck out par. (7). Text read as follows: “The term ‘contracting State’ means a State without a qualified ABLE program which has entered into a contract with a State with a qualified ABLE program to provide residents of the contracting State access to a qualified ABLE program.”
+
+ __Effective Date of 2015 Amendment__ 
+
+[Pub. L. 114–113, div. Q, title III, § 303(d)][/us/pl/114/113/s303/d], Dec. 18, 2015, [129 Stat. 3087][/us/stat/129/3087], provided that: 
+
+> “The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2014.”
 
  __Effective Date__ 
 
@@ -302,11 +314,21 @@
 
 [/us/pl/113/295/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs102%2Fa
 [/us/stat/128/4056]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4056
+[/us/pl/114/113/s303/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs303%2Fa
+[/us/stat/129/3087]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3087
 [/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
 [/us/stat/128/4056]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4056
+[/us/pl/113/295/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs103
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F620
 [/us/usc/t42/s1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1305
+[/us/pl/114/113/s303/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs303%2Fa
+[/us/pl/114/113/s303/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs303%2Fc%2F2
+[/us/pl/114/113/s303/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs303%2Fb%2F1
+[/us/pl/114/113/s303/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs303%2Fc%2F1
+[/us/pl/114/113/s303/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs303%2Fb%2F2
+[/us/pl/114/113/s303/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs303%2Fd
+[/us/stat/129/3087]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3087
 [/us/pl/113/295/s102/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs102%2Ff%2F1
 [/us/usc/t5/s552a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552a
 [/us/pl/113/295/s102/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs102%2Ff%2F2
