@@ -469,113 +469,19 @@
 
             (C) __Application to plans which are fully funded without regard to reductions for funding balances__ 
 
-                (i) __In general__ 
-
-                    In the case of a plan for any plan year, if the funding target attainment percentage is 100 percent or more (determined without regard to the reduction in the value of assets under [section 1083(f)(4) of this title][/us/usc/t29/s1083/f/4]), the funding target attainment percentage for purposes of subparagraphs (A) and (B) shall be determined without regard to such reduction.
-
-                (ii) __Transition rule__ 
-
-                    Clause (i) shall be applied to plan years beginning after 2007 and before 2011 by substituting for “100 percent” the applicable percentage determined in accordance with the following table:
-
-<table>
-
-                      <tr>
-
-                        <td> 
-
-                      In the case of a plan year
-
-                       beginning in calendar year:  </td>
-
-                        <td> 
-
-                    The applicable percentage is  </td>
-
-  </tr>
-
-                      <tr>
-
-                        <td> 
-
-                    2008  </td>
-
-                        <td> 
-
-                    92    </td>
-
-  </tr>
-
-                      <tr>
-
-                        <td> 
-
-                    2009  </td>
-
-                        <td> 
-
-                    94    </td>
-
-  </tr>
-
-                      <tr>
-
-                        <td> 
-
-                    2010  </td>
-
-                        <td> 
-
-                    96.  </td>
-
-  </tr>
-
-                    </table>
-
-                (iii) __Limitation__ 
-
-                    Clause (ii) shall not apply with respect to any plan year beginning after 2008 unless the funding target attainment percentage (determined without regard to the reduction in the value of assets under [section 1083(f)(4) of this title][/us/usc/t29/s1083/f/4]) of the plan for each preceding plan year beginning after 2007 was not less than the applicable percentage with respect to such preceding plan year determined under clause (ii).
-
-            (D) __Special rule for certain years__ 
-
-            Solely for purposes of any applicable provision—
-
-                (i) __In general__ 
-
-                For plan years beginning on or after October 1, 2008, and before October 1, 2010, the adjusted funding target attainment percentage of a plan shall be the greater of—
-
-                    (I) such percentage, as determined without regard to this subparagraph, or
-
-                    (II) the adjusted funding target attainment percentage for such plan for the plan year beginning after October 1, 2007, and before October 1, 2008, as determined under rules prescribed by the Secretary of the Treasury.
-
-                (ii) __Special rule__ 
-
-                In the case of a plan for which the valuation date is not the first day of the plan year—
-
-                    (I) clause (i) shall apply to plan years beginning after December 31, 2007, and before January 1, 2010, and
-
-                    (II) clause (i)(II) shall apply based on the last plan year beginning before November 1, 2007, as determined under rules prescribed by the Secretary of the Treasury.
-
-                (iii) __Applicable provision__ 
-
-                For purposes of this subparagraph, the term “applicable provision” means—
-
-                    (I) paragraph (3), but only for purposes of applying such paragraph to a payment which, as determined under rules prescribed by the Secretary of the Treasury, is a payment under a social security leveling option which accelerates payments under the plan before, and reduces payments after, a participant starts receiving social security benefits in order to provide substantially similar aggregate payments both before and after such benefits are received, and
-
-                    (II) paragraph (4).
+                In the case of a plan for any plan year, if the funding target attainment percentage is 100 percent or more (determined without regard to the reduction in the value of assets under [section 1083(f)(4) of this title][/us/usc/t29/s1083/f/4]), the funding target attainment percentage for purposes of subparagraphs (A) and (B) shall be determined without regard to such reduction.
 
         (10) __Secretarial authority for plans with alternate valuation date__ 
 
             In the case of a plan which has designated a valuation date other than the first day of the plan year, the Secretary of the Treasury may prescribe rules for the application of this subsection which are necessary to reflect the alternate valuation date.
 
-        (11) __Special rule for 2008__ 
-
-            For purposes of this subsection, in the case of plan years beginning in 2008, the funding target attainment percentage for the preceding plan year may be determined using such methods of estimation as the Secretary of the Treasury may provide.
+        \[(11) __Repealed.__  __[__  __Pub. L. 113–295, div. A, title II, § 221(a)(57)(G)(ii)__  __][/us/pl/113/295/s221/a/57/G/ii]__  __,__  __Dec. 19, 2014__  __,__  __[__  __128 Stat. 4047__  __][/us/stat/128/4047]__  __\]__ 
 
         (12) __CSEC plans__ 
 
             This subsection shall not apply to a CSEC plan (as defined in [section 1060(f) of this title][/us/usc/t29/s1060/f]).
 
-([Pub. L. 93–406, title I, § 206][/us/pl/93/406/s206], Sept. 2, 1974, [88 Stat. 864][/us/stat/88/864]; [Pub. L. 98–397, title I, § 104(a)][/us/pl/98/397/s104/a], Aug. 23, 1984, [98 Stat. 1433][/us/stat/98/1433]; [Pub. L. 99–514, title XVIII, § 1898(c)(2)(B)][/us/pl/99/514/s1898/c/2/B], (4)(B), (5), (6)(B), (7)(B), Oct. 22, 1986, [100 Stat. 2952–2954][/us/stat/100/2952-2954]; [Pub. L. 101–239, title VII][/us/pl/101/239], §§ 7891(a)(1), 7894(c)(8), (9)(A), Dec. 19, 1989, [103 Stat. 2445][/us/stat/103/2445], 2449; [Pub. L. 103–465, title VII][/us/pl/103/465], §§ 761(a)(9)(B)(i), 776(c)(2), Dec. 8, 1994, [108 Stat. 5033][/us/stat/108/5033], 5048; [Pub. L. 105–34, title XV, § 1502(a)][/us/pl/105/34/s1502/a], Aug. 5, 1997, [111 Stat. 1058][/us/stat/111/1058]; [Pub. L. 109–280, title I][/us/pl/109/280], §§ 103(a), 108(a)(9), (10), formerly § 107(a)(9), (10), title IV, § 410(b), Aug. 17, 2006, [120 Stat. 809][/us/stat/120/809], 819, 935, renumbered [Pub. L. 111–192, title II, § 202(a)][/us/pl/111/192/s202/a], June 25, 2010, [124 Stat. 1297][/us/stat/124/1297]; [Pub. L. 110–458, title I, § 101(c)(1)(B)][/us/pl/110/458/s101/c/1/B]–(G), Dec. 23, 2008, [122 Stat. 5097][/us/stat/122/5097]; [Pub. L. 111–192, title II, § 203(a)(1)][/us/pl/111/192/s203/a/1], June 25, 2010, [124 Stat. 1299][/us/stat/124/1299]; [Pub. L. 113–97, title I, § 102(b)(3)][/us/pl/113/97/s102/b/3], Apr. 7, 2014, [128 Stat. 1116][/us/stat/128/1116]; [Pub. L. 113–159, title II, § 2003(c)(2)][/us/pl/113/159/s2003/c/2], Aug. 8, 2014, [128 Stat. 1850][/us/stat/128/1850].)
+([Pub. L. 93–406, title I, § 206][/us/pl/93/406/s206], Sept. 2, 1974, [88 Stat. 864][/us/stat/88/864]; [Pub. L. 98–397, title I, § 104(a)][/us/pl/98/397/s104/a], Aug. 23, 1984, [98 Stat. 1433][/us/stat/98/1433]; [Pub. L. 99–514, title XVIII, § 1898(c)(2)(B)][/us/pl/99/514/s1898/c/2/B], (4)(B), (5), (6)(B), (7)(B), Oct. 22, 1986, [100 Stat. 2952–2954][/us/stat/100/2952-2954]; [Pub. L. 101–239, title VII][/us/pl/101/239], §§ 7891(a)(1), 7894(c)(8), (9)(A), Dec. 19, 1989, [103 Stat. 2445][/us/stat/103/2445], 2449; [Pub. L. 103–465, title VII][/us/pl/103/465], §§ 761(a)(9)(B)(i), 776(c)(2), Dec. 8, 1994, [108 Stat. 5033][/us/stat/108/5033], 5048; [Pub. L. 105–34, title XV, § 1502(a)][/us/pl/105/34/s1502/a], Aug. 5, 1997, [111 Stat. 1058][/us/stat/111/1058]; [Pub. L. 109–280, title I][/us/pl/109/280], §§ 103(a), 108(a)(9), (10), formerly § 107(a)(9), (10), title IV, § 410(b), Aug. 17, 2006, [120 Stat. 809][/us/stat/120/809], 819, 935, renumbered [Pub. L. 111–192, title II, § 202(a)][/us/pl/111/192/s202/a], June 25, 2010, [124 Stat. 1297][/us/stat/124/1297]; [Pub. L. 110–458, title I, § 101(c)(1)(B)][/us/pl/110/458/s101/c/1/B]–(G), Dec. 23, 2008, [122 Stat. 5097][/us/stat/122/5097]; [Pub. L. 111–192, title II, § 203(a)(1)][/us/pl/111/192/s203/a/1], June 25, 2010, [124 Stat. 1299][/us/stat/124/1299]; [Pub. L. 113–97, title I, § 102(b)(3)][/us/pl/113/97/s102/b/3], Apr. 7, 2014, [128 Stat. 1116][/us/stat/128/1116]; [Pub. L. 113–159, title II, § 2003(c)(2)][/us/pl/113/159/s2003/c/2], Aug. 8, 2014, [128 Stat. 1850][/us/stat/128/1850]; [Pub. L. 113–295, div. A, title II, § 221(a)(57)(E)(ii)][/us/pl/113/295/s221/a/57/E/ii], (F)(ii), (G)(ii), Dec. 19, 2014, [128 Stat. 4046][/us/stat/128/4046], 4047.)
 
  __References in Text__ 
 
@@ -588,6 +494,12 @@
  __Amendments__ 
 
     2014—Subsec. (g)(3)(B). [Pub. L. 113–159][/us/pl/113/159] substituted “of such plan (determined by not taking into account any adjustment of segment rates under [section 1083(h)(2)(C)(iv) of this title][/us/usc/t29/s1083/h/2/C/iv])” for “of such plan”.
+
+    Subsec. (g)(9)(C). [Pub. L. 113–295, § 221(a)(57)(E)(ii)][/us/pl/113/295/s221/a/57/E/ii], struck out cl. (i) designation and heading and struck out cls. (ii) and (iii) which related to transition rule for plan years 2008 to 2010 and limitation on transition rule, respectively.
+
+    Subsec. (g)(9)(D). [Pub. L. 113–295, § 221(a)(57)(F)(ii)][/us/pl/113/295/s221/a/57/F/ii], struck out subpar. (D) which related to special rule for certain years.
+
+    Subsec. (g)(11). [Pub. L. 113–295, § 221(a)(57)(G)(ii)][/us/pl/113/295/s221/a/57/G/ii], struck out par. (11). Text read as follows: “For purposes of this subsection, in the case of plan years beginning in 2008, the funding target attainment percentage for the preceding plan year may be determined using such methods of estimation as the Secretary of the Treasury may provide.”
 
     Subsec. (g)(12). [Pub. L. 113–97][/us/pl/113/97] added par. (12).
 
@@ -652,6 +564,8 @@
     1984—Subsec. (d)(3). [Pub. L. 98–397][/us/pl/98/397] added par. (3).
 
  __Effective Date of 2014 Amendment__ 
+
+    Amendment by [Pub. L. 113–295][/us/pl/113/295] effective Dec. 19, 2014, subject to a savings provision, see [section 221(b) of Pub. L. 113–295][/us/pl/113/295/s221/b], set out as a note under [section 1 of Title 26][/us/usc/t26/s1], Internal Revenue Code.
 
     Amendment by [Pub. L. 113–159][/us/pl/113/159] applicable to plan years beginning after Dec. 31, 2014, except as otherwise provided, see [section 2003(c)(3) of Pub. L. 113–159][/us/pl/113/159/s2003/c/3], set out as a note under [section 436 of Title 26][/us/usc/t26/s436], Internal Revenue Code.
 
@@ -769,7 +683,8 @@
 [/us/usc/t29/s1083/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1083%2Fd%2F2
 [/us/usc/t26/s414/q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs414%2Fq
 [/us/usc/t29/s1083/f/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1083%2Ff%2F4
-[/us/usc/t29/s1083/f/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1083%2Ff%2F4
+[/us/pl/113/295/s221/a/57/G/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F57%2FG%2Fii
+[/us/stat/128/4047]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4047
 [/us/usc/t29/s1060/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1060%2Ff
 [/us/pl/93/406/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2Fs206
 [/us/stat/88/864]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F864
@@ -795,6 +710,8 @@
 [/us/stat/128/1116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1116
 [/us/pl/113/159/s2003/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F159%2Fs2003%2Fc%2F2
 [/us/stat/128/1850]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1850
+[/us/pl/113/295/s221/a/57/E/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F57%2FE%2Fii
+[/us/stat/128/4046]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4046
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F620
 [/us/usc/t42/s1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1305
@@ -808,6 +725,9 @@
 [/us/usc/t29/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1001
 [/us/pl/113/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F159
 [/us/usc/t29/s1083/h/2/C/iv]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1083%2Fh%2F2%2FC%2Fiv
+[/us/pl/113/295/s221/a/57/E/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F57%2FE%2Fii
+[/us/pl/113/295/s221/a/57/F/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F57%2FF%2Fii
+[/us/pl/113/295/s221/a/57/G/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F57%2FG%2Fii
 [/us/pl/113/97]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F97
 [/us/pl/111/192/s203/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F192%2Fs203%2Fa%2F1
 [/us/pl/110/458/s101/c/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458%2Fs101%2Fc%2F1%2FB
@@ -846,6 +766,9 @@
 [/us/pl/99/514/s1898/c/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1898%2Fc%2F5
 [/us/pl/99/514/s1898/c/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1898%2Fc%2F4%2FB
 [/us/pl/98/397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F397
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
+[/us/pl/113/295/s221/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fb
+[/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
 [/us/pl/113/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F159
 [/us/pl/113/159/s2003/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F159%2Fs2003%2Fc%2F3
 [/us/usc/t26/s436]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs436

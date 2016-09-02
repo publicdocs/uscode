@@ -145,81 +145,7 @@
 
         (5) __Exemption from new shortfall amortization base__ 
 
-            (A) __In general__ 
-
-                In any case in which the value of plan assets of the plan (as reduced under subsection (f)(4)(A)) is equal to or greater than the funding target of the plan for the plan year, the shortfall amortization base of the plan for such plan year shall be zero.
-
-            (B) __Transition rule__ 
-
-                (i) __In general__ 
-
-                    Except as provided in clause (iii), in the case of plan years beginning after 2007 and before 2011, only the applicable percentage of the funding target shall be taken into account under paragraph (3)(A) in determining the funding shortfall for purposes of paragraph (3)(A) and subparagraph (A).
-
-                (ii) __Applicable percentage__ 
-
-                    For purposes of subparagraph (A), the applicable percentage shall be determined in accordance with the following table:
-
-<table>
-
-                      <tr>
-
-                        <td> 
-
-                      In the case of a plan year
-
-                       beginning in calendar year:  </td>
-
-                        <td> 
-
-                    The applicable percentage is  </td>
-
-  </tr>
-
-                      <tr>
-
-                        <td> 
-
-                    2008  </td>
-
-                        <td> 
-
-                    92    </td>
-
-  </tr>
-
-                      <tr>
-
-                        <td> 
-
-                    2009  </td>
-
-                        <td> 
-
-                    94    </td>
-
-  </tr>
-
-                      <tr>
-
-                        <td> 
-
-                    2010  </td>
-
-                        <td> 
-
-                    96.  </td>
-
-  </tr>
-
-                    </table>
-
-                (iii) __Transition relief not available for new or deficit reduction plans__ 
-
-                Clause (i) shall not apply to a plan—
-
-                    (I) which was not in effect for a plan year beginning in 2007, or
-
-                    (II) which was in effect for a plan year beginning in 2007 and which was subject to [section 1082(d) of this title][/us/usc/t29/s1082/d] (as in effect for plan years beginning in 2007) for such year, determined after the application of paragraphs (6) and (9) thereof.
+            In any case in which the value of plan assets of the plan (as reduced under subsection (f)(4)(A)) is equal to or greater than the funding target of the plan for the plan year, the shortfall amortization base of the plan for such plan year shall be zero.
 
         (6) __Early deemed amortization upon attainment of funding target__ 
 
@@ -845,29 +771,7 @@
 
             (F) __Publication requirements__ 
 
-                The Secretary of the Treasury shall publish for each month the corporate bond yield curve (and the corporate bond yield curve reflecting the modification described in [section 1055(g)(3)(B)(iii)(I) of this title][/us/usc/t29/s1055/g/3/B/iii/I] for such month) and each of the rates determined under subparagraph (C) and the averages determined under subparagraph (C)(iv) for such month. The Secretary of the Treasury shall also publish a description of the methodology used to determine such yield curve and such rates which is sufficiently detailed to enable plans to make reasonable projections regarding the yield curve and such rates for future months based on the plan’s projection of future interest rates.
-
-            (G) __Transition rule__ 
-
-                (i) __In general__ 
-
-                Notwithstanding the preceding provisions of this paragraph, for plan years beginning in 2008 or 2009, the first, second, or third segment rate for a plan with respect to any month shall be equal to the sum of—
-
-                    (I) the product of such rate for such month determined without regard to this subparagraph, multiplied by the applicable percentage, and
-
-                    (II) the product of the rate determined under the rules of [section 1082(b)(5)(B)(ii)(II) of this title][/us/usc/t29/s1082/b/5/B/ii/II] (as in effect for plan years beginning in 2007), multiplied by a percentage equal to 100 percent minus the applicable percentage.
-
-                (ii) __Applicable percentage__ 
-
-                    For purposes of clause (i), the applicable percentage is 33⅓ percent for plan years beginning in 2008 and 66⅔ percent for plan years beginning in 2009.
-
-                (iii) __New plans ineligible__ 
-
-                    Clause (i) shall not apply to any plan if the first plan year of the plan begins after December 31, 2007.
-
-                (iv) __Election__ 
-
-                    The plan sponsor may elect not to have this subparagraph apply. Such election, once made, may be revoked only with the consent of the Secretary of the Treasury.
+                The Secretary of the Treasury shall publish for each month the corporate bond yield curve (and the corporate bond yield curve reflecting the modification described in section 1055(g)(3)(B)(iii)(I)  <sup>\[2\]</sup>  <sup><sup> 2 See References in Text note below. </sup></sup>  of this title for such month) and each of the rates determined under subparagraph (C) and the averages determined under subparagraph (C)(iv) for such month. The Secretary of the Treasury shall also publish a description of the methodology used to determine such yield curve and such rates which is sufficiently detailed to enable plans to make reasonable projections regarding the yield curve and such rates for future months based on the plan’s projection of future interest rates.
 
         (3) __Mortality tables__ 
 
@@ -1431,11 +1335,13 @@
 
         In the case of a qualified transfer (as defined in [section 420 of title 26][/us/usc/t26/s420]), any assets so transferred shall not, for purposes of this section, be treated as assets in the plan.
 
-([Pub. L. 93–406, title I, § 303][/us/pl/93/406/s303], as added [Pub. L. 109–280, title I, § 102(a)][/us/pl/109/280/s102/a], Aug. 17, 2006, [120 Stat. 789][/us/stat/120/789]; amended [Pub. L. 110–458, title I][/us/pl/110/458], §§ 101(b)(1), 121(a), title II, § 202(a), Dec. 23, 2008, [122 Stat. 5093][/us/stat/122/5093], 5113, 5117; [Pub. L. 111–192, title II][/us/pl/111/192], §§ 201(a), 204(a), June 25, 2010, [124 Stat. 1283][/us/stat/124/1283], 1300; [Pub. L. 112–141, div. D, title II, § 40211(b)(1)][/us/pl/112/141/s40211/b/1], (3)(A), July 6, 2012, [126 Stat. 847][/us/stat/126/847], 849; [Pub. L. 113–159, title II, § 2003(b)(1)][/us/pl/113/159/s2003/b/1], (d)(2), Aug. 8, 2014, [128 Stat. 1849][/us/stat/128/1849], 1851.)
+([Pub. L. 93–406, title I, § 303][/us/pl/93/406/s303], as added [Pub. L. 109–280, title I, § 102(a)][/us/pl/109/280/s102/a], Aug. 17, 2006, [120 Stat. 789][/us/stat/120/789]; amended [Pub. L. 110–458, title I][/us/pl/110/458], §§ 101(b)(1), 121(a), title II, § 202(a), Dec. 23, 2008, [122 Stat. 5093][/us/stat/122/5093], 5113, 5117; [Pub. L. 111–192, title II][/us/pl/111/192], §§ 201(a), 204(a), June 25, 2010, [124 Stat. 1283][/us/stat/124/1283], 1300; [Pub. L. 112–141, div. D, title II, § 40211(b)(1)][/us/pl/112/141/s40211/b/1], (3)(A), July 6, 2012, [126 Stat. 847][/us/stat/126/847], 849; [Pub. L. 113–159, title II, § 2003(b)(1)][/us/pl/113/159/s2003/b/1], (d)(2), Aug. 8, 2014, [128 Stat. 1849][/us/stat/128/1849], 1851; [Pub. L. 113–295, div. A, title II, § 221(a)(57)(C)(ii)][/us/pl/113/295/s221/a/57/C/ii], (D)(ii), Dec. 19, 2014, [128 Stat. 4046][/us/stat/128/4046].)
 
  __References in Text__ 
 
     Section 106 of the Pension Protection Act of 2006, referred to in subsec. (c)(2)(D)(iv)(I), is [section 106 of Pub. L. 109–280][/us/pl/109/280/s106], which is set out as a note under [section 401 of Title 26][/us/usc/t26/s401], Internal Revenue Code.
+
+    [Section 1055(g)(3)(B)(iii)(I) of this title][/us/usc/t29/s1055/g/3/B/iii/I], referred to in subsec. (h)(2)(F), was redesignated [section 1055(g)(3)(B)(iii) of this title][/us/usc/t29/s1055/g/3/B/iii] by [Pub. L. 113–295, div. A, title II, § 221(a)(57)(B)(ii)][/us/pl/113/295/s221/a/57/B/ii], Dec. 19, 2014, [128 Stat. 4046][/us/stat/128/4046].
 
     The Social Security Act, referred to in subsec. (h)(3)(D)(ii), is [act Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], [49 Stat. 620][/us/stat/49/620]. Title II of the Act is classified generally to subchapter II (§ 401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see [section 1305 of Title 42][/us/usc/t42/s1305] and Tables.
 
@@ -1445,7 +1351,9 @@
 
  __Amendments__ 
 
-    2014—Subsec. (h)(2)(B)(i). [Pub. L. 113–159, § 2003(d)(2)][/us/pl/113/159/s2003/d/2], substituted “the valuation date for the plan year” for “the first day of the plan year”.
+    2014—Subsec. (c)(5). [Pub. L. 113–295, § 221(a)(57)(C)(ii)][/us/pl/113/295/s221/a/57/C/ii], struck out subpar. (A) designation and heading and struck out subpar. (B) which related to transition rule and availability of transition relief.
+
+    Subsec. (h)(2)(B)(i). [Pub. L. 113–159, § 2003(d)(2)][/us/pl/113/159/s2003/d/2], substituted “the valuation date for the plan year” for “the first day of the plan year”.
 
     Subsec. (h)(2)(C)(iv)(II). [Pub. L. 113–159, § 2003(b)(1)][/us/pl/113/159/s2003/b/1], amended table generally. Prior to amendment, table read as follows:
 
@@ -1561,6 +1469,8 @@ After 2015  </td>
 
 </table>
 
+    Subsec. (h)(2)(G). [Pub. L. 113–295, § 221(a)(57)(D)(ii)][/us/pl/113/295/s221/a/57/D/ii], struck out subpar. (G) which related to transition rule for plan years beginning in 2008 or 2009.
+
     2012—Subsec. (h)(2)(C)(iv). [Pub. L. 112–141, § 40211(b)(1)][/us/pl/112/141/s40211/b/1], added cl. (iv).
 
     Subsec. (h)(2)(F). [Pub. L. 112–141, § 40211(b)(3)(A)][/us/pl/112/141/s40211/b/3/A], inserted “and the averages determined under subparagraph (C)(iv)” after “subparagraph (C)”.
@@ -1607,6 +1517,8 @@ After 2015  </td>
 
  __Effective Date of 2014 Amendment__ 
 
+    Amendment by [Pub. L. 113–295][/us/pl/113/295] effective Dec. 19, 2014, subject to a savings provision, see [section 221(b) of Pub. L. 113–295][/us/pl/113/295/s221/b], set out as a note under [section 1 of Title 26][/us/usc/t26/s1], Internal Revenue Code.
+
     Amendment by [Pub. L. 113–159][/us/pl/113/159] applicable with respect to plan years beginning after Dec. 31, 2012, except as otherwise provided, see [section 2003(e) of Pub. L. 113–159][/us/pl/113/159/s2003/e], set out as a note under [section 430 of Title 26][/us/usc/t26/s430], Internal Revenue Code.
 
  __Effective Date of 2012 Amendment__ 
@@ -1651,7 +1563,6 @@ After 2015  </td>
 ----------
 
 [/us/usc/t29/s1082/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1082%2Fa%2F2%2FA
-[/us/usc/t29/s1082/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1082%2Fd
 [/us/usc/t26/s409A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs409A
 [/us/usc/t29/s1343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1343
 [/us/usc/t29/s1082/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1082%2Fd%2F3
@@ -1661,8 +1572,6 @@ After 2015  </td>
 [/us/usc/t29/s1082/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1082%2Fc
 [/us/usc/t26/s501/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs501%2Fc%2F3
 [/us/usc/t29/s1056/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1056%2Fg
-[/us/usc/t29/s1055/g/3/B/iii/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1055%2Fg%2F3%2FB%2Fiii%2FI
-[/us/usc/t29/s1082/b/5/B/ii/II]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1082%2Fb%2F5%2FB%2Fii%2FII
 [/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
 [/us/usc/t29/s1306/a/3/E/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1306%2Fa%2F3%2FE%2Fiii
 [/us/usc/t29/s1301/a/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1301%2Fa%2F13
@@ -1685,8 +1594,14 @@ After 2015  </td>
 [/us/stat/126/847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F847
 [/us/pl/113/159/s2003/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F159%2Fs2003%2Fb%2F1
 [/us/stat/128/1849]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1849
+[/us/pl/113/295/s221/a/57/C/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F57%2FC%2Fii
+[/us/stat/128/4046]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4046
 [/us/pl/109/280/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs106
 [/us/usc/t26/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs401
+[/us/usc/t29/s1055/g/3/B/iii/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1055%2Fg%2F3%2FB%2Fiii%2FI
+[/us/usc/t29/s1055/g/3/B/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1055%2Fg%2F3%2FB%2Fiii
+[/us/pl/113/295/s221/a/57/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F57%2FB%2Fii
+[/us/stat/128/4046]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4046
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F620
 [/us/usc/t42/s1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1305
@@ -1700,8 +1615,10 @@ After 2015  </td>
 [/us/stat/103/2438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2438
 [/us/pl/109/280/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs101%2Fa
 [/us/stat/120/784]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F784
+[/us/pl/113/295/s221/a/57/C/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F57%2FC%2Fii
 [/us/pl/113/159/s2003/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F159%2Fs2003%2Fd%2F2
 [/us/pl/113/159/s2003/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F159%2Fs2003%2Fb%2F1
+[/us/pl/113/295/s221/a/57/D/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F57%2FD%2Fii
 [/us/pl/112/141/s40211/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs40211%2Fb%2F1
 [/us/pl/112/141/s40211/b/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs40211%2Fb%2F3%2FA
 [/us/pl/111/192/s201/a/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F192%2Fs201%2Fa%2F3%2FA
@@ -1726,6 +1643,9 @@ After 2015  </td>
 [/us/pl/110/458/s101/b/1/G/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458%2Fs101%2Fb%2F1%2FG%2Fi
 [/us/pl/110/458/s101/b/1/G/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458%2Fs101%2Fb%2F1%2FG%2Fii
 [/us/pl/110/458/s101/b/1/H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458%2Fs101%2Fb%2F1%2FH
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
+[/us/pl/113/295/s221/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fb
+[/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
 [/us/pl/113/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F159
 [/us/pl/113/159/s2003/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F159%2Fs2003%2Fe
 [/us/usc/t26/s430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs430

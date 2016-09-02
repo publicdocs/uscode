@@ -33,7 +33,7 @@
 
     (c) __Determination by plan sponsor of plan in critical status of resource benefit level of plan for each insolvency year; uniform application of suspension of benefits; adjustments of benefit payments__ 
 
-        (1) The plan sponsor of a plan in critical status, as described in sub[section 1085(b)(2) of this title][/us/usc/t29/s1085/b/2], shall determine in writing the plan’s resource benefit level for each insolvency year, based on the plan sponsor’s reasonable projection of the plan’s available resources and the benefits payable under the plan.
+        (1) The plan sponsor of a plan in critical status, as described in subsection  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “section”. </sup></sup>  1085(b)(2) of this title, shall determine in writing the plan’s resource benefit level for each insolvency year, based on the plan sponsor’s reasonable projection of the plan’s available resources and the benefits payable under the plan.
 
         (2)
 
@@ -83,11 +83,11 @@
 
     (d) __Applicability and determinations respecting plan assets; time for determinations of resource benefit level and level of basic benefits__ 
 
-        (1) As of the end of the first plan year in which a plan is in critical status, as described in sub[section 1085(b)(2) of this title][/us/usc/t29/s1085/b/2],, <sup>\[1\]</sup>  <sup><sup> 1 So in original. </sup></sup>  and at least every 3 plan years thereafter (unless the plan is no longer in critical status, as described in sub[section 1085(b)(2) of this title][/us/usc/t29/s1085/b/2],), <sup>\[1\]</sup>  the plan sponsor shall compare the value of plan assets for that plan year with the total amount of benefit payments made under the plan for that plan year. Unless the plan sponsor determines that the value of plan assets exceeds 3 times the total amount of benefit payments, the plan sponsor shall determine whether the plan will be insolvent in any of the next 5 plan years. If the plan sponsor makes such a determination that the plan will be insolvent in any of the next 5 plan years, the plan sponsor shall make the comparison under this paragraph at least annually until the plan sponsor makes a determination that the plan will not be insolvent in any of the next 5 plan years.
+        (1) As of the end of the first plan year in which a plan is in critical status, as described in subsection 1 1085(b)(2) of this title,, <sup>\[2\]</sup>  <sup><sup> 2 So in original. </sup></sup>  and at least every 3 plan years thereafter (unless the plan is no longer in critical status, as described in subsection 1 1085(b)(2) of this title,), <sup>\[2\]</sup>  the plan sponsor shall compare the value of plan assets for that plan year with the total amount of benefit payments made under the plan for that plan year. Unless the plan sponsor determines that the value of plan assets exceeds 3 times the total amount of benefit payments, the plan sponsor shall determine whether the plan will be insolvent in any of the next 5 plan years. If the plan sponsor makes such a determination that the plan will be insolvent in any of the next 5 plan years, the plan sponsor shall make the comparison under this paragraph at least annually until the plan sponsor makes a determination that the plan will not be insolvent in any of the next 5 plan years.
 
-        (2) If, at any time, the plan sponsor of a plan in critical status, as described in sub[section 1085(b)(2) of this title][/us/usc/t29/s1085/b/2], reasonably determines, taking into account the plan’s recent and anticipated financial experience, that the plan’s available resources are not sufficient to pay benefits under the plan when due for the next plan year, the plan sponsor shall make such determination available to interested parties.
+        (2) If, at any time, the plan sponsor of a plan in critical status, as described in subsection 1 1085(b)(2) of this title, reasonably determines, taking into account the plan’s recent and anticipated financial experience, that the plan’s available resources are not sufficient to pay benefits under the plan when due for the next plan year, the plan sponsor shall make such determination available to interested parties.
 
-        (3) The plan sponsor of a plan in critical status, as described in sub[section 1085(b)(2) of this title][/us/usc/t29/s1085/b/2], shall determine in writing for each insolvency year the resource benefit level and the level of basic benefits no later than 3 months before the insolvency year.
+        (3) The plan sponsor of a plan in critical status, as described in subsection 1 1085(b)(2) of this title, shall determine in writing for each insolvency year the resource benefit level and the level of basic benefits no later than 3 months before the insolvency year.
 
         (4) For purposes of this subsection, the value of plan assets shall be the value of the available plan assets determined under regulations prescribed by the Secretary of the Treasury.
 
@@ -95,13 +95,13 @@
 
         (1)
 
-         If the plan sponsor of a plan in critical status, as described in sub[section 1085(b)(2) of this title][/us/usc/t29/s1085/b/2], determines under subsection (d)(1) or (2) of this section that the plan may become insolvent (within the meaning of subsection (b)(1) of this section), the plan sponsor shall—
+         If the plan sponsor of a plan in critical status, as described in subsection 1 1085(b)(2) of this title, determines under subsection (d)(1) or (2) of this section that the plan may become insolvent (within the meaning of subsection (b)(1) of this section), the plan sponsor shall—
 
-            (A) notify the Secretary of the Treasury, <sup>\[2\]</sup>  <sup><sup> 2 So in original. The comma probably should be “and”. </sup></sup>  the parties described in [section 1021(f)(1) of this title][/us/usc/t29/s1021/f/1] of that determination, and
+            (A) notify the Secretary of the Treasury, <sup>\[3\]</sup>  <sup><sup> 3 So in original. The comma probably should be “and”. </sup></sup>  the parties described in [section 1021(f)(1) of this title][/us/usc/t29/s1021/f/1] of that determination, and
 
             (B) inform the parties described in [section 1021(f)(1) of this title][/us/usc/t29/s1021/f/1] that if insolvency occurs certain benefit payments will be suspended, but that basic benefits will continue to be paid.
 
-        (2) No later than 2 months before the first day of each insolvency year, the plan sponsor of a plan in critical status, as described in sub[section 1085(b)(2) of this title][/us/usc/t29/s1085/b/2], shall notify the Secretary of the Treasury, the corporation, and the parties described in paragraph (1)(B) of the resource benefit level determined in writing for that insolvency year.
+        (2) No later than 2 months before the first day of each insolvency year, the plan sponsor of a plan in critical status, as described in subsection 1 1085(b)(2) of this title, shall notify the Secretary of the Treasury, the corporation, and the parties described in paragraph (1)(B) of the resource benefit level determined in writing for that insolvency year.
 
         (3) In any case in which the plan sponsor anticipates that the resource benefit level for an insolvency year may not exceed the level of basic benefits, the plan sponsor shall notify the corporation.
 
@@ -176,15 +176,8 @@
 
 [/us/usc/t29/s1322a/g/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1322a%2Fg%2F5
 [/us/usc/t29/s1431/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1431%2Fb%2F2
-[/us/usc/t29/s1085/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1085%2Fb%2F2
-[/us/usc/t29/s1085/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1085%2Fb%2F2
-[/us/usc/t29/s1085/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1085%2Fb%2F2
-[/us/usc/t29/s1085/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1085%2Fb%2F2
-[/us/usc/t29/s1085/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1085%2Fb%2F2
-[/us/usc/t29/s1085/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1085%2Fb%2F2
 [/us/usc/t29/s1021/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1021%2Ff%2F1
 [/us/usc/t29/s1021/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1021%2Ff%2F1
-[/us/usc/t29/s1085/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1085%2Fb%2F2
 [/us/usc/t29/s1431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1431
 [/us/usc/t29/s1431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1431
 [/us/usc/t29/s1085/e/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1085%2Fe%2F9

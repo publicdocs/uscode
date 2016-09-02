@@ -15,7 +15,7 @@
 
 # Title 29—LABOR
 
-Current through 113–296not287not291not295
+Current through 113–296not287not291
 
 <table>
 

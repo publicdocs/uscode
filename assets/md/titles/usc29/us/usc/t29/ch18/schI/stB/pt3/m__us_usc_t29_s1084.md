@@ -413,8 +413,6 @@
 
                 (iv) the notice required under paragraph (3)(A) has been provided.
 
-            (C) __Repealed.__  __[__  __Pub. L. 113–235, div. O, title I, § 101(b)(1)__  __][/us/pl/113/235/s101/b/1]__  __,__  __Dec. 16, 2014__  __,__  __[__  __128 Stat. 2774__  __][/us/stat/128/2774]__ 
-
         (2) __Alternative extension__ 
 
             (A) __In general__ 
@@ -449,7 +447,7 @@
 
                 The Secretary of the Treasury shall consider any relevant information provided by a person to whom notice was given under paragraph (1).
 
-([Pub. L. 93–406, title I, § 304][/us/pl/93/406/s304], as added [Pub. L. 109–280, title II, § 201(a)][/us/pl/109/280/s201/a], Aug. 17, 2006, [120 Stat. 858][/us/stat/120/858]; amended [Pub. L. 111–192, title II, § 211(a)(1)][/us/pl/111/192/s211/a/1], June 25, 2010, [124 Stat. 1302][/us/stat/124/1302]; [Pub. L. 113–235, div. O, title I][/us/pl/113/235], §§ 101(b)(1), 108(a)(3)(B), Dec. 16, 2014, [128 Stat. 2774][/us/stat/128/2774], 2787.)
+([Pub. L. 93–406, title I, § 304][/us/pl/93/406/s304], as added [Pub. L. 109–280, title II, § 201(a)][/us/pl/109/280/s201/a], Aug. 17, 2006, [120 Stat. 858][/us/stat/120/858]; amended [Pub. L. 111–192, title II, § 211(a)(1)][/us/pl/111/192/s211/a/1], June 25, 2010, [124 Stat. 1302][/us/stat/124/1302]; [Pub. L. 113–235, div. O, title I][/us/pl/113/235], §§ 101(b)(1), 108(a)(3)(B), Dec. 16, 2014, [128 Stat. 2774][/us/stat/128/2774], 2787; [Pub. L. 113–295, div. A, title I, § 171(b)][/us/pl/113/295/s171/b], Dec. 19, 2014, [128 Stat. 4023][/us/stat/128/4023].)
 
  __References in Text__ 
 
@@ -467,13 +465,17 @@
 
     2014—Subsec. (a). [Pub. L. 113–235, § 108(a)(3)(B)][/us/pl/113/235/s108/a/3/B], amended subsec. (a) generally. Prior to amendment, subsec. (a) related to accumulated funding deficiencies of multiemployer plans.
 
-    Subsec. (d)(1)(C). [Pub. L. 113–235, § 101(b)(1)][/us/pl/113/235/s101/b/1], struck out subpar. (C). Prior to amendment, text read as follows: “The preceding provisions of this paragraph shall not apply with respect to any application submitted after December 31, 2014.”
+    Subsec. (d)(1)(C). [Pub. L. 113–295][/us/pl/113/295], which directed substitution of “December 31, 2015” for “December 31, 2014”, was not executed in view of the amendment by [Pub. L. 113–235, § 101(b)(1)][/us/pl/113/235/s101/b/1], which struck out subpar. (C). See note below.
+
+    [Pub. L. 113–235, § 101(b)(1)][/us/pl/113/235/s101/b/1], struck out subpar. (C). Text read as follows: “The preceding provisions of this paragraph shall not apply with respect to any application submitted after December 31, 2014.”
 
     2010—Subsec. (b)(8). [Pub. L. 111–192][/us/pl/111/192] added par. (8).
 
  __Effective Date of 2014 Amendment__ 
 
-    Amendment by [section 108(a)(3)(B) of Pub. L. 113–235][/us/pl/113/235/s108/a/3/B] applicable with respect to plan years beginning after Dec. 31, 2014, see [section 108(c) of div. O of Pub. L. 113–235][/us/pl/113/235/s108/c], set out as an Effective Date of Repeal note under [section 418 of Title 26][/us/usc/t26/s418], Internal Revenue Code.
+    Amendment by [Pub. L. 113–295][/us/pl/113/295] applicable to applications submitted under subsec. (d)(1)(C) of this section after Dec. 31, 2014, see [section 171(c) of Pub. L. 113–295][/us/pl/113/295/s171/c], set out as a note under [section 431 of Title 26][/us/usc/t26/s431], Internal Revenue Code.
+
+    Amendment by [section 108(a)(3)(B) of Pub. L. 113–235][/us/pl/113/235/s108/a/3/B] applicable with respect to plan years beginning after Dec. 31, 2014, see [section 108(c) of Pub. L. 113–235][/us/pl/113/235/s108/c], set out as an Effective Date of Repeal note under [section 418 of Title 26][/us/usc/t26/s418], Internal Revenue Code.
 
  __Effective Date of 2010 Amendment__ 
 
@@ -545,8 +547,6 @@
 [/us/usc/t26/s411/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs411%2Fd%2F3
 [/us/usc/t26/s807/d/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs807%2Fd%2F5%2FA
 [/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
-[/us/pl/113/235/s101/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs101%2Fb%2F1
-[/us/stat/128/2774]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2774
 [/us/usc/t29/s1301/a/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1301%2Fa%2F21
 [/us/pl/93/406/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2Fs304
 [/us/pl/109/280/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs201%2Fa
@@ -555,6 +555,8 @@
 [/us/stat/124/1302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1302
 [/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
 [/us/stat/128/2774]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2774
+[/us/pl/113/295/s171/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs171%2Fb
+[/us/stat/128/4023]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4023
 [/us/usc/t29/s1423/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1423%2Fa
 [/us/pl/113/235/s108/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs108%2Fa%2F1
 [/us/stat/128/2786]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2786
@@ -574,8 +576,13 @@
 [/us/pl/109/280/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs101%2Fa
 [/us/stat/120/784]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F784
 [/us/pl/113/235/s108/a/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs108%2Fa%2F3%2FB
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
+[/us/pl/113/235/s101/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs101%2Fb%2F1
 [/us/pl/113/235/s101/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs101%2Fb%2F1
 [/us/pl/111/192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F192
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
+[/us/pl/113/295/s171/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs171%2Fc
+[/us/usc/t26/s431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs431
 [/us/pl/113/235/s108/a/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs108%2Fa%2F3%2FB
 [/us/pl/113/235/s108/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs108%2Fc
 [/us/usc/t26/s418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs418

@@ -287,85 +287,7 @@
 
                 (ii) The term “applicable interest rate” means the adjusted first, second, and third segment rates applied under rules similar to the rules of [section 1083(h)(2)(C) of this title][/us/usc/t29/s1083/h/2/C] (determined by not taking into account any adjustment under clause (iv) thereof) for the month before the date of the distribution or such other time as the Secretary of the Treasury may by regulations prescribe.
 
-                (iii)
-
-                 For purposes of clause (ii), the adjusted first, second, and third segment rates are the first, second, and third segment rates which would be determined under [section 1083(h)(2)(C) of this title][/us/usc/t29/s1083/h/2/C] (determined by not taking into account any adjustment under clause (iv) thereof) if—
-
-                    (I) [section 1083(h)(2)(D) of this title][/us/usc/t29/s1083/h/2/D] were applied by substituting the average yields for the month described in clause (ii) for the average yields for the 24-month period described in such section,
-
-                    (II) [section 1083(h)(2)(G)(i)(II) of this title][/us/usc/t29/s1083/h/2/G/i/II] were applied by substituting “[section 1055(g)(3)(A)(ii)(II) of this title][/us/usc/t29/s1055/g/3/A/ii/II]” for “[section 1082(b)(5)(B)(ii)(II) of this title][/us/usc/t29/s1082/b/5/B/ii/II]”, and
-
-                    (III) the applicable percentage under [section 1083(h)(2)(G) of this title][/us/usc/t29/s1083/h/2/G] were determined in accordance with the following table:
-
-<table>
-
-                      <tr>
-
-                        <td>   </td>
-
-  </tr>
-
-                      <tr>
-
-                        <td> 
-
-                    In the case of plan years beginning in:  </td>
-
-                        <td> 
-
-                    The applicable percentage is:  </td>
-
-  </tr>
-
-                      <tr>
-
-                        <td> 
-
-                    2008  </td>
-
-                        <td> 
-
-                    20 percent  </td>
-
-  </tr>
-
-                      <tr>
-
-                        <td> 
-
-                    2009  </td>
-
-                        <td> 
-
-                    40 percent  </td>
-
-  </tr>
-
-                      <tr>
-
-                        <td> 
-
-                    2010  </td>
-
-                        <td> 
-
-                    60 percent  </td>
-
-  </tr>
-
-                      <tr>
-
-                        <td> 
-
-                    2011  </td>
-
-                        <td> 
-
-                    80 percent.  </td>
-
-  </tr>
-
-                    </table>
+                (iii) For purposes of clause (ii), the adjusted first, second, and third segment rates are the first, second, and third segment rates which would be determined under [section 1083(h)(2)(C) of this title][/us/usc/t29/s1083/h/2/C] (determined by not taking into account any adjustment under clause (iv) thereof) if [section 1083(h)(2)(D) of this title][/us/usc/t29/s1083/h/2/D] were applied by substituting the average yields for the month described in clause (ii) for the average yields for the 24-month period described in such section.
 
     (h) __Definitions__ 
 
@@ -403,9 +325,11 @@
 
         In prescribing regulations under this section, the Secretary of the Treasury shall consult with the Secretary of Labor.
 
-([Pub. L. 93–406, title I, § 205][/us/pl/93/406/s205], Sept. 2, 1974, [88 Stat. 862][/us/stat/88/862]; [Pub. L. 98–397, title I, § 103(a)][/us/pl/98/397/s103/a], Aug. 23, 1984, [98 Stat. 1429][/us/stat/98/1429]; [Pub. L. 99–514, title XI][/us/pl/99/514], §§ 1139(c)(2), 1145(b), title XVIII, § 1898(b)(1)(B), (2)(B), (3)(B), (4)(B), (5)(B), (6)(B), (7)(B), (8)(B), (9)(B), (10)(B), (11)(B), (12)(B), (13)(B), (14)(B), Oct. 22, 1986, [100 Stat. 2488][/us/stat/100/2488], 2491, 2945–2951; [Pub. L. 101–239, title VII][/us/pl/101/239], §§ 7861(d)(2), 7862(d)(1)(B), (3), (6)–(9), 7891(a)(1), (b)(3), (c), (e), 7894(c)(7)(A), Dec. 19, 1989, [103 Stat. 2431][/us/stat/103/2431], 2434, 2445, 2447, 2449; [Pub. L. 103–465, title VII, § 767(c)(2)][/us/pl/103/465/s767/c/2], Dec. 8, 1994, [108 Stat. 5039][/us/stat/108/5039]; [Pub. L. 104–188, title I, § 1451(b)][/us/pl/104/188/s1451/b], Aug. 20, 1996, [110 Stat. 1815][/us/stat/110/1815]; [Pub. L. 105–34, title X, § 1071(b)(2)][/us/pl/105/34/s1071/b/2], title XVI, § 1601(d)(5), Aug. 5, 1997, [111 Stat. 948][/us/stat/111/948], 1089; [Pub. L. 107–147, title IV, § 411(r)(2)][/us/pl/107/147/s411/r/2], Mar. 9, 2002, [116 Stat. 51][/us/stat/116/51]; [Pub. L. 109–280, title III, § 302(a)][/us/pl/109/280/s302/a], title X, § 1004(b), title XI, § 1102(a)(2)(A), Aug. 17, 2006, [120 Stat. 920][/us/stat/120/920], 1054, 1056; [Pub. L. 110–458, title I, § 103(b)(1)][/us/pl/110/458/s103/b/1], Dec. 23, 2008, [122 Stat. 5103][/us/stat/122/5103]; [Pub. L. 112–141, div. D, title II, § 40211(b)(3)(B)][/us/pl/112/141/s40211/b/3/B], July 6, 2012, [126 Stat. 849][/us/stat/126/849].)
+([Pub. L. 93–406, title I, § 205][/us/pl/93/406/s205], Sept. 2, 1974, [88 Stat. 862][/us/stat/88/862]; [Pub. L. 98–397, title I, § 103(a)][/us/pl/98/397/s103/a], Aug. 23, 1984, [98 Stat. 1429][/us/stat/98/1429]; [Pub. L. 99–514, title XI][/us/pl/99/514], §§ 1139(c)(2), 1145(b), title XVIII, § 1898(b)(1)(B), (2)(B), (3)(B), (4)(B), (5)(B), (6)(B), (7)(B), (8)(B), (9)(B), (10)(B), (11)(B), (12)(B), (13)(B), (14)(B), Oct. 22, 1986, [100 Stat. 2488][/us/stat/100/2488], 2491, 2945–2951; [Pub. L. 101–239, title VII][/us/pl/101/239], §§ 7861(d)(2), 7862(d)(1)(B), (3), (6)–(9), 7891(a)(1), (b)(3), (c), (e), 7894(c)(7)(A), Dec. 19, 1989, [103 Stat. 2431][/us/stat/103/2431], 2434, 2445, 2447, 2449; [Pub. L. 103–465, title VII, § 767(c)(2)][/us/pl/103/465/s767/c/2], Dec. 8, 1994, [108 Stat. 5039][/us/stat/108/5039]; [Pub. L. 104–188, title I, § 1451(b)][/us/pl/104/188/s1451/b], Aug. 20, 1996, [110 Stat. 1815][/us/stat/110/1815]; [Pub. L. 105–34, title X, § 1071(b)(2)][/us/pl/105/34/s1071/b/2], title XVI, § 1601(d)(5), Aug. 5, 1997, [111 Stat. 948][/us/stat/111/948], 1089; [Pub. L. 107–147, title IV, § 411(r)(2)][/us/pl/107/147/s411/r/2], Mar. 9, 2002, [116 Stat. 51][/us/stat/116/51]; [Pub. L. 109–280, title III, § 302(a)][/us/pl/109/280/s302/a], title X, § 1004(b), title XI, § 1102(a)(2)(A), Aug. 17, 2006, [120 Stat. 920][/us/stat/120/920], 1054, 1056; [Pub. L. 110–458, title I, § 103(b)(1)][/us/pl/110/458/s103/b/1], Dec. 23, 2008, [122 Stat. 5103][/us/stat/122/5103]; [Pub. L. 112–141, div. D, title II, § 40211(b)(3)(B)][/us/pl/112/141/s40211/b/3/B], July 6, 2012, [126 Stat. 849][/us/stat/126/849]; [Pub. L. 113–295, div. A, title II, § 221(a)(57)(B)(ii)][/us/pl/113/295/s221/a/57/B/ii], Dec. 19, 2014, [128 Stat. 4046][/us/stat/128/4046].)
 
  __Amendments__ 
+
+    2014—Subsec. (g)(3)(B)(iii). [Pub. L. 113–295][/us/pl/113/295] struck out dash after “if” and subcl. (I) designation before “section 1083(h)(2)(D)”, substituted “described in such section.” for “described in such section,”, and struck out subcls. (II) and (III) which related to methods for calculating rates based on [section 1083(h)(2)(G) of this title][/us/usc/t29/s1083/h/2/G].
 
     2012—Subsec. (g)(3)(B)(ii), (iii). [Pub. L. 112–141][/us/pl/112/141] substituted “[section 1083(h)(2)(C) of this title][/us/usc/t29/s1083/h/2/C] (determined by not taking into account any adjustment under clause (iv) thereof)” for “[section 1083(h)(2)(C) of this title][/us/usc/t29/s1083/h/2/C]”.
 
@@ -535,6 +459,10 @@
 
     Subsec. (j). [Pub. L. 98–397][/us/pl/98/397] added subsec. (j).
 
+ __Effective Date of 2014 Amendment__ 
+
+    Amendment by [Pub. L. 113–295][/us/pl/113/295] effective Dec. 19, 2014, subject to a savings provision, see [section 221(b) of Pub. L. 113–295][/us/pl/113/295/s221/b], set out as a note under [section 1 of Title 26][/us/usc/t26/s1], Internal Revenue Code.
+
  __Effective Date of 2012 Amendment__ 
 
     Amendment by [Pub. L. 112–141][/us/pl/112/141] applicable with respect to plan years beginning after Dec. 31, 2011, except as otherwise provided, see [section 40211(c) of Pub. L. 112–141][/us/pl/112/141/s40211/c], set out as a note under [section 404 of Title 26][/us/usc/t26/s404], Internal Revenue Code.
@@ -626,10 +554,6 @@
 [/us/usc/t29/s1083/h/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1083%2Fh%2F2%2FC
 [/us/usc/t29/s1083/h/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1083%2Fh%2F2%2FC
 [/us/usc/t29/s1083/h/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1083%2Fh%2F2%2FD
-[/us/usc/t29/s1083/h/2/G/i/II]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1083%2Fh%2F2%2FG%2Fi%2FII
-[/us/usc/t29/s1055/g/3/A/ii/II]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1055%2Fg%2F3%2FA%2Fii%2FII
-[/us/usc/t29/s1082/b/5/B/ii/II]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1082%2Fb%2F5%2FB%2Fii%2FII
-[/us/usc/t29/s1083/h/2/G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1083%2Fh%2F2%2FG
 [/us/usc/t29/s1002/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1002%2F19
 [/us/pl/93/406/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2Fs205
 [/us/stat/88/862]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F862
@@ -653,6 +577,10 @@
 [/us/stat/122/5103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F5103
 [/us/pl/112/141/s40211/b/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs40211%2Fb%2F3%2FB
 [/us/stat/126/849]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F849
+[/us/pl/113/295/s221/a/57/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F57%2FB%2Fii
+[/us/stat/128/4046]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4046
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
+[/us/usc/t29/s1083/h/2/G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1083%2Fh%2F2%2FG
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/usc/t29/s1083/h/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1083%2Fh%2F2%2FC
 [/us/usc/t29/s1083/h/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1083%2Fh%2F2%2FC
@@ -728,6 +656,9 @@
 [/us/pl/98/397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F397
 [/us/pl/98/397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F397
 [/us/pl/98/397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F397
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
+[/us/pl/113/295/s221/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fb
+[/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/112/141/s40211/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs40211%2Fc
 [/us/usc/t26/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs404
