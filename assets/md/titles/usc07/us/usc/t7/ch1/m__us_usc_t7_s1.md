@@ -33,12 +33,6 @@
 
 > “All provisions of this Act \[see Tables for classification\] authorizing the registration of futures commission merchants and floor brokers, the fixing of fees and charges therefor, the promulgation of rules, regulations and orders, and the holding of hearings precedent to the promulgation of rules, regulations, and orders shall be effective immediately. All other provisions of this Act shall take effect ninety days after the enactment of this Act \[June 15, 1936\].”
 
- __Short Title of 2015 Amendment__ 
-
-[Pub. L. 114–1, title III, § 301][/us/pl/114/1/s301], Jan. 12, 2015, [129 Stat. 28][/us/stat/129/28], provided that: 
-
-> “This title \[amending [section 6s of this title][/us/usc/t7/s6s] and section 78o–10 of Title 15, Commerce and Trade, and enacting provisions set out as a note under [section 6s of this title][/us/usc/t7/s6s]\] may be cited as the ‘Business Risk Mitigation and Price Stabilization Act of 2015’.”
-
  __Short Title of 2008 Amendment__ 
 
 [Pub. L. 110–234, title XIII, § 13001][/us/pl/110/234/s13001], May 22, 2008, [122 Stat. 1427][/us/stat/122/1427], and [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title XIII, § 13001, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2189, provided that: 
@@ -162,10 +156,6 @@
 [/us/stat/42/187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F187
 [/us/act/1936-06-15/ch545/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-06-15%2Fch545%2Fs13
 [/us/stat/49/1501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F1501
-[/us/pl/114/1/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F1%2Fs301
-[/us/stat/129/28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F28
-[/us/usc/t7/s6s]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs6s
-[/us/usc/t7/s6s]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs6s
 [/us/pl/110/234/s13001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs13001
 [/us/stat/122/1427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1427
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
