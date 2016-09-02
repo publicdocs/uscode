@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t3/ch3/m__us_usc_t3_s205.md) | [Next](./../../../..//us/usc/t3/ch4/m__us_usc_t3_s301.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fch4)
+[Previous](./../../../..//us/usc/t3/ch3/m__us_usc_t3_s206...209.md) | [Next](./../../../..//us/usc/t3/ch4/m__us_usc_t3_s301.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fch4)
 
 ## CHAPTER 4—DELEGATION OF FUNCTIONS
 
@@ -55,7 +55,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t3/ch3/m__us_usc_t3_s205.md) | [Next](./../../../..//us/usc/t3/ch4/m__us_usc_t3_s301.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fch4)
+[Previous](./../../../..//us/usc/t3/ch3/m__us_usc_t3_s206...209.md) | [Next](./../../../..//us/usc/t3/ch4/m__us_usc_t3_s301.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fch4)
 
 ----------
 ----------

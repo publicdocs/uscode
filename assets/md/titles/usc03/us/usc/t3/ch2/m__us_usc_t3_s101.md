@@ -21,7 +21,7 @@
 
  __Short Title of 2000 Amendment__ 
 
-[Pub. L. 106–293, § 1][/us/pl/106/293/s1], Oct. 12, 2000, [114 Stat. 1035][/us/stat/114/1035], provided that: 
+[Pub. L. 106–293][/us/pl/106/293], § 1, Oct. 12, 2000, [114 Stat. 1035][/us/stat/114/1035], provided that: 
 
 > “This Act \[amending provisions set out as a note under [section 102 of this title][/us/usc/t3/s102]\] may be cited as the ‘Presidential Transition Act of 2000’.”
 
@@ -37,7 +37,7 @@
 
 >     “Any reference in a law, map, regulation, document, paper, or other record of the United States to the building referred to in section 1 shall be deemed to be a reference to the ‘Dwight D. Eisenhower Executive Office Building’.”
 
-[Pub. L. 100–461, title V, § 590][/us/pl/100/461/s590], Oct. 1, 1988, [102 Stat. 2268–52][/us/stat/102/2268-52], as amended by [Pub. L. 106–92, § 2][/us/pl/106/92/s2], Nov. 9, 1999, [113 Stat. 1309][/us/stat/113/1309], provided that:
+[Pub. L. 100–461, title V][/us/pl/100/461/tV], § 590, Oct. 1, 1988, [102 Stat. 2268–52][/us/stat/102/2268-52], as amended by [Pub. L. 106–92][/us/pl/106/92], § 2, Nov. 9, 1999, [113 Stat. 1309][/us/stat/113/1309], provided that:
 
 >     “(a)  __Acceptance of Gifts of Money and Property__  __.—__ 
 
@@ -74,14 +74,14 @@
 
 [/us/act/1948-06-25/ch644]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch644
 [/us/stat/62/678]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F678
-[/us/pl/106/293/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F293%2Fs1
+[/us/pl/106/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F293
 [/us/stat/114/1035]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1035
 [/us/usc/t3/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs102
 [/us/pl/106/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F92
 [/us/stat/113/1309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1309
-[/us/pl/100/461/s590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F461%2Fs590
+[/us/pl/100/461/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F461%2FtV
 [/us/stat/102/2268-52]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2268-52
-[/us/pl/106/92/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F92%2Fs2
+[/us/pl/106/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F92
 [/us/stat/113/1309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1309
 [/us/act/1956-08-03/ch925]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-03%2Fch925
 [/us/stat/70/979]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F979

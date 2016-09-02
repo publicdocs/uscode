@@ -99,7 +99,7 @@
 
         (2) October 1, 1998.
 
-(Added [Pub. L. 104–331, § 2(a)][/us/pl/104/331/s2/a], Oct. 26, 1996, [110 Stat. 4062][/us/stat/110/4062].)
+(Added [Pub. L. 104–331][/us/pl/104/331], § 2(a), Oct. 26, 1996, [110 Stat. 4062][/us/stat/110/4062].)
 
  __References in Text__ 
 
@@ -117,7 +117,7 @@
 ----------
 
 [/us/usc/t28/s1296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1296
-[/us/pl/104/331/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F331%2Fs2%2Fa
+[/us/pl/104/331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F331
 [/us/stat/110/4062]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F4062
 [/us/pl/91/596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F596
 [/us/stat/84/1590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1590

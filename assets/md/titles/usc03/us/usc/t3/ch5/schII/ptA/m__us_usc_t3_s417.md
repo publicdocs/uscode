@@ -23,7 +23,7 @@
 
     A violation of subsection (a) may be remedied by any legal remedy available to redress the practice opposed by the covered employee or other violation of law as to which the covered employee initiated proceedings, made a charge, or engaged in other conduct protected under subsection (a).
 
-(Added [Pub. L. 104–331, § 2(a)][/us/pl/104/331/s2/a], Oct. 26, 1996, [110 Stat. 4061][/us/stat/110/4061].)
+(Added [Pub. L. 104–331][/us/pl/104/331], § 2(a), Oct. 26, 1996, [110 Stat. 4061][/us/stat/110/4061].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/104/331/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F331%2Fs2%2Fa
+[/us/pl/104/331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F331
 [/us/stat/110/4061]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F4061
 
 

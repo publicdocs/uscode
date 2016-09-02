@@ -17,7 +17,7 @@
 
     All furniture purchased for the use of the Executive Residence at the White House shall be, as far as practicable, of domestic manufacture. With a view to conserving in the Executive Residence at the White House the best specimens of the early American furniture and furnishings, and for the purpose of maintaining the interior of the Executive Residence at the White House in keeping with its original design, the Director of the National Park Service is authorized and directed, with the approval of the President, to accept donations of furniture and furnishings for use in the Executive Residence at the White House, all such articles thus donated to become the property of the United States and to be accounted for as such. The said Director of the National Park Service is further authorized and directed, with the approval of the President, to appoint a temporary committee composed of one representative of the American Federation of Arts, one representative of the National Commission of Fine Arts, one representative of the National Academy of Design, one member of the American Institute of Architects, and five members representing the public at large; the said committee to have full power to select and pass on the articles in question and to recommend the same for acceptance.
 
-([June 25, 1948, ch. 644][/us/act/1948-06-25/ch644], [62 Stat. 679][/us/stat/62/679]; [Pub. L. 95–570, § 5(c)(1)][/us/pl/95/570/s5/c/1], Nov. 2, 1978, [92 Stat. 2451][/us/stat/92/2451].)
+([June 25, 1948, ch. 644][/us/act/1948-06-25/ch644], [62 Stat. 679][/us/stat/62/679]; [Pub. L. 95–570][/us/pl/95/570], § 5(c)(1), Nov. 2, 1978, [92 Stat. 2451][/us/stat/92/2451].)
 
  __Amendments__ 
 
@@ -39,7 +39,7 @@
 
 [Pub. L. 87–286][/us/pl/87/286], Sept. 22, 1961, [75 Stat. 586][/us/stat/75/586], provided: 
 
-> “That all of that portion of reservation numbered 1 in the city of Washington, District of Columbia, which is within the President’s park enclosure, comprising eighteen and seven one-hundredths acres, shall continue to be known as the White House and shall be administered pursuant to the Act of August 25, 1916 ([39 Stat. 535][/us/stat/39/535]; \[former\] [16 U.S.C. 1–3][/us/usc/t16/s1–3] \[see [18 U.S.C. 1865(a)][/us/usc/t18/s1865/a]; [54 U.S.C. 100101(a)][/us/usc/t54/s100101/a], 100301 to 100303, 100751(a), 100752, 100753, 102101\]), and Acts supplementary thereto and amendatory thereof. In carrying out this Act primary attention shall be given to the preservation and interpretation of the museum character of the principal corridor on the ground floor and the principal public rooms on the first floor of the White House, but nothing done under this Act shall conflict with the administration of the Executive offices of the President or with the use and occupancy of the buildings and grounds as the home of the President and his family and for his official purposes.
+> “That all of that portion of reservation numbered 1 in the city of Washington, District of Columbia, which is within the President’s park enclosure, comprising eighteen and seven one-hundredths acres, shall continue to be known as the White House and shall be administered pursuant to the Act of August 25, 1916 ([39 Stat. 535][/us/stat/39/535]; \[former\] [16 U.S.C. 1–3][/us/usc/t16/s1–3] \[see [18 U.S.C. 1865(a)][/us/usc/t18/s1865/a], [54 U.S.C. 100101(a)][/us/usc/t54/s100101/a], 100301 et seq., 100751(a), 100752, 100753, 102101\]), and Acts supplementary thereto and amendatory thereof. In carrying out this Act primary attention shall be given to the preservation and interpretation of the museum character of the principal corridor on the ground floor and the principal public rooms on the first floor of the White House, but nothing done under this Act shall conflict with the administration of the Executive offices of the President or with the use and occupancy of the buildings and grounds as the home of the President and his family and for his official purposes.
 
 > “Sec. 2. Articles of furniture, fixtures, and decorative objects of the White House, when declared by the President to be of historic or artistic interest, together with such similar articles, fixtures, and objects as are acquired by the White House in the future when similarly so declared, shall thereafter be considered to be inalienable and the property of the White House. Any such article, fixture, or object when not in use or on display in the White House shall be transferred by direction of the President as a loan to the Smithsonian Institution for its care, study, and storage or exhibition and such articles, fixtures, and objects shall be returned to the White House from the Smithsonian Institution on notice by the President.
 
@@ -129,7 +129,9 @@
 
     Term of the Committee for the Preservation of the White House extended until Sept. 30, 2013, by Ex. Ord. No. 13585, Sept. 30, 2011, 76 F.R. 62281, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
 
-    Term of the Committee for the Preservation of the White House extended until Sept. 30, 2015, by Ex. Ord. No. 13652, Sept. 30, 2013, 78 F.R. 61817, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+    Term of the Committee for the Preservation of the White House extended until Sept. 30, 2015, by Ex. Ord. No. 13652, Sept. 30, 2013, 78 F.R. 61817, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+
+    Term of the Committee for the Preservation of the White House extended until Sept. 30, 2017, by Ex. Ord. No. 13708, Sept. 30, 2015, 80 F.R. 60271, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
 
 ----------
 
@@ -140,7 +142,7 @@
 
 [/us/act/1948-06-25/ch644]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch644
 [/us/stat/62/679]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F679
-[/us/pl/95/570/s5/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F570%2Fs5%2Fc%2F1
+[/us/pl/95/570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F570
 [/us/stat/92/2451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2451
 [/us/pl/95/570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F570
 [/us/pl/95/570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F570

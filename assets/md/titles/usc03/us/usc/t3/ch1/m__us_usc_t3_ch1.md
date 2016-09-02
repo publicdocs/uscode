@@ -195,11 +195,11 @@
 
  __Amendments__ 
 
-    1984—[Pub. L. 98–497, title I, § 107(e)(3)][/us/pl/98/497/s107/e/3], Oct. 19, 1984, [98 Stat. 2292][/us/stat/98/2292], substituted “Archivist of the United States” for “Administrator of General Services” in items 6 and 12.
+    1984—[Pub. L. 98–497, title I][/us/pl/98/497/tI], § 107(e)(3), Oct. 19, 1984, [98 Stat. 2292][/us/stat/98/2292], substituted “Archivist of the United States” for “Administrator of General Services” in items 6 and 12.
 
-    1961—[Pub. L. 87–389, § 2(b)][/us/pl/87/389/s2/b], Oct. 4, 1961, [75 Stat. 820][/us/stat/75/820], added item 21.
+    1961—[Pub. L. 87–389][/us/pl/87/389], § 2(b), Oct. 4, 1961, [75 Stat. 820][/us/stat/75/820], added item 21.
 
-    1951—[Act Oct. 31, 1951, ch. 655, § 5][/us/act/1951-10-31/ch655/s5], [65 Stat. 711][/us/stat/65/711], substituted “Administrator of General Services” for “Secretary of State” in items 6 and 12.
+    1951—[Act Oct. 31, 1951, ch. 655][/us/act/1951-10-31/ch655], § 5, [65 Stat. 711][/us/stat/65/711], substituted “Administrator of General Services” for “Secretary of State” in items 6 and 12.
 
 ----------
 
@@ -208,11 +208,11 @@
 ----------
 ----------
 
-[/us/pl/98/497/s107/e/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F497%2Fs107%2Fe%2F3
+[/us/pl/98/497/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F497%2FtI
 [/us/stat/98/2292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2292
-[/us/pl/87/389/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F389%2Fs2%2Fb
+[/us/pl/87/389]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F389
 [/us/stat/75/820]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F820
-[/us/act/1951-10-31/ch655/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-10-31%2Fch655%2Fs5
+[/us/act/1951-10-31/ch655]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-10-31%2Fch655
 [/us/stat/65/711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F65%2F711
 
 

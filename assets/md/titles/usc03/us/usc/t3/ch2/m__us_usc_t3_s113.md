@@ -33,7 +33,7 @@
 
         The information required under this subsection to be in any report shall be shown both in the aggregate and by office involved.
 
-(Added [Pub. L. 95–570, § 3(a)][/us/pl/95/570/s3/a], Nov. 2, 1978, [92 Stat. 2449][/us/stat/92/2449].)
+(Added [Pub. L. 95–570][/us/pl/95/570], § 3(a), Nov. 2, 1978, [92 Stat. 2449][/us/stat/92/2449].)
 
  __References in Text__ 
 
@@ -53,7 +53,7 @@
 
  __Report on White House Office Personnel__ 
 
-[Pub. L. 103–270, § 6][/us/pl/103/270/s6], June 30, 1994, [108 Stat. 737][/us/stat/108/737], provided that:
+[Pub. L. 103–270][/us/pl/103/270], § 6, June 30, 1994, [108 Stat. 737][/us/stat/108/737], provided that:
 
 >     “(a)  __Submission of Report__  __.—__ 
 
@@ -110,7 +110,7 @@
 [/us/usc/t5/s5332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5332
 [/us/usc/t3/s112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs112
 [/us/usc/t3/s112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs112
-[/us/pl/95/570/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F570%2Fs3%2Fa
+[/us/pl/95/570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F570
 [/us/stat/92/2449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2449
 [/us/pl/95/570/s6/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F570%2Fs6%2Fa
 [/us/usc/t3/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs102
@@ -120,7 +120,7 @@
 [/us/usc/t31/s1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1113
 [/us/pl/101/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509
 [/us/usc/t5/s5376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5376
-[/us/pl/103/270/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F270%2Fs6
+[/us/pl/103/270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F270
 [/us/stat/108/737]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F737
 [/us/pl/104/14/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F14%2Fs1%2Fa
 [/us/usc/t2/s21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs21

@@ -19,7 +19,7 @@
 
     (b) In no event shall the percentage adjustment taking effect under the second and third sentences of subsection (a) in any calendar year (before rounding) exceed the percentage adjustment taking effect in such calendar year under [section 5303 of title 5][/us/usc/t5/s5303] in the rates of pay under the General Schedule.
 
-([June 25, 1948, ch. 644][/us/act/1948-06-25/ch644], [62 Stat. 678][/us/stat/62/678]; [Jan. 19, 1949, ch. 2, § 1(b)][/us/act/1949-01-19/ch2/s1/b], [63 Stat. 4][/us/stat/63/4]; [Mar. 2, 1955, ch. 9, § 4(c)][/us/act/1955-03-02/ch9/s4/c], [69 Stat. 11][/us/stat/69/11]; [Pub. L. 88–426, title III, § 304(a)][/us/pl/88/426/s304/a], Aug. 14, 1964, [78 Stat. 422][/us/stat/78/422]; [Pub. L. 91–67, § 1][/us/pl/91/67/s1], Sept. 15, 1969, [83 Stat. 106][/us/stat/83/106]; [Pub. L. 94–82, title II, § 203][/us/pl/94/82/s203], Aug. 9, 1975, [89 Stat. 420][/us/stat/89/420]; [Pub. L. 97–257, title I, § 105(b)][/us/pl/97/257/s105/b], Sept. 10, 1982, [96 Stat. 849][/us/stat/96/849]; [Pub. L. 101–194, title VII, § 704(a)(2)(A)][/us/pl/101/194/s704/a/2/A], Nov. 30, 1989, [103 Stat. 1769][/us/stat/103/1769]; [Pub. L. 101–509, title V, § 529][/us/pl/101/509/s529] \[title I, § 101(b)(4)(I)\], Nov. 5, 1990, [104 Stat. 1427][/us/stat/104/1427], 1440; [Pub. L. 103–356, title I, § 101(2)][/us/pl/103/356/s101/2], Oct. 13, 1994, [108 Stat. 3410][/us/stat/108/3410].)
+([June 25, 1948, ch. 644][/us/act/1948-06-25/ch644], [62 Stat. 678][/us/stat/62/678]; [Jan. 19, 1949, ch. 2][/us/act/1949-01-19/ch2], § 1(b), [63 Stat. 4][/us/stat/63/4]; [Mar. 2, 1955, ch. 9][/us/act/1955-03-02/ch9], § 4(c), [69 Stat. 11][/us/stat/69/11]; [Pub. L. 88–426, title III][/us/pl/88/426/tIII], § 304(a), Aug. 14, 1964, [78 Stat. 422][/us/stat/78/422]; [Pub. L. 91–67][/us/pl/91/67], § 1, Sept. 15, 1969, [83 Stat. 106][/us/stat/83/106]; [Pub. L. 94–82, title II][/us/pl/94/82/tII], § 203, Aug. 9, 1975, [89 Stat. 420][/us/stat/89/420]; [Pub. L. 97–257, title I][/us/pl/97/257/tI], § 105(b), Sept. 10, 1982, [96 Stat. 849][/us/stat/96/849]; [Pub. L. 101–194, title VII][/us/pl/101/194/tVII], § 704(a)(2)(A), Nov. 30, 1989, [103 Stat. 1769][/us/stat/103/1769]; [Pub. L. 101–509, title V][/us/pl/101/509/tV], § 529 \[title I, § 101(b)(4)(I)\], Nov. 5, 1990, [104 Stat. 1427][/us/stat/104/1427], 1440; [Pub. L. 103–356, title I][/us/pl/103/356/tI], § 101(2), Oct. 13, 1994, [108 Stat. 3410][/us/stat/108/3410].)
 
  __References in Text__ 
 
@@ -49,7 +49,7 @@
 
  __Effective Date of 1994 Amendment__ 
 
-    [Pub. L. 103–356, title I, § 101][/us/pl/103/356/s101], Oct. 13, 1994, [108 Stat. 3410][/us/stat/108/3410], provided that the amendment made by section 101(2) is effective Dec. 31, 1994.
+    [Pub. L. 103–356, title I][/us/pl/103/356/tI], § 101, Oct. 13, 1994, [108 Stat. 3410][/us/stat/108/3410], provided that the amendment made by section 101(2) is effective Dec. 31, 1994.
 
  __Effective Date of 1990 Amendment__ 
 
@@ -65,7 +65,7 @@
 
  __Effective Date of 1969 Amendment__ 
 
-[Pub. L. 91–67, § 3][/us/pl/91/67/s3], Sept. 15, 1969, [83 Stat. 107][/us/stat/83/107], provided that: 
+[Pub. L. 91–67][/us/pl/91/67], § 3, Sept. 15, 1969, [83 Stat. 107][/us/stat/83/107], provided that: 
 
 > “The amendments made by this Act \[amending this section and [section 4501 of Title 2][/us/usc/t2/s4501], The Congress\] shall become effective on March 1, 1969.”
 
@@ -100,23 +100,23 @@
 [/us/usc/t5/s5303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5303
 [/us/act/1948-06-25/ch644]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch644
 [/us/stat/62/678]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F678
-[/us/act/1949-01-19/ch2/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-01-19%2Fch2%2Fs1%2Fb
+[/us/act/1949-01-19/ch2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-01-19%2Fch2
 [/us/stat/63/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F4
-[/us/act/1955-03-02/ch9/s4/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-03-02%2Fch9%2Fs4%2Fc
+[/us/act/1955-03-02/ch9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-03-02%2Fch9
 [/us/stat/69/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F11
-[/us/pl/88/426/s304/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F426%2Fs304%2Fa
+[/us/pl/88/426/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F426%2FtIII
 [/us/stat/78/422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F422
-[/us/pl/91/67/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F67%2Fs1
+[/us/pl/91/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F67
 [/us/stat/83/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F106
-[/us/pl/94/82/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F82%2Fs203
+[/us/pl/94/82/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F82%2FtII
 [/us/stat/89/420]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F420
-[/us/pl/97/257/s105/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F257%2Fs105%2Fb
+[/us/pl/97/257/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F257%2FtI
 [/us/stat/96/849]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F849
-[/us/pl/101/194/s704/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F194%2Fs704%2Fa%2F2%2FA
+[/us/pl/101/194/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F194%2FtVII
 [/us/stat/103/1769]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1769
-[/us/pl/101/509/s529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509%2Fs529
+[/us/pl/101/509/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509%2FtV
 [/us/stat/104/1427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1427
-[/us/pl/103/356/s101/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F356%2Fs101%2F2
+[/us/pl/103/356/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F356%2FtI
 [/us/stat/108/3410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3410
 [/us/usc/t5/s5332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5332
 [/us/pl/101/194/s704/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F194%2Fs704%2Fa%2F1
@@ -129,7 +129,7 @@
 [/us/pl/94/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F82
 [/us/pl/91/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F67
 [/us/pl/88/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F426
-[/us/pl/103/356/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F356%2Fs101
+[/us/pl/103/356/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F356%2FtI
 [/us/stat/108/3410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3410
 [/us/pl/101/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509
 [/us/pl/101/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509
@@ -140,7 +140,7 @@
 [/us/pl/97/257]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F257
 [/us/pl/97/257/s105/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F257%2Fs105%2Fc
 [/us/usc/t2/s4591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs4591
-[/us/pl/91/67/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F67%2Fs3
+[/us/pl/91/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F67
 [/us/stat/83/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F107
 [/us/usc/t2/s4501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs4501
 [/us/pl/88/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F426

@@ -55,7 +55,7 @@
 
         (2) October 1, 1998.
 
-(Added [Pub. L. 104–331, § 2(a)][/us/pl/104/331/s2/a], Oct. 26, 1996, [110 Stat. 4058][/us/stat/110/4058].)
+(Added [Pub. L. 104–331][/us/pl/104/331], § 2(a), Oct. 26, 1996, [110 Stat. 4058][/us/stat/110/4058].)
 
  __References in Text__ 
 
@@ -72,7 +72,7 @@
 ----------
 ----------
 
-[/us/pl/104/331/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F331%2Fs2%2Fa
+[/us/pl/104/331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F331
 [/us/stat/110/4058]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F4058
 [/us/act/1938-06-25/ch676]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch676
 [/us/stat/52/1060]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F1060

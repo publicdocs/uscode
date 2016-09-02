@@ -17,7 +17,7 @@
 
     Notwithstanding any provision of law, other than the provisions of this chapter, no employee of the White House Office, the Executive Residence at the White House, the Domestic Policy Staff, or the Office of Administration, nor any employee under the Vice President appointed under [section 106 of this title][/us/usc/t3/s106], may be paid at a rate of basic pay in excess of the minimum rate of basic pay then currently paid for GS–16 of the General Schedule of [section 5332 of title 5][/us/usc/t5/s5332].
 
-(Added [Pub. L. 95–570, § 3(a)][/us/pl/95/570/s3/a], Nov. 2, 1978, [92 Stat. 2450][/us/stat/92/2450].)
+(Added [Pub. L. 95–570][/us/pl/95/570], § 3(a), Nov. 2, 1978, [92 Stat. 2450][/us/stat/92/2450].)
 
  __Effective Date__ 
 
@@ -36,7 +36,7 @@
 
 [/us/usc/t3/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs106
 [/us/usc/t5/s5332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5332
-[/us/pl/95/570/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F570%2Fs3%2Fa
+[/us/pl/95/570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F570
 [/us/stat/92/2450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2450
 [/us/pl/95/570/s6/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F570%2Fs6%2Fa
 [/us/usc/t3/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs102

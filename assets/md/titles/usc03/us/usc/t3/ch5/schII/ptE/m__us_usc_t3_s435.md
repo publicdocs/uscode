@@ -55,7 +55,7 @@
 
     It shall not be a violation of any provision of this chapter to consider, or make any employment decision based on, the party affiliation, or political compatibility with the employing office, of an employee who is a covered employee.
 
-(Added [Pub. L. 104–331, § 2(a)][/us/pl/104/331/s2/a], Oct. 26, 1996, [110 Stat. 4066][/us/stat/110/4066].)
+(Added [Pub. L. 104–331][/us/pl/104/331], § 2(a), Oct. 26, 1996, [110 Stat. 4066][/us/stat/110/4066].)
 
  __References in Text__ 
 
@@ -70,7 +70,7 @@
 ----------
 ----------
 
-[/us/pl/104/331/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F331%2Fs2%2Fa
+[/us/pl/104/331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F331
 [/us/stat/110/4066]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F4066
 [/us/usc/t29/s2101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2101
 

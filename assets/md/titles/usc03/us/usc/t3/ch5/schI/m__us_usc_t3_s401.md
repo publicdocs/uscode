@@ -53,11 +53,11 @@
 
         (4) to which section 416 relates, the term “covered employee” means a covered employee described in section 416(a)(2).
 
-(Added [Pub. L. 104–331, § 2(a)][/us/pl/104/331/s2/a], Oct. 26, 1996, [110 Stat. 4054][/us/stat/110/4054].)
+(Added [Pub. L. 104–331][/us/pl/104/331], § 2(a), Oct. 26, 1996, [110 Stat. 4054][/us/stat/110/4054].)
 
  __Regulations__ 
 
-[Pub. L. 104–331, § 2(b)][/us/pl/104/331/s2/b], Oct. 26, 1996, [110 Stat. 4068][/us/stat/110/4068], provided that: 
+[Pub. L. 104–331][/us/pl/104/331], § 2(b), Oct. 26, 1996, [110 Stat. 4068][/us/stat/110/4068], provided that: 
 
 > “Appropriate measures shall be taken to ensure that—
 
@@ -67,7 +67,7 @@
 
  __Applicability of Future Employment Laws__ 
 
-[Pub. L. 104–331, § 4][/us/pl/104/331/s4], Oct. 26, 1996, [110 Stat. 4071][/us/stat/110/4071], provided that:
+[Pub. L. 104–331][/us/pl/104/331], § 4, Oct. 26, 1996, [110 Stat. 4071][/us/stat/110/4071], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -90,12 +90,12 @@
 ----------
 ----------
 
-[/us/pl/104/331/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F331%2Fs2%2Fa
+[/us/pl/104/331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F331
 [/us/stat/110/4054]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F4054
-[/us/pl/104/331/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F331%2Fs2%2Fb
+[/us/pl/104/331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F331
 [/us/stat/110/4068]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F4068
 [/us/usc/t3/s411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs411
-[/us/pl/104/331/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F331%2Fs4
+[/us/pl/104/331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F331
 [/us/stat/110/4071]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F4071
 [/us/usc/t2/s1302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1302
 [/us/usc/t3/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs401

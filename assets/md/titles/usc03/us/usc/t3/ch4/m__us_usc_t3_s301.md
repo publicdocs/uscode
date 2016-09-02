@@ -17,7 +17,7 @@
 
     The President of the United States is authorized to designate and empower the head of any department or agency in the executive branch, or any official thereof who is required to be appointed by and with the advice and consent of the Senate, to perform without approval, ratification, or other action by the President (1) any function which is vested in the President by law, or (2) any function which such officer is required or authorized by law to perform only with or subject to the approval, ratification, or other action of the President: Provided, That nothing contained herein shall relieve the President of his responsibility in office for the acts of any such head or other official designated by him to perform such functions. Such designation and authorization shall be in writing, shall be published in the Federal Register, shall be subject to such terms, conditions, and limitations as the President may deem advisable, and shall be revocable at any time by the President in whole or in part.
 
-(Added [Oct. 31, 1951, ch. 655, § 10][/us/act/1951-10-31/ch655/s10], [65 Stat. 712][/us/stat/65/712].)
+(Added [Oct. 31, 1951, ch. 655][/us/act/1951-10-31/ch655], § 10, [65 Stat. 712][/us/stat/65/712].)
 
  __Transfer of Functions__ 
 
@@ -29,7 +29,7 @@
 
  __Ex. Ord. No. 10250. Delegation of Functions to the Secretary of the Interior__ 
 
-Ex. Ord. No. 10250, June 5, 1951, 16 F.R. 5385, as amended by Ex. Ord. No. 10732, Oct. 10, 1957, 22 F.R. 8135; Ex. Ord. No. 10752, Feb. 12, 1958, 23 F.R. 973; [Pub. L. 101–509, title V, § 529][/us/pl/101/509/s529] \[title I, § 112(c)\], Nov. 5, 1990, [104 Stat. 1427][/us/stat/104/1427], 1454, provided:
+Ex. Ord. No. 10250, June 5, 1951, 16 F.R. 5385, as amended by Ex. Ord. No. 10732, Oct. 10, 1957, 22 F.R. 8135; Ex. Ord. No. 10752, Feb. 12, 1958, 23 F.R. 973; [Pub. L. 101–509, title V][/us/pl/101/509/tV], § 529 \[title I, § 112(c)\], Nov. 5, 1990, [104 Stat. 1427][/us/stat/104/1427], 1454, provided:
 
     1. The Secretary of the Interior is hereby designated and empowered to perform the following-described functions of the President without the approval, ratification, or other action of the President:
 
@@ -113,7 +113,7 @@ Ex. Ord. No. 10250, June 5, 1951, 16 F.R. 5385, as amended by Ex. Ord. No. 10732
 
     (d) \[Revoked by Ex. Ord. No. 11825, Dec. 31, 1974, 40 F.R. 1003.\]
 
-    (e) The authority vested in the Secretary of the Treasury by [section 1 of Title II of the act of June 15, 1917, ch. 30][/us/act/1917-06-15/ch30/s1], [40 Stat. 220][/us/stat/40/220] \[[50 U.S.C. 191][/us/usc/t50/s191]\], to make rules and regulations governing the anchorage and movement of any vessel, foreign or domestic, in the territorial waters of the United States.
+    (e) The authority vested in the Secretary of the Treasury by [section 1 of Title II of the act of June 15, 1917, ch. 30][/us/act/1917-06-15/ch30/tII/s1], [40 Stat. 220][/us/stat/40/220] \[[50 U.S.C. 191][/us/usc/t50/s191]\], to make rules and regulations governing the anchorage and movement of any vessel, foreign or domestic, in the territorial waters of the United States.
 
     3. (a) The Secretary of the Treasury and the Postmaster General \[now United States Postal Service\] are hereby designated and empowered jointly to prescribe without the approval of the President regulations, under [section 1 of the act of July 8, 1937, ch. 444][/us/act/1937-07-08/ch444/s1], [50 Stat. 479][/us/stat/50/479] \[now [40 U.S.C. 17302][/us/usc/t40/s17302]\], governing the shipment of valuables by the executive departments, independent establishments, agencies, wholly-owned corporations, officers, and employees of the United States.
 
@@ -125,7 +125,7 @@ Ex. Ord. No. 10250, June 5, 1951, 16 F.R. 5385, as amended by Ex. Ord. No. 10732
 
  __Ex. Ord. No. 10530. Delegation of Miscellaneous Functions__ 
 
-Ex. Ord. No. 10530, May 10, 1954, 19 F.R. 2709, as amended by Ex. Ord. No. 10573, Oct. 26, 1954, 19 F.R. 6899; Ex. Ord. No. 10682, Oct. 22, 1956, 21 F.R. 8129; Ex. Ord. No. 10759, Mar. 17, 1958, 23 F.R. 1803; Ex. Ord. No. 10790, Nov. 20, 1958, 23 F.R. 9051; Ex. Ord. No. 10836, Sept. 8, 1959, 24 F.R. 7269; Ex. Ord. No. 10852, Nov. 27, 1959, 24 F.R. 9565; Ex. Ord. No. 10889, Oct. 5, 1960, 25 F.R. 9633; Ex. Ord. No. 10903, Jan. 9, 1961, 26 F.R. 217; Ex. Ord. No. 10960, Aug. 21, 1961, 26 F.R. 7823; Ex. Ord. No. 10970, Oct. 27, 1961, 26 F.R. 10149; Ex. Ord. No. 11012, Mar. 27, 1962, 27 F.R. 2983; Ex. Ord. No. 11116, Aug. 5, 1963, 28 F.R. 8075; Ex. Ord. No. 11164, Aug. 1, 1964, 29 F.R. 11257; Ex. Ord. No. 11184, Oct. 13, 1964, 29 F.R. 14155; Ex. Ord. No. 11196, Feb. 2, 1965, 30 F.R. 1171; Ex. Ord. No. 11222, May 8, 1965, 30 F.R. 6469; Ex. Ord. No. 11228, June 14, 1965, 30 F.R. 7739; Ex. Ord. No. 11230, § 2(1), (3), (5) to (14), June 28, 1965, 30 F.R. 8447; Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055; [Pub. L. 98–497, title I, § 103(b)(1)][/us/pl/98/497/s103/b/1], Oct. 19, 1984, [98 Stat. 2283][/us/stat/98/2283]; Ex. Ord. No. 12608, Sept. 9, 1987, 52 F.R. 34617, provided:
+Ex. Ord. No. 10530, May 10, 1954, 19 F.R. 2709, as amended by Ex. Ord. No. 10573, Oct. 26, 1954, 19 F.R. 6899; Ex. Ord. No. 10682, Oct. 22, 1956, 21 F.R. 8129; Ex. Ord. No. 10759, Mar. 17, 1958, 23 F.R. 1803; Ex. Ord. No. 10790, Nov. 20, 1958, 23 F.R. 9051; Ex. Ord. No. 10836, Sept. 8, 1959, 24 F.R. 7269; Ex. Ord. No. 10852, Nov. 27, 1959, 24 F.R. 9565; Ex. Ord. No. 10889, Oct. 5, 1960, 25 F.R. 9633; Ex. Ord. No. 10903, Jan. 9, 1961, 26 F.R. 217; Ex. Ord. No. 10960, Aug. 21, 1961, 26 F.R. 7823; Ex. Ord. No. 10970, Oct. 27, 1961, 26 F.R. 10149; Ex. Ord. No. 11012, Mar. 27, 1962, 27 F.R. 2983; Ex. Ord. No. 11116, Aug. 5, 1963, 28 F.R. 8075; Ex. Ord. No. 11164, Aug. 1, 1964, 29 F.R. 11257; Ex. Ord. No. 11184, Oct. 13, 1964, 29 F.R. 14155; Ex. Ord. No. 11196, Feb. 2, 1965, 30 F.R. 1171; Ex. Ord. No. 11222, May 8, 1965, 30 F.R. 6469; Ex. Ord. No. 11228, June 14, 1965, 30 F.R. 7739; Ex. Ord. No. 11230, § 2(1), (3), (5) to (14), June 28, 1965, 30 F.R. 8447; Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055; [Pub. L. 98–497, title I][/us/pl/98/497/tI], § 103(b)(1), Oct. 19, 1984, [98 Stat. 2283][/us/stat/98/2283]; Ex. Ord. No. 12608, Sept. 9, 1987, 52 F.R. 34617, provided:
 
  __Part I—Director of the Bureau of the Budget__ 
 
@@ -283,7 +283,7 @@ Sec. 2. The Secretary of Defense, and, when designated by the Secretary of Defen
 
  __Ex. Ord. No. 10950. Delegation of Functions to Secretary of the Interior__ 
 
-Ex. Ord. No. 10950, June 27, 1961, 26 F.R. 5787, as amended by [Pub. L. 101–509, title V, § 529][/us/pl/101/509/s529] \[title I, § 112(c)\], Nov. 5, 1990, [104 Stat. 1427][/us/stat/104/1427], 1454, provided:
+Ex. Ord. No. 10950, June 27, 1961, 26 F.R. 5787, as amended by [Pub. L. 101–509, title V][/us/pl/101/509/tV], § 529 \[title I, § 112(c)\], Nov. 5, 1990, [104 Stat. 1427][/us/stat/104/1427], 1454, provided:
 
     By virtue of the authority vested in me by section 6(b) of the Alaska Statehood Act of July 7, 1958 ([72 Stat. 339][/us/stat/72/339]) \[set out as a note preceding [48 U.S.C. 21][/us/usc/t48/s21]\], and as President of the United States, I hereby designate the Secretary of the Interior as my representative to exercise the authority vested in me by section 6(b) of the act to approve selections of land made by the State of Alaska under the provisions of section 6(b) in instances in which those selections include land lying north and west of the line described in section 10(b) of the act: Provided, That no selection by the State shall be approved pursuant to this order, in whole or in part, without the concurrence of the Secretary of Defense or his designated representative.
 
@@ -519,7 +519,7 @@ Section 1. The Secretary of Defense, and, as designated by the said Secretary fo
 
     Sec. 3. The authority of the Secretary of State hereunder is supplemental to, and does not supersede, existing authorities or delegations relating to importation, exportation, transmission, or transportation to or from a foreign country. All permits heretofore issued with respect to matters described in section 1 of this order, and in force at the time of issuance of this order, and all permits issued hereunder, shall remain in effect in accordance with their terms unless and until modified, amended, suspended, or revoked by the President or, upon compliance with the procedures provided for in this order, by the Secretary of State.
 
-    \[Interstate Commerce Commission abolished and functions of Commission transferred, except as otherwise provided in [Pub. L. 104–88][/us/pl/104/88], to Surface Transportation Board effective Jan. 1, 1996, by [section 702 of Title 49][/us/usc/t49/s702], Transportation, and [section 101 of Pub. L. 104–88][/us/pl/104/88/s101], set out as a note under [section 701 of Title 49][/us/usc/t49/s701]. References to Interstate Commerce Commission deemed to refer to Surface Transportation Board, a member or employee of the Board, or Secretary of Transportation, as appropriate, see [section 205 of Pub. L. 104–88][/us/pl/104/88/s205], set out as a note under [section 701 of Title 49][/us/usc/t49/s701].\]
+    \[Interstate Commerce Commission abolished and functions of Commission transferred, except as otherwise provided in [Pub. L. 104–88][/us/pl/104/88], to Surface Transportation Board effective Jan. 1, 1996, by [section 1302 of Title 49][/us/usc/t49/s1302], Transportation, and [section 101 of Pub. L. 104–88][/us/pl/104/88/s101], set out as a note under [section 1301 of Title 49][/us/usc/t49/s1301]. References to Interstate Commerce Commission deemed to refer to Surface Transportation Board, a member or employee of the Board, or Secretary of Transportation, as appropriate, see [section 205 of Pub. L. 104–88][/us/pl/104/88/s205], set out as a note under [section 1301 of Title 49][/us/usc/t49/s1301].\]
 
  __Ex. Ord. No. 11592. Delegation of Functions to Director of Office of Management and Budget__ 
 
@@ -567,7 +567,7 @@ Section 1. General Services Administration. The Administrator of General Service
 
     (13) The authority of the President under [5 U.S.C. 5742(b)][/us/usc/t5/s5742/b] to prescribe regulations with respect to the payment of expenses when an employee dies.
 
-    (14) The authority of the President under the last sentence of paragraph (c) of [section 32 of title III of the Act of July 22, 1937][/us/act/1937-07-22/s32], c. 517, [50 Stat. 525][/us/stat/50/525] ([7 U.S.C. 1011(c)][/us/usc/t7/s1011/c]), to transfer to Federal, State, or Territorial agencies lands acquired by the Secretary of Agriculture under section 32(a) of that Act.
+    (14) The authority of the President under the last sentence of paragraph (c) of [section 32 of title III of the Act of July 22, 1937][/us/act/1937-07-22/tIII/s32], c. 517, [50 Stat. 525][/us/stat/50/525] ([7 U.S.C. 1011(c)][/us/usc/t7/s1011/c]), to transfer to Federal, State, or Territorial agencies lands acquired by the Secretary of Agriculture under section 32(a) of that Act.
 
     (15) The authority of the President under section 340 of the Consolidated Farmers Home Administration Act of 1961, [75 Stat. 318][/us/stat/75/318] ([7 U.S.C. 1990][/us/usc/t7/s1990]), in his discretion to transfer to the Secretary of Agriculture any right, interest or title held by the United States in any lands acquired in the program of national defense and no longer needed for that program, and to determine the suitability of the lands to be transferred, for the purposes referred to in that section: Provided, That the exercise by the Administrator of the authority delegated to him by this paragraph (15) shall require the concurrence of the Secretary of Defense as to the absence of further need of the lands for the national defense program.
 
@@ -1124,10 +1124,10 @@ Sec. 6. In carrying out sections 1 and 2 of this order, officers of the United S
 ----------
 ----------
 
-[/us/act/1951-10-31/ch655/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-10-31%2Fch655%2Fs10
+[/us/act/1951-10-31/ch655]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-10-31%2Fch655
 [/us/stat/65/712]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F65%2F712
 [/us/stat/84/2085]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F2085
-[/us/pl/101/509/s529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509%2Fs529
+[/us/pl/101/509/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509%2FtV
 [/us/stat/104/1427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1427
 [/us/act/1935-07-10/ch375/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-07-10%2Fch375%2Fs1
 [/us/stat/49/477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F477
@@ -1214,7 +1214,7 @@ Sec. 6. In carrying out sections 1 and 2 of this order, officers of the United S
 [/us/act/1937-07-08/ch444/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-07-08%2Fch444%2Fs6
 [/us/stat/50/480]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F50%2F480
 [/us/usc/t40/s17309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs17309
-[/us/act/1917-06-15/ch30/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-06-15%2Fch30%2Fs1
+[/us/act/1917-06-15/ch30/tII/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-06-15%2Fch30%2FtII%2Fs1
 [/us/stat/40/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F40%2F220
 [/us/usc/t50/s191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs191
 [/us/act/1937-07-08/ch444/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-07-08%2Fch444%2Fs1
@@ -1222,7 +1222,7 @@ Sec. 6. In carrying out sections 1 and 2 of this order, officers of the United S
 [/us/usc/t40/s17302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs17302
 [/us/usc/t18/s504/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs504%2Fb
 [/us/usc/t18/s504/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs504%2F2
-[/us/pl/98/497/s103/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F497%2Fs103%2Fb%2F1
+[/us/pl/98/497/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F497%2FtI
 [/us/stat/98/2283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2283
 [/us/act/1921-05-27/ch12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1921-05-27%2Fch12
 [/us/stat/42/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F8
@@ -1342,7 +1342,7 @@ Sec. 6. In carrying out sections 1 and 2 of this order, officers of the United S
 [/us/act/1946-08-09/ch928]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-09%2Fch928
 [/us/stat/60/961]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F961
 [/us/usc/t46/s1126b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs1126b
-[/us/pl/101/509/s529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509%2Fs529
+[/us/pl/101/509/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509%2FtV
 [/us/stat/104/1427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1427
 [/us/stat/72/339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F339
 [/us/usc/t48/s21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs21
@@ -1417,11 +1417,11 @@ Sec. 6. In carrying out sections 1 and 2 of this order, officers of the United S
 [/us/usc/t3/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs301
 [/us/usc/t15/s717b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs717b
 [/us/pl/104/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88
-[/us/usc/t49/s702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs702
+[/us/usc/t49/s1302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs1302
 [/us/pl/104/88/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs101
-[/us/usc/t49/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs701
+[/us/usc/t49/s1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs1301
 [/us/pl/104/88/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs205
-[/us/usc/t49/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs701
+[/us/usc/t49/s1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs1301
 [/us/usc/t3/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs301
 [/us/pl/91/611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F611
 [/us/usc/t3/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs301
@@ -1443,7 +1443,7 @@ Sec. 6. In carrying out sections 1 and 2 of this order, officers of the United S
 [/us/usc/t5/s5729/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5729%2Fa
 [/us/usc/t5/s5731/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5731%2Fa
 [/us/usc/t5/s5742/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5742%2Fb
-[/us/act/1937-07-22/s32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-07-22%2Fs32
+[/us/act/1937-07-22/tIII/s32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-07-22%2FtIII%2Fs32
 [/us/stat/50/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F50%2F525
 [/us/usc/t7/s1011/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1011%2Fc
 [/us/stat/75/318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F318

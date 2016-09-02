@@ -17,7 +17,7 @@
 
     The steward, housekeeper, or such other employee of the Executive Residence at the White House as the President may designate, shall under the direction of the President, have the charge and custody of and be responsible for the plate, furniture, and public property therein. A complete inventory, in proper books, shall be made annually in the month of June, under the direction of the Director of the National Park Service, of all the public property in and belonging to the Executive Residence at the White House, showing when purchased, its cost, condition, and final disposition. This inventory shall be submitted to the President for his approval, and shall then be kept for reference in the office of the Director of the National Park Service, which shall furnish a copy thereof to the steward, housekeeper, or other employee responsible for the property.
 
-([June 25, 1948, ch. 644][/us/act/1948-06-25/ch644], [62 Stat. 679][/us/stat/62/679]; [Pub. L. 92–310, title II, § 201][/us/pl/92/310/s201], June 6, 1972, [86 Stat. 202][/us/stat/86/202]; [Pub. L. 95–570, § 5(b)(1)][/us/pl/95/570/s5/b/1], Nov. 2, 1978, [92 Stat. 2450][/us/stat/92/2450].)
+([June 25, 1948, ch. 644][/us/act/1948-06-25/ch644], [62 Stat. 679][/us/stat/62/679]; [Pub. L. 92–310, title II][/us/pl/92/310/tII], § 201, June 6, 1972, [86 Stat. 202][/us/stat/86/202]; [Pub. L. 95–570][/us/pl/95/570], § 5(b)(1), Nov. 2, 1978, [92 Stat. 2450][/us/stat/92/2450].)
 
  __Amendments__ 
 
@@ -42,9 +42,9 @@
 
 [/us/act/1948-06-25/ch644]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch644
 [/us/stat/62/679]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F679
-[/us/pl/92/310/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F310%2Fs201
+[/us/pl/92/310/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F310%2FtII
 [/us/stat/86/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F202
-[/us/pl/95/570/s5/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F570%2Fs5%2Fb%2F1
+[/us/pl/95/570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F570
 [/us/stat/92/2450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2450
 [/us/pl/95/570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F570
 [/us/pl/92/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F310

@@ -21,7 +21,7 @@
 
     (c) An individual may not be paid under the authority of this section at a rate of pay in excess of the rate of basic pay then currently paid for level II of the Executive Schedule of [section 5313 of title 5][/us/usc/t5/s5313].
 
-(Added [Pub. L. 95–570, § 2(a)][/us/pl/95/570/s2/a], Nov. 2, 1978, [92 Stat. 2449][/us/stat/92/2449].)
+(Added [Pub. L. 95–570][/us/pl/95/570], § 2(a), Nov. 2, 1978, [92 Stat. 2449][/us/stat/92/2449].)
 
  __References in Text__ 
 
@@ -29,11 +29,11 @@
 
  __Prior Provisions__ 
 
-    A prior section 108, [act June 25, 1948, ch. 644][/us/act/1948-06-25/ch644], [62 Stat. 679][/us/stat/62/679], directing the Quartermaster General of the Army to provide suitable accommodations for the horses, carriages, and other vehicles of the President and of the Executive Office, was repealed by [act June 28, 1950, ch. 383][/us/act/1950-06-28/ch383], title IV, § 401(j), [64 Stat. 271][/us/stat/64/271].
+    A prior section 108, [act June 25, 1948, ch. 644][/us/act/1948-06-25/ch644], [62 Stat. 679][/us/stat/62/679], directing the Quartermaster General of the Army to provide suitable accommodations for the horses, carriages, and other vehicles of the President and of the Executive Office, was repealed by [act June 28, 1950, ch. 383, title IV][/us/act/1950-06-28/ch383/tIV], § 401(j), [64 Stat. 271][/us/stat/64/271].
 
-    Insofar as prior section 108, by virtue of a former proviso in section 401 of act June 28, 1950, continued to remain in effect to the extent that it was applicable to the Department of the Air Force, and the United States Air Force, it was additionally repealed by [act Sept. 19, 1951, ch. 407][/us/act/1951-09-19/ch407], title IV, § 401(a)(1), [65 Stat. 333][/us/stat/65/333].
+    Insofar as prior section 108, by virtue of a former proviso in section 401 of act June 28, 1950, continued to remain in effect to the extent that it was applicable to the Department of the Air Force, and the United States Air Force, it was additionally repealed by [act Sept. 19, 1951, ch. 407, title IV][/us/act/1951-09-19/ch407/tIV], § 401(a)(1), [65 Stat. 333][/us/stat/65/333].
 
-    [Act Oct. 31, 1951, ch. 654, § 1(2)][/us/act/1951-10-31/ch654/s1/2], [65 Stat. 701][/us/stat/65/701], repealed that part of [act Mar. 4, 1911, ch. 285, § 1][/us/act/1911-03-04/ch285/s1], [36 Stat. 1404][/us/stat/36/1404], from which prior section 108, as enacted by [act June 25, 1948, ch. 644, § 1][/us/act/1948-06-25/ch644/s1], [62 Stat. 672][/us/stat/62/672], had been derived. That part of the 1911 act had previously been repealed by section 3 of the 1948 act.
+    [Act Oct. 31, 1951, ch. 654][/us/act/1951-10-31/ch654], § 1(2), [65 Stat. 701][/us/stat/65/701], repealed that part of [act Mar. 4, 1911, ch. 285][/us/act/1911-03-04/ch285], § 1, [36 Stat. 1404][/us/stat/36/1404], from which prior section 108, as enacted by [act June 25, 1948, ch. 644][/us/act/1948-06-25/ch644], § 1, [62 Stat. 672][/us/stat/62/672], had been derived. That part of the 1911 act had previously been repealed by section 3 of the 1948 act.
 
  __Effective Date__ 
 
@@ -48,21 +48,21 @@
 
 [/us/usc/t5/s3109/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3109%2Fb
 [/us/usc/t5/s5313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5313
-[/us/pl/95/570/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F570%2Fs2%2Fa
+[/us/pl/95/570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F570
 [/us/stat/92/2449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2449
 [/us/pl/95/570/s6/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F570%2Fs6%2Fa
 [/us/usc/t3/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs102
 [/us/act/1948-06-25/ch644]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch644
 [/us/stat/62/679]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F679
-[/us/act/1950-06-28/ch383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-06-28%2Fch383
+[/us/act/1950-06-28/ch383/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-06-28%2Fch383%2FtIV
 [/us/stat/64/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F271
-[/us/act/1951-09-19/ch407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-09-19%2Fch407
+[/us/act/1951-09-19/ch407/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-09-19%2Fch407%2FtIV
 [/us/stat/65/333]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F65%2F333
-[/us/act/1951-10-31/ch654/s1/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-10-31%2Fch654%2Fs1%2F2
+[/us/act/1951-10-31/ch654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-10-31%2Fch654
 [/us/stat/65/701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F65%2F701
-[/us/act/1911-03-04/ch285/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-04%2Fch285%2Fs1
+[/us/act/1911-03-04/ch285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-04%2Fch285
 [/us/stat/36/1404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F1404
-[/us/act/1948-06-25/ch644/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch644%2Fs1
+[/us/act/1948-06-25/ch644]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch644
 [/us/stat/62/672]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F672
 [/us/pl/95/570/s6/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F570%2Fs6%2Fa
 [/us/usc/t3/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs102

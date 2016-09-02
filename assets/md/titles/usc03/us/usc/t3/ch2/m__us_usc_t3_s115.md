@@ -33,7 +33,7 @@
 
         Each individual appointed to a position described in the preceding sentence as to which the expectation described in paragraph (2) applies shall be notified as to such expectation, in writing, at the time of appointment to such position.
 
-(Added [Pub. L. 105–339, § 4(b)(1)][/us/pl/105/339/s4/b/1], Oct. 31, 1998, [112 Stat. 3185][/us/stat/112/3185].)
+(Added [Pub. L. 105–339][/us/pl/105/339], § 4(b)(1), Oct. 31, 1998, [112 Stat. 3185][/us/stat/112/3185].)
 
 ----------
 
@@ -43,7 +43,7 @@
 ----------
 
 [/us/usc/t5/s5382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5382
-[/us/pl/105/339/s4/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F339%2Fs4%2Fb%2F1
+[/us/pl/105/339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F339
 [/us/stat/112/3185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3185
 
 

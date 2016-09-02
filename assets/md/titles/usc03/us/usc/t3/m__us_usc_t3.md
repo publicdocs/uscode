@@ -15,9 +15,9 @@
 
 # Title 3—THE PRESIDENT
 
-This title was enacted by [act June 25, 1948, ch. 644, § 1][/us/act/1948-06-25/ch644/s1], [62 Stat. 672][/us/stat/62/672]
+This title was enacted by [act June 25, 1948, ch. 644][/us/act/1948-06-25/ch644], § 1, [62 Stat. 672][/us/stat/62/672]
 
-Current through 114-115
+Current through 114-139
 
 <table>
 
@@ -85,9 +85,9 @@ Current through 114-115
 
  __Amendments__ 
 
-    1996—[Pub. L. 104–331, § 2(c)][/us/pl/104/331/s2/c], Oct. 26, 1996, [110 Stat. 4068][/us/stat/110/4068], added item for chapter 5.
+    1996—[Pub. L. 104–331][/us/pl/104/331], § 2(c), Oct. 26, 1996, [110 Stat. 4068][/us/stat/110/4068], added item for chapter 5.
 
-    1951—[Act Oct. 31, 1951, ch. 655, § 4][/us/act/1951-10-31/ch655/s4], [65 Stat. 711][/us/stat/65/711], added item for chapter 4.
+    1951—[Act Oct. 31, 1951, ch. 655][/us/act/1951-10-31/ch655], § 4, [65 Stat. 711][/us/stat/65/711], added item for chapter 4.
 
  __Positive Law; Citation__ 
 
@@ -107,7 +107,7 @@ Section 2 of act June 25, 1948, provided that:
 
  __Prior Repeals__ 
 
-    Former sections 21 and 22 relating to performance of presidential duties in absence of both the President and Vice President were repealed by [act July 18, 1947, ch. 264, § 1(g)][/us/act/1947-07-18/ch264/s1/g], [61 Stat. 381][/us/stat/61/381].
+    Former sections 21 and 22 relating to performance of presidential duties in absence of both the President and Vice President were repealed by [act July 18, 1947, ch. 264][/us/act/1947-07-18/ch264], § 1(g), [61 Stat. 381][/us/stat/61/381].
 
 <table>
 
@@ -1640,15 +1640,15 @@ May 14, 1930, ch. 277, § 4, 46 Stat. 329.  </td>
 ----------
 ----------
 
-[/us/act/1948-06-25/ch644/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch644%2Fs1
+[/us/act/1948-06-25/ch644]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch644
 [/us/stat/62/672]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F672
-[/us/pl/104/331/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F331%2Fs2%2Fc
+[/us/pl/104/331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F331
 [/us/stat/110/4068]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F4068
-[/us/act/1951-10-31/ch655/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-10-31%2Fch655%2Fs4
+[/us/act/1951-10-31/ch655]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-10-31%2Fch655
 [/us/stat/65/711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F65%2F711
 [/us/act/1948-06-25/ch644]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch644
 [/us/stat/62/672]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F672
-[/us/act/1947-07-18/ch264/s1/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-18%2Fch264%2Fs1%2Fg
+[/us/act/1947-07-18/ch264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-18%2Fch264
 [/us/stat/61/381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F381
 
 

@@ -17,7 +17,7 @@
 
     While the two Houses shall be in meeting as provided in this chapter, the President of the Senate shall have power to preserve order; and no debate shall be allowed and no question shall be put by the presiding officer except to either House on a motion to withdraw.
 
-([June 25, 1948, ch. 644][/us/act/1948-06-25/ch644], [62 Stat. 676][/us/stat/62/676]; [Sept. 3, 1954, ch. 1263, § 3][/us/act/1954-09-03/ch1263/s3], [68 Stat. 1227][/us/stat/68/1227].)
+([June 25, 1948, ch. 644][/us/act/1948-06-25/ch644], [62 Stat. 676][/us/stat/62/676]; [Sept. 3, 1954, ch. 1263][/us/act/1954-09-03/ch1263], § 3, [68 Stat. 1227][/us/stat/68/1227].)
 
  __Amendments__ 
 
@@ -32,7 +32,7 @@
 
 [/us/act/1948-06-25/ch644]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch644
 [/us/stat/62/676]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F676
-[/us/act/1954-09-03/ch1263/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-09-03%2Fch1263%2Fs3
+[/us/act/1954-09-03/ch1263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-09-03%2Fch1263
 [/us/stat/68/1227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F1227
 
 

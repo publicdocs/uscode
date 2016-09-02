@@ -21,15 +21,15 @@
 
  __Counting of Electoral Votes__ 
 
-2013—[Pub. L. 112–228, § 1][/us/pl/112/228/s1], Dec. 28, 2012, [126 Stat. 1610][/us/stat/126/1610], provided that: 
+2013—[Pub. L. 112–228][/us/pl/112/228], § 1, Dec. 28, 2012, [126 Stat. 1610][/us/stat/126/1610], provided that: 
 
 > “The meeting of the Senate and House of Representatives to be held in January 2013 pursuant to [section 15 of title 3][/us/usc/t3/s15], United States Code, to count the electoral votes for President and Vice President cast by the electors in December 2012 shall be held on January 4, 2013 (rather than on the date specified in the first sentence of that section).”
 
-2009—[Pub. L. 110–430, § 2][/us/pl/110/430/s2], Oct. 15, 2008, [122 Stat. 4846][/us/stat/122/4846], provided that: 
+2009—[Pub. L. 110–430][/us/pl/110/430], § 2, Oct. 15, 2008, [122 Stat. 4846][/us/stat/122/4846], provided that: 
 
 > “The meeting of the Senate and House of Representatives to be held in January 2009 pursuant to [section 15 of title 3][/us/usc/t3/s15], United States Code, to count the electoral votes for President and Vice President cast by the electors in December 2008 shall be held on January 8, 2009 (rather than on the date specified in the first sentence of that section).”
 
-1997—[Pub. L. 104–296, § 2][/us/pl/104/296/s2], Oct. 11, 1996, [110 Stat. 3558][/us/stat/110/3558], provided that: 
+1997—[Pub. L. 104–296][/us/pl/104/296], § 2, Oct. 11, 1996, [110 Stat. 3558][/us/stat/110/3558], provided that: 
 
 > “The meeting of the Senate and House of Representatives to be held in January 1997 pursuant to [section 15 of title 3][/us/usc/t3/s15], United States Code, to count the electoral votes for President and Vice President cast by the electors in December 1996 shall be held on January 9, 1997 (rather than on the date specified in the first sentence of that section).”
 
@@ -53,13 +53,13 @@
 [/us/usc/t3/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs5
 [/us/act/1948-06-25/ch644]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch644
 [/us/stat/62/675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F675
-[/us/pl/112/228/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F228%2Fs1
+[/us/pl/112/228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F228
 [/us/stat/126/1610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1610
 [/us/usc/t3/s15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs15
-[/us/pl/110/430/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F430%2Fs2
+[/us/pl/110/430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F430
 [/us/stat/122/4846]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4846
 [/us/usc/t3/s15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs15
-[/us/pl/104/296/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F296%2Fs2
+[/us/pl/104/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F296
 [/us/stat/110/3558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3558
 [/us/usc/t3/s15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs15
 [/us/pl/100/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F646

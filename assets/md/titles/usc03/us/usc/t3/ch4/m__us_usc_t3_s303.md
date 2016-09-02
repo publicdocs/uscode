@@ -17,7 +17,7 @@
 
     As used in this chapter, the term “function” embraces any duty, power, responsibility, authority, or discretion vested in the President or other officer concerned, and the terms “perform” and “performance” may be construed to mean “exercise”.
 
-(Added [Oct. 31, 1951, ch. 655, § 10][/us/act/1951-10-31/ch655/s10], [65 Stat. 712][/us/stat/65/712].)
+(Added [Oct. 31, 1951, ch. 655][/us/act/1951-10-31/ch655], § 10, [65 Stat. 712][/us/stat/65/712].)
 
  __Similar Provisions; Repeal; Saving Clause__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1951-10-31/ch655/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-10-31%2Fch655%2Fs10
+[/us/act/1951-10-31/ch655]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-10-31%2Fch655
 [/us/stat/65/712]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F65%2F712
 [/us/usc/t3/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs301
 

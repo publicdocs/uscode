@@ -55,7 +55,7 @@
 
         (2) October 1, 1998.
 
-(Added [Pub. L. 104–331, § 2(a)][/us/pl/104/331/s2/a], Oct. 26, 1996, [110 Stat. 4061][/us/stat/110/4061]; amended [Pub. L. 106–92, § 2][/us/pl/106/92/s2], Nov. 9, 1999, [113 Stat. 1309][/us/stat/113/1309].)
+(Added [Pub. L. 104–331][/us/pl/104/331], § 2(a), Oct. 26, 1996, [110 Stat. 4061][/us/stat/110/4061]; amended [Pub. L. 106–92][/us/pl/106/92], § 2, Nov. 9, 1999, [113 Stat. 1309][/us/stat/113/1309].)
 
  __References in Text__ 
 
@@ -81,9 +81,9 @@
 ----------
 
 [/us/usc/t3/s411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs411
-[/us/pl/104/331/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F331%2Fs2%2Fa
+[/us/pl/104/331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F331
 [/us/stat/110/4061]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F4061
-[/us/pl/106/92/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F92%2Fs2
+[/us/pl/106/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F92
 [/us/stat/113/1309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1309
 [/us/pl/101/336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F336
 [/us/stat/104/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F327

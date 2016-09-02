@@ -17,7 +17,7 @@
 
     The President shall receive in full for his services during the term for which he shall have been elected compensation in the aggregate amount of $400,000 a year, to be paid monthly, and in addition an expense allowance of $50,000 to assist in defraying expenses relating to or resulting from the discharge of his official duties. Any unused amount of such expense allowance shall revert to the Treasury pursuant to [section 1552 of title 31][/us/usc/t31/s1552], United States Code. No amount of such expense allowance shall be included in the gross income of the President. He shall be entitled also to the use of the furniture and other effects belonging to the United States and kept in the Executive Residence at the White House.
 
-([June 25, 1948, ch. 644][/us/act/1948-06-25/ch644], [62 Stat. 678][/us/stat/62/678]; [Jan. 19, 1949, ch. 2, § 1(a)][/us/act/1949-01-19/ch2/s1/a], [63 Stat. 4][/us/stat/63/4]; [Oct. 20, 1951, ch. 521][/us/act/1951-10-20/ch521], title VI, § 619(a), [65 Stat. 569][/us/stat/65/569]; [Pub. L. 91–1, § 1][/us/pl/91/1/s1], Jan. 17, 1969, [83 Stat. 3][/us/stat/83/3]; [Pub. L. 95–570, § 5(a)][/us/pl/95/570/s5/a], Nov. 2, 1978, [92 Stat. 2450][/us/stat/92/2450]; [Pub. L. 106–58, title VI, § 644(a)][/us/pl/106/58/s644/a], Sept. 29, 1999, [113 Stat. 478][/us/stat/113/478]; [Pub. L. 108–199, div. F, title III, § 301][/us/pl/108/199/s301], Jan. 23, 2004, [118 Stat. 326][/us/stat/118/326].)
+([June 25, 1948, ch. 644][/us/act/1948-06-25/ch644], [62 Stat. 678][/us/stat/62/678]; [Jan. 19, 1949, ch. 2][/us/act/1949-01-19/ch2], § 1(a), [63 Stat. 4][/us/stat/63/4]; [Oct. 20, 1951, ch. 521][/us/act/1951-10-20/ch521], title VI, § 619(a), [65 Stat. 569][/us/stat/65/569]; [Pub. L. 91–1][/us/pl/91/1], § 1, Jan. 17, 1969, [83 Stat. 3][/us/stat/83/3]; [Pub. L. 95–570][/us/pl/95/570], § 5(a), Nov. 2, 1978, [92 Stat. 2450][/us/stat/92/2450]; [Pub. L. 106–58, title VI][/us/pl/106/58/tVI], § 644(a), Sept. 29, 1999, [113 Stat. 478][/us/stat/113/478]; [Pub. L. 108–199, div. F, title III][/us/pl/108/199/dF/tIII], § 301, Jan. 23, 2004, [118 Stat. 326][/us/stat/118/326].)
 
  __Amendments__ 
 
@@ -35,25 +35,25 @@
 
  __Effective Date of 1999 Amendment__ 
 
-[Pub. L. 106–58, title VI, § 644(b)][/us/pl/106/58/s644/b], Sept. 29, 1999, [113 Stat. 478][/us/stat/113/478], provided that: 
+[Pub. L. 106–58, title VI][/us/pl/106/58/tVI], § 644(b), Sept. 29, 1999, [113 Stat. 478][/us/stat/113/478], provided that: 
 
 > “The amendment made by this section \[amending this section\] shall take effect at noon on January 20, 2001.”
 
  __Effective Date of 1978 Amendment__ 
 
-[Pub. L. 95–570, § 6(a)][/us/pl/95/570/s6/a], Nov. 2, 1978, [92 Stat. 2451][/us/stat/92/2451], provided that: 
+[Pub. L. 95–570][/us/pl/95/570], § 6(a), Nov. 2, 1978, [92 Stat. 2451][/us/stat/92/2451], provided that: 
 
 > “The amendments made by this Act \[enacting sections 107, 108, 112, 113, and 114 of this title, amending sections 102, 103, 105, 106, 109, 110, and 202 of this title, repealing [section 107 of this title][/us/usc/t3/s107], and enacting provisions set out as a note under [section 107 of this title][/us/usc/t3/s107]\] shall apply to any fiscal year which begins on or after October 1, 1978.”
 
  __Effective Date of 1969 Amendment__ 
 
-[Pub. L. 91–1, § 2][/us/pl/91/1/s2], Jan. 17, 1969, [83 Stat. 3][/us/stat/83/3], provided that: 
+[Pub. L. 91–1][/us/pl/91/1], § 2, Jan. 17, 1969, [83 Stat. 3][/us/stat/83/3], provided that: 
 
 > “The amendment made by this Act \[amending this section\] shall take effect at noon on January 20, 1969.”
 
  __Effective Date of 1951 Amendment__ 
 
-[Act Oct. 20, 1951, ch. 521][/us/act/1951-10-20/ch521], title VI, § 619(e), [65 Stat. 570][/us/stat/65/570], provided that: 
+[Act Oct. 20, 1951, ch. 521, title VI][/us/act/1951-10-20/ch521/tVI], § 619(e), [65 Stat. 570][/us/stat/65/570], provided that: 
 
 > “The amendments made by subsections (a) and (b) of this section \[amending this section and [section 111 of this title][/us/usc/t3/s111]\] shall become effective at noon on January 20, 1953, and the amendments made by subsections (c) and (d) \[amending sections 31a and 5121 of Title 2, The Congress\] shall become effective at noon on January 3, 1953.”
 
@@ -63,41 +63,11 @@
 
  __Authorization of Transition Activities by the Incumbent Administration__ 
 
-[Pub. L. 111–283, § 3][/us/pl/111/283/s3], Oct. 15, 2010, [124 Stat. 3048][/us/stat/124/3048], provided that:
-
->     “(a)  __In General__  __.—__ 
-
->     The President of the United States, or the President’s delegate, may take such actions as the President determines necessary and appropriate to plan and coordinate activities by the Executive branch of the Federal Government to facilitate an efficient transfer of power to a successor President, including—
-
->         “(1)
-
->          the establishment and operation of a transition coordinating council comprised of—
-
->             “(A) high-level officials of the Executive branch selected by the President, which may include the Chief of Staff to the President, any Cabinet officer, the Director of the Office of Management and Budget, the Administrator of the General Services Administration, the Director of the Office of Personnel Management, the Director of the Office of Government Ethics, and the Archivist of the United States, and
-
->             “(B) any other persons the President determines appropriate;
-
->         “(2) the establishment and operation of an agency transition directors council which includes career employees designated to lead transition efforts within Executive Departments or agencies;
-
->         “(3) the development of guidance to Executive Departments and agencies regarding briefing materials for an incoming administration, and the development of such materials; and
-
->         “(4) the development of computer software, publications, contingency plans, issue memoranda, memoranda of understanding, training and exercises (including crisis training and exercises), programs, lessons learned from previous transitions, and other items appropriate for improving the effectiveness and efficiency of a Presidential transition that may be disseminated to eligible candidates (as defined in section 3(h)(4) of the Presidential Transition Act of 1963, as added by section 2(a) \[[section 3(h)(4) of Pub. L. 88–277][/us/pl/88/277/s3/h/4], set out in a note below\]) and to the President-elect and Vice-President-elect.
-
->         Any information and other assistance to eligible candidates under this subsection shall be offered on an equal basis and without regard to political affiliation.
-
->     “(b) __Reports.—__ 
-
->         “(1)  __In general__  __.—__ 
-
->         The President of the United States, or the President’s delegate, shall provide to the Committee on Oversight and Government Reform of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate reports describing the activities undertaken by the President and the Executive Departments and agencies to prepare for the transfer of power to a new President.
-
->         “(2)  __Timing__  __.—__ 
-
->         The reports under paragraph (1) shall be provided six months and three months before the date of the general election for the Office of President of the United States.”
+    [Pub. L. 111–283][/us/pl/111/283], § 3, Oct. 15, 2010, [124 Stat. 3048][/us/stat/124/3048], which authorized certain types of actions to be taken by the President to facilitate an efficient transfer of power to a successor President and required reports on such actions taken, was repealed by [Pub. L. 114–136][/us/pl/114/136], § 2(c)(1), Mar. 18, 2016, [130 Stat. 305][/us/stat/130/305].
 
  __Disclosure of In-Kind Contributions to 1988–1989 Transition__ 
 
-[Pub. L. 100–398, § 5][/us/pl/100/398/s5], Aug. 17, 1988, [102 Stat. 987][/us/stat/102/987], provided that:
+[Pub. L. 100–398][/us/pl/100/398], § 5, Aug. 17, 1988, [102 Stat. 987][/us/stat/102/987], provided that:
 
 >     “(a)  __Disclosure as Condition of Receipt of Funds__  __.—__ 
 
@@ -121,7 +91,7 @@
 
  __Presidential Transition Act of 1963__ 
 
-[Pub. L. 88–277][/us/pl/88/277], Mar. 7, 1964, [78 Stat. 153][/us/stat/78/153], as amended by [Pub. L. 94–499][/us/pl/94/499], §§ 1, 2, Oct. 14, 1976, [90 Stat. 2380][/us/stat/90/2380]; [Pub. L. 100–398][/us/pl/100/398], §§ 2(a), 3, 4, Aug. 17, 1988, [102 Stat. 985][/us/stat/102/985], 986; [Pub. L. 106–293, § 2][/us/pl/106/293/s2], Oct. 12, 2000, [114 Stat. 1035][/us/stat/114/1035]; [Pub. L. 108–271, § 8(b)][/us/pl/108/271/s8/b], July 7, 2004, [118 Stat. 814][/us/stat/118/814]; [Pub. L. 108–458, title VII, § 7601(a)][/us/pl/108/458/s7601/a], Dec. 17, 2004, [118 Stat. 3856][/us/stat/118/3856]; [Pub. L. 111–283, § 2(a)][/us/pl/111/283/s2/a], (b), (d), Oct. 15, 2010, [124 Stat. 3045][/us/stat/124/3045], 3047, 3048, provided: 
+[Pub. L. 88–277][/us/pl/88/277], Mar. 7, 1964, [78 Stat. 153][/us/stat/78/153], as amended by [Pub. L. 94–499][/us/pl/94/499], §§ 1, 2, Oct. 14, 1976, [90 Stat. 2380][/us/stat/90/2380]; [Pub. L. 100–398][/us/pl/100/398], §§ 2(a), 3, 4, Aug. 17, 1988, [102 Stat. 985][/us/stat/102/985], 986; [Pub. L. 106–293][/us/pl/106/293], § 2, Oct. 12, 2000, [114 Stat. 1035][/us/stat/114/1035]; [Pub. L. 108–271][/us/pl/108/271], § 8(b), July 7, 2004, [118 Stat. 814][/us/stat/118/814]; [Pub. L. 108–458, title VII][/us/pl/108/458/tVII], § 7601(a), Dec. 17, 2004, [118 Stat. 3856][/us/stat/118/3856]; [Pub. L. 111–283][/us/pl/111/283], § 2(a), (b), (d), Oct. 15, 2010, [124 Stat. 3045][/us/stat/124/3045], 3047, 3048; [Pub. L. 114–136][/us/pl/114/136], § 2(a), (b), (c)(2), Mar. 18, 2016, [130 Stat. 301][/us/stat/130/301], 304, 305, provided: 
 
 > “That this Act may be cited as the ‘Presidential Transition Act of 1963.’
 
@@ -147,7 +117,7 @@
 
 >             (A) Payment of travel expenses and subsistence allowances, including rental of Government or hired motor vehicles, found necessary by the President-elect or Vice-President-elect, as authorized for persons employed intermittently or for persons serving without compensation by section 5 of the Administrative Expenses Act of 1946, as amended ([5 U.S.C. 73b–2][/us/usc/t5/s73b–2]) \[[section 5703 of title 5][/us/usc/t5/s5703]\], as may be appropriate;
 
->             “(B) When requested by the President-elect or Vice-President-elect or their designee, and approved by the President, Government aircraft may be provided for transition purposes on a reimbursable basis; when requested by the President-elect, the Vice-President-elect, or the designee of the President-elect or Vice-President-elect, aircraft may be chartered for transition purposes; and any collections from the Secret Service, press, or others occupying space on chartered aircraft shall be deposited to the credit of the appropriations made under section 6 of this Act.
+>             “(B) When requested by the President-elect or Vice-President-elect or their designee, and approved by the President, Government aircraft may be provided for transition purposes on a reimbursable basis; when requested by the President-elect, the Vice-President-elect, or the designee of the President-elect or Vice-President-elect, aircraft may be chartered for transition purposes; and any collections from the Secret Service, press, or others occupying space on chartered aircraft shall be deposited to the credit of the appropriations made under section 7 of this Act.
 
 >         “(5) Communications services found necessary by the President-elect or Vice-President-elect.
 
@@ -159,7 +129,7 @@
 
 >             (A)
 
->                 (i) Not withstanding subsection (b), payment of expenses during the transition for briefings, workshops, or other activities to acquaint key prospective Presidential appointees with the types of problems and challenges that most typically confront new political appointees when they make the transition from campaign and other prior activities to assuming the responsibility for governance after inauguration.
+>                 (i) Not withstanding subsection (b), payment of expenses during the transition and during the term of a President for briefings, workshops, or other activities to acquaint key prospective Presidential appointees with the types of problems and challenges that most typically confront new political appointees when they make the transition from campaign and other prior activities to assuming the responsibility for governance.
 
 >                 “(ii)
 
@@ -177,7 +147,7 @@
 
 >                 “(v) Activities under this paragraph shall include the preparation of a detailed classified, compartmented summary by the relevant outgoing executive branch officials of specific operational threats to national security; major military or covert operations; and pending decisions on possible uses of military force. This summary shall be provided to the President-elect as soon as possible after the date of the general elections held to determine the electors of President and Vice President under section 1 or 2 of title 3, United States Code.
 
->             “(B) Activities under this paragraph shall be conducted primarily for individuals the President-elect or eligible candidate (as defined in subsection (h)(4)) for President intends to nominate as department heads or appoint to key positions in the Executive Office of the President.
+>             “(B) Activities under this paragraph shall be conducted primarily for individuals the President-elect or eligible candidate (as defined in subsection (h)(4)) for President intends to nominate as department heads or appoint to key positions in the Executive Office of the President or Executive agencies (as defined in [section 105 of title 5][/us/usc/t5/s105], United States Code).
 
 >         “(9)
 
@@ -185,15 +155,15 @@
 
 >             “(B) The transition directory shall be a compilation of Federal publications and materials with supplementary materials developed by the Administrator that provides information on the officers, organization, and statutory and administrative authorities, functions, duties, responsibilities, and mission of each department and agency.
 
->         “(10) Notwithstanding subsection (b), consultation by the Administrator with any President-elect, Vice-President-elect, or eligible candidate (as defined in subsection (h)(4)) to develop a systems architecture plan for the computer and communications systems of the candidate to coordinate a transition to Federal systems if the candidate is elected.
+>         “(10) Notwithstanding subsection (b), consultation by the Administrator with any President-elect, Vice-President-elect, or eligible candidate (as defined in subsection (h)(4)) to develop a systems architecture plan for the computer and communications systems of the candidate to coordinate a transition to Federal systems if the candidate is elected including, to the greatest extent practicable, human resource management system software compatible with the software used by the incumbent President and likely to be used by the President-elect and Vice President-elect.
 
 >     “(b)
 
->      The Administrator may not expend funds for the provision of services and facilities under section 3 of this Act in connection with any obligations incurred by the President-elect or Vice-President-elect—
+>      The Administrator may not expend funds for the provision of services and facilities under this section in connection with any obligations incurred by the President-elect or Vice-President-elect—
 
 >         “(1) before the day following the date of the general elections held to determine the electors of President and Vice President under section 1 or 2 of title 3, United States Code; or
 
->         “(2) after 30 days after the date of the inauguration of the President-elect as President and the inauguration of the Vice-President-elect as Vice President.
+>         “(2) after 180 days after the date of the inauguration of the President-elect as President and the inauguration of the Vice-President-elect as Vice President.
 
 >     “(c) The terms ‘President-elect’ and ‘Vice-President-elect’ as used in this Act shall mean such persons as are the apparent successful candidates for the office of President and Vice President, respectively, as ascertained by the Administrator following the general elections held to determine the electors of President and Vice President in accordance with title 3, United States Code, sections 1 and 2.
 
@@ -207,7 +177,7 @@
 
 >         “(2) The responsible agency or agencies shall undertake and complete as expeditiously as possible the background investigations necessary to provide appropriate security clearances to the individuals who are candidates described under paragraph (1) before the date of the inauguration of the President-elect as President and the inauguration of the Vice-President-elect as Vice President.
 
->     “(g) In the case where the President-elect is the incumbent President or in the case where the Vice-President-elect is the incumbent Vice President, there shall be no expenditures of funds for the provision of services and facilities to such incumbent under this Act, and any funds appropriated for such purposes shall be returned to the general funds of the Treasury.
+>     “(g) In the case where the President-elect is the incumbent President or in the case where the Vice-President-elect is the incumbent Vice President, except for activities under subsection (a)(8)(A), there shall be no expenditures of funds for the provision of services and facilities to such incumbent under this Act, and any funds appropriated for such purposes shall be returned to the general funds of the Treasury.
 
 >     “(h)
 
@@ -255,6 +225,8 @@
 
 >             “(C) An eligible candidate, or any person on behalf of the candidate, shall not use any services or facilities provided under this subsection other than for the purposes described in subparagraph (A), and the candidate or the candidate’s campaign shall reimburse the Administrator for any unauthorized use of such services or facilities.
 
+>             “(D) An eligible candidate shall have a right to the services and facilities described in this paragraph until the date on which the Administrator is able to determine the apparent successful candidates for the office of President and Vice President.
+
 >         “(3)
 
 >             (A) Notwithstanding any other provision of law, an eligible candidate may establish a separate fund for the payment of expenditures in connection with the eligible candidate’s preparations for the assumption of official duties as President or Vice-President, including expenditures in connection with any services or facilities provided under this subsection (whether before such services or facilities are available under this section or to supplement such services or facilities when so provided). Such fund shall be established and maintained in such manner as to qualify such fund for purposes of section 501(c)(4) of the Internal Revenue Code of 1986 \[[26 U.S.C. 501(c)(4)][/us/usc/t26/s501/c/4]\].
@@ -271,7 +243,7 @@
 
 >                 “(ii) Any expenditures from the separate fund that are made from such contributions or payments described in clause (i)(I) shall be treated as expenditures (within the meaning of section 301(9) of such Act ([2 U.S.C. 431(9)][/us/usc/t2/s431/9]) \[now [52 U.S.C. 30101(9)][/us/usc/t52/s30101/9]\]) or qualified campaign expenses (within the meaning of section 9002(11) of such Code \[[26 U.S.C. 9002(11)][/us/usc/t26/s9002/11]\]), whichever is applicable.
 
->                 “(iii) An eligible candidate establishing a separate fund under subparagraph (A) shall (as a condition for receiving services and facilities described in paragraph (2)) comply with all requirements and limitations of section 5 in soliciting or expending amounts in the same manner as the President-elect or Vice-President-elect, including reporting on the transfer and expenditure of amounts described in subparagraph (B)(i) in the disclosures required by section 5.
+>                 “(iii) An eligible candidate establishing a separate fund under subparagraph (A) shall (as a condition for receiving services and facilities described in paragraph (2)) comply with all requirements and limitations of section 6 in soliciting or expending amounts in the same manner as the President-elect or Vice-President-elect, including reporting on the transfer and expenditure of amounts described in subparagraph (B)(i) in the disclosures required by section 6.
 
 >         “(4)
 
@@ -299,71 +271,171 @@
 
 >                 “(ii) consider whether other national organizations have recognized the candidate as being among the principal contenders for the general election to such offices, including whether the Commission on Presidential Debates has determined that the candidate is eligible to participate in the candidate debates for the general election to such offices.
 
->  __“services and facilities authorized to be provided to former presidents and former vice presidents__ 
+    \[See main edition for text of (4)\]
 
-> “Sec. 4. The Administrator is authorized to provide, upon request, to each former President and each former Vice President, for a period not to exceed seven months from 30 days before the date of the expiration of his term of office as President or Vice President, for use in connection with winding up the affairs of his office, necessary services and facilities of the same general character as authorized by this Act to be provided to Presidents-elect and Vice-Presidents-elect. Any person appointed or detailed to serve a former President or former Vice President under authority of this section shall be appointed or detailed in accordance with, and shall be subject to, all of the provisions of section 3 of this Act applicable to persons appointed or detailed under authority of that section. The provisions of the Act of August 25, 1958 ([72 Stat. 838][/us/stat/72/838]; [3 U.S.C. 102][/us/usc/t3/s102], note), other than subsections (a) and (e) shall not become effective with respect to a former President until six months after the expiration of his term of office as President.
+    “SEC. 4. TRANSITION SERVICES AND ACTIVITIES BEFORE ELECTION.
 
->  __“disclosures of financing and personnel; limitation on acceptance of donations__ 
+    “(a) Definitions.—In this section—
 
-> “Sec. 5.
+    “(1) the term ‘Administrator’ means the Administrator of General Services;
 
->      (a)
+    “(2) the term ‘agency’ means an Executive agency, as defined in [section 105 of title 5][/us/usc/t5/s105], United States Code;
 
->         (1) The President-elect and Vice-President-elect (as a condition for receiving services under section 3 and for funds provided under section 6(a)(1)) shall disclose to the Administrator the date of contribution, source, amount, and expenditure thereof of all money, other than funds from the Federal Government, and including currency of the United States and of any foreign nation, checks, money orders, or any other negotiable instruments payable on demand, received either before or after the date of the general elections for use in the preparation of the President-elect or Vice-President-elect for the assumption of official duties as President or Vice President.
+    “(3) the term ‘eligible candidate’ has the meaning given that term in section 3(h)(4); and
 
->         “(2) The President-elect and Vice-President-elect (as a condition for receiving such services and funds) shall make available to the Administrator and the Comptroller General all information concerning such contributions as the Administrator or Comptroller General may require for purposes of auditing both the public and private funding used in the activities authorized by this Act.
+    “(4) the term ‘Presidential election’ means a general election held to determine the electors of President and Vice President under section 1 or 2 of title 3, United States Code.
 
->         “(3)
+    “(b) General Duties.—The President shall take such actions as the President determines necessary and appropriate to plan and coordinate activities by the Executive branch of the Federal Government to facilitate an efficient transfer of power to a successor President, including by—
 
->          Disclosures made under paragraph (1) shall be—
+    “(1) establishing and operating a White House transition coordinating council in accordance with subsection (d); and
 
->             “(A) in the form of a report to the Administrator within 30 days after the inauguration of the President-elect as President and the Vice-President-elect as Vice President; and
+    “(2) establishing and operating an agency transition directors council in accordance with subsection (e).
 
->             “(B) made available to the public by the Administrator upon receipt by the Administrator.
+    “(c) Federal Transition Coordinator.—The Administrator shall designate an employee of the General Services Administration who is a senior career appointee to—
 
->     “(b)
+    “(1) carry out the duties and authorities of the General Services Administration relating to Presidential transitions under this Act \[see [section 1 of Pub. L. 114–136][/us/pl/114/136/s1], set out as a Short Title of 2016 Amendment note under [section 101 of Title 5][/us/usc/t5/s101], Government Organization and Employees\] or any other provision of law;
 
->         (1)
+    “(2) serve as the Federal Transition Coordinator with responsibility for coordinating transition planning across agencies, including through the agency transition directors council established under subsection (e);
 
->          The President-elect and Vice-President-elect (as a condition for receiving services provided under section 3 and funds provided under section 6(a)(1)) shall make available to the public—
+    “(3) ensure agencies comply with all statutory requirements relating to transition planning and reporting; and
 
->             “(A) the names and most recent employment of all transition personnel (full-time or part-time, public or private, or volunteer) who are members of the President-elect or Vice-President-elect’s Federal department or agency transition teams; and
+    “(4) act as a liaison to eligible candidates.
 
->             “(B) information regarding the sources of funding which support the transition activities of each transition team member.
+    “(d) White House Transition Coordinating Council.—
 
->         “(2) Disclosures under paragraph (1) shall be made public before the initial transition team contact with a Federal department or agency and shall be updated as necessary.
+    “(1) Establishment.—Not later than 6 months before the date of a Presidential election, the President shall establish a White House transition coordinating council for purposes of facilitating the Presidential transition.
 
->     “(c) The President-elect and Vice-President-elect (as a condition for receiving services under section 3 and for funds provided under section 6(a)(1)) shall not accept more than $5,000 from any person, organization, or other entity for purposes of carrying out activities authorized by this Act.
+    “(2) Duties.—The White House transition coordinating council shall—
 
->  __“authorization of appropriations__ 
+    “(A) provide guidance to agencies and the Federal Transition Coordinator regarding preparations for the Presidential transition, including succession planning and preparation of briefing materials;
 
-> “Sec. 6.
+    “(B) facilitate communication and information sharing between the transition representatives of eligible candidates and senior employees in agencies and the Executive Office of the President; and
 
->      (a)
+    “(C) prepare and host interagency emergency preparedness and response exercises.
 
->      There are hereby authorized to be appropriated to the Administrator such funds as may be necessary for carrying out the purposes of this Act, except that with respect to any one Presidential transition—
+    “(3) Membership.—The members of the White House transition coordinating council shall include—
 
->         “(1) not more than $3,500,000 may be appropriated for the purposes of providing services and facilities to the President-elect and Vice President-elect under section 3, and
+    “(A) senior employees of the Executive branch selected by the President, which may include the Chief of Staff to the President, any Cabinet officer, the Director of the Office of Management and Budget, the Administrator, the Director of the Office of Personnel Management, the Director of the Office of Government Ethics, and the Archivist of the United States;
 
->         “(2) not more than $1,500,000 may be appropriated for the purposes of providing services and facilities to the former President and former Vice President under section 4, except that any amount appropriated pursuant to this paragraph in excess of $1,250,000 shall be returned to the general fund of the Treasury in the case where the former Vice President is the incumbent President.
+    “(B) the Federal Transition Coordinator;
 
->         The President shall include in the budget transmitted to Congress, for each fiscal year in which his regular term of office will expire, a proposed appropriation for carrying out the purposes of this Act.
+    “(C) the transition representative for each eligible candidate, who shall serve in an advisory capacity; and
 
->     “(b) The amounts authorized to be appropriated under subsection (a) shall be increased by an inflation adjusted amount, based on increases in the cost of transition services and expenses which have occurred in the years following the most recent Presidential transition, and shall be included in the proposed appropriation transmitted by the President under the last sentence of subsection (a).”
+    “(D) any other individual the President determines appropriate.
 
-\[[Pub. L. 108–458, title VII, § 7601(d)][/us/pl/108/458/s7601/d], Dec. 17, 2004, [118 Stat. 3858][/us/stat/118/3858], provided that: 
+    “(4) Chairperson.—The Chairperson of the White House transition coordinating council shall be a senior employee in the Executive Office of the President, designated by the President.
+
+    “(e) Agency Transition Directors Council.—
+
+    “(1) In general.—The President shall establish and operate an agency transition directors council, which shall—
+
+    “(A) ensure the Federal Government has an integrated strategy for addressing interagency challenges and responsibilities around Presidential transitions and turnover of noncareer appointees;
+
+    “(B) coordinate transition activities between the Executive Office of the President, agencies, and the transition team of eligible candidates and the President-elect and Vice-President-elect; and
+
+    “(C) draw on guidance provided by the White House transition coordinating council and lessons learned from previous Presidential transitions in carrying out its duties.
+
+    “(2) Duties.—As part of carrying out the responsibilities under paragraph (1), the agency transition directors council shall—
+
+    “(A) assist the Federal Transition Coordinator in identifying and carrying out the responsibilities of the Federal Transition Coordinator relating to a Presidential transition;
+
+    “(B) provide guidance to agencies in gathering briefing materials and information relating to the Presidential transition that may be requested by eligible candidates;
+
+    “(C) ensure materials and information described in subparagraph (B) are prepared not later than November 1 of a year during which a Presidential election is held;
+
+    “(D) ensure agencies adequately prepare career employees who are designated to fill non-career positions under subsection (f) during a Presidential transition; and
+
+    “(E) consult with the President’s Management Council, or any successor thereto, in carrying out the duties of the agency transition directors council.
+
+    “(3) Membership.—The members of the agency transition directors council shall include—
+
+    “(A) the Federal Transition Coordinator and the Deputy Director for Management of the Office of Management and Budget, who shall serve as Co-Chairpersons of the agency transition directors council;
+
+    “(B) other senior employees serving in the Executive Office of the President, as determined by the President;
+
+    “(C) a senior representative from each agency described in [section 901(b)(1) of title 31][/us/usc/t31/s901/b/1], United States Code, the Office of Personnel Management, the Office of Government Ethics, and the National Archives and Records Administration whose responsibilities include leading Presidential transition efforts within the agency;
+
+    “(D) a senior representative from any other agency determined by the Co-Chairpersons to be an agency that has significant responsibilities relating to the Presidential transition process; and
+
+    “(E) during a year during which a Presidential election will be held, a transition representative for each eligible candidate, who shall serve in an advisory capacity.
+
+    “(4) Meetings.—The agency transition directors council shall meet—
+
+    “(A) subject to subparagraph (B), not less than once per year; and
+
+    “(B) during the period beginning on the date that is 6 months before a Presidential election and ending on the date on which the President-elect is inaugurated, on a regular basis as necessary to carry out the duties and authorities of the agency transition directors council.
+
+    “(f) Interim Agency Leadership for Transitions.—
+
+    “(1) Oversight and implementation of transition.—Not later than 6 months before the date of a Presidential election, the head of each agency shall designate a senior career employee of the agency and a senior career employee of each major component and subcomponent of the agency to oversee and implement the activities of the agency, component, or subcomponent relating to the Presidential transition.
+
+    “(2) Acting officers.—Not later than September 15 of a year during which a Presidential election occurs, and in accordance with subchapter III of chapter 33 of title 5, United States Code, for each noncareer position in an agency that the head of the agency determines is critical, the head of the agency shall designate a qualified career employee to serve in the position in an acting capacity if the position becomes vacant.
+
+    “(g) Memorandums of Understanding.—
+
+    “(1) In general.—Not later than November 1 of a year during which a Presidential election occurs, the President (acting through the Federal Transition Coordinator) shall, to the maximum extent practicable, negotiate a memorandum of understanding with the transition representative of each eligible candidate, which shall include, at a minimum, the conditions of access to employees, facilities, and documents of agencies by transition staff.
+
+    “(2) Existing resources.—To the maximum extent practicable, the memorandums of understanding negotiated under paragraph (1) shall be based on memorandums of understanding from previous Presidential transitions.
+
+    “(h) Equity in Assistance.—Any information or other assistance provided to eligible candidates under this section shall be offered on an equal basis and without regard to political affiliation.
+
+    “(i) Reports.—
+
+    “(1) In general.—The President, acting through the Federal Transition Coordinator, shall submit to the Committee on Oversight and Government Reform of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate reports describing the activities undertaken by the President and agencies to prepare for the transfer of power to a new President.
+
+    “(2) Timing.—The reports under paragraph (1) shall be provided 6 months and 3 months before the date of a Presidential election.
+
+“services and facilities authorized to be provided to former presidents and former vice presidents
+
+    “Sec. 5. The Administrator is authorized to provide, upon request, to each former President and each former Vice President, for a period not to exceed seven months from 30 days before the date of the expiration of his term of office as President or Vice President, for use in connection with winding up the affairs of his office, necessary services and facilities of the same general character as authorized by this Act to be provided to Presidents-elect and Vice-Presidents-elect. Any person appointed or detailed to serve a former President or former Vice President under authority of this section shall be appointed or detailed in accordance with, and shall be subject to, all of the provisions of section 3 of this Act applicable to persons appointed or detailed under authority of that section. The provisions of the Act of August 25, 1958 ([72 Stat. 838][/us/stat/72/838]; [3 U.S.C. 102][/us/usc/t3/s102], note), other than subsections (a) and (e) shall not become effective with respect to a former President until six months after the expiration of his term of office as President.
+
+“disclosures of financing and personnel; limitation on acceptance of donations
+
+    “Sec. 6. (a)(1) The President-elect and Vice-President-elect (as a condition for receiving services under section 3 and for funds provided under section 7(a)(1)) shall disclose to the Administrator the date of contribution, source, amount, and expenditure thereof of all money, other than funds from the Federal Government, and including currency of the United States and of any foreign nation, checks, money orders, or any other negotiable instruments payable on demand, received either before or after the date of the general elections for use in the preparation of the President-elect or Vice-President-elect for the assumption of official duties as President or Vice President.
+
+    “(2) The President-elect and Vice-President-elect (as a condition for receiving such services and funds) shall make available to the Administrator and the Comptroller General all information concerning such contributions as the Administrator or Comptroller General may require for purposes of auditing both the public and private funding used in the activities authorized by this Act.
+
+    “(3) Disclosures made under paragraph (1) shall be—
+
+    “(A) in the form of a report to the Administrator within 30 days after the inauguration of the President-elect as President and the Vice-President-elect as Vice President; and
+
+    “(B) made available to the public by the Administrator upon receipt by the Administrator.
+
+    “(b)(1) The President-elect and Vice-President-elect (as a condition for receiving services provided under section 3 and funds provided under section 7(a)(1)) shall make available to the public—
+
+    “(A) the names and most recent employment of all transition personnel (full-time or part-time, public or private, or volunteer) who are members of the President-elect or Vice-President-elect’s Federal department or agency transition teams; and
+
+    “(B) information regarding the sources of funding which support the transition activities of each transition team member.
+
+    “(2) Disclosures under paragraph (1) shall be made public before the initial transition team contact with a Federal department or agency and shall be updated as necessary.
+
+    “(c) The President-elect and Vice-President-elect (as a condition for receiving services under section 3 and for funds provided under section 7(a)(1)) shall not accept more than $5,000 from any person, organization, or other entity for purposes of carrying out activities authorized by this Act.
+
+“authorization of appropriations
+
+    “Sec. 7. (a) There are hereby authorized to be appropriated to the Administrator such funds as may be necessary for carrying out the purposes of this Act, except that with respect to any one Presidential transition—
+
+    “(1) not more than $3,500,000 may be appropriated for the purposes of providing services and facilities to the President-elect and Vice President-elect under section 3, and
+
+    “(2) not more than $1,500,000 may be appropriated for the purposes of providing services and facilities to the former President and former Vice President under section 5, except that any amount appropriated pursuant to this paragraph in excess of $1,250,000 shall be returned to the general fund of the Treasury in the case where the former Vice President is the incumbent President.
+
+    The President shall include in the budget transmitted to Congress, for each fiscal year in which his regular term of office will expire, a proposed appropriation for carrying out the purposes of this Act.
+
+    “(b) The amounts authorized to be appropriated under subsection (a) shall be increased by an inflation adjusted amount, based on increases in the cost of transition services and expenses which have occurred in the years following the most recent Presidential transition, and shall be included in the proposed appropriation transmitted by the President under the last sentence of subsection (a).”
+
+\[[Pub. L. 108–458, title VII][/us/pl/108/458/tVII], § 7601(d), Dec. 17, 2004, [118 Stat. 3858][/us/stat/118/3858], provided that: 
 
 > “Notwithstanding section 351 \[[Pub. L. 108–458][/us/pl/108/458] does not contain a section 351\], this section \[enacting [section 3342 of Title 50][/us/usc/t50/s3342], War and National Defense, and amending [section 3 of Pub. L. 88–277][/us/pl/88/277/s3], set out above\] and the amendments made by this section shall take effect on the date of enactment of this Act \[Dec. 17, 2004\].”
 
 \]
 
-\[[Pub. L. 100–398, § 2(b)][/us/pl/100/398/s2/b], Aug. 17, 1988, [102 Stat. 985][/us/stat/102/985], provided that: 
+\[[Pub. L. 100–398][/us/pl/100/398], § 2(b), Aug. 17, 1988, [102 Stat. 985][/us/stat/102/985], provided that: 
 
 > “The amendments made by subsection (a) of this section \[renumbering and amending [section 6 of Pub. L. 88–277][/us/pl/88/277/s6], set out above\] shall be effective upon enactment \[Aug. 17, 1988\], except that the amendment made by paragraph (7) of such subsection \[enacting subsec. (b) of [section 6 of Pub. L. 88–277][/us/pl/88/277/s6], set out above\] shall take effect on October 1, 1989.”
 
 \]
 
-    \[[Pub. L. 94–499, § 3][/us/pl/94/499/s3], Oct. 14, 1976, [90 Stat. 2380][/us/stat/90/2380], provided that amendment of [section 5 of Pub. L. 88–277][/us/pl/88/277/s5] \[set out above\] by [section 1 of Pub. L. 94–499][/us/pl/94/499/s1], respecting revision of appropriation authorization, shall be effective Oct. 14, 1976.\]
+    \[[Pub. L. 94–499][/us/pl/94/499], § 3, Oct. 14, 1976, [90 Stat. 2380][/us/stat/90/2380], provided that amendment of [section 5 of Pub. L. 88–277][/us/pl/88/277/s5] \[set out above\] by [section 1 of Pub. L. 94–499][/us/pl/94/499/s1], respecting revision of appropriation authorization, shall be effective Oct. 14, 1976.\]
 
     \[For transfer of the functions, personnel, assets, and obligations of the United States Secret Service, including the functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 381, 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6][/us/usc/t6/s542].\]
 
@@ -371,63 +443,63 @@
 
  __Expense Allowance: Use; Reversion of Unexpended Portion; Nontaxable__ 
 
-Provisions prohibiting expenditure of funds made available for official expenses for any other purpose and requiring reversion of any unused amount to the Treasury pursuant to [31 U.S.C. 1552][/us/usc/t31/s1552] were contained in a paragraph under the headings “EXECUTIVE OFFICE OF THE PRESIDENT AND FUNDS APPROPRIATED TO THE PRESIDENT” and “Compensation of the President” in the Executive Office of the President Appropriations Act, 2006, [Pub. L. 109–115, div. A, title V][/us/pl/109/115], Nov. 30, 2005, [119 Stat. 2472][/us/stat/119/2472], and were repeated in provisions of subsequent appropriations acts which are not set out in the Code. Similar provisions were also contained in the following prior appropriation acts:
+Provisions prohibiting expenditure of funds made available for official expenses for any other purpose and requiring reversion of any unused amount to the Treasury pursuant to [31 U.S.C. 1552][/us/usc/t31/s1552] were contained in a paragraph under the headings “EXECUTIVE OFFICE OF THE PRESIDENT AND FUNDS APPROPRIATED TO THE PRESIDENT” and “Compensation of the President” in the Executive Office of the President Appropriations Act, 2006, [Pub. L. 109–115, div. A, title V][/us/pl/109/115/dA/tV], Nov. 30, 2005, [119 Stat. 2472][/us/stat/119/2472], and were repeated in provisions of subsequent appropriations acts which are not set out in the Code. Similar provisions were also contained in the following prior appropriation acts:
 
-    [Pub. L. 108–447, div. H, title III][/us/pl/108/447], Dec. 8, 2004, [118 Stat. 3246][/us/stat/118/3246].
+    [Pub. L. 108–447, div. H, title III][/us/pl/108/447/dH/tIII], Dec. 8, 2004, [118 Stat. 3246][/us/stat/118/3246].
 
-    [Pub. L. 108–199, div. F, title III][/us/pl/108/199], Jan. 23, 2004, [118 Stat. 321][/us/stat/118/321].
+    [Pub. L. 108–199, div. F, title III][/us/pl/108/199/dF/tIII], Jan. 23, 2004, [118 Stat. 321][/us/stat/118/321].
 
-    [Pub. L. 108–7, div. J, title III][/us/pl/108/7], Feb. 20, 2003, [117 Stat. 442][/us/stat/117/442].
+    [Pub. L. 108–7, div. J, title III][/us/pl/108/7/dJ/tIII], Feb. 20, 2003, [117 Stat. 442][/us/stat/117/442].
 
-    [Pub. L. 107–67, title III][/us/pl/107/67], Nov. 12, 2001, [115 Stat. 526][/us/stat/115/526].
+    [Pub. L. 107–67, title III][/us/pl/107/67/tIII], Nov. 12, 2001, [115 Stat. 526][/us/stat/115/526].
 
-    [Pub. L. 106–554, § 1(a)(3)][/us/pl/106/554/s1/a/3] \[title III\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–136.
+    [Pub. L. 106–554][/us/pl/106/554], § 1(a)(3) \[title III\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–136.
 
-    [Pub. L. 106–58, title III][/us/pl/106/58], Sept. 29, 1999, [113 Stat. 444][/us/stat/113/444].
+    [Pub. L. 106–58, title III][/us/pl/106/58/tIII], Sept. 29, 1999, [113 Stat. 444][/us/stat/113/444].
 
-    [Pub. L. 105–277, div. A, § 101(h)][/us/pl/105/277/s101/h] \[title III\], Oct. 21, 1998, [112 Stat. 2681–480][/us/stat/112/2681-480], 2681–492.
+    [Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(h) \[title III\], Oct. 21, 1998, [112 Stat. 2681–480][/us/stat/112/2681-480], 2681–492.
 
-    [Pub. L. 105–61, title III][/us/pl/105/61], Oct. 10, 1997, [111 Stat. 1290][/us/stat/111/1290].
+    [Pub. L. 105–61, title III][/us/pl/105/61/tIII], Oct. 10, 1997, [111 Stat. 1290][/us/stat/111/1290].
 
-    [Pub. L. 104–208, div. A, title I, § 101(f)][/us/pl/104/208/s101/f] \[title III\], Sept. 30, 1996, [110 Stat. 3009][/us/stat/110/3009]-314, 3009-326.
+    [Pub. L. 104–208, div. A, title I][/us/pl/104/208/dA/tI], § 101(f) \[title III\], Sept. 30, 1996, [110 Stat. 3009][/us/stat/110/3009]-314, 3009-326.
 
-    [Pub. L. 104–52, title III][/us/pl/104/52], Nov. 19, 1995, [109 Stat. 477][/us/stat/109/477].
+    [Pub. L. 104–52, title III][/us/pl/104/52/tIII], Nov. 19, 1995, [109 Stat. 477][/us/stat/109/477].
 
-    [Pub. L. 103–329, title III][/us/pl/103/329], Sept. 30, 1994, [108 Stat. 2392][/us/stat/108/2392].
+    [Pub. L. 103–329, title III][/us/pl/103/329/tIII], Sept. 30, 1994, [108 Stat. 2392][/us/stat/108/2392].
 
-    [Pub. L. 103–123, title III][/us/pl/103/123], Oct. 28, 1993, [107 Stat. 1235][/us/stat/107/1235].
+    [Pub. L. 103–123, title III][/us/pl/103/123/tIII], Oct. 28, 1993, [107 Stat. 1235][/us/stat/107/1235].
 
-    [Pub. L. 102–393, title III][/us/pl/102/393], Oct. 6, 1992, [106 Stat. 1738][/us/stat/106/1738].
+    [Pub. L. 102–393, title III][/us/pl/102/393/tIII], Oct. 6, 1992, [106 Stat. 1738][/us/stat/106/1738].
 
-    [Pub. L. 102–141, title III][/us/pl/102/141], Oct. 28, 1991, [105 Stat. 844][/us/stat/105/844].
+    [Pub. L. 102–141, title III][/us/pl/102/141/tIII], Oct. 28, 1991, [105 Stat. 844][/us/stat/105/844].
 
-    [Pub. L. 101–509, title III][/us/pl/101/509], Nov. 5, 1990, [104 Stat. 1399][/us/stat/104/1399].
+    [Pub. L. 101–509, title III][/us/pl/101/509/tIII], Nov. 5, 1990, [104 Stat. 1399][/us/stat/104/1399].
 
-    [Pub. L. 101–136, title III][/us/pl/101/136], Nov. 3, 1989, [103 Stat. 790][/us/stat/103/790].
+    [Pub. L. 101–136, title III][/us/pl/101/136/tIII], Nov. 3, 1989, [103 Stat. 790][/us/stat/103/790].
 
-    [Pub. L. 100–440, title III][/us/pl/100/440], Sept. 22, 1988, [102 Stat. 1728][/us/stat/102/1728].
+    [Pub. L. 100–440, title III][/us/pl/100/440/tIII], Sept. 22, 1988, [102 Stat. 1728][/us/stat/102/1728].
 
-    [Pub. L. 100–202, § 101(m)][/us/pl/100/202/s101/m] \[title III\], Dec. 22, 1987, [101 Stat. 1329–390][/us/stat/101/1329-390], 1329–398.
+    [Pub. L. 100–202][/us/pl/100/202], § 101(m) \[title III\], Dec. 22, 1987, [101 Stat. 1329–390][/us/stat/101/1329-390], 1329–398.
 
-    [Pub. L. 99–500, § 101(m)][/us/pl/99/500/s101/m] \[title III\], Oct. 18, 1986, [100 Stat. 1783–308][/us/stat/100/1783-308], 1783–315, and [Pub. L. 99–591, § 101(m)][/us/pl/99/591/s101/m] \[title III, § 301\], Oct. 30, 1986, [100 Stat. 3341–308][/us/stat/100/3341-308], 3341–315.
+    [Pub. L. 99–500][/us/pl/99/500], § 101(m) \[title III\], Oct. 18, 1986, [100 Stat. 1783–308][/us/stat/100/1783-308], 1783–315, and [Pub. L. 99–591][/us/pl/99/591], § 101(m) \[title III, § 301\], Oct. 30, 1986, [100 Stat. 3341–308][/us/stat/100/3341-308], 3341–315.
 
-    [Pub. L. 99–190, § 101(h)][/us/pl/99/190/s101/h] \[H.R. 3036, title III\], Dec. 19, 1985, [99 Stat. 1291][/us/stat/99/1291].
+    [Pub. L. 99–190][/us/pl/99/190], § 101(h) \[H.R. 3036, title III\], Dec. 19, 1985, [99 Stat. 1291][/us/stat/99/1291].
 
-    [Pub. L. 98–473, § 101(j)][/us/pl/98/473/s101/j] \[H.R. 5798, title III\], Oct. 12, 1984, [98 Stat. 1963][/us/stat/98/1963].
+    [Pub. L. 98–473][/us/pl/98/473], § 101(j) \[H.R. 5798, title III\], Oct. 12, 1984, [98 Stat. 1963][/us/stat/98/1963].
 
-    [Pub. L. 98–151, § 101(f)][/us/pl/98/151/s101/f] \[H.R. 4139, title III\], Nov. 14, 1983, [97 Stat. 973][/us/stat/97/973].
+    [Pub. L. 98–151][/us/pl/98/151], § 101(f) \[H.R. 4139, title III\], Nov. 14, 1983, [97 Stat. 973][/us/stat/97/973].
 
-    [Pub. L. 97–377, title I, § 101(a)][/us/pl/97/377/s101/a] \[incorporating H.R. 4121, title III, for FY 1982\], Dec. 21, 1982, [96 Stat. 1830][/us/stat/96/1830].
+    [Pub. L. 97–377, title I][/us/pl/97/377/tI], § 101(a) \[incorporating H.R. 4121, title III, for FY 1982\], Dec. 21, 1982, [96 Stat. 1830][/us/stat/96/1830].
 
-    [Pub. L. 97–92, § 101(a)][/us/pl/97/92/s101/a] \[H.R. 4121, title III\], Dec. 15, 1981, [95 Stat. 1183][/us/stat/95/1183].
+    [Pub. L. 97–92][/us/pl/97/92], § 101(a) \[H.R. 4121, title III\], Dec. 15, 1981, [95 Stat. 1183][/us/stat/95/1183].
 
-    [Pub. L. 96–536, § 101(a)][/us/pl/96/536/s101/a] \[incorporating [Pub. L. 96–74, title III][/us/pl/96/74]\], Dec. 16, 1980, [94 Stat. 3166][/us/stat/94/3166].
+    [Pub. L. 96–536][/us/pl/96/536], § 101(a) \[incorporating [Pub. L. 96–74, title III][/us/pl/96/74/tIII]\], Dec. 16, 1980, [94 Stat. 3166][/us/stat/94/3166].
 
-    [Pub. L. 96–74, title III][/us/pl/96/74], Sept. 29, 1979, [93 Stat. 563][/us/stat/93/563].
+    [Pub. L. 96–74, title III][/us/pl/96/74/tIII], Sept. 29, 1979, [93 Stat. 563][/us/stat/93/563].
 
  __Former Presidents; Allowance; Selection, Compensation, and Status of Office Staff; Office Space; Widow’s Allowance, Termination; “Former President” Defined__ 
 
-[Pub. L. 85–745][/us/pl/85/745], Aug. 25, 1958, [72 Stat. 838][/us/stat/72/838], as amended by [Pub. L. 86–682, § 12(c)][/us/pl/86/682/s12/c], Sept. 2, 1960, [74 Stat. 730][/us/stat/74/730]; [Pub. L. 88–426, title I, § 124][/us/pl/88/426/s124], Aug. 14, 1964, [78 Stat. 412][/us/stat/78/412]; [Pub. L. 89–554, § 8(a)][/us/pl/89/554/s8/a], Sept. 6, 1966, [80 Stat. 660][/us/stat/80/660]; [Pub. L. 90–206, title II, § 224(c)][/us/pl/90/206/s224/c], Dec. 16, 1967, [81 Stat. 642][/us/stat/81/642]; [Pub. L. 91–231, § 7][/us/pl/91/231/s7], Apr. 15, 1970, [84 Stat. 198][/us/stat/84/198]; [Pub. L. 91–658, § 6][/us/pl/91/658/s6], Jan. 8, 1971, [84 Stat. 1963][/us/stat/84/1963]; [Pub. L. 95–138, § 1][/us/pl/95/138/s1], Oct. 18, 1977, [91 Stat. 1170][/us/stat/91/1170]; [Pub. L. 103–123, title IV, § 6(a)][/us/pl/103/123/s6/a], Oct. 28, 1993, [107 Stat. 1246][/us/stat/107/1246]; [Pub. L. 103–329, title V, § 531][/us/pl/103/329/s531], Sept. 30, 1994, [108 Stat. 2413][/us/stat/108/2413]; [Pub. L. 104–52, title V, § 523][/us/pl/104/52/s523], Nov. 19, 1995, [109 Stat. 495][/us/stat/109/495]; [Pub. L. 105–61, title IV, § 409(a)][/us/pl/105/61/s409/a], Oct. 10, 1997, [111 Stat. 1299][/us/stat/111/1299]; [Pub. L. 108–447, div. H, title V, § 526][/us/pl/108/447/s526], Dec. 8, 2004, [118 Stat. 3271][/us/stat/118/3271], provided that:
+[Pub. L. 85–745][/us/pl/85/745], Aug. 25, 1958, [72 Stat. 838][/us/stat/72/838], as amended by [Pub. L. 86–682][/us/pl/86/682], § 12(c), Sept. 2, 1960, [74 Stat. 730][/us/stat/74/730]; [Pub. L. 88–426, title I][/us/pl/88/426/tI], § 124, Aug. 14, 1964, [78 Stat. 412][/us/stat/78/412]; [Pub. L. 89–554][/us/pl/89/554], § 8(a), Sept. 6, 1966, [80 Stat. 660][/us/stat/80/660]; [Pub. L. 90–206, title II][/us/pl/90/206/tII], § 224(c), Dec. 16, 1967, [81 Stat. 642][/us/stat/81/642]; [Pub. L. 91–231][/us/pl/91/231], § 7, Apr. 15, 1970, [84 Stat. 198][/us/stat/84/198]; [Pub. L. 91–658][/us/pl/91/658], § 6, Jan. 8, 1971, [84 Stat. 1963][/us/stat/84/1963]; [Pub. L. 95–138][/us/pl/95/138], § 1, Oct. 18, 1977, [91 Stat. 1170][/us/stat/91/1170]; [Pub. L. 103–123, title IV][/us/pl/103/123/tIV], § 6(a), Oct. 28, 1993, [107 Stat. 1246][/us/stat/107/1246]; [Pub. L. 103–329, title V][/us/pl/103/329/tV], § 531, Sept. 30, 1994, [108 Stat. 2413][/us/stat/108/2413]; [Pub. L. 104–52, title V][/us/pl/104/52/tV], § 523, Nov. 19, 1995, [109 Stat. 495][/us/stat/109/495]; [Pub. L. 105–61, title IV][/us/pl/105/61/tIV], § 409(a), Oct. 10, 1997, [111 Stat. 1299][/us/stat/111/1299]; [Pub. L. 108–447, div. H, title V][/us/pl/108/447/dH/tV], § 526, Dec. 8, 2004, [118 Stat. 3271][/us/stat/118/3271], provided that:
 
 >     “(a) Each former President shall be entitled for the remainder of his life to receive from the United States a monetary allowance at a rate per annum, payable monthly by the Secretary of the Treasury, which is equal to the annual rate of basic pay, as in effect from time to time, of the head of an executive department, as defined in [section 101 of title 5][/us/usc/t5/s101], United States Code. However, such allowance shall not be paid for any period during which such former President holds an appointive or elective office or position in or under the Federal Government or the government of the District of Columbia to which is attached a rate of pay other than a nominal rate.
 
@@ -435,7 +507,7 @@ Provisions prohibiting expenditure of funds made available for official expenses
 
 >     “(c) The Administrator of General Services shall furnish for each former President suitable office space appropriately furnished and equipped, as determined by the Administrator, at such place within the United States as the former President shall specify.
 
->     “(d) __\[Repealed.__  __[__  __Pub. L. 86–682, § 12(c)__  __][/us/pl/86/682/s12/c]__  __,__  __Sept. 2, 1960__  __,__  __[__  __74 Stat. 730__  __][/us/stat/74/730]__  __. See sections 3214 and 3216 of title 39.\]__ 
+>     “(d) __\[Repealed.__  __[__  __Pub. L. 86–682__  __][/us/pl/86/682]__  __, § 12(c),__  __Sept. 2, 1960__  __,__  __[__  __74 Stat. 730__  __][/us/stat/74/730]__  __. See sections 3214 and 3216 of title 39.\]__ 
 
 >     “(e)
 
@@ -465,7 +537,7 @@ Provisions prohibiting expenditure of funds made available for official expenses
 
 >     “(g) There are authorized to be appropriated to the Administrator of General Services up to $1,000,000 for each former President and up to $500,000 for the spouse of each former President each fiscal year for security and travel related expenses: Provided, That under the provisions set forth in section 3056, paragraph (a), subparagraph (3) of title 18, United States Code, the former President and/or spouse was not receiving protection for a lifetime provided by the United States Secret Service under section 3056 paragraph (a) subparagraph (3) of title 18, United States Code; the protection provided by the United States Secret Service expired at its designated time; or the protection provided by the United States Secret Service was declined prior to authorized expiration in lieu of these funds.”
 
-\[[Pub. L. 95–138, § 2][/us/pl/95/138/s2], Oct. 18, 1977, [91 Stat. 1170][/us/stat/91/1170], provided that: 
+\[[Pub. L. 95–138][/us/pl/95/138], § 2, Oct. 18, 1977, [91 Stat. 1170][/us/stat/91/1170], provided that: 
 
 > “The amendment made by the first section of this Act \[amending [Pub. L. 87–745][/us/pl/87/745], set out above\] shall take effect October 1, 1977.”
 
@@ -483,38 +555,39 @@ Provisions prohibiting expenditure of funds made available for official expenses
 [/us/usc/t31/s1552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1552
 [/us/act/1948-06-25/ch644]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch644
 [/us/stat/62/678]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F678
-[/us/act/1949-01-19/ch2/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-01-19%2Fch2%2Fs1%2Fa
+[/us/act/1949-01-19/ch2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-01-19%2Fch2
 [/us/stat/63/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F4
 [/us/act/1951-10-20/ch521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-10-20%2Fch521
 [/us/stat/65/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F65%2F569
-[/us/pl/91/1/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F1%2Fs1
+[/us/pl/91/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F1
 [/us/stat/83/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F3
-[/us/pl/95/570/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F570%2Fs5%2Fa
+[/us/pl/95/570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F570
 [/us/stat/92/2450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2450
-[/us/pl/106/58/s644/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F58%2Fs644%2Fa
+[/us/pl/106/58/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F58%2FtVI
 [/us/stat/113/478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F478
-[/us/pl/108/199/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2Fs301
+[/us/pl/108/199/dF/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2FdF%2FtIII
 [/us/stat/118/326]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F326
 [/us/pl/108/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199
 [/us/usc/t31/s1552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1552
 [/us/pl/106/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F58
 [/us/pl/95/570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F570
 [/us/pl/91/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F1
-[/us/pl/106/58/s644/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F58%2Fs644%2Fb
+[/us/pl/106/58/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F58%2FtVI
 [/us/stat/113/478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F478
-[/us/pl/95/570/s6/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F570%2Fs6%2Fa
+[/us/pl/95/570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F570
 [/us/stat/92/2451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2451
 [/us/usc/t3/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs107
 [/us/usc/t3/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs107
-[/us/pl/91/1/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F1%2Fs2
+[/us/pl/91/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F1
 [/us/stat/83/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F3
-[/us/act/1951-10-20/ch521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-10-20%2Fch521
+[/us/act/1951-10-20/ch521/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-10-20%2Fch521%2FtVI
 [/us/stat/65/570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F65%2F570
 [/us/usc/t3/s111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs111
-[/us/pl/111/283/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F283%2Fs3
+[/us/pl/111/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F283
 [/us/stat/124/3048]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3048
-[/us/pl/88/277/s3/h/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F277%2Fs3%2Fh%2F4
-[/us/pl/100/398/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F398%2Fs5
+[/us/pl/114/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F136
+[/us/stat/130/305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F305
+[/us/pl/100/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F398
 [/us/stat/102/987]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F987
 [/us/pl/88/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F277
 [/us/usc/t3/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs102
@@ -524,14 +597,16 @@ Provisions prohibiting expenditure of funds made available for official expenses
 [/us/stat/90/2380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2380
 [/us/pl/100/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F398
 [/us/stat/102/985]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F985
-[/us/pl/106/293/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F293%2Fs2
+[/us/pl/106/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F293
 [/us/stat/114/1035]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1035
-[/us/pl/108/271/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271%2Fs8%2Fb
+[/us/pl/108/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271
 [/us/stat/118/814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F814
-[/us/pl/108/458/s7601/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs7601%2Fa
+[/us/pl/108/458/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2FtVII
 [/us/stat/118/3856]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3856
-[/us/pl/111/283/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F283%2Fs2%2Fa
+[/us/pl/111/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F283
 [/us/stat/124/3045]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3045
+[/us/pl/114/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F136
+[/us/stat/130/301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F301
 [/us/usc/t5/s55a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs55a
 [/us/usc/t5/s3109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3109
 [/us/usc/t5/s73b–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs73b%E2%80%932
@@ -539,6 +614,7 @@ Provisions prohibiting expenditure of funds made available for official expenses
 [/us/usc/t44/s111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs111
 [/us/usc/t44/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs501
 [/us/usc/t44/s2203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs2203
+[/us/usc/t5/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs105
 [/us/usc/t39/s3202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft39%2Fs3202
 [/us/pl/108/458/s3001/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs3001%2Fc
 [/us/usc/t50/s3341/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3341%2Fc
@@ -555,18 +631,22 @@ Provisions prohibiting expenditure of funds made available for official expenses
 [/us/usc/t26/s9002/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs9002%2F11
 [/us/usc/t26/s9002/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs9002%2F10
 [/us/usc/t26/s9002/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs9002%2F6
+[/us/usc/t5/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs105
+[/us/pl/114/136/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F136%2Fs1
+[/us/usc/t5/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs101
+[/us/usc/t31/s901/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs901%2Fb%2F1
 [/us/stat/72/838]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F838
 [/us/usc/t3/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs102
-[/us/pl/108/458/s7601/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs7601%2Fd
+[/us/pl/108/458/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2FtVII
 [/us/stat/118/3858]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3858
 [/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
 [/us/usc/t50/s3342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3342
 [/us/pl/88/277/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F277%2Fs3
-[/us/pl/100/398/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F398%2Fs2%2Fb
+[/us/pl/100/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F398
 [/us/stat/102/985]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F985
 [/us/pl/88/277/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F277%2Fs6
 [/us/pl/88/277/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F277%2Fs6
-[/us/pl/94/499/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F499%2Fs3
+[/us/pl/94/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F499
 [/us/stat/90/2380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2380
 [/us/pl/88/277/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F277%2Fs5
 [/us/pl/94/499/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F499%2Fs1
@@ -574,94 +654,94 @@ Provisions prohibiting expenditure of funds made available for official expenses
 [/us/pl/101/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509
 [/us/usc/t5/s5376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5376
 [/us/usc/t31/s1552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1552
-[/us/pl/109/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F115
+[/us/pl/109/115/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F115%2FdA%2FtV
 [/us/stat/119/2472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2472
-[/us/pl/108/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447
+[/us/pl/108/447/dH/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2FdH%2FtIII
 [/us/stat/118/3246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3246
-[/us/pl/108/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199
+[/us/pl/108/199/dF/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2FdF%2FtIII
 [/us/stat/118/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F321
-[/us/pl/108/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7
+[/us/pl/108/7/dJ/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2FdJ%2FtIII
 [/us/stat/117/442]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F442
-[/us/pl/107/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F67
+[/us/pl/107/67/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F67%2FtIII
 [/us/stat/115/526]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F526
-[/us/pl/106/554/s1/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F3
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
-[/us/pl/106/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F58
+[/us/pl/106/58/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F58%2FtIII
 [/us/stat/113/444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F444
-[/us/pl/105/277/s101/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fh
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
 [/us/stat/112/2681-480]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-480
-[/us/pl/105/61]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F61
+[/us/pl/105/61/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F61%2FtIII
 [/us/stat/111/1290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1290
-[/us/pl/104/208/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Ff
+[/us/pl/104/208/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtI
 [/us/stat/110/3009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009
-[/us/pl/104/52]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F52
+[/us/pl/104/52/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F52%2FtIII
 [/us/stat/109/477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F477
-[/us/pl/103/329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F329
+[/us/pl/103/329/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F329%2FtIII
 [/us/stat/108/2392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2392
-[/us/pl/103/123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F123
+[/us/pl/103/123/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F123%2FtIII
 [/us/stat/107/1235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1235
-[/us/pl/102/393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F393
+[/us/pl/102/393/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F393%2FtIII
 [/us/stat/106/1738]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1738
-[/us/pl/102/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F141
+[/us/pl/102/141/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F141%2FtIII
 [/us/stat/105/844]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F844
-[/us/pl/101/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509
+[/us/pl/101/509/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509%2FtIII
 [/us/stat/104/1399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1399
-[/us/pl/101/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F136
+[/us/pl/101/136/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F136%2FtIII
 [/us/stat/103/790]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F790
-[/us/pl/100/440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F440
+[/us/pl/100/440/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F440%2FtIII
 [/us/stat/102/1728]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1728
-[/us/pl/100/202/s101/m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202%2Fs101%2Fm
+[/us/pl/100/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202
 [/us/stat/101/1329-390]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1329-390
-[/us/pl/99/500/s101/m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500%2Fs101%2Fm
+[/us/pl/99/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500
 [/us/stat/100/1783-308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1783-308
-[/us/pl/99/591/s101/m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591%2Fs101%2Fm
+[/us/pl/99/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591
 [/us/stat/100/3341-308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3341-308
-[/us/pl/99/190/s101/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F190%2Fs101%2Fh
+[/us/pl/99/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F190
 [/us/stat/99/1291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1291
-[/us/pl/98/473/s101/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs101%2Fj
+[/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
 [/us/stat/98/1963]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1963
-[/us/pl/98/151/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F151%2Fs101%2Ff
+[/us/pl/98/151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F151
 [/us/stat/97/973]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F973
-[/us/pl/97/377/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F377%2Fs101%2Fa
+[/us/pl/97/377/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F377%2FtI
 [/us/stat/96/1830]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1830
-[/us/pl/97/92/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F92%2Fs101%2Fa
+[/us/pl/97/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F92
 [/us/stat/95/1183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1183
-[/us/pl/96/536/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F536%2Fs101%2Fa
-[/us/pl/96/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F74
+[/us/pl/96/536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F536
+[/us/pl/96/74/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F74%2FtIII
 [/us/stat/94/3166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3166
-[/us/pl/96/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F74
+[/us/pl/96/74/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F74%2FtIII
 [/us/stat/93/563]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F563
 [/us/pl/85/745]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F745
 [/us/stat/72/838]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F838
-[/us/pl/86/682/s12/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F682%2Fs12%2Fc
+[/us/pl/86/682]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F682
 [/us/stat/74/730]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F730
-[/us/pl/88/426/s124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F426%2Fs124
+[/us/pl/88/426/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F426%2FtI
 [/us/stat/78/412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F412
-[/us/pl/89/554/s8/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs8%2Fa
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/660]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F660
-[/us/pl/90/206/s224/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F206%2Fs224%2Fc
+[/us/pl/90/206/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F206%2FtII
 [/us/stat/81/642]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F642
-[/us/pl/91/231/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F231%2Fs7
+[/us/pl/91/231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F231
 [/us/stat/84/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F198
-[/us/pl/91/658/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F658%2Fs6
+[/us/pl/91/658]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F658
 [/us/stat/84/1963]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1963
-[/us/pl/95/138/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F138%2Fs1
+[/us/pl/95/138]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F138
 [/us/stat/91/1170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1170
-[/us/pl/103/123/s6/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F123%2Fs6%2Fa
+[/us/pl/103/123/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F123%2FtIV
 [/us/stat/107/1246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1246
-[/us/pl/103/329/s531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F329%2Fs531
+[/us/pl/103/329/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F329%2FtV
 [/us/stat/108/2413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2413
-[/us/pl/104/52/s523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F52%2Fs523
+[/us/pl/104/52/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F52%2FtV
 [/us/stat/109/495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F495
-[/us/pl/105/61/s409/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F61%2Fs409%2Fa
+[/us/pl/105/61/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F61%2FtIV
 [/us/stat/111/1299]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1299
-[/us/pl/108/447/s526]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs526
+[/us/pl/108/447/dH/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2FdH%2FtV
 [/us/stat/118/3271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3271
 [/us/usc/t5/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs101
 [/us/usc/t5/s5313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5313
-[/us/pl/86/682/s12/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F682%2Fs12%2Fc
+[/us/pl/86/682]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F682
 [/us/stat/74/730]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F730
-[/us/pl/95/138/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F138%2Fs2
+[/us/pl/95/138]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F138
 [/us/stat/91/1170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1170
 [/us/pl/87/745]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F745
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542

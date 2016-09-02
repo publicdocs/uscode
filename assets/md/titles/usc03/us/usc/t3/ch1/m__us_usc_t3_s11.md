@@ -25,7 +25,7 @@
 
     Fourth. They shall forthwith cause the other of the certificates and lists to be delivered to the judge of the district in which the electors shall have assembled.
 
-([June 25, 1948, ch. 644][/us/act/1948-06-25/ch644], [62 Stat. 674][/us/stat/62/674]; [Oct. 31, 1951, ch. 655, § 7][/us/act/1951-10-31/ch655/s7], [65 Stat. 712][/us/stat/65/712]; [Pub. L. 98–497, title I, § 107(e)(1)][/us/pl/98/497/s107/e/1], Oct. 19, 1984, [98 Stat. 2291][/us/stat/98/2291].)
+([June 25, 1948, ch. 644][/us/act/1948-06-25/ch644], [62 Stat. 674][/us/stat/62/674]; [Oct. 31, 1951, ch. 655][/us/act/1951-10-31/ch655], § 7, [65 Stat. 712][/us/stat/65/712]; [Pub. L. 98–497, title I][/us/pl/98/497/tI], § 107(e)(1), Oct. 19, 1984, [98 Stat. 2291][/us/stat/98/2291].)
 
  __Amendments__ 
 
@@ -46,9 +46,9 @@
 
 [/us/act/1948-06-25/ch644]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch644
 [/us/stat/62/674]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F674
-[/us/act/1951-10-31/ch655/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-10-31%2Fch655%2Fs7
+[/us/act/1951-10-31/ch655]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-10-31%2Fch655
 [/us/stat/65/712]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F65%2F712
-[/us/pl/98/497/s107/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F497%2Fs107%2Fe%2F1
+[/us/pl/98/497/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F497%2FtI
 [/us/stat/98/2291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2291
 [/us/pl/98/497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F497
 [/us/pl/98/497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F497

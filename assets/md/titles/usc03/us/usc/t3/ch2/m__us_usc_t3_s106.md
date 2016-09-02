@@ -49,7 +49,7 @@
 
     (c) Assistance and services authorized pursuant to this section to the Vice President are authorized to be provided to the spouse of the Vice President in connection with assistance provided by such spouse to the Vice President in the discharge of the Vice President’s executive duties and responsibilities. If the Vice President does not have a spouse, such assistance and services may be provided for such purposes to a member of the Vice President’s family whom the Vice President designates.
 
-([June 25, 1948, ch. 644][/us/act/1948-06-25/ch644], [62 Stat. 678][/us/stat/62/678]; [Oct. 15, 1949, ch. 695, § 2(b)][/us/act/1949-10-15/ch695/s2/b], [63 Stat. 880][/us/stat/63/880]; [Pub. L. 95–570, § 1(a)][/us/pl/95/570/s1/a], Nov. 2, 1978, [92 Stat. 2446][/us/stat/92/2446].)
+([June 25, 1948, ch. 644][/us/act/1948-06-25/ch644], [62 Stat. 678][/us/stat/62/678]; [Oct. 15, 1949, ch. 695][/us/act/1949-10-15/ch695], § 2(b), [63 Stat. 880][/us/stat/63/880]; [Pub. L. 95–570][/us/pl/95/570], § 1(a), Nov. 2, 1978, [92 Stat. 2446][/us/stat/92/2446].)
 
  __Amendments__ 
 
@@ -122,9 +122,9 @@
 [/us/usc/t5/s5313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5313
 [/us/act/1948-06-25/ch644]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch644
 [/us/stat/62/678]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F678
-[/us/act/1949-10-15/ch695/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-15%2Fch695%2Fs2%2Fb
+[/us/act/1949-10-15/ch695]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-15%2Fch695
 [/us/stat/63/880]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F880
-[/us/pl/95/570/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F570%2Fs1%2Fa
+[/us/pl/95/570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F570
 [/us/stat/92/2446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2446
 [/us/pl/95/570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F570
 [/us/usc/t3/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs105

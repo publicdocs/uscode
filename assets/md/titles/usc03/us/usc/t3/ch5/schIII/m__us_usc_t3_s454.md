@@ -33,7 +33,7 @@
 
         Notwithstanding any other provision of law (including any provision of law referenced in paragraph (1) or (2)), judicial review of any administrative decision under this subsection shall be by appeal to the United States Court of Appeals for the Federal Circuit under [section 1296 of title 28][/us/usc/t28/s1296].
 
-(Added [Pub. L. 104–331, § 2(a)][/us/pl/104/331/s2/a], Oct. 26, 1996, [110 Stat. 4067][/us/stat/110/4067].)
+(Added [Pub. L. 104–331][/us/pl/104/331], § 2(a), Oct. 26, 1996, [110 Stat. 4067][/us/stat/110/4067].)
 
  __Effective Date__ 
 
@@ -47,7 +47,7 @@
 ----------
 
 [/us/usc/t28/s1296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1296
-[/us/pl/104/331/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F331%2Fs2%2Fa
+[/us/pl/104/331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F331
 [/us/stat/110/4067]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F4067
 [/us/usc/t3/s471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs471
 

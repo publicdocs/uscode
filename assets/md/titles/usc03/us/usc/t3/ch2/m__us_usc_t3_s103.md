@@ -17,7 +17,7 @@
 
     There may be expended for or on account of the traveling expenses of the President of the United States such sum as Congress may from time to time appropriate, not exceeding $100,000 per annum, such sum when appropriated to be expended in the discretion of the President and accounted for on his certificate solely.
 
-([June 25, 1948, ch. 644][/us/act/1948-06-25/ch644], [62 Stat. 678][/us/stat/62/678]; [Pub. L. 95–570, § 4][/us/pl/95/570/s4], Nov. 2, 1978, [92 Stat. 2450][/us/stat/92/2450].)
+([June 25, 1948, ch. 644][/us/act/1948-06-25/ch644], [62 Stat. 678][/us/stat/62/678]; [Pub. L. 95–570][/us/pl/95/570], § 4, Nov. 2, 1978, [92 Stat. 2450][/us/stat/92/2450].)
 
  __Amendments__ 
 
@@ -36,7 +36,7 @@
 
 [/us/act/1948-06-25/ch644]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch644
 [/us/stat/62/678]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F678
-[/us/pl/95/570/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F570%2Fs4
+[/us/pl/95/570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F570
 [/us/stat/92/2450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2450
 [/us/pl/95/570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F570
 [/us/pl/95/570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F570

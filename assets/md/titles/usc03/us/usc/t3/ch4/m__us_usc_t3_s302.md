@@ -17,7 +17,7 @@
 
     The authority conferred by this chapter shall apply to any function vested in the President by law if such law does not affirmatively prohibit delegation of the performance of such function as herein provided for, or specifically designate the officer or officers to whom it may be delegated. This chapter shall not be deemed to limit or derogate from any existing or inherent right of the President to delegate the performance of functions vested in him by law, and nothing herein shall be deemed to require express authorization in any case in which such an official would be presumed in law to have acted by authority or direction of the President.
 
-(Added [Oct. 31, 1951, ch. 655, § 10][/us/act/1951-10-31/ch655/s10], [65 Stat. 712][/us/stat/65/712].)
+(Added [Oct. 31, 1951, ch. 655][/us/act/1951-10-31/ch655], § 10, [65 Stat. 712][/us/stat/65/712].)
 
  __Similar Provisions; Repeal; Saving Clause__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1951-10-31/ch655/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-10-31%2Fch655%2Fs10
+[/us/act/1951-10-31/ch655]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-10-31%2Fch655
 [/us/stat/65/712]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F65%2F712
 [/us/usc/t3/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs301
 

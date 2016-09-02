@@ -147,13 +147,13 @@
 
  __Amendments__ 
 
-    1998—[Pub. L. 105–339, § 4(b)(2)][/us/pl/105/339/s4/b/2], Oct. 31, 1998, [112 Stat. 3185][/us/stat/112/3185], added item 115.
+    1998—[Pub. L. 105–339][/us/pl/105/339], § 4(b)(2), Oct. 31, 1998, [112 Stat. 3185][/us/stat/112/3185], added item 115.
 
     1978—[Pub. L. 95–570][/us/pl/95/570], §§ 1(b), 2(b), 3(b), 5(b)(2), (c)(2), Nov. 2, 1978, [92 Stat. 2447][/us/stat/92/2447], 2449, 2450, 2451, substituted in item 105 “Assistance and services for the President” for “Compensation of secretaries and executive, administrative, and staff assistants to President”; in item 106 “Assistance and services for the Vice President” for “Administrative assistants”; in item 107 “Domestic Policy Staff and Office of Administration; personnel” for “Detail of employees of executive departments to office of President”; in item 108 “Assistance to the President for unanticipated needs” for “Accommodations for vehicles”; and in item 109 “the Executive Residence at the White House” for “Executive Mansion”; inserted in item 110 “the Executive Residence at the” before “White House”; and added items 112, 113 and 114.
 
  __Executive Office Personnel Background Investigations; Leaves of Absence__ 
 
-[Pub. L. 103–329, title VI, § 632][/us/pl/103/329/s632], Sept. 30, 1994, [108 Stat. 2425][/us/stat/108/2425], provided that:
+[Pub. L. 103–329, title VI][/us/pl/103/329/tVI], § 632, Sept. 30, 1994, [108 Stat. 2425][/us/stat/108/2425], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -169,7 +169,7 @@
 
     \[For transfer of the functions, personnel, assets, and obligations of the United States Secret Service, including the functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 381, 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6][/us/usc/t6/s542].\]
 
- __REORGANIZATION PLAN NO. 1 OF 1977__  __42 F.R. 56101,__  __[__  __91 Stat. 1633__  __][/us/stat/91/1633]__  __, as amended by__  __[__  __Pub. L. 97–195, § 1(c)(5)__  __][/us/pl/97/195/s1/c/5]__  __,__  __June 16, 1982__  __,__  __[__  __96 Stat. 115__  __][/us/stat/96/115]__ 
+ __REORGANIZATION PLAN NO. 1 OF 1977__  __42 F.R. 56101,__  __[__  __91 Stat. 1633__  __][/us/stat/91/1633]__  __, as amended by__  __[__  __Pub. L. 97–195__  __][/us/pl/97/195]__  __, § 1(c)(5),__  __June 16, 1982__  __,__  __[__  __96 Stat. 115__  __][/us/stat/96/115]__ 
 
     Prepared by the President and transmitted to the Senate and the House of Representatives in Congress assembled, July 15, 1977, <sup>\[1\]</sup>  <sup><sup> 1 As amended Sept. 15, 1977. </sup></sup>  pursuant to the provisions of Chapter 9 of Title 5 of the United States Code.
 
@@ -199,7 +199,7 @@
 
  __Sec. 4. Appointment of the Assistant Secretary of Commerce for Communications and Information__ 
 
-    There shall be in the Department of Commerce an Assistant Secretary for Communications and Information who shall be appointed by the President, by and with the advice and consent of the Senate. \[As amended [Pub. L. 97–195, § 1(c)(5)][/us/pl/97/195/s1/c/5], June 16, 1982, [96 Stat. 115][/us/stat/96/115].\]
+    There shall be in the Department of Commerce an Assistant Secretary for Communications and Information who shall be appointed by the President, by and with the advice and consent of the Senate. \[As amended [Pub. L. 97–195][/us/pl/97/195], § 1(c)(5), June 16, 1982, [96 Stat. 115][/us/stat/96/115].\]
 
  __Sec. 5. Transfers of Functions__ 
 
@@ -861,7 +861,9 @@ By the authority vested in me as President by the Constitution and the laws of t
 
                               Barack Obama.
 
-    Term of President’s Advisory Council on Faith-Based and Neighborhood Partnerships extended until Sept. 30, 2015, by Ex. Ord. No. 13652, Sept. 30, 2013, 78 F.R. 61817, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+    Term of President’s Advisory Council on Faith-Based and Neighborhood Partnerships extended until Sept. 30, 2015, by Ex. Ord. No. 13652, Sept. 30, 2013, 78 F.R. 61817, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+
+    Term of President’s Advisory Council on Faith-Based and Neighborhood Partnerships extended until Sept. 30, 2017, by Ex. Ord. No. 13708, Sept. 30, 2015, 80 F.R. 60271, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
 
  __White House Task Force on Middle-Class Working Families__ 
 
@@ -936,17 +938,17 @@ By the authority vested in me as President by the Constitution and the laws of t
 ----------
 ----------
 
-[/us/pl/105/339/s4/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F339%2Fs4%2Fb%2F2
+[/us/pl/105/339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F339
 [/us/stat/112/3185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3185
 [/us/pl/95/570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F570
 [/us/stat/92/2447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2447
-[/us/pl/103/329/s632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F329%2Fs632
+[/us/pl/103/329/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F329%2FtVI
 [/us/stat/108/2425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2425
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
 [/us/stat/91/1633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1633
-[/us/pl/97/195/s1/c/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F195%2Fs1%2Fc%2F5
+[/us/pl/97/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F195
 [/us/stat/96/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F115
-[/us/pl/97/195/s1/c/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F195%2Fs1%2Fc%2F5
+[/us/pl/97/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F195
 [/us/stat/96/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F115
 [/us/pl/94/282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F282
 [/us/stat/90/459]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F459

@@ -51,7 +51,7 @@
 
     (c) There are authorized to be appropriated each fiscal year such sums as may be necessary for the official expenses of the Domestic Policy Staff and the Office of Administration.
 
-(Added [Pub. L. 95–570, § 2(a)][/us/pl/95/570/s2/a], Nov. 2, 1978, [92 Stat. 2448][/us/stat/92/2448].)
+(Added [Pub. L. 95–570][/us/pl/95/570], § 2(a), Nov. 2, 1978, [92 Stat. 2448][/us/stat/92/2448].)
 
  __Prior Provisions__ 
 
@@ -67,7 +67,7 @@
 
  __Applicability of Subsec. (b) to Current Employees of Office of Administration__ 
 
-[Pub. L. 95–570, § 6(b)][/us/pl/95/570/s6/b], Nov. 2, 1978, [92 Stat. 2451][/us/stat/92/2451], provided that: 
+[Pub. L. 95–570][/us/pl/95/570], § 6(b), Nov. 2, 1978, [92 Stat. 2451][/us/stat/92/2451], provided that: 
 
 > “In the case of an individual—
 
@@ -95,7 +95,7 @@
 [/us/usc/t5/s5332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5332
 [/us/usc/t5/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3101
 [/us/usc/t3/s114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs114
-[/us/pl/95/570/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F570%2Fs2%2Fa
+[/us/pl/95/570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F570
 [/us/stat/92/2448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2448
 [/us/act/1948-06-25/ch644]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch644
 [/us/stat/62/679]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F679
@@ -105,7 +105,7 @@
 [/us/usc/t3/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs102
 [/us/pl/101/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509
 [/us/usc/t5/s5376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5376
-[/us/pl/95/570/s6/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F570%2Fs6%2Fb
+[/us/pl/95/570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F570
 [/us/stat/92/2451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2451
 [/us/usc/t3/s107/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs107%2Fb
 [/us/usc/t3/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs102

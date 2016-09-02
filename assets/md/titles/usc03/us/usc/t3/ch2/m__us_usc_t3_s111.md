@@ -17,7 +17,7 @@
 
     There shall be paid to the Vice President in equal monthly installments an expense allowance of $20,000 per annum to assist in defraying expenses relating to or resulting from the discharge of his official duties, for which no accounting, other than for income tax purposes, shall be made by him.
 
-(Added [Jan. 19, 1949, ch. 2, § 1(c)][/us/act/1949-01-19/ch2/s1/c], [63 Stat. 4][/us/stat/63/4]; amended [Oct. 20, 1951, ch. 521][/us/act/1951-10-20/ch521], title VI, § 619(b), [65 Stat. 570][/us/stat/65/570]; [Pub. L. 108–7, div. H, title I, § 1(a)][/us/pl/108/7/s1/a], Feb. 20, 2003, [117 Stat. 348][/us/stat/117/348].)
+(Added [Jan. 19, 1949, ch. 2][/us/act/1949-01-19/ch2], § 1(c), [63 Stat. 4][/us/stat/63/4]; amended [Oct. 20, 1951, ch. 521][/us/act/1951-10-20/ch521], title VI, § 619(b), [65 Stat. 570][/us/stat/65/570]; [Pub. L. 108–7, div. H, title I][/us/pl/108/7/dH/tI], § 1(a), Feb. 20, 2003, [117 Stat. 348][/us/stat/117/348].)
 
  __Amendments__ 
 
@@ -39,7 +39,7 @@
 
  __Official Temporary Residence of the Vice President__ 
 
-[Pub. L. 93–346][/us/pl/93/346], July 12, 1974, [88 Stat. 340][/us/stat/88/340], as amended by [Pub. L. 93–552, title VI, § 609(a)][/us/pl/93/552/s609/a], Dec. 27, 1974, [88 Stat. 1764][/us/stat/88/1764]; [Pub. L. 107–67, title VI][/us/pl/107/67], §§ 635, 636, Nov. 12, 2001, [115 Stat. 553][/us/stat/115/553], provided: 
+[Pub. L. 93–346][/us/pl/93/346], July 12, 1974, [88 Stat. 340][/us/stat/88/340], as amended by [Pub. L. 93–552, title VI][/us/pl/93/552/tVI], § 609(a), Dec. 27, 1974, [88 Stat. 1764][/us/stat/88/1764]; [Pub. L. 107–67, title VI][/us/pl/107/67/tVI], §§ 635, 636, Nov. 12, 2001, [115 Stat. 553][/us/stat/115/553], provided: 
 
 > “That effective July 1, 1974, the Government-owned house together with furnishings, associated grounds (consisting of twelve acres, more or less), and related facilities which have heretofore been used as the residence of the Chief of Naval Operations, Department of the Navy, shall, on and after such date be available for, and are hereby designated as, the temporary official residence of the Vice President of the United States.
 
@@ -82,11 +82,11 @@
 ----------
 ----------
 
-[/us/act/1949-01-19/ch2/s1/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-01-19%2Fch2%2Fs1%2Fc
+[/us/act/1949-01-19/ch2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-01-19%2Fch2
 [/us/stat/63/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F4
 [/us/act/1951-10-20/ch521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-10-20%2Fch521
 [/us/stat/65/570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F65%2F570
-[/us/pl/108/7/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2Fs1%2Fa
+[/us/pl/108/7/dH/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2FdH%2FtI
 [/us/stat/117/348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F348
 [/us/pl/108/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7
 [/us/pl/108/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7
@@ -95,9 +95,9 @@
 [/us/usc/t3/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs102
 [/us/pl/93/346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F346
 [/us/stat/88/340]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F340
-[/us/pl/93/552/s609/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F552%2Fs609%2Fa
+[/us/pl/93/552/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F552%2FtVI
 [/us/stat/88/1764]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1764
-[/us/pl/107/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F67
+[/us/pl/107/67/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F67%2FtVI
 [/us/stat/115/553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F553
 [/us/usc/t3/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs202
 [/us/usc/t18/s3056/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3056%2Fa

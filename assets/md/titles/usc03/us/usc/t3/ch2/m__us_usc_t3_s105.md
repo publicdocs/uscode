@@ -71,7 +71,7 @@
 
     (e) Assistance and services authorized pursuant to this section to the President are authorized to be provided to the spouse of the President in connection with assistance provided by such spouse to the President in the discharge of the President’s duties and responsibilities. If the President does not have a spouse, such assistance and services may be provided for such purposes to a member of the President’s family whom the President designates.
 
-([June 25, 1948, ch. 644][/us/act/1948-06-25/ch644], [62 Stat. 678][/us/stat/62/678]; [Oct. 15, 1949, ch. 695, § 2(a)][/us/act/1949-10-15/ch695/s2/a], [63 Stat. 880][/us/stat/63/880]; [July 31, 1956, ch. 804][/us/act/1956-07-31/ch804], title I, § 109, [70 Stat. 740][/us/stat/70/740]; [Pub. L. 87–367, title III, § 303(h)][/us/pl/87/367/s303/h], Oct. 4, 1961, [75 Stat. 794][/us/stat/75/794]; [Pub. L. 88–426, title III, § 304(b)][/us/pl/88/426/s304/b], Aug. 14, 1964, [78 Stat. 422][/us/stat/78/422]; [Pub. L. 90–222, title I, § 111(c)][/us/pl/90/222/s111/c], Dec. 23, 1967, [81 Stat. 726][/us/stat/81/726]; [Pub. L. 95–570, § 1(a)][/us/pl/95/570/s1/a], Nov. 2, 1978, [92 Stat. 2445][/us/stat/92/2445].)
+([June 25, 1948, ch. 644][/us/act/1948-06-25/ch644], [62 Stat. 678][/us/stat/62/678]; [Oct. 15, 1949, ch. 695][/us/act/1949-10-15/ch695], § 2(a), [63 Stat. 880][/us/stat/63/880]; [July 31, 1956, ch. 804][/us/act/1956-07-31/ch804], title I, § 109, [70 Stat. 740][/us/stat/70/740]; [Pub. L. 87–367, title III][/us/pl/87/367/tIII], § 303(h), Oct. 4, 1961, [75 Stat. 794][/us/stat/75/794]; [Pub. L. 88–426, title III][/us/pl/88/426/tIII], § 304(b), Aug. 14, 1964, [78 Stat. 422][/us/stat/78/422]; [Pub. L. 90–222, title I][/us/pl/90/222/tI], § 111(c), Dec. 23, 1967, [81 Stat. 726][/us/stat/81/726]; [Pub. L. 95–570][/us/pl/95/570], § 1(a), Nov. 2, 1978, [92 Stat. 2445][/us/stat/92/2445].)
 
  __Amendments__ 
 
@@ -113,7 +113,7 @@
 
  __Repeals__ 
 
-    [Act July 31, 1956, ch. 804][/us/act/1956-07-31/ch804], title I, § 109, [70 Stat. 740][/us/stat/70/740], cited as a credit to this section, was repealed by [Pub. L. 88–426, title III, § 305(1)][/us/pl/88/426/s305/1], Aug. 14, 1964, [78 Stat. 422][/us/stat/78/422].
+    [Act July 31, 1956, ch. 804, title I][/us/act/1956-07-31/ch804/tI], § 109, [70 Stat. 740][/us/stat/70/740], cited as a credit to this section, was repealed by [Pub. L. 88–426, title III][/us/pl/88/426/tIII], § 305(1), Aug. 14, 1964, [78 Stat. 422][/us/stat/78/422].
 
  __Abolition of National Aeronautics and Space Council__ 
 
@@ -141,17 +141,17 @@
 [/us/usc/t5/s5332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5332
 [/us/act/1948-06-25/ch644]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch644
 [/us/stat/62/678]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F678
-[/us/act/1949-10-15/ch695/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-15%2Fch695%2Fs2%2Fa
+[/us/act/1949-10-15/ch695]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-15%2Fch695
 [/us/stat/63/880]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F880
 [/us/act/1956-07-31/ch804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-07-31%2Fch804
 [/us/stat/70/740]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F740
-[/us/pl/87/367/s303/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F367%2Fs303%2Fh
+[/us/pl/87/367/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F367%2FtIII
 [/us/stat/75/794]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F794
-[/us/pl/88/426/s304/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F426%2Fs304%2Fb
+[/us/pl/88/426/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F426%2FtIII
 [/us/stat/78/422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F422
-[/us/pl/90/222/s111/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F222%2Fs111%2Fc
+[/us/pl/90/222/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F222%2FtI
 [/us/stat/81/726]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F726
-[/us/pl/95/570/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F570%2Fs1%2Fa
+[/us/pl/95/570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F570
 [/us/stat/92/2445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2445
 [/us/pl/95/570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F570
 [/us/pl/90/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F222
@@ -170,9 +170,9 @@
 [/us/pl/87/367]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F367
 [/us/pl/87/367/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F367%2Fs305
 [/us/usc/t2/s273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs273
-[/us/act/1956-07-31/ch804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-07-31%2Fch804
+[/us/act/1956-07-31/ch804/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-07-31%2Fch804%2FtI
 [/us/stat/70/740]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F740
-[/us/pl/88/426/s305/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F426%2Fs305%2F1
+[/us/pl/88/426/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F426%2FtIII
 [/us/stat/78/422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F422
 [/us/pl/101/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509
 [/us/usc/t5/s5376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5376

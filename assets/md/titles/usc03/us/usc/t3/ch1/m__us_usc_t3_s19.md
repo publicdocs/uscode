@@ -43,7 +43,7 @@
 
     (f) During the period that any individual acts as President under this section, his compensation shall be at the rate then provided by law in the case of the President.
 
-([June 25, 1948, ch. 644][/us/act/1948-06-25/ch644], [62 Stat. 677][/us/stat/62/677]; [Pub. L. 89–174, § 6(a)][/us/pl/89/174/s6/a], Sept. 9, 1965, [79 Stat. 669][/us/stat/79/669]; [Pub. L. 89–670, § 10(a)][/us/pl/89/670/s10/a], Oct. 15, 1966, [80 Stat. 948][/us/stat/80/948]; [Pub. L. 91–375, § 6(b)][/us/pl/91/375/s6/b], Aug. 12, 1970, [84 Stat. 775][/us/stat/84/775]; [Pub. L. 95–91, title VII, § 709(g)][/us/pl/95/91/s709/g], Aug. 4, 1977, [91 Stat. 609][/us/stat/91/609]; [Pub. L. 96–88, title V, § 508(a)][/us/pl/96/88/s508/a], Oct. 17, 1979, [93 Stat. 692][/us/stat/93/692]; [Pub. L. 100–527, § 13(a)][/us/pl/100/527/s13/a], Oct. 25, 1988, [102 Stat. 2643][/us/stat/102/2643]; [Pub. L. 109–177, title V, § 503][/us/pl/109/177/s503], Mar. 9, 2006, [120 Stat. 247][/us/stat/120/247].)
+([June 25, 1948, ch. 644][/us/act/1948-06-25/ch644], [62 Stat. 677][/us/stat/62/677]; [Pub. L. 89–174][/us/pl/89/174], § 6(a), Sept. 9, 1965, [79 Stat. 669][/us/stat/79/669]; [Pub. L. 89–670][/us/pl/89/670], § 10(a), Oct. 15, 1966, [80 Stat. 948][/us/stat/80/948]; [Pub. L. 91–375][/us/pl/91/375], § 6(b), Aug. 12, 1970, [84 Stat. 775][/us/stat/84/775]; [Pub. L. 95–91, title VII][/us/pl/95/91/tVII], § 709(g), Aug. 4, 1977, [91 Stat. 609][/us/stat/91/609]; [Pub. L. 96–88, title V][/us/pl/96/88/tV], § 508(a), Oct. 17, 1979, [93 Stat. 692][/us/stat/93/692]; [Pub. L. 100–527][/us/pl/100/527], § 13(a), Oct. 25, 1988, [102 Stat. 2643][/us/stat/102/2643]; [Pub. L. 109–177, title V][/us/pl/109/177/tV], § 503, Mar. 9, 2006, [120 Stat. 247][/us/stat/120/247].)
 
  __Amendments__ 
 
@@ -90,19 +90,19 @@
 
 [/us/act/1948-06-25/ch644]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch644
 [/us/stat/62/677]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F677
-[/us/pl/89/174/s6/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F174%2Fs6%2Fa
+[/us/pl/89/174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F174
 [/us/stat/79/669]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F669
-[/us/pl/89/670/s10/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F670%2Fs10%2Fa
+[/us/pl/89/670]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F670
 [/us/stat/80/948]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F948
-[/us/pl/91/375/s6/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F375%2Fs6%2Fb
+[/us/pl/91/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F375
 [/us/stat/84/775]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F775
-[/us/pl/95/91/s709/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2Fs709%2Fg
+[/us/pl/95/91/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2FtVII
 [/us/stat/91/609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F609
-[/us/pl/96/88/s508/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs508%2Fa
+[/us/pl/96/88/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2FtV
 [/us/stat/93/692]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F692
-[/us/pl/100/527/s13/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F527%2Fs13%2Fa
+[/us/pl/100/527]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F527
 [/us/stat/102/2643]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2643
-[/us/pl/109/177/s503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2Fs503
+[/us/pl/109/177/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2FtV
 [/us/stat/120/247]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F247
 [/us/pl/109/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177
 [/us/pl/100/527]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F527
