@@ -47,9 +47,13 @@
 
                     (I) for plan years beginning after December 31, 2005, and before January 1, 2013, $30;
 
-                    (II) for plan years beginning after December 31, 2012, and before January 1, 2014, $42; and
+                    (II) for plan years beginning after December 31, 2012, and before January 1, 2014, $42;
 
-                    (III) for plan years beginning after December 31, 2013, $49. <sup>\[1\]</sup>  <sup><sup> 1 So in original. The period probably should be a comma. </sup></sup> 
+                    (III) for plan years beginning after December 31, 2013 and before January 1, 2015,, <sup>\[1\]</sup>  <sup><sup> 1 So in original. The second comma probably should follow “2013”. </sup></sup>  $49. <sup>\[2\]</sup>  <sup><sup> 2 So in original. The period probably should be a semicolon. </sup></sup> 
+
+                    (IV) for plan years beginning after December 31, 2014, and before January 1, 2016, $57; and
+
+                    (V) for plan years beginning after December 31, 2015, and before January 1, 2017, $64.
 
                 (ii)
 
@@ -107,9 +111,11 @@
 
                  Except as provided in subparagraph (H), the additional premium determined under this subparagraph with respect to any plan for any plan year—
 
-                    (I) shall be an amount equal to the amount determined under clause (ii) divided by the number of participants in such plan as of the close of the preceding plan year; and
+                    (I) shall be an amount equal to the amount determined under clause (ii) divided by the number of participants in such plan as of the close of the preceding plan year;
 
-                    (II) in the case of plan years beginning in a calendar year after 2012, shall not exceed $400.
+                    (II) in the case of plan years beginning in a calendar year after 2012 and before 2016, shall not exceed $400  <sup>\[3\]</sup>  <sup><sup> 3 So in original. Probably should be followed by a semicolon. </sup></sup>  and
+
+                    (III) in the case of plan years beginning in a calendar year after 2015, shall not exceed $500.
 
                 (ii) The amount determined under this clause for any plan year shall be an amount equal to the applicable dollar amount under paragraph (8) for each $1,000 (or fraction thereof) of unfunded vested benefits under the plan as of the close of the preceding plan year.
 
@@ -125,7 +131,7 @@
 
             (F)
 
-             For each plan year beginning in a calendar year after 2006, there shall be substituted for the premium rate specified in clause (i) of subparagraph (A) an amount equal to the greater of—
+             For each plan year beginning in a calendar year after 2006 and before 2013, there shall be substituted for the premium rate specified in clause (i) of subparagraph (A) an amount equal to the greater of—
 
                 (i)
 
@@ -137,9 +143,25 @@
 
                 (ii) the premium rate in effect under clause (i) of subparagraph (A) for plan years beginning in the preceding calendar year.
 
-                If the amount determined under this subparagraph is not a multiple of $1, such product shall be rounded to the nearest multiple of $1. This subparagraph shall not apply to plan years beginning in 2013 or 2014.
+                If the amount determined under this subparagraph is not a multiple of $1, such product shall be rounded to the nearest multiple of $1.
 
             (G)
+
+             For each plan year beginning in a calendar year after 2016, there shall be substituted for the premium rate specified in clause (i) of subparagraph (A) an amount equal to the greater of—
+
+                (i)
+
+                 the product derived by multiplying the premium rate specified in clause (i) of subparagraph (A) by the ratio of—
+
+                    (I) the national average wage index (as defined in [section 409(k)(1) of title 42][/us/usc/t42/s409/k/1]) for the first of the 2 calendar years preceding the calendar year in which such plan year begins, to
+
+                    (II) the national average wage index (as so defined) for 2014; and
+
+                (ii) the premium rate in effect under clause (i) of subparagraph (A) for plan years beginning in the preceding calendar year.
+
+                If the amount determined under this subparagraph is not a multiple of $1, such product shall be rounded to the nearest multiple of $1.
+
+            (H)
 
              For each plan year beginning in a calendar year after 2006, there shall be substituted for the premium rate specified in clause (iv) of subparagraph (A) an amount equal to the greater of—
 
@@ -155,13 +177,13 @@
 
                 If the amount determined under this subparagraph is not a multiple of $1, such product shall be rounded to the nearest multiple of $1.
 
-            (H)
+            (I)
 
                 (i) In the case of an employer who has 25 or fewer employees on the first day of the plan year, the additional premium determined under subparagraph (E) for each participant shall not exceed $5 multiplied by the number of participants in the plan as of the close of the preceding plan year.
 
                 (ii) For purposes of clause (i), whether an employer has 25 or fewer employees on the first day of the plan year is determined by taking into consideration all of the employees of all members of the contributing sponsor’s controlled group. In the case of a plan maintained by two or more contributing sponsors, the employees of all contributing sponsors and their controlled groups shall be aggregated for purposes of determining whether the 25-or-fewer-employees limitation has been satisfied.
 
-            (I)
+            (J)
 
              For each plan year beginning in a calendar year after 2013, there shall be substituted for the premium rate specified in clause (v) of subparagraph (A) an amount equal to the greater of—
 
@@ -177,9 +199,9 @@
 
                 If the amount determined under this subparagraph is not a multiple of $1, such product shall be rounded to the nearest multiple of $1.
 
-            (J)
+            (K)
 
-             For each plan year beginning in a calendar year after 2013, there shall be substituted for the dollar amount specified in subclause (II) of subparagraph (E)(i) an amount equal to the greater of—
+             For each plan year beginning in a calendar year after 2013 and before 2016, there shall be substituted for the dollar amount specified in subclause (II) of subparagraph (E)(i) an amount equal to the greater of—
 
                 (i)
 
@@ -188,6 +210,22 @@
                     (I) the national average wage index (as defined in [section 409(k)(1) of title 42][/us/usc/t42/s409/k/1]) for the first of the 2 calendar years preceding the calendar year in which such plan year begins, to
 
                     (II) the national average wage index (as so defined) for 2011; and
+
+                (ii) such dollar amount for plan years beginning in the preceding calendar year.
+
+                If the amount determined under this subparagraph is not a multiple of $1, such product shall be rounded to the nearest multiple of $1.
+
+            (L)
+
+             For each plan year beginning in a calendar year after 2016, there shall be substituted for the dollar amount specified in subclause (III) of subparagraph (E)(i) an amount equal to the greater of—
+
+                (i)
+
+                 the product derived by multiplying such dollar amount by the ratio of—
+
+                    (I) the national average wage index (as defined in [section 409(k)(1) of title 42][/us/usc/t42/s409/k/1]) for the first of the 2 calendar years preceding the calendar year in which such plan year begins, to
+
+                    (II) the national average wage index (as so defined) for 2014; and
 
                 (ii) such dollar amount for plan years beginning in the preceding calendar year.
 
@@ -285,9 +323,11 @@
 
                 (i) $9 for plan years beginning in a calendar year before 2015;
 
-                (ii) for plan years beginning in calendar year 2015, the amount in effect for plan years beginning in 2014 (determined after application of subparagraph (C)); and
+                (ii) for plan years beginning in calendar year 2015, the amount in effect for plan years beginning in 2014 (determined after application of subparagraph (C));
 
-                (iii) for plan years beginning after calendar year 2015, the amount in effect for plan years beginning in 2015 (determined after application of subparagraph (C)).
+                (iii) for plan years beginning after calendar year 2015, the amount in effect for plan years beginning in 2015 (determined after application of subparagraph (C)); and
+
+                (iv) for plan years beginning after calendar year 2016, the amount in effect for plan years beginning in 2016 (determined after application of subparagraph (C)).
 
             (B)  __Adjustment for inflation__  __.—__ 
 
@@ -309,9 +349,11 @@
 
             The applicable dollar amount determined under subparagraph (A) (after the application of subparagraph (B)) shall be increased—
 
-                (i) in the case of plan years beginning in calendar year 2014, by $4; and
+                (i) in the case of plan years beginning in calendar year 2014, by $4;
 
-                (ii) in the case of plan years beginning in calendar year 2015, by $5.
+                (ii) in the case of plan years beginning in calendar year 2015, by $10; and
+
+                (iii) in the case of plan years beginning in calendar year 2016, by $5.
 
             (D)  __Base year__  __.—__ 
 
@@ -319,9 +361,11 @@
 
                 (i) 2010, in the case of plan years beginning in calendar year 2013 or 2014;
 
-                (ii) 2012, in the case of plan years beginning in calendar year 2015; and
+                (ii) 2012, in the case of plan years beginning in calendar year 2015;
 
-                (iii) 2013, in the case of plan years beginning after calendar year 2015.
+                (iii) 2013, in the case of plan years beginning after calendar year 2015; and
+
+                (iv) 2014, in the case of plan years beginning after calendar year 2016.
 
     (b) __Revised schedule; Congressional procedures applicable__ 
 
@@ -351,7 +395,7 @@
 
                 (i) with respect to each plan year beginning before January 1, 1978, an amount equal to $1 for each individual who was a participant in such plan during the plan year,
 
-                (ii) with respect to each plan year beginning after December 31, 1977, and before January 1, 1986, an amount equal to $2.60 for each individual who was a participant in such plan during the plan year, and  <sup>\[2\]</sup>  <sup><sup> 2 So in original. The word “and” probably should not appear. </sup></sup> 
+                (ii) with respect to each plan year beginning after December 31, 1977, and before January 1, 1986, an amount equal to $2.60 for each individual who was a participant in such plan during the plan year, and  <sup>\[4\]</sup>  <sup><sup> 4 So in original. The word “and” probably should not appear. </sup></sup> 
 
                 (iii) with respect to each plan year beginning after December 31, 1985, and before January 1, 1988, an amount equal to $8.50 for each individual who was a participant in such plan during the plan year, and
 
@@ -373,13 +417,43 @@
 
                 (ii) the denominator of which is 12.
 
-([Pub. L. 93–406, title IV, § 4006][/us/pl/93/406/s4006], Sept. 2, 1974, [88 Stat. 1010][/us/stat/88/1010]; [Pub. L. 96–364, title I, § 105][/us/pl/96/364/s105], Sept. 26, 1980, [94 Stat. 1264][/us/stat/94/1264]; [Pub. L. 99–272, title XI, § 11005(a)][/us/pl/99/272/s11005/a]–(c)(3), Apr. 7, 1986, [100 Stat. 240–242][/us/stat/100/240-242]; [Pub. L. 100–203, title IX, § 9331(a)][/us/pl/100/203/s9331/a], (b), (e), Dec. 22, 1987, [101 Stat. 1330–367][/us/stat/101/1330-367], 1330–368; [Pub. L. 101–239, title VII, § 7881(h)][/us/pl/101/239/s7881/h], Dec. 19, 1989, [103 Stat. 2442][/us/stat/103/2442]; [Pub. L. 101–508, title XII, § 12021(a)][/us/pl/101/508/s12021/a], (b), Nov. 5, 1990, [104 Stat. 1388–573][/us/stat/104/1388-573]; [Pub. L. 103–465, title VII, § 774(a)(1)][/us/pl/103/465/s774/a/1], (b)(1), (2), Dec. 8, 1994, [108 Stat. 5045][/us/stat/108/5045], 5046; [Pub. L. 107–147, title IV, § 405(c)][/us/pl/107/147/s405/c], Mar. 9, 2002, [116 Stat. 43][/us/stat/116/43]; [Pub. L. 108–218, title I, § 101(a)(4)][/us/pl/108/218/s101/a/4], Apr. 10, 2004, [118 Stat. 597][/us/stat/118/597]; [Pub. L. 108–311, title IV, § 403(d)][/us/pl/108/311/s403/d], Oct. 4, 2004, [118 Stat. 1187][/us/stat/118/1187]; [Pub. L. 109–171, title VIII, § 8101(a)][/us/pl/109/171/s8101/a]–(c), Feb. 8, 2006, [120 Stat. 180–182][/us/stat/120/180-182]; [Pub. L. 109–280, title III, § 301(a)(3)][/us/pl/109/280/s301/a/3], title IV, §§ 401(a)(1), (b)(1), (2)(A), 405(a), Aug. 17, 2006, [120 Stat. 919][/us/stat/120/919], 922, 928; [Pub. L. 110–458, title I, § 104(a)][/us/pl/110/458/s104/a], Dec. 23, 2008, [122 Stat. 5104][/us/stat/122/5104]; [Pub. L. 112–141, div. D, title II][/us/pl/112/141], §§ 40211(b)(3)(C), 40221, 40222, July 6, 2012, [126 Stat. 849–852][/us/stat/126/849-852].)
+([Pub. L. 93–406, title IV, § 4006][/us/pl/93/406/s4006], Sept. 2, 1974, [88 Stat. 1010][/us/stat/88/1010]; [Pub. L. 96–364, title I, § 105][/us/pl/96/364/s105], Sept. 26, 1980, [94 Stat. 1264][/us/stat/94/1264]; [Pub. L. 99–272, title XI, § 11005(a)][/us/pl/99/272/s11005/a]–(c)(3), Apr. 7, 1986, [100 Stat. 240–242][/us/stat/100/240-242]; [Pub. L. 100–203, title IX, § 9331(a)][/us/pl/100/203/s9331/a], (b), (e), Dec. 22, 1987, [101 Stat. 1330–367][/us/stat/101/1330-367], 1330–368; [Pub. L. 101–239, title VII, § 7881(h)][/us/pl/101/239/s7881/h], Dec. 19, 1989, [103 Stat. 2442][/us/stat/103/2442]; [Pub. L. 101–508, title XII, § 12021(a)][/us/pl/101/508/s12021/a], (b), Nov. 5, 1990, [104 Stat. 1388–573][/us/stat/104/1388-573]; [Pub. L. 103–465, title VII, § 774(a)(1)][/us/pl/103/465/s774/a/1], (b)(1), (2), Dec. 8, 1994, [108 Stat. 5045][/us/stat/108/5045], 5046; [Pub. L. 107–147, title IV, § 405(c)][/us/pl/107/147/s405/c], Mar. 9, 2002, [116 Stat. 43][/us/stat/116/43]; [Pub. L. 108–218, title I, § 101(a)(4)][/us/pl/108/218/s101/a/4], Apr. 10, 2004, [118 Stat. 597][/us/stat/118/597]; [Pub. L. 108–311, title IV, § 403(d)][/us/pl/108/311/s403/d], Oct. 4, 2004, [118 Stat. 1187][/us/stat/118/1187]; [Pub. L. 109–171, title VIII, § 8101(a)][/us/pl/109/171/s8101/a]–(c), Feb. 8, 2006, [120 Stat. 180–182][/us/stat/120/180-182]; [Pub. L. 109–280, title III, § 301(a)(3)][/us/pl/109/280/s301/a/3], title IV, §§ 401(a)(1), (b)(1), (2)(A), 405(a), Aug. 17, 2006, [120 Stat. 919][/us/stat/120/919], 922, 928; [Pub. L. 110–458, title I, § 104(a)][/us/pl/110/458/s104/a], Dec. 23, 2008, [122 Stat. 5104][/us/stat/122/5104]; [Pub. L. 112–141, div. D, title II][/us/pl/112/141], §§ 40211(b)(3)(C), 40221, 40222, July 6, 2012, [126 Stat. 849–852][/us/stat/126/849-852]; [Pub. L. 113–67, div. A, title VII, § 703(a)][/us/pl/113/67/s703/a]–(d), Dec. 26, 2013, [127 Stat. 1190][/us/stat/127/1190], 1191.)
 
  __References in Text__ 
 
     The plan year within which the date of enactment of the Multiemployer Pension Plan Amendments Act of 1980 falls, referred to in subsec. (a)(3)(A)(ii), refers to the plan year within which the date of the enactment of [Pub. L. 96–364][/us/pl/96/364] falls, such enactment being approved Sept. 26, 1980.
 
  __Amendments__ 
+
+    2013—Subsec. (a)(3)(A)(i)(III). [Pub. L. 113–67, § 703(a)(2)][/us/pl/113/67/s703/a/2], inserted “and before January 1, 2015,” after “December 31, 2013”.
+
+    Subsec. (a)(3)(A)(i)(IV), (V). [Pub. L. 113–67, § 703(a)(1)][/us/pl/113/67/s703/a/1], (3), added subcls. (IV) and (V).
+
+    Subsec. (a)(3)(E)(i)(I). [Pub. L. 113–67, § 703(d)(1)(A)][/us/pl/113/67/s703/d/1/A], struck out “and” at end.
+
+    Subsec. (a)(3)(E)(i)(II). [Pub. L. 113–67, § 703(d)(1)(B)][/us/pl/113/67/s703/d/1/B], inserted “and before 2016” after “2012” and substituted “and” for period at end.
+
+    Subsec. (a)(3)(E)(i)(III). [Pub. L. 113–67, § 703(d)(1)(C)][/us/pl/113/67/s703/d/1/C], added subcl. (III).
+
+    Subsec. (a)(3)(F). [Pub. L. 113–67, § 703(b)(2)][/us/pl/113/67/s703/b/2], inserted “and before 2013” after “after 2006” in introductory provisions and struck out “This subparagraph shall not apply to plan years beginning in 2013 or 2014.” at end of concluding provisions.
+
+    Subsec. (a)(3)(G). [Pub. L. 113–67, § 703(b)(1)(B)][/us/pl/113/67/s703/b/1/B], added subpar. (G). Former subpar. (G) redesignated (H).
+
+    Subsec. (a)(3)(H) to (J). [Pub. L. 113–67, § 703(b)(1)(A)][/us/pl/113/67/s703/b/1/A], redesignated subpars. (G) to (I) as (H) to (J), respectively. Former subpar. (J) redesignated (K).
+
+    Subsec. (a)(3)(K). [Pub. L. 113–67, § 703(d)(2)(A)][/us/pl/113/67/s703/d/2/A], inserted “and before 2016” after “2013” in introductory provisions.
+
+    [Pub. L. 113–67, § 703(b)(1)(A)][/us/pl/113/67/s703/b/1/A], redesignated subpar. (J) as (K).
+
+    Subsec. (a)(3)(L). [Pub. L. 113–67, § 703(d)(2)(B)][/us/pl/113/67/s703/d/2/B], added subpar. (L).
+
+    Subsec. (a)(8)(A)(iv). [Pub. L. 113–67, § 703(c)(2)(A)][/us/pl/113/67/s703/c/2/A], added cl. (iv).
+
+    Subsec. (a)(8)(C)(ii). [Pub. L. 113–67, § 703(c)(1)(B)][/us/pl/113/67/s703/c/1/B], substituted “$10” for “$5”.
+
+    Subsec. (a)(8)(C)(iii). [Pub. L. 113–67, § 703(c)(1)][/us/pl/113/67/s703/c/1], added cl. (iii).
+
+    Subsec. (a)(8)(D)(iv). [Pub. L. 113–67, § 703(c)(2)(B)][/us/pl/113/67/s703/c/2/B], added cl. (iv).
 
     2012—Subsec. (a)(3)(A)(i). [Pub. L. 112–141, § 40221(a)(1)][/us/pl/112/141/s40221/a/1], amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: “in the case of a single-employer plan, for plan years beginning after December 31, 2005, an amount equal to the sum of $30 plus the additional premium (if any) determined under subparagraph (E) for each individual who is a participant in such plan during the plan year;”.
 
@@ -490,6 +564,12 @@
     Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
 
     Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
+
+ __Effective Date of 2013 Amendment__ 
+
+[Pub. L. 113–67, div. A, title VII, § 703(e)][/us/pl/113/67/s703/e], Dec. 26, 2013, [127 Stat. 1192][/us/stat/127/1192], provided that: 
+
+> “The amendments made by this section \[amending this section\] shall apply to plan years beginning after December 31, 2013.”
 
  __Effective Date of 2012 Amendment__ 
 
@@ -726,6 +806,8 @@
 [/us/usc/t42/s409/k/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs409%2Fk%2F1
 [/us/usc/t42/s409/k/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs409%2Fk%2F1
 [/us/usc/t42/s409/k/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs409%2Fk%2F1
+[/us/usc/t42/s409/k/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs409%2Fk%2F1
+[/us/usc/t42/s409/k/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs409%2Fk%2F1
 [/us/usc/t29/s1322a/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1322a%2Ff
 [/us/usc/t29/s1322a/g/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1322a%2Fg%2F2
 [/us/usc/t29/s1322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1322
@@ -765,7 +847,24 @@
 [/us/stat/122/5104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F5104
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/stat/126/849-852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F849-852
+[/us/pl/113/67/s703/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs703%2Fa
+[/us/stat/127/1190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1190
 [/us/pl/96/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F364
+[/us/pl/113/67/s703/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs703%2Fa%2F2
+[/us/pl/113/67/s703/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs703%2Fa%2F1
+[/us/pl/113/67/s703/d/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs703%2Fd%2F1%2FA
+[/us/pl/113/67/s703/d/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs703%2Fd%2F1%2FB
+[/us/pl/113/67/s703/d/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs703%2Fd%2F1%2FC
+[/us/pl/113/67/s703/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs703%2Fb%2F2
+[/us/pl/113/67/s703/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs703%2Fb%2F1%2FB
+[/us/pl/113/67/s703/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs703%2Fb%2F1%2FA
+[/us/pl/113/67/s703/d/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs703%2Fd%2F2%2FA
+[/us/pl/113/67/s703/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs703%2Fb%2F1%2FA
+[/us/pl/113/67/s703/d/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs703%2Fd%2F2%2FB
+[/us/pl/113/67/s703/c/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs703%2Fc%2F2%2FA
+[/us/pl/113/67/s703/c/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs703%2Fc%2F1%2FB
+[/us/pl/113/67/s703/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs703%2Fc%2F1
+[/us/pl/113/67/s703/c/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs703%2Fc%2F2%2FB
 [/us/pl/112/141/s40221/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs40221%2Fa%2F1
 [/us/pl/112/141/s40222/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs40222%2Fa%2F1
 [/us/pl/112/141/s40222/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs40222%2Fa%2F2
@@ -821,6 +920,8 @@
 [/us/pl/96/364/s105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F364%2Fs105%2Fa
 [/us/pl/96/364/s105/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F364%2Fs105%2Fb
 [/us/pl/96/364/s105/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F364%2Fs105%2Fc
+[/us/pl/113/67/s703/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs703%2Fe
+[/us/stat/127/1192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1192
 [/us/pl/112/141/s40211/b/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs40211%2Fb%2F3%2FC
 [/us/pl/112/141/s40211/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs40211%2Fc
 [/us/usc/t26/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs404

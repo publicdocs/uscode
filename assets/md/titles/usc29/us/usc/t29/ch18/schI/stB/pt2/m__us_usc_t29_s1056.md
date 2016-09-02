@@ -113,7 +113,7 @@
 
                     (I) the date on which the participant is entitled to a distribution under the plan, or
 
-                    (II) the later of the date of the participant attains age 50 or the earliest date on which the participant could begin receiving benefits under the plan if the participant separated from service.
+                    (II) the later of the date of  <sup>\[1\]</sup>  <sup><sup> 1 So in original. The word “of” probably should not appear. </sup></sup>  the participant attains age 50 or the earliest date on which the participant could begin receiving benefits under the plan if the participant separated from service.
 
             (F)
 
@@ -349,7 +349,7 @@
 
             (E) __Prohibited payment__ 
 
-            For purpose  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “purposes”. </sup></sup>  of this paragraph, the term “prohibited payment” means—
+            For purpose  <sup>\[2\]</sup>  <sup><sup> 2 So in original. Probably should be “purposes”. </sup></sup>  of this paragraph, the term “prohibited payment” means—
 
                 (i) any payment, in excess of the monthly amount paid under a single life annuity (plus any social security supplements described in the last sentence of [section 1054(b)(1)(G) of this title][/us/usc/t29/s1054/b/1/G]), to a participant or beneficiary whose annuity starting date (as defined in [section 1055(h)(2) of this title][/us/usc/t29/s1055/h/2]) occurs during any period a limitation under subparagraph (A) or (B) is in effect,
 
