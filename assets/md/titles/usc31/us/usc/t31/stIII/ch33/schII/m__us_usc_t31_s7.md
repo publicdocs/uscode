@@ -25,7 +25,7 @@
 
 >         “(1)  __In general__  __.—__ 
 
->         Not later than 1 year after the date of enactment of this section \[Dec. 18, 2015\], the Director of the Office of Management and Budget, in consultation with the Council of the Inspectors General on Integrity and Efficiency, the heads of other relevant Federal, State, and local agencies, and Indian tribes and tribal organizations, as appropriate, shall issue guidance regarding implementation of the Do Not Pay Initiative under section 5 to—
+>         Not later than 1 year after the date of enactment of this section, the Director of the Office of Management and Budget, in consultation with the Council of the Inspectors General on Integrity and Efficiency, the heads of other relevant Federal, State, and local agencies, and Indian tribes and tribal organizations, as appropriate, shall issue guidance regarding implementation of the Do Not Pay Initiative under section 5 to—
 
 >             “(A) the Department of the Treasury; and
 
