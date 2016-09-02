@@ -27,7 +27,7 @@
 
     (b) __Timing of report__ 
 
-        A laboratory shall submit the report required under subsection (a) of this section to the Secretary, the Secretary of Health and Human Services, and the owner of such food as soon as practicable after the completion of the analysis of such food.
+        A laboratory shall submit the report required under subsection (a) to the Secretary, the Secretary of Health and Human Services, and the owner of such food as soon as practicable after the completion of the analysis of such food.
 
     (c) __Guidelines__ 
 

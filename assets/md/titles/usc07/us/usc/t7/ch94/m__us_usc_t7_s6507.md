@@ -23,7 +23,7 @@
 
         (1) __Authority__ 
 
-            A State organic certification program established under subsection (a) of this section may contain more restrictive requirements governing the organic certification of farms and handling operations and the production and handling of agricultural products that are to be sold or labeled as organically produced under this chapter than are contained in the program established by the Secretary.
+            A State organic certification program established under subsection (a) may contain more restrictive requirements governing the organic certification of farms and handling operations and the production and handling of agricultural products that are to be sold or labeled as organically produced under this chapter than are contained in the program established by the Secretary.
 
         (2) __Content__ 
 

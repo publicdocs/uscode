@@ -35,7 +35,7 @@
 
     (c) __Purchase prices__ 
 
-        The support purchase prices under this section for each of the products of milk (butter, cheese, and nonfat dry milk) announced by the Secretary shall be the same for all of that product sold by persons offering to sell the product to the Secretary. The purchase prices shall be sufficient to enable plants of average efficiency to pay producers, on average, a price that is not less than the rate of price support for milk in effect under subsection (b) of this section.
+        The support purchase prices under this section for each of the products of milk (butter, cheese, and nonfat dry milk) announced by the Secretary shall be the same for all of that product sold by persons offering to sell the product to the Secretary. The purchase prices shall be sufficient to enable plants of average efficiency to pay producers, on average, a price that is not less than the rate of price support for milk in effect under subsection (b).
 
     (d) __Special rule for butter and nonfat dry milk purchase prices__ 
 
@@ -51,7 +51,7 @@
 
         (1) __Refund required__ 
 
-            The Secretary shall provide for a refund of the entire reduction required under section 204(h)(2) of the Agricultural Act of 1949 ([7 U.S.C. 1446e(h)(2)][/us/usc/t7/s1446e/h/2]), as in effect on the day before the amendment made by subsection (g) of this section, in the price of milk received by a producer during calendar year 1995 or 1996, if the producer provides evidence that the producer did not increase marketings in calendar year 1995 or 1996 when compared to calendar year 1994 or 1995, respectively.
+            The Secretary shall provide for a refund of the entire reduction required under section 204(h)(2) of the Agricultural Act of 1949 ([7 U.S.C. 1446e(h)(2)][/us/usc/t7/s1446e/h/2]), as in effect on the day before the amendment made by subsection (g), in the price of milk received by a producer during calendar year 1995 or 1996, if the producer provides evidence that the producer did not increase marketings in calendar year 1995 or 1996 when compared to calendar year 1994 or 1995, respectively.
 
         (2) __Exception__ 
 
@@ -69,7 +69,7 @@
 
     (h) __Period of effectiveness__ 
 
-        This section (other than subsection (g) of this section) shall be effective only during the period beginning on the first day of the first month beginning after April 4, 1996, and ending on May 31, 2002. The program authorized by this section shall terminate on May 31, 2002, and shall be considered to have expired notwithstanding [section 907 of title 2][/us/usc/t2/s907].
+        This section (other than subsection (g)) shall be effective only during the period beginning on the first day of the first month beginning after April 4, 1996, and ending on May 31, 2002. The program authorized by this section shall terminate on May 31, 2002, and shall be considered to have expired notwithstanding [section 907 of title 2][/us/usc/t2/s907].
 
 ([Pub. L. 104–127, title I, § 141][/us/pl/104/127/s141], Apr. 4, 1996, [110 Stat. 914][/us/stat/110/914]; [Pub. L. 106–78, title VIII, § 807(a)][/us/pl/106/78/s807/a], Oct. 22, 1999, [113 Stat. 1181][/us/stat/113/1181]; [Pub. L. 106–387, § 1(a)][/us/pl/106/387/s1/a] \[title VII, § 742(a)\], Oct. 28, 2000, [114 Stat. 1549][/us/stat/114/1549], 1549A–35; [Pub. L. 107–76, title VII, § 772(a)][/us/pl/107/76/s772/a], Nov. 28, 2001, [115 Stat. 745][/us/stat/115/745].)
 

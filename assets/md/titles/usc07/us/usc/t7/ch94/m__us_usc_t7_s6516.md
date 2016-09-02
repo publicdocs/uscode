@@ -17,7 +17,7 @@
 
     (a) __Peer review__ 
 
-        In determining whether to approve an application for accreditation submitted under [section 6514 of this title][/us/usc/t7/s6514], the Secretary shall consider a report concerning such applicant that shall be prepared by a peer review panel established under subsection (b) of this section.
+        In determining whether to approve an application for accreditation submitted under [section 6514 of this title][/us/usc/t7/s6514], the Secretary shall consider a report concerning such applicant that shall be prepared by a peer review panel established under subsection (b).
 
     (b) __Peer review panel__ 
 

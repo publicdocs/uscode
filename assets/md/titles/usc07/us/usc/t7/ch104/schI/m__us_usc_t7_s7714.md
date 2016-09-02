@@ -35,11 +35,11 @@
 
         (1) __In general__ 
 
-            The Secretary may order the owner of any plant, biological control organism, plant product, plant pest, noxious weed, article, or means of conveyance subject to action under subsection (a) of this section to treat, apply other remedial measures to, destroy, or otherwise dispose of the plant, biological control organism, plant product, plant pest, noxious weed, article, or means of conveyance, without cost to the Federal Government and in the manner the Secretary considers appropriate.
+            The Secretary may order the owner of any plant, biological control organism, plant product, plant pest, noxious weed, article, or means of conveyance subject to action under subsection (a) to treat, apply other remedial measures to, destroy, or otherwise dispose of the plant, biological control organism, plant product, plant pest, noxious weed, article, or means of conveyance, without cost to the Federal Government and in the manner the Secretary considers appropriate.
 
         (2) __Failure to comply__ 
 
-            If the owner fails to comply with the Secretary’s order under this subsection, the Secretary may take an action authorized by subsection (a) of this section and recover from the owner the costs of any care, handling, application of remedial measures, or disposal incurred by the Secretary in connection with actions taken under subsection (a) of this section.
+            If the owner fails to comply with the Secretary’s order under this subsection, the Secretary may take an action authorized by subsection (a) and recover from the owner the costs of any care, handling, application of remedial measures, or disposal incurred by the Secretary in connection with actions taken under subsection (a).
 
     (c) __Classification system__ 
 
@@ -63,7 +63,7 @@
 
  __Amendments__ 
 
-    2002—Subsec. (b)(1). [Pub. L. 107–171, § 10418(b)(1)(A)][/us/pl/107/171/s10418/b/1/A], struck out “, or the owner’s agent,” after “subsection (a) of this section”.
+    2002—Subsec. (b)(1). [Pub. L. 107–171, § 10418(b)(1)(A)][/us/pl/107/171/s10418/b/1/A], struck out “, or the owner’s agent,” after “subsection (a)”.
 
     Subsec. (b)(2). [Pub. L. 107–171, § 10418(b)(1)(B)][/us/pl/107/171/s10418/b/1/B], struck out “or agent of the owner” after “the owner” in two places.
 

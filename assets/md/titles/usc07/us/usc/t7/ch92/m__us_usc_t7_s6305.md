@@ -85,7 +85,7 @@
 
         (1) __Reimbursement of Secretary__ 
 
-            The Secretary shall be reimbursed from assessments collected by the Board for any expenses incurred by the Secretary in connection with the conduct of any activity required under this section, except for the salaries of Government employees associated with the conduct of a referendum under subsections (a) and (b) of this section.
+            The Secretary shall be reimbursed from assessments collected by the Board for any expenses incurred by the Secretary in connection with the conduct of any activity required under this section, except for the salaries of Government employees associated with the conduct of a referendum under subsections (a) and (b).
 
         (2) __Date__ 
 

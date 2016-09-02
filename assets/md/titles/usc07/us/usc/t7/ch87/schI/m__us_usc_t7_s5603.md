@@ -29,11 +29,11 @@
 
     (b) __Purpose of strategy__ 
 
-        The strategy developed under subsection (a) of this section shall encourage the maintenance, development, and expansion of export markets for United States agricultural commodities and related products, including high-value and value-added products.
+        The strategy developed under subsection (a) shall encourage the maintenance, development, and expansion of export markets for United States agricultural commodities and related products, including high-value and value-added products.
 
     (c) __Goals of strategy__ 
 
-    The strategy developed under subsection (a) of this section shall have the following goals:
+    The strategy developed under subsection (a) shall have the following goals:
 
         (1) Increase the value of United States agricultural exports each year.
 
@@ -55,7 +55,7 @@
 
         (1) __Identification of markets__ 
 
-        In developing the strategy required under subsection (a) of this section, the Secretary shall annually identify as priority markets—
+        In developing the strategy required under subsection (a), the Secretary shall annually identify as priority markets—
 
             (A) those markets in which imports of agricultural products show the greatest potential for increase; and
 

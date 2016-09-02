@@ -21,7 +21,7 @@
 
     (b) __Administrative expenses__ 
 
-        Funds appropriated under subsection (a) of this section shall not be available for payment of the expenses or expenditures of the Board in administering a provision of an order issued under this subchapter.
+        Funds appropriated under subsection (a) shall not be available for payment of the expenses or expenditures of the Board in administering a provision of an order issued under this subchapter.
 
 ([Pub. L. 104–127, title V, § 543][/us/pl/104/127/s543], Apr. 4, 1996, [110 Stat. 1063][/us/stat/110/1063].)
 

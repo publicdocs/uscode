@@ -103,7 +103,7 @@
 
             (D) __Certification__ 
 
-                Except for the establishment of the initial Board, the nominations made under subparagraph (C) and subsections (b)(3)(D) and (b)(3)(E) of this section shall be certified by the Board and submitted to the Secretary no later than May 1 or such other date recommended by the Board and approved by the Secretary preceding the commencement of the term of office for Board membership, as established in paragraph (9).
+                Except for the establishment of the initial Board, the nominations made under subparagraph (C) and subsections (b)(3)(D) and (b)(3)(E) shall be certified by the Board and submitted to the Secretary no later than May 1 or such other date recommended by the Board and approved by the Secretary preceding the commencement of the term of office for Board membership, as established in paragraph (9).
 
             (E) __Appointment__ 
 
@@ -165,9 +165,9 @@
 
         (6) to prepare and submit for the approval of the Secretary, prior to the beginning of each fiscal period, a recommended rate of assessment under [section 6007 of this title][/us/usc/t7/s6007], and a fiscal period budget of the anticipated expenses in the administration of the plan, including the probable costs of all programs and projects;
 
-        (7) to develop programs and projects, subject to subsection (d) of this section;
+        (7) to develop programs and projects, subject to subsection (d);
 
-        (8) to enter into contracts or agreements, subject to subsection (e) of this section, to develop and carry out programs or projects of promotion, research, industry information and consumer information;
+        (8) to enter into contracts or agreements, subject to subsection (e), to develop and carry out programs or projects of promotion, research, industry information and consumer information;
 
         (9) to carry out research, promotion, industry information, and consumer information, and to pay the costs of such projects with assessments collected pursuant to [section 6007 of this title][/us/usc/t7/s6007];
 
@@ -205,7 +205,7 @@
 
         (2) __Budgets__ 
 
-            The plan shall require the Board, prior to the beginning of each fiscal year, or as may be necessary after the beginning of such fiscal year, to submit to the Secretary for approval budgets of its anticipated expenses (including reimbursements under subsection (b)(10) of this section) and disbursements in the implementation of the plan, including projected costs of promotion, research, consumer information, and industry information programs and projects.
+            The plan shall require the Board, prior to the beginning of each fiscal year, or as may be necessary after the beginning of such fiscal year, to submit to the Secretary for approval budgets of its anticipated expenses (including reimbursements under subsection (b)(10)) and disbursements in the implementation of the plan, including projected costs of promotion, research, consumer information, and industry information programs and projects.
 
         (3) __Incurring expenses__ 
 

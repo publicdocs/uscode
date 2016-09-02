@@ -17,11 +17,11 @@
 
     (a) __In general__ 
 
-        Except as provided in subsection (b) of this section, no producer shall be personally liable for any deficiency arising from the sale of the collateral securing any nonrecourse loan made under this chapter  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be followed by a comma. </sup></sup>  title I of the Farm Security and Rural Investment Act of 2002 \[[7 U.S.C. 7901][/us/usc/t7/s7901] et seq.\], title I of the Food, Conservation, and Energy Act of 2008 \[[7 U.S.C. 8701][/us/usc/t7/s8701] et seq.\], and title I of the Agricultural Act of 2014 \[[7 U.S.C. 9001][/us/usc/t7/s9001] et seq.\] unless the loan was obtained through a fraudulent representation by the producer.
+        Except as provided in subsection (b), no producer shall be personally liable for any deficiency arising from the sale of the collateral securing any nonrecourse loan made under this chapter  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be followed by a comma. </sup></sup>  title I of the Farm Security and Rural Investment Act of 2002 \[[7 U.S.C. 7901][/us/usc/t7/s7901] et seq.\], title I of the Food, Conservation, and Energy Act of 2008 \[[7 U.S.C. 8701][/us/usc/t7/s8701] et seq.\], and title I of the Agricultural Act of 2014 \[[7 U.S.C. 9001][/us/usc/t7/s9001] et seq.\] unless the loan was obtained through a fraudulent representation by the producer.
 
     (b) __Limitations__ 
 
-    Subsection (a) of this section shall not prevent the Commodity Credit Corporation or the Secretary from requiring a producer to assume liability for—
+    Subsection (a) shall not prevent the Commodity Credit Corporation or the Secretary from requiring a producer to assume liability for—
 
         (1) a deficiency in the grade, quality, or quantity of a commodity stored on a farm or delivered by the producer;
 

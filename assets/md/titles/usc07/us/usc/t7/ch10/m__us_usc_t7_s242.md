@@ -65,7 +65,7 @@
 
     (i) __Examination and audits__ 
 
-    In addition to the authority provided under subsection (l) of this section, on request of the person, State agency, or commodity exchange, the Secretary may conduct an examination, audit, or similar activity with respect to—
+    In addition to the authority provided under subsection (l), on request of the person, State agency, or commodity exchange, the Secretary may conduct an examination, audit, or similar activity with respect to—
 
         (1) any person that is engaged in the business of storing an agricultural product that is subject to this chapter;
 

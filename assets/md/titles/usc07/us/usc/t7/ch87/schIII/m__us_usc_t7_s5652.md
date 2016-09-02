@@ -27,11 +27,11 @@
 
     (b) __Consultations required__ 
 
-    For any article described in subsection (a)(2) of this section, the Secretary shall—
+    For any article described in subsection (a)(2), the Secretary shall—
 
-        (1) promptly consult with representatives of the industry producing such articles and other allied groups or individuals regarding specific actions or the development of an integrated marketing strategy utilizing some or all of the commercial export programs of the Department of Agriculture and the Commodity Credit Corporation to help mitigate or offset the effects of the unfair trade practice identified in subsection (a)(2) of this section; and
+        (1) promptly consult with representatives of the industry producing such articles and other allied groups or individuals regarding specific actions or the development of an integrated marketing strategy utilizing some or all of the commercial export programs of the Department of Agriculture and the Commodity Credit Corporation to help mitigate or offset the effects of the unfair trade practice identified in subsection (a)(2); and
 
-        (2) ascertain and take into account the industry preference for the practical use of available commercial export promotion programs in implementing subsection (a)(1) of this section.
+        (2) ascertain and take into account the industry preference for the practical use of available commercial export promotion programs in implementing subsection (a)(1).
 
 ([Pub. L. 95–501, title III, § 301][/us/pl/95/501/s301], formerly § 302, as added [Pub. L. 101–624, title XV, § 1531][/us/pl/101/624/s1531], Nov. 28, 1990, [104 Stat. 3680][/us/stat/104/3680]; renumbered § 301, [Pub. L. 110–246, title III, § 3103(b)(2)][/us/pl/110/246/s3103/b/2], June 18, 2008, [122 Stat. 1832][/us/stat/122/1832].)
 

@@ -21,7 +21,7 @@
 
     (b) __Program priorities__ 
 
-    In providing any amount of funds or commodities made available under subsection (a) of this section for any fiscal year that is in excess of the amount made available under this section for fiscal year 2001, the Secretary shall, to the maximum extent practicable—
+    In providing any amount of funds or commodities made available under subsection (a) for any fiscal year that is in excess of the amount made available under this section for fiscal year 2001, the Secretary shall, to the maximum extent practicable—
 
         (1)
 

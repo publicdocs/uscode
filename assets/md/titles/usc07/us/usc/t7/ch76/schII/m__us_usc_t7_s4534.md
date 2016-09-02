@@ -75,7 +75,7 @@
 
     (b) __Agreements under order__ 
 
-    Any agreement made under subsection (a)(2)(G) of this section shall provide that—
+    Any agreement made under subsection (a)(2)(G) shall provide that—
 
         (1) the person with whom such agreement is made shall develop and submit to the board a research plan or project together with a budget that shows estimated costs to be incurred to carry out such plan or project;
 
@@ -85,7 +85,7 @@
 
     (c) __Confidentiality of records; disclosure exceptions; penalty for violation__ 
 
-        (1) Information, books, and records made available to, and reports filed with, the Secretary under subsection (a)(6) of this section shall be kept confidential by all officers and employees of the Department, except that such information, books, records, and reports as the Secretary deems relevant may be disclosed by such officers and employees in any suit or administrative proceeding that is brought at the request of the Secretary or to which the Secretary or any officer of the United States is a party, and that involves the order issued under [section 4533(b) of this title][/us/usc/t7/s4533/b].
+        (1) Information, books, and records made available to, and reports filed with, the Secretary under subsection (a)(6) shall be kept confidential by all officers and employees of the Department, except that such information, books, records, and reports as the Secretary deems relevant may be disclosed by such officers and employees in any suit or administrative proceeding that is brought at the request of the Secretary or to which the Secretary or any officer of the United States is a party, and that involves the order issued under [section 4533(b) of this title][/us/usc/t7/s4533/b].
 
         (2)
 

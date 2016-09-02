@@ -21,11 +21,11 @@
 
     (b) __Availability__ 
 
-        The Secretary shall make available to swine producers and other interested persons information on the types of contracts described in subsection (a) of this section, including notice (on a real-time basis if practicable) of the types of contracts that are being offered by each individual packer to, and are open to acceptance by, producers for the purchase of swine.
+        The Secretary shall make available to swine producers and other interested persons information on the types of contracts described in subsection (a), including notice (on a real-time basis if practicable) of the types of contracts that are being offered by each individual packer to, and are open to acceptance by, producers for the purchase of swine.
 
     (c) __Confidentiality__ 
 
-        The reporting requirements under subsections (a) and (b) of this section shall be subject to the confidentiality protections provided under [section 1636 of this title][/us/usc/t7/s1636].
+        The reporting requirements under subsections (a) and (b) shall be subject to the confidentiality protections provided under [section 1636 of this title][/us/usc/t7/s1636].
 
     (d) __Information collection__ 
 

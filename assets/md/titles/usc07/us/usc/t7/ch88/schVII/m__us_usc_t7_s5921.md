@@ -69,7 +69,7 @@
 
         (3) __Application of funds__ 
 
-            Funds made available under this subsection shall be applied, to the maximum extent practicable, to risk assessment research on all categories identified in subsection (c) of this section.
+            Funds made available under this subsection shall be applied, to the maximum extent practicable, to risk assessment research on all categories identified in subsection (c).
 
 ([Pub. L. 101–624, title XVI, § 1668][/us/pl/101/624/s1668], Nov. 28, 1990, [104 Stat. 3767][/us/stat/104/3767]; [Pub. L. 102–237, title IV, § 407(9)][/us/pl/102/237/s407/9], Dec. 13, 1991, [105 Stat. 1865][/us/stat/105/1865]; [Pub. L. 107–171, title VII, § 7210][/us/pl/107/171/s7210], May 13, 2002, [116 Stat. 446][/us/stat/116/446]; [Pub. L. 110–234, title VII, § 7511(c)(21)][/us/pl/110/234/s7511/c/21], May 22, 2008, [122 Stat. 1269][/us/stat/122/1269]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VII, § 7511(c)(21), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2031.)
 

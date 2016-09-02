@@ -21,7 +21,7 @@
 
     (b) __Operative status of certain provisions__ 
 
-    Notwithstanding any other provision of law, if less than a majority of the producers voting in the referendum conducted pursuant to subsection (a) of this section favor a price support program as provided in this subsection (b), the following provisions of law shall become inoperative:
+    Notwithstanding any other provision of law, if less than a majority of the producers voting in the referendum conducted pursuant to subsection (a) favor a price support program as provided in this subsection (b), the following provisions of law shall become inoperative:
 
         (1) __\[Section enacted__  __[__  __section 1329a of this title__  __][/us/usc/t7/s1329a]__  __.\]__ 
 

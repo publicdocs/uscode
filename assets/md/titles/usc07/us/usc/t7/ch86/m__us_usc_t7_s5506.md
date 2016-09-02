@@ -27,7 +27,7 @@
 
     (b) __Effect on existing authority__ 
 
-        The authority granted in subsection (a) of this section does not alter or effect the responsibility of the Environmental Protection Agency under the Federal Insecticide, Fungicide, and Rodenticide Act ([7 U.S.C. 136][/us/usc/t7/s136] et seq.).
+        The authority granted in subsection (a) does not alter or effect the responsibility of the Environmental Protection Agency under the Federal Insecticide, Fungicide, and Rodenticide Act ([7 U.S.C. 136][/us/usc/t7/s136] et seq.).
 
     (c) __Participation__ 
 

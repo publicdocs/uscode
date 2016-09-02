@@ -17,7 +17,7 @@
 
     (a) __In general__ 
 
-    The Secretary shall ensure that agricultural research, extension, or education activities described in subsection (b) of this section address a concern that—
+    The Secretary shall ensure that agricultural research, extension, or education activities described in subsection (b) address a concern that—
 
         (1) is a priority, as determined under [section 7612(a) of this title][/us/usc/t7/s7612/a]; and
 
@@ -25,7 +25,7 @@
 
     (b) __Application__ 
 
-    Subsection (a) of this section applies to—
+    Subsection (a) applies to—
 
         (1) research activities conducted by the Agricultural Research Service; and
 

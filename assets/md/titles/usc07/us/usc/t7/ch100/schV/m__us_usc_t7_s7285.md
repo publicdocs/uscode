@@ -21,7 +21,7 @@
 
     (b) __Nonapplication of sales price restrictions__ 
 
-    Subsection (a) of this section shall not apply to—
+    Subsection (a) shall not apply to—
 
         (1) a sale for a new or byproduct use;
 
@@ -41,7 +41,7 @@
 
         (1) __In general__ 
 
-        Notwithstanding subsection (a) of this section, on such terms and conditions as the Secretary may consider in the public interest, the Corporation may make available any commodity or product owned or controlled by the Corporation for use in relieving distress—
+        Notwithstanding subsection (a), on such terms and conditions as the Secretary may consider in the public interest, the Corporation may make available any commodity or product owned or controlled by the Corporation for use in relieving distress—
 
             (A) in any area in the United States (including the Virgin Islands) declared by the President to be an acute distress area because of unemployment or other economic cause, if the President finds that the use will not displace or interfere with normal marketing of agricultural commodities; and
 
@@ -57,7 +57,7 @@
 
     (d) __Efficient operations__ 
 
-        Subsection (a) of this section shall not apply to the sale of a commodity the disposition of which is desirable in the interest of the effective and efficient conduct of the operations of the Corporation because of the small quantity of the commodity involved, or because of the age, location, or questionable continued storability of the commodity.
+        Subsection (a) shall not apply to the sale of a commodity the disposition of which is desirable in the interest of the effective and efficient conduct of the operations of the Corporation because of the small quantity of the commodity involved, or because of the age, location, or questionable continued storability of the commodity.
 
 ([Pub. L. 104–127, title I, § 165][/us/pl/104/127/s165], Apr. 4, 1996, [110 Stat. 936][/us/stat/110/936].)
 

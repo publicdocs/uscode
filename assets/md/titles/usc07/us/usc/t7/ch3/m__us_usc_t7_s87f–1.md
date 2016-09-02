@@ -49,7 +49,7 @@
 
         (2)
 
-         For the purposes of this section, a person shall be deemed to be in a “control relationship” with respect to a business required to register under subsection (a) of this section and with respect to applicable interstate businesses if—
+         For the purposes of this section, a person shall be deemed to be in a “control relationship” with respect to a business required to register under subsection (a) and with respect to applicable interstate businesses if—
 
             (A) such person has an ownership interest of 10 per centum or more in such business, or
 
@@ -59,7 +59,7 @@
 
     (c) __Certificate of registration__ 
 
-        The Secretary shall issue a certificate of registration to persons who comply with the provisions of this section. The certificate of registration issued in accordance with this section shall be renewed annually. If there has been any change in the information required under subsection (b) of this section, the person holding such certificate shall, within thirty days of the discovery of such change, notify the Secretary of such change. No person shall engage in the business of buying grain for sale in foreign commerce, and in the business of handling, weighing, or transporting of grain in foreign commerce unless the person has registered with the Secretary as required by this chapter and has an unsuspended and unrevoked certificate of registration.
+        The Secretary shall issue a certificate of registration to persons who comply with the provisions of this section. The certificate of registration issued in accordance with this section shall be renewed annually. If there has been any change in the information required under subsection (b), the person holding such certificate shall, within thirty days of the discovery of such change, notify the Secretary of such change. No person shall engage in the business of buying grain for sale in foreign commerce, and in the business of handling, weighing, or transporting of grain in foreign commerce unless the person has registered with the Secretary as required by this chapter and has an unsuspended and unrevoked certificate of registration.
 
     (d) __Suspension or registration of certificate of registration__ 
 

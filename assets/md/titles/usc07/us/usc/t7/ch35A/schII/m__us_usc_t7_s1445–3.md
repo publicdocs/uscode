@@ -59,7 +59,7 @@
 
         (3)
 
-            (A) After the 2-year period specified in subsection (a)(3)(B) of this section has expired, if the Commodity Credit Corporation offers to sell the stocks of the Corporation of Burley tobacco from the 1983 crop to domestic manufacturers of cigarettes, such stocks shall be offered for sale at the costs of the association, including carrying charges, as of the date on which the Corporation calls the loans on such tobacco, reduced by 90 percent.
+            (A) After the 2-year period specified in subsection (a)(3)(B) has expired, if the Commodity Credit Corporation offers to sell the stocks of the Corporation of Burley tobacco from the 1983 crop to domestic manufacturers of cigarettes, such stocks shall be offered for sale at the costs of the association, including carrying charges, as of the date on which the Corporation calls the loans on such tobacco, reduced by 90 percent.
 
             (B) Neither tobacco producers nor tobacco purchasers shall be responsible for carrying charges that accrue to the 1983 crop of Burley tobacco after the date on which the Commodity Credit Corporation calls the loans on such tobacco.
 
@@ -69,7 +69,7 @@
 
             (A) Each domestic manufacturer of cigarettes may enter into agreements to purchase inventory stocks of Flue-cured and Burley tobacco, in accordance with this section.
 
-            (B) To be eligible for the reductions in price specified in this section, such manufacturer shall enter into such agreements as soon as practicable, but not later than 90 days after April 7, 1986, except that, with respect to the 1983 crop of Burley tobacco, if the Corporation offers to sell the stocks of such tobacco pursuant to subsection (b)(3)(A) of this section, such agreements shall be entered into as soon as practicable, but not later than 90 days after the end of the 2-year period referred to in subsection (a)(3)(B) of this section.
+            (B) To be eligible for the reductions in price specified in this section, such manufacturer shall enter into such agreements as soon as practicable, but not later than 90 days after April 7, 1986, except that, with respect to the 1983 crop of Burley tobacco, if the Corporation offers to sell the stocks of such tobacco pursuant to subsection (b)(3)(A), such agreements shall be entered into as soon as practicable, but not later than 90 days after the end of the 2-year period referred to in subsection (a)(3)(B).
 
             (C)
 
@@ -89,7 +89,7 @@
 
                     (II) in the case of Burley tobacco from the 1982 and 1984 crops, 5 years from April 7, 1986; and
 
-                    (III) in the case of the 1983 crop of Burley tobacco, 5 years from the end of the 2-year period referred to in subsection (a)(3)(B) of this section.
+                    (III) in the case of the 1983 crop of Burley tobacco, 5 years from the end of the 2-year period referred to in subsection (a)(3)(B).
 
         (2)
 

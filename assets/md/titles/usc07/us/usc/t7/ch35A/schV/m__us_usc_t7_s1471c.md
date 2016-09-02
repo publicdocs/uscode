@@ -25,11 +25,11 @@
 
     (b) __Availability of additional assistance__ 
 
-        Each livestock producer in such State, county, or area, or in a contiguous county as provided for in [section 1471a(b) of this title][/us/usc/t7/s1471a/b], regardless of whether the producer qualifies for assistance under subsection (a) of this section, shall be eligible for emergency assistance under the programs specified in [section 1471e of this title][/us/usc/t7/s1471e] that are made available where the producer is located.
+        Each livestock producer in such State, county, or area, or in a contiguous county as provided for in [section 1471a(b) of this title][/us/usc/t7/s1471a/b], regardless of whether the producer qualifies for assistance under subsection (a), shall be eligible for emergency assistance under the programs specified in [section 1471e of this title][/us/usc/t7/s1471e] that are made available where the producer is located.
 
     (c) __Program participation option__ 
 
-        Any livestock producer, located in a county or area in which benefits under the emergency feed program or the emergency feed assistance program were made available due to the drought or related condition in 1988 prior to the effective date of this subchapter, who qualifies for assistance under such pre-existing programs shall be eligible for assistance for such drought or related conditions as prescribed in subsection (a) of this section or, at the producer’s option, for assistance under such pre-existing programs.
+        Any livestock producer, located in a county or area in which benefits under the emergency feed program or the emergency feed assistance program were made available due to the drought or related condition in 1988 prior to the effective date of this subchapter, who qualifies for assistance under such pre-existing programs shall be eligible for assistance for such drought or related conditions as prescribed in subsection (a) or, at the producer’s option, for assistance under such pre-existing programs.
 
 ([Oct. 31, 1949, ch. 792][/us/act/1949-10-31/ch792], title VI, § 605, as added [Pub. L. 100–387, title I, § 101(a)][/us/pl/100/387/s101/a], Aug. 11, 1988, [102 Stat. 928][/us/stat/102/928].)
 

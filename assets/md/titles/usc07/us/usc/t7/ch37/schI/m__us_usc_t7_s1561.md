@@ -51,7 +51,7 @@
 
         (8)
 
-         For the purpose of subchapter II of this chapter, the term “weed seeds” means the seeds or bulblets of plants recognized as weeds either by the law or rules and regulations of—
+         For the purpose of subchapter II, the term “weed seeds” means the seeds or bulblets of plants recognized as weeds either by the law or rules and regulations of—
 
             (A) The State into which the seed is offered for transportation, or transported; or
 
@@ -61,7 +61,7 @@
 
             (A)
 
-             For the purpose of subchapter II of this chapter, the term “noxious-weed seeds” means the seeds or bulblets of plants recognized as noxious—
+             For the purpose of subchapter II, the term “noxious-weed seeds” means the seeds or bulblets of plants recognized as noxious—
 
                 (i) by the law or rules and regulations of the State into which the seed is offered for transportation, or transported;
 
@@ -69,7 +69,7 @@
 
                 (iii) by the rules and regulations of the Secretary of Agriculture under this chapter, when after investigation he shall determine that a weed is noxious in the United States or in any specifically designated area thereof.
 
-            (B) For the purpose of subchapter III of this chapter, the term “noxious-weed seeds” means the seeds of Lepidium draba L., Lepidium repens (Schrenk) Boiss., Hymenophysa pubescens C. A., Mey., white top; Cirsium arvense (L.) Scop., Canada thistle; Cuscuta spp., dodder; Agropyron repens (L.) Beauv., quackgrass; Sorghum halepense (L.) Pers., Johnson grass; Convolvulus arvensis L., bindweed; Centaurea picris Pall., Russian knapweed; Sonchus arvensis L., perennial sowthistle; Euphorbia esula L., leafy spurge; and seeds or bulblets of any other kinds which after investigation the Secretary of Agriculture finds should be included.
+            (B) For the purpose of subchapter III, the term “noxious-weed seeds” means the seeds of Lepidium draba L., Lepidium repens (Schrenk) Boiss., Hymenophysa pubescens C. A., Mey., white top; Cirsium arvense (L.) Scop., Canada thistle; Cuscuta spp., dodder; Agropyron repens (L.) Beauv., quackgrass; Sorghum halepense (L.) Pers., Johnson grass; Convolvulus arvensis L., bindweed; Centaurea picris Pall., Russian knapweed; Sonchus arvensis L., perennial sowthistle; Euphorbia esula L., leafy spurge; and seeds or bulblets of any other kinds which after investigation the Secretary of Agriculture finds should be included.
 
         (10) The term “origin” means the State, District of Columbia, Puerto Rico, or possession of the United States, or the foreign country, or designated portion thereof, where the seed was grown.
 

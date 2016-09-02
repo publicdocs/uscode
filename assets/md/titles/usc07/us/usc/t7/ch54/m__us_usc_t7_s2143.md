@@ -147,7 +147,7 @@
 
     (c) __Federal research facilities; establishment, composition, and responsibilities of Federal Committee__ 
 
-    In the case of Federal research facilities, a Federal Committee shall be established and shall have the same composition and responsibilities provided in subsection (b) of this section, except that the Federal Committee shall report deficiencies or deviations to the head of the Federal agency conducting the research rather than to the Animal and Plant Health Inspection Service. The head of the Federal agency conducting the research shall be responsible for—
+    In the case of Federal research facilities, a Federal Committee shall be established and shall have the same composition and responsibilities provided in subsection (b), except that the Federal Committee shall report deficiencies or deviations to the head of the Federal agency conducting the research rather than to the Animal and Plant Health Inspection Service. The head of the Federal agency conducting the research shall be responsible for—
 
         (1) all corrective action to be taken at the facility; and
 
@@ -161,7 +161,7 @@
 
         (2) research or testing methods that minimize or eliminate the use of animals or limit animal pain or distress;
 
-        (3) utilization of the information service at the National Agricultural Library, established under subsection (e) of this section; and
+        (3) utilization of the information service at the National Agricultural Library, established under subsection (e); and
 
         (4) methods whereby deficiencies in animal care and treatment should be reported.
 

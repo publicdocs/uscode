@@ -21,7 +21,7 @@
 
     (b) __Terms of deferment__ 
 
-        (1) Subject to limitations established in appropriations Acts, the Secretary shall permit any borrower to defer the payment of principal and interest on any insured or direct loan made under this chapter under circumstances described in this subsection, notwithstanding any limitation contained in subsection (a) of this section, except that such deferment shall not be permitted based on the determination of the Secretary of the financial hardship of the borrower.
+        (1) Subject to limitations established in appropriations Acts, the Secretary shall permit any borrower to defer the payment of principal and interest on any insured or direct loan made under this chapter under circumstances described in this subsection, notwithstanding any limitation contained in subsection (a), except that such deferment shall not be permitted based on the determination of the Secretary of the financial hardship of the borrower.
 
         (2)
 

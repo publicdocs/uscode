@@ -41,7 +41,7 @@
 
     (c) __Implementation__ 
 
-        Not later than December 1, 2001, the Federal Crop Insurance Corporation and the Risk Management Agency shall complete implementation of the plan submitted under subsection (a) of this section.
+        Not later than December 1, 2001, the Federal Crop Insurance Corporation and the Risk Management Agency shall complete implementation of the plan submitted under subsection (a).
 
 ([Pub. L. 106–222, § 5][/us/pl/106/222/s5], June 20, 2000, [114 Stat. 355][/us/stat/114/355].)
 

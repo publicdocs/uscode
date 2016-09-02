@@ -29,7 +29,7 @@
 
         (1) __Restrictions on import and entry__ 
 
-            The Secretary may issue such orders and promulgate such regulations as are necessary to carry out subsection (a) of this section.
+            The Secretary may issue such orders and promulgate such regulations as are necessary to carry out subsection (a).
 
         (2) __Post importation quarantine__ 
 

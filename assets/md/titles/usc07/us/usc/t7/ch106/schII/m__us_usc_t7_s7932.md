@@ -133,7 +133,7 @@
 
     (c) __Single county loan rate for other oilseeds__ 
 
-        The Secretary shall establish a single loan rate in each county for each kind of other oilseeds described in subsections (a)(10) and (b)(10) of this section.
+        The Secretary shall establish a single loan rate in each county for each kind of other oilseeds described in subsections (a)(10) and (b)(10).
 
     (d) __Quality grades for dry peas, lentils, and small chickpeas__ 
 

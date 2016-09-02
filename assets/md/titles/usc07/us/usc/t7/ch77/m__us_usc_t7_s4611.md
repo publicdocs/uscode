@@ -41,7 +41,7 @@
 
         (2) __Attribution of quantity of honey__ 
 
-        For the purpose of subsection (b)(1)(B) of this section—
+        For the purpose of subsection (b)(1)(B)—
 
             (A) the quantity of honey or honey products on which the qualifying producer-packer or importer owes assessments as a handler shall be attributed to the person’s vote as a handler under paragraph (1); and
 

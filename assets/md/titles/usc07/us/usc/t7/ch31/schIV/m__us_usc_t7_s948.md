@@ -73,129 +73,181 @@
 
               <tr>
 
-                <td>     </td>
+                <td> 
 
-                <td> The cost of money  </td>
+             For advances made in—  </td>
 
-  </tr>
+                <td> 
 
-              <tr>
-
-                <td>  For advances made in—   </td>
-
-                <td> rate shall be—  </td>
+            The cost of money rate shall be—  </td>
 
   </tr>
 
               <tr>
 
-                <td>   Fiscal year 1974   </td>
+                <td> 
 
-                <td>   5.01 percent    </td>
+            Fiscal year 1974  </td>
 
-  </tr>
+                <td> 
 
-              <tr>
-
-                <td>   Fiscal year 1975   </td>
-
-                <td>   5.85 percent    </td>
+            5.01 percent    </td>
 
   </tr>
 
               <tr>
 
-                <td>   Fiscal year 1976   </td>
+                <td> 
 
-                <td>   5.33 percent    </td>
+            Fiscal year 1975  </td>
 
-  </tr>
+                <td> 
 
-              <tr>
-
-                <td>   Fiscal year 1977   </td>
-
-                <td>   5.00 percent    </td>
+            5.85 percent    </td>
 
   </tr>
 
               <tr>
 
-                <td>   Fiscal year 1978   </td>
+                <td> 
 
-                <td>   5.87 percent    </td>
+            Fiscal year 1976  </td>
 
-  </tr>
+                <td> 
 
-              <tr>
-
-                <td>   Fiscal year 1979   </td>
-
-                <td>   5.93 percent    </td>
+            5.33 percent    </td>
 
   </tr>
 
               <tr>
 
-                <td>   Fiscal year 1980   </td>
+                <td> 
 
-                <td>   8.10 percent    </td>
+            Fiscal year 1977  </td>
 
-  </tr>
+                <td> 
 
-              <tr>
-
-                <td>   Fiscal year 1981   </td>
-
-                <td>   9.46 percent    </td>
+            5.00 percent    </td>
 
   </tr>
 
               <tr>
 
-                <td>   Fiscal year 1982   </td>
+                <td> 
 
-                <td>   8.39 percent    </td>
+            Fiscal year 1978  </td>
 
-  </tr>
+                <td> 
 
-              <tr>
-
-                <td>   Fiscal year 1983   </td>
-
-                <td>   6.99 percent    </td>
+            5.87 percent    </td>
 
   </tr>
 
               <tr>
 
-                <td>   Fiscal year 1984   </td>
+                <td> 
 
-                <td>   6.55 percent    </td>
+            Fiscal year 1979  </td>
 
-  </tr>
+                <td> 
 
-              <tr>
-
-                <td>   Fiscal year 1985   </td>
-
-                <td>   5.00 percent    </td>
+            5.93 percent    </td>
 
   </tr>
 
               <tr>
 
-                <td>   Fiscal year 1986   </td>
+                <td> 
 
-                <td>   5.00 percent    </td>
+            Fiscal year 1980  </td>
+
+                <td> 
+
+            8.10 percent    </td>
 
   </tr>
 
               <tr>
 
-                <td>   Fiscal year 1987   </td>
+                <td> 
 
-                <td>   5.00 percent.  </td>
+            Fiscal year 1981  </td>
+
+                <td> 
+
+            9.46 percent    </td>
+
+  </tr>
+
+              <tr>
+
+                <td> 
+
+            Fiscal year 1982  </td>
+
+                <td> 
+
+            8.39 percent    </td>
+
+  </tr>
+
+              <tr>
+
+                <td> 
+
+            Fiscal year 1983  </td>
+
+                <td> 
+
+            6.99 percent    </td>
+
+  </tr>
+
+              <tr>
+
+                <td> 
+
+            Fiscal year 1984  </td>
+
+                <td> 
+
+            6.55 percent    </td>
+
+  </tr>
+
+              <tr>
+
+                <td> 
+
+            Fiscal year 1985  </td>
+
+                <td> 
+
+            5.00 percent    </td>
+
+  </tr>
+
+              <tr>
+
+                <td> 
+
+            Fiscal year 1986  </td>
+
+                <td> 
+
+            5.00 percent    </td>
+
+  </tr>
+
+              <tr>
+
+                <td> 
+
+            Fiscal year 1987  </td>
+
+                <td> 
+
+            5.00 percent.  </td>
 
   </tr>
 
@@ -235,7 +287,7 @@
 
             (A) The average number of subscribers per mile of line in the service area of the applicant is not more than 15, or the applicant is capable of producing net income or margins before interest of not less than 100 percent (but not more than 500 percent) of the interest requirements on all of the outstanding and proposed loans of the applicant.
 
-            (B) The Secretary has approved, under [section 935(d)(3) of this title][/us/usc/t7/s935/d/3], a telecommunications modernization plan for the State in which the applicant is located and, if the plan was developed by telephone borrowers under subchapter III of this chapter, the applicant is a participant in the plan.
+            (B) The Secretary has approved, under [section 935(d)(3) of this title][/us/usc/t7/s935/d/3], a telecommunications modernization plan for the State in which the applicant is located and, if the plan was developed by telephone borrowers under subchapter III, the applicant is a participant in the plan.
 
         (5) __Certificate of convenience and necessity required from State regulatory agency or statement of telephone bank’s Governor of nonduplication of lines, facilities, or systems__ 
 

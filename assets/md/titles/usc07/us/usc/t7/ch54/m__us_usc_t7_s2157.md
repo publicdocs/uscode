@@ -33,11 +33,11 @@
 
         (2) to reveal to any other person,
 
-        any information which is entitled to protection as confidential information under subsection (a) of this section.
+        any information which is entitled to protection as confidential information under subsection (a).
 
     (c) __Penalties__ 
 
-    A violation of subsection (a) or (b) of this section is punishable by—
+    A violation of subsection (a) or (b) is punishable by—
 
         (1) removal from such Committee; and
 
@@ -53,7 +53,7 @@
 
     (e) __Other rights and remedies__ 
 
-        Nothing in this section shall be construed to affect any other rights of a person injured in its business or property by reason of a violation of this section. Subsection (d) of this section shall not be construed to limit the exercise of any such rights arising out of or relating to a violation of subsections (a) and (b) of this section.
+        Nothing in this section shall be construed to affect any other rights of a person injured in its business or property by reason of a violation of this section. Subsection (d) shall not be construed to limit the exercise of any such rights arising out of or relating to a violation of subsections (a) and (b).
 
 ([Pub. L. 89–544, § 27][/us/pl/89/544/s27], as added [Pub. L. 99–198, title XVII, § 1754][/us/pl/99/198/s1754], Dec. 23, 1985, [99 Stat. 1649][/us/stat/99/1649].)
 

@@ -27,7 +27,7 @@
 
     (b) __Eligible production__ 
 
-        The producers on a farm shall be eligible for a marketing assistance loan under subsection (a) of this section for any quantity of a loan commodity produced on the farm.
+        The producers on a farm shall be eligible for a marketing assistance loan under subsection (a) for any quantity of a loan commodity produced on the farm.
 
     (c) __Treatment of certain commingled commodities__ 
 
@@ -35,7 +35,7 @@
 
     (d) __Compliance with conservation and wetlands requirements__ 
 
-        As a condition of the receipt of a marketing assistance loan under subsection (a) of this section, the producer shall comply with applicable conservation requirements under subtitle B of title XII of the Food Security Act of 1985 ([16 U.S.C. 3811][/us/usc/t16/s3811] et seq.) and applicable wetland protection requirements under subtitle C of title XII of the Act ([16 U.S.C. 3821][/us/usc/t16/s3821] et seq.) during the term of the loan.
+        As a condition of the receipt of a marketing assistance loan under subsection (a), the producer shall comply with applicable conservation requirements under subtitle B of title XII of the Food Security Act of 1985 ([16 U.S.C. 3811][/us/usc/t16/s3811] et seq.) and applicable wetland protection requirements under subtitle C of title XII of the Act ([16 U.S.C. 3821][/us/usc/t16/s3821] et seq.) during the term of the loan.
 
     (e) __Termination of superseded loan authority__ 
 

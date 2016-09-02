@@ -47,7 +47,7 @@
 
         (1) __Review results__ 
 
-            As soon as practicable after the review is conducted under subsection (b) of this section for a fiscal year, the Secretary shall consider the results of the review when formulating each request for proposals, and evaluating proposals, involving an agricultural research, extension, or education activity funded, on a competitive basis, by the Department.
+            As soon as practicable after the review is conducted under subsection (b) for a fiscal year, the Secretary shall consider the results of the review when formulating each request for proposals, and evaluating proposals, involving an agricultural research, extension, or education activity funded, on a competitive basis, by the Department.
 
         (2) __Input__ 
 

@@ -35,7 +35,7 @@
 
     (b) __Allocation__ 
 
-    The amount made available for a fiscal year under subsection (a) of this section shall be allocated as follows:
+    The amount made available for a fiscal year under subsection (a) shall be allocated as follows:
 
         (1) For wheat, 26.26 percent.
 
@@ -53,7 +53,7 @@
 
     (c) __Adjustment__ 
 
-    The Secretary shall adjust the amounts allocated for each contract commodity under subsection (b) of this section for a particular fiscal year by—
+    The Secretary shall adjust the amounts allocated for each contract commodity under subsection (b) for a particular fiscal year by—
 
         (1) adding an amount equal to the sum of all repayments of deficiency payments required under section 114(a)(2) of the Agricultural Act of 1949 ([7 U.S.C. 1445j(a)(2)][/us/usc/t7/s1445j/a/2]) for the commodity;
 
@@ -63,15 +63,15 @@
 
     (d) __Additional rice allocation__ 
 
-        In addition to the adjustments required under subsection (c) of this section, the amount allocated under subsection (b) of this section for rice contract payments shall be increased by $8,500,000 for each of fiscal years 1997 through 2002.
+        In addition to the adjustments required under subsection (c), the amount allocated under subsection (b) for rice contract payments shall be increased by $8,500,000 for each of fiscal years 1997 through 2002.
 
     (e) __Exclusion of certain amounts from contract payments__ 
 
-        Any amount added pursuant to paragraphs (1) and (2) of subsection (c) of this section to the amount available under subsection (a) of this section for a fiscal year and paid to owners and producers under a contract shall not be treated as a contract payment for purposes of [section 7215 of this title][/us/usc/t7/s7215] or section 1308(1)  <sup>\[1\]</sup>  <sup><sup> 1 See References in text note below. </sup></sup>  of this title. However, the amount of a payment covered by this subsection may not exceed $50,000 per person.
+        Any amount added pursuant to paragraphs (1) and (2) of subsection (c) to the amount available under subsection (a) for a fiscal year and paid to owners and producers under a contract shall not be treated as a contract payment for purposes of [section 7215 of this title][/us/usc/t7/s7215] or section 1308(1)  <sup>\[1\]</sup>  <sup><sup> 1 See References in text note below. </sup></sup>  of this title. However, the amount of a payment covered by this subsection may not exceed $50,000 per person.
 
     (f) __Effect of payment limitation__ 
 
-        The amount available under subsection (a) of this section for a fiscal year shall be reduced by an amount equal to the total amount of contract payments for the fiscal year that owners and producers forgo as a result of operation of the payment limitation under section 1308(1) 1 of this title.
+        The amount available under subsection (a) for a fiscal year shall be reduced by an amount equal to the total amount of contract payments for the fiscal year that owners and producers forgo as a result of operation of the payment limitation under section 1308(1) 1 of this title.
 
 ([Pub. L. 104–127, title I, § 113][/us/pl/104/127/s113], Apr. 4, 1996, [110 Stat. 900][/us/stat/110/900].)
 

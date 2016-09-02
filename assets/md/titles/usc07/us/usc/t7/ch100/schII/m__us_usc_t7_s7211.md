@@ -17,7 +17,7 @@
 
     (a) __Offer and terms__ 
 
-    The Secretary shall offer to enter into a production flexibility contract with an eligible owner or producer described in subsection (b) of this section on a farm containing eligible cropland. Under the terms of a contract, the owner or producer shall agree, in exchange for annual contract payments, to—
+    The Secretary shall offer to enter into a production flexibility contract with an eligible owner or producer described in subsection (b) on a farm containing eligible cropland. Under the terms of a contract, the owner or producer shall agree, in exchange for annual contract payments, to—
 
         (1) comply with applicable conservation requirements under subtitle B of title XII of the Food Security Act of 1985 ([16 U.S.C. 3811][/us/usc/t16/s3811] et seq.);
 
@@ -59,11 +59,11 @@
 
     (e) __Quantity of eligible cropland covered by contract__ 
 
-        Subject to subsection (b)(4) of this section, an owner or producer may enroll as contract acreage all or a portion of the eligible cropland on the farm.
+        Subject to subsection (b)(4), an owner or producer may enroll as contract acreage all or a portion of the eligible cropland on the farm.
 
     (f) __Voluntary reduction in contract acreage__ 
 
-        Subject to subsection (b)(4) of this section, an owner or producer who enters into a contract may subsequently reduce the quantity of contract acreage covered by the contract.
+        Subject to subsection (b)(4), an owner or producer who enters into a contract may subsequently reduce the quantity of contract acreage covered by the contract.
 
 ([Pub. L. 104–127, title I, § 111][/us/pl/104/127/s111], Apr. 4, 1996, [110 Stat. 898][/us/stat/110/898].)
 

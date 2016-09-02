@@ -59,7 +59,7 @@
 
         (1) __In general__ 
 
-        During the period beginning on May 13, 2002, through July 31, 2008, the prevailing world market price for upland cotton (adjusted to United States quality and location) established under subsection (d) of this section shall be further adjusted if—
+        During the period beginning on May 13, 2002, through July 31, 2008, the prevailing world market price for upland cotton (adjusted to United States quality and location) established under subsection (d) shall be further adjusted if—
 
             (A) the adjusted prevailing world market price is less than 115 percent of the loan rate for upland cotton established under [section 7932 of this title][/us/usc/t7/s7932], as determined by the Secretary; and
 

@@ -45,7 +45,7 @@
 
     (e) __Contracts__ 
 
-        The Secretary shall set forth in each contract under the pilot program the terms and conditions for participation in the pilot program and the notice required by subsection (d) of this section.
+        The Secretary shall set forth in each contract under the pilot program the terms and conditions for participation in the pilot program and the notice required by subsection (d).
 
     (f) __Eligible markets__ 
 

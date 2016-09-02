@@ -39,7 +39,7 @@
 
     (d) __Assignment of priorities for grants__ 
 
-        Without regard to any consultation under subsection (c) of this section, the Secretary shall, to the extent feasible, award grants on the basis of the priorities assigned through a peer review system. Grantees shall be selected on a competitive basis in accordance with such procedures as the Secretary may establish.
+        Without regard to any consultation under subsection (c), the Secretary shall, to the extent feasible, award grants on the basis of the priorities assigned through a peer review system. Grantees shall be selected on a competitive basis in accordance with such procedures as the Secretary may establish.
 
     (e) __Distribution of multiyear grants__ 
 

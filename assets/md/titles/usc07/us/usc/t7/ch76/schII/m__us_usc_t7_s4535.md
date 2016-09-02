@@ -15,7 +15,7 @@
 
 ## § 4535. Petition and review; enforcement; investigations
 
-    The provisions of sections 4509, 4510, and 4511 of this title shall apply, except when inconsistent with this subchapter, to the Institute, the board, the persons subject to the order issued under [section 4533(b) of this title][/us/usc/t7/s4533/b], the jurisdiction of district courts of the United States, and the authority of the Secretary under this subchapter in the same manner as such sections apply with respect to subchapter I of this chapter.
+    The provisions of sections 4509, 4510, and 4511 of this title shall apply, except when inconsistent with this subchapter, to the Institute, the board, the persons subject to the order issued under [section 4533(b) of this title][/us/usc/t7/s4533/b], the jurisdiction of district courts of the United States, and the authority of the Secretary under this subchapter in the same manner as such sections apply with respect to subchapter I.
 
 ([Pub. L. 98–180, title I, § 134][/us/pl/98/180/s134], as added [Pub. L. 99–198, title I, § 121][/us/pl/99/198/s121], Dec. 23, 1985, [99 Stat. 1371][/us/stat/99/1371].)
 

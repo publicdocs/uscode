@@ -33,7 +33,7 @@
 
     (d) __Private certifying agent agreement__ 
 
-    Any certifying agent that is a private person shall, in addition to the agreement required in subsection (c) of this section—
+    Any certifying agent that is a private person shall, in addition to the agreement required in subsection (c)—
 
         (1) agree to hold the Secretary harmless for any failure on the part of the certifying agent to carry out the provisions of this chapter; and
 

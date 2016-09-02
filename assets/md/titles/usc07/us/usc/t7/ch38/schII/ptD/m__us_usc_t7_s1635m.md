@@ -27,7 +27,7 @@
 
     (b) __Notice and comment__ 
 
-        If the Secretary establishes a mandatory price reporting program under subsection (a) of this section, the Secretary shall provide an opportunity for comment on proposed regulations to establish the program during the 30-day period beginning on the date of the publication of the proposed regulations.
+        If the Secretary establishes a mandatory price reporting program under subsection (a), the Secretary shall provide an opportunity for comment on proposed regulations to establish the program during the 30-day period beginning on the date of the publication of the proposed regulations.
 
 ([Aug. 14, 1946, ch. 966][/us/act/1946-08-14/ch966], title II, § 241, as added [Pub. L. 106–78, title IX, § 911(2)][/us/pl/106/78/s911/2], Oct. 22, 1999, [113 Stat. 1200][/us/stat/113/1200].)
 

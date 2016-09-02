@@ -23,7 +23,7 @@
 
          The Secretary shall provide emergency feed assistance under this subchapter for the preservation and maintenance of livestock, to livestock producers that—
 
-            (A) conduct farming, ranching, or aquaculture operations in any county contiguous to a county where the Secretary has determined, under subsection (a) of this section, that a livestock emergency exists, and
+            (A) conduct farming, ranching, or aquaculture operations in any county contiguous to a county where the Secretary has determined, under subsection (a), that a livestock emergency exists, and
 
             (B) are otherwise eligible for assistance under this subchapter.
 

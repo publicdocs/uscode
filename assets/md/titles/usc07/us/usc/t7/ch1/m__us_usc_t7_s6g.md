@@ -25,7 +25,7 @@
 
     (c) __Daily trading records: floor brokers, introducing brokers, and futures commission merchants__ 
 
-        Floor brokers, introducing brokers, and futures commission merchants shall maintain daily trading records for each customer in such manner and form as to be identifiable with the trades referred to in subsection (b) of this section.
+        Floor brokers, introducing brokers, and futures commission merchants shall maintain daily trading records for each customer in such manner and form as to be identifiable with the trades referred to in subsection (b).
 
     (d) __Daily trading records: form and reports__ 
 

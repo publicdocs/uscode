@@ -21,15 +21,15 @@
 
     (b) __Acquisition of land for laboratories; donations__ 
 
-        For the purposes of subsection (a) of this section, the Secretary is authorized to acquire land and interests therein, and to accept in the name of the United States donations of any property, real or personal, to any laboratory established pursuant to this section, and to utilize voluntary or uncompensated services at such laboratories. Donations to any one of such laboratories shall not be available for use by any other of such laboratories.
+        For the purposes of subsection (a), the Secretary is authorized to acquire land and interests therein, and to accept in the name of the United States donations of any property, real or personal, to any laboratory established pursuant to this section, and to utilize voluntary or uncompensated services at such laboratories. Donations to any one of such laboratories shall not be available for use by any other of such laboratories.
 
     (c) __Cooperation with governmental agencies, associations, etc.__ 
 
-        In carrying out the purposes of subsection (a) of this section, the Secretary is authorized and directed to cooperate with other departments or agencies of the Federal Government, States, State agricultural experiment stations, and other State agencies and institutions, counties, municipalities, business or other organizations, corporations, associations, universities, scientific societies, and individuals, upon such terms and conditions as he may prescribe.
+        In carrying out the purposes of subsection (a), the Secretary is authorized and directed to cooperate with other departments or agencies of the Federal Government, States, State agricultural experiment stations, and other State agencies and institutions, counties, municipalities, business or other organizations, corporations, associations, universities, scientific societies, and individuals, upon such terms and conditions as he may prescribe.
 
     (d) __Appropriation for purposes of subsection (a)__ 
 
-        To carry out the purposes of subsection (a) of this section, the Secretary is authorized to utilize in each fiscal year, beginning with the fiscal year beginning July 1, 1938, a sum not to exceed $4,000,000 of the funds appropriated pursuant to [section 1391 of this title][/us/usc/t7/s1391], or section 590o of title 16, for such fiscal year. The Secretary shall allocate one-fourth of such sum annually to each of the four laboratories established pursuant to this section.
+        To carry out the purposes of subsection (a), the Secretary is authorized to utilize in each fiscal year, beginning with the fiscal year beginning July 1, 1938, a sum not to exceed $4,000,000 of the funds appropriated pursuant to [section 1391 of this title][/us/usc/t7/s1391], or section 590o of title 16, for such fiscal year. The Secretary shall allocate one-fourth of such sum annually to each of the four laboratories established pursuant to this section.
 
     (e) __Repealed.__  __[__  __Aug. 30, 1954, ch. 1076, § 1(3)__  __][/us/act/1954-08-30/ch1076/s1/3]__  __,__  __[__  __68 Stat. 966__  __][/us/stat/68/966]__ 
 

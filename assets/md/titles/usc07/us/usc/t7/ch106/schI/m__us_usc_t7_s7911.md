@@ -67,7 +67,7 @@
 
         (1) __Notice of election opportunity__ 
 
-        As soon as practicable after May 13, 2002, the Secretary shall provide notice to owners of farms regarding their opportunity to make the election described in subsection (a) of this section. The notice shall include the following:
+        As soon as practicable after May 13, 2002, the Secretary shall provide notice to owners of farms regarding their opportunity to make the election described in subsection (a). The notice shall include the following:
 
             (A) Notice that the opportunity of an owner to make the election is being provided only once.
 
@@ -75,15 +75,15 @@
 
         (2) __Election deadline__ 
 
-            Within the time period and in the manner prescribed pursuant to paragraph (1), the owner of a farm shall submit to the Secretary notice of the election made by the owner under subsection (a) of this section.
+            Within the time period and in the manner prescribed pursuant to paragraph (1), the owner of a farm shall submit to the Secretary notice of the election made by the owner under subsection (a).
 
     (c) __Effect of failure to make election__ 
 
-        If the owner of a farm fails to make the election under subsection (a) of this section or fails to timely notify the Secretary of the election made, as required by subsection (b) of this section, the owner shall be deemed to have made the election described in subsection (a)(1)(B) of this section to determine base acres for all covered commodities on the farm.
+        If the owner of a farm fails to make the election under subsection (a) or fails to timely notify the Secretary of the election made, as required by subsection (b), the owner shall be deemed to have made the election described in subsection (a)(1)(B) to determine base acres for all covered commodities on the farm.
 
     (d) __Application of election to all covered commodities__ 
 
-        The election made under subparagraph (A) or (B) of subsection (a)(1) of this section, or deemed to be made under subsection (c) of this section, with respect to a farm shall apply to all of the covered commodities on the farm.
+        The election made under subparagraph (A) or (B) of subsection (a)(1), or deemed to be made under subsection (c), with respect to a farm shall apply to all of the covered commodities on the farm.
 
     (e) __Treatment of conservation reserve contract acreage__ 
 
@@ -107,13 +107,13 @@
 
         (1) __Required reduction__ 
 
-            If the sum of the base acres for a farm, together with the acreage described in paragraph (2), exceeds the actual cropland acreage of the farm, the Secretary shall reduce the base acres for 1 or more covered commodities for the farm or the base acres for peanuts for the farm under subchapter III of this chapter so that the sum of the base acres and acreage described in paragraph (2) does not exceed the actual cropland acreage of the farm.
+            If the sum of the base acres for a farm, together with the acreage described in paragraph (2), exceeds the actual cropland acreage of the farm, the Secretary shall reduce the base acres for 1 or more covered commodities for the farm or the base acres for peanuts for the farm under subchapter III so that the sum of the base acres and acreage described in paragraph (2) does not exceed the actual cropland acreage of the farm.
 
         (2) __Other acreage__ 
 
         For purposes of paragraph (1), the Secretary shall include the following:
 
-            (A) Any base acres for peanuts for the farm under subchapter III of this chapter.
+            (A) Any base acres for peanuts for the farm under subchapter III.
 
             (B) Any acreage on the farm enrolled in the conservation reserve program or wetlands reserve program under chapter 1 of subtitle D of title XII of the Food Security Act of 1985 ([16 U.S.C. 3830][/us/usc/t16/s3830] et seq.).
 
@@ -121,7 +121,7 @@
 
         (3) __Selection of acres__ 
 
-            The Secretary shall give the owner of the farm the opportunity to select the base acres or the base acres for peanuts for the farm under subchapter III of this chapter against which the reduction required by paragraph (1) will be made.
+            The Secretary shall give the owner of the farm the opportunity to select the base acres or the base acres for peanuts for the farm under subchapter III against which the reduction required by paragraph (1) will be made.
 
         (4) __Exception for double-cropped acreage__ 
 
@@ -139,7 +139,7 @@
 
  __References in Text__ 
 
-    Subchapter III of this chapter, referred to in subsec. (g)(1), (2)(A), (3), was in the original “subtitle C”, meaning subtitle C (§§ 1301–1310) of title I of [Pub. L. 107–171][/us/pl/107/171], May 13, 2002, [116 Stat. 166][/us/stat/116/166], which is classified principally to subchapter III of this chapter. For complete classification of subtitle C to the Code, see References in Text note set out under [section 7951 of this title][/us/usc/t7/s7951] and Tables.
+    Subchapter III, referred to in subsec. (g)(1), (2)(A), (3), was in the original “subtitle C”, meaning subtitle C (§§ 1301–1310) of title I of [Pub. L. 107–171][/us/pl/107/171], May 13, 2002, [116 Stat. 166][/us/stat/116/166], which is classified principally to subchapter III of this chapter. For complete classification of subtitle C to the Code, see References in Text note set out under [section 7951 of this title][/us/usc/t7/s7951] and Tables.
 
     The Food Security Act of 1985, referred to in subsec. (g)(2)(B), is [Pub. L. 99–198][/us/pl/99/198], Dec. 23, 1985, [99 Stat. 1354][/us/stat/99/1354], as amended. Chapter 1 of subtitle D of title XII of the Act is classified generally to part I (§ 3830 et seq.) of subchapter IV of chapter 58 of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title of 1985 Amendment note set out under [section 1281 of this title][/us/usc/t7/s1281] and Tables.
 

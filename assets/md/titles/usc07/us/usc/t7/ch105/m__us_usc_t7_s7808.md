@@ -23,7 +23,7 @@
 
         (1) __Investigations__ 
 
-            For the purpose of conducting an investigation under subsection (a) of this section, the Secretary may administer oaths and affirmations, subpoena witnesses, compel the attendance of witnesses, take evidence, and require the production of any records that are relevant to the inquiry. The production of the records may be required from any place in the United States.
+            For the purpose of conducting an investigation under subsection (a), the Secretary may administer oaths and affirmations, subpoena witnesses, compel the attendance of witnesses, take evidence, and require the production of any records that are relevant to the inquiry. The production of the records may be required from any place in the United States.
 
         (2) __Administrative hearings__ 
 
@@ -33,7 +33,7 @@
 
         (1) __In general__ 
 
-            In the case of contumacy by, or refusal to obey a subpoena issued under subsection (b) of this section to, any person, the Secretary may invoke the aid of any court of the United States within the jurisdiction of which the investigation or proceeding is conducted, or where the person resides or conducts business, in order to enforce a subpoena issued under subsection (b) of this section.
+            In the case of contumacy by, or refusal to obey a subpoena issued under subsection (b) to, any person, the Secretary may invoke the aid of any court of the United States within the jurisdiction of which the investigation or proceeding is conducted, or where the person resides or conducts business, in order to enforce a subpoena issued under subsection (b).
 
         (2) __Order__ 
 

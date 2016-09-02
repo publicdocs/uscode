@@ -31,7 +31,7 @@
 
         (2) __Proof of training__ 
 
-            Beginning three years after November 28, 1990, the Secretary shall ensure that all new Cooperative Extension Service agents employed by such Service are able to demonstrate, not later than 18 months after the employment of such agents, that such agents have completed the training program established in subsection (a) of this section.
+            Beginning three years after November 28, 1990, the Secretary shall ensure that all new Cooperative Extension Service agents employed by such Service are able to demonstrate, not later than 18 months after the employment of such agents, that such agents have completed the training program established in subsection (a).
 
     (d) __Regional training centers__ 
 

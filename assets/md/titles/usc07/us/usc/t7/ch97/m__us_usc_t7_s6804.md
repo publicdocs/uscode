@@ -193,15 +193,15 @@
 
         (5)
 
-            (A) develop budgets for the implementation of the order and submit the budgets to the Secretary for approval under subsection (d) of this section; and
+            (A) develop budgets for the implementation of the order and submit the budgets to the Secretary for approval under subsection (d); and
 
-            (B) propose and develop (or receive and evaluate), approve, and submit to the Secretary for approval under subsection (d) of this section plans and projects for cut flowers or cut greens promotion, consumer information, or related research;
+            (B) propose and develop (or receive and evaluate), approve, and submit to the Secretary for approval under subsection (d) plans and projects for cut flowers or cut greens promotion, consumer information, or related research;
 
         (6)
 
-            (A) implement plans and projects for cut flowers or cut greens promotion, consumer information, or related research, as provided in subsection (d) of this section; or
+            (A) implement plans and projects for cut flowers or cut greens promotion, consumer information, or related research, as provided in subsection (d); or
 
-            (B) contract or enter into agreements with appropriate persons to implement the plans and projects, as provided in subsection (e) of this section, and pay the costs of the implementation, or contracts and agreements, with funds received under the order;
+            (B) contract or enter into agreements with appropriate persons to implement the plans and projects, as provided in subsection (e), and pay the costs of the implementation, or contracts and agreements, with funds received under the order;
 
         (7) evaluate on-going and completed plans and projects for cut flowers or cut greens promotion, consumer information, or related research;
 
@@ -485,7 +485,7 @@
 
             (A) __In general__ 
 
-                Information obtained from books, records, or reports under paragraph (1) or subsection (h)(6) of this section, or from reports required under [section 6805(b)(3) of this title][/us/usc/t7/s6805/b/3], shall be kept confidential by all officers and employees of the Department of Agriculture and by the staff and agents of the PromoFlor Council.
+                Information obtained from books, records, or reports under paragraph (1) or subsection (h)(6), or from reports required under [section 6805(b)(3) of this title][/us/usc/t7/s6805/b/3], shall be kept confidential by all officers and employees of the Department of Agriculture and by the staff and agents of the PromoFlor Council.
 
             (B) __Suits and hearings__ 
 
@@ -535,7 +535,7 @@
 
     (l) __Other terms of order__ 
 
-        The order shall contain such other terms and provisions, consistent with this chapter, as are necessary to carry out this chapter (including provision for the assessment of interest and a charge for each late payment of assessments under subsection (h) of this section and for carrying out [section 6805 of this title][/us/usc/t7/s6805]).
+        The order shall contain such other terms and provisions, consistent with this chapter, as are necessary to carry out this chapter (including provision for the assessment of interest and a charge for each late payment of assessments under subsection (h) and for carrying out [section 6805 of this title][/us/usc/t7/s6805]).
 
 ([Pub. L. 103–190, § 5][/us/pl/103/190/s5], Dec. 14, 1993, [107 Stat. 2272][/us/stat/107/2272].)
 

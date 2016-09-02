@@ -33,11 +33,11 @@
 
     (c) __Effect of violation__ 
 
-        If the Secretary determines following a hearing that a State has in effect a manufacturing allowance that exceeds the manufacturing allowance authorized in subsection (a) of this section, the Secretary shall suspend purchases of cheddar cheese, butter, and nonfat dry milk produced in that State until such time as the State complies with such subsection.
+        If the Secretary determines following a hearing that a State has in effect a manufacturing allowance that exceeds the manufacturing allowance authorized in subsection (a), the Secretary shall suspend purchases of cheddar cheese, butter, and nonfat dry milk produced in that State until such time as the State complies with such subsection.
 
     (d) __Effective date; implementation__ 
 
-        This section (other than subsection (e)  <sup>\[1\]</sup>  <sup><sup> 1 See Codification note below. </sup></sup>  of this section) shall be effective during the period beginning on the first day of the first month beginning after April 4, 1996, and ending on December 31, 1999. During that period, the Secretary may exercise the authority provided to the Secretary under this section without regard to the issuance of regulations intended to carry out this section.
+        This section (other than subsection (e)  <sup>\[1\]</sup>  <sup><sup> 1 See Codification note below. </sup></sup> ) shall be effective during the period beginning on the first day of the first month beginning after April 4, 1996, and ending on December 31, 1999. During that period, the Secretary may exercise the authority provided to the Secretary under this section without regard to the issuance of regulations intended to carry out this section.
 
 ([Pub. L. 104–127, title I, § 145][/us/pl/104/127/s145], Apr. 4, 1996, [110 Stat. 917][/us/stat/110/917].)
 

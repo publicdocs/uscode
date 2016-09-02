@@ -21,7 +21,7 @@
 
     (b) __Report on subsequent review__ 
 
-        Not later than January 1, 2001, the Commission shall submit to the President and the congressional committees specified in subsection (a) of this section a report containing the results of the subsequent review conducted under [section 7313(b) of this title][/us/usc/t7/s7313/b].
+        Not later than January 1, 2001, the Commission shall submit to the President and the congressional committees specified in subsection (a) a report containing the results of the subsequent review conducted under [section 7313(b) of this title][/us/usc/t7/s7313/b].
 
 ([Pub. L. 104–127, title I, § 184][/us/pl/104/127/s184], Apr. 4, 1996, [110 Stat. 940][/us/stat/110/940].)
 

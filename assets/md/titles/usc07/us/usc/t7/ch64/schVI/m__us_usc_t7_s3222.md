@@ -47,7 +47,7 @@
 
                 (ii) __Redistribution__ 
 
-                    Federal funds that are deducted under clause (i) for a fiscal year shall be redistributed by the Secretary in accordance with the formula set forth in subsection (b)(2)(B) of this section to those eligible institutions for which no deduction under clause (i) has been taken for that fiscal year.
+                    Federal funds that are deducted under clause (i) for a fiscal year shall be redistributed by the Secretary in accordance with the formula set forth in subsection (b)(2)(B) to those eligible institutions for which no deduction under clause (i) has been taken for that fiscal year.
 
     (b) __Allocation and distribution of appropriated funds__ 
 
@@ -71,7 +71,7 @@
 
         (2) __Plan of work required__ 
 
-            Before funds may be provided to an eligible institution under this section for any fiscal year, a plan of work to be carried out under this section shall be submitted by the research director specified in subsection (d) of this section and shall be approved by the Secretary.
+            Before funds may be provided to an eligible institution under this section for any fiscal year, a plan of work to be carried out under this section shall be submitted by the research director specified in subsection (d) and shall be approved by the Secretary.
 
         (3) __Requirements related to plan of work__ 
 

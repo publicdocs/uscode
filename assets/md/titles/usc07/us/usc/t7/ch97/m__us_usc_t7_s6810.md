@@ -21,7 +21,7 @@
 
     (b) __Penalty__ 
 
-        Any person who knowingly violates subsection (a) of this section or the confidentiality terms of an order, as described in [section 6804(j)(2) of this title][/us/usc/t7/s6804/j/2], shall be subject to a fine of not less than $1,000 nor more than $10,000 or to imprisonment for not more than 1 year, or both. If the person is an officer or employee of the Department of Agriculture or the PromoFlor Council, the person shall be removed from office.
+        Any person who knowingly violates subsection (a) or the confidentiality terms of an order, as described in [section 6804(j)(2) of this title][/us/usc/t7/s6804/j/2], shall be subject to a fine of not less than $1,000 nor more than $10,000 or to imprisonment for not more than 1 year, or both. If the person is an officer or employee of the Department of Agriculture or the PromoFlor Council, the person shall be removed from office.
 
     (c) __Additional prohibition__ 
 

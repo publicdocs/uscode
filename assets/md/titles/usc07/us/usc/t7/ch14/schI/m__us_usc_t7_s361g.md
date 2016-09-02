@@ -45,7 +45,7 @@
 
     (e) __Requirements related to plan of work__ 
 
-    Each plan of work for a State required under subsection (d) of this section shall contain descriptions of the following:
+    Each plan of work for a State required under subsection (d) shall contain descriptions of the following:
 
         (1) The critical short-term, intermediate, and long-term agricultural issues in the State and the current and planned research programs and projects targeted to address the issues.
 
@@ -59,7 +59,7 @@
 
         (1) __Development__ 
 
-            The Secretary of Agriculture shall develop protocols to be used to evaluate the success of multistate, multi-institutional, and multidisciplinary research activities and joint research and extension activities in addressing critical agricultural issues identified in the plans of work submitted under subsection (d) of this section.
+            The Secretary of Agriculture shall develop protocols to be used to evaluate the success of multistate, multi-institutional, and multidisciplinary research activities and joint research and extension activities in addressing critical agricultural issues identified in the plans of work submitted under subsection (d).
 
         (2) __Consultation__ 
 
@@ -67,7 +67,7 @@
 
     (g) __Treatment of plans of work for other purposes__ 
 
-        To the maximum extent practicable, the Secretary shall consider a plan of work submitted under subsection (d) of this section to satisfy other appropriate Federal reporting requirements.
+        To the maximum extent practicable, the Secretary shall consider a plan of work submitted under subsection (d) to satisfy other appropriate Federal reporting requirements.
 
 ([Mar. 2, 1887, ch. 314, § 7][/us/act/1887-03-02/ch314/s7], [24 Stat. 441][/us/stat/24/441]; [Aug. 11, 1955, ch. 790, § 1][/us/act/1955-08-11/ch790/s1], [69 Stat. 673][/us/stat/69/673]; [Pub. L. 86–533, § 1(22)][/us/pl/86/533/s1/22], June 29, 1960, [74 Stat. 249][/us/stat/74/249]; [Pub. L. 94–273, § 3(2)][/us/pl/94/273/s3/2], Apr. 21, 1976, [90 Stat. 376][/us/stat/90/376]; [Pub. L. 105–185, title I, § 103(f)(2)][/us/pl/105/185/s103/f/2], title II, § 202(b), June 23, 1998, [112 Stat. 528][/us/stat/112/528], 532; [Pub. L. 107–171, title VII, § 7202][/us/pl/107/171/s7202], May 13, 2002, [116 Stat. 437][/us/stat/116/437].)
 

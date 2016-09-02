@@ -25,7 +25,7 @@
 
     (b) __Availability__ 
 
-        Sums received by the Secretary under this section shall remain available until expended without further appropriation and without fiscal year limitation, to carry out subsection (a) of this section.
+        Sums received by the Secretary under this section shall remain available until expended without further appropriation and without fiscal year limitation, to carry out subsection (a).
 
 ([Pub. L. 107–171, title X, § 10703(a)][/us/pl/107/171/s10703/a], (b), May 13, 2002, [116 Stat. 517][/us/stat/116/517].)
 

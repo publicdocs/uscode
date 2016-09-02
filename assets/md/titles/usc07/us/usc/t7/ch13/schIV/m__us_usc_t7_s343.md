@@ -59,13 +59,13 @@
 
         (1)  __Requirement__  __.—__ 
 
-        Except as provided in paragraph (4) and subsection (f) of this section, no allotment shall be made to a State under subsection (b) or (c) of this section, and no payments from the allotment shall be made to a State, in excess of the amount that the State makes available out of non-Federal funds for cooperative extension work.
+        Except as provided in paragraph (4) and subsection (f), no allotment shall be made to a State under subsection (b) or (c), and no payments from the allotment shall be made to a State, in excess of the amount that the State makes available out of non-Federal funds for cooperative extension work.
 
         (2)  __Failure to provide matching funds__  __.—__ 
 
         If a State fails to comply with the requirement to provide matching funds for a fiscal year under paragraph (1), the Secretary of Agriculture shall withhold from payment to the State for that fiscal year an amount equal to the difference between—
 
-            (A) the amount that would be allotted and paid to the State under subsections (b) and (c) of this section (if the full amount of matching funds were provided by the State); and
+            (A) the amount that would be allotted and paid to the State under subsections (b) and (c) (if the full amount of matching funds were provided by the State); and
 
             (B) the amount of matching funds actually provided by the State.
 
@@ -103,17 +103,17 @@
 
         (1)  __In general__  __.—__ 
 
-        Not less than the applicable percentage specified under paragraph (2) of the amounts that are paid to a State under subsections (b) and (c) of this section during a fiscal year shall be expended by States for cooperative extension activities in which 2 or more States cooperate to solve problems that concern more than 1 State (referred to in this subsection as “multistate activities”).
+        Not less than the applicable percentage specified under paragraph (2) of the amounts that are paid to a State under subsections (b) and (c) during a fiscal year shall be expended by States for cooperative extension activities in which 2 or more States cooperate to solve problems that concern more than 1 State (referred to in this subsection as “multistate activities”).
 
         (2) __Applicable percentages.—__ 
 
             (A) __1997__  __expenditures on multistate activities__  __.—__ 
 
-            Of the Federal formula funds that were paid to each State for fiscal year 1997 under subsections (b) and (c) of this section, the Secretary of Agriculture shall determine the percentage that the State expended for multistate activities.
+            Of the Federal formula funds that were paid to each State for fiscal year 1997 under subsections (b) and (c), the Secretary of Agriculture shall determine the percentage that the State expended for multistate activities.
 
             (B)  __Required expenditures on multistate activities__  __.—__ 
 
-            Of the Federal formula funds that are paid to each State for fiscal year 2000 and each subsequent fiscal year under subsections (b) and (c) of this section, the State shall expend for the fiscal year for multistate activities a percentage that is at least equal to the lesser of—
+            Of the Federal formula funds that are paid to each State for fiscal year 2000 and each subsequent fiscal year under subsections (b) and (c), the State shall expend for the fiscal year for multistate activities a percentage that is at least equal to the lesser of—
 
                 (i) 25 percent; or
 
@@ -141,7 +141,7 @@
 
         (1)  __Review required__  __.—__ 
 
-        Effective October 1, 1999, extension activity carried out under subsection (h) of this section shall be subject to merit review.
+        Effective October 1, 1999, extension activity carried out under subsection (h) shall be subject to merit review.
 
         (2)  __Other requirements__  __.—__ 
 

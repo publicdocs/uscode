@@ -21,7 +21,7 @@
 
     (b) __Continued duty__ 
 
-        The warehouse operator from which agricultural products have been transferred under subsection (a) of this section shall deliver to the rightful owner of such products, on request at the original warehouse, such products in the quantity and of the kind, quality, and grade called for by the receipt or other evidence of storage of the owner.
+        The warehouse operator from which agricultural products have been transferred under subsection (a) shall deliver to the rightful owner of such products, on request at the original warehouse, such products in the quantity and of the kind, quality, and grade called for by the receipt or other evidence of storage of the owner.
 
 ([Aug. 11, 1916, ch. 313][/us/act/1916-08-11/ch313], pt. C, § 10, as added [Pub. L. 106–472, title II, § 201][/us/pl/106/472/s201], Nov. 9, 2000, [114 Stat. 2065][/us/stat/114/2065].)
 

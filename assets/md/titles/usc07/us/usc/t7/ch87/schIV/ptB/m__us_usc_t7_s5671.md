@@ -29,7 +29,7 @@
 
     (b) __Amount of payments__ 
 
-    If the Secretary makes payments available to producers under subsection (a) of this section, the amount of such payment shall be determined—
+    If the Secretary makes payments available to producers under subsection (a), the amount of such payment shall be determined—
 
         (1)
 
@@ -45,7 +45,7 @@
 
     (c) __Time for payments__ 
 
-        Payments under paragraph (1) of subsection (b) of this section shall be made for each marketing year or part thereof during which the suspension or restriction is in effect and shall be made in equal amounts at 90-day intervals, beginning 90 days after the date of the imposition of the suspension or restriction.
+        Payments under paragraph (1) of subsection (b) shall be made for each marketing year or part thereof during which the suspension or restriction is in effect and shall be made in equal amounts at 90-day intervals, beginning 90 days after the date of the imposition of the suspension or restriction.
 
     (d) __Commodity Credit Corporation__ 
 

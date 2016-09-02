@@ -25,7 +25,7 @@
 
     (c) __Periodic referenda__ 
 
-        Except as provided in subsection (d)(3) of this section and [section 4613(g) of this title][/us/usc/t7/s4613/g], on the date that is 5 years after the date on which the Secretary issues an order authorizing the collection of assessments on honey or honey products under this chapter, and every 5 years thereafter, the Secretary shall conduct a referendum to determine if the persons subject to assessment under the order approve continuation of the order in accordance with [section 4611 of this title][/us/usc/t7/s4611].
+        Except as provided in subsection (d)(3) and [section 4613(g) of this title][/us/usc/t7/s4613/g], on the date that is 5 years after the date on which the Secretary issues an order authorizing the collection of assessments on honey or honey products under this chapter, and every 5 years thereafter, the Secretary shall conduct a referendum to determine if the persons subject to assessment under the order approve continuation of the order in accordance with [section 4611 of this title][/us/usc/t7/s4611].
 
     (d) __Referenda on request__ 
 
@@ -39,13 +39,13 @@
 
         (3) __Effect on periodic referenda__ 
 
-            If a referendum is conducted under this subsection and the Secretary determines that continuation of the order is approved under [section 4611 of this title][/us/usc/t7/s4611], any referendum otherwise required to be conducted under subsection (c) of this section shall not be held before the date that is 5 years after the date of the referendum conducted under this subsection.
+            If a referendum is conducted under this subsection and the Secretary determines that continuation of the order is approved under [section 4611 of this title][/us/usc/t7/s4611], any referendum otherwise required to be conducted under subsection (c) shall not be held before the date that is 5 years after the date of the referendum conducted under this subsection.
 
     (e) __Timing and requirements for termination or suspension__ 
 
         (1) __In general__ 
 
-            The Secretary shall terminate or suspend an order at the end of the marketing year during which a referendum is conducted under subsection (c) or (d) of this section if the Secretary determines that continuation of an order is not approved under [section 4611 of this title][/us/usc/t7/s4611].
+            The Secretary shall terminate or suspend an order at the end of the marketing year during which a referendum is conducted under subsection (c) or (d) if the Secretary determines that continuation of an order is not approved under [section 4611 of this title][/us/usc/t7/s4611].
 
         (2) __Subsequent referendum__ 
 

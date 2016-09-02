@@ -17,7 +17,7 @@
 
     (a) __Availability of loan deficiency payments__ 
 
-    Except as provided in subsection (d) of this section, the Secretary may make loan deficiency payments available to—
+    Except as provided in subsection (d), the Secretary may make loan deficiency payments available to—
 
         (1) producers who, although eligible to obtain a marketing assistance loan under [section 7231 of this title][/us/usc/t7/s7231] with respect to a loan commodity, agree to forgo obtaining the loan for the commodity in return for payments under this section; and
 
@@ -27,7 +27,7 @@
 
     A loan deficiency payment under this section shall be computed by multiplying—
 
-        (1) the loan payment rate determined under subsection (c) of this section for the loan commodity; by
+        (1) the loan payment rate determined under subsection (c) for the loan commodity; by
 
         (2) the quantity of the loan commodity produced by the eligible producers, excluding any quantity for which the producers obtain a loan under [section 7231 of this title][/us/usc/t7/s7231].
 
@@ -45,15 +45,15 @@
 
     (e) __Transition__ 
 
-        A payment to a producer eligible for a payment under subsection (a)(2) of this section that harvested a commodity on or before the date that is 30 days after the promulgation of the regulations implementing subsection (a)(2) of this section shall be determined as the date the producer lost beneficial interest in the commodity, as determined by the Secretary.
+        A payment to a producer eligible for a payment under subsection (a)(2) that harvested a commodity on or before the date that is 30 days after the promulgation of the regulations implementing subsection (a)(2) shall be determined as the date the producer lost beneficial interest in the commodity, as determined by the Secretary.
 
     (f) __Beneficial interest__ 
 
-        Subject to subsection (e) of this section, a producer shall be eligible for a payment under this section only if the producer has a beneficial interest in the commodity, as determined by the Secretary.
+        Subject to subsection (e), a producer shall be eligible for a payment under this section only if the producer has a beneficial interest in the commodity, as determined by the Secretary.
 
     (g) __Effective date for payment rate determination__ 
 
-    For the 2001 crop year, the Secretary shall determine the amount of the loan deficiency payment to be made under this section to the producers on a farm with respect to a quantity of a loan commodity using the payment rate in effect under subsection (c) of this section as of the earlier of the following:
+    For the 2001 crop year, the Secretary shall determine the amount of the loan deficiency payment to be made under this section to the producers on a farm with respect to a quantity of a loan commodity using the payment rate in effect under subsection (c) as of the earlier of the following:
 
         (1) The date on which the producers marketed or otherwise lost beneficial interest in the crop of the loan commodity, as determined by the Secretary.
 

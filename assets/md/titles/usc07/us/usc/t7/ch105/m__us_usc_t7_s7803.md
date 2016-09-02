@@ -19,7 +19,7 @@
 
         (1) __Issuance__ 
 
-            To effectuate the policy of this chapter specified in [section 7801(b) of this title][/us/usc/t7/s7801/b], the Secretary, subject to the procedures provided in subsection (b) of this section, shall issue orders under this chapter applicable to producers, importers, and first handlers of Hass avocados.
+            To effectuate the policy of this chapter specified in [section 7801(b) of this title][/us/usc/t7/s7801/b], the Secretary, subject to the procedures provided in subsection (b), shall issue orders under this chapter applicable to producers, importers, and first handlers of Hass avocados.
 
         (2) __Scope__ 
 

@@ -25,7 +25,7 @@
 
     (c) __Requirements related to plan of work__ 
 
-    Each extension plan of work for a State required under subsection (a) of this section shall contain descriptions of the following:
+    Each extension plan of work for a State required under subsection (a) shall contain descriptions of the following:
 
         (1) The critical short-term, intermediate, and long-term agricultural issues in the State and the current and planned extension programs and projects targeted to address the issues.
 
@@ -41,7 +41,7 @@
 
         (1) __Development__ 
 
-            The Secretary of Agriculture shall develop protocols to be used to evaluate the success of multistate, multi-institutional, and multidisciplinary extension activities and joint research and extension activities in addressing critical agricultural issues identified in the plans of work submitted under subsection (a) of this section.
+            The Secretary of Agriculture shall develop protocols to be used to evaluate the success of multistate, multi-institutional, and multidisciplinary extension activities and joint research and extension activities in addressing critical agricultural issues identified in the plans of work submitted under subsection (a).
 
         (2) __Consultation__ 
 
@@ -49,7 +49,7 @@
 
     (e) __Treatment of plans of work for other purposes__ 
 
-        To the maximum extent practicable, the Secretary shall consider a plan of work submitted under subsection (a) of this section to satisfy other appropriate Federal reporting requirements.
+        To the maximum extent practicable, the Secretary shall consider a plan of work submitted under subsection (a) to satisfy other appropriate Federal reporting requirements.
 
 ([May 8, 1914, ch. 79, § 4][/us/act/1914-05-08/ch79/s4], [38 Stat. 374][/us/stat/38/374]; [June 26, 1953, ch. 157, § 1][/us/act/1953-06-26/ch157/s1], [67 Stat. 85][/us/stat/67/85]; [Pub. L. 87–749, § 1(f)][/us/pl/87/749/s1/f], Oct. 5, 1962, [76 Stat. 745][/us/stat/76/745]; [Pub. L. 94–273, § 15][/us/pl/94/273/s15], Apr. 21, 1976, [90 Stat. 379][/us/stat/90/379]; [Pub. L. 101–624, title XVI, § 1617][/us/pl/101/624/s1617], Nov. 28, 1990, [104 Stat. 3732][/us/stat/104/3732]; [Pub. L. 105–185, title II, § 202(a)][/us/pl/105/185/s202/a], June 23, 1998, [112 Stat. 531][/us/stat/112/531].)
 

@@ -65,7 +65,7 @@
 
     (c) __Annual committee report__ 
 
-    Not later than 180 days after the establishment of the specialty crops committee, and annually thereafter, the specialty crops committee shall submit to the Advisory Board a report containing the findings of its study under subsection (a) of this section. The specialty crops committee shall include in each report recommendations regarding the following:
+    Not later than 180 days after the establishment of the specialty crops committee, and annually thereafter, the specialty crops committee shall submit to the Advisory Board a report containing the findings of its study under subsection (a). The specialty crops committee shall include in each report recommendations regarding the following:
 
         (1) Programs designed to improve the efficiency, productivity, and profitability of specialty crop production in the United States.
 
@@ -105,7 +105,7 @@
 
     (f) __Annual report by Secretary__ 
 
-        In the budget material submitted to Congress by the Secretary in connection with the budget submitted pursuant to [section 1105 of title 31][/us/usc/t31/s1105] for a fiscal year, the Secretary shall include a report describing how the Secretary addressed each recommendation of the specialty crops committee described in subsection (e) of this section.
+        In the budget material submitted to Congress by the Secretary in connection with the budget submitted pursuant to [section 1105 of title 31][/us/usc/t31/s1105] for a fiscal year, the Secretary shall include a report describing how the Secretary addressed each recommendation of the specialty crops committee described in subsection (e).
 
     (g) __Citrus disease subcommittee duties__ 
 

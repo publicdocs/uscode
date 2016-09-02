@@ -21,7 +21,7 @@
 
     (b) __Exception__ 
 
-        Subsection (a) of this section shall not apply to a grant awarded competitively under [section 638 of title 15][/us/usc/t15/s638].
+        Subsection (a) shall not apply to a grant awarded competitively under [section 638 of title 15][/us/usc/t15/s638].
 
 ([Pub. L. 95–113, title XIV, § 1462][/us/pl/95/113/s1462], as added [Pub. L. 105–185, title II, § 230(a)][/us/pl/105/185/s230/a], June 23, 1998, [112 Stat. 546][/us/stat/112/546]; amended [Pub. L. 107–171, title VII, § 7222][/us/pl/107/171/s7222], May 13, 2002, [116 Stat. 454][/us/stat/116/454]; [Pub. L. 110–234, title VII, § 7132(a)][/us/pl/110/234/s7132/a], May 22, 2008, [122 Stat. 1228][/us/stat/122/1228]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VII, § 7132(a), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1989.)
 

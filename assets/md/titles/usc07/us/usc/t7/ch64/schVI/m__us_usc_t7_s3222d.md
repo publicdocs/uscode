@@ -41,21 +41,21 @@
 
     (d) __Waiver authority__ 
 
-        Notwithstanding subsection (f) of this section, the Secretary may waive the matching funds requirement under subsection (c) of this section above the 50 percent level for any fiscal year for an eligible institution of a State if the Secretary determines that the State will be unlikely to satisfy the matching requirement.
+        Notwithstanding subsection (f), the Secretary may waive the matching funds requirement under subsection (c) above the 50 percent level for any fiscal year for an eligible institution of a State if the Secretary determines that the State will be unlikely to satisfy the matching requirement.
 
     (e) __Use of matching funds__ 
 
-        Under terms and conditions established by the Secretary, matching funds provided as required by subsection (c) of this section may be used by an eligible institution for agricultural research, extension, and education activities.
+        Under terms and conditions established by the Secretary, matching funds provided as required by subsection (c) may be used by an eligible institution for agricultural research, extension, and education activities.
 
     (f) __Redistribution of funds__ 
 
         (1) __Redistribution required__ 
 
-            Federal funds that are not matched by a State in accordance with subsection (c) of this section for a fiscal year shall be redistributed by the Secretary to eligible institutions whose States have satisfied the matching funds requirement for that fiscal year.
+            Federal funds that are not matched by a State in accordance with subsection (c) for a fiscal year shall be redistributed by the Secretary to eligible institutions whose States have satisfied the matching funds requirement for that fiscal year.
 
         (2) __Administration__ 
 
-            Any redistribution of funds under this subsection shall be subject to the applicable matching requirement specified in subsection (c) of this section and shall be made in a manner consistent with sections 3221 and 3222 of this title, as determined by the Secretary.
+            Any redistribution of funds under this subsection shall be subject to the applicable matching requirement specified in subsection (c) and shall be made in a manner consistent with sections 3221 and 3222 of this title, as determined by the Secretary.
 
 ([Pub. L. 95–113, title XIV, § 1449][/us/pl/95/113/s1449], as added [Pub. L. 105–185, title II, § 226(a)][/us/pl/105/185/s226/a], June 23, 1998, [112 Stat. 542][/us/stat/112/542]; amended [Pub. L. 107–171, title VII, § 7212][/us/pl/107/171/s7212], May 13, 2002, [116 Stat. 447][/us/stat/116/447]; [Pub. L. 110–234, title VII, § 7127][/us/pl/110/234/s7127], May 22, 2008, [122 Stat. 1223][/us/stat/122/1223]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VII, § 7127, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1984.)
 

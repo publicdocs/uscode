@@ -21,7 +21,7 @@
 
     (b) __Service of process__ 
 
-        To qualify as a suitable bond or other financial assurance under subsection (a) of this section, the surety, sureties, or financial institution shall be subject to service of process in suits on the bond or other financial assurance in the State, district, or territory in which the warehouse is located.
+        To qualify as a suitable bond or other financial assurance under subsection (a), the surety, sureties, or financial institution shall be subject to service of process in suits on the bond or other financial assurance in the State, district, or territory in which the warehouse is located.
 
     (c) __Additional assurances__ 
 

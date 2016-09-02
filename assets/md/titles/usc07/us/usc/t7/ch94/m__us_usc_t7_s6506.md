@@ -67,7 +67,7 @@
 
         (1) __In general__ 
 
-            Notwithstanding the requirement of subsection (a)(1)(A) of this section requiring products be produced only on certified organic farms, the Secretary shall allow, through regulations promulgated after public notice and opportunity for comment, wild seafood to be certified or labeled as organic.
+            Notwithstanding the requirement of subsection (a)(1)(A) requiring products be produced only on certified organic farms, the Secretary shall allow, through regulations promulgated after public notice and opportunity for comment, wild seafood to be certified or labeled as organic.
 
         (2) __Consultation and accommodation__ 
 
@@ -95,7 +95,7 @@
 
         (1) __Account__ 
 
-            Fees collected under subsection (a)(10) of this section (including late payment penalties and interest earned from investment of the fees) shall be credited to the account that incurs the cost of the services provided under this chapter.
+            Fees collected under subsection (a)(10) (including late payment penalties and interest earned from investment of the fees) shall be credited to the account that incurs the cost of the services provided under this chapter.
 
         (2) __Use__ 
 

@@ -37,7 +37,7 @@
 
         (1) __Commencement of action__ 
 
-            The district court of the United States for any district in which a person who is a petitioner under subsection (a) of this section resides or carries on business shall have jurisdiction to review the ruling on the petition of the person, if a complaint for that purpose is filed not later than 20 days after the date of the entry of the ruling by the Secretary under subsection (a)(3) of this section.
+            The district court of the United States for any district in which a person who is a petitioner under subsection (a) resides or carries on business shall have jurisdiction to review the ruling on the petition of the person, if a complaint for that purpose is filed not later than 20 days after the date of the entry of the ruling by the Secretary under subsection (a)(3).
 
         (2) __Process__ 
 

@@ -33,7 +33,7 @@
 
         (1) __Submission of results__ 
 
-            The laboratory shall submit the results of the tests conducted under subsection (a) of this section to the Secretary on forms provided by the Secretary, on or before the date determined by the Secretary.
+            The laboratory shall submit the results of the tests conducted under subsection (a) to the Secretary on forms provided by the Secretary, on or before the date determined by the Secretary.
 
         (2) __Evaluation of tests__ 
 

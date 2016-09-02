@@ -93,7 +93,7 @@
 
         (1)
 
-         In order to promote responsible economic or financial innovation and fair competition, the Commission by rule, regulation, or order, after notice and opportunity for hearing, may (on its own initiative or on application of any person, including any board of trade designated or registered as a contract market or derivatives transaction execution facility for transactions for future delivery in any commodity under [section 7 of this title][/us/usc/t7/s7]) exempt any agreement, contract, or transaction (or class thereof) that is otherwise subject to subsection (a) of this section (including any person or class of persons offering, entering into, rendering advice or rendering other services with respect to, the agreement, contract, or transaction), either unconditionally or on stated terms or conditions or for stated periods and either retroactively or prospectively, or both, from any of the requirements of subsection (a) of this section, or from any other provision of this chapter (except subparagraphs (C)(ii) and (D) of [section 2(a)(1) of this title][/us/usc/t7/s2/a/1],  <sup>\[2\]</sup>  <sup><sup> 2 So in original. A closing parenthesis probably should precede the comma. </sup></sup>  except that—
+         In order to promote responsible economic or financial innovation and fair competition, the Commission by rule, regulation, or order, after notice and opportunity for hearing, may (on its own initiative or on application of any person, including any board of trade designated or registered as a contract market or derivatives transaction execution facility for transactions for future delivery in any commodity under [section 7 of this title][/us/usc/t7/s7]) exempt any agreement, contract, or transaction (or class thereof) that is otherwise subject to subsection (a) (including any person or class of persons offering, entering into, rendering advice or rendering other services with respect to, the agreement, contract, or transaction), either unconditionally or on stated terms or conditions or for stated periods and either retroactively or prospectively, or both, from any of the requirements of subsection (a), or from any other provision of this chapter (except subparagraphs (C)(ii) and (D) of [section 2(a)(1) of this title][/us/usc/t7/s2/a/1],  <sup>\[2\]</sup>  <sup><sup> 2 So in original. A closing parenthesis probably should precede the comma. </sup></sup>  except that—
 
             (A)
 
@@ -113,7 +113,7 @@
 
         (2)
 
-         The Commission shall not grant any exemption under paragraph (1) from any of the requirements of subsection (a) of this section unless the Commission determines that—
+         The Commission shall not grant any exemption under paragraph (1) from any of the requirements of subsection (a) unless the Commission determines that—
 
             (A) the requirement should not be applied to the agreement, contract, or transaction for which the exemption is sought and that the exemption would be consistent with the public interest and the purposes of this chapter; and
 

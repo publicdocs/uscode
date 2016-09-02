@@ -21,7 +21,7 @@
 
     (b) __Activities__ 
 
-    Each program established under subsection (a) of this section shall—
+    Each program established under subsection (a) shall—
 
         (1) transfer technologies to natural resource-based industries in the United States to make such industries more efficient, productive, and competitive;
 
@@ -31,7 +31,7 @@
 
     (c) __Types of programs__ 
 
-    The Secretary of Agriculture shall establish specific programs under subsection (a) of this section to—
+    The Secretary of Agriculture shall establish specific programs under subsection (a) to—
 
         (1) deliver educational services focused on community economic analysis, economic diversification, economic impact analysis, retention and expansion of existing commodity and noncommodity industries, amenity resource and tourism development, and entrepreneurship focusing on forest lands and rural communities;
 

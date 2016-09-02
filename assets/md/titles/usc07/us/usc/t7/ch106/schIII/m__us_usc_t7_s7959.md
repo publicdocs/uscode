@@ -27,7 +27,7 @@
 
         (1) __In general__ 
 
-            The Secretary shall offer to enter into a contract with each person that the Secretary determines is an eligible peanut quota holder under subsection (f) of this section for the purpose of providing compensation for the lost value of the quota on account of the repeal of the marketing quota program for peanuts under subsection (a) of this section.
+            The Secretary shall offer to enter into a contract with each person that the Secretary determines is an eligible peanut quota holder under subsection (f) for the purpose of providing compensation for the lost value of the quota on account of the repeal of the marketing quota program for peanuts under subsection (a).
 
         (2) __Payment period__ 
 
@@ -41,7 +41,7 @@
 
         (2) __Single payment__ 
 
-            At the request of an eligible peanut quota holder entitled to payments under a contract, the Secretary shall provide the entire payment amount determined under subsection (d) of this section with respect to the eligible peanut quota holder for the 5 fiscal years in a single lump sum during the fiscal year specified by the eligible peanut quota holder.
+            At the request of an eligible peanut quota holder entitled to payments under a contract, the Secretary shall provide the entire payment amount determined under subsection (d) with respect to the eligible peanut quota holder for the 5 fiscal years in a single lump sum during the fiscal year specified by the eligible peanut quota holder.
 
     (d) __Payment amount__ 
 
@@ -49,7 +49,7 @@
 
         (1) $0.11 per pound; by
 
-        (2) the number of pounds of quota with respect to which the person qualifies as a peanut quota holder under subsection (f) of this section.
+        (2) the number of pounds of quota with respect to which the person qualifies as a peanut quota holder under subsection (f).
 
     (e) __Assignment of payments__ 
 
@@ -85,7 +85,7 @@
 
         (1) __Eligibility attaches to persons__ 
 
-            Once a person is eligible for payments under this section, as determined under subsection (f) of this section, the continued eligibility of the person for the payments does not run with a farm, but shall remain with the person for the term of this section irrespective of whether the person sells, or continues to have an interest in, the farm that had the quota that qualified the person as an eligible peanut quota holder under subsection (f) of this section and irrespective of whether the person has a continuing interest in the production of peanuts.
+            Once a person is eligible for payments under this section, as determined under subsection (f), the continued eligibility of the person for the payments does not run with a farm, but shall remain with the person for the term of this section irrespective of whether the person sells, or continues to have an interest in, the farm that had the quota that qualified the person as an eligible peanut quota holder under subsection (f) and irrespective of whether the person has a continuing interest in the production of peanuts.
 
         (2) __Succession__ 
 

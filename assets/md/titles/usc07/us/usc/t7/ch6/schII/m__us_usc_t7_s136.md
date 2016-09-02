@@ -53,7 +53,7 @@
 
         (1) __Certified applicator__ 
 
-            The term “certified applicator” means any individual who is certified under [section 136i of this title][/us/usc/t7/s136i] as authorized to use or supervise the use of any pesticide which is classified for restricted use. Any applicator who holds or applies registered pesticides, or uses dilutions of registered pesticides consistent with subsection (ee) of this section, only to provide a service of controlling pests without delivering any unapplied pesticide to any person so served is not deemed to be a seller or distributor of pesticides under this subchapter.
+            The term “certified applicator” means any individual who is certified under [section 136i of this title][/us/usc/t7/s136i] as authorized to use or supervise the use of any pesticide which is classified for restricted use. Any applicator who holds or applies registered pesticides, or uses dilutions of registered pesticides consistent with subsection (ee), only to provide a service of controlling pests without delivering any unapplied pesticide to any person so served is not deemed to be a seller or distributor of pesticides under this subchapter.
 
         (2) __Private applicator__ 
 
@@ -277,7 +277,7 @@
 
     (jj)  __ <sup>\[__  __4__  __\]</sup> __  __ <sup><sup> __  __4__  __ So in original. No subsec. (ii) was enacted.__  __ </sup></sup> __  __Maintenance applicator__ 
 
-        The term “maintenance applicator” means any individual who, in the principal course of such individual’s employment, uses, or supervises the use of, a pesticide not classified for restricted use (other than a ready to use consumer products pesticide); for the purpose of providing structural pest control or lawn pest control including janitors, general maintenance personnel, sanitation personnel, and grounds maintenance personnel. The term “maintenance applicator” does not include private applicators as defined in subsection (e)(2) of this section; individuals who use antimicrobial pesticides, sanitizers or disinfectants; individuals employed by Federal, State, and local governments or any political subdivisions thereof, or individuals who use pesticides not classified for restricted use in or around their homes, boats, sod farms, nurseries, greenhouses, or other noncommercial property.
+        The term “maintenance applicator” means any individual who, in the principal course of such individual’s employment, uses, or supervises the use of, a pesticide not classified for restricted use (other than a ready to use consumer products pesticide); for the purpose of providing structural pest control or lawn pest control including janitors, general maintenance personnel, sanitation personnel, and grounds maintenance personnel. The term “maintenance applicator” does not include private applicators as defined in subsection (e)(2); individuals who use antimicrobial pesticides, sanitizers or disinfectants; individuals employed by Federal, State, and local governments or any political subdivisions thereof, or individuals who use pesticides not classified for restricted use in or around their homes, boats, sod farms, nurseries, greenhouses, or other noncommercial property.
 
     (kk) __Service technician__ 
 
@@ -331,7 +331,7 @@
 
         (3) __Included products__ 
 
-            The term “antimicrobial pesticide” does include any other chemical sterilant product (other than liquid chemical sterilant products exempt under subsection (u) of this section), any other disinfectant product, any other industrial microbiocide product, and any other preservative product that is not excluded by paragraph (2).
+            The term “antimicrobial pesticide” does include any other chemical sterilant product (other than liquid chemical sterilant products exempt under subsection (u)), any other disinfectant product, any other industrial microbiocide product, and any other preservative product that is not excluded by paragraph (2).
 
     (nn) __Public health pesticide__ 
 

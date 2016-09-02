@@ -43,7 +43,7 @@
 
             (A) the 1996 crop of a contract commodity; or
 
-            (B) in the case of acreage that was subject to a conservation reserve contract described in subsection (a)(3) of this section, the date the production flexibility contract was entered into or expanded to cover the acreage.
+            (B) in the case of acreage that was subject to a conservation reserve contract described in subsection (a)(3), the date the production flexibility contract was entered into or expanded to cover the acreage.
 
         (2) __Ending date__ 
 

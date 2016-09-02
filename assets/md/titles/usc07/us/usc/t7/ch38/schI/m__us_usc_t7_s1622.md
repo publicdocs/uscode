@@ -59,7 +59,7 @@
 
     (f) __Increasing consumer education__ 
 
-        To conduct and cooperate in consumer education for the more effective utilization and greater consumption of agricultural products: Provided, That no money appropriated under the authority of this Act shall be used to pay for newspaper or periodical advertising space or radio time in carrying out the purposes of this section and subsection (e) of this section.
+        To conduct and cooperate in consumer education for the more effective utilization and greater consumption of agricultural products: Provided, That no money appropriated under the authority of this Act shall be used to pay for newspaper or periodical advertising space or radio time in carrying out the purposes of this section and subsection (e).
 
     (g) __Collection and dissemination of marketing information__ 
 

@@ -35,11 +35,11 @@
 
         (2) __Producers__ 
 
-            The members who are producers referred to in subsection (a)(1) of this section shall be appointed from individuals nominated by producers.
+            The members who are producers referred to in subsection (a)(1) shall be appointed from individuals nominated by producers.
 
         (3) __Importers and exporters__ 
 
-            The members who are importers or exporters referred to in subsection (a)(1) of this section shall be appointed from individuals nominated by importers or exporters.
+            The members who are importers or exporters referred to in subsection (a)(1) shall be appointed from individuals nominated by importers or exporters.
 
         (4) __Public representative__ 
 
@@ -55,7 +55,7 @@
 
         (1) be appointed in the same manner as the member for whom the individual is an alternate; and
 
-        (2) serve on the Board if the member is absent from a meeting or is disqualified under subsection (f) of this section.
+        (2) serve on the Board if the member is absent from a meeting or is disqualified under subsection (f).
 
     (e) __Terms__ 
 

@@ -39,7 +39,7 @@
 
         (1) __Use of grants__ 
 
-            A weed management entity that receives a grant under subsection (a) of this section shall use the grant funds to carry out a project authorized by subsection (d) of this section for the control or eradication of a noxious weed.
+            A weed management entity that receives a grant under subsection (a) shall use the grant funds to carry out a project authorized by subsection (d) for the control or eradication of a noxious weed.
 
         (2) __Cost shares__ 
 

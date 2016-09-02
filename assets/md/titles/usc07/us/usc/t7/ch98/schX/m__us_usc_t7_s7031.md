@@ -17,11 +17,11 @@
 
     (a) __In general__ 
 
-        Not later than 180 days after June 20, 2000, in accordance with subsection (c) of this section, the Secretary of Agriculture (referred to in this subchapter as the “Secretary”) shall, to the maximum extent practicable, establish an Internet-based system that enables agricultural producers to access all forms of the agencies of the Department of Agriculture (referred to in this subchapter as the “Department”) specified in subsection (b) of this section.
+        Not later than 180 days after June 20, 2000, in accordance with subsection (c), the Secretary of Agriculture (referred to in this subchapter as the “Secretary”) shall, to the maximum extent practicable, establish an Internet-based system that enables agricultural producers to access all forms of the agencies of the Department of Agriculture (referred to in this subchapter as the “Department”) specified in subsection (b).
 
     (b) __Applicability__ 
 
-    The agencies referred to in subsection (a) of this section are the following:
+    The agencies referred to in subsection (a) are the following:
 
         (1) The Farm Service Agency.
 
@@ -33,13 +33,13 @@
 
     (c) __Implementation__ 
 
-    In carrying out subsection (a) of this section, the Secretary shall—
+    In carrying out subsection (a), the Secretary shall—
 
         (1)
 
          provide a method by which agricultural producers may—
 
-            (A) download from the Internet the forms of the agencies specified in subsection (b) of this section; and
+            (A) download from the Internet the forms of the agencies specified in subsection (b); and
 
             (B) submit completed forms via electronic facsimile, mail, or similar means;
 
@@ -47,7 +47,7 @@
 
         (3)
 
-         ensure that the agencies specified in subsection (b) of this section—
+         ensure that the agencies specified in subsection (b)—
 
             (A) use computer hardware and software that is compatible among the agencies and will operate in a common computing environment; and
 

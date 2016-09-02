@@ -19,7 +19,7 @@
 
         (1) __Requirement__ 
 
-            Except as provided in subsection (b) of this section, a retailer of a covered commodity shall inform consumers, at the final point of sale of the covered commodity to consumers, of the country of origin of the covered commodity.
+            Except as provided in subsection (b), a retailer of a covered commodity shall inform consumers, at the final point of sale of the covered commodity to consumers, of the country of origin of the covered commodity.
 
         (2) __Designation of country of origin for beef, lamb, pork, chicken, goat, and venison meat__ 
 
@@ -103,7 +103,7 @@
 
     (b) __Exemption for food service establishments__ 
 
-    Subsection (a) of this section shall not apply to a covered commodity if the covered commodity is—
+    Subsection (a) shall not apply to a covered commodity if the covered commodity is—
 
         (1) prepared or served in a food service establishment; and
 
@@ -117,7 +117,7 @@
 
         (1) __In general__ 
 
-            The information required by subsection (a) of this section may be provided to consumers by means of a label, stamp, mark, placard, or other clear and visible sign on the covered commodity or on the package, display, holding unit, or bin containing the commodity at the final point of sale to consumers.
+            The information required by subsection (a) may be provided to consumers by means of a label, stamp, mark, placard, or other clear and visible sign on the covered commodity or on the package, display, holding unit, or bin containing the commodity at the final point of sale to consumers.
 
         (2) __Labeled commodities__ 
 

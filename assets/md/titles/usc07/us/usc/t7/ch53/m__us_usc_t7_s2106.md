@@ -67,7 +67,7 @@
 
         (6) The Secretary may maintain a suit against any person subject to the order for the collection of such assessment, and the several district courts of the United States are hereby vested with jurisdiction to entertain such suits regardless of the amount in controversy. The remedies provided in this section shall be in addition to, and not exclusive of, the remedies provided for elsewhere in this chapter or now or hereafter existing at law or in equity.
 
-        (7) The provisions of this subsection and subsection (b) of this section shall not apply to cottonseed and the products derived from cottonseed whether domestically produced or imported.
+        (7) The provisions of this subsection and subsection (b) shall not apply to cottonseed and the products derived from cottonseed whether domestically produced or imported.
 
         (8) The provisions of this subsection relating to importers and assessments on imports of cotton shall be effective only if approved in a referendum as provided in section 2107(b) or 2107(c) of this title.
 

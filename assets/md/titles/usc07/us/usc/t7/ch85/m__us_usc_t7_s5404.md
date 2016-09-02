@@ -39,7 +39,7 @@
 
         The Board shall submit to the President and the Congress of the United States an annual report on—
 
-            (A) the environmental and infrastructure projects referred to in subsection (a) of this section that have been implemented, and
+            (A) the environmental and infrastructure projects referred to in subsection (a) that have been implemented, and
 
             (B) the need for the implementation of additional environmental and infrastructure projects.
 

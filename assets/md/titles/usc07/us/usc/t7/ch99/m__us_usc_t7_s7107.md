@@ -47,13 +47,13 @@
 
         (5) __Finality__ 
 
-            An order assessing a penalty or a cease-and-desist order issued under this subsection by the Secretary shall be final and conclusive unless the person against whom the order is issued files an appeal from the order with the United States court of appeals, as provided in subsection (d) of this section, not later than 30 days after the person receives notice of the order.
+            An order assessing a penalty or a cease-and-desist order issued under this subsection by the Secretary shall be final and conclusive unless the person against whom the order is issued files an appeal from the order with the United States court of appeals, as provided in subsection (d), not later than 30 days after the person receives notice of the order.
 
     (d) __Review by court of appeals__ 
 
         (1) __In general__ 
 
-        A person against whom an order is issued under subsection (c) of this section may obtain review of the order by—
+        A person against whom an order is issued under subsection (c) may obtain review of the order by—
 
             (A)
 

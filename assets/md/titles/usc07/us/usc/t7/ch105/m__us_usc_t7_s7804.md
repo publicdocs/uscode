@@ -113,15 +113,15 @@
 
         (5)
 
-            (A) develop budgets for the implementation of the order and submit the budgets to the Secretary for approval under subsection (d) of this section; and
+            (A) develop budgets for the implementation of the order and submit the budgets to the Secretary for approval under subsection (d); and
 
-            (B) propose and develop (or receive and evaluate), approve, and submit to the Secretary for approval under subsection (d) of this section plans or projects for Hass avocado promotion, industry information, consumer information, or related research;
+            (B) propose and develop (or receive and evaluate), approve, and submit to the Secretary for approval under subsection (d) plans or projects for Hass avocado promotion, industry information, consumer information, or related research;
 
         (6)
 
-            (A) implement plans and projects for Hass avocado promotion, industry information, consumer information, or related research, as provided in subsection (d) of this section; or
+            (A) implement plans and projects for Hass avocado promotion, industry information, consumer information, or related research, as provided in subsection (d); or
 
-            (B) contract or enter into agreements with appropriate persons to implement the plans and projects, as provided in subsection (e) of this section, and pay the costs of the implementation, or contracts and agreement, with funds received under the order;
+            (B) contract or enter into agreements with appropriate persons to implement the plans and projects, as provided in subsection (e), and pay the costs of the implementation, or contracts and agreement, with funds received under the order;
 
         (7) evaluate on-going and completed plans and projects for Hass avocado promotion, industry information, consumer information, or related research and comply with the independent evaluation provisions of the Commodity Promotion, Research, and Information Act of 1996 (subtitle B of title V of [Public Law 104–127][/us/pl/104/127] \[[7 U.S.C. 7411][/us/usc/t7/s7411] et seq.\]);
 
@@ -243,7 +243,7 @@
 
         (2) __Use of existing personnel and facilities__ 
 
-            The Board shall use, to the extent possible, the resources, staffs, and facilities of existing organizations, as provided in subsection (e)(1)(A) of this section.
+            The Board shall use, to the extent possible, the resources, staffs, and facilities of existing organizations, as provided in subsection (e)(1)(A).
 
     (h) __Assessments__ 
 
@@ -317,7 +317,7 @@
 
         (7) __Use of assessment funds__ 
 
-            The order shall provide that assessment funds shall be used for payment of costs incurred in implementing and administering the order, with provision for a reasonable reserve, and to cover the administrative costs incurred by the Secretary in implementing and administering this chapter, including any expenses incurred by the Secretary in conducting referenda under this chapter, subject to subsection (i) of this section.
+            The order shall provide that assessment funds shall be used for payment of costs incurred in implementing and administering the order, with provision for a reasonable reserve, and to cover the administrative costs incurred by the Secretary in implementing and administering this chapter, including any expenses incurred by the Secretary in conducting referenda under this chapter, subject to subsection (i).
 
         (8) __Assessment funds for State association__ 
 
@@ -371,7 +371,7 @@
 
         (2) __Exceptions__ 
 
-            Paragraph (1) does not preclude the Board from offering its programs and projects for use by commercial parties, under such terms and conditions as the Board may prescribe as approved by the Secretary. For the purposes of this subsection, a reference to State of origin does not constitute a reference to a private brand name with regard to any funds credited to, or disbursed by the Board to, a State organization of avocado producers established pursuant to State law. Furthermore, for the purposes of this section, a reference to either State of origin or country of origin does not constitute a reference to a private brand name with regard to any funds credited to, or disbursed by the Board to, any importers association established or certified in accordance with subsection (h)(9)(A) of this section.
+            Paragraph (1) does not preclude the Board from offering its programs and projects for use by commercial parties, under such terms and conditions as the Board may prescribe as approved by the Secretary. For the purposes of this subsection, a reference to State of origin does not constitute a reference to a private brand name with regard to any funds credited to, or disbursed by the Board to, a State organization of avocado producers established pursuant to State law. Furthermore, for the purposes of this section, a reference to either State of origin or country of origin does not constitute a reference to a private brand name with regard to any funds credited to, or disbursed by the Board to, any importers association established or certified in accordance with subsection (h)(9)(A).
 
     (k) __Prohibition on use of funds to influence governmental action__ 
 
@@ -443,7 +443,7 @@
 
     (o) __Other terms of the order__ 
 
-        The order shall contain such other terms and provisions, consistent with this chapter, as are necessary to carry out this chapter (including provision for the assessment of interest and a charge for each late payment of assessments under subsection (h) of this section).
+        The order shall contain such other terms and provisions, consistent with this chapter, as are necessary to carry out this chapter (including provision for the assessment of interest and a charge for each late payment of assessments under subsection (h)).
 
 ([Pub. L. 106–387, § 1(a)][/us/pl/106/387/s1/a] \[title XII, § 1205\], Oct. 28, 2000, [114 Stat. 1549][/us/stat/114/1549], 1549A–82.)
 

@@ -17,7 +17,7 @@
 
     (a) __Establishment__ 
 
-        The Secretary of Agriculture shall establish a fellowship program for, <sup>\[1\]</sup>  <sup><sup> 1 So in original. The word “for” probably should not appear. </sup></sup>  to be known as the “Cochran Fellowship Program”, to provide fellowships to individuals from eligible countries (as determined under subsection (b) of this section) who specialize in agriculture for study in the United States.
+        The Secretary of Agriculture shall establish a fellowship program for, <sup>\[1\]</sup>  <sup><sup> 1 So in original. The word “for” probably should not appear. </sup></sup>  to be known as the “Cochran Fellowship Program”, to provide fellowships to individuals from eligible countries (as determined under subsection (b)) who specialize in agriculture for study in the United States.
 
     (b) __Eligible countries__ 
 
@@ -63,11 +63,11 @@
 
     There are authorized to be appropriated without fiscal year limitation such sums as may be necessary to carry out the program established under this section, except that the amount of such funds in any fiscal year shall not exceed—
 
-        (1) for eligible countries that meet the requirements of subsection (b)(1) of this section, $3,000,000;
+        (1) for eligible countries that meet the requirements of subsection (b)(1), $3,000,000;
 
-        (2) for eligible countries that meet the requirements of subsection (b)(2) of this section, $2,000,000; and
+        (2) for eligible countries that meet the requirements of subsection (b)(2), $2,000,000; and
 
-        (3) for eligible countries that meet the requirements of subsection (b)(3) of this section, $5,000,000.
+        (3) for eligible countries that meet the requirements of subsection (b)(3), $5,000,000.
 
     (g) __Complementary funds__ 
 
@@ -91,7 +91,7 @@
 
     Subsec. (c)(1). [Pub. L. 104–127, § 277(b)(3)][/us/pl/104/127/s277/b/3], substituted “food and fiber needs” for “food needs”.
 
-    1992—Subsec. (a). [Pub. L. 102–511, § 705(a)(1)][/us/pl/102/511/s705/a/1], struck out “middle income countries and emerging democracies” after “fellowship program for” and inserted “(as determined under subsection (b) of this section)” after “eligible countries”.
+    1992—Subsec. (a). [Pub. L. 102–511, § 705(a)(1)][/us/pl/102/511/s705/a/1], struck out “middle income countries and emerging democracies” after “fellowship program for” and inserted “(as determined under subsection (b))” after “eligible countries”.
 
     Subsec. (b). [Pub. L. 102–511, § 705(a)(2)][/us/pl/102/511/s705/a/2], substituted “described in any of the following paragraphs” for “that meet the following requirements” in introductory provisions and added par. (4).
 

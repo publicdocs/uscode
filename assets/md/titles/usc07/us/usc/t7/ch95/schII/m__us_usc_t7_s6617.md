@@ -17,7 +17,7 @@
 
     (a) __Authorization of appropriations__ 
 
-    Except as provided in subsection (b) of this section, there are authorized to be appropriated—
+    Except as provided in subsection (b), there are authorized to be appropriated—
 
         (1)
 
@@ -31,7 +31,7 @@
 
     (b) __Limitation on authorization__ 
 
-        Subsection (a) of this section shall not in any way affect payments to the States pursuant to [section 500 of title 16][/us/usc/t16/s500].
+        Subsection (a) shall not in any way affect payments to the States pursuant to [section 500 of title 16][/us/usc/t16/s500].
 
     (c) __Spending authority__ 
 

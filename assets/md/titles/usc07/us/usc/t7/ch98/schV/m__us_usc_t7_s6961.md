@@ -21,7 +21,7 @@
 
     (b) __Confirmation required__ 
 
-        If the Secretary establishes the position of Under Secretary of Agriculture for Natural Resources and Environment authorized under subsection (a) of this section, the Under Secretary shall be appointed by the President, by and with the advice and consent of the Senate.
+        If the Secretary establishes the position of Under Secretary of Agriculture for Natural Resources and Environment authorized under subsection (a), the Under Secretary shall be appointed by the President, by and with the advice and consent of the Senate.
 
     (c) __Functions of Under Secretary__ 
 
@@ -35,7 +35,7 @@
 
     (d) __Succession__ 
 
-        Any official who is serving as Assistant Secretary of Agriculture for Natural Resources and Environment on October 13, 1994, and who was appointed by the President, by and with the advice and consent of the Senate, shall not be required to be reappointed under subsection (b) of this section to the successor position authorized under subsection (a) of this section if the Secretary establishes the position, and the official occupies the new position, within 180 days after October 13, 1994 (or such later date set by the Secretary if litigation delays rapid succession).
+        Any official who is serving as Assistant Secretary of Agriculture for Natural Resources and Environment on October 13, 1994, and who was appointed by the President, by and with the advice and consent of the Senate, shall not be required to be reappointed under subsection (b) to the successor position authorized under subsection (a) if the Secretary establishes the position, and the official occupies the new position, within 180 days after October 13, 1994 (or such later date set by the Secretary if litigation delays rapid succession).
 
 ([Pub. L. 103–354, title II, § 245][/us/pl/103/354/s245], Oct. 13, 1994, [108 Stat. 3223][/us/stat/108/3223].)
 

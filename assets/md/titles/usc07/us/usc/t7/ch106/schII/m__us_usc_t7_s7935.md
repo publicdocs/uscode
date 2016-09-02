@@ -19,7 +19,7 @@
 
         (1) __In general__ 
 
-            Except as provided in subsection (d) of this section, the Secretary may make loan deficiency payments available to producers on a farm that, although eligible to obtain a marketing assistance loan under [section 7931 of this title][/us/usc/t7/s7931] with respect to a loan commodity, agree to forgo obtaining the loan for the commodity in return for loan deficiency payments under this section.
+            Except as provided in subsection (d), the Secretary may make loan deficiency payments available to producers on a farm that, although eligible to obtain a marketing assistance loan under [section 7931 of this title][/us/usc/t7/s7931] with respect to a loan commodity, agree to forgo obtaining the loan for the commodity in return for loan deficiency payments under this section.
 
         (2) __Unshorn pelts, hay, and silage__ 
 
@@ -27,9 +27,9 @@
 
     (b) __Computation__ 
 
-    A loan deficiency payment for a loan commodity or commodity referred to in subsection (a)(2) of this section shall be computed by multiplying—
+    A loan deficiency payment for a loan commodity or commodity referred to in subsection (a)(2) shall be computed by multiplying—
 
-        (1) the payment rate determined under subsection (c) of this section for the commodity; by
+        (1) the payment rate determined under subsection (c) for the commodity; by
 
         (2) the quantity of the commodity produced by the eligible producers, excluding any quantity for which the producers obtain a marketing assistance loan under [section 7931 of this title][/us/usc/t7/s7931].
 
@@ -65,7 +65,7 @@
 
     (e) __Effective date for payment rate determination__ 
 
-        The Secretary shall determine the amount of the loan deficiency payment to be made under this section to the producers on a farm with respect to a quantity of a loan commodity or commodity referred to in subsection (a)(2) of this section using the payment rate in effect under subsection (c) of this section as of the date the producers request the payment.
+        The Secretary shall determine the amount of the loan deficiency payment to be made under this section to the producers on a farm with respect to a quantity of a loan commodity or commodity referred to in subsection (a)(2) using the payment rate in effect under subsection (c) as of the date the producers request the payment.
 
     (f) __Special loan deficiency payment rules__ 
 

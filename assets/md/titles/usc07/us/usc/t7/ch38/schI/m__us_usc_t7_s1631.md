@@ -147,7 +147,7 @@
 
     (d) __Purchases free of security interest__ 
 
-        Except as provided in subsection (e) of this section and notwithstanding any other provision of Federal, State, or local law, a buyer who in the ordinary course of business buys a farm product from a seller engaged in farming operations shall take free of a security interest created by the seller, even though the security interest is perfected; and the buyer knows of the existence of such interest.
+        Except as provided in subsection (e) and notwithstanding any other provision of Federal, State, or local law, a buyer who in the ordinary course of business buys a farm product from a seller engaged in farming operations shall take free of a security interest created by the seller, even though the security interest is perfected; and the buyer knows of the existence of such interest.
 
     (e) __Purchases subject to security interest__ 
 
@@ -247,7 +247,7 @@
 
              in the case of a farm product produced in a State that has established a central filing system, the commission merchant or selling agent—
 
-                (i) receives from the Secretary of State of such State written notice as provided in subsection (c)(2)(E) or (c)(2)(F) of this section that specifies both the seller and the farm products being sold by such seller as being subject to an effective financing statement or notice; and
+                (i) receives from the Secretary of State of such State written notice as provided in subsection (c)(2)(E) or (c)(2)(F) that specifies both the seller and the farm products being sold by such seller as being subject to an effective financing statement or notice; and
 
                 (ii) does not secure a waiver or release of the security interest specified in such effective financing statement or notice from the secured party by performing any payment obligation or otherwise.
 

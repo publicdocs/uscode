@@ -21,7 +21,7 @@
 
     (b) __Rate__ 
 
-        During the period specified in subsection (a) of this section, the price of milk shall be supported at a rate equal to $9.90 per hundredweight for milk containing 3.67 percent butterfat.
+        During the period specified in subsection (a), the price of milk shall be supported at a rate equal to $9.90 per hundredweight for milk containing 3.67 percent butterfat.
 
     (c) __Purchase prices__ 
 
@@ -31,7 +31,7 @@
 
         (2) __Sufficient prices__ 
 
-            The purchase prices shall be sufficient to enable plants of average efficiency to pay producers, on average, a price that is not less than the rate of price support for milk in effect under subsection (b) of this section.
+            The purchase prices shall be sufficient to enable plants of average efficiency to pay producers, on average, a price that is not less than the rate of price support for milk in effect under subsection (b).
 
     (d) __Special rule for butter and nonfat dry milk purchase prices__ 
 

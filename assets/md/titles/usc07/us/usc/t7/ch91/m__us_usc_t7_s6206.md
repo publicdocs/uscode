@@ -37,7 +37,7 @@
 
         (1) __Commencement of action__ 
 
-            The district courts of the United States in any district in which such person who is a petitioner under subsection (a) of this section resides or carries on business are hereby vested with jurisdiction to review the ruling on such person’s petition, if a complaint for that purpose is filed within 20 days after the date of the entry of a ruling by the Secretary under subsection (a) of this section.
+            The district courts of the United States in any district in which such person who is a petitioner under subsection (a) resides or carries on business are hereby vested with jurisdiction to review the ruling on such person’s petition, if a complaint for that purpose is filed within 20 days after the date of the entry of a ruling by the Secretary under subsection (a).
 
         (2) __Process__ 
 
@@ -53,7 +53,7 @@
 
         (4) __Enforcement__ 
 
-            The pendency of proceedings instituted pursuant to subsection (a) of this section shall not impede, hinder, or delay the Attorney General or the Secretary from obtaining relief pursuant to [section 6207 of this title][/us/usc/t7/s6207].
+            The pendency of proceedings instituted pursuant to subsection (a) shall not impede, hinder, or delay the Attorney General or the Secretary from obtaining relief pursuant to [section 6207 of this title][/us/usc/t7/s6207].
 
 ([Pub. L. 101–624, title XIX, § 1957][/us/pl/101/624/s1957], Nov. 28, 1990, [104 Stat. 3876][/us/stat/104/3876].)
 

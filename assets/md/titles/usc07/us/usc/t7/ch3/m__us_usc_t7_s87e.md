@@ -73,7 +73,7 @@
 
     (j) __Deposit of fees__ 
 
-        Fees collected under subsections (g), (h), and (i) of this section shall be deposited into the fund created under [section 79(j) of this title][/us/usc/t7/s79/j].
+        Fees collected under subsections (g), (h), and (i) shall be deposited into the fund created under [section 79(j) of this title][/us/usc/t7/s79/j].
 
     (k) __Official courtesies__ 
 

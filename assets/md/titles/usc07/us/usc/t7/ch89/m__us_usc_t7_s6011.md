@@ -23,7 +23,7 @@
 
         (1) __In general__ 
 
-            After the referendum required under subsection (a) of this section, the Secretary shall hold a referendum on request of the Board or 10 percent or more of the total number of growers, grower-shellers, and importers, to determine if growers, grower-shellers, and importers favor the termination or suspension of the plan.
+            After the referendum required under subsection (a), the Secretary shall hold a referendum on request of the Board or 10 percent or more of the total number of growers, grower-shellers, and importers, to determine if growers, grower-shellers, and importers favor the termination or suspension of the plan.
 
         (2) __Suspension or termination__ 
 

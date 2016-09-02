@@ -53,11 +53,11 @@
 
             (B) __Program requirements__ 
 
-                Except as provided in subparagraph (C), whenever the Secretary determines and announces that for any consecutive 4-week period, the Friday through Thursday average price quotation for the lowest-priced United States growth, as quoted for Middling (M) 13⁄32-inch cotton, delivered C.I.F. Northern Europe, adjusted for the value of any certificate issued under subsection (a) of this section, exceeds the Northern Europe price by more than 1.25 cents per pound, there shall immediately be in effect a special import quota.
+                Except as provided in subparagraph (C), whenever the Secretary determines and announces that for any consecutive 4-week period, the Friday through Thursday average price quotation for the lowest-priced United States growth, as quoted for Middling (M) 13⁄32-inch cotton, delivered C.I.F. Northern Europe, adjusted for the value of any certificate issued under subsection (a), exceeds the Northern Europe price by more than 1.25 cents per pound, there shall immediately be in effect a special import quota.
 
             (C) __Tight domestic supply__ 
 
-                During any month for which the Secretary estimates the season-ending United States upland cotton stocks-to-use ratio, as determined under subparagraph (D), to be below 16 percent, the Secretary, in making the determination under subparagraph (B), shall not adjust the Friday through Thursday average price quotation for the lowest-priced United States growth, as quoted for Middling (M) 13⁄32-inch cotton, delivered C.I.F. Northern Europe, for the value of any certificates issued under subsection (a) of this section.
+                During any month for which the Secretary estimates the season-ending United States upland cotton stocks-to-use ratio, as determined under subparagraph (D), to be below 16 percent, the Secretary, in making the determination under subparagraph (B), shall not adjust the Friday through Thursday average price quotation for the lowest-priced United States growth, as quoted for Middling (M) 13⁄32-inch cotton, delivered C.I.F. Northern Europe, for the value of any certificates issued under subsection (a).
 
             (D) __Season-ending United States stocks-to-use ratio__ 
 
@@ -73,7 +73,7 @@
 
         (4) __Overlap__ 
 
-            A special quota period may be established that overlaps any existing quota period if required by paragraph (1), except that a special quota period may not be established under this subsection if a quota period has been established under subsection (c) of this section.
+            A special quota period may be established that overlaps any existing quota period if required by paragraph (1), except that a special quota period may not be established under this subsection if a quota period has been established under subsection (c).
 
         (5) __Preferential tariff treatment__ 
 
@@ -159,7 +159,7 @@
 
         (2) __No overlap__ 
 
-            Notwithstanding paragraph (1), a quota period may not be established that overlaps an existing quota period or a special quota period established under subsection (b) of this section.
+            Notwithstanding paragraph (1), a quota period may not be established that overlaps an existing quota period or a special quota period established under subsection (b).
 
 ([Pub. L. 104–127, title I, § 136][/us/pl/104/127/s136], Apr. 4, 1996, [110 Stat. 909][/us/stat/110/909]; [Pub. L. 105–86, title VII, § 731][/us/pl/105/86/s731], Nov. 18, 1997, [111 Stat. 2108][/us/stat/111/2108]; [Pub. L. 105–277, div. A, § 101(a)][/us/pl/105/277/s101/a] \[title VII, § 762\], Oct. 21, 1998, [112 Stat. 2681][/us/stat/112/2681], 2681–36; [Pub. L. 106–78, title VIII, § 806][/us/pl/106/78/s806], Oct. 22, 1999, [113 Stat. 1179][/us/stat/113/1179].)
 

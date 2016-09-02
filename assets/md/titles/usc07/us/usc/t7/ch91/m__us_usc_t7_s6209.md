@@ -25,7 +25,7 @@
 
     (b) __Purpose of referendum__ 
 
-        The referendum referred to in subsection (a) of this section is for the purpose of determining whether the issuance of the order is approved or favored by not less than a majority of the producers, producer-handlers, and importers voting in the referendum. The order shall continue in effect only with such a majority.
+        The referendum referred to in subsection (a) is for the purpose of determining whether the issuance of the order is approved or favored by not less than a majority of the producers, producer-handlers, and importers voting in the referendum. The order shall continue in effect only with such a majority.
 
     (c) __Confidentiality__ 
 
@@ -39,7 +39,7 @@
 
         (2) __Approval of order__ 
 
-            If the order is approved by a majority of the producers, producer-handlers, and importers voting in the initial referendum under subsection (a) of this section, the funds in the escrow account shall be released to be used for the purposes of this chapter.
+            If the order is approved by a majority of the producers, producer-handlers, and importers voting in the initial referendum under subsection (a), the funds in the escrow account shall be released to be used for the purposes of this chapter.
 
         (3) __Disapproval of order__ 
 
@@ -49,7 +49,7 @@
 
                 (i) the amount in the escrow account required by paragraph (1) is not sufficient to refund the total amount of assessments demanded by producers, producer-handlers, or importers; and
 
-                (ii) the plan is not approved pursuant to the referendum conducted under subsection (a) of this section;
+                (ii) the plan is not approved pursuant to the referendum conducted under subsection (a);
 
                 the Board shall prorate the amount of such refunds among all eligible producers, producer-handlers, or importers who demand such refund.
 

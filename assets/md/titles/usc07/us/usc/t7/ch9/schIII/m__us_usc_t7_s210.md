@@ -21,7 +21,7 @@
 
     (b) __Complaints forwarded by agencies of a State or Territory__ 
 
-        The Secretary, at the request of the livestock commissioner, board of agriculture, or other agency of a State or Territory, having jurisdiction over stockyards in such State or Territory, shall investigate any complaint forwarded by such agency in like manner and with the same authority and powers as in the case of a complaint made under subsection (a) of this section.
+        The Secretary, at the request of the livestock commissioner, board of agriculture, or other agency of a State or Territory, having jurisdiction over stockyards in such State or Territory, shall investigate any complaint forwarded by such agency in like manner and with the same authority and powers as in the case of a complaint made under subsection (a).
 
     (c) __Inquiries instituted by Secretary__ 
 

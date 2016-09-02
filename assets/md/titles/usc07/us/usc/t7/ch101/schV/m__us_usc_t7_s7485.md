@@ -29,7 +29,7 @@
 
         (1) __In general__ 
 
-            Not earlier than 3 years after the effective date of an order approved under subsection (a) of this section, on the request of the Board or a representative group of processors, as described in paragraph (2), the Secretary may conduct additional referenda to determine whether processors favor the suspension or termination of the order.
+            Not earlier than 3 years after the effective date of an order approved under subsection (a), on the request of the Board or a representative group of processors, as described in paragraph (2), the Secretary may conduct additional referenda to determine whether processors favor the suspension or termination of the order.
 
         (2) __Representative group of processors__ 
 

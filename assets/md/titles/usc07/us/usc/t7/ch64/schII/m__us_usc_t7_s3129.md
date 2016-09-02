@@ -17,7 +17,7 @@
 
     (a) __Review of information technology systems__ 
 
-        The Secretary shall conduct a comprehensive review of state-of-the-art information technology systems that are available for use in developing the system required by subsection (b) of this section.
+        The Secretary shall conduct a comprehensive review of state-of-the-art information technology systems that are available for use in developing the system required by subsection (b).
 
     (b) __Monitoring and evaluation system__ 
 

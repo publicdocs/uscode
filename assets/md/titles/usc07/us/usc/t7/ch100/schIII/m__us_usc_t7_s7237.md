@@ -73,7 +73,7 @@
 
         (4) __Waiver of interest__ 
 
-            Notwithstanding subsection (d) of this section, the Secretary shall not charge interest on a loan made under paragraph (1).
+            Notwithstanding subsection (d), the Secretary shall not charge interest on a loan made under paragraph (1).
 
     (d) __Repayment rates__ 
 

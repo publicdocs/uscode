@@ -35,7 +35,7 @@
 
     (d) __Implementation of plan__ 
 
-        The Secretary shall complete the plan and commence implementation as soon as practicable after the date on which funds are first appropriated pursuant to the authorization of appropriations in subsection (e) of this section to carry out this section.
+        The Secretary shall complete the plan and commence implementation as soon as practicable after the date on which funds are first appropriated pursuant to the authorization of appropriations in subsection (e) to carry out this section.
 
     (e) __Authorization of appropriations__ 
 

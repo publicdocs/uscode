@@ -21,15 +21,15 @@
 
     (b) __State program__ 
 
-        In establishing the program under subsection (a) of this section, the Secretary shall permit each State to implement a State organic certification program for producers and handlers of agricultural products that have been produced using organic methods as provided for in this chapter.
+        In establishing the program under subsection (a), the Secretary shall permit each State to implement a State organic certification program for producers and handlers of agricultural products that have been produced using organic methods as provided for in this chapter.
 
     (c) __Consultation__ 
 
-        In developing the program under subsection (a) of this section, and the National List under [section 6517 of this title][/us/usc/t7/s6517], the Secretary shall consult with the National Organic Standards Board established under [section 6518 of this title][/us/usc/t7/s6518].
+        In developing the program under subsection (a), and the National List under [section 6517 of this title][/us/usc/t7/s6517], the Secretary shall consult with the National Organic Standards Board established under [section 6518 of this title][/us/usc/t7/s6518].
 
     (d) __Certification__ 
 
-        The Secretary shall implement the program established under subsection (a) of this section through certifying agents. Such certifying agents may certify a farm or handling operation that meets the requirements of this chapter and the requirements of the organic certification program of the State (if applicable) as an organically certified farm or handling operation.
+        The Secretary shall implement the program established under subsection (a) through certifying agents. Such certifying agents may certify a farm or handling operation that meets the requirements of this chapter and the requirements of the organic certification program of the State (if applicable) as an organically certified farm or handling operation.
 
 ([Pub. L. 101–624, title XXI, § 2104][/us/pl/101/624/s2104], Nov. 28, 1990, [104 Stat. 3937][/us/stat/104/3937].)
 

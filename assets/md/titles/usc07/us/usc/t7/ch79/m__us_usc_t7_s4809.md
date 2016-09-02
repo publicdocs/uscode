@@ -29,7 +29,7 @@
 
         (2)
 
-         Such assessment shall be collected and remitted to the Board once it is appointed pursuant to [section 4808 of this title][/us/usc/t7/s4808], but, until that time, to the Secretary, who shall promptly proceed to distribute the funds received by him in accordance with the provisions of subsection (c) of this section, except that the Secretary shall retain the funds to be received by the Board until such time as the Board is appointed pursuant to [section 4808 of this title][/us/usc/t7/s4808], by—
+         Such assessment shall be collected and remitted to the Board once it is appointed pursuant to [section 4808 of this title][/us/usc/t7/s4808], but, until that time, to the Secretary, who shall promptly proceed to distribute the funds received by him in accordance with the provisions of subsection (c), except that the Secretary shall retain the funds to be received by the Board until such time as the Board is appointed pursuant to [section 4808 of this title][/us/usc/t7/s4808], by—
 
             (A) in the case of subparagraph (A) of paragraph (1), the purchaser of the porcine animal referred to in such subparagraph;
 
@@ -75,7 +75,7 @@
 
              Each State association, shall receive an amount of funds equal to the product obtained by multiplying—
 
-                (i) the aggregate amount of assessments attributable to porcine animals produced in such State by persons described in subsection (a)(1)(A) and (B) of this section minus that State’s share of refunds determined pursuant to paragraph (4) by such persons pursuant to [section 4813 of this title][/us/usc/t7/s4813]; and
+                (i) the aggregate amount of assessments attributable to porcine animals produced in such State by persons described in subsection (a)(1)(A) and (B) minus that State’s share of refunds determined pursuant to paragraph (4) by such persons pursuant to [section 4813 of this title][/us/usc/t7/s4813]; and
 
                 (ii) a percentage applicable to such State association determined by the Delegate Body, but in no event less than sixteen and one-half percent, or
 
@@ -95,7 +95,7 @@
 
              The National Pork Producers Council, a nonprofit corporation of the type described in [section 501(c)(3) of title 26][/us/usc/t26/s501/c/3] and incorporated in the State of Iowa, shall receive an amount of funds equal to—
 
-                (i) 37½ percent of the aggregate amount of assessments collected under this section throughout the United States from the date assessment commences pursuant to subsection (a)(1) of this section until the first day of the month following the month in which the Board is appointed pursuant to [section 4808 of this title][/us/usc/t7/s4808]. <sup>\[2\]</sup>  <sup><sup> 2 So in original. The period probably should be a comma. </sup></sup> 
+                (i) 37½ percent of the aggregate amount of assessments collected under this section throughout the United States from the date assessment commences pursuant to subsection (a)(1) until the first day of the month following the month in which the Board is appointed pursuant to [section 4808 of this title][/us/usc/t7/s4808]. <sup>\[2\]</sup>  <sup><sup> 2 So in original. The period probably should be a comma. </sup></sup> 
 
                 (ii) 35 percent thereafter until the referendum is conducted pursuant to [section 4811 of this title][/us/usc/t7/s4811],
 
@@ -117,7 +117,7 @@
 
             (B)
 
-             The Board shall use such funds and any proceeds from the investment of such funds pursuant to subsection (g) of this section for—
+             The Board shall use such funds and any proceeds from the investment of such funds pursuant to subsection (g) for—
 
                 (i) financing promotion, research, and consumer information plans and projects in accordance with this chapter;  <sup>\[4\]</sup>  <sup><sup> 4 See References in Text note below. </sup></sup> 
 

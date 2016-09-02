@@ -43,15 +43,15 @@
 
         (1) __Validity__ 
 
-            An election under paragraph (2) or (3) of subsection (b) of this section shall not be considered valid unless a majority of the stockholders eligible to vote in the election have voted in the election.
+            An election under paragraph (2) or (3) of subsection (b) shall not be considered valid unless a majority of the stockholders eligible to vote in the election have voted in the election.
 
         (2) __Balloting__ 
 
-            Balloting in an election under paragraph (2) or (3) of subsection (b) of this section shall be conducted by mail pursuant to the procedures authorized in the bylaws of the telephone bank.
+            Balloting in an election under paragraph (2) or (3) of subsection (b) shall be conducted by mail pursuant to the procedures authorized in the bylaws of the telephone bank.
 
         (3) __No cumulative voting__ 
 
-            Cumulative voting shall not be permitted in any election under paragraph (2) or (3) of subsection (b) of this section.
+            Cumulative voting shall not be permitted in any election under paragraph (2) or (3) of subsection (b).
 
     (d) __Compensation__ 
 
@@ -61,7 +61,7 @@
 
         (2) __Exceptions__ 
 
-            The five members of the Telephone Bank Board appointed under subsection (b)(1)(A) of this section shall not receive compensation by reason of their service on the Telephone Bank Board.
+            The five members of the Telephone Bank Board appointed under subsection (b)(1)(A) shall not receive compensation by reason of their service on the Telephone Bank Board.
 
     (e) __Succession__ 
 

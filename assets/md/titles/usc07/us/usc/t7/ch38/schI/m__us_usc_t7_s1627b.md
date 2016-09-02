@@ -21,11 +21,11 @@
 
         (1) __Board__ 
 
-            The term “Board” means the Board of Directors established under subsection (f) of this section.
+            The term “Board” means the Board of Directors established under subsection (f).
 
         (2) __Center__ 
 
-            The term “Center” means the National Sheep Industry Improvement Center established under subsection (b) of this section.
+            The term “Center” means the National Sheep Industry Improvement Center established under subsection (b).
 
         (3) __Eligible entity__ 
 
@@ -41,7 +41,7 @@
 
         (4) __Fund__ 
 
-            The term “Fund” means the National Sheep Industry Improvement Center Revolving Fund established under subsection (e) of this section.
+            The term “Fund” means the National Sheep Industry Improvement Center Revolving Fund established under subsection (e).
 
         (5) __Intermediary__ 
 
@@ -111,11 +111,11 @@
 
             (A) __In general__ 
 
-                The Center may use amounts in the Fund to make direct loans, loan guarantees, cooperative agreements, equity interests, investments, repayable grants, and grants to eligible entities, either directly or through an intermediary, in accordance with a strategic plan submitted under subsection (d) of this section.
+                The Center may use amounts in the Fund to make direct loans, loan guarantees, cooperative agreements, equity interests, investments, repayable grants, and grants to eligible entities, either directly or through an intermediary, in accordance with a strategic plan submitted under subsection (d).
 
             (B) __Continued existence__ 
 
-                The Center shall manage the Fund in a manner that ensures that sufficient amounts are available in the Fund to carry out subsection (c) of this section. The Fund is intended to furnish the initial capital for a revolving fund that will eventually be privatized for the purposes of assisting the United States sheep and goat industries.
+                The Center shall manage the Fund in a manner that ensures that sufficient amounts are available in the Fund to carry out subsection (c). The Fund is intended to furnish the initial capital for a revolving fund that will eventually be privatized for the purposes of assisting the United States sheep and goat industries.
 
             (C) __Diverse area__ 
 
@@ -145,7 +145,7 @@
 
             The Center may use amounts in the Fund to—
 
-                (i) participate with Federal and State agencies in financing activities that are in accordance with a strategic plan submitted under subsection (d) of this section, including participation with several States in a regional effort;
+                (i) participate with Federal and State agencies in financing activities that are in accordance with a strategic plan submitted under subsection (d), including participation with several States in a regional effort;
 
                 (ii) participate with other public and private funding sources in financing activities that are in accordance with the strategic plan, including participation in a regional effort;
 
@@ -277,7 +277,7 @@
 
             (A) __In general__ 
 
-                The Board shall meet not less than once each fiscal year at the call of the chairperson or at the request of the executive director appointed under subsection (g)(1) of this section.
+                The Board shall meet not less than once each fiscal year at the call of the chairperson or at the request of the executive director appointed under subsection (g)(1).
 
             (B) __Location__ 
 
@@ -333,7 +333,7 @@
 
                 (i) __In general__ 
 
-                    The Secretary may vacate and remand to the Board for reconsideration any decision made pursuant to subsection (e)(3)(H) of this section if the Secretary determines that there has been a violation of this paragraph or any conflict of interest provision of the bylaws of the Board with respect to the decision.
+                    The Secretary may vacate and remand to the Board for reconsideration any decision made pursuant to subsection (e)(3)(H) if the Secretary determines that there has been a violation of this paragraph or any conflict of interest provision of the bylaws of the Board with respect to the decision.
 
                 (ii) __Reasons__ 
 

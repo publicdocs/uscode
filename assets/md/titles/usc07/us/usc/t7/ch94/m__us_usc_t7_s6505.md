@@ -35,7 +35,7 @@
 
     (c) __Exemptions for processed food__ 
 
-    Subsection (a) of this section shall not apply to agricultural products that—
+    Subsection (a) shall not apply to agricultural products that—
 
         (1) contain at least 50 percent organically produced ingredients by weight, excluding water and salt, to the extent that the Secretary, in consultation with the National Organic Standards Board and the Secretary of Health and Human Services, has determined to permit the word “organic” to be used on the principal display panel of such products only for the purpose of describing the organically produced ingredients; or
 
@@ -43,7 +43,7 @@
 
     (d) __Small farmer exemption__ 
 
-        Subsection (a)(1) of this section shall not apply to persons who sell no more than $5,000 annually in value of agricultural products.
+        Subsection (a)(1) shall not apply to persons who sell no more than $5,000 annually in value of agricultural products.
 
 ([Pub. L. 101–624, title XXI, § 2106][/us/pl/101/624/s2106], Nov. 28, 1990, [104 Stat. 3937][/us/stat/104/3937].)
 

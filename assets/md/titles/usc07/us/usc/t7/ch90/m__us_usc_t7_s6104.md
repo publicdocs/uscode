@@ -87,7 +87,7 @@
 
         (3) to appoint members of the Council to serve on an executive committee;
 
-        (4) to propose, receive, evaluate, approve and submit to the Secretary for approval under subsection (d) of this section budgets, plans, and projects of mushroom promotion, research, consumer information, and industry information, as well as to contract and enter into agreements with appropriate persons to implement such plans or projects;
+        (4) to propose, receive, evaluate, approve and submit to the Secretary for approval under subsection (d) budgets, plans, and projects of mushroom promotion, research, consumer information, and industry information, as well as to contract and enter into agreements with appropriate persons to implement such plans or projects;
 
         (5) to develop and propose to the Secretary voluntary quality and grade standards for mushrooms;
 
@@ -241,7 +241,7 @@
 
     (j) __Other terms and conditions__ 
 
-        The order also shall contain such terms and conditions, not inconsistent with this chapter, as are necessary to effectuate this chapter, including provisions for the assessment of a penalty for each late payment of assessments under subsection (g) of this section.
+        The order also shall contain such terms and conditions, not inconsistent with this chapter, as are necessary to effectuate this chapter, including provisions for the assessment of a penalty for each late payment of assessments under subsection (g).
 
 ([Pub. L. 101–624, title XIX, § 1925][/us/pl/101/624/s1925], Nov. 28, 1990, [104 Stat. 3857][/us/stat/104/3857]; [Pub. L. 102–237, title VIII, § 803(1)][/us/pl/102/237/s803/1], Dec. 13, 1991, [105 Stat. 1882][/us/stat/105/1882]; [Pub. L. 110–234, title X, § 10104][/us/pl/110/234/s10104], May 22, 2008, [122 Stat. 1336][/us/stat/122/1336]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title X, § 10104, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2097.)
 

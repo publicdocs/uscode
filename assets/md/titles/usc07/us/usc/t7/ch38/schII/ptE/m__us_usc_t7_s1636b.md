@@ -35,7 +35,7 @@
 
     (b) __Cease and desist__ 
 
-        In addition to, or in lieu of, a civil penalty under subsection (a) of this section, the Secretary may issue an order to cease and desist from continuing any violation.
+        In addition to, or in lieu of, a civil penalty under subsection (a), the Secretary may issue an order to cease and desist from continuing any violation.
 
     (c) __Notice and hearing__ 
 

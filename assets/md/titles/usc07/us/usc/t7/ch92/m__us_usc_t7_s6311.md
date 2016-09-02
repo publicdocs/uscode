@@ -21,7 +21,7 @@
 
     (b) __Administrative expenses__ 
 
-        Funds appropriated under subsection (a) of this section shall not be available for payment of the expenses or expenditures of the Board or the Committee in administering any provision of any order issued under this chapter.
+        Funds appropriated under subsection (a) shall not be available for payment of the expenses or expenditures of the Board or the Committee in administering any provision of any order issued under this chapter.
 
     (c) __Regulations__ 
 

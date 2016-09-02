@@ -21,7 +21,7 @@
 
     (b) __Content of list__ 
 
-        The list established under subsection (a) of this section shall contain an itemization, by specific use or application, of each synthetic substance permitted under subsection (c)(1) of this section or each natural substance prohibited under subsection (c)(2) of this section.
+        The list established under subsection (a) shall contain an itemization, by specific use or application, of each synthetic substance permitted under subsection (c)(1) or each natural substance prohibited under subsection (c)(2).
 
     (c) __Guidelines for prohibitions or exemptions__ 
 
@@ -47,7 +47,7 @@
 
                 (ii) is used in production and contains synthetic inert ingredients that are not classified by the Administrator of the Environmental Protection Agency as inerts of toxicological concern; and
 
-            (C) the specific exemption is developed using the procedures described in subsection (d) of this section.
+            (C) the specific exemption is developed using the procedures described in subsection (d).
 
         (2) __Prohibition on the use of specific natural substances__ 
 
@@ -61,7 +61,7 @@
 
                 (ii) is inconsistent with organic farming or handling, and the purposes of this chapter; and
 
-            (B) the specific prohibition is developed using the procedures specified in subsection (d) of this section.
+            (B) the specific prohibition is developed using the procedures specified in subsection (d).
 
     (d) __Procedure for establishing National List__ 
 

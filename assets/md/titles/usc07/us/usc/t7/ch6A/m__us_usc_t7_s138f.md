@@ -17,23 +17,23 @@
 
     (a) __In general__ 
 
-        At the time that an application for accreditation is received by the Secretary and annually thereafter, a laboratory seeking accreditation by the Secretary under the authority of this chapter, the Federal Meat Inspection Act ([21 U.S.C. 601][/us/usc/t21/s601] et seq.), or the Poultry Products Inspection Act ([21 U.S.C. 451][/us/usc/t21/s451] et seq.) shall pay to the Secretary a nonrefundable accreditation fee. All fees collected by the Secretary shall be credited to the account from which the expenses of the laboratory accreditation program are paid and, subject to subsection (e) of this section, shall be available immediately and remain available until expended to pay the expenses of the laboratory accreditation program.
+        At the time that an application for accreditation is received by the Secretary and annually thereafter, a laboratory seeking accreditation by the Secretary under the authority of this chapter, the Federal Meat Inspection Act ([21 U.S.C. 601][/us/usc/t21/s601] et seq.), or the Poultry Products Inspection Act ([21 U.S.C. 451][/us/usc/t21/s451] et seq.) shall pay to the Secretary a nonrefundable accreditation fee. All fees collected by the Secretary shall be credited to the account from which the expenses of the laboratory accreditation program are paid and, subject to subsection (e), shall be available immediately and remain available until expended to pay the expenses of the laboratory accreditation program.
 
     (b) __Amount of fee__ 
 
-        The fee required under this section shall be established by the Secretary in an amount that will offset the cost of the laboratory accreditation programs administered by the Secretary under the statutory authorities set forth in subsection (a) of this section.
+        The fee required under this section shall be established by the Secretary in an amount that will offset the cost of the laboratory accreditation programs administered by the Secretary under the statutory authorities set forth in subsection (a).
 
     (c) __Reimbursement of expenses__ 
 
-        Each laboratory that is accredited under a statutory authority set forth in subsection (a) of this section or that has applied for accreditation under such authority shall reimburse the Secretary for reasonable travel and other expenses necessary to perform onsite inspections of the laboratory.
+        Each laboratory that is accredited under a statutory authority set forth in subsection (a) or that has applied for accreditation under such authority shall reimburse the Secretary for reasonable travel and other expenses necessary to perform onsite inspections of the laboratory.
 
     (d) __Adjustment of fees__ 
 
-        The Secretary may, on an annual basis, adjust the fees imposed under this section as necessary to support the full costs of the laboratory accreditation programs carried out under the statutory authorities set forth in subsection (a) of this section.
+        The Secretary may, on an annual basis, adjust the fees imposed under this section as necessary to support the full costs of the laboratory accreditation programs carried out under the statutory authorities set forth in subsection (a).
 
     (e) __Appropriations prerequisite__ 
 
-        No fees collected under this section may be used to offset the cost of laboratory accreditation without appropriations made under subsection (f) of this section.
+        No fees collected under this section may be used to offset the cost of laboratory accreditation without appropriations made under subsection (f).
 
     (f) __Authorization of appropriations__ 
 

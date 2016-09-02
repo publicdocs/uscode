@@ -51,7 +51,7 @@
 
         (4) __Overlap__ 
 
-            A special quota period may be established that overlaps any existing quota period if required by paragraph (1), except that a special quota period may not be established under this subsection if a quota period has been established under subsection (c) of this section.
+            A special quota period may be established that overlaps any existing quota period if required by paragraph (1), except that a special quota period may not be established under this subsection if a quota period has been established under subsection (c).
 
         (5) __Preferential tariff treatment__ 
 
@@ -137,7 +137,7 @@
 
         (2) __No overlap__ 
 
-            Notwithstanding paragraph (1), a quota period may not be established that overlaps an existing quota period or a special quota period established under subsection (b) of this section.
+            Notwithstanding paragraph (1), a quota period may not be established that overlaps an existing quota period or a special quota period established under subsection (b).
 
 ([Pub. L. 107–171, title I, § 1207][/us/pl/107/171/s1207], May 13, 2002, [116 Stat. 161][/us/stat/116/161]; [Pub. L. 109–171, title I, § 1103(a)][/us/pl/109/171/s1103/a], Feb. 8, 2006, [120 Stat. 5][/us/stat/120/5].)
 

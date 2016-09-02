@@ -23,7 +23,7 @@
 
     (c) The term “cotton” means (1) all upland cotton harvested in the United States, and, except as used in [section 2106(e) of this title][/us/usc/t7/s2106/e], includes cottonseed of such cotton and the products derived from such cotton and its seed and (2) imports of upland cotton including the upland cotton content of the products derived from upland cotton (other than industrial products as defined by the Secretary). The term “cotton” shall not, however, include any entry of imported cotton by an importer that has a value or weight less than any de minimis figure as established in accordance with regulations issued by the Secretary. Any de minimis figure as established under this paragraph shall be such as to minimize the burden in administering the assessment provision but still provide for the maximum participation of imports of cotton in the assessment provisions of this chapter.
 
-    (d) The term “handler” means any person who handles cotton or cottonseed or, for the purposes of sections 2102, 2105(c), and 2112 of this title, any person who imports cotton, including de minimis amounts of cotton described in subsection (c) of this section, in the manner specified in the order or in the rules and regulations issued thereunder.
+    (d) The term “handler” means any person who handles cotton or cottonseed or, for the purposes of sections 2102, 2105(c), and 2112 of this title, any person who imports cotton, including de minimis amounts of cotton described in subsection (c), in the manner specified in the order or in the rules and regulations issued thereunder.
 
     (e) The term “United States” means the 50 States of the United States of America.
 
@@ -61,7 +61,7 @@
 
     1990—Subsec. (c). [Pub. L. 101–624, § 1997(1)][/us/pl/101/624/s1997/1], designated existing provisions as cl. (1) and added cl. (2).
 
-    Subsec. (d). [Pub. L. 101–624, § 1997(2)][/us/pl/101/624/s1997/2], inserted “or, for the purposes of sections 2102, 2105(c), and 2112 of this title, any person who imports cotton, including de minimis amounts of cotton described in subsection (c) of this section,” after “cottonseed”.
+    Subsec. (d). [Pub. L. 101–624, § 1997(2)][/us/pl/101/624/s1997/2], inserted “or, for the purposes of sections 2102, 2105(c), and 2112 of this title, any person who imports cotton, including de minimis amounts of cotton described in subsection (c),” after “cottonseed”.
 
     Subsec. (h). [Pub. L. 101–624, § 1997(3)][/us/pl/101/624/s1997/3], added subsec. (h).
 

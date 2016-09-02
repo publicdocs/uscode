@@ -17,7 +17,7 @@
 
     (a) __Provisions applicable to amendments to orders__ 
 
-        Except as provided in subsection (b) of this section, the provisions of this chapter applicable to orders shall be applicable to amendments to orders.
+        Except as provided in subsection (b), the provisions of this chapter applicable to orders shall be applicable to amendments to orders.
 
     (b) __Approval of amendments by cotton producers and importers__ 
 

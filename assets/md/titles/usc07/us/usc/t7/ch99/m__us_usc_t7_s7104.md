@@ -33,401 +33,607 @@
 
                   <tr>
 
-                    <td> Alabama  </td>
-
-                    <td> 1     </td>
+                    <td>   </td>
 
   </tr>
 
                   <tr>
 
-                    <td> Alaska  </td>
+                    <td> 
 
-                    <td> 1     </td>
+                Alabama  </td>
 
-  </tr>
+                    <td> 
 
-                  <tr>
-
-                    <td> Arizona  </td>
-
-                    <td> 1     </td>
+                1     </td>
 
   </tr>
 
                   <tr>
 
-                    <td> Arkansas  </td>
+                    <td> 
 
-                    <td> 1     </td>
+                Alaska  </td>
 
-  </tr>
+                    <td> 
 
-                  <tr>
-
-                    <td> California  </td>
-
-                    <td> 5     </td>
+                1     </td>
 
   </tr>
 
                   <tr>
 
-                    <td> Colorado  </td>
+                    <td> 
 
-                    <td> 4     </td>
+                Arizona  </td>
 
-  </tr>
+                    <td> 
 
-                  <tr>
-
-                    <td> Connecticut  </td>
-
-                    <td> 1     </td>
+                1     </td>
 
   </tr>
 
                   <tr>
 
-                    <td> Delaware  </td>
+                    <td> 
 
-                    <td> 1     </td>
+                Arkansas  </td>
 
-  </tr>
+                    <td> 
 
-                  <tr>
-
-                    <td> Florida  </td>
-
-                    <td> 1     </td>
+                1     </td>
 
   </tr>
 
                   <tr>
 
-                    <td> Georgia  </td>
+                    <td> 
 
-                    <td> 1     </td>
+                California  </td>
 
-  </tr>
+                    <td> 
 
-                  <tr>
-
-                    <td> Hawaii  </td>
-
-                    <td> 1     </td>
+                5     </td>
 
   </tr>
 
                   <tr>
 
-                    <td> Idaho  </td>
+                    <td> 
 
-                    <td> 2     </td>
+                Colorado  </td>
 
-  </tr>
+                    <td> 
 
-                  <tr>
-
-                    <td> Illinois  </td>
-
-                    <td> 1     </td>
+                4     </td>
 
   </tr>
 
                   <tr>
 
-                    <td> Indiana  </td>
+                    <td> 
 
-                    <td> 1     </td>
+                Connecticut  </td>
 
-  </tr>
+                    <td> 
 
-                  <tr>
-
-                    <td> Iowa  </td>
-
-                    <td> 2     </td>
+                1     </td>
 
   </tr>
 
                   <tr>
 
-                    <td> Kansas  </td>
+                    <td> 
 
-                    <td> 1     </td>
+                Delaware  </td>
 
-  </tr>
+                    <td> 
 
-                  <tr>
-
-                    <td> Kentucky  </td>
-
-                    <td> 1     </td>
+                1     </td>
 
   </tr>
 
                   <tr>
 
-                    <td> Louisiana  </td>
+                    <td> 
 
-                    <td> 1     </td>
+                Florida  </td>
 
-  </tr>
+                    <td> 
 
-                  <tr>
-
-                    <td> Maine  </td>
-
-                    <td> 1     </td>
+                1     </td>
 
   </tr>
 
                   <tr>
 
-                    <td> Maryland  </td>
+                    <td> 
 
-                    <td> 1     </td>
+                Georgia  </td>
 
-  </tr>
+                    <td> 
 
-                  <tr>
-
-                    <td> Massachusetts  </td>
-
-                    <td> 1     </td>
+                1     </td>
 
   </tr>
 
                   <tr>
 
-                    <td> Michigan  </td>
+                    <td> 
 
-                    <td> 1     </td>
+                Hawaii  </td>
 
-  </tr>
+                    <td> 
 
-                  <tr>
-
-                    <td> Minnesota  </td>
-
-                    <td> 2     </td>
+                1     </td>
 
   </tr>
 
                   <tr>
 
-                    <td> Mississippi  </td>
+                    <td> 
 
-                    <td> 1     </td>
+                Idaho  </td>
 
-  </tr>
+                    <td> 
 
-                  <tr>
-
-                    <td> Missouri  </td>
-
-                    <td> 1     </td>
+                2     </td>
 
   </tr>
 
                   <tr>
 
-                    <td> Montana  </td>
+                    <td> 
 
-                    <td> 5     </td>
+                Illinois  </td>
 
-  </tr>
+                    <td> 
 
-                  <tr>
-
-                    <td> Nebraska  </td>
-
-                    <td> 1     </td>
+                1     </td>
 
   </tr>
 
                   <tr>
 
-                    <td> Nevada  </td>
+                    <td> 
 
-                    <td> 1     </td>
+                Indiana  </td>
 
-  </tr>
+                    <td> 
 
-                  <tr>
-
-                    <td> New Hampshire  </td>
-
-                    <td> 1     </td>
+                1     </td>
 
   </tr>
 
                   <tr>
 
-                    <td> New Jersey  </td>
+                    <td> 
 
-                    <td> 1     </td>
+                Iowa  </td>
 
-  </tr>
+                    <td> 
 
-                  <tr>
-
-                    <td> New Mexico  </td>
-
-                    <td> 2     </td>
+                2     </td>
 
   </tr>
 
                   <tr>
 
-                    <td> New York  </td>
+                    <td> 
 
-                    <td> 1     </td>
+                Kansas  </td>
 
-  </tr>
+                    <td> 
 
-                  <tr>
-
-                    <td> North Carolina  </td>
-
-                    <td> 1     </td>
+                1     </td>
 
   </tr>
 
                   <tr>
 
-                    <td> North Dakota  </td>
+                    <td> 
 
-                    <td> 2     </td>
+                Kentucky  </td>
 
-  </tr>
+                    <td> 
 
-                  <tr>
-
-                    <td> Ohio  </td>
-
-                    <td> 1     </td>
+                1     </td>
 
   </tr>
 
                   <tr>
 
-                    <td> Oklahoma  </td>
+                    <td> 
 
-                    <td> 1     </td>
+                Louisiana  </td>
 
-  </tr>
+                    <td> 
 
-                  <tr>
-
-                    <td> Oregon  </td>
-
-                    <td> 2     </td>
+                1     </td>
 
   </tr>
 
                   <tr>
 
-                    <td> Pennsylvania  </td>
+                    <td> 
 
-                    <td> 1     </td>
+                Maine  </td>
 
-  </tr>
+                    <td> 
 
-                  <tr>
-
-                    <td> Rhode Island  </td>
-
-                    <td> 1     </td>
+                1     </td>
 
   </tr>
 
                   <tr>
 
-                    <td> South Carolina  </td>
+                    <td> 
 
-                    <td> 1     </td>
+                Maryland  </td>
 
-  </tr>
+                    <td> 
 
-                  <tr>
-
-                    <td> South Dakota  </td>
-
-                    <td> 4     </td>
+                1     </td>
 
   </tr>
 
                   <tr>
 
-                    <td> Tennessee  </td>
+                    <td> 
 
-                    <td> 1     </td>
+                Massachusetts  </td>
 
-  </tr>
+                    <td> 
 
-                  <tr>
-
-                    <td> Texas  </td>
-
-                    <td> 10     </td>
+                1     </td>
 
   </tr>
 
                   <tr>
 
-                    <td> Utah  </td>
+                    <td> 
 
-                    <td> 3     </td>
+                Michigan  </td>
 
-  </tr>
+                    <td> 
 
-                  <tr>
-
-                    <td> Vermont  </td>
-
-                    <td> 1     </td>
+                1     </td>
 
   </tr>
 
                   <tr>
 
-                    <td> Virginia  </td>
+                    <td> 
 
-                    <td> 1     </td>
+                Minnesota  </td>
 
-  </tr>
+                    <td> 
 
-                  <tr>
-
-                    <td> Washington  </td>
-
-                    <td> 1     </td>
+                2     </td>
 
   </tr>
 
                   <tr>
 
-                    <td> West Virginia  </td>
+                    <td> 
 
-                    <td> 1     </td>
+                Mississippi  </td>
 
-  </tr>
+                    <td> 
 
-                  <tr>
-
-                    <td> Wisconsin  </td>
-
-                    <td> 1     </td>
+                1     </td>
 
   </tr>
 
                   <tr>
 
-                    <td> Wyoming  </td>
+                    <td> 
 
-                    <td> 5     </td>
+                Missouri  </td>
+
+                    <td> 
+
+                1     </td>
+
+  </tr>
+
+                  <tr>
+
+                    <td> 
+
+                Montana  </td>
+
+                    <td> 
+
+                5     </td>
+
+  </tr>
+
+                  <tr>
+
+                    <td> 
+
+                Nebraska  </td>
+
+                    <td> 
+
+                1     </td>
+
+  </tr>
+
+                  <tr>
+
+                    <td> 
+
+                Nevada  </td>
+
+                    <td> 
+
+                1     </td>
+
+  </tr>
+
+                  <tr>
+
+                    <td> 
+
+                New Hampshire  </td>
+
+                    <td> 
+
+                1     </td>
+
+  </tr>
+
+                  <tr>
+
+                    <td> 
+
+                New Jersey  </td>
+
+                    <td> 
+
+                1     </td>
+
+  </tr>
+
+                  <tr>
+
+                    <td> 
+
+                New Mexico  </td>
+
+                    <td> 
+
+                2     </td>
+
+  </tr>
+
+                  <tr>
+
+                    <td> 
+
+                New York  </td>
+
+                    <td> 
+
+                1     </td>
+
+  </tr>
+
+                  <tr>
+
+                    <td> 
+
+                North Carolina  </td>
+
+                    <td> 
+
+                1     </td>
+
+  </tr>
+
+                  <tr>
+
+                    <td> 
+
+                North Dakota  </td>
+
+                    <td> 
+
+                2     </td>
+
+  </tr>
+
+                  <tr>
+
+                    <td> 
+
+                Ohio  </td>
+
+                    <td> 
+
+                1     </td>
+
+  </tr>
+
+                  <tr>
+
+                    <td> 
+
+                Oklahoma  </td>
+
+                    <td> 
+
+                1     </td>
+
+  </tr>
+
+                  <tr>
+
+                    <td> 
+
+                Oregon  </td>
+
+                    <td> 
+
+                2     </td>
+
+  </tr>
+
+                  <tr>
+
+                    <td> 
+
+                Pennsylvania  </td>
+
+                    <td> 
+
+                1     </td>
+
+  </tr>
+
+                  <tr>
+
+                    <td> 
+
+                Rhode Island  </td>
+
+                    <td> 
+
+                1     </td>
+
+  </tr>
+
+                  <tr>
+
+                    <td> 
+
+                South Carolina  </td>
+
+                    <td> 
+
+                1     </td>
+
+  </tr>
+
+                  <tr>
+
+                    <td> 
+
+                South Dakota  </td>
+
+                    <td> 
+
+                4     </td>
+
+  </tr>
+
+                  <tr>
+
+                    <td> 
+
+                Tennessee  </td>
+
+                    <td> 
+
+                1     </td>
+
+  </tr>
+
+                  <tr>
+
+                    <td> 
+
+                Texas  </td>
+
+                    <td> 
+
+                10     </td>
+
+  </tr>
+
+                  <tr>
+
+                    <td> 
+
+                Utah  </td>
+
+                    <td> 
+
+                3     </td>
+
+  </tr>
+
+                  <tr>
+
+                    <td> 
+
+                Vermont  </td>
+
+                    <td> 
+
+                1     </td>
+
+  </tr>
+
+                  <tr>
+
+                    <td> 
+
+                Virginia  </td>
+
+                    <td> 
+
+                1     </td>
+
+  </tr>
+
+                  <tr>
+
+                    <td> 
+
+                Washington  </td>
+
+                    <td> 
+
+                1     </td>
+
+  </tr>
+
+                  <tr>
+
+                    <td> 
+
+                West Virginia  </td>
+
+                    <td> 
+
+                1     </td>
+
+  </tr>
+
+                  <tr>
+
+                    <td> 
+
+                Wisconsin  </td>
+
+                    <td> 
+
+                1     </td>
+
+  </tr>
+
+                  <tr>
+
+                    <td> 
+
+                Wyoming  </td>
+
+                    <td> 
+
+                5     </td>
 
   </tr>
 
@@ -449,7 +655,7 @@
 
             (A) __Producers__ 
 
-                The Secretary shall appoint producers to represent units established under paragraph (1)(A) from nominations submitted by eligible organizations certified under subsection (c)(3) of this section. An eligible organization may submit only nominations from the membership of the organization for the unit in which the organization is located. To be represented on the Board, each eligible organization shall submit to the Secretary at least 1.5 nominations for each appointment to the Board for which the unit is entitled to representation, as determined under paragraph (1)(A). If a unit is entitled to 1 appointment on the Board, the unit shall submit at least 2 nominations for the appointment.
+                The Secretary shall appoint producers to represent units established under paragraph (1)(A) from nominations submitted by eligible organizations certified under subsection (c)(3). An eligible organization may submit only nominations from the membership of the organization for the unit in which the organization is located. To be represented on the Board, each eligible organization shall submit to the Secretary at least 1.5 nominations for each appointment to the Board for which the unit is entitled to representation, as determined under paragraph (1)(A). If a unit is entitled to 1 appointment on the Board, the unit shall submit at least 2 nominations for the appointment.
 
             (B) __Feeders__ 
 
@@ -563,7 +769,7 @@
 
         (14) to employ or retain necessary staff; and
 
-        (15) to invest funds in accordance with subsection (k) of this section.
+        (15) to invest funds in accordance with subsection (k).
 
     (f) __Budgets__ 
 
@@ -627,7 +833,7 @@
 
         (2) __Contracts and agreements__ 
 
-        A contract or agreement entered into by the Board under subsection (e)(7) of this section shall provide that—
+        A contract or agreement entered into by the Board under subsection (e)(7) shall provide that—
 
             (A) the contracting party shall develop and submit to the Board a plan or project, together with a budget or budgets that provides estimated costs to be incurred for the plan or project;
 

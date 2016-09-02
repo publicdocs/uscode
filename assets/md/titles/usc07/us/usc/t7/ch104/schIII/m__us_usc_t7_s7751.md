@@ -21,7 +21,7 @@
 
     (b) __Responsibility__ 
 
-    The individual or entity cooperating with the Secretary under subsection (a) of this section shall be responsible for—
+    The individual or entity cooperating with the Secretary under subsection (a) shall be responsible for—
 
         (1) the authority necessary to conduct the operations or take measures on all land and properties within the foreign country or State, other than those owned or controlled by the United States; and
 

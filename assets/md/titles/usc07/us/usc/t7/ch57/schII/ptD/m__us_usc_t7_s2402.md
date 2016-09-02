@@ -43,7 +43,7 @@
 
         (1) __In general__ 
 
-            If 2 or more applicants submit applications on the same effective filing date for varieties that cannot be clearly distinguished from one another, but that fulfill all other requirements of subsection (a) of this section, the applicant who first complies with all requirements of this chapter shall be entitled to a certificate of plant variety protection, to the exclusion of any other applicant.
+            If 2 or more applicants submit applications on the same effective filing date for varieties that cannot be clearly distinguished from one another, but that fulfill all other requirements of subsection (a), the applicant who first complies with all requirements of this chapter shall be entitled to a certificate of plant variety protection, to the exclusion of any other applicant.
 
         (2) __Requirements completed on same date__ 
 

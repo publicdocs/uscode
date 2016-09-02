@@ -55,11 +55,11 @@
 
         (1) __Term__ 
 
-            The term of office of a member appointed under subsection (c) of this section is four years, except that any member appointed to fill a vacancy occurring before the expiration of the term for which the predecessor of such member was appointed shall be appointed only for the remainder of such term.
+            The term of office of a member appointed under subsection (c) is four years, except that any member appointed to fill a vacancy occurring before the expiration of the term for which the predecessor of such member was appointed shall be appointed only for the remainder of such term.
 
         (2) __Initial appointment__ 
 
-            The Secretary shall make appointments to the advisory council so as to ensure that the terms of the members appointed under subsection (c) of this section do not all expire in the same year. A member may serve after the expiration of the member’s term until a successor takes office.
+            The Secretary shall make appointments to the advisory council so as to ensure that the terms of the members appointed under subsection (c) do not all expire in the same year. A member may serve after the expiration of the member’s term until a successor takes office.
 
         (3) __Reappointment__ 
 
@@ -67,11 +67,11 @@
 
         (4) __Vacancies__ 
 
-            If a vacancy occurs in the advisory council among the members appointed under subsection (c) of this section, the Secretary shall make an appointment to fill such vacancy within 90 days after the date such vacancy occurs.
+            If a vacancy occurs in the advisory council among the members appointed under subsection (c), the Secretary shall make an appointment to fill such vacancy within 90 days after the date such vacancy occurs.
 
     (f) __Chair__ 
 
-        The Secretary shall select as the chair of the advisory council one of the members appointed under subsection (c) of this section. The term of office of the chair shall be two years.
+        The Secretary shall select as the chair of the advisory council one of the members appointed under subsection (c). The term of office of the chair shall be two years.
 
     (g) __Meetings__ 
 

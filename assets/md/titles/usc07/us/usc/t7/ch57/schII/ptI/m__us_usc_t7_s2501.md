@@ -19,7 +19,7 @@
 
     (b) Reexamination of plant variety protection under this section and appeals shall be pursuant to the same procedures and with the same rights as for original examinations. Abandonment of the procedure while subject to a ruling against the retention of the certificate shall result in cancellation of the plant variety certificate thereon and notice thereof shall be endorsed on copies of the description of the protected plant variety thereafter distributed by the Plant Variety Protection Office.
 
-    (c) If a person acting under subsection (a) of this section makes a prima facie showing of facts needing proof, the Secretary may direct that the reexamination include such interparty proceedings as the Secretary shall establish.
+    (c) If a person acting under subsection (a) makes a prima facie showing of facts needing proof, the Secretary may direct that the reexamination include such interparty proceedings as the Secretary shall establish.
 
 ([Pub. L. 91–577, title II, § 91][/us/pl/91/577/s91], Dec. 24, 1970, [84 Stat. 1552][/us/stat/84/1552]; [Pub. L. 96–574, § 17][/us/pl/96/574/s17], Dec. 22, 1980, [94 Stat. 3351][/us/stat/94/3351]; [Pub. L. 103–349, § 13][/us/pl/103/349/s13](o), Oct. 6, 1994, [108 Stat. 3144][/us/stat/108/3144].)
 

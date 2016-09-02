@@ -21,7 +21,7 @@
 
     (b) __Referral to Attorney General__ 
 
-        A civil action authorized to be brought under this section shall be referred to the Attorney General for appropriate action, except that the Secretary is not required to refer to the Attorney General a violation of this chapter, or any order or regulation issued under this chapter, if the Secretary believes that the administration and enforcement of this chapter would be adequately served by providing a suitable written notice or warning to the person who committed such violation or by administrative action under subsection (c) of this section.
+        A civil action authorized to be brought under this section shall be referred to the Attorney General for appropriate action, except that the Secretary is not required to refer to the Attorney General a violation of this chapter, or any order or regulation issued under this chapter, if the Secretary believes that the administration and enforcement of this chapter would be adequately served by providing a suitable written notice or warning to the person who committed such violation or by administrative action under subsection (c).
 
     (c) __Civil penalties and orders__ 
 
@@ -45,13 +45,13 @@
 
         (4) __Finality__ 
 
-            The order of the Secretary assessing a penalty or imposing a cease-and-desist order shall be final and conclusive unless the affected person files an appeal from the Secretary’s order with the appropriate district court of the United States in accordance with subsection (d) of this section.
+            The order of the Secretary assessing a penalty or imposing a cease-and-desist order shall be final and conclusive unless the affected person files an appeal from the Secretary’s order with the appropriate district court of the United States in accordance with subsection (d).
 
     (d) __Review by district court__ 
 
         (1) __Commencement of action__ 
 
-        Any person against whom a violation is found and a civil penalty assessed or cease-and-desist order issued under subsection (c) of this section may obtain review of the penalty or order by—
+        Any person against whom a violation is found and a civil penalty assessed or cease-and-desist order issued under subsection (c) may obtain review of the penalty or order by—
 
             (A)
 
@@ -73,7 +73,7 @@
 
     (e) __Failure to obey orders__ 
 
-        Any person who fails to obey a cease-and-desist order after the order has become final and unappealable, or after the appropriate United States district court has entered a final judgment in favor of the Secretary, shall be subject to a civil penalty assessed by the Secretary, after opportunity for a hearing and for judicial review under the procedures specified in subsections (c) and (d) of this section, of not more than $5,000 for each offense. Each day during which the failure continues shall be considered as a separate violation of such order.
+        Any person who fails to obey a cease-and-desist order after the order has become final and unappealable, or after the appropriate United States district court has entered a final judgment in favor of the Secretary, shall be subject to a civil penalty assessed by the Secretary, after opportunity for a hearing and for judicial review under the procedures specified in subsections (c) and (d), of not more than $5,000 for each offense. Each day during which the failure continues shall be considered as a separate violation of such order.
 
     (f) __Failure to pay penalties__ 
 

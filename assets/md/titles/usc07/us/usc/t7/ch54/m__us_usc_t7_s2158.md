@@ -35,7 +35,7 @@
 
         (1) __In general__ 
 
-            A dealer may not sell, provide, or make available to any individual or entity a random source dog or cat unless such dealer provides the recipient with a valid certification that meets the requirements of paragraph (2) and indicates compliance with subsection (a) of this section.
+            A dealer may not sell, provide, or make available to any individual or entity a random source dog or cat unless such dealer provides the recipient with a valid certification that meets the requirements of paragraph (2) and indicates compliance with subsection (a).
 
         (2) __Requirements__ 
 
@@ -63,7 +63,7 @@
 
             (E) the date of the purchase or acquisition referred to in subparagraph (D);
 
-            (F) a statement by the pound or shelter (if the dealer acquired the dog or cat from such) that it satisfied the requirements of subsection (a) of this section; and
+            (F) a statement by the pound or shelter (if the dealer acquired the dog or cat from such) that it satisfied the requirements of subsection (a); and
 
             (G) any other information that the Secretary of Agriculture by regulation shall determine appropriate.
 
@@ -83,7 +83,7 @@
 
         (1) __In general__ 
 
-            Dealers who fail to act according to the requirements of this section or who include false information in the certification required under subsection (b) of this section, shall be subject to the penalties provided for under [section 2149 of this title][/us/usc/t7/s2149].
+            Dealers who fail to act according to the requirements of this section or who include false information in the certification required under subsection (b), shall be subject to the penalties provided for under [section 2149 of this title][/us/usc/t7/s2149].
 
         (2) __Subsequent violations__ 
 

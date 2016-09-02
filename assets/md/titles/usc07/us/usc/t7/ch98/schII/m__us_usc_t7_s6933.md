@@ -17,7 +17,7 @@
 
     (a) __Establishment__ 
 
-        Subject to subsection (e)  <sup>\[1\]</sup>  <sup><sup> 1 So in original. There is no subsection (e). </sup></sup>  of this section, the Secretary shall establish and maintain in the Department an independent Office of Risk Management.
+        Subject to subsection (e), <sup>\[1\]</sup>  <sup><sup> 1 So in original. There is no subsection (e). </sup></sup>  the Secretary shall establish and maintain in the Department an independent Office of Risk Management.
 
     (b) __Functions of Office of Risk Management__ 
 

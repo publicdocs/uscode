@@ -17,7 +17,7 @@
 
     (a) __Amendments to order__ 
 
-        Subject to subsection (b) of this section, the Secretary may issue such amendments to an order as may be necessary to carry out this chapter.
+        Subject to subsection (b), the Secretary may issue such amendments to an order as may be necessary to carry out this chapter.
 
     (b) __Amendment to assessment rates__ 
 

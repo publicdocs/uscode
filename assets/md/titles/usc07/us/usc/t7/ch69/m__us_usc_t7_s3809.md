@@ -25,7 +25,7 @@
 
         (3) will keep such records and make such reports showing compliance with paragraphs (1) and (2) of this subsection as the Secretary may require by regulation.
 
-        Except as provided in subsection (c) of this section, the Secretary shall not enforce this chapter or the regulations hereunder in any State which has primary enforcement responsibility pursuant to this section.
+        Except as provided in subsection (c), the Secretary shall not enforce this chapter or the regulations hereunder in any State which has primary enforcement responsibility pursuant to this section.
 
     (b) __Inadequate enforcement or administration by State; termination of responsibility by Secretary__ 
 
@@ -35,11 +35,11 @@
 
         (1) __In general__ 
 
-            On request of the Governor or other appropriate official of a State, the Secretary may terminate, effective as soon as the Secretary determines is practicable, the primary enforcement responsibility of a State under subsection (a) of this section. In terminating the primary enforcement responsibility under this subsection, the Secretary shall work with the appropriate State official to determine the level of support to be provided to the Secretary by the State under this chapter.
+            On request of the Governor or other appropriate official of a State, the Secretary may terminate, effective as soon as the Secretary determines is practicable, the primary enforcement responsibility of a State under subsection (a). In terminating the primary enforcement responsibility under this subsection, the Secretary shall work with the appropriate State official to determine the level of support to be provided to the Secretary by the State under this chapter.
 
         (2) __Reassumption__ 
 
-            Nothing in this subsection shall prevent a State from reassuming primary enforcement responsibility if the Secretary determines that the State meets the requirements of subsection (a) of this section.
+            Nothing in this subsection shall prevent a State from reassuming primary enforcement responsibility if the Secretary determines that the State meets the requirements of subsection (a).
 
     (d) __Emergency conditions__ 
 

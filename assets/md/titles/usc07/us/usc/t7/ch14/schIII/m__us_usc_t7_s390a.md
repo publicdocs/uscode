@@ -27,7 +27,7 @@
 
         (1) __Determination by Secretary__ 
 
-            With respect to each proposal for an agricultural research facility submitted under subsection (a) of this section, the Secretary shall determine whether the proposal meets the criteria set forth in paragraph (2).
+            With respect to each proposal for an agricultural research facility submitted under subsection (a), the Secretary shall determine whether the proposal meets the criteria set forth in paragraph (2).
 
         (2) __Criteria__ 
 
@@ -59,9 +59,9 @@
 
     (d) __Evaluation of proposals__ 
 
-    Not later than 90 days after receiving a proposal under subsection (a) of this section, the Secretary shall—
+    Not later than 90 days after receiving a proposal under subsection (a), the Secretary shall—
 
-        (1) evaluate and assess the merits of the proposal, including the extent to which the proposal meets the criteria set forth in subsection (c) of this section; and
+        (1) evaluate and assess the merits of the proposal, including the extent to which the proposal meets the criteria set forth in subsection (c); and
 
         (2) report to the congressional agriculture committees on the results of the evaluation and assessment.
 

@@ -33,7 +33,7 @@
 
         (1) __In general__ 
 
-            Assessments required under subsection (a) of this section shall be remitted by the fluid milk processor directly to the Board in accordance with the order and regulations issued by the Secretary.
+            Assessments required under subsection (a) shall be remitted by the fluid milk processor directly to the Board in accordance with the order and regulations issued by the Secretary.
 
         (2) __Time to remit assessment__ 
 

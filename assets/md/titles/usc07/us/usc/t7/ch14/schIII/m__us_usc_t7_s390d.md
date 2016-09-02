@@ -17,7 +17,7 @@
 
     (a) __In general__ 
 
-        Subject to subsection (b) of this section, there are authorized to be appropriated such sums as are necessary for each of fiscal years 1996 through 2018 for the study, plan, design, structure, and related costs of agricultural research facilities under this subchapter.
+        Subject to subsection (b), there are authorized to be appropriated such sums as are necessary for each of fiscal years 1996 through 2018 for the study, plan, design, structure, and related costs of agricultural research facilities under this subchapter.
 
     (b) __Allowable administrative costs__ 
 

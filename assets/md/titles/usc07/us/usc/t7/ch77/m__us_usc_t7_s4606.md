@@ -33,7 +33,7 @@
 
     (c) __Honey Board; membership; terms; alternates; compensation; powers; duties__ 
 
-        (1) The order described in subsection (a) of this section shall provide for the establishment and appointment by the Secretary of a Honey Board in accordance with this subsection.
+        (1) The order described in subsection (a) shall provide for the establishment and appointment by the Secretary of a Honey Board in accordance with this subsection.
 
         (2)
 
@@ -275,7 +275,7 @@
 
         (1)  __In general__  __.—__ 
 
-        The Honey Board shall administer collection of the assessment provided for in this subsection, and may accept voluntary contributions from other sources, to finance the expenses described in subsections (d) and (f) of this section.
+        The Honey Board shall administer collection of the assessment provided for in this subsection, and may accept voluntary contributions from other sources, to finance the expenses described in subsections (d) and (f).
 
         (2)  __Rate__  __.—__ 
 
@@ -335,7 +335,7 @@
 
         (1) __Use__ 
 
-            Funds collected by the Honey Board shall be used by the Honey Board for financing research, promotion, and consumer information, other expenses as described in subsection (d) of this section, such other expenses for the administration, maintenance, and functioning of the Honey Board as may be authorized by the Secretary, any reserve established under [section 4607(5) of this title][/us/usc/t7/s4607/5], and those administrative costs incurred by the Department of Agriculture pursuant to this chapter after an order has been promulgated under this chapter.
+            Funds collected by the Honey Board shall be used by the Honey Board for financing research, promotion, and consumer information, other expenses as described in subsection (d), such other expenses for the administration, maintenance, and functioning of the Honey Board as may be authorized by the Secretary, any reserve established under [section 4607(5) of this title][/us/usc/t7/s4607/5], and those administrative costs incurred by the Department of Agriculture pursuant to this chapter after an order has been promulgated under this chapter.
 
         (2) __Research projects__ 
 

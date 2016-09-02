@@ -41,7 +41,7 @@
 
         (1) __Commencement of action__ 
 
-            The district court of the United States for any district in which the person who is a petitioner under subsection (a) of this section resides or carries on business shall have jurisdiction to review a ruling on the petition, if a complaint is filed by the person not later than 20 days after the date of the entry of a ruling by the Secretary under subsection (a)(3) of this section.
+            The district court of the United States for any district in which the person who is a petitioner under subsection (a) resides or carries on business shall have jurisdiction to review a ruling on the petition, if a complaint is filed by the person not later than 20 days after the date of the entry of a ruling by the Secretary under subsection (a)(3).
 
         (2) __Process__ 
 
@@ -49,7 +49,7 @@
 
         (3) __Remands__ 
 
-        If the court determines, under paragraph (1), that a ruling issued under subsection (a)(3) of this section is not in accordance with applicable law, the court shall remand the matter to the Secretary with directions either—
+        If the court determines, under paragraph (1), that a ruling issued under subsection (a)(3) is not in accordance with applicable law, the court shall remand the matter to the Secretary with directions either—
 
             (A) to make such ruling as the court shall determine to be in accordance with law; or
 
@@ -57,7 +57,7 @@
 
         (4) __Enforcement__ 
 
-            The pendency of proceedings instituted under subsection (a) of this section shall not impede, hinder, or delay the Attorney General or the Secretary from taking any action under [section 7448 of this title][/us/usc/t7/s7448].
+            The pendency of proceedings instituted under subsection (a) shall not impede, hinder, or delay the Attorney General or the Secretary from taking any action under [section 7448 of this title][/us/usc/t7/s7448].
 
 ([Pub. L. 104–127, title V, § 538][/us/pl/104/127/s538], Apr. 4, 1996, [110 Stat. 1060][/us/stat/110/1060].)
 

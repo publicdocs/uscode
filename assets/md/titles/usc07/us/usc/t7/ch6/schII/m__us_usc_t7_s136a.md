@@ -187,7 +187,7 @@
 
         (5) __Approval of registration__ 
 
-        The Administrator shall register a pesticide if the Administrator determines that, when considered with any restrictions imposed under subsection (d) of this section—
+        The Administrator shall register a pesticide if the Administrator determines that, when considered with any restrictions imposed under subsection (d)—
 
             (A) its composition is such as to warrant the proposed claims for it;
 
@@ -383,11 +383,11 @@
 
             (A) __Submission required__ 
 
-                The Administrator shall use the authority in subsection (c)(2)(B) of this section to require the submission of data when such data are necessary for a registration review.
+                The Administrator shall use the authority in subsection (c)(2)(B) to require the submission of data when such data are necessary for a registration review.
 
             (B) __Data submission, compensation, and exemption__ 
 
-                For purposes of this subsection, the provisions of subsections (c)(1), (c)(2)(B), and (c)(2)(D) of this section shall be utilized for and be applicable to any data required for registration review.
+                For purposes of this subsection, the provisions of subsections (c)(1), (c)(2)(B), and (c)(2)(D) shall be utilized for and be applicable to any data required for registration review.
 
     (h) __Registration requirements for antimicrobial pesticides__ 
 
@@ -477,7 +477,7 @@
 
             (C) __Expedited review__ 
 
-                This subsection does not affect the requirements or extend the deadlines or review periods contained in subsection (c)(3) of this section.
+                This subsection does not affect the requirements or extend the deadlines or review periods contained in subsection (c)(3).
 
             (D) __Alternative review periods__ 
 
@@ -511,7 +511,7 @@
 
                 (iii) __Exemption__ 
 
-                    This subparagraph does not apply to an application for an antimicrobial pesticide that is filed under subsection (c)(3)(B) of this section prior to 90 days after August 3, 1996.
+                    This subparagraph does not apply to an application for an antimicrobial pesticide that is filed under subsection (c)(3)(B) prior to 90 days after August 3, 1996.
 
                 (iv) __Limitation__ 
 

@@ -65,7 +65,7 @@
 
         (2) __Third country banks__ 
 
-            The Commodity Credit Corporation may guarantee under subsection (a) of this section the repayment of credit made available to finance an export sale irrespective of whether the obligor is located in the country to which the export sale is destined.
+            The Commodity Credit Corporation may guarantee under subsection (a) the repayment of credit made available to finance an export sale irrespective of whether the obligor is located in the country to which the export sale is destined.
 
     (h) __Conditions for fish and processed fish products__ 
 

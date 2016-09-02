@@ -17,7 +17,7 @@
 
     (a) __In general__ 
 
-        To effectuate the declared policy of [section 6301(b) of this title][/us/usc/t7/s6301/b], the Secretary, subject to the procedures provided in subsection (b) of this section, shall issue orders under this chapter applicable to producers and first purchasers of soybeans. Any such order shall be national in scope, and not more than one order shall be in effect under this chapter at any one time.
+        To effectuate the declared policy of [section 6301(b) of this title][/us/usc/t7/s6301/b], the Secretary, subject to the procedures provided in subsection (b), shall issue orders under this chapter applicable to producers and first purchasers of soybeans. Any such order shall be national in scope, and not more than one order shall be in effect under this chapter at any one time.
 
     (b) __Procedure__ 
 

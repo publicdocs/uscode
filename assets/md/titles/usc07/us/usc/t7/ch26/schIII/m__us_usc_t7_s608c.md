@@ -21,7 +21,7 @@
 
     (2) __Commodities to which applicable__ 
 
-        Orders issued pursuant to this section shall be applicable only to (A) the following agricultural commodities and the products thereof (except canned or frozen pears, grapefruit, cherries, apples, or cranberries, the products of naval stores, and the products of honeybees), or to any regional, or market classification of any such commodity or product: Milk, fruits (including filberts, almonds, pecans and walnuts but not including apples, other than apples produced in the States of Washington, Oregon, Idaho, New York, Michigan, Maryland, New Jersey, Indiana, California, Maine, Vermont, New Hampshire, Rhode Island, Massachusetts, Connecticut, Colorado, Utah, New Mexico, Illinois, and Ohio, and not including fruits for canning or freezing other than pears, olives, grapefruit, cherries, caneberries (including raspberries, blackberries, and loganberries), cranberries, and apples produced in the States named above except Washington, Oregon, and Idaho), tobacco, vegetables (not including vegetables, other than asparagus, for canning or freezing and not including potatoes for canning, freezing, or other processing), hops, honeybees and naval stores as included in the Naval Stores Act \[[7 U.S.C. 91][/us/usc/t7/s91] et seq.\] and standards established thereunder (including refined or partially refined oleoresin): Provided, That no order issued pursuant to this section shall be effective as to any grapefruit for canning or freezing unless the Secretary of Agriculture determines, in addition to other findings and determinations required by this chapter, that the issuance of such order is approved or favored by the processors who, during a representative period determined by the Secretary, have been engaged in canning or freezing such commodity for market and have canned or frozen for market more than 50 per centum of the total volume of such commodity canned or frozen for market during such representative period; and (B) any agricultural commodity (except honey, cotton, rice, wheat, corn, grain sorghums, oats, barley, rye, sugarcane, sugarbeets, wool, mohair, livestock, soybeans, cottonseed, flaxseed, poultry (but not excepting turkeys and not excepting poultry which produce commercial eggs), fruits and vegetables for canning or freezing, including potatoes for canning, freezing, or other processing  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be followed by a comma. </sup></sup>  and apples), or any regional or market classification thereof, not subject to orders under (A) of this subdivision, but not the products (including canned or frozen commodities or products) thereof. No order issued pursuant to this section shall be effective as to cherries, apples, or cranberries for canning or freezing unless the Secretary of Agriculture determines, in addition to other required findings and determinations, that the issuance of such order is approved or favored by processors who, during a representative period determined by the Secretary, have engaged in canning or freezing such commodity for market and have frozen or canned more than 50 per centum of the total volume of the commodity to be regulated which was canned or frozen within the production area, or marketed within the marketing area, defined in such order, during such representative period. No order issued pursuant to this section shall be applicable to peanuts produced in more than one of the following production areas: the Virginia-Carolina production area, the Southeast production area, and the Southwest production area. If the Secretary determines that the declared policy of this chapter will be better achieved thereby (i) the commodities of the same general class and used wholly or in part for the same purposes may be combined and treated as a single commodity and (ii) the portion of an agricultural commodity devoted to or marketed for a particular use or combination of uses, may be treated as a separate agricultural commodity. All agricultural commodities and products covered hereby shall be deemed specified herein for the purposes of subsections (6) and (7) of this section.
+        Orders issued pursuant to this section shall be applicable only to (A) the following agricultural commodities and the products thereof (except canned or frozen pears, grapefruit, cherries, apples, or cranberries, the products of naval stores, and the products of honeybees), or to any regional, or market classification of any such commodity or product: Milk, fruits (including filberts, almonds, pecans and walnuts but not including apples, other than apples produced in the States of Washington, Oregon, Idaho, New York, Michigan, Maryland, New Jersey, Indiana, California, Maine, Vermont, New Hampshire, Rhode Island, Massachusetts, Connecticut, Colorado, Utah, New Mexico, Illinois, and Ohio, and not including fruits for canning or freezing other than pears, olives, grapefruit, cherries, caneberries (including raspberries, blackberries, and loganberries), cranberries, and apples produced in the States named above except Washington, Oregon, and Idaho), tobacco, vegetables (not including vegetables, other than asparagus, for canning or freezing and not including potatoes for canning, freezing, or other processing), hops, honeybees and naval stores as included in the Naval Stores Act \[[7 U.S.C. 91][/us/usc/t7/s91] et seq.\] and standards established thereunder (including refined or partially refined oleoresin): Provided, That no order issued pursuant to this section shall be effective as to any grapefruit for canning or freezing unless the Secretary of Agriculture determines, in addition to other findings and determinations required by this chapter, that the issuance of such order is approved or favored by the processors who, during a representative period determined by the Secretary, have been engaged in canning or freezing such commodity for market and have canned or frozen for market more than 50 per centum of the total volume of such commodity canned or frozen for market during such representative period; and (B) any agricultural commodity (except honey, cotton, rice, wheat, corn, grain sorghums, oats, barley, rye, sugarcane, sugarbeets, wool, mohair, livestock, soybeans, cottonseed, flaxseed, poultry (but not excepting turkeys and not excepting poultry which produce commercial eggs), fruits and vegetables for canning or freezing, including potatoes for canning, freezing, or other processing  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be followed by a comma. </sup></sup>  and apples), or any regional or market classification thereof, not subject to orders under (A) of this subdivision, but not the products (including canned or frozen commodities or products) thereof. No order issued pursuant to this section shall be effective as to cherries, apples, or cranberries for canning or freezing unless the Secretary of Agriculture determines, in addition to other required findings and determinations, that the issuance of such order is approved or favored by processors who, during a representative period determined by the Secretary, have engaged in canning or freezing such commodity for market and have frozen or canned more than 50 per centum of the total volume of the commodity to be regulated which was canned or frozen within the production area, or marketed within the marketing area, defined in such order, during such representative period. No order issued pursuant to this section shall be applicable to peanuts produced in more than one of the following production areas: the Virginia-Carolina production area, the Southeast production area, and the Southwest production area. If the Secretary determines that the declared policy of this chapter will be better achieved thereby (i) the commodities of the same general class and used wholly or in part for the same purposes may be combined and treated as a single commodity and (ii) the portion of an agricultural commodity devoted to or marketed for a particular use or combination of uses, may be treated as a separate agricultural commodity. All agricultural commodities and products covered hereby shall be deemed specified herein for the purposes of subsections (6) and (7).
 
     (3) __Notice and hearing__ 
 
@@ -33,7 +33,7 @@
 
     (5) __Terms—Milk and its products__ 
 
-    In the case of milk and its products, orders issued pursuant to this section shall contain one or more of the following terms and conditions, and (except as provided in subsection (7) of this section) no others:
+    In the case of milk and its products, orders issued pursuant to this section shall contain one or more of the following terms and conditions, and (except as provided in subsection (7)) no others:
 
         (A) Classifying milk in accordance with the form in which or the purpose for which it is used, and fixing, or providing a method for fixing, minimum prices for each such use classification which all handlers shall pay, and the time when payments shall be made, for milk purchased from producers or associations of producers. Such prices shall be uniform as to all handlers, subject only to adjustments for (1) volume, market, and production differentials customarily applied by the handlers subject to such order, (2) the grade or quality of the milk purchased, and (3) the locations at which delivery of such milk, or any use classification thereof, is made to such handlers. Throughout the 2-year period beginning on the effective date of this sentence (and subsequent to such 2-year period unless modified by amendment to the order involved), the minimum aggregate amount of the adjustments, under clauses (1) and (2) of the preceding sentence, to prices for milk of the highest use classification under orders that are in effect under this section on December 23, 1985, shall be as follows:
 
@@ -41,385 +41,543 @@
 
           <tr>
 
-            <td>    </td>
+            <td> 
 
-            <td> Minimum Aggregate Dollar  </td>
+        Marketing Area Subject to Order
 
-  </tr>
+   </td>
 
-          <tr>
+            <td> 
 
-            <td>    </td>
-
-            <td> Amount of Such Adjustments  </td>
+        Minimum Aggregate Dollar Amount of Such Adjustments Per Hundredweight of Milk Having 3.5 Percent Milkfat  </td>
 
   </tr>
 
           <tr>
 
-            <td> Marketing Area  </td>
+            <td> 
 
-            <td> Per Hundredweight of Milk  </td>
+        New England  </td>
 
-  </tr>
+            <td> 
 
-          <tr>
-
-            <td>   Subject to Order  </td>
-
-            <td> Having 3.5 Percent Milkfat  </td>
+        $3.24  </td>
 
   </tr>
 
           <tr>
 
-            <td> New England  </td>
+            <td> 
 
-            <td> $3.24    </td>
+        New York-New Jersey  </td>
 
-  </tr>
+            <td> 
 
-          <tr>
-
-            <td> New York-New Jersey  </td>
-
-            <td> 3.14    </td>
+        3.14  </td>
 
   </tr>
 
           <tr>
 
-            <td> Middle Atlantic  </td>
+            <td> 
 
-            <td> 3.03    </td>
+        Middle Atlantic  </td>
 
-  </tr>
+            <td> 
 
-          <tr>
-
-            <td> Georgia  </td>
-
-            <td> 3.08    </td>
+        3.03  </td>
 
   </tr>
 
           <tr>
 
-            <td> Alabama-West Florida  </td>
+            <td> 
 
-            <td> 3.08    </td>
+        Georgia  </td>
 
-  </tr>
+            <td> 
 
-          <tr>
-
-            <td> Upper Florida  </td>
-
-            <td> 3.58    </td>
+        3.08  </td>
 
   </tr>
 
           <tr>
 
-            <td> Tampa Bay  </td>
+            <td> 
 
-            <td> 3.88    </td>
+        Alabama-West Florida  </td>
 
-  </tr>
+            <td> 
 
-          <tr>
-
-            <td> Southeastern Florida  </td>
-
-            <td> 4.18    </td>
+        3.08  </td>
 
   </tr>
 
           <tr>
 
-            <td> Michigan Upper Peninsula  </td>
+            <td> 
 
-            <td> 1.35    </td>
+        Upper Florida  </td>
 
-  </tr>
+            <td> 
 
-          <tr>
-
-            <td> Southern Michigan  </td>
-
-            <td> 1.75    </td>
+        3.58  </td>
 
   </tr>
 
           <tr>
 
-            <td> Eastern Ohio-Western Pennsylvania  </td>
+            <td> 
 
-            <td> 1.95    </td>
+        Tampa Bay  </td>
 
-  </tr>
+            <td> 
 
-          <tr>
-
-            <td> Ohio Valley  </td>
-
-            <td> 2.04    </td>
+        3.88  </td>
 
   </tr>
 
           <tr>
 
-            <td> Indiana  </td>
+            <td> 
 
-            <td> 2.00    </td>
+        Southeastern Florida  </td>
 
-  </tr>
+            <td> 
 
-          <tr>
-
-            <td> Chicago Regional  </td>
-
-            <td> 1.40    </td>
+        4.18  </td>
 
   </tr>
 
           <tr>
 
-            <td> Central Illinois  </td>
+            <td> 
 
-            <td> 1.61    </td>
+        Michigan Upper Peninsula  </td>
 
-  </tr>
+            <td> 
 
-          <tr>
-
-            <td> Southern Illinois  </td>
-
-            <td> 1.92    </td>
+        1.35  </td>
 
   </tr>
 
           <tr>
 
-            <td> Louisville-Lexington-Evansville  </td>
+            <td> 
 
-            <td> 2.11    </td>
+        Southern Michigan  </td>
 
-  </tr>
+            <td> 
 
-          <tr>
-
-            <td> Upper Midwest  </td>
-
-            <td> 1.20    </td>
+        1.75  </td>
 
   </tr>
 
           <tr>
 
-            <td> Eastern South Dakota  </td>
+            <td> 
 
-            <td> 1.50    </td>
+        Eastern Ohio-Western Pennsylvania  </td>
 
-  </tr>
+            <td> 
 
-          <tr>
-
-            <td> Black Hills, South Dakota  </td>
-
-            <td> 2.05    </td>
+        1.95  </td>
 
   </tr>
 
           <tr>
 
-            <td> Iowa  </td>
+            <td> 
 
-            <td> 1.55    </td>
+        Ohio Valley  </td>
 
-  </tr>
+            <td> 
 
-          <tr>
-
-            <td> Nebraska-Western Iowa  </td>
-
-            <td> 1.75    </td>
+        2.04  </td>
 
   </tr>
 
           <tr>
 
-            <td> Greater Kansas City  </td>
+            <td> 
 
-            <td> 1.92    </td>
+        Indiana  </td>
 
-  </tr>
+            <td> 
 
-          <tr>
-
-            <td> Tennessee Valley  </td>
-
-            <td> 2.77    </td>
+        2.00  </td>
 
   </tr>
 
           <tr>
 
-            <td> Nashville, Tennessee  </td>
+            <td> 
 
-            <td> 2.52    </td>
+        Chicago Regional  </td>
 
-  </tr>
+            <td> 
 
-          <tr>
-
-            <td> Paducah, Kentucky  </td>
-
-            <td> 2.39    </td>
+        1.40  </td>
 
   </tr>
 
           <tr>
 
-            <td> Memphis, Tennessee  </td>
+            <td> 
 
-            <td> 2.77    </td>
+        Central Illinois  </td>
 
-  </tr>
+            <td> 
 
-          <tr>
-
-            <td> Central Arkansas  </td>
-
-            <td> 2.77    </td>
+        1.61  </td>
 
   </tr>
 
           <tr>
 
-            <td> Fort Smith, Arkansas  </td>
+            <td> 
 
-            <td> 2.77    </td>
+        Southern Illinois  </td>
 
-  </tr>
+            <td> 
 
-          <tr>
-
-            <td> Southwest Plains  </td>
-
-            <td> 2.77    </td>
+        1.92  </td>
 
   </tr>
 
           <tr>
 
-            <td> Texas Panhandle  </td>
+            <td> 
 
-            <td> 2.49    </td>
+        Louisville-Lexington-Evansville  </td>
 
-  </tr>
+            <td> 
 
-          <tr>
-
-            <td> Lubbock-Plainview, Texas  </td>
-
-            <td> 2.49    </td>
+        2.11  </td>
 
   </tr>
 
           <tr>
 
-            <td> Texas  </td>
+            <td> 
 
-            <td> 3.28    </td>
+        Upper Midwest  </td>
 
-  </tr>
+            <td> 
 
-          <tr>
-
-            <td> Greater Louisiana  </td>
-
-            <td> 3.28    </td>
+        1.20  </td>
 
   </tr>
 
           <tr>
 
-            <td> New Orleans-Mississippi  </td>
+            <td> 
 
-            <td> 3.85    </td>
+        Eastern South Dakota  </td>
 
-  </tr>
+            <td> 
 
-          <tr>
-
-            <td> Eastern Colorado  </td>
-
-            <td> 2.73    </td>
+        1.50  </td>
 
   </tr>
 
           <tr>
 
-            <td> Western Colorado  </td>
+            <td> 
 
-            <td> 2.00    </td>
+        Black Hills, South Dakota  </td>
 
-  </tr>
+            <td> 
 
-          <tr>
-
-            <td> Southwestern Idaho-Eastern Oregon  </td>
-
-            <td> 1.50    </td>
+        2.05  </td>
 
   </tr>
 
           <tr>
 
-            <td> Great Basin  </td>
+            <td> 
 
-            <td> 1.90    </td>
+        Iowa  </td>
 
-  </tr>
+            <td> 
 
-          <tr>
-
-            <td> Lake Mead  </td>
-
-            <td> 1.60    </td>
+        1.55  </td>
 
   </tr>
 
           <tr>
 
-            <td> Central Arizona  </td>
+            <td> 
 
-            <td> 2.52    </td>
+        Nebraska-Western Iowa  </td>
 
-  </tr>
+            <td> 
 
-          <tr>
-
-            <td> Rio Grande Valley  </td>
-
-            <td> 2.35    </td>
+        1.75  </td>
 
   </tr>
 
           <tr>
 
-            <td> Puget Sound-Inland  </td>
+            <td> 
 
-            <td> 1.85    </td>
+        Greater Kansas City  </td>
+
+            <td> 
+
+        1.92  </td>
 
   </tr>
 
           <tr>
 
-            <td> Oregon-Washington  </td>
+            <td> 
 
-            <td> 1.95    </td>
+        Tennessee Valley  </td>
+
+            <td> 
+
+        2.77  </td>
+
+  </tr>
+
+          <tr>
+
+            <td> 
+
+        Nashville, Tennessee  </td>
+
+            <td> 
+
+        2.52  </td>
+
+  </tr>
+
+          <tr>
+
+            <td> 
+
+        Paducah, Kentucky  </td>
+
+            <td> 
+
+        2.39  </td>
+
+  </tr>
+
+          <tr>
+
+            <td> 
+
+        Memphis, Tennessee  </td>
+
+            <td> 
+
+        2.77  </td>
+
+  </tr>
+
+          <tr>
+
+            <td> 
+
+        Central Arkansas  </td>
+
+            <td> 
+
+        2.77  </td>
+
+  </tr>
+
+          <tr>
+
+            <td> 
+
+        Fort Smith, Arkansas  </td>
+
+            <td> 
+
+        2.77  </td>
+
+  </tr>
+
+          <tr>
+
+            <td> 
+
+        Southwest Plains  </td>
+
+            <td> 
+
+        2.77  </td>
+
+  </tr>
+
+          <tr>
+
+            <td> 
+
+        Texas Panhandle  </td>
+
+            <td> 
+
+        2.49  </td>
+
+  </tr>
+
+          <tr>
+
+            <td> 
+
+        Lubbock-Plainview, Texas  </td>
+
+            <td> 
+
+        2.49  </td>
+
+  </tr>
+
+          <tr>
+
+            <td> 
+
+        Texas  </td>
+
+            <td> 
+
+        3.28  </td>
+
+  </tr>
+
+          <tr>
+
+            <td> 
+
+        Greater Louisiana  </td>
+
+            <td> 
+
+        3.28  </td>
+
+  </tr>
+
+          <tr>
+
+            <td> 
+
+        New Orleans-Mississippi  </td>
+
+            <td> 
+
+        3.85  </td>
+
+  </tr>
+
+          <tr>
+
+            <td> 
+
+        Eastern Colorado  </td>
+
+            <td> 
+
+        2.73  </td>
+
+  </tr>
+
+          <tr>
+
+            <td> 
+
+        Western Colorado  </td>
+
+            <td> 
+
+        2.00  </td>
+
+  </tr>
+
+          <tr>
+
+            <td> 
+
+        Southwestern Idaho-Eastern Oregon  </td>
+
+            <td> 
+
+        1.50  </td>
+
+  </tr>
+
+          <tr>
+
+            <td> 
+
+        Great Basin  </td>
+
+            <td> 
+
+        1.90  </td>
+
+  </tr>
+
+          <tr>
+
+            <td> 
+
+        Lake Mead  </td>
+
+            <td> 
+
+        1.60  </td>
+
+  </tr>
+
+          <tr>
+
+            <td> 
+
+        Central Arizona  </td>
+
+            <td> 
+
+        2.52  </td>
+
+  </tr>
+
+          <tr>
+
+            <td> 
+
+        Rio Grande Valley  </td>
+
+            <td> 
+
+        2.35  </td>
+
+  </tr>
+
+          <tr>
+
+            <td> 
+
+        Puget Sound-Inland  </td>
+
+            <td> 
+
+        1.85  </td>
+
+  </tr>
+
+          <tr>
+
+            <td> 
+
+        Oregon-Washington  </td>
+
+            <td> 
+
+        1.95  </td>
 
   </tr>
 
@@ -449,7 +607,7 @@
 
         (H) Omitted
 
-        (I) Establishing or providing for the establishment of research and development projects, and advertising (excluding brand advertising), sales promotion, educational, and other programs designed to improve or promote the domestic marketing and consumption of milk and its products, to be financed by producers in a manner and at a rate specified in the order, on all producer milk under the order. Producer contributions under this subparagraph  <sup>\[4\]</sup>  <sup><sup> 4 So in original. Probably should be “paragraph”. </sup></sup>  may be deducted from funds due producers in computing total pool value or otherwise computing total funds due producers and such deductions shall be in addition to the adjustments authorized by paragraph (B) of this subsection. Provision may be made in the order to exempt, or allow suitable adjustments or credits in connection with, milk on which a mandatory checkoff for advertising or marketing research is required under the authority of any State law. Such funds shall be paid to an agency organized by milk producers and producers’ cooperative associations in such form and with such methods of operation as shall be specified in the order. Such agency may expend such funds for any of the purposes authorized by this subparagraph  <sup>\[4\]</sup>  and may designate, employ, and allocate funds to persons and organizations engaged in such programs which meet the standards and qualifications specified in the order. All funds collected under this subparagraph  <sup>\[4\]</sup>  shall be separately accounted for and shall be used only for the purposes for which they were collected. Programs authorized by this subparagraph  <sup>\[4\]</sup>  may be either local or national in scope, or both, as provided in the order, but shall not be international. Order provisions under this subparagraph  <sup>\[4\]</sup>  shall not become effective in any marketing order unless such provisions are approved by producers separately from other order provisions, in the same manner provided for the approval of marketing orders, and may be terminated separately whenever the Secretary makes a determination with respect to such provisions as is provided for the termination of an order in subsection (16)(B) of this section. Disapproval or termination of such order provisions shall not be considered disapproval of the order or of other terms of the order. Notwithstanding any other provision of this chapter, any producer against whose marketings any assessment is withheld or collected under the authority of this subparagraph, <sup>\[4\]</sup>  and who is not in favor of supporting the research and promotion programs, as provided for herein, shall have the right to demand and receive a refund of such assessment pursuant to the terms and conditions specified in the order.
+        (I) Establishing or providing for the establishment of research and development projects, and advertising (excluding brand advertising), sales promotion, educational, and other programs designed to improve or promote the domestic marketing and consumption of milk and its products, to be financed by producers in a manner and at a rate specified in the order, on all producer milk under the order. Producer contributions under this subparagraph  <sup>\[4\]</sup>  <sup><sup> 4 So in original. Probably should be “paragraph”. </sup></sup>  may be deducted from funds due producers in computing total pool value or otherwise computing total funds due producers and such deductions shall be in addition to the adjustments authorized by paragraph (B) of this subsection. Provision may be made in the order to exempt, or allow suitable adjustments or credits in connection with, milk on which a mandatory checkoff for advertising or marketing research is required under the authority of any State law. Such funds shall be paid to an agency organized by milk producers and producers’ cooperative associations in such form and with such methods of operation as shall be specified in the order. Such agency may expend such funds for any of the purposes authorized by this subparagraph  <sup>\[4\]</sup>  and may designate, employ, and allocate funds to persons and organizations engaged in such programs which meet the standards and qualifications specified in the order. All funds collected under this subparagraph  <sup>\[4\]</sup>  shall be separately accounted for and shall be used only for the purposes for which they were collected. Programs authorized by this subparagraph  <sup>\[4\]</sup>  may be either local or national in scope, or both, as provided in the order, but shall not be international. Order provisions under this subparagraph  <sup>\[4\]</sup>  shall not become effective in any marketing order unless such provisions are approved by producers separately from other order provisions, in the same manner provided for the approval of marketing orders, and may be terminated separately whenever the Secretary makes a determination with respect to such provisions as is provided for the termination of an order in subsection (16)(B). Disapproval or termination of such order provisions shall not be considered disapproval of the order or of other terms of the order. Notwithstanding any other provision of this chapter, any producer against whose marketings any assessment is withheld or collected under the authority of this subparagraph, <sup>\[4\]</sup>  and who is not in favor of supporting the research and promotion programs, as provided for herein, shall have the right to demand and receive a refund of such assessment pursuant to the terms and conditions specified in the order.
 
         (J)
 
@@ -525,7 +683,7 @@
 
     (6) __Terms—Other commodities__ 
 
-    In the case of the agricultural commodities and the products thereof, other than milk and its products, specified in subsection (2) of this section orders issued pursuant to this section shall contain one or more of the following terms and conditions, and (except as provided in subsection (7) of this section), no others:
+    In the case of the agricultural commodities and the products thereof, other than milk and its products, specified in subsection (2) orders issued pursuant to this section shall contain one or more of the following terms and conditions, and (except as provided in subsection (7)), no others:
 
         (A) Limiting, or providing methods for the limitation of, the total quantity of any such commodity or product, or of any grade, size, or quality thereof, produced during any specified period or periods, which may be marketed in or transported to any or all markets in the current of interstate or foreign commerce or so as directly to burden, obstruct, or affect interstate or foreign commerce in such commodity or product thereof, during any specified period or periods by all handlers thereof.
 
@@ -557,7 +715,7 @@
 
     (7) __Terms common to all orders__ 
 
-    In the case of the agricultural commodities and the products thereof specified in subsection (2) of this section orders shall contain one or more of the following terms and conditions:
+    In the case of the agricultural commodities and the products thereof specified in subsection (2) orders shall contain one or more of the following terms and conditions:
 
         (A) Prohibiting unfair methods of competition and unfair trade practices in the handling thereof.
 
@@ -577,7 +735,7 @@
 
             No person acting as a member of an agency established pursuant to this paragraph shall be deemed to be acting in an official capacity, within the meaning of [section 610(g) of this title][/us/usc/t7/s610/g], unless such person receives compensation for his personal services from funds of the United States. There shall be included in the membership of any agency selected to administer a marketing order applicable to grapefruit for canning or freezing one or more representatives of processors of the commodity specified in such order.
 
-        (D) Incidental to, and not inconsistent with, the terms and conditions specified in subsections (5), (6), and (7) of this section and necessary to effectuate the other provisions of such order.
+        (D) Incidental to, and not inconsistent with, the terms and conditions specified in subsections (5), (6), and (7) and necessary to effectuate the other provisions of such order.
 
     (8) __Orders with marketing agreement__ 
 
@@ -627,7 +785,7 @@
 
     (14) __Violation of order__ 
 
-        (A) Any handler subject to an order issued under this section, or any officer, director, agent, or employee of such handler, who violates any provision of such order shall, on conviction, be fined not less than $50 or more than $5,000 for each such violation, and each day during which such violation continues shall be deemed a separate violation. If the court finds that a petition pursuant to subsection (15) of this section was filed and prosecuted by the defendant in good faith and not for delay, no penalty shall be imposed under this subsection for such violations as occurred between the date upon which the defendant’s petition was filed with the Secretary, and the date upon which notice of the Secretary’s ruling thereon was given to the defendant in accordance with regulations prescribed pursuant to subsection (15) of this section.
+        (A) Any handler subject to an order issued under this section, or any officer, director, agent, or employee of such handler, who violates any provision of such order shall, on conviction, be fined not less than $50 or more than $5,000 for each such violation, and each day during which such violation continues shall be deemed a separate violation. If the court finds that a petition pursuant to subsection (15) of this section was filed and prosecuted by the defendant in good faith and not for delay, no penalty shall be imposed under this subsection for such violations as occurred between the date upon which the defendant’s petition was filed with the Secretary, and the date upon which notice of the Secretary’s ruling thereon was given to the defendant in accordance with regulations prescribed pursuant to subsection (15).
 
         (B) Any handler subject to an order issued under this section, or any officer, director, agent, or employee of such handler, who violates any provision of such order may be assessed a civil penalty by the Secretary not exceeding $1,000 for each such violation. Each day during which such violation continues shall be deemed a separate violation, except that if the Secretary finds that a petition pursuant to paragraph (15) was filed and prosecuted by the handler in good faith and not for delay, no civil penalty may be assessed under this paragraph for such violations as occurred between the date on which the handler’s petition was filed with the Secretary, and the date on which notice of the Secretary’s ruling thereon was given to the handler in accordance with regulations prescribed pursuant to paragraph (15). The Secretary may issue an order assessing a civil penalty under this paragraph only after notice and an opportunity for an agency hearing on the record. Such order shall be treated as a final order reviewable in the district courts of the United States in any district in which the handler subject to the order is an inhabitant, or has the handler’s principal place of business. The validity of such order may not be reviewed in an action to collect such civil penalty.
 

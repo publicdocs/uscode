@@ -61,7 +61,7 @@
 
         (6) to prepare and submit for the approval of the Secretary, prior to the beginning of each fiscal year, a fiscal year budget of the anticipated expenses in the administration of the order, including the probable costs of all programs and projects;
 
-        (7) to develop programs and projects, subject to subsection (d) of this section;
+        (7) to develop programs and projects, subject to subsection (d);
 
         (8) to enter into contracts or agreements, with the approval of the Secretary, to develop and carry out programs or projects of research and advertising;
 
@@ -71,7 +71,7 @@
 
         (11) to furnish the Secretary with such other information as the Secretary may require; and
 
-        (12) to invest funds collected by the Board pursuant to subsection (g) of this section.
+        (12) to invest funds collected by the Board pursuant to subsection (g).
 
     (d) __Plans and budgets__ 
 

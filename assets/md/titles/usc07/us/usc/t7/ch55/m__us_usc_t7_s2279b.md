@@ -153,7 +153,7 @@
 
     (k) __Audits of records__ 
 
-        The financial records of the Graduate School (including records relating to contracts or agreements entered into under subsection (c) of this section) shall be made available to the Comptroller General for purposes of conducting an audit.
+        The financial records of the Graduate School (including records relating to contracts or agreements entered into under subsection (c)) shall be made available to the Comptroller General for purposes of conducting an audit.
 
 ([Pub. L. 104–127, title IX, § 921][/us/pl/104/127/s921], Apr. 4, 1996, [110 Stat. 1191][/us/stat/110/1191]; [Pub. L. 107–171, title X, § 10705(a)][/us/pl/107/171/s10705/a], May 13, 2002, [116 Stat. 518][/us/stat/116/518]; [Pub. L. 110–234, title XIV, § 14213(a)][/us/pl/110/234/s14213/a], May 22, 2008, [122 Stat. 1465][/us/stat/122/1465]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title XIV, § 14213(a), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2227.)
 

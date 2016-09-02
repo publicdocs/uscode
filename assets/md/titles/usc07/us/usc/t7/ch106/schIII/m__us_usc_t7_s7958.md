@@ -95,7 +95,7 @@
 
         (1) __Temporary designation of Peanut Administrative Committee members__ 
 
-            Notwithstanding the appointment process specified in subsection (c) of this section for the Peanut Standards Board, during the transition period, the Secretary may designate persons serving as members of the Peanut Administrative Committee on the day before May 13, 2002, to serve as members of the Peanut Standards Board for the purpose of carrying out the duties of the Board described in this section.
+            Notwithstanding the appointment process specified in subsection (c) for the Peanut Standards Board, during the transition period, the Secretary may designate persons serving as members of the Peanut Administrative Committee on the day before May 13, 2002, to serve as members of the Peanut Standards Board for the purpose of carrying out the duties of the Board described in this section.
 
         (2) __Funds__ 
 
@@ -105,7 +105,7 @@
 
         In paragraph (1), the term “transition period” means the period beginning on May 13, 2002, and ending on the earlier of—
 
-            (A) the date the Secretary appoints the members of the Peanut Standards Board pursuant to subsection (c) of this section; or
+            (A) the date the Secretary appoints the members of the Peanut Standards Board pursuant to subsection (c); or
 
             (B) 180 days after May 13, 2002.
 

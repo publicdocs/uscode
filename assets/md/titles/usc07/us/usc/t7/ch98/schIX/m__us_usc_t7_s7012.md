@@ -21,7 +21,7 @@
 
     (b) __Notice requirement__ 
 
-        In providing financial assistance to, or entering into any contract with, any entity using funds made available pursuant to this chapter, the Secretary, to the greatest extent practicable, shall provide to such entity a notice describing the statement made in subsection (a) of this section by the Congress.
+        In providing financial assistance to, or entering into any contract with, any entity using funds made available pursuant to this chapter, the Secretary, to the greatest extent practicable, shall provide to such entity a notice describing the statement made in subsection (a) by the Congress.
 
 ([Pub. L. 103–354, title II, § 292][/us/pl/103/354/s292], Oct. 13, 1994, [108 Stat. 3237][/us/stat/108/3237].)
 

@@ -57,7 +57,7 @@
 
     (f) __Receipts__ 
 
-        Funds received from sales under subsection (e) of this section shall be deposited in the Treasury of the United States to the credit of the applicable appropriation and shall remain available until expended.
+        Funds received from sales under subsection (e) shall be deposited in the Treasury of the United States to the credit of the applicable appropriation and shall remain available until expended.
 
     (g) __Agreements__ 
 

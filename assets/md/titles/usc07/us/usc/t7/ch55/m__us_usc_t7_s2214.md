@@ -17,7 +17,7 @@
 
     (a) The President shall appoint on and after July 31, 1956, by and with the advice and consent of the Senate, a General Counsel of the Department of Agriculture.
 
-    (b) The existing office of General Counsel of the Department of Agriculture shall be abolished effective upon the appointment and qualification of the General Counsel provided for by subsection (a) of this section or April 1, 1957, whichever is earlier.
+    (b) The existing office of General Counsel of the Department of Agriculture shall be abolished effective upon the appointment and qualification of the General Counsel provided for by subsection (a) or April 1, 1957, whichever is earlier.
 
 ([July 31, 1956, ch. 804][/us/act/1956-07-31/ch804], title III, § 301, [70 Stat. 742][/us/stat/70/742].)
 

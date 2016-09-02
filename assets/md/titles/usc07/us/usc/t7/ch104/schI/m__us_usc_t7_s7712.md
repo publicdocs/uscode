@@ -25,7 +25,7 @@
 
     (c) __Regulations__ 
 
-    The Secretary may issue regulations to implement subsection (a) of this section, including regulations requiring that any plant, plant product, biological control organism, noxious weed, article, or means of conveyance imported, entered, to be exported, or moved in interstate commerce—
+    The Secretary may issue regulations to implement subsection (a), including regulations requiring that any plant, plant product, biological control organism, noxious weed, article, or means of conveyance imported, entered, to be exported, or moved in interstate commerce—
 
         (1) be accompanied by a permit issued by the Secretary prior to the importation, entry, exportation, or movement in interstate commerce;
 

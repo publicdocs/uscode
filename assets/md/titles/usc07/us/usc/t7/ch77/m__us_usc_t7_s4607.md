@@ -39,7 +39,7 @@
 
         (1) __Inspection__ 
 
-            Any program, rule, or regulation under subsection (a)(8) of this section may provide for the inspection, by the Secretary, of honey and honey products being sold for domestic consumption in, or for export from, the United States.
+            Any program, rule, or regulation under subsection (a)(8) may provide for the inspection, by the Secretary, of honey and honey products being sold for domestic consumption in, or for export from, the United States.
 
         (2) __Monitoring system__ 
 
@@ -57,7 +57,7 @@
 
         (1) __In general__ 
 
-            In addition to or independent of any program, rule, or regulation under subsection (b) of this section, the Honey Board, with the approval of the Secretary, may establish and carry out a voluntary quality assurance program concerning purity standards for honey and honey products.
+            In addition to or independent of any program, rule, or regulation under subsection (b), the Honey Board, with the approval of the Secretary, may establish and carry out a voluntary quality assurance program concerning purity standards for honey and honey products.
 
         (2) __Components__ 
 
@@ -77,7 +77,7 @@
 
     (d) __Authority of Secretary__ 
 
-        Notwithstanding any other provision of this chapter, the Secretary shall have the authority to approve or disapprove the establishment of minimum purity standards, the inspection and monitoring system under subsection (b) of this section, and the voluntary quality assurance program under subsection (c) of this section.
+        Notwithstanding any other provision of this chapter, the Secretary shall have the authority to approve or disapprove the establishment of minimum purity standards, the inspection and monitoring system under subsection (b), and the voluntary quality assurance program under subsection (c).
 
 ([Pub. L. 98–590, § 8][/us/pl/98/590/s8], Oct. 30, 1984, [98 Stat. 3119][/us/stat/98/3119]; [Pub. L. 105–185, title VI, § 605(g)][/us/pl/105/185/s605/g], June 23, 1998, [112 Stat. 596][/us/stat/112/596].)
 

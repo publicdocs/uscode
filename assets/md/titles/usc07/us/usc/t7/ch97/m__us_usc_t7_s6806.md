@@ -19,11 +19,11 @@
 
         (1) __In general__ 
 
-            Not later than 3 years after the issuance of an order under [section 6803(b)(3) of this title][/us/usc/t7/s6803/b/3], the Secretary shall conduct a referendum among qualified handlers required to pay assessments under the order, as provided in [section 6804(h)(1) of this title][/us/usc/t7/s6804/h/1], subject to the voting requirements of subsection (b) of this section, to ascertain whether the order then in effect shall be continued.
+            Not later than 3 years after the issuance of an order under [section 6803(b)(3) of this title][/us/usc/t7/s6803/b/3], the Secretary shall conduct a referendum among qualified handlers required to pay assessments under the order, as provided in [section 6804(h)(1) of this title][/us/usc/t7/s6804/h/1], subject to the voting requirements of subsection (b), to ascertain whether the order then in effect shall be continued.
 
         (2) __Approval of order needed__ 
 
-            The order shall be continued only if the Secretary determines that the order has been approved by a simple majority of all votes cast in the referendum. If the order is not approved, the Secretary shall terminate the order as provided in subsection (d) of this section.
+            The order shall be continued only if the Secretary determines that the order has been approved by a simple majority of all votes cast in the referendum. If the order is not approved, the Secretary shall terminate the order as provided in subsection (d).
 
     (b) __Votes permitted__ 
 
@@ -49,15 +49,15 @@
 
     (c) __Suspension or termination referenda__ 
 
-    If an order is approved in a referendum conducted under subsection (a) of this section, effective beginning on the date that is 3 years after the date of the approval, the Secretary—
+    If an order is approved in a referendum conducted under subsection (a), effective beginning on the date that is 3 years after the date of the approval, the Secretary—
 
-        (1) at the discretion of the Secretary, may conduct at any time a referendum of qualified handlers required to pay assessments under the order, as provided in [section 6804(h)(1) of this title][/us/usc/t7/s6804/h/1], subject to the voting requirements of subsection (b) of this section, to ascertain whether qualified handlers favor suspension or termination of the order; and
+        (1) at the discretion of the Secretary, may conduct at any time a referendum of qualified handlers required to pay assessments under the order, as provided in [section 6804(h)(1) of this title][/us/usc/t7/s6804/h/1], subject to the voting requirements of subsection (b), to ascertain whether qualified handlers favor suspension or termination of the order; and
 
-        (2) if requested by the PromoFlor Council or by a representative group comprising 30 percent or more of all qualified handlers required to pay assessments under the order, as provided in [section 6804(h)(1) of this title][/us/usc/t7/s6804/h/1], shall conduct a referendum of all qualified handlers required to pay assessments under the order, as provided in [section 6804(h)(1) of this title][/us/usc/t7/s6804/h/1], subject to the voting requirements of subsection (b) of this section, to ascertain whether qualified handlers favor suspension or termination of the order.
+        (2) if requested by the PromoFlor Council or by a representative group comprising 30 percent or more of all qualified handlers required to pay assessments under the order, as provided in [section 6804(h)(1) of this title][/us/usc/t7/s6804/h/1], shall conduct a referendum of all qualified handlers required to pay assessments under the order, as provided in [section 6804(h)(1) of this title][/us/usc/t7/s6804/h/1], subject to the voting requirements of subsection (b), to ascertain whether qualified handlers favor suspension or termination of the order.
 
     (d) __Suspension or termination__ 
 
-    If, as a result of the referendum conducted under subsection (a) of this section, the Secretary determines that the order has not been approved by a simple majority of all votes cast in the referendum, or as a result of a referendum conducted under subsection (c) of this section, the Secretary determines that suspension or termination of the order is favored by a simple majority of all votes cast in the referendum, the Secretary shall—
+    If, as a result of the referendum conducted under subsection (a), the Secretary determines that the order has not been approved by a simple majority of all votes cast in the referendum, or as a result of a referendum conducted under subsection (c), the Secretary determines that suspension or termination of the order is favored by a simple majority of all votes cast in the referendum, the Secretary shall—
 
         (1) not later than 180 days after the referendum, suspend or terminate, as appropriate, collection of assessments under the order; and
 

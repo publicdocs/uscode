@@ -37,7 +37,7 @@
 
     (c) __Emphasis on headquarters offices reductions__ 
 
-        In achieving the employee reductions required by subsection (b) of this section, the Secretary shall pursue a goal so that the percentage of the total number of employee staff years reduced in headquarters offices is at least twice the percentage of the total number of employee staff years reduced in the field structure.
+        In achieving the employee reductions required by subsection (b), the Secretary shall pursue a goal so that the percentage of the total number of employee staff years reduced in headquarters offices is at least twice the percentage of the total number of employee staff years reduced in the field structure.
 
     (d) __Schedule__ 
 

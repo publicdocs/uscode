@@ -21,7 +21,7 @@
 
     (b) __Liability for nonforfeitable part of obligation__ 
 
-        The producer of honey shall be personally liable for the repayment of a loan or loans made to the producer under the program for the crop of honey involved, with respect to that portion of the loan or loans for which satisfaction of the loan by forfeiture, as provided in subsection (a) of this section, is prohibited.
+        The producer of honey shall be personally liable for the repayment of a loan or loans made to the producer under the program for the crop of honey involved, with respect to that portion of the loan or loans for which satisfaction of the loan by forfeiture, as provided in subsection (a), is prohibited.
 
     (c) __Extent of personal liability__ 
 
@@ -29,7 +29,7 @@
 
     (d) __Promulgation of regulations__ 
 
-        The Commodity Credit Corporation may issue such regulations as the Corporation deems necessary to carry out this section. The regulations shall provide for the attribution of the value of collateral forfeited on loans described in subsection (a) of this section.
+        The Commodity Credit Corporation may issue such regulations as the Corporation deems necessary to carry out this section. The regulations shall provide for the attribution of the value of collateral forfeited on loans described in subsection (a).
 
 ([Oct. 31, 1949, ch. 792][/us/act/1949-10-31/ch792], title IV, § 405A, as added [Pub. L. 100–460, title VI, § 634(b)][/us/pl/100/460/s634/b], Oct. 1, 1988, [102 Stat. 2263][/us/stat/102/2263]; amended [Pub. L. 101–624, title X, § 1002][/us/pl/101/624/s1002], title XI, § 1161(d), Nov. 28, 1990, [104 Stat. 3490][/us/stat/104/3490], 3521.)
 

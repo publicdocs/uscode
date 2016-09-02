@@ -17,7 +17,7 @@
 
     (a) __Competitive specialized research and extension grants authorized__ 
 
-        The Secretary of Agriculture (referred to in this section as the “Secretary”) may make competitive grants to support research and extension activities specified in subsections (d) through (g) of this section. The Secretary shall make the grants in consultation with the National Agricultural Research, Extension, Education, and Economics Advisory Board.
+        The Secretary of Agriculture (referred to in this section as the “Secretary”) may make competitive grants to support research and extension activities specified in subsections (d) through (g). The Secretary shall make the grants in consultation with the National Agricultural Research, Extension, Education, and Economics Advisory Board.
 
     (b) __Administration__ 
 
@@ -27,7 +27,7 @@
 
         (2) __Use of task forces__ 
 
-            To facilitate the making of research and extension grants under this section in the research and extension areas specified in subsections (d) through (g) of this section, the Secretary may appoint a task force for each such area to make recommendations to the Secretary. The Secretary may not incur costs in excess of $1,000 for any fiscal year in connection with each task force established under this paragraph.
+            To facilitate the making of research and extension grants under this section in the research and extension areas specified in subsections (d) through (g), the Secretary may appoint a task force for each such area to make recommendations to the Secretary. The Secretary may not incur costs in excess of $1,000 for any fiscal year in connection with each task force established under this paragraph.
 
     (c) __Partnerships encouraged__ 
 

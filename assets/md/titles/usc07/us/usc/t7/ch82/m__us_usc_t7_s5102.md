@@ -17,23 +17,23 @@
 
     (a) __Matching grants__ 
 
-        Within 60 days after the Secretary certifies the State as a qualifying State under [section 5101(b) of this title][/us/usc/t7/s5101/b], the Secretary shall provide financial assistance to the State, in accordance with subsection (b) of this section, for the operation and administration of the mediation program.
+        Within 60 days after the Secretary certifies the State as a qualifying State under [section 5101(b) of this title][/us/usc/t7/s5101/b], the Secretary shall provide financial assistance to the State, in accordance with subsection (b), for the operation and administration of the mediation program.
 
     (b) __Amount of grant__ 
 
         (1) __In general__ 
 
-            Subject to paragraph (2), the Secretary shall pay to a State under subsection (a) of this section not more than 70 percent of the cost of the operation and administration of the mediation program within the State.
+            Subject to paragraph (2), the Secretary shall pay to a State under subsection (a) not more than 70 percent of the cost of the operation and administration of the mediation program within the State.
 
         (2) __Maximum amount__ 
 
-            The Secretary shall not pay more than $500,000 per year to a single State under subsection (a) of this section.
+            The Secretary shall not pay more than $500,000 per year to a single State under subsection (a).
 
     (c) __Use of grant__ 
 
         (1) __In general__ 
 
-            Each State that receives an amount paid under subsection (a) of this section shall use that amount only for the operation and administration of the mediation program of the State with respect to which the amount was paid.
+            Each State that receives an amount paid under subsection (a) shall use that amount only for the operation and administration of the mediation program of the State with respect to which the amount was paid.
 
         (2) __Operation and administration expenses__ 
 
@@ -61,7 +61,7 @@
 
     (d) __Penalty__ 
 
-        If the Secretary determines that a State has not complied with subsection (c) of this section, such State shall not be eligible for additional financial assistance under this chapter.
+        If the Secretary determines that a State has not complied with subsection (c), such State shall not be eligible for additional financial assistance under this chapter.
 
 ([Pub. L. 100–233, title V, § 502][/us/pl/100/233/s502], Jan. 6, 1988, [101 Stat. 1663][/us/stat/101/1663]; [Pub. L. 102–554, § 22][/us/pl/102/554/s22], Oct. 28, 1992, [106 Stat. 4161][/us/stat/106/4161]; [Pub. L. 103–354, title II, § 282(f)(1)(A)][/us/pl/103/354/s282/f/1/A], Oct. 13, 1994, [108 Stat. 3235][/us/stat/108/3235]; [Pub. L. 106–472, title III, § 306(b)][/us/pl/106/472/s306/b], Nov. 9, 2000, [114 Stat. 2072][/us/stat/114/2072].)
 

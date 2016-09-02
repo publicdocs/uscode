@@ -23,11 +23,11 @@
 
     (b) __Consideration for assistance without request__ 
 
-        The Secretary may consider a State, county, or area in a State for a livestock emergency determination and emergency livestock feed assistance under this subchapter whether or not a request for assistance is submitted, as described in subsection (a) of this section.
+        The Secretary may consider a State, county, or area in a State for a livestock emergency determination and emergency livestock feed assistance under this subchapter whether or not a request for assistance is submitted, as described in subsection (a).
 
     (c) __Prompt action by Secretary__ 
 
-        The Secretary shall act on requests for determinations under subsection (a) of this section and make final determinations on whether a livestock emergency exists in any State, county, or area, under regulations that ensure thorough and prompt action (not later than 30 days after receipt of any such request) and provide for appropriate notification procedures.
+        The Secretary shall act on requests for determinations under subsection (a) and make final determinations on whether a livestock emergency exists in any State, county, or area, under regulations that ensure thorough and prompt action (not later than 30 days after receipt of any such request) and provide for appropriate notification procedures.
 
     (d) __Eligibility under prior programs; availability of other programs__ 
 

@@ -27,7 +27,7 @@
 
         (2) __Procedure__ 
 
-            The results of the referendum shall be determined in accordance with subsection (e) of this section. The Secretary may require that the agricultural commodity industry involved post a bond or other collateral to cover the cost of the referendum.
+            The results of the referendum shall be determined in accordance with subsection (e). The Secretary may require that the agricultural commodity industry involved post a bond or other collateral to cover the cost of the referendum.
 
     (b) __Required referenda__ 
 
@@ -45,7 +45,7 @@
 
         (3) __Exception__ 
 
-            This subsection shall not apply if an initial referendum was conducted under subsection (a) of this section.
+            This subsection shall not apply if an initial referendum was conducted under subsection (a).
 
     (c) __Subsequent referenda__ 
 
@@ -55,13 +55,13 @@
 
         (2) at the request of the board established under the order; or
 
-        (3) at the request of 10 percent or more of the number of persons eligible to vote under subsection (b)(1) of this section;
+        (3) at the request of 10 percent or more of the number of persons eligible to vote under subsection (b)(1);
 
         to determine if the persons favor the continuation, suspension, or termination of the order.
 
     (d) __Other referenda__ 
 
-        The Secretary may conduct a referendum at any time to determine whether the continuation, suspension, or termination of the order or a provision of the order is favored by persons eligible to vote under subsection (b)(1) of this section.
+        The Secretary may conduct a referendum at any time to determine whether the continuation, suspension, or termination of the order or a provision of the order is favored by persons eligible to vote under subsection (b)(1).
 
     (e) __Approval of order__ 
 

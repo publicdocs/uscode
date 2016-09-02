@@ -21,7 +21,7 @@
 
     (b) __Implementation__ 
 
-    If, as a result of the referendum conducted under subsection (a) of this section, the Secretary determines that implementation of the order is favored—
+    If, as a result of the referendum conducted under subsection (a), the Secretary determines that implementation of the order is favored—
 
         (1) by at least 50 percent of fluid milk processors voting in the referendum; and
 

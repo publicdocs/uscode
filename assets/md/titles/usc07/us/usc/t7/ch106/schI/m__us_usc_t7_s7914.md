@@ -21,7 +21,7 @@
 
     (b) __Effective price__ 
 
-    For purposes of subsection (a) of this section, the effective price for a covered commodity is equal to the sum of the following:
+    For purposes of subsection (a), the effective price for a covered commodity is equal to the sum of the following:
 
         (1)
 
@@ -29,7 +29,7 @@
 
             (A) The national average market price received by producers during the 12-month marketing year for the covered commodity, as determined by the Secretary.
 
-            (B) The national average loan rate for a marketing assistance loan for the covered commodity in effect for the applicable period under subchapter II of this chapter.
+            (B) The national average loan rate for a marketing assistance loan for the covered commodity in effect for the applicable period under subchapter II.
 
         (2) The payment rate in effect for the covered commodity under [section 7913 of this title][/us/usc/t7/s7913] for the purpose of making direct payments with respect to the covered commodity.
 
@@ -85,13 +85,13 @@
 
         (1) the target price for the covered commodity; and
 
-        (2) the effective price determined under subsection (b) of this section for the covered commodity.
+        (2) the effective price determined under subsection (b) for the covered commodity.
 
     (e) __Payment amount__ 
 
     If counter-cyclical payments are required to be paid for any of the 2002 through 2007 crop years of a covered commodity, the amount of the counter-cyclical payment to be paid to the producers on a farm for that crop year shall be equal to the product of the following:
 
-        (1) The payment rate specified in subsection (d) of this section.
+        (1) The payment rate specified in subsection (d).
 
         (2) The payment acres of the covered commodity on the farm.
 
@@ -101,7 +101,7 @@
 
         (1) __General rule__ 
 
-            If the Secretary determines under subsection (a) of this section that counter-cyclical payments are required to be made under this section for the crop of a covered commodity, the Secretary shall make the counter-cyclical payments for the crop as soon as practicable after the end of the 12-month marketing year for the covered commodity.
+            If the Secretary determines under subsection (a) that counter-cyclical payments are required to be made under this section for the crop of a covered commodity, the Secretary shall make the counter-cyclical payments for the crop as soon as practicable after the end of the 12-month marketing year for the covered commodity.
 
         (2) __Availability of partial payments__ 
 
@@ -173,7 +173,7 @@
 
  __References in Text__ 
 
-    Subchapter II of this chapter, referred to in subsec. (b)(1)(B), was in the original “subtitle B”, meaning subtitle B (§§ 1201–1209) of title I of [Pub. L. 107–171][/us/pl/107/171], May 13, 2002, [116 Stat. 155][/us/stat/116/155], which is classified principally to subchapter II of this chapter. For complete classification of subtitle B to the Code, see Tables.
+    Subchapter II, referred to in subsec. (b)(1)(B), was in the original “subtitle B”, meaning subtitle B (§§ 1201–1209) of title I of [Pub. L. 107–171][/us/pl/107/171], May 13, 2002, [116 Stat. 155][/us/stat/116/155], which is classified principally to subchapter II of this chapter. For complete classification of subtitle B to the Code, see Tables.
 
 ----------
 

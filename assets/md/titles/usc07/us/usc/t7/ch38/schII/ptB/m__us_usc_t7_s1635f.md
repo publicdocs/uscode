@@ -35,7 +35,7 @@
 
     (b) __Publication__ 
 
-        The Secretary shall make available to the public the information required to be reported under subsection (a) of this section not less frequently than twice each reporting day.
+        The Secretary shall make available to the public the information required to be reported under subsection (a) not less frequently than twice each reporting day.
 
 ([Aug. 14, 1946, ch. 966][/us/act/1946-08-14/ch966], title II, § 223, as added [Pub. L. 106–78, title IX, § 911(2)][/us/pl/106/78/s911/2], Oct. 22, 1999, [113 Stat. 1193][/us/stat/113/1193].)
 

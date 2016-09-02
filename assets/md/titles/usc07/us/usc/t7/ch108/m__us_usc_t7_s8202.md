@@ -17,11 +17,11 @@
 
     (a) __Loss__ 
 
-        Subject to subsection (b) of this section, the Secretary shall provide assistance under [section 8203 of this title][/us/usc/t7/s8203] to eligible orchardists that planted trees for commercial purposes but lost the trees as a result of a natural disaster, as determined by the Secretary.
+        Subject to subsection (b), the Secretary shall provide assistance under [section 8203 of this title][/us/usc/t7/s8203] to eligible orchardists that planted trees for commercial purposes but lost the trees as a result of a natural disaster, as determined by the Secretary.
 
     (b) __Limitation__ 
 
-        An eligible orchardist shall qualify for assistance under subsection (a) of this section only if the tree mortality of the eligible orchardist, as a result of damaging weather or related condition, exceeds 15 percent (adjusted for normal mortality).
+        An eligible orchardist shall qualify for assistance under subsection (a) only if the tree mortality of the eligible orchardist, as a result of damaging weather or related condition, exceeds 15 percent (adjusted for normal mortality).
 
 ([Pub. L. 107–171, title X, § 10202][/us/pl/107/171/s10202], May 13, 2002, [116 Stat. 490][/us/stat/116/490].)
 

@@ -21,7 +21,7 @@
 
     (b) __Feasibility of processing__ 
 
-        In determining the feasibility of providing for the processing of Commodity Credit Corporation stocks of commodities under subsection (a) of this section, the Secretary shall consider the nature of the commodities, and the acquisition, transportation, handling, storage, interest, and other costs associated with acquiring and maintaining such stocks, including the effect of such stocks in depressing commodity prices, as well as the value and utility of such stocks when processed into liquid fuels and agricultural commodity byproducts.
+        In determining the feasibility of providing for the processing of Commodity Credit Corporation stocks of commodities under subsection (a), the Secretary shall consider the nature of the commodities, and the acquisition, transportation, handling, storage, interest, and other costs associated with acquiring and maintaining such stocks, including the effect of such stocks in depressing commodity prices, as well as the value and utility of such stocks when processed into liquid fuels and agricultural commodity byproducts.
 
 ([Oct. 31, 1949, ch. 792][/us/act/1949-10-31/ch792], title IV, § 423, as added [Pub. L. 97–358, § 2][/us/pl/97/358/s2], Oct. 21, 1982, [96 Stat. 1714][/us/stat/96/1714]; amended [Pub. L. 99–198, title X, § 1024][/us/pl/99/198/s1024], Dec. 23, 1985, [99 Stat. 1460][/us/stat/99/1460].)
 

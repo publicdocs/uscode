@@ -21,7 +21,7 @@
 
     (b) __Confirmation required__ 
 
-        If the Secretary establishes the position of Under Secretary of Agriculture for Marketing and Regulatory Programs authorized under subsection (a) of this section, the Under Secretary shall be appointed by the President, by and with the advice and consent of the Senate.
+        If the Secretary establishes the position of Under Secretary of Agriculture for Marketing and Regulatory Programs authorized under subsection (a), the Under Secretary shall be appointed by the President, by and with the advice and consent of the Senate.
 
     (c) __Functions of Under Secretary__ 
 
@@ -35,7 +35,7 @@
 
     (d) __Succession__ 
 
-        Any official who is serving as Assistant Secretary of Agriculture for Marketing and Regulatory Programs on October 21, 1998, and who was appointed by the President, by and with the advice and consent of the Senate, shall not be required to be reappointed under subsection (b) of this section to the successor position authorized under subsection (a) of this section if the Secretary establishes the position, and the official occupies the new position, within 180 days after October 21, 1998 (or such later date set by the Secretary if litigation delays rapid succession).
+        Any official who is serving as Assistant Secretary of Agriculture for Marketing and Regulatory Programs on October 21, 1998, and who was appointed by the President, by and with the advice and consent of the Senate, shall not be required to be reappointed under subsection (b) to the successor position authorized under subsection (a) if the Secretary establishes the position, and the official occupies the new position, within 180 days after October 21, 1998 (or such later date set by the Secretary if litigation delays rapid succession).
 
 ([Pub. L. 103–354, title II, § 285][/us/pl/103/354/s285], as added [Pub. L. 105–277, div. A, § 101(a)][/us/pl/105/277/s101/a] \[title X, § 1001(3)\], Oct. 21, 1998, [112 Stat. 2681][/us/stat/112/2681], 2681–41.)
 

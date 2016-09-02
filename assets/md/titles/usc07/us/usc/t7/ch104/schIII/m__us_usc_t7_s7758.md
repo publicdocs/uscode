@@ -19,7 +19,7 @@
 
     (c) __Effect on regulations__ 
 
-        Regulations issued under the authority of a provision of law repealed by subsection (a) of this section  <sup>\[1\]</sup>  <sup><sup> 1 See Codification note below. </sup></sup>  shall remain in effect until such time as the Secretary issues a regulation under [section 7754 of this title][/us/usc/t7/s7754] that supersedes the earlier regulation.
+        Regulations issued under the authority of a provision of law repealed by subsection (a)  <sup>\[1\]</sup>  <sup><sup> 1 See Codification note below. </sup></sup>  shall remain in effect until such time as the Secretary issues a regulation under [section 7754 of this title][/us/usc/t7/s7754] that supersedes the earlier regulation.
 
 ([Pub. L. 106–224, title IV, § 438][/us/pl/106/224/s438], June 20, 2000, [114 Stat. 454][/us/stat/114/454].)
 

@@ -53,7 +53,7 @@
 
     (d) __Mixed crop livestock production__ 
 
-        An organic plan may encompass both the crop production and livestock production requirements in subsections (b) and (c) of this section if both activities are conducted by the same producer.
+        An organic plan may encompass both the crop production and livestock production requirements in subsections (b) and (c) if both activities are conducted by the same producer.
 
     (e) __Handling plan__ 
 

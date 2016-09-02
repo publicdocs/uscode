@@ -25,7 +25,7 @@
 
     (c) __Class A stock; issuance to Secretary of Agriculture and redemption; cumulative return__ 
 
-        Class A stock shall be issued only to the Secretary on behalf of the United States in exchange for capital furnished to the telephone bank pursuant to subsection (a) of this section, and such class A stock shall be redeemed and retired by the telephone bank as soon as practicable after September 30, 1995, but not to the extent that the Telephone Bank Board determines that such retirement will impair the operations of the telephone bank: Provided, That the minimum amount of class A stock that shall be retired each year after said date shall equal the amount of class B stock sold by the telephone bank during such year. Class A stock shall be entitled to a return, payable from income, at the rate of 2 per centum per annum on the amounts of said class A stock actually paid into the telephone bank. Such return shall be cumulative and shall be payable annually into miscellaneous receipts of the Treasury.
+        Class A stock shall be issued only to the Secretary on behalf of the United States in exchange for capital furnished to the telephone bank pursuant to subsection (a), and such class A stock shall be redeemed and retired by the telephone bank as soon as practicable after September 30, 1995, but not to the extent that the Telephone Bank Board determines that such retirement will impair the operations of the telephone bank: Provided, That the minimum amount of class A stock that shall be retired each year after said date shall equal the amount of class B stock sold by the telephone bank during such year. Class A stock shall be entitled to a return, payable from income, at the rate of 2 per centum per annum on the amounts of said class A stock actually paid into the telephone bank. Such return shall be cumulative and shall be payable annually into miscellaneous receipts of the Treasury.
 
     (d) __Class B stock; borrowers as holders; dividend prohibition; patronage refunds__ 
 
@@ -41,7 +41,7 @@
 
     (g) __Patronage refunds from remaining earnings after provision for operating expenses, reserves for losses, payments in lieu of taxes, and returns on class A and C stock__ 
 
-        After payment of all operating expenses of the telephone bank, including interest on its telephone debentures, setting aside appropriate funds for the reserve for loan losses, and making payments in lieu of taxes, and returns on class A stock as provided in subsection (c) of this section, and on class C stock, the Telephone Bank Board shall annually set aside the remaining earnings of the telephone bank for patronage refunds in accordance with the bylaws of the telephone bank. The telephone bank may not establish any reserve other than the reserves referred to in this subsection and in subsection (h) of this section.
+        After payment of all operating expenses of the telephone bank, including interest on its telephone debentures, setting aside appropriate funds for the reserve for loan losses, and making payments in lieu of taxes, and returns on class A stock as provided in subsection (c), and on class C stock, the Telephone Bank Board shall annually set aside the remaining earnings of the telephone bank for patronage refunds in accordance with the bylaws of the telephone bank. The telephone bank may not establish any reserve other than the reserves referred to in this subsection and in subsection (h).
 
     (h) __Reserve for losses due to interest rate fluctuations__ 
 

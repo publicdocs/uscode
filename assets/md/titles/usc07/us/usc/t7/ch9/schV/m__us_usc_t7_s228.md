@@ -39,7 +39,7 @@
 
     (e) __Definitions__ 
 
-    For the purposes of subsection (d) of this section—
+    For the purposes of subsection (d)—
 
         (1) the term “unit of local government” means a county, municipality, town, township, village, or other unit of general government below the State level; and
 

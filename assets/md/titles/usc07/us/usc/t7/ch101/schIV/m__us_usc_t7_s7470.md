@@ -35,7 +35,7 @@
 
     (c) __Required referenda__ 
 
-    The Secretary shall hold a referendum under subsection (b) of this section—
+    The Secretary shall hold a referendum under subsection (b)—
 
         (1) at the end of the 6-year period beginning on the effective date of the order and at the end of each subsequent 6-year period;
 
@@ -45,7 +45,7 @@
 
     (d) __Vote__ 
 
-    On completion of a referendum under subsection (b) of this section, the Secretary shall suspend or terminate the order that was subject to the referendum at the end of the marketing year if—
+    On completion of a referendum under subsection (b), the Secretary shall suspend or terminate the order that was subject to the referendum at the end of the marketing year if—
 
         (1) the suspension or termination of the order is favored by not less than a majority of the producers and importers voting in the referendum; and
 

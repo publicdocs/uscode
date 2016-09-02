@@ -23,11 +23,11 @@
 
         (1) __Period__ 
 
-            A suspension under subsection (a) of this section shall be for a period of not more than 240 days.
+            A suspension under subsection (a) shall be for a period of not more than 240 days.
 
         (2) __Action by Congress__ 
 
-            If an Act of Congress concerning the requirement that is the subject of the suspension under subsection (a) of this section is not enacted by the end of the period of the suspension established under paragraph (1), the Secretary shall implement the requirement.
+            If an Act of Congress concerning the requirement that is the subject of the suspension under subsection (a) is not enacted by the end of the period of the suspension established under paragraph (1), the Secretary shall implement the requirement.
 
 ([Aug. 14, 1946, ch. 966][/us/act/1946-08-14/ch966], title II, § 258, as added [Pub. L. 106–78, title IX, § 911(2)][/us/pl/106/78/s911/2], Oct. 22, 1999, [113 Stat. 1205][/us/stat/113/1205].)
 

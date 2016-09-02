@@ -61,7 +61,7 @@
 
     (c) __Funding levels__ 
 
-        The Secretary shall make insured loans under this subchapter for the purposes, in the amounts, and for the periods of time specified in subsection (b) of this section, as provided in advance in appropriations Acts.
+        The Secretary shall make insured loans under this subchapter for the purposes, in the amounts, and for the periods of time specified in subsection (b), as provided in advance in appropriations Acts.
 
     (d) __Availability of funds for insured loans__ 
 

@@ -21,7 +21,7 @@
 
     (b) __Functions__ 
 
-    If the Secretary establishes the Rural Housing and Community Development Service under subsection (a) of this section, the Secretary is authorized to assign to the Service jurisdiction over the following:
+    If the Secretary establishes the Rural Housing and Community Development Service under subsection (a), the Secretary is authorized to assign to the Service jurisdiction over the following:
 
         (1) Programs and activities under title V of the Housing Act of 1949 ([42 U.S.C. 1471][/us/usc/t42/s1471] et seq.).
 

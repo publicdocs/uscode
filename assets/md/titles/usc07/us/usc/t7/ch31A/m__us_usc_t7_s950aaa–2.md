@@ -49,9 +49,9 @@
 
                 (i) make the funds provided available to entities that qualify under paragraph (1) for projects satisfying the requirements of this chapter;
 
-                (ii) use the funds provided to acquire, install, improve, or extend a system referred to in subsection (a) of this section; or
+                (ii) use the funds provided to acquire, install, improve, or extend a system referred to in subsection (a); or
 
-                (iii) use the funds provided to install, improve, or extend a facility referred to in subsection (a) of this section.
+                (iii) use the funds provided to install, improve, or extend a facility referred to in subsection (a).
 
             (B) __Limitations__ 
 
@@ -117,7 +117,7 @@
 
     (g) __Salaries and expenses__ 
 
-        Notwithstanding subsection (f) of this section, financial assistance provided under this chapter shall not be used for paying salaries or administrative expenses.
+        Notwithstanding subsection (f), financial assistance provided under this chapter shall not be used for paying salaries or administrative expenses.
 
     (h) __Expediting coordinated telephone loans__ 
 

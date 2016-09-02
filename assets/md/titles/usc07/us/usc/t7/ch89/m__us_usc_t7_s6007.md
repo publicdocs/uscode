@@ -25,13 +25,13 @@
 
     (b) __Limitation on assessments__ 
 
-        No more than one assessment may be assessed under subsection (a) of this section on a grower (as remitted by a first handler), grower-sheller, or importer, for any lot of pecans handled or imported.
+        No more than one assessment may be assessed under subsection (a) on a grower (as remitted by a first handler), grower-sheller, or importer, for any lot of pecans handled or imported.
 
     (c) __Remitting assessments__ 
 
         (1) __In general__ 
 
-        Assessments required under subsection (a) of this section shall be remitted to the Board by—
+        Assessments required under subsection (a) shall be remitted to the Board by—
 
             (A) a first handler; and
 
@@ -83,7 +83,7 @@
 
         (1) __In general__ 
 
-            There shall be a late-payment charge imposed on any person who fails to remit, on or before the due date established by the Board under subsection (c)(2) of this section, to the Board the total amount for which such person is liable.
+            There shall be a late-payment charge imposed on any person who fails to remit, on or before the due date established by the Board under subsection (c)(2), to the Board the total amount for which such person is liable.
 
         (2) __Amount of charge__ 
 

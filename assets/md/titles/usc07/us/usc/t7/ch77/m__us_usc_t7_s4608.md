@@ -65,13 +65,13 @@
 
         (3) __Confidentiality__ 
 
-            An employee or agent described in paragraph (2) shall be subject to the confidentiality requirements of subsection (g) of this section.
+            An employee or agent described in paragraph (2) shall be subject to the confidentiality requirements of subsection (g).
 
     (g) __Confidentiality of information; disclosure__ 
 
         (1) __In general__ 
 
-            All information obtained under subsection (f) of this section shall be kept confidential by all officers, employees, and agents of the Department or of the Honey Board.
+            All information obtained under subsection (f) shall be kept confidential by all officers, employees, and agents of the Department or of the Honey Board.
 
         (2) __Disclosure__ 
 

@@ -17,15 +17,15 @@
 
     (a) __In general__ 
 
-        Subject to subsection (b) of this section, notwithstanding any other provision of law, the Secretary may, but shall not be required to, prepare and submit any report solely to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate.
+        Subject to subsection (b), notwithstanding any other provision of law, the Secretary may, but shall not be required to, prepare and submit any report solely to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate.
 
     (b) __Limitation__ 
 
-        For each fiscal year, the Secretary may not prepare and submit more than 30 reports referred to in subsection (a) of this section.
+        For each fiscal year, the Secretary may not prepare and submit more than 30 reports referred to in subsection (a).
 
     (c) __Selection of reports__ 
 
-        In consultation with the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate, the Secretary shall determine which reports, if any, the Secretary will prepare and submit in accordance with subsection (b) of this section.
+        In consultation with the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate, the Secretary shall determine which reports, if any, the Secretary will prepare and submit in accordance with subsection (b).
 
 ([Pub. L. 103–354, title II, § 217][/us/pl/103/354/s217], Oct. 13, 1994, [108 Stat. 3212][/us/stat/108/3212].)
 

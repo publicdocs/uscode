@@ -67,7 +67,7 @@
 
         (2) __National grant__ 
 
-            Not more than 15 percent of the amounts made available under paragraph (1) for a fiscal year shall be used to carry out subsection (b) of this section.
+            Not more than 15 percent of the amounts made available under paragraph (1) for a fiscal year shall be used to carry out subsection (b).
 
 ([Pub. L. 101–624, title XVI, § 1680][/us/pl/101/624/s1680], Nov. 28, 1990, [104 Stat. 3781][/us/stat/104/3781]; [Pub. L. 104–127, title VIII, § 841][/us/pl/104/127/s841], Apr. 4, 1996, [110 Stat. 1170][/us/stat/110/1170]; [Pub. L. 105–185, title II, § 246][/us/pl/105/185/s246], June 23, 1998, [112 Stat. 556][/us/stat/112/556]; [Pub. L. 107–171, title VII][/us/pl/107/171], §§ 7122, 7208(c), May 13, 2002, [116 Stat. 434][/us/stat/116/434], 444; [Pub. L. 110–234, title VII, § 7210][/us/pl/110/234/s7210], May 22, 2008, [122 Stat. 1241][/us/stat/122/1241]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VII, § 7210, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2003; [Pub. L. 113–79, title VII, § 7216][/us/pl/113/79/s7216], Feb. 7, 2014, [128 Stat. 887][/us/stat/128/887].)
 

@@ -21,7 +21,7 @@
 
     (b) __Ensuring compliance__ 
 
-        The Secretary shall establish, by regulation, adequate safeguards to ensure that assistance under any rural development program is not subject to such a condition. The safeguards shall include periodic certifications and audits, and appropriate measures and sanctions against any person violating, or attempting to violate subsection (a) of this section.
+        The Secretary shall establish, by regulation, adequate safeguards to ensure that assistance under any rural development program is not subject to such a condition. The safeguards shall include periodic certifications and audits, and appropriate measures and sanctions against any person violating, or attempting to violate subsection (a).
 
     (c) __“Rural development programs” defined__ 
 
@@ -41,7 +41,7 @@
 
     (d) __Regulations__ 
 
-        Not later than 60 days after April 4, 1996, the Secretary shall issue final regulations to ensure compliance with subsection (a) of this section.
+        Not later than 60 days after April 4, 1996, the Secretary shall issue final regulations to ensure compliance with subsection (a).
 
 ([May 20, 1936, ch. 432][/us/act/1936-05-20/ch432], title I, § 17, as added [Pub. L. 104–127, title VII, § 778][/us/pl/104/127/s778], Apr. 4, 1996, [110 Stat. 1150][/us/stat/110/1150].)
 

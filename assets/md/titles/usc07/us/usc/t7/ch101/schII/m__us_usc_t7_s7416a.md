@@ -21,7 +21,7 @@
 
     (b) __Collection pursuant to agreement__ 
 
-        The collection of an assessment under subsection (a) of this section shall be made as specified in an agreement between the Secretary of Agriculture and the State requesting the collection.
+        The collection of an assessment under subsection (a) shall be made as specified in an agreement between the Secretary of Agriculture and the State requesting the collection.
 
     (c) __Prohibition on charging certain fees__ 
 

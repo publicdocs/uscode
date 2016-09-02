@@ -37,7 +37,7 @@
 
         (1) __Commencement of action__ 
 
-            The district court of the United States in any district in which the person who is a petitioner under subsection (a) of this section resides or carries on business shall have jurisdiction to review a ruling on the petition of such person under such subsection, if a complaint for that purpose is filed not later than 20 days after the date of the entry of a ruling by the Secretary under such subsection (a) of this section.
+            The district court of the United States in any district in which the person who is a petitioner under subsection (a) resides or carries on business shall have jurisdiction to review a ruling on the petition of such person under such subsection, if a complaint for that purpose is filed not later than 20 days after the date of the entry of a ruling by the Secretary under such subsection (a).
 
         (2) __Process__ 
 
@@ -45,7 +45,7 @@
 
         (3) __Remands__ 
 
-        If the court determines, under paragraph (1), that a ruling issued under subsection (a)(3) of this section is not in accordance with applicable law, the court shall remand the matter to the Secretary with directions either—
+        If the court determines, under paragraph (1), that a ruling issued under subsection (a)(3) is not in accordance with applicable law, the court shall remand the matter to the Secretary with directions either—
 
             (A) to make such ruling as the court shall determine to be in accordance with law; or
 
@@ -53,7 +53,7 @@
 
         (4) __Enforcement__ 
 
-            The pendency of proceedings instituted under subsection (a) of this section shall not impede, hinder, or delay the Attorney General or the Secretary from taking any action under [section 6307 of this title][/us/usc/t7/s6307].
+            The pendency of proceedings instituted under subsection (a) shall not impede, hinder, or delay the Attorney General or the Secretary from taking any action under [section 6307 of this title][/us/usc/t7/s6307].
 
 ([Pub. L. 101–624, title XIX, § 1971][/us/pl/101/624/s1971], Nov. 28, 1990, [104 Stat. 3900][/us/stat/104/3900].)
 

@@ -211,7 +211,7 @@
 
                 (i) has demonstrated experience in providing agricultural education or other agriculturally related services to socially disadvantaged farmers and ranchers and veteran farmers or ranchers;
 
-                (ii) has provided to the Secretary documentary evidence of work with, and on behalf of, socially disadvantaged farmers or ranchers and veteran farmers or ranchers during the 3-year period preceding the submission of an application for assistance under subsection (a) of this section; and
+                (ii) has provided to the Secretary documentary evidence of work with, and on behalf of, socially disadvantaged farmers or ranchers and veteran farmers or ranchers during the 3-year period preceding the submission of an application for assistance under subsection (a); and
 
                 (iii) does not engage in activities prohibited under [section 501(c)(3) of title 26][/us/usc/t26/s501/c/3].
 
@@ -225,7 +225,7 @@
 
             (F) An Indian tribe (as defined in [section 450b of title 25][/us/usc/t25/s450b]) or a national tribal organization that has demonstrated experience in providing agriculture education or other agriculturally related services to socially disadvantaged farmers and ranchers in a region.
 
-            (G) An organization or institution that received funding under subsection (a) of this section before January 1, 1996, but only with respect to projects that the Secretary considers are similar to projects previously carried out by the organization or institution under such subsection.
+            (G) An organization or institution that received funding under subsection (a) before January 1, 1996, but only with respect to projects that the Secretary considers are similar to projects previously carried out by the organization or institution under such subsection.
 
         (6) __Secretary__ 
 

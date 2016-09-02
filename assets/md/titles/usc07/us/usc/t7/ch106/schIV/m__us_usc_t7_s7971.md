@@ -21,7 +21,7 @@
 
     (b) __Eligible processors__ 
 
-    A storage facility loan described in subsection (a) of this section shall be made available to any processor of domestically produced sugarcane or sugar beets that (as determined by the Secretary)—
+    A storage facility loan described in subsection (a) shall be made available to any processor of domestically produced sugarcane or sugar beets that (as determined by the Secretary)—
 
         (1) has a satisfactory credit history;
 
@@ -31,7 +31,7 @@
 
     (c) __Term of loans__ 
 
-    A storage facility loan described in subsection (a) of this section shall—
+    A storage facility loan described in subsection (a) shall—
 
         (1) have a minimum term of 7 years;
 

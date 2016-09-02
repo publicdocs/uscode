@@ -39,7 +39,7 @@
 
     The Commission shall conduct a comprehensive review of the future of production agriculture in the United States and the appropriate role of the Federal Government in support of production agriculture. The review shall include the following:
 
-        (1) An assessment of changes in the condition of production agriculture in the United States since the initial review conducted under subsection (a) of this section.
+        (1) An assessment of changes in the condition of production agriculture in the United States since the initial review conducted under subsection (a).
 
         (2) Identification of the appropriate future relationship of the Federal Government with production agriculture after 2002.
 
@@ -49,7 +49,7 @@
 
     (c) __Recommendations__ 
 
-        In carrying out the subsequent review under subsection (b) of this section, the Commission shall develop specific recommendations for legislation to achieve the appropriate future relationship of the Federal Government with production agriculture identified under subsection (a)(2) of this section.
+        In carrying out the subsequent review under subsection (b), the Commission shall develop specific recommendations for legislation to achieve the appropriate future relationship of the Federal Government with production agriculture identified under subsection (a)(2).
 
 ([Pub. L. 104–127, title I, § 183][/us/pl/104/127/s183], Apr. 4, 1996, [110 Stat. 939][/us/stat/110/939].)
 

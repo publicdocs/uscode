@@ -17,7 +17,7 @@
 
     (a) __Permitted crops__ 
 
-        Subject to subsection (b) of this section, any commodity or crop may be planted on contract acreage on a farm.
+        Subject to subsection (b), any commodity or crop may be planted on contract acreage on a farm.
 
     (b) __Limitations and exceptions regarding fruits and vegetables__ 
 

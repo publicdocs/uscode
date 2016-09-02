@@ -25,7 +25,7 @@
 
     (b) __Appeal of final decision__ 
 
-        A final decision of the Secretary under subsection (a) of this section may be appealed to the United States district court for the district in which such person is located.
+        A final decision of the Secretary under subsection (a) may be appealed to the United States district court for the district in which such person is located.
 
 ([Pub. L. 101–624, title XXI, § 2121][/us/pl/101/624/s2121], Nov. 28, 1990, [104 Stat. 3950][/us/stat/104/3950]; [Pub. L. 102–237, title X, § 1001(9)][/us/pl/102/237/s1001/9], Dec. 13, 1991, [105 Stat. 1894][/us/stat/105/1894].)
 

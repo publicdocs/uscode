@@ -21,7 +21,7 @@
 
     (b) __Registration__ 
 
-        Whenever the Administrator receives an application under subsection (a) of this section, the Administrator shall register the establishment and assign it an establishment number.
+        Whenever the Administrator receives an application under subsection (a), the Administrator shall register the establishment and assign it an establishment number.
 
     (c) __Information required__ 
 
@@ -41,7 +41,7 @@
 
     (d) __Confidential records and information__ 
 
-        Any information submitted to the Administrator pursuant to subsection (c) of this section other than the names of the pesticides or active ingredients used in producing pesticides produced, sold, or distributed at an establishment shall be considered confidential and shall be subject to the provisions of [section 136h of this title][/us/usc/t7/s136h].
+        Any information submitted to the Administrator pursuant to subsection (c) other than the names of the pesticides or active ingredients used in producing pesticides produced, sold, or distributed at an establishment shall be considered confidential and shall be subject to the provisions of [section 136h of this title][/us/usc/t7/s136h].
 
 ([June 25, 1947, ch. 125, § 7][/us/act/1947-06-25/ch125/s7], as added [Pub. L. 92–516, § 2][/us/pl/92/516/s2], Oct. 21, 1972, [86 Stat. 987][/us/stat/86/987]; amended [Pub. L. 95–396, § 13][/us/pl/95/396/s13], Sept. 30, 1978, [92 Stat. 829][/us/stat/92/829]; [Pub. L. 102–237, title X, § 1006(b)(1)][/us/pl/102/237/s1006/b/1], (3)(F), (G), Dec. 13, 1991, [105 Stat. 1895][/us/stat/105/1895], 1896.)
 

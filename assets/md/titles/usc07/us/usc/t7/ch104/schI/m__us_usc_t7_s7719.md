@@ -31,7 +31,7 @@
 
         (1) __Timeline for determination__ 
 
-            Upon the promulgation of regulations to carry out this section, the Secretary shall make the determination required by subsection (a) of this section not later than 90 days after receiving the request for such a determination.
+            Upon the promulgation of regulations to carry out this section, the Secretary shall make the determination required by subsection (a) not later than 90 days after receiving the request for such a determination.
 
         (2) __Construction__ 
 

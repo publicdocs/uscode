@@ -17,7 +17,7 @@
 
     (a) __In general__ 
 
-        Subject to subsection (b) of this section, the Secretary shall guarantee payments on bonds or notes issued by cooperative or other lenders organized on a not-for-profit basis if the proceeds of the bonds or notes are used to make loans for any electrification or telephone purpose eligible for assistance under this chapter, including section 904 or 922 of this title or to refinance bonds or notes issued for such purposes.
+        Subject to subsection (b), the Secretary shall guarantee payments on bonds or notes issued by cooperative or other lenders organized on a not-for-profit basis if the proceeds of the bonds or notes are used to make loans for any electrification or telephone purpose eligible for assistance under this chapter, including section 904 or 922 of this title or to refinance bonds or notes issued for such purposes.
 
     (b) __Limitations__ 
 
@@ -37,7 +37,7 @@
 
             (B) the bond or note issued by the lender would not be investment grade quality without a guarantee; or
 
-            (C) the lender has not provided to the Secretary a list of loan amounts approved by the lender that the lender certifies are for eligible purposes described in subsection (a) of this section.
+            (C) the lender has not provided to the Secretary a list of loan amounts approved by the lender that the lender certifies are for eligible purposes described in subsection (a).
 
         (4) __Annual amount__ 
 
@@ -71,7 +71,7 @@
 
         (4) __Rural economic development subaccount__ 
 
-        Subject to subsection (e)(2) of this section, fees collected under this subsection shall be—
+        Subject to subsection (e)(2), fees collected under this subsection shall be—
 
             (A) deposited into the rural economic development subaccount maintained under [section 940c(b)(2)(A) of this title][/us/usc/t7/s940c/b/2/A], to remain available until expended; and
 
@@ -105,7 +105,7 @@
 
         (2) __Fees__ 
 
-            To the extent that the amount of funds appropriated for a fiscal year under paragraph (1) are not sufficient to carry out this section, the Secretary may use up to ⅓ of the fees collected under subsection (c) of this section for the cost of providing guarantees of bonds and notes under this section before depositing the remainder of the fees into the rural economic development subaccount maintained under [section 940c(b)(2)(A) of this title][/us/usc/t7/s940c/b/2/A].
+            To the extent that the amount of funds appropriated for a fiscal year under paragraph (1) are not sufficient to carry out this section, the Secretary may use up to ⅓ of the fees collected under subsection (c) for the cost of providing guarantees of bonds and notes under this section before depositing the remainder of the fees into the rural economic development subaccount maintained under [section 940c(b)(2)(A) of this title][/us/usc/t7/s940c/b/2/A].
 
     (f) __Termination__ 
 

@@ -21,7 +21,7 @@
 
     (b) __Functions__ 
 
-    If the Secretary establishes the Rural Business and Cooperative Development Service under subsection (a) of this section, the Secretary is authorized to assign to the Service jurisdiction over the following:
+    If the Secretary establishes the Rural Business and Cooperative Development Service under subsection (a), the Secretary is authorized to assign to the Service jurisdiction over the following:
 
         (1) Section 313 and title V of the Rural Electrification Act of 1936 ([7 U.S.C. 940c][/us/usc/t7/s940c] and 950aa et seq.).
 

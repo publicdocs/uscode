@@ -17,7 +17,7 @@
 
     (a) __Conditions for prepayment__ 
 
-    Except as provided in subsection (c) of this section, a borrower of a loan made by the Federal Financing Bank and guaranteed under [section 936 of this title][/us/usc/t7/s936] may prepay such loan (or any loan advance thereunder) by paying the outstanding principal balance due on the loan (or advance), if—
+    Except as provided in subsection (c), a borrower of a loan made by the Federal Financing Bank and guaranteed under [section 936 of this title][/us/usc/t7/s936] may prepay such loan (or any loan advance thereunder) by paying the outstanding principal balance due on the loan (or advance), if—
 
         (1) the loan is outstanding on July 2, 1986;
 
@@ -37,7 +37,7 @@
 
     (d) __Amount of permissible prepayments; establishment of eligibility criteria__ 
 
-        (1) The Secretary shall permit, subject to subsection (a) of this section, prepayments of principal on loans in fiscal year 1987 under this section or [Public Law 99–349][/us/pl/99/349] in such amounts as to realize net proceeds from all such prepayments in fiscal year 1987 in an amount not less than $2,017,500,000.
+        (1) The Secretary shall permit, subject to subsection (a), prepayments of principal on loans in fiscal year 1987 under this section or [Public Law 99–349][/us/pl/99/349] in such amounts as to realize net proceeds from all such prepayments in fiscal year 1987 in an amount not less than $2,017,500,000.
 
         (2)
 

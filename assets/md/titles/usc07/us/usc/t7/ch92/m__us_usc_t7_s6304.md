@@ -125,11 +125,11 @@
 
         (3)
 
-         if the Board exercises its authority to establish the Committee described in subsection (g) of this section—
+         if the Board exercises its authority to establish the Committee described in subsection (g)—
 
             (A) to elect members of the Board to serve on the Committee; and
 
-            (B) if the Board assigns to the Committee the power to develop and submit budgets as provided for in subsection (h)(1) of this section, to approve, modify, or reject budgets submitted by the Committee;
+            (B) if the Board assigns to the Committee the power to develop and submit budgets as provided for in subsection (h)(1), to approve, modify, or reject budgets submitted by the Committee;
 
         (4) to submit budgets to the Secretary for the approval or disapproval of the Secretary;
 
@@ -165,7 +165,7 @@
 
                 (i) __Assessment level__ 
 
-                    Except as provided in clause (ii), each unit shall be allotted one vote for each percent, or portion of a percent, of the total amount of assessments remitted to the Board that was remitted from the unit (net of any refunds made under subsection (l)(2) of this section), on the average, during each of the 3 previous fiscal years of the Board.
+                    Except as provided in clause (ii), each unit shall be allotted one vote for each percent, or portion of a percent, of the total amount of assessments remitted to the Board that was remitted from the unit (net of any refunds made under subsection (l)(2)), on the average, during each of the 3 previous fiscal years of the Board.
 
                 (ii) __First three fiscal years__ 
 
@@ -261,11 +261,11 @@
 
         (1) __Budgets__ 
 
-            The Board may assign to the Committee the power to develop and submit to the Board, for approval, budgets on a fiscal year basis, as provided for in subsection (e) of this section. The Board shall review and approve, reject, modify, or substitute a budget proposed by the Committee, and submit budgets to the Secretary for the Secretary’s approval under subsection (e) of this section.
+            The Board may assign to the Committee the power to develop and submit to the Board, for approval, budgets on a fiscal year basis, as provided for in subsection (e). The Board shall review and approve, reject, modify, or substitute a budget proposed by the Committee, and submit budgets to the Secretary for the Secretary’s approval under subsection (e).
 
         (2) __Plans and projects__ 
 
-            The Board may assign to the Committee the power to review, or on its own initiative develop, plans or projects for promotion, research, consumer information, and industry information activities, to be paid for with funds received by the Board as provided for in subsection (f) of this section. Each such plan or project shall be presented to the Board for approval.
+            The Board may assign to the Committee the power to review, or on its own initiative develop, plans or projects for promotion, research, consumer information, and industry information activities, to be paid for with funds received by the Board as provided for in subsection (f). Each such plan or project shall be presented to the Board for approval.
 
         (3) __Voting__ 
 
@@ -285,7 +285,7 @@
 
             (B) __Limitation on salaries__ 
 
-                If the Board establishes an administrative staff of its own, the Board is authorized to expend for administrative staff salaries and benefits an amount not to exceed one percent of the projected level of assessments to be collected by the Board, net of any refunds to be made under subsection (l)(2) of this section, for that fiscal year.
+                If the Board establishes an administrative staff of its own, the Board is authorized to expend for administrative staff salaries and benefits an amount not to exceed one percent of the projected level of assessments to be collected by the Board, net of any refunds to be made under subsection (l)(2), for that fiscal year.
 
             (C) __Reimbursement of organization__ 
 
@@ -485,7 +485,7 @@
 
     (m) __Credit for certain costs to States__ 
 
-        The order shall provide that the Board may provide a credit to each qualified State soybean board of an amount not to exceed one-half of any fees paid to State governmental agencies or first purchasers for collection of the assessments if the payment of such fees by the qualified State soybean board is required by State law enacted prior to November 28, 1990, except that the Board may not provide a credit to any qualified State soybean board of an amount that exceeds 2.5 percent of the amount of assessments collected and remitted to the Board under subsection (l) of this section.
+        The order shall provide that the Board may provide a credit to each qualified State soybean board of an amount not to exceed one-half of any fees paid to State governmental agencies or first purchasers for collection of the assessments if the payment of such fees by the qualified State soybean board is required by State law enacted prior to November 28, 1990, except that the Board may not provide a credit to any qualified State soybean board of an amount that exceeds 2.5 percent of the amount of assessments collected and remitted to the Board under subsection (l).
 
     (n) __Minimum level of assessments to States__ 
 
@@ -499,11 +499,11 @@
 
             (A) the amount equal to 1 cent times the average number of bushels of soybeans produced in the State during each of the preceding 5 years (excluding the year in which the production is the highest and the year in which the production is the lowest); exceeds
 
-            (B) the total amount collected by the qualified State soybean board from assessments on producers minus the amount of assessments remitted to the Board during such year under subsection (l) of this section.
+            (B) the total amount collected by the qualified State soybean board from assessments on producers minus the amount of assessments remitted to the Board during such year under subsection (l).
 
         (3) __Limitation__ 
 
-            The total amount of credits under paragraph (1) or (2) and assessments retained by the qualified State soybean board for a year may not exceed the total amount of assessments collected in that State under subsection (l) of this section (net of any refunds made under paragraph (2) of subsection (l) of this section) in that year.
+            The total amount of credits under paragraph (1) or (2) and assessments retained by the qualified State soybean board for a year may not exceed the total amount of assessments collected in that State under subsection (l) (net of any refunds made under paragraph (2) of subsection (l)) in that year.
 
     (o) __Investment of funds__ 
 
@@ -591,7 +591,7 @@
 
     (r) __Incidental terms and conditions__ 
 
-        The order shall provide terms and conditions, not inconsistent with the provisions of this chapter, as necessary to effectuate the provisions of the order, including provisions for the assessment of a penalty for each late payment of assessments under subsection (l) of this section.
+        The order shall provide terms and conditions, not inconsistent with the provisions of this chapter, as necessary to effectuate the provisions of the order, including provisions for the assessment of a penalty for each late payment of assessments under subsection (l).
 
 ([Pub. L. 101–624, title XIX, § 1969][/us/pl/101/624/s1969], Nov. 28, 1990, [104 Stat. 3884][/us/stat/104/3884]; [Pub. L. 102–237, title VIII, § 806(1)][/us/pl/102/237/s806/1], Dec. 13, 1991, [105 Stat. 1883][/us/stat/105/1883].)
 

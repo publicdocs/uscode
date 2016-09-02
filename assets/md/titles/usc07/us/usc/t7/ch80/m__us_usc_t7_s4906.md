@@ -63,7 +63,7 @@
 
     (f) __Assessments; payments; notice__ 
 
-        The plan shall provide for the fixing by the Secretary of assessments to cover costs incurred under the budgets provided for in subsection (e) of this section, and under [section 4907(f) of this title][/us/usc/t7/s4907/f], based on the Board’s recommendation as to the appropriate rate of assessment, and for the payment of the assessments to the Board.. <sup>\[1\]</sup>  <sup><sup> 1 So in original. </sup></sup>  In fixing or changing the rate of assessment pursuant to the plan, the Secretary shall comply with the notice and comment procedures established under [section 553 of title 5][/us/usc/t5/s553]. Sections 556 and 557 of such title shall not apply with respect to fixing or changing the rate of assessment.
+        The plan shall provide for the fixing by the Secretary of assessments to cover costs incurred under the budgets provided for in subsection (e), and under [section 4907(f) of this title][/us/usc/t7/s4907/f], based on the Board’s recommendation as to the appropriate rate of assessment, and for the payment of the assessments to the Board.. <sup>\[1\]</sup>  <sup><sup> 1 So in original. </sup></sup>  In fixing or changing the rate of assessment pursuant to the plan, the Secretary shall comply with the notice and comment procedures established under [section 553 of title 5][/us/usc/t5/s553]. Sections 556 and 557 of such title shall not apply with respect to fixing or changing the rate of assessment.
 
     (g) __Scope of expenditures; restrictions; assessments on per-unit basis; importers__ 
 
@@ -73,7 +73,7 @@
 
         (2) No advertising or sales promotion program under this chapter shall make any reference to private brand names nor use false or unwarranted claims in behalf of watermelons or their products or false or unwarranted statements with respect to attributes or use of any competing products.
 
-        (3) No funds received by the Board shall in any manner be used for the purpose of influencing governmental policy or action, except as provided by subsections (b)(4) and (f) of this section.
+        (3) No funds received by the Board shall in any manner be used for the purpose of influencing governmental policy or action, except as provided by subsections (b)(4) and (f).
 
         (4) Assessments shall be made on watermelons produced by producers and watermelons handled by handlers, and the rate of such assessments in the case of producers and handlers shall be the same, on a per-unit basis, for producers and handlers. If a person performs both producing and handling functions, both assessments shall be paid by such person.
 
@@ -93,7 +93,7 @@
 
     (i) __Submission of programs or projects; approval by Secretary__ 
 
-        The plan shall provide that the Board, subject to the provisions of subsections (e), (f), and (g) of this section, shall develop and submit to the Secretary, for the Secretary’s approval, any research, development, advertising, or promotion program or project, and that a program or project must be approved by the Secretary before becoming effective.
+        The plan shall provide that the Board, subject to the provisions of subsections (e), (f), and (g), shall develop and submit to the Secretary, for the Secretary’s approval, any research, development, advertising, or promotion program or project, and that a program or project must be approved by the Secretary before becoming effective.
 
     (j) __Contract authority__ 
 

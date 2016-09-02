@@ -17,7 +17,7 @@
 
     (a) __In general__ 
 
-        To effectuate the declared policy of [section 6101(b) of this title][/us/usc/t7/s6101/b], the Secretary, subject to the procedures provided in subsection (b) of this section, shall issue orders under this chapter applicable to producers, importers, and first handlers of mushrooms. Any such order shall be national in scope. Not more than one order shall be in effect under this chapter at any one time.
+        To effectuate the declared policy of [section 6101(b) of this title][/us/usc/t7/s6101/b], the Secretary, subject to the procedures provided in subsection (b), shall issue orders under this chapter applicable to producers, importers, and first handlers of mushrooms. Any such order shall be national in scope. Not more than one order shall be in effect under this chapter at any one time.
 
     (b) __Procedures__ 
 

@@ -47,13 +47,13 @@
 
         (14) [Public Law 103–407][/us/pl/103/407] ([7 U.S.C. 7101][/us/usc/t7/s7101] et seq.);
 
-        (15) subchapter II of this chapter;
+        (15) subchapter II;
 
-        (16) subchapter III of this chapter;
+        (16) subchapter III;
 
-        (17) subchapter IV of this chapter;
+        (17) subchapter IV;
 
-        (18) subchapter V of this chapter; or
+        (18) subchapter V; or
 
         (19) any other provision of law enacted after April 4, 1996, that provides for the establishment and operation of a promotion program described in the first sentence.
 

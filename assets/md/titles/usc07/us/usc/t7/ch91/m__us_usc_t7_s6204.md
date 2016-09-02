@@ -27,9 +27,9 @@
 
         The Board shall be composed of—
 
-            (A) 3 members who are producers and who are not exempt from an assessment under subsection (d)(5)(A) of this section;
+            (A) 3 members who are producers and who are not exempt from an assessment under subsection (d)(5)(A);
 
-            (B) 3 members who are importers and who are not exempt from an assessment under subsection (d)(5)(A) of this section; and
+            (B) 3 members who are importers and who are not exempt from an assessment under subsection (d)(5)(A); and
 
             (C) one member appointed from the general public.
 
@@ -171,13 +171,13 @@
 
         (1) __In general__ 
 
-        Such order shall provide that funds paid to the Board as assessments under subsection (d) of this section—
+        Such order shall provide that funds paid to the Board as assessments under subsection (d)—
 
             (A)
 
              may be used by the Board to—
 
-                (i) pay for research, promotion, and consumer information described in the budget of the Board under subsection (c) of this section and for other expenses incurred by the Board in the administration of an order;
+                (i) pay for research, promotion, and consumer information described in the budget of the Board under subsection (c) and for other expenses incurred by the Board in the administration of an order;
 
                 (ii) pay such other expenses for the administration, maintenance, and functioning of the Board as may be authorized by the Secretary; and
 
@@ -187,11 +187,11 @@
 
         (2) __Referenda__ 
 
-            Such order shall provide that the Board shall reimburse the Secretary, from assessments collected under subsection (d) of this section, for any expenses incurred by the Secretary in conducting referenda under this chapter, except for the salaries of Government employees.
+            Such order shall provide that the Board shall reimburse the Secretary, from assessments collected under subsection (d), for any expenses incurred by the Secretary in conducting referenda under this chapter, except for the salaries of Government employees.
 
     (f) __False claims__ 
 
-    Such order shall provide that any promotion funded with assessments collected under subsection (d) of this section may not make—
+    Such order shall provide that any promotion funded with assessments collected under subsection (d) may not make—
 
         (1) any false or unwarranted claims on behalf of limes; and
 
@@ -215,7 +215,7 @@
 
         (2) __By others__ 
 
-        So that information and data will be available to the Board and the Secretary that is appropriate or necessary for the effectuation, administration, or enforcement of this chapter (or any order or regulation issued under this chapter), such order shall require handlers, producer-handlers, and importers who are responsible for the collection, payment, or remittance of assessments under subsection (d) of this section—
+        So that information and data will be available to the Board and the Secretary that is appropriate or necessary for the effectuation, administration, or enforcement of this chapter (or any order or regulation issued under this chapter), such order shall require handlers, producer-handlers, and importers who are responsible for the collection, payment, or remittance of assessments under subsection (d)—
 
             (A) to maintain and make available for inspection by the employees of the Board and the Secretary such books and records as may be required by the order; and
 
@@ -225,7 +225,7 @@
 
         (1) __In general__ 
 
-            Such order shall require that all information obtained pursuant to subsection (h)(2) of this section shall be kept confidential by all officers and employees of the Department and of the Board. Only such information as the Secretary considers relevant shall be disclosed to the public and only in a suit or administrative hearing, brought at the request of the Secretary or to which the Secretary or any officer of the United States is a party, involving the order with respect to which the information was furnished or acquired.
+            Such order shall require that all information obtained pursuant to subsection (h)(2) shall be kept confidential by all officers and employees of the Department and of the Board. Only such information as the Secretary considers relevant shall be disclosed to the public and only in a suit or administrative hearing, brought at the request of the Secretary or to which the Secretary or any officer of the United States is a party, involving the order with respect to which the information was furnished or acquired.
 
         (2) __Limitations__ 
 

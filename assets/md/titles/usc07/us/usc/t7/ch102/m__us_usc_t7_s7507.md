@@ -21,7 +21,7 @@
 
     (b) __Use of funds and facilities__ 
 
-        States and emergency feeding organizations may use the funds appropriated under this chapter and equipment, structures, vehicles, and all other facilities involved in the storage, handling, or distribution of commodities made available under this chapter, and the personnel, both paid or volunteer, involved in such storage, handling, or distribution, to store, handle or distribute commodities donated for the use of emergency feeding organizations under subsection (a) of this section.
+        States and emergency feeding organizations may use the funds appropriated under this chapter and equipment, structures, vehicles, and all other facilities involved in the storage, handling, or distribution of commodities made available under this chapter, and the personnel, both paid or volunteer, involved in such storage, handling, or distribution, to store, handle or distribute commodities donated for the use of emergency feeding organizations under subsection (a).
 
     (c) __Volunteer workers__ 
 

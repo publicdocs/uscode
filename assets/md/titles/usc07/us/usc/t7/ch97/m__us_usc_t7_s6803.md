@@ -19,7 +19,7 @@
 
         (1) __Issuance__ 
 
-            To effectuate the policy of this chapter specified in [section 6801(b) of this title][/us/usc/t7/s6801/b], the Secretary, subject to the procedures provided in subsection (b) of this section, shall issue orders under this chapter applicable to qualified handlers of cut flowers and cut greens.
+            To effectuate the policy of this chapter specified in [section 6801(b) of this title][/us/usc/t7/s6801/b], the Secretary, subject to the procedures provided in subsection (b), shall issue orders under this chapter applicable to qualified handlers of cut flowers and cut greens.
 
         (2) __Scope__ 
 

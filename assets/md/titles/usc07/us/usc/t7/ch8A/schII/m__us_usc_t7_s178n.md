@@ -25,7 +25,7 @@
 
     (b) __Administration and management__ 
 
-        No more than 3 per centum of funds authorized under subsection (a) of this section shall be available for administration and management of the program.
+        No more than 3 per centum of funds authorized under subsection (a) shall be available for administration and management of the program.
 
     (c) __Contract authority as limited by amounts provided in appropriations acts__ 
 

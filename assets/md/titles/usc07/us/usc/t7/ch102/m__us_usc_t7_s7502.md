@@ -33,7 +33,7 @@
 
     (c) __Additional commodities__ 
 
-        In addition to any commodities described in subsection (a) of this section, in carrying out this chapter, the Secretary may use agricultural commodities and the products thereof made available under clause (2) of the second sentence of [section 612c of this title][/us/usc/t7/s612c].
+        In addition to any commodities described in subsection (a), in carrying out this chapter, the Secretary may use agricultural commodities and the products thereof made available under clause (2) of the second sentence of [section 612c of this title][/us/usc/t7/s612c].
 
     (d) __Varieties of commodities__ 
 

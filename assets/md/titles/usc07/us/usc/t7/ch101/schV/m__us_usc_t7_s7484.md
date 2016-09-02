@@ -57,7 +57,7 @@
 
         (6)
 
-         to invest, pending disbursement under a plan or project, funds collected through assessments authorized under subsection (f) of this section, only in—
+         to invest, pending disbursement under a plan or project, funds collected through assessments authorized under subsection (f), only in—
 
             (A) obligations of the United States or an agency of the United States;
 
@@ -125,7 +125,7 @@
 
             (A) __In general__ 
 
-            Subject to subparagraphs (B) and (C) and subsection (c)(5) of this section, the order shall provide that the assessments collected shall be used by the Board—
+            Subject to subparagraphs (B) and (C) and subsection (c)(5), the order shall provide that the assessments collected shall be used by the Board—
 
                 (i) to pay expenses incurred in implementing and administering the order, with provision for a reasonable reserve; and
 

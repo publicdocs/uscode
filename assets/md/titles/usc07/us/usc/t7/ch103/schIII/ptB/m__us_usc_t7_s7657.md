@@ -43,7 +43,7 @@
 
             (A) __In general__ 
 
-            Subject to subparagraph (B) and subsection (d)(2) of this section, the Secretary may appoint and employ a member of the Service without regard to—
+            Subject to subparagraph (B) and subsection (d)(2), the Secretary may appoint and employ a member of the Service without regard to—
 
                 (i) the provisions of title 5 governing appointments in the competitive service;
 

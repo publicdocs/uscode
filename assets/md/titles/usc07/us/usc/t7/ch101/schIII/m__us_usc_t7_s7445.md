@@ -27,17 +27,17 @@
 
         (2) __Direct processing__ 
 
-            The order shall provide that any person processing canola or rapeseed of that person’s own production and marketing the canola or rapeseed, or canola or rapeseed products, shall remit to the Board or a State organization certified to represent producers under [section 7444(b)(6) of this title][/us/usc/t7/s7444/b/6], in the manner prescribed by the order, an assessment established at a rate equivalent to the rate provided for under subsection (d) of this section.
+            The order shall provide that any person processing canola or rapeseed of that person’s own production and marketing the canola or rapeseed, or canola or rapeseed products, shall remit to the Board or a State organization certified to represent producers under [section 7444(b)(6) of this title][/us/usc/t7/s7444/b/6], in the manner prescribed by the order, an assessment established at a rate equivalent to the rate provided for under subsection (d).
 
     (b) __Limitation on assessments__ 
 
-        No more than 1 assessment may be assessed under subsection (a) of this section on any canola or rapeseed produced (as remitted by a first purchaser).
+        No more than 1 assessment may be assessed under subsection (a) on any canola or rapeseed produced (as remitted by a first purchaser).
 
     (c) __Remitting of assessments__ 
 
         (1) __In general__ 
 
-            Assessments required under subsection (a) of this section shall be remitted to the Board by a first purchaser. The Board shall use State organizations certified to represent producers under [section 7444(b)(6) of this title][/us/usc/t7/s7444/b/6] to collect the assessments. If an appropriate certified State organization does not exist to collect an assessment, the assessment shall be collected by the Board. There shall be only 1 certified State organization in each State.
+            Assessments required under subsection (a) shall be remitted to the Board by a first purchaser. The Board shall use State organizations certified to represent producers under [section 7444(b)(6) of this title][/us/usc/t7/s7444/b/6] to collect the assessments. If an appropriate certified State organization does not exist to collect an assessment, the assessment shall be collected by the Board. There shall be only 1 certified State organization in each State.
 
         (2) __Times to remit assessment__ 
 

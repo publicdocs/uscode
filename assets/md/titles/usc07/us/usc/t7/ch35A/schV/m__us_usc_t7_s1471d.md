@@ -57,7 +57,7 @@
 
     (b) __Feed grain through dealer or manufacturer; reimbursement; feed grain stored on farm of producer__ 
 
-    If assistance is made available through the furnishing of feed grain under paragraph (1) or (2) of subsection (a) of this section, the Secretary—
+    If assistance is made available through the furnishing of feed grain under paragraph (1) or (2) of subsection (a), the Secretary—
 
         (1) may provide for the furnishing of the feed grain through a dealer or manufacturer and the replacing of the feed grain so furnished from feed grain owned by the Commodity Credit Corporation; or
 
@@ -65,7 +65,7 @@
 
     (c) __Payments or reimbursements through issuance of negotiable certificates__ 
 
-        In providing assistance under paragraph (2) or (4) of subsection (a) of this section, the Secretary may make in-kind payments or reimbursements through the issuance of negotiable certificates that the Commodity Credit Corporation shall exchange for a commodity in accordance with rules prescribed by the Secretary.
+        In providing assistance under paragraph (2) or (4) of subsection (a), the Secretary may make in-kind payments or reimbursements through the issuance of negotiable certificates that the Commodity Credit Corporation shall exchange for a commodity in accordance with rules prescribed by the Secretary.
 
     (d) __Approved application prerequisite to benefits__ 
 
@@ -77,7 +77,7 @@
 
     (f) __Livestock transportation assistance__ 
 
-        The Secretary may make available at least $25,000,000 to provide livestock transportation assistance under subsection (a)(6) of this section for livestock emergencies in 1989.
+        The Secretary may make available at least $25,000,000 to provide livestock transportation assistance under subsection (a)(6) for livestock emergencies in 1989.
 
 ([Oct. 31, 1949, ch. 792][/us/act/1949-10-31/ch792], title VI, § 606, as added [Pub. L. 100–387, title I, § 101(a)][/us/pl/100/387/s101/a], Aug. 11, 1988, [102 Stat. 928][/us/stat/102/928]; amended [Pub. L. 101–82, title II][/us/pl/101/82], §§ 201, 202, Aug. 14, 1989, [103 Stat. 581][/us/stat/103/581].)
 

@@ -35,7 +35,7 @@
 
         (1) __Agreements authorized__ 
 
-            The Secretary may enter into cooperative agreements with private entities described in subsection (d) of this section, under which the facilities and technical expertise of the Agricultural Research Service and the Forest Service may be made available to operate pilot plants and other large-scale preparation facilities for the purpose of bringing technologies necessary for the development and commercialization of new biobased products to the point of practical application.
+            The Secretary may enter into cooperative agreements with private entities described in subsection (d), under which the facilities and technical expertise of the Agricultural Research Service and the Forest Service may be made available to operate pilot plants and other large-scale preparation facilities for the purpose of bringing technologies necessary for the development and commercialization of new biobased products to the point of practical application.
 
         (2) __Description of cooperative activities__ 
 
@@ -53,7 +53,7 @@
 
     (d) __Eligible partners__ 
 
-    The following entities shall be eligible to enter into a cooperative agreement under subsection (c) of this section:
+    The following entities shall be eligible to enter into a cooperative agreement under subsection (c):
 
         (1) A party that has entered into a cooperative research and development agreement with the Secretary under section 12 of the Stevenson-Wydler Technology Innovation Act of 1980 ([15 U.S.C. 3710a][/us/usc/t15/s3710a]).
 
@@ -81,7 +81,7 @@
 
         (2) __Exception__ 
 
-            The Secretary may not use funds referred to in paragraph (1)(B) to carry out subsection (e) of this section.
+            The Secretary may not use funds referred to in paragraph (1)(B) to carry out subsection (e).
 
     (g) __Sale of developed products__ 
 

@@ -37,7 +37,7 @@
 
     (c) __Priorities__ 
 
-    In awarding grants under subsection (b) of this section, the Secretary shall give priority to—
+    In awarding grants under subsection (b), the Secretary shall give priority to—
 
         (1) applications for teaching enhancement projects that demonstrate enhanced coordination among all types of institutions eligible for funding under this section; and
 
@@ -47,11 +47,11 @@
 
         (1) __In general__ 
 
-            To be eligible for a grant under subsection (b) of this section, a recipient institution must have a significant demonstrable commitment to higher education teaching programs in the food and agricultural sciences, or in rural economic, community, and business development, and to each specific subject area for which the grant is to be used.
+            To be eligible for a grant under subsection (b), a recipient institution must have a significant demonstrable commitment to higher education teaching programs in the food and agricultural sciences, or in rural economic, community, and business development, and to each specific subject area for which the grant is to be used.
 
         (2) __Minority groups__ 
 
-            The Secretary may set aside a portion of the funds appropriated for the awarding of grants under subsection (b) of this section, and make such amounts available only for grants to eligible colleges and universities (including the University of the District of Columbia) that the Secretary determines have unique capabilities for achieving the objective of full representation of minority groups in the food and agricultural sciences workforce, or in the rural economic, community, and business development workforce, of the United States.
+            The Secretary may set aside a portion of the funds appropriated for the awarding of grants under subsection (b), and make such amounts available only for grants to eligible colleges and universities (including the University of the District of Columbia) that the Secretary determines have unique capabilities for achieving the objective of full representation of minority groups in the food and agricultural sciences workforce, or in the rural economic, community, and business development workforce, of the United States.
 
         (3) __Research foundations__ 
 

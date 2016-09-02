@@ -27,7 +27,7 @@
 
         (3) __Set-aside__ 
 
-            Of the amount specified in paragraph (1), the Secretary shall use not less than $5,000,000, but not more than $8,000,000, to carry out subsection (b) of this section.
+            Of the amount specified in paragraph (1), the Secretary shall use not less than $5,000,000, but not more than $8,000,000, to carry out subsection (b).
 
     (b) __Information management__ 
 
@@ -79,7 +79,7 @@
 
     (c) __Authorization of appropriations__ 
 
-        In addition to amounts made available under subsection (a)(3) of this section, there are authorized to be appropriated such sums as are necessary to carry out subsection (b) of this section for each of fiscal years 2003 through 2008.
+        In addition to amounts made available under subsection (a)(3), there are authorized to be appropriated such sums as are necessary to carry out subsection (b) for each of fiscal years 2003 through 2008.
 
 ([Pub. L. 107–171, title X, § 10706][/us/pl/107/171/s10706], May 13, 2002, [116 Stat. 519][/us/stat/116/519].)
 

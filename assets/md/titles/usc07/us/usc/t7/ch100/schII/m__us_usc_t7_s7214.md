@@ -25,7 +25,7 @@
 
     (b) __Annual payment quantity of contract commodities__ 
 
-        The payment quantity of each contract commodity covered by all contracts for each fiscal year shall be equal to the sum of the amounts calculated under subsection (a) of this section for each individual contract.
+        The payment quantity of each contract commodity covered by all contracts for each fiscal year shall be equal to the sum of the amounts calculated under subsection (a) for each individual contract.
 
     (c) __Annual payment rate__ 
 
@@ -33,19 +33,19 @@
 
         (1) the amount made available under [section 7213 of this title][/us/usc/t7/s7213] for the contract commodity for the fiscal year; divided by
 
-        (2) the amount determined under subsection (b) of this section for the fiscal year.
+        (2) the amount determined under subsection (b) for the fiscal year.
 
     (d) __Annual payment amount__ 
 
     The amount to be paid under a contract in effect for each fiscal year with respect to all contract commodities covered by the contract shall be equal to the sum of the products of—
 
-        (1) the payment quantity determined under subsection (a) of this section for each of the contract commodities covered by the contract; and
+        (1) the payment quantity determined under subsection (a) for each of the contract commodities covered by the contract; and
 
-        (2) the corresponding payment rate for the contract commodity in effect under subsection (c) of this section.
+        (2) the corresponding payment rate for the contract commodity in effect under subsection (c).
 
     (e) __Reduction in payment amount__ 
 
-        The contract payment determined under subsection (d) of this section for an owner or producer for a fiscal year shall be immediately reduced by the amount of any repayment of deficiency payments that is required under section 114(a)(2) of the Agricultural Act of 1949 ([7 U.S.C. 1445j(a)(2)][/us/usc/t7/s1445j/a/2]) and is not repaid as of the date the contract payment is determined. The Secretary shall be required to collect the required repayment, or any claim based on the required repayment, as soon as the contract payment is determined.
+        The contract payment determined under subsection (d) for an owner or producer for a fiscal year shall be immediately reduced by the amount of any repayment of deficiency payments that is required under section 114(a)(2) of the Agricultural Act of 1949 ([7 U.S.C. 1445j(a)(2)][/us/usc/t7/s1445j/a/2]) and is not repaid as of the date the contract payment is determined. The Secretary shall be required to collect the required repayment, or any claim based on the required repayment, as soon as the contract payment is determined.
 
     (f) __Assignment of contract payments__ 
 

@@ -133,7 +133,7 @@
 
             (C) __Effect of lack of funds__ 
 
-                On request of any applicant who is eligible for a loan under this paragraph for which funds are not available, the applicant shall be considered to have applied for a loan under subchapter IV of this chapter.
+                On request of any applicant who is eligible for a loan under this paragraph for which funds are not available, the applicant shall be considered to have applied for a loan under subchapter IV.
 
         (2) __Cost-of-money loans__ 
 

@@ -25,13 +25,13 @@
 
     (b) __Time for reservation__ 
 
-        The Secretary shall notify Congress of the amount to be reserved under subsection (a) of this section for a fiscal year not later than December 1 of that fiscal year.
+        The Secretary shall notify Congress of the amount to be reserved under subsection (a) for a fiscal year not later than December 1 of that fiscal year.
 
     (c) __Use of funds__ 
 
         (1) __Establishment__ 
 
-            Funds reserved under subsection (a) of this section shall be used to establish the Internet-based system required under [section 7031 of this title][/us/usc/t7/s7031] and to expand the system as required by [section 7032 of this title][/us/usc/t7/s7032].
+            Funds reserved under subsection (a) shall be used to establish the Internet-based system required under [section 7031 of this title][/us/usc/t7/s7031] and to expand the system as required by [section 7032 of this title][/us/usc/t7/s7032].
 
         (2) __Maintenance__ 
 
@@ -39,7 +39,7 @@
 
     (d) __Return of funds__ 
 
-        Funds reserved under subsection (a) of this section and unobligated at the end of the fiscal year shall be returned to the agency from which the funds were reserved, to remain available until expended.
+        Funds reserved under subsection (a) and unobligated at the end of the fiscal year shall be returned to the agency from which the funds were reserved, to remain available until expended.
 
 ([Pub. L. 106–222, § 4][/us/pl/106/222/s4], June 20, 2000, [114 Stat. 354][/us/stat/114/354].)
 

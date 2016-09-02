@@ -21,7 +21,7 @@
 
     (b) __Determination of value of certificates__ 
 
-    The value of each certificate issued under subsection (a) of this section shall be based on the difference between—
+    The value of each certificate issued under subsection (a) shall be based on the difference between—
 
         (1) the loan repayment rate for the class of rice; and
 

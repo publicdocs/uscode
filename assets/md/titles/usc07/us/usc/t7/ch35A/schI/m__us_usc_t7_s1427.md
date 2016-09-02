@@ -87,7 +87,7 @@
 
                 (ii) in connection with any major disaster determined by the President to warrant assistance by the Federal Government under the Disaster Relief and Emergency Assistance Act ([42 U.S.C. 5121][/us/usc/t42/s5121] et seq.); and
 
-            (B) donate or sell commodities in accordance with subchapter V of this chapter.
+            (B) donate or sell commodities in accordance with subchapter V.
 
         (2) __Costs__ 
 

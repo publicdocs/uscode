@@ -29,7 +29,7 @@
 
     (d) __Interest__ 
 
-        Funds collected under this section may be deposited in an interest-bearing account with a financial institution, and any interest earned on the account shall be credited under subsection (c) of this section.
+        Funds collected under this section may be deposited in an interest-bearing account with a financial institution, and any interest earned on the account shall be credited under subsection (c).
 
     (e) __Efficiencies and cost effectiveness__ 
 

@@ -19,7 +19,7 @@
 
     (b)
 
-     Each report submitted under subsection (a) of this section shall include a list with the following information:
+     Each report submitted under subsection (a) shall include a list with the following information:
 
         (1) All contracts awarded for the procurement of advisory and assistance services during the fiscal year and the amount of each contract.
 

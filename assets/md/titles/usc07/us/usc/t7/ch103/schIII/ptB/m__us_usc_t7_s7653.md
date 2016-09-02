@@ -33,7 +33,7 @@
 
     (c) __Interagency coordination__ 
 
-        In support of its responsibilities under subsection (b) of this section, the Office of Pest Management Policy shall provide leadership to ensure coordination of interagency activities with the Environmental Protection Agency, the Food and Drug Administration, and other Federal and State agencies.
+        In support of its responsibilities under subsection (b), the Office of Pest Management Policy shall provide leadership to ensure coordination of interagency activities with the Environmental Protection Agency, the Food and Drug Administration, and other Federal and State agencies.
 
     (d) __Outreach__ 
 

@@ -23,7 +23,7 @@
 
         (2) __Confidentiality__ 
 
-            The personally identifiable information contained in reports under subsection (a) of this section may be withheld in accordance with [section 552(b)(4) of title 5][/us/usc/t5/s552/b/4]. Any officer or employee of the Department of Agriculture who knowingly discloses confidential information as defined by [section 1905 of title 18][/us/usc/t18/s1905] shall be subject to [section 1905 of title 18][/us/usc/t18/s1905]. Nothing in this subsection shall be construed to authorize the withholding of information from Congress.
+            The personally identifiable information contained in reports under subsection (a) may be withheld in accordance with [section 552(b)(4) of title 5][/us/usc/t5/s552/b/4]. Any officer or employee of the Department of Agriculture who knowingly discloses confidential information as defined by [section 1905 of title 18][/us/usc/t18/s1905] shall be subject to [section 1905 of title 18][/us/usc/t18/s1905]. Nothing in this subsection shall be construed to authorize the withholding of information from Congress.
 
     (b) __Violation__ 
 

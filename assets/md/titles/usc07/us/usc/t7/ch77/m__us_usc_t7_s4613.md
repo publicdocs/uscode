@@ -77,7 +77,7 @@
 
         (1) __In general__ 
 
-            Subject to paragraph (2), if adoption of the amended order is not approved in the referendum required under subsection (d) of this section, the Secretary may issue an amended order that implements some or all of the amendments made to this chapter by section 605 of the Agricultural Research, Extension, and Education Reform Act of 1998, or makes other changes to an existing order, in accordance with the administrative procedures specified in sections 4604 and 4605 of this title.
+            Subject to paragraph (2), if adoption of the amended order is not approved in the referendum required under subsection (d), the Secretary may issue an amended order that implements some or all of the amendments made to this chapter by section 605 of the Agricultural Research, Extension, and Education Reform Act of 1998, or makes other changes to an existing order, in accordance with the administrative procedures specified in sections 4604 and 4605 of this title.
 
         (2) __Approval__ 
 

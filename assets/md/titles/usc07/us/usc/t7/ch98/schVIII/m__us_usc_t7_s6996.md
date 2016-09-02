@@ -17,7 +17,7 @@
 
     (a) __Appeal to Division for hearing__ 
 
-        Subject to subsection (b) of this section, a participant shall have the right to appeal an adverse decision to the Division for an evidentiary hearing by a hearing officer consistent with [section 6997 of this title][/us/usc/t7/s6997].
+        Subject to subsection (b), a participant shall have the right to appeal an adverse decision to the Division for an evidentiary hearing by a hearing officer consistent with [section 6997 of this title][/us/usc/t7/s6997].
 
     (b) __Time for appeal__ 
 

@@ -17,7 +17,7 @@
 
     (a) __Determination by Secretary__ 
 
-        In addition to the assistance provided under [section 1471d of this title][/us/usc/t7/s1471d], if the Secretary determines that the livestock emergency also requires the implementation of one or more of the assistance programs described in subsection (b) of this section, the Secretary shall implement such programs.
+        In addition to the assistance provided under [section 1471d of this title][/us/usc/t7/s1471d], if the Secretary determines that the livestock emergency also requires the implementation of one or more of the assistance programs described in subsection (b), the Secretary shall implement such programs.
 
     (b) __Programs authorized__ 
 
@@ -43,7 +43,7 @@
 
     (c) __Water development projects for 1988 and 1989 emergencies__ 
 
-        The Secretary may make available at least $25,000,000 to provide special assistance under subsection (b)(2) of this section for livestock emergencies in 1988 and 1989.
+        The Secretary may make available at least $25,000,000 to provide special assistance under subsection (b)(2) for livestock emergencies in 1988 and 1989.
 
 ([Oct. 31, 1949, ch. 792][/us/act/1949-10-31/ch792], title VI, § 607, as added [Pub. L. 100–387, title I, § 101(a)][/us/pl/100/387/s101/a], Aug. 11, 1988, [102 Stat. 930][/us/stat/102/930]; amended [Pub. L. 101–82, title I, § 142][/us/pl/101/82/s142], title II, § 203, Aug. 14, 1989, [103 Stat. 579][/us/stat/103/579], 581.)
 

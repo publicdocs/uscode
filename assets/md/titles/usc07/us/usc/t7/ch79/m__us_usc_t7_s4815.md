@@ -19,7 +19,7 @@
 
         (1) A district court of the United States shall have jurisdiction specifically to enforce, and to prevent and restrain a person from violating an order, rule, or regulation issued under this chapter.
 
-        (2) A civil action authorized to be brought under this subsection shall be referred to the Attorney General for appropriate action, except that the Secretary is not required to refer to the Attorney General a violation of this chapter if the Secretary believes that the administration and enforcement of this chapter would be adequately served by providing a suitable written notice or warning to a person who committed such violation or by administrative action under subsection (b) of this section.
+        (2) A civil action authorized to be brought under this subsection shall be referred to the Attorney General for appropriate action, except that the Secretary is not required to refer to the Attorney General a violation of this chapter if the Secretary believes that the administration and enforcement of this chapter would be adequately served by providing a suitable written notice or warning to a person who committed such violation or by administrative action under subsection (b).
 
     (b) __Penalties for willful violations; issuance of cease-and-desist orders; judicial review of orders; penalty for failure to obey cease-and-desist order__ 
 
@@ -69,7 +69,7 @@
 
     (c) __Availability of additional remedies__ 
 
-        The remedies provided in subsections (a) and (b) of this section shall be in addition to, and not exclusive of, other remedies that may be available.
+        The remedies provided in subsections (a) and (b) shall be in addition to, and not exclusive of, other remedies that may be available.
 
 ([Pub. L. 99–198, title XVI, § 1626][/us/pl/99/198/s1626], Dec. 23, 1985, [99 Stat. 1620][/us/stat/99/1620].)
 

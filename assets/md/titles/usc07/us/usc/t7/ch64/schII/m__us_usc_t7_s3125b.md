@@ -17,7 +17,7 @@
 
     (a) __Establishment__ 
 
-        The Secretary shall establish, within the National Agricultural Library, in coordination with the National Institute of Food and Agriculture, a National Rural Information Center Clearinghouse (in this section referred to as the “Clearinghouse”) to perform the functions specified in subsection (b) of this section.
+        The Secretary shall establish, within the National Agricultural Library, in coordination with the National Institute of Food and Agriculture, a National Rural Information Center Clearinghouse (in this section referred to as the “Clearinghouse”) to perform the functions specified in subsection (b).
 
     (b) __Functions__ 
 
@@ -25,7 +25,7 @@
 
     (c) __Federal agencies__ 
 
-        On request of the Secretary, the head of a Federal agency shall provide to the Clearinghouse such information as the Secretary may request to enable the Clearinghouse to carry out subsection (b) of this section.
+        On request of the Secretary, the head of a Federal agency shall provide to the Clearinghouse such information as the Secretary may request to enable the Clearinghouse to carry out subsection (b)n.
 
     (d) __State and local agencies and nonprofit organizations__ 
 

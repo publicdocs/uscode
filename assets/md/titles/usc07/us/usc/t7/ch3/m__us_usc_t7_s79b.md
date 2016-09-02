@@ -21,7 +21,7 @@
 
     (b) __Personnel to conduct testing__ 
 
-        The Secretary is authorized to cause such testing provided for in subsection (a) of this section to be performed (1) by personnel employed by the Secretary, or (2) by States, political subdivisions thereof, or persons under the supervision of the Secretary, under such regulations as the Secretary may prescribe.
+        The Secretary is authorized to cause such testing provided for in subsection (a) to be performed (1) by personnel employed by the Secretary, or (2) by States, political subdivisions thereof, or persons under the supervision of the Secretary, under such regulations as the Secretary may prescribe.
 
     (c) __Use of non-approved equipment prohibited__ 
 

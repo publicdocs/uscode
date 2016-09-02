@@ -41,7 +41,7 @@
 
         (1) __Commencement of action__ 
 
-            The district court of the United States for any district in which a person who is a petitioner under subsection (a) of this section resides or carries on business shall have jurisdiction to review a ruling on the petition, if the person files a complaint not later than 20 days after the date of issuance of the ruling under subsection (a)(4) of this section.
+            The district court of the United States for any district in which a person who is a petitioner under subsection (a) resides or carries on business shall have jurisdiction to review a ruling on the petition, if the person files a complaint not later than 20 days after the date of issuance of the ruling under subsection (a)(4).
 
         (2) __Process__ 
 
@@ -49,7 +49,7 @@
 
         (3) __Remands__ 
 
-        If the court determines, under paragraph (1), that a ruling issued under subsection (a)(4) of this section is not in accordance with applicable law, the court shall remand the matter to the Secretary with directions—
+        If the court determines, under paragraph (1), that a ruling issued under subsection (a)(4) is not in accordance with applicable law, the court shall remand the matter to the Secretary with directions—
 
             (A) to make such ruling as the court shall determine to be in accordance with law; or
 
@@ -57,7 +57,7 @@
 
     (c) __Enforcement__ 
 
-        The pendency of proceedings instituted under subsection (a) of this section may not impede, hinder, or delay the Secretary or the Attorney General from taking action under [section 7487 of this title][/us/usc/t7/s7487].
+        The pendency of proceedings instituted under subsection (a) may not impede, hinder, or delay the Secretary or the Attorney General from taking action under [section 7487 of this title][/us/usc/t7/s7487].
 
 ([Pub. L. 104–127, title V, § 577][/us/pl/104/127/s577], Apr. 4, 1996, [110 Stat. 1082][/us/stat/110/1082].)
 

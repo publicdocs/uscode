@@ -25,7 +25,7 @@
 
     (b) __“Qualified telephone borrower” defined__ 
 
-    As used in subsection (a) of this section, the term “qualified telephone borrower” means a person—
+    As used in subsection (a), the term “qualified telephone borrower” means a person—
 
         (1) to whom a telephone loan has been made or guaranteed under this chapter; and
 

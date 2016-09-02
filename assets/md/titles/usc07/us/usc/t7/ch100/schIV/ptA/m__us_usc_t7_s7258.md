@@ -25,7 +25,7 @@
 
     (b) __Funding of export activities__ 
 
-        The Secretary shall assist the entity or entities identified under subsection (a) of this section in identifying sources of funding for the activities specified in subsection (a) of this section from within the dairy industry and elsewhere.
+        The Secretary shall assist the entity or entities identified under subsection (a) in identifying sources of funding for the activities specified in subsection (a) from within the dairy industry and elsewhere.
 
     (c) __Application of section__ 
 

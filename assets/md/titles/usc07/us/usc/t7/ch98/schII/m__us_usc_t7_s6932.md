@@ -21,7 +21,7 @@
 
     (b) __Functions of Consolidated Farm Service Agency__ 
 
-    If the Secretary establishes the Consolidated Farm Service Agency under subsection (a) of this section, the Secretary is authorized to assign to the Agency jurisdiction over the following functions:
+    If the Secretary establishes the Consolidated Farm Service Agency under subsection (a), the Secretary is authorized to assign to the Agency jurisdiction over the following functions:
 
         (1) Agricultural price and income support programs, production adjustment programs, and related programs.
 
@@ -35,7 +35,7 @@
 
     (c) __Special concurrence requirements for certain functions__ 
 
-    In carrying out the programs specified in subsection (b)(4) of this section, the Secretary shall—
+    In carrying out the programs specified in subsection (b)(4), the Secretary shall—
 
         (1) acting on the recommendations of the Consolidated Farm Service Agency, with the concurrence of the Natural Resources Conservation Service, issue regulations to carry out such programs;
 
@@ -101,7 +101,7 @@
 
  __References in Text__ 
 
-    The Food Security Act of 1985, referred to in subsecs. (b)(4) and (d)(1), (3), is [Pub. L. 99–198][/us/pl/99/198], Dec. 23, 1985, [99 Stat. 1354][/us/stat/99/1354], as amended. Title XII of the Act, popularly known as the “Sodbuster Law”, is classified principally to chapter 58 (§ 3801 et seq.) of Title 16, Conservation. Subchapter B of chapter 1 of subtitle D of title XII of the Act is classified generally to subpart B (§ 3831 et seq.) of part I of subchapter IV of chapter 58 of Title 16. For complete classification of this Act to the Code, see Short Title of 1985 Amendment note set out under [section 1281 of this title][/us/usc/t7/s1281] and Tables.
+    The Food Security Act of 1985, referred to in subsecs. (b)(4) and (d)(1), (3), is [Pub. L. 99–198][/us/pl/99/198], Dec. 23, 1985, [99 Stat. 1354][/us/stat/99/1354]. Title XII of the Act is classified principally to chapter 58 (§ 3801 et seq.) of Title 16, Conservation. Subchapter B of chapter 1 of subtitle D of title XII of the Act is classified generally to subpart B (§ 3831 et seq.) of part I of subchapter IV of chapter 58 of Title 16. For complete classification of this Act to the Code, see Short Title of 1985 Amendment note set out under [section 1281 of this title][/us/usc/t7/s1281] and Tables.
 
  __Codification__ 
 

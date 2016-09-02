@@ -27,7 +27,7 @@
 
     (b) __Review__ 
 
-    The consultations under subsection (a) of this section shall include a review of—
+    The consultations under subsection (a) shall include a review of—
 
         (1) the strategic goals of the Department; and
 

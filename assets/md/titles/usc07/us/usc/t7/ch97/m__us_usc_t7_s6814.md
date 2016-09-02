@@ -21,7 +21,7 @@
 
     (b) __Administrative expenses__ 
 
-        Funds appropriated under subsection (a) of this section may not be used for the payment of the expenses or expenditures of the PromoFlor Council in administering a provision of an order.
+        Funds appropriated under subsection (a) may not be used for the payment of the expenses or expenditures of the PromoFlor Council in administering a provision of an order.
 
 ([Pub. L. 103–190, § 15][/us/pl/103/190/s15], Dec. 14, 1993, [107 Stat. 2289][/us/stat/107/2289].)
 

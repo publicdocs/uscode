@@ -43,7 +43,7 @@
 
     (d) __Violation of State law__ 
 
-        Notwithstanding the provisions of subsection (c) of this section, the activities prohibited by such subsection shall be unlawful with respect to fighting ventures involving live birds only if the fight is to take place in a State where it would be in violation of the laws thereof.
+        Notwithstanding the provisions of subsection (c), the activities prohibited by such subsection shall be unlawful with respect to fighting ventures involving live birds only if the fight is to take place in a State where it would be in violation of the laws thereof.
 
     (e) __Buying, selling, delivering, or transporting sharp instruments for use in animal fighting venture__ 
 
@@ -143,7 +143,7 @@
 
     Subsec. (b). [Pub. L. 107–171, § 10302(a)(2)][/us/pl/107/171/s10302/a/2], substituted “deliver, or receive” for “or deliver to another person or receive from another person”.
 
-    Subsec. (d). [Pub. L. 107–171, § 10302(a)(3)][/us/pl/107/171/s10302/a/3], substituted “subsection (c) of this section” for “subsections (a), (b), or (c) of this section”.
+    Subsec. (d). [Pub. L. 107–171, § 10302(a)(3)][/us/pl/107/171/s10302/a/3], substituted “subsection (c)” for “subsections (a), (b), or (c) of this section”.
 
     Subsec. (e). [Pub. L. 107–171, § 10303(a)(1)][/us/pl/107/171/s10303/a/1], inserted heading and substituted “$15,000” for “$5,000” in text.
 

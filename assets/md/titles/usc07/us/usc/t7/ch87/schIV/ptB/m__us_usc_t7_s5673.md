@@ -21,7 +21,7 @@
 
     (b) __Not employees of United States__ 
 
-        Individuals referred to in subsection (a) of this section shall not be regarded as officers or employees of the United States.
+        Individuals referred to in subsection (a) shall not be regarded as officers or employees of the United States.
 
 ([Pub. L. 95–501, title IV, § 413][/us/pl/95/501/s413], as added [Pub. L. 101–624, title XV, § 1531][/us/pl/101/624/s1531], Nov. 28, 1990, [104 Stat. 3685][/us/stat/104/3685].)
 
