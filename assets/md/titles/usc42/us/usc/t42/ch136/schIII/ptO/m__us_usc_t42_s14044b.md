@@ -207,7 +207,7 @@
 
         (2) the term “child advocacy center” means a center created under subtitle A of the Victims of Child Abuse Act of 1990 ([42 U.S.C. 13001][/us/usc/t42/s13001] et seq.);
 
-        (3) the term “child human trafficking” means 1 or more severe forms of trafficking in persons (as defined in [section 7102 of this title][/us/usc/t42/s7102]) involving a victim who is a child; and
+        (3) the term “child human trafficking” means 1 or more severe forms of trafficking in persons (as defined in [section 7102 of title 22][/us/usc/t22/s7102]) involving a victim who is a child; and
 
         (4)
 
@@ -266,7 +266,7 @@
 
 [/us/usc/t18/s3014]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3014
 [/us/usc/t42/s13001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs13001
-[/us/usc/t42/s7102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7102
+[/us/usc/t22/s7102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs7102
 [/us/pl/109/164/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F164%2FtII
 [/us/stat/119/3570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3570
 [/us/pl/110/457/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F457%2FtIII

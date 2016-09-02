@@ -117,7 +117,7 @@
 
                     (II) designate an additional planning and service area in a State;
 
-                    (III) divide the State into different planning and services  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “service”. </sup></sup>  areas; or
+                    (III) divide the State into different planning and service areas; or
 
                     (IV) otherwise affect the boundaries of the planning and service areas in the State.
 
@@ -173,7 +173,7 @@
 
         (4) a demonstration of the allocation of funds, pursuant to the funding formula, to each planning and service area in the State.
 
-([Pub. L. 89–73, title III][/us/pl/89/73/tIII], § 305, as added [Pub. L. 95–478, title I][/us/pl/95/478/tI], § 103(b), Oct. 18, 1978, [92 Stat. 1520][/us/stat/92/1520]; amended [Pub. L. 97–115][/us/pl/97/115], §§ 3(d), 5, Dec. 29, 1981, [95 Stat. 1597][/us/stat/95/1597]; [Pub. L. 98–459, title III][/us/pl/98/459/tIII], § 305, Oct. 9, 1984, [98 Stat. 1773][/us/stat/98/1773]; [Pub. L. 100–175, title I][/us/pl/100/175/tI], §§ 124, 132(a), 134(a)(1), 182(e)(2), (g), (h), Nov. 29, 1987, [101 Stat. 933][/us/stat/101/933], 939, 940, 965; [Pub. L. 100–628, title VII][/us/pl/100/628/tVII], § 705(4), Nov. 7, 1988, [102 Stat. 3247][/us/stat/102/3247]; [Pub. L. 102–375, title I][/us/pl/102/375/tI], § 102(b)(9)(B), (10)(B)–(D), title III, § 305, title IX, § 904(a)(11), Sept. 30, 1992, [106 Stat. 1201][/us/stat/106/1201], 1202, 1222, 1306; [Pub. L. 103–171][/us/pl/103/171], §§ 2(8), 3(a)(13), Dec. 2, 1993, [107 Stat. 1988][/us/stat/107/1988], 1990; [Pub. L. 106–501, title III][/us/pl/106/501/tIII], § 304, title VIII, § 801(c)(3), Nov. 13, 2000, [114 Stat. 2239][/us/stat/114/2239], 2292; [Pub. L. 109–365, title III][/us/pl/109/365/tIII], § 305, Oct. 17, 2006, [120 Stat. 2539][/us/stat/120/2539].)
+([Pub. L. 89–73, title III][/us/pl/89/73/tIII], § 305, as added [Pub. L. 95–478, title I][/us/pl/95/478/tI], § 103(b), Oct. 18, 1978, [92 Stat. 1520][/us/stat/92/1520]; amended [Pub. L. 97–115][/us/pl/97/115], §§ 3(d), 5, Dec. 29, 1981, [95 Stat. 1597][/us/stat/95/1597]; [Pub. L. 98–459, title III][/us/pl/98/459/tIII], § 305, Oct. 9, 1984, [98 Stat. 1773][/us/stat/98/1773]; [Pub. L. 100–175, title I][/us/pl/100/175/tI], §§ 124, 132(a), 134(a)(1), 182(e)(2), (g), (h), Nov. 29, 1987, [101 Stat. 933][/us/stat/101/933], 939, 940, 965; [Pub. L. 100–628, title VII][/us/pl/100/628/tVII], § 705(4), Nov. 7, 1988, [102 Stat. 3247][/us/stat/102/3247]; [Pub. L. 102–375, title I][/us/pl/102/375/tI], § 102(b)(9)(B), (10)(B)–(D), title III, § 305, title IX, § 904(a)(11), Sept. 30, 1992, [106 Stat. 1201][/us/stat/106/1201], 1202, 1222, 1306; [Pub. L. 103–171][/us/pl/103/171], §§ 2(8), 3(a)(13), Dec. 2, 1993, [107 Stat. 1988][/us/stat/107/1988], 1990; [Pub. L. 106–501, title III][/us/pl/106/501/tIII], § 304, title VIII, § 801(c)(3), Nov. 13, 2000, [114 Stat. 2239][/us/stat/114/2239], 2292; [Pub. L. 109–365, title III][/us/pl/109/365/tIII], § 305, Oct. 17, 2006, [120 Stat. 2539][/us/stat/120/2539]; [Pub. L. 114–144][/us/pl/114/144], § 4(c), Apr. 19, 2016, [130 Stat. 338][/us/stat/130/338].)
 
  __Prior Provisions__ 
 
@@ -184,6 +184,8 @@
     Provisions similar to those comprising this section were contained in [Pub. L. 89–73, title III][/us/pl/89/73/tIII], § 304, as added [Pub. L. 93–29, title III][/us/pl/93/29/tIII], § 301, May 3, 1973, [87 Stat. 38][/us/stat/87/38]; [Pub. L. 94–135, title I][/us/pl/94/135/tI], §§ 105, 106(c), Nov. 28, 1975, [89 Stat. 715][/us/stat/89/715], 716, which was classified to [section 3024 of this title][/us/usc/t42/s3024] prior to repeal by [Pub. L. 95–478][/us/pl/95/478].
 
  __Amendments__ 
+
+    2016—Subsec. (b)(5)(C)(i)(III). [Pub. L. 114–144][/us/pl/114/144] substituted “planning and service areas” for “planning and services areas”.
 
     2006—Subsec. (a)(1)(E). [Pub. L. 109–365][/us/pl/109/365], § 305(1)(A), substituted “(with particular attention to low-income older individuals, including low-income minority older individuals, older individuals with limited English proficiency, and older individuals residing in rural areas)” for “(with particular attention to low-income minority individuals and older individuals residing in rural areas)” in two places.
 
@@ -331,6 +333,8 @@
 [/us/stat/114/2239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2239
 [/us/pl/109/365/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365%2FtIII
 [/us/stat/120/2539]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2539
+[/us/pl/114/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F144
+[/us/stat/130/338]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F338
 [/us/pl/89/73/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73%2FtIII
 [/us/pl/93/29/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F29%2FtIII
 [/us/stat/87/41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F41
@@ -351,6 +355,7 @@
 [/us/stat/89/715]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F715
 [/us/usc/t42/s3024]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3024
 [/us/pl/95/478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F478
+[/us/pl/114/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F144
 [/us/pl/109/365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365
 [/us/pl/109/365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365
 [/us/pl/109/365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365

@@ -31,7 +31,7 @@
 
          The plan shall provide that the State agency will—
 
-            (A) evaluate, using uniform procedures described in section 3012(a)(29)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of this title, the need for supportive services (including legal assistance pursuant to subsection (a)(11) of this section, information and assistance, and transportation services), nutrition services, and multipurpose senior centers within the State;
+            (A) evaluate, using uniform procedures described in [section 3012(a)(26) of this title][/us/usc/t42/s3012/a/26], the need for supportive services (including legal assistance pursuant to subsection (a)(11) of this section, information and assistance, and transportation services), nutrition services, and multipurpose senior centers within the State;
 
             (B) develop a standardized process to determine the extent to which public or private programs and resources (including volunteers and programs and services of voluntary organizations) that have the capacity and actually meet such need;
 
@@ -281,11 +281,9 @@
 
         Neither a State, nor a State agency, may require any provider of legal assistance under this subchapter to reveal any information that is protected by the attorney-client privilege.
 
-([Pub. L. 89–73, title III][/us/pl/89/73/tIII], § 307, as added [Pub. L. 95–478, title I][/us/pl/95/478/tI], § 103(b), Oct. 18, 1978, [92 Stat. 1524][/us/stat/92/1524]; amended [Pub. L. 97–115][/us/pl/97/115], §§ 3(d), 7, Dec. 29, 1981, [95 Stat. 1597][/us/stat/95/1597], 1598; [Pub. L. 98–459, title III][/us/pl/98/459/tIII], § 307, Oct. 9, 1984, [98 Stat. 1775][/us/stat/98/1775]; [Pub. L. 100–175, title I][/us/pl/100/175/tI], §§ 128, 129(d), (e), 130(b), 131(b), 132(c), 136(c), 137(b), 138, 140(c), 141(c), 142, 144(d), 155(e)(2), 182(k), Nov. 29, 1987, [101 Stat. 934][/us/stat/101/934], 935, 938–940, 943, 944, 946, 947, 949, 953, 965; [Pub. L. 100–628, title VII][/us/pl/100/628/tVII], § 705(6), Nov. 7, 1988, [102 Stat. 3247][/us/stat/102/3247]; [Pub. L. 102–375, title I][/us/pl/102/375/tI], § 102(b)(4), (5), (10)(A), (C), (E), (F), title III, § 307, title VII, § 708(c)(4), title IX, § 904(a)(13), Sept. 30, 1992, [106 Stat. 1201][/us/stat/106/1201], 1202, 1228, 1293, 1308; [Pub. L. 103–171][/us/pl/103/171], §§ 2(9), 3(a)(5), Dec. 2, 1993, [107 Stat. 1988][/us/stat/107/1988], 1990; [Pub. L. 106–501, title III][/us/pl/106/501/tIII], § 306, title VIII, § 801(c)(4), Nov. 13, 2000, [114 Stat. 2242][/us/stat/114/2242], 2292; [Pub. L. 109–365, title III][/us/pl/109/365/tIII], § 307, Oct. 17, 2006, [120 Stat. 2544][/us/stat/120/2544].)
+([Pub. L. 89–73, title III][/us/pl/89/73/tIII], § 307, as added [Pub. L. 95–478, title I][/us/pl/95/478/tI], § 103(b), Oct. 18, 1978, [92 Stat. 1524][/us/stat/92/1524]; amended [Pub. L. 97–115][/us/pl/97/115], §§ 3(d), 7, Dec. 29, 1981, [95 Stat. 1597][/us/stat/95/1597], 1598; [Pub. L. 98–459, title III][/us/pl/98/459/tIII], § 307, Oct. 9, 1984, [98 Stat. 1775][/us/stat/98/1775]; [Pub. L. 100–175, title I][/us/pl/100/175/tI], §§ 128, 129(d), (e), 130(b), 131(b), 132(c), 136(c), 137(b), 138, 140(c), 141(c), 142, 144(d), 155(e)(2), 182(k), Nov. 29, 1987, [101 Stat. 934][/us/stat/101/934], 935, 938–940, 943, 944, 946, 947, 949, 953, 965; [Pub. L. 100–628, title VII][/us/pl/100/628/tVII], § 705(6), Nov. 7, 1988, [102 Stat. 3247][/us/stat/102/3247]; [Pub. L. 102–375, title I][/us/pl/102/375/tI], § 102(b)(4), (5), (10)(A), (C), (E), (F), title III, § 307, title VII, § 708(c)(4), title IX, § 904(a)(13), Sept. 30, 1992, [106 Stat. 1201][/us/stat/106/1201], 1202, 1228, 1293, 1308; [Pub. L. 103–171][/us/pl/103/171], §§ 2(9), 3(a)(5), Dec. 2, 1993, [107 Stat. 1988][/us/stat/107/1988], 1990; [Pub. L. 106–501, title III][/us/pl/106/501/tIII], § 306, title VIII, § 801(c)(4), Nov. 13, 2000, [114 Stat. 2242][/us/stat/114/2242], 2292; [Pub. L. 109–365, title III][/us/pl/109/365/tIII], § 307, Oct. 17, 2006, [120 Stat. 2544][/us/stat/120/2544]; [Pub. L. 114–144][/us/pl/114/144], § 4(e), Apr. 19, 2016, [130 Stat. 339][/us/stat/130/339].)
 
  __References in Text__ 
-
-    [Section 3012(a) of this title][/us/usc/t42/s3012/a], referred to in subsec. (a)(2)(A), does not contain a par. (29). A former [section 3012(a)(29) of this title][/us/usc/t42/s3012/a/29], relating to uniform data collection procedures, was redesignated section 3012(a)(26) by [Pub. L. 106–501, title II][/us/pl/106/501/tII], § 201(1)(B), Nov. 13, 2000, [114 Stat. 2229][/us/stat/114/2229].
 
     The Legal Services Corporation Act, referred to in subsec. (a)(11)(A), is title X of [Pub. L. 88–452][/us/pl/88/452], as added by [Pub. L. 93–355][/us/pl/93/355], § 2, July 25, 1974, [88 Stat. 378][/us/stat/88/378], as amended, which is classified generally to subchapter X (§ 2996 et seq.) of chapter 34 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2701 of this title][/us/usc/t42/s2701] and Tables.
 
@@ -296,6 +294,8 @@
     Provisions similar to those comprising this section were contained in [Pub. L. 89–73, title III][/us/pl/89/73/tIII], § 305, as added [Pub. L. 93–29, title III][/us/pl/93/29/tIII], § 301, May 3, 1973, [87 Stat. 41][/us/stat/87/41]; [Pub. L. 94–135, title I][/us/pl/94/135/tI], §§ 106(a), (b), 114(e), Nov. 28, 1975, [89 Stat. 715][/us/stat/89/715], 725, which was classified to [section 3025 of this title][/us/usc/t42/s3025] prior to repeal by [Pub. L. 95–478][/us/pl/95/478].
 
  __Amendments__ 
+
+    2016—Subsec. (a)(2)(A). [Pub. L. 114–144][/us/pl/114/144] substituted “3012(a)(26)” for “3012(a)(29)”.
 
     2006—Subsec. (a)(2)(C). [Pub. L. 109–365][/us/pl/109/365], § 307(1), substituted “section 3026(c)” for “section 3026(b)”.
 
@@ -683,6 +683,7 @@
 [/us/usc/t42/s3029/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3029%2Fa
 [/us/usc/t42/s3025/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3025%2Fa%2F2%2FA
 [/us/usc/t42/s3026]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3026
+[/us/usc/t42/s3012/a/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3012%2Fa%2F26
 [/us/usc/t42/s3026/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3026%2Fa%2F2
 [/us/usc/t42/s3025/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3025%2Fd
 [/us/usc/t42/s3026/a/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3026%2Fa%2F10
@@ -723,10 +724,8 @@
 [/us/stat/114/2242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2242
 [/us/pl/109/365/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365%2FtIII
 [/us/stat/120/2544]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2544
-[/us/usc/t42/s3012/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3012%2Fa
-[/us/usc/t42/s3012/a/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3012%2Fa%2F29
-[/us/pl/106/501/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501%2FtII
-[/us/stat/114/2229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2229
+[/us/pl/114/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F144
+[/us/stat/130/339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F339
 [/us/pl/88/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F452
 [/us/pl/93/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F355
 [/us/stat/88/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F378
@@ -743,6 +742,7 @@
 [/us/stat/89/715]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F715
 [/us/usc/t42/s3025]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3025
 [/us/pl/95/478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F478
+[/us/pl/114/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F144
 [/us/pl/109/365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365
 [/us/pl/109/365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365
 [/us/pl/109/365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365

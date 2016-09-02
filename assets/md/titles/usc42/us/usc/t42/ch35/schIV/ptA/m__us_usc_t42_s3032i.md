@@ -39,13 +39,17 @@
 
     (c) __Assistance__ 
 
-        To carry out subsection (a)(1) of this section, the Assistant Secretary shall make grants to or enter into contracts with national nonprofit organizations experienced in providing support and technical assistance on a nationwide basis to States, area agencies on aging, legal assistance providers, ombudsmen, elder abuse prevention programs, and other organizations interested in the legal rights of older individuals.
+        To carry out subsection (a)(1) of this section, the Assistant Secretary shall make grants to or enter into contracts with nonprofit organizations experienced in providing support and technical assistance on a nationwide basis to States, area agencies on aging, legal assistance providers, ombudsmen, elder abuse prevention programs, and other organizations interested in the legal rights of older individuals.
 
-([Pub. L. 89–73, title IV][/us/pl/89/73/tIV], § 420, as added [Pub. L. 106–501, title IV][/us/pl/106/501/tIV], § 401, Nov. 13, 2000, [114 Stat. 2265][/us/stat/114/2265].)
+([Pub. L. 89–73, title IV][/us/pl/89/73/tIV], § 420, as added [Pub. L. 106–501, title IV][/us/pl/106/501/tIV], § 401, Nov. 13, 2000, [114 Stat. 2265][/us/stat/114/2265]; amended [Pub. L. 114–144][/us/pl/114/144], § 5(c), Apr. 19, 2016, [130 Stat. 342][/us/stat/130/342].)
 
  __Prior Provisions__ 
 
     A prior [section 420 of Pub. L. 89–73][/us/pl/89/73/s420] was classified to [section 3034 of this title][/us/usc/t42/s3034], prior to the general amendment of this subchapter by [Pub. L. 106–501][/us/pl/106/501].
+
+ __Amendments__ 
+
+    2016—Subsec. (c). [Pub. L. 114–144][/us/pl/114/144] struck out “national” before “nonprofit organizations”.
 
 ----------
 
@@ -58,8 +62,11 @@
 [/us/pl/89/73/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73%2FtIV
 [/us/pl/106/501/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501%2FtIV
 [/us/stat/114/2265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2265
+[/us/pl/114/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F144
+[/us/stat/130/342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F342
 [/us/pl/89/73/s420]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73%2Fs420
 [/us/usc/t42/s3034]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3034
 [/us/pl/106/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501
+[/us/pl/114/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F144
 
 

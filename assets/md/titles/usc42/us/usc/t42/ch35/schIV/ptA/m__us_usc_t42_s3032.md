@@ -57,19 +57,27 @@
 
             (C) programs supporting caregivers in the role they play in providing disease prevention and health promotion services;
 
-        (12) building public awareness of cognitive impairments such as Alzheimer’s disease and related disorders with neurological and organic brain dysfunction, depression, and mental disorders; and
+        (12) building public awareness of cognitive impairments such as Alzheimer’s disease and related disorders with neurological and organic brain dysfunction, depression, and mental disorders;
 
-        (13) any other activities that the Assistant Secretary determines will achieve the objectives of this section.
+        (13) continuing support for program integrity initiatives concerning the Medicare program under title XVIII of the Social Security Act ([42 U.S.C. 1395][/us/usc/t42/s1395] et seq.) that train senior volunteers to prevent and identify health care fraud and abuse; and
+
+        (14) any other activities that the Assistant Secretary determines will achieve the objectives of this section.
 
     (b) __Authorization of appropriations__ 
 
-        There are authorized to be appropriated to carry out this section such sums as may be necessary for fiscal years 2007, 2008, 2009, 2010, and 2011.
+    There are authorized to be appropriated to carry out—
 
-([Pub. L. 89–73, title IV][/us/pl/89/73/tIV], § 411, as added [Pub. L. 106–501, title IV][/us/pl/106/501/tIV], § 401, Nov. 13, 2000, [114 Stat. 2257][/us/stat/114/2257]; amended [Pub. L. 109–365, title IV][/us/pl/109/365/tIV], § 402, Oct. 17, 2006, [120 Stat. 2552][/us/stat/120/2552].)
+        (1) aging network support activities under this section, $6,216,054 for fiscal year 2017, $6,346,048 for fiscal year 2018, and $6,476,043 for fiscal year 2019; and
+
+        (2) elder rights support activities under this section, $10,856,828 for fiscal year 2017, $11,083,873 for fiscal year 2018, and $11,310,919 for fiscal year 2019.
+
+([Pub. L. 89–73, title IV][/us/pl/89/73/tIV], § 411, as added [Pub. L. 106–501, title IV][/us/pl/106/501/tIV], § 401, Nov. 13, 2000, [114 Stat. 2257][/us/stat/114/2257]; amended [Pub. L. 109–365, title IV][/us/pl/109/365/tIV], § 402, Oct. 17, 2006, [120 Stat. 2552][/us/stat/120/2552]; [Pub. L. 114–144][/us/pl/114/144], § 5(a), Apr. 19, 2016, [130 Stat. 341][/us/stat/130/341].)
 
  __References in Text__ 
 
     The Rehabilitation Act of 1973, referred to in subsec. (a)(7), is [Pub. L. 93–112][/us/pl/93/112], Sept. 26, 1973, [87 Stat. 355][/us/stat/87/355], as amended, which is classified generally to chapter 16 (§ 701 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 701 of Title 29][/us/usc/t29/s701] and Tables.
+
+    The Social Security Act, referred to in subsec. (a)(13), is [act Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], [49 Stat. 620][/us/stat/49/620]. Title XVIII of the Act is classified generally to subchapter XVIII (§ 1395 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see [section 1305 of this title][/us/usc/t42/s1305] and Tables.
 
  __Prior Provisions__ 
 
@@ -85,6 +93,10 @@ Another prior section 3032, [Pub. L. 89–73, title IV][/us/pl/89/73/tIV], § 
 
  __Amendments__ 
 
+    2016—Subsec. (a)(13), (14). [Pub. L. 114–144][/us/pl/114/144], § 5(a)(1), added par. (13) and redesignated former par. (13) as (14).
+
+    Subsec. (b). [Pub. L. 114–144][/us/pl/114/144], § 5(a)(2), substituted “carry out—” for “carry out this section such sums as may be necessary for fiscal years 2007, 2008, 2009, 2010, and 2011.” and added pars. (1) and (2).
+
     2006—Subsec. (a)(9) to (13). [Pub. L. 109–365][/us/pl/109/365], § 402(1), added pars. (9) to (12) and redesignated former par. (9) as (13).
 
     Subsec. (b). [Pub. L. 109–365][/us/pl/109/365], § 402(2), substituted “years 2007, 2008, 2009, 2010, and 2011” for “year 2001, and such sums as may be necessary for subsequent fiscal years”.
@@ -98,14 +110,20 @@ Another prior section 3032, [Pub. L. 89–73, title IV][/us/pl/89/73/tIV], § 
 
 [/us/usc/t29/s721/a/2/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs721%2Fa%2F2%2FA%2Fi
 [/us/usc/t29/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs701
+[/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
 [/us/pl/89/73/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73%2FtIV
 [/us/pl/106/501/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501%2FtIV
 [/us/stat/114/2257]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2257
 [/us/pl/109/365/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365%2FtIV
 [/us/stat/120/2552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2552
+[/us/pl/114/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F144
+[/us/stat/130/341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F341
 [/us/pl/93/112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112
 [/us/stat/87/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F355
 [/us/usc/t29/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs701
+[/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
+[/us/stat/49/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F620
+[/us/usc/t42/s1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1305
 [/us/pl/89/73/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73%2FtIV
 [/us/pl/97/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F115
 [/us/stat/95/1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1601
@@ -134,6 +152,8 @@ Another prior section 3032, [Pub. L. 89–73, title IV][/us/pl/89/73/tIV], § 
 [/us/pl/89/73/s411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73%2Fs411
 [/us/usc/t42/s3035]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3035
 [/us/pl/97/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F115
+[/us/pl/114/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F144
+[/us/pl/114/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F144
 [/us/pl/109/365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365
 [/us/pl/109/365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365
 

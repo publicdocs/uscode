@@ -65,11 +65,13 @@
 
     (b) __Training grants__ 
 
-        The Assistant Secretary shall make grants and enter into contracts to provide in-service training opportunities and courses of instruction on aging to Indian tribes through public or nonprofit Indian aging organizations and to provide annually a national meeting to train directors of programs under this subchapter.
+        The Assistant Secretary shall make grants and enter into contracts to provide in-service training opportunities and courses of instruction on aging to Indian tribes through public or nonprofit Indian aging organizations and to provide annually national trainings for directors of programs under this subchapter.
 
-([Pub. L. 89–73, title IV][/us/pl/89/73/tIV], § 418, as added [Pub. L. 106–501, title IV][/us/pl/106/501/tIV], § 401, Nov. 13, 2000, [114 Stat. 2263][/us/stat/114/2263]; amended [Pub. L. 109–365, title IV][/us/pl/109/365/tIV], § 407, Oct. 17, 2006, [120 Stat. 2557][/us/stat/120/2557].)
+([Pub. L. 89–73, title IV][/us/pl/89/73/tIV], § 418, as added [Pub. L. 106–501, title IV][/us/pl/106/501/tIV], § 401, Nov. 13, 2000, [114 Stat. 2263][/us/stat/114/2263]; amended [Pub. L. 109–365, title IV][/us/pl/109/365/tIV], § 407, Oct. 17, 2006, [120 Stat. 2557][/us/stat/120/2557]; [Pub. L. 114–144][/us/pl/114/144], § 5(b), Apr. 19, 2016, [130 Stat. 341][/us/stat/130/341].)
 
  __Amendments__ 
+
+    2016—Subsec. (b). [Pub. L. 114–144][/us/pl/114/144] substituted “national trainings for” for “a national meeting to train”.
 
     2006—Subsec. (a)(2)(B)(i). [Pub. L. 109–365][/us/pl/109/365] inserted “(including mental health)” after “health”.
 
@@ -85,6 +87,9 @@
 [/us/stat/114/2263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2263
 [/us/pl/109/365/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365%2FtIV
 [/us/stat/120/2557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2557
+[/us/pl/114/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F144
+[/us/stat/130/341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F341
+[/us/pl/114/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F144
 [/us/pl/109/365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365
 
 

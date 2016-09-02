@@ -27,11 +27,11 @@
 
         (4) administer the grants provided by this chapter;
 
-        (5) develop plans, conduct and arrange for research in the field of aging, and assist in the establishment and implementation of programs designed to meet the needs of older individuals for supportive services, including nutrition, hospitalization, education and training services (including preretirement training, and continuing education), low-cost transportation and housing, assistive technology, and health (including mental health) services;
+        (5) develop plans, conduct and arrange for research in the field of aging, and assist in the establishment and implementation of programs designed to meet the health and economic needs of older individuals for supportive services, including nutrition, hospitalization, education and training services (including preretirement training, and continuing education), low-cost transportation and housing, assistive technology, and health (including mental and behavioral health) services;
 
         (6) provide technical assistance and consultation to States and political subdivisions thereof with respect to programs for the aged and aging;
 
-        (7) prepare, publish, and disseminate educational materials dealing with the welfare of older individuals;
+        (7) prepare, publish, and disseminate educational materials dealing with the health and economic welfare of older individuals;
 
         (8) gather statistics in the field of aging which other Federal agencies are not collecting, and take whatever action is necessary to achieve coordination of activities carried out or assisted by all departments, agencies, and instrumentalities of the Federal Government with respect to the collection, preparation, and dissemination of information relevant to older individuals;
 
@@ -57,7 +57,7 @@
 
         (13) provide information and assistance to private organizations for the establishment and operation by them of programs and activities related to the objectives of this chapter;
 
-        (14) develop, in coordination with other agencies, a national plan for meeting the needs for trained personnel in the field of aging, and for training persons for carrying out programs related to the objectives of this chapter, and conduct and provide for the conducting of such training;
+        (14) develop, in coordination with other agencies (including the Health Resources and Services Administration), a national plan for meeting the needs for trained personnel in the field of aging, and for training persons for carrying out programs related to the objectives of this chapter, and conduct and provide for the conducting of such training;
 
         (15) consult with national organizations representing minority individuals to develop and disseminate training packages and to provide technical assistance efforts designed to assist State and area agencies on aging, and service providers, in providing services to older individuals with greatest economic need or individuals with greatest social need, with particular attention to and specific objectives for providing services to low-income minority individuals and older individuals residing in rural areas;
 
@@ -175,9 +175,15 @@
 
             (B) developing a resource guide on best practices for States, area agencies on aging, and service providers; and
 
-            (C) providing training and technical assistance to States to implement these best practices of service delivery; and
+            (C) providing training and technical assistance to States to implement these best practices of service delivery;
 
-        (28) make available to States, area agencies on aging, and service providers information and technical assistance to support the provision of evidence-based disease prevention and health promotion services.
+        (28) make available to States, area agencies on aging, and service providers information and technical assistance to support the provision of evidence-based disease prevention and health promotion services;
+
+        (29) provide information and technical assistance to States, area agencies on aging, and service providers, in collaboration with relevant Federal agencies, on providing efficient, person-centered transportation services, including across geographic boundaries;
+
+        (30) identify model programs and provide information and technical assistance to States, area agencies on aging, and service providers (including providers operating multipurpose senior centers), to support the modernization of multipurpose senior centers; and
+
+        (31) provide technical assistance to and share best practices with States, area agencies on aging, and Aging and Disability Resource Centers, on how to collaborate and coordinate services with health care entities, such as Federally-qualified health centers, as defined in section 1905(l)(2)(B) of the Social Security Act ([42 U.S.C. 1396d][/us/usc/t42/s1396d](l)(2)(B)), in order to improve care coordination for individuals with multiple chronic illnesses.
 
     (b) __Development and implementation of comprehensive, coordinated systems for long-term care__ 
 
@@ -217,9 +223,11 @@
 
             (A) directing (as the Secretary or the President determines to be appropriate) or otherwise participating in departmental and interdepartmental activities concerning long-term care;
 
-            (B) reviewing and commenting on departmental rules, regulations, and policies related to providing long-term care; and
+            (B) reviewing and commenting on departmental rules, regulations, and policies related to providing long-term care;
 
-            (C) making recommendations to the Secretary with respect to home and community-based long-term care, including recommendations based on findings made through projects conducted under paragraph (2);
+            (C) making recommendations to the Secretary with respect to home and community-based long-term care, including recommendations based on findings made through projects conducted under paragraph (2); and
+
+            (D) when feasible, developing, in consultation with States and national organizations, a consumer-friendly tool to assist older individuals and their families in choosing home and community-based services, with a particular focus on ways for consumers to assess how providers protect the health, safety, welfare, and rights, including the rights provided under [section 3030c–1 of this title][/us/usc/t42/s3030c–1], of older individuals;
 
         (6)
 
@@ -237,13 +245,15 @@
 
             (A) to serve as visible and trusted sources of information on the full range of long-term care options, including both institutional and home and community-based care, which are available in the community;
 
-            (B) to provide personalized and consumer-friendly assistance to empower individuals to make informed decisions about their care options;
+            (B) to provide personalized and consumer-friendly assistance to empower individuals to identify and articulate goals of care and to make informed decisions about their care options;
 
             (C) to provide coordinated and streamlined access to all publicly supported long-term care options so that consumers can obtain the care they need through a single intake, assessment, and eligibility determination process;
 
-            (D) to help individuals to plan ahead for their future long-term care needs; and
+            (D) to help individuals to respond to or plan ahead for their long-term care needs;
 
-            (E) to assist (in coordination with the entities carrying out the health insurance information, counseling, and assistance program (receiving funding under [section 1395b–4 of this title][/us/usc/t42/s1395b–4]) in the States) beneficiaries, and prospective beneficiaries, under the Medicare program established under title XVIII of the Social Security Act ([42 U.S.C. 1395][/us/usc/t42/s1395] et seq.) in understanding and accessing prescription drug and preventative health benefits under the provisions of, and amendments made by, the Medicare Prescription Drug, Improvement, and Modernization Act of 2003;
+            (E) to assist (in coordination with the entities carrying out the health insurance information, counseling, and assistance program (receiving funding under [section 1395b–4 of this title][/us/usc/t42/s1395b–4]) in the States) beneficiaries, and prospective beneficiaries, under the Medicare program established under title XVIII of the Social Security Act ([42 U.S.C. 1395][/us/usc/t42/s1395] et seq.) in understanding and accessing prescription drug and preventative health benefits under the provisions of, and amendments made by, the Medicare Prescription Drug, Improvement, and Modernization Act of 2003; and
+
+            (F) to provide information and referrals regarding available home and community-based services for individuals who are at risk for residing in, or who reside in, institutional settings, so that the individuals have the choice to remain in or to return to the community;
 
         (9)
 
@@ -375,7 +385,11 @@
 
             (D) evaluation of the pilot test and recommendations for modification of the proposed set of such measures.
 
-([Pub. L. 89–73, title II][/us/pl/89/73/tII], § 202, July 14, 1965, [79 Stat. 220][/us/stat/79/220]; [Pub. L. 93–29, title II][/us/pl/93/29/tII], § 201(b), May 3, 1973, [87 Stat. 31][/us/stat/87/31]; [Pub. L. 94–135, title I][/us/pl/94/135/tI], § 114(b), (c), Nov. 28, 1975, [89 Stat. 725][/us/stat/89/725]; [Pub. L. 95–478, title I][/us/pl/95/478/tI], § 102(a), title V, § 503(b)(2), (4), Oct. 18, 1978, [92 Stat. 1513][/us/stat/92/1513], 1559; [Pub. L. 97–115][/us/pl/97/115], §§ 2(b), (c), 3(d), Dec. 29, 1981, [95 Stat. 1595][/us/stat/95/1595], 1597; [Pub. L. 98–459, title II][/us/pl/98/459/tII], § 202, Oct. 9, 1984, [98 Stat. 1768][/us/stat/98/1768]; [Pub. L. 100–175, title I][/us/pl/100/175/tI], §§ 103(a), 105(a), 106(a), 155(a), Nov. 29, 1987, [101 Stat. 928][/us/stat/101/928], 930, 952; [Pub. L. 102–321, title I][/us/pl/102/321/tI], § 163(c)(2)(A), July 10, 1992, [106 Stat. 377][/us/stat/106/377]; [Pub. L. 102–375, title I][/us/pl/102/375/tI], § 102(b)(10)(A), title II, § 202(a)–(f), title VII, § 708(c)(1), title IX, § 904(a)(4), Sept. 30, 1992, [106 Stat. 1202][/us/stat/106/1202], 1205–1208, 1292, 1306; [Pub. L. 103–82, title IV][/us/pl/103/82/tIV], § 405(g)(1), Sept. 21, 1993, [107 Stat. 921][/us/stat/107/921]; [Pub. L. 103–171][/us/pl/103/171], §§ 2(2), (3), 3(a)(3), Dec. 2, 1993, [107 Stat. 1988][/us/stat/107/1988], 1990; [Pub. L. 106–501, title II][/us/pl/106/501/tII], § 201, title VIII, § 801(b)(2), Nov. 13, 2000, [114 Stat. 2229][/us/stat/114/2229], 2291; [Pub. L. 109–365, title II][/us/pl/109/365/tII], § 202, Oct. 17, 2006, [120 Stat. 2528][/us/stat/120/2528]; [Pub. L. 110–234, title IV][/us/pl/110/234/tIV], § 4002(b)(1)(B), (2)(BB), May 22, 2008, [122 Stat. 1096][/us/stat/122/1096], 1097; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title IV, § 4002(b)(1)(B), (2)(BB), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1857, 1859.)
+    (g) __Training and provision of services addressing elder justice and exploitation__ 
+
+        The Assistant Secretary shall, as appropriate, ensure that programs authorized under this chapter include appropriate training in the prevention of abuse, neglect, and exploitation and provision of services that address elder justice and the exploitation of older individuals.
+
+([Pub. L. 89–73, title II][/us/pl/89/73/tII], § 202, July 14, 1965, [79 Stat. 220][/us/stat/79/220]; [Pub. L. 93–29, title II][/us/pl/93/29/tII], § 201(b), May 3, 1973, [87 Stat. 31][/us/stat/87/31]; [Pub. L. 94–135, title I][/us/pl/94/135/tI], § 114(b), (c), Nov. 28, 1975, [89 Stat. 725][/us/stat/89/725]; [Pub. L. 95–478, title I][/us/pl/95/478/tI], § 102(a), title V, § 503(b)(2), (4), Oct. 18, 1978, [92 Stat. 1513][/us/stat/92/1513], 1559; [Pub. L. 97–115][/us/pl/97/115], §§ 2(b), (c), 3(d), Dec. 29, 1981, [95 Stat. 1595][/us/stat/95/1595], 1597; [Pub. L. 98–459, title II][/us/pl/98/459/tII], § 202, Oct. 9, 1984, [98 Stat. 1768][/us/stat/98/1768]; [Pub. L. 100–175, title I][/us/pl/100/175/tI], §§ 103(a), 105(a), 106(a), 155(a), Nov. 29, 1987, [101 Stat. 928][/us/stat/101/928], 930, 952; [Pub. L. 102–321, title I][/us/pl/102/321/tI], § 163(c)(2)(A), July 10, 1992, [106 Stat. 377][/us/stat/106/377]; [Pub. L. 102–375, title I][/us/pl/102/375/tI], § 102(b)(10)(A), title II, § 202(a)–(f), title VII, § 708(c)(1), title IX, § 904(a)(4), Sept. 30, 1992, [106 Stat. 1202][/us/stat/106/1202], 1205–1208, 1292, 1306; [Pub. L. 103–82, title IV][/us/pl/103/82/tIV], § 405(g)(1), Sept. 21, 1993, [107 Stat. 921][/us/stat/107/921]; [Pub. L. 103–171][/us/pl/103/171], §§ 2(2), (3), 3(a)(3), Dec. 2, 1993, [107 Stat. 1988][/us/stat/107/1988], 1990; [Pub. L. 106–501, title II][/us/pl/106/501/tII], § 201, title VIII, § 801(b)(2), Nov. 13, 2000, [114 Stat. 2229][/us/stat/114/2229], 2291; [Pub. L. 109–365, title II][/us/pl/109/365/tII], § 202, Oct. 17, 2006, [120 Stat. 2528][/us/stat/120/2528]; [Pub. L. 110–234, title IV][/us/pl/110/234/tIV], § 4002(b)(1)(B), (2)(BB), May 22, 2008, [122 Stat. 1096][/us/stat/122/1096], 1097; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title IV, § 4002(b)(1)(B), (2)(BB), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1857, 1859; [Pub. L. 114–144][/us/pl/114/144], §§ 3(b), 9(3), Apr. 19, 2016, [130 Stat. 336][/us/stat/130/336], 352.)
 
  __References in Text__ 
 
@@ -395,7 +409,27 @@
 
  __Amendments__ 
 
-    2008—Subsec. (a)(17(A), (20)(A)(iii). [Pub. L. 110–246][/us/pl/110/246], § 4002(b)(1)(B), (2)(BB), substituted “Food and Nutrition Act of 2008” for “Food Stamp Act of 1977”.
+    2016—Subsec. (a)(5). [Pub. L. 114–144][/us/pl/114/144], § 9(3), inserted “and behavioral” after “mental”.
+
+    [Pub. L. 114–144][/us/pl/114/144], § 3(b)(1)(A), inserted “health and economic” before “needs of older individuals”.
+
+    Subsec. (a)(7). [Pub. L. 114–144][/us/pl/114/144], § 3(b)(1)(B), inserted “health and economic” before “welfare”.
+
+    Subsec. (a)(14). [Pub. L. 114–144][/us/pl/114/144], § 3(b)(1)(C), inserted “(including the Health Resources and Services Administration)” after “other agencies”.
+
+    Subsec. (a)(29) to (31). [Pub. L. 114–144][/us/pl/114/144], § 3(b)(1)(D)–(F), added pars. (29) to (31).
+
+    Subsec. (b)(5)(D). [Pub. L. 114–144][/us/pl/114/144], § 3(b)(2)(A), added subpar. (D).
+
+    Subsec. (b)(8)(B). [Pub. L. 114–144][/us/pl/114/144], § 3(b)(2)(B)(i), inserted “to identify and articulate goals of care and” after “individuals”.
+
+    Subsec. (b)(8)(D). [Pub. L. 114–144][/us/pl/114/144], § 3(b)(2)(B)(ii), inserted “respond to or” before “plan” and substituted “long-term care needs;” for “future long-term care needs; and”.
+
+    Subsec. (b)(8)(F). [Pub. L. 114–144][/us/pl/114/144], § 3(b)(2)(B)(iii), (iv), added subpar. (F).
+
+    Subsec. (g). [Pub. L. 114–144][/us/pl/114/144], § 3(b)(3), added subsec. (g).
+
+    2008—Subsec. (a)(17)(A), (20)(A)(iii). [Pub. L. 110–246][/us/pl/110/246], § 4002(b)(1)(B), (2)(BB), substituted “Food and Nutrition Act of 2008” for “Food Stamp Act of 1977”.
 
     2006—Subsec. (a)(5). [Pub. L. 109–365][/us/pl/109/365], § 202(1)(A), inserted “assistive technology,” after “housing,”.
 
@@ -661,7 +695,9 @@
 [/us/usc/t42/s3027/a/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3027%2Fa%2F13
 [/us/usc/t42/s3058j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3058j
 [/us/usc/t42/s3020e–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3020e%E2%80%931
+[/us/usc/t42/s1396d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396d
 [/us/usc/t42/s1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396
+[/us/usc/t42/s3030c–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3030c%E2%80%931
 [/us/usc/t42/s1395b–4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395b%E2%80%934
 [/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
 [/us/usc/t42/s3011/c/3/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3011%2Fc%2F3%2FF
@@ -695,6 +731,8 @@
 [/us/stat/122/1096]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1096
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
+[/us/pl/114/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F144
+[/us/stat/130/336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F336
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F620
 [/us/usc/t42/s1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1305
@@ -714,6 +752,16 @@
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/114/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F144
+[/us/pl/114/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F144
+[/us/pl/114/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F144
+[/us/pl/114/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F144
+[/us/pl/114/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F144
+[/us/pl/114/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F144
+[/us/pl/114/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F144
+[/us/pl/114/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F144
+[/us/pl/114/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F144
+[/us/pl/114/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F144
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/109/365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365
 [/us/pl/109/365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365

@@ -39,7 +39,7 @@
 
         (3) The applicant’s ability to administer a project that moves eligible individuals into unsubsidized employment.
 
-        (4) The applicant’s prior performance, if any, in meeting core measures of performance and addressing additional indicators of performance under this subchapter and the applicant’s ability to address core indicators of performance and additional indicators of performance under this subchapter and under other Federal or State programs in the case of an applicant that has not previously received a grant under this subchapter.
+        (4) The applicant’s prior performance, if any, in meeting core measures of performance under this subchapter and the applicant’s ability to address core indicators of performance under this subchapter and under other Federal or State programs in the case of an applicant that has not previously received a grant under this subchapter.
 
         (5) The applicant’s ability to move individuals with multiple barriers to employment, including individuals described in subsection (a)(3)(B)(ii) or (b)(2) of [section 3056p of this title][/us/usc/t42/s3056p], into unsubsidized employment.
 
@@ -121,7 +121,7 @@
 
         The Secretary may not promulgate rules or regulations affecting grantees in areas where a substantial population of minority individuals exists, that would significantly compromise the ability of the grantees to serve their targeted population of minority older individuals.
 
-([Pub. L. 89–73, title V][/us/pl/89/73/tV], § 514, as added [Pub. L. 109–365, title V][/us/pl/109/365/tV], § 501, Oct. 17, 2006, [120 Stat. 2584][/us/stat/120/2584].)
+([Pub. L. 89–73, title V][/us/pl/89/73/tV], § 514, as added [Pub. L. 109–365, title V][/us/pl/109/365/tV], § 501, Oct. 17, 2006, [120 Stat. 2584][/us/stat/120/2584]; amended [Pub. L. 114–144][/us/pl/114/144], § 6(e), Apr. 19, 2016, [130 Stat. 346][/us/stat/130/346].)
 
  __References in Text__ 
 
@@ -130,6 +130,10 @@
  __Prior Provisions__ 
 
     A prior section 3056l, [Pub. L. 89–73, title V][/us/pl/89/73/tV], § 514, as added [Pub. L. 106–501, title V][/us/pl/106/501/tV], § 501, Nov. 13, 2000, [114 Stat. 2282][/us/stat/114/2282], related to competitive requirements relating to grant awards, prior to the general amendment of this subchapter by [Pub. L. 109–365][/us/pl/109/365].
+
+ __Amendments__ 
+
+    2016—Subsec. (c)(4). [Pub. L. 114–144][/us/pl/114/144] struck out “and addressing additional indicators of performance” after “measures of performance” and “and additional indicators of performance” after “core indicators of performance”.
 
 ----------
 
@@ -150,6 +154,8 @@
 [/us/pl/89/73/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73%2FtV
 [/us/pl/109/365/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365%2FtV
 [/us/stat/120/2584]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2584
+[/us/pl/114/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F144
+[/us/stat/130/346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F346
 [/us/pl/104/134/tIII/s31001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2FtIII%2Fs31001
 [/us/stat/110/1321-358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1321-358
 [/us/usc/t31/s3701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3701
@@ -157,5 +163,6 @@
 [/us/pl/106/501/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501%2FtV
 [/us/stat/114/2282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2282
 [/us/pl/109/365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365
+[/us/pl/114/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F144
 
 

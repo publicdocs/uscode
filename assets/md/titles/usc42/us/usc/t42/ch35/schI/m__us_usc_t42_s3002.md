@@ -17,35 +17,33 @@
 
     For the purposes of this chapter—
 
-    (1)
-
-     The term “abuse” means the willful—
-
-        (A) infliction of injury, unreasonable confinement, intimidation, or cruel punishment with resulting physical harm, pain, or mental anguish; or
-
-        (B) deprivation by a person, including a caregiver, of goods or services that are necessary to avoid physical harm, mental anguish, or mental illness.
+    (1) The term “abuse” means the knowing infliction of physical or psychological harm or the knowing deprivation of goods or services that are necessary to meet essential needs or to avoid physical or psychological harm.
 
     (2) The term “Administration” means the Administration on Aging.
 
     (3)
 
-     The term “adult child with a disability” means a child who—
+     The term “adult protective services” means such services provided to adults as the Secretary may specify and includes services such as—
 
-        (A) is 18 years of age or older;
+        (A) receiving reports of adult abuse, neglect, or exploitation;
 
-        (B) is financially dependent on an older individual who is a parent of the child; and
+        (B) investigating the reports described in subparagraph (A);
 
-        (C) has a disability.
+        (C) case planning, monitoring, evaluation, and other casework and services; and
+
+        (D) providing, arranging for, or facilitating the provision of medical, social service, economic, legal, housing, law enforcement, or other protective, emergency, or support services.
 
     (4)
 
-     The term “Aging and Disability Resource Center” means an entity established by a State as part of the State system of long-term care, to provide a coordinated system for providing—
+     The term “Aging and Disability Resource Center” means an entity, network, or consortium established by a State as part of the State system of long-term care, to provide a coordinated and integrated system for older individuals and individuals with disabilities (as defined in [section 12102 of this title][/us/usc/t42/s12102]), and the caregivers of older individuals and individuals with disabilities, that provides—
 
-        (A) comprehensive information on the full range of available public and private long-term care programs, options, service providers, and resources within a community, including information on the availability of integrated long-term care;
+        (A) comprehensive information on the full range of available public and private long-term care programs, options, service providers, and resources within a community, including information on the availability of integrated long-term care services, and Federal or State programs that provide long-term care services and supports through home and community-based service programs;
 
-        (B) personal counseling to assist individuals in assessing their existing or anticipated long-term care needs, and developing and implementing a plan for long-term care designed to meet their specific needs and circumstances; and
+        (B) person-centered counseling to assist individuals in assessing their existing or anticipated long-term care needs and goals, and developing and implementing a person-centered plan for long-term care that is consistent with the desires of such an individual and designed to meet the individual’s specific needs, goals, and circumstances;
 
-        (C) consumers access to the range of publicly-supported long-term care programs for which consumers may be eligible, by serving as a convenient point of entry for such programs.
+        (C) access for individuals to the full range of publicly-supported long-term care services and supports for which the individuals may be eligible, including home and community-based service options, by serving as a convenient point of entry for such programs and supports; and
+
+        (D) in cooperation with area agencies on aging, centers for independent living described in part C of title VII of the Rehabilitation Act of 1973 ([29 U.S.C. 796f][/us/usc/t29/s796f] et seq.), and other community-based entities, information and referrals regarding available home and community-based services for individuals who are at risk for residing in, or who reside in, institutional settings, so that the individuals have the choice to remain in or to return to the community.
 
     (5)
 
@@ -127,7 +125,7 @@
 
         (A) health risk assessments;
 
-        (B) routine health screening, which may include hypertension, glaucoma, cholesterol, cancer, vision, hearing, diabetes, bone density, and nutrition screening;
+        (B) routine health screening, which may include hypertension, glaucoma, cholesterol, cancer, vision, hearing, diabetes, bone density, oral health, and nutrition screening;
 
         (C) nutritional counseling and educational services for individuals and their primary caregivers;
 
@@ -145,7 +143,7 @@
 
         (F) home injury control services, including screening of high-risk home environments and provision of educational programs on injury prevention (including fall and fracture prevention) in the home environment;
 
-        (G) screening for the prevention of depression, coordination of community mental health services, provision of educational activities, and referral to psychiatric and psychological services;
+        (G) screening for the prevention of depression, coordination of community mental and behavioral health services, provision of educational activities, and referral to psychiatric and psychological services;
 
         (H) educational programs on the availability, benefits, and appropriate use of preventive health services covered under title XVIII of the Social Security Act ([42 U.S.C. 1395][/us/usc/t42/s1395] et seq.);
 
@@ -165,15 +163,21 @@
 
     (17)
 
-     The term “elder justice”—
+     The term “elder justice” means—
 
-        (A) used with respect to older individuals, collectively, means efforts to prevent, detect, treat, intervene in, and respond to elder abuse, neglect, and exploitation and to protect older individuals with diminished capacity while maximizing their autonomy; and
+        (A)
 
-        (B) used with respect to an individual who is an older individual, means the recognition of the individual’s rights, including the right to be free of abuse, neglect, and exploitation.
+         from a societal perspective, efforts to—
+
+            (i) prevent, detect, treat, intervene in, and prosecute elder abuse, neglect, and exploitation; and
+
+            (ii) protect older individuals with diminished capacity while maximizing their autonomy; and
+
+        (B) from an individual perspective, the recognition of an older individual’s rights, including the right to be free of abuse, neglect, and exploitation.
 
     (18)
 
-        (A) The term “exploitation” means the fraudulent or otherwise illegal, unauthorized, or improper act or process of an individual, including a caregiver or fiduciary, that uses the resources of an older individual for monetary or personal benefit, profit, or gain, or that results in depriving an older individual of rightful access to, or use of, benefits, resources, belongings, or assets.
+        (A) The terms “exploitation” and “financial exploitation” mean the fraudulent or otherwise illegal, unauthorized, or improper act or process of an individual, including a caregiver or fiduciary, that uses the resources of an older individual for monetary or personal benefit, profit, or gain, or that results in depriving an older individual of rightful access to, or use of, benefits, resources, belongings, or assets.
 
         (B) In subparagraph (A), the term “caregiver” means an individual who has the responsibility for the care of an older individual, either voluntarily, by contract, by receipt of payment for care, or as a result of the operation of law and means a family member or other individual who provides (on behalf of such individual or of a public or private agency, organization, or institution) compensated or uncompensated care to an older individual.
 
@@ -345,7 +349,7 @@
 
         (D) any other adult care home, including an assisted living facility, similar to a facility or institution described in subparagraphs (A) through (C).
 
-    (36) The term “multipurpose senior center” means a community facility for the organization and provision of a broad spectrum of services, which shall include provision of health (including mental health), social, nutritional, and educational services and the provision of facilities for recreational activities for older individuals.
+    (36) The term “multipurpose senior center” means a community facility for the organization and provision of a broad spectrum of services, which shall include provision of health (including mental and behavioral health), social, nutritional, and educational services and the provision of facilities for recreational activities for older individuals.
 
     (37)
 
@@ -405,7 +409,7 @@
 
         (A) obtaining essential food, clothing, shelter, and medical care;
 
-        (B) obtaining goods and services necessary to maintain physical health, mental health, or general safety; or
+        (B) obtaining goods and services necessary to maintain physical health, mental and behavioral health, or general safety; or
 
         (C) managing one’s own financial affairs.
 
@@ -429,9 +433,11 @@
 
     (54) Except for the purposes of subchapter X of this chapter, the term “tribal organization” means the recognized governing body of any Indian tribe, or any legally established organization of Indians which is controlled, sanctioned, or chartered by such governing body. In any case in which a contract is let or grant made to an organization to perform services benefiting more than one Indian tribe, the approval of each such Indian tribe shall be a prerequisite to the letting or making of such contract or grant.
 
-([Pub. L. 89–73, title I][/us/pl/89/73/tI], § 102, July 14, 1965, [79 Stat. 219][/us/stat/79/219]; [Pub. L. 90–42][/us/pl/90/42], § 5(a), July 1, 1967, [81 Stat. 107][/us/stat/81/107]; [Pub. L. 91–69][/us/pl/91/69], § 10(a), Sept. 17, 1969, [83 Stat. 114][/us/stat/83/114]; [Pub. L. 94–135, title I][/us/pl/94/135/tI], §§ 104(b), 114(a), Nov. 28, 1975, [89 Stat. 714][/us/stat/89/714], 725; [Pub. L. 95–478, title V][/us/pl/95/478/tV], § 503(a), Oct. 18, 1978, [92 Stat. 1559][/us/stat/92/1559]; [Pub. L. 97–115][/us/pl/97/115], § 2(a)(2), (3), Dec. 29, 1981, [95 Stat. 1595][/us/stat/95/1595]; [Pub. L. 100–175, title I][/us/pl/100/175/tI], §§ 136(a)(1), 146(a), 182(a), (b)(1), Nov. 29, 1987, [101 Stat. 942][/us/stat/101/942], 950, 964; [Pub. L. 100–628, title VII][/us/pl/100/628/tVII], § 705(1), Nov. 7, 1988, [102 Stat. 3247][/us/stat/102/3247]; [Pub. L. 102–375, title I][/us/pl/102/375/tI], § 102(a), (b)(1)(A), title IX, § 904(a)(2), Sept. 30, 1992, [106 Stat. 1197][/us/stat/106/1197], 1200, 1306; [Pub. L. 103–171][/us/pl/103/171], §§ 2(1), 3(a)(1), Dec. 2, 1993, [107 Stat. 1988][/us/stat/107/1988], 1989; [Pub. L. 105–244, title I][/us/pl/105/244/tI], § 102(a)(13)(C), Oct. 7, 1998, [112 Stat. 1620][/us/stat/112/1620]; [Pub. L. 106–501, title I][/us/pl/106/501/tI], § 101, title VIII, § 801(a), Nov. 13, 2000, [114 Stat. 2227][/us/stat/114/2227], 2291; [Pub. L. 108–36, title IV][/us/pl/108/36/tIV], § 416, June 25, 2003, [117 Stat. 831][/us/stat/117/831]; [Pub. L. 109–365, title I][/us/pl/109/365/tI], § 101, Oct. 17, 2006, [120 Stat. 2523][/us/stat/120/2523].)
+([Pub. L. 89–73, title I][/us/pl/89/73/tI], § 102, July 14, 1965, [79 Stat. 219][/us/stat/79/219]; [Pub. L. 90–42][/us/pl/90/42], § 5(a), July 1, 1967, [81 Stat. 107][/us/stat/81/107]; [Pub. L. 91–69][/us/pl/91/69], § 10(a), Sept. 17, 1969, [83 Stat. 114][/us/stat/83/114]; [Pub. L. 94–135, title I][/us/pl/94/135/tI], §§ 104(b), 114(a), Nov. 28, 1975, [89 Stat. 714][/us/stat/89/714], 725; [Pub. L. 95–478, title V][/us/pl/95/478/tV], § 503(a), Oct. 18, 1978, [92 Stat. 1559][/us/stat/92/1559]; [Pub. L. 97–115][/us/pl/97/115], § 2(a)(2), (3), Dec. 29, 1981, [95 Stat. 1595][/us/stat/95/1595]; [Pub. L. 100–175, title I][/us/pl/100/175/tI], §§ 136(a)(1), 146(a), 182(a), (b)(1), Nov. 29, 1987, [101 Stat. 942][/us/stat/101/942], 950, 964; [Pub. L. 100–628, title VII][/us/pl/100/628/tVII], § 705(1), Nov. 7, 1988, [102 Stat. 3247][/us/stat/102/3247]; [Pub. L. 102–375, title I][/us/pl/102/375/tI], § 102(a), (b)(1)(A), title IX, § 904(a)(2), Sept. 30, 1992, [106 Stat. 1197][/us/stat/106/1197], 1200, 1306; [Pub. L. 103–171][/us/pl/103/171], §§ 2(1), 3(a)(1), Dec. 2, 1993, [107 Stat. 1988][/us/stat/107/1988], 1989; [Pub. L. 105–244, title I][/us/pl/105/244/tI], § 102(a)(13)(C), Oct. 7, 1998, [112 Stat. 1620][/us/stat/112/1620]; [Pub. L. 106–501, title I][/us/pl/106/501/tI], § 101, title VIII, § 801(a), Nov. 13, 2000, [114 Stat. 2227][/us/stat/114/2227], 2291; [Pub. L. 108–36, title IV][/us/pl/108/36/tIV], § 416, June 25, 2003, [117 Stat. 831][/us/stat/117/831]; [Pub. L. 109–365, title I][/us/pl/109/365/tI], § 101, Oct. 17, 2006, [120 Stat. 2523][/us/stat/120/2523]; [Pub. L. 114–144][/us/pl/114/144], §§ 2, 9(1), Apr. 19, 2016, [130 Stat. 334][/us/stat/130/334], 351.)
 
  __References in Text__ 
+
+    The Rehabilitation Act of 1973, referred to in par. (4)(D), is [Pub. L. 93–112][/us/pl/93/112], Sept. 26, 1973, [87 Stat. 355][/us/stat/87/355]. Part C of title VII of the Act is classified generally to subpart 3 (§ 796f et seq.) of part A of subchapter VII of chapter 16 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 701 of Title 29][/us/usc/t29/s701] and Tables.
 
     The Social Security Act, referred to in pars. (14) and (32), is [act Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], [49 Stat. 620][/us/stat/49/620]. Titles XVIII and XIX of the Act are classified generally to subchapters XVIII (§ 1395 et seq.) and XIX (§ 1396 et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see [section 1305 of this title][/us/usc/t42/s1305] and Tables.
 
@@ -444,6 +450,24 @@
     [Section 3796gg–2 of this title][/us/usc/t42/s3796gg–2], referred to in par. (49), was subsequently amended and no longer defines “sexual assault”. However, it now refers to definitions in [section 13925 of this title][/us/usc/t42/s13925], which defines “sexual assault” in subsec. (a).
 
  __Amendments__ 
+
+    2016—Par. (1). [Pub. L. 114–144][/us/pl/114/144], § 2(1), added par. (1) and struck out former par. (1) which defined “abuse”.
+
+    Par. (3). [Pub. L. 114–144][/us/pl/114/144], § 2(2), added par. (3) and struck out former par. (3) which defined “adult child with a disability”.
+
+    Par. (4). [Pub. L. 114–144][/us/pl/114/144], § 2(3), added par. (4) and struck out former par. (4) which defined “Aging and Disability Resource Center”.
+
+    Par. (14)(B). [Pub. L. 114–144][/us/pl/114/144], § 2(4), inserted “oral health,” after “bone density,”.
+
+    Par. (14)(G). [Pub. L. 114–144][/us/pl/114/144], § 9(1)(A), inserted “and behavioral” after “mental”.
+
+    Par. (17). [Pub. L. 114–144][/us/pl/114/144], § 2(5), added par. (17) and struck out former par. (17) which defined “elder justice”.
+
+    Par. (18)(A). [Pub. L. 114–144][/us/pl/114/144], § 2(6), substituted “terms ‘exploitation’ and ‘financial exploitation’ mean” for “term ‘exploitation’ means”.
+
+    Par. (36). [Pub. L. 114–144][/us/pl/114/144], § 9(1)(B), inserted “and behavioral” after “mental”.
+
+    Par. (47)(B). [Pub. L. 114–144][/us/pl/114/144], § 9(1)(C), inserted “and behavioral” after “mental”.
 
     2006—[Pub. L. 109–365][/us/pl/109/365], § 101(b), redesignated pars. (1) to (54) as (45), (7), (50), (39), (26), (27), (54), (13), (48), (8), (29), (14), (1), (2), (3), (5), (6), (10), (30), (37), (11), (15), (16), (18), (21), (22), (23), (24), (28), (31), (33), (35), (36), (38), (40), (41), (42), (43), (44), (51), (53), (19), (49), (4), (9), (12), (17), (20), (25), (34), (46), (47), (52), and (32), respectively.
 
@@ -576,6 +600,8 @@
 ----------
 ----------
 
+[/us/usc/t42/s12102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12102
+[/us/usc/t29/s796f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs796f
 [/us/usc/t42/s3025/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3025%2Fa%2F2%2FA
 [/us/usc/t42/s3025/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3025%2Fb%2F5
 [/us/usc/t29/s3002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3002
@@ -630,6 +656,11 @@
 [/us/stat/117/831]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F831
 [/us/pl/109/365/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365%2FtI
 [/us/stat/120/2523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2523
+[/us/pl/114/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F144
+[/us/stat/130/334]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F334
+[/us/pl/93/112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112
+[/us/stat/87/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F355
+[/us/usc/t29/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs701
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F620
 [/us/usc/t42/s1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1305
@@ -646,6 +677,15 @@
 [/us/usc/t43/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1601
 [/us/usc/t42/s3796gg–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3796gg%E2%80%932
 [/us/usc/t42/s13925]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs13925
+[/us/pl/114/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F144
+[/us/pl/114/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F144
+[/us/pl/114/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F144
+[/us/pl/114/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F144
+[/us/pl/114/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F144
+[/us/pl/114/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F144
+[/us/pl/114/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F144
+[/us/pl/114/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F144
+[/us/pl/114/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F144
 [/us/pl/109/365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365
 [/us/pl/109/365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365
 [/us/pl/109/365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365

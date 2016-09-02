@@ -21,11 +21,11 @@
 
         (1) statistical data reflecting services and activities provided to individuals during the preceding fiscal year;
 
-        (2) statistical data collected under section 3012(a)(19)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of this title;
+        (2) statistical data collected under [section 3012(a)(16) of this title][/us/usc/t42/s3012/a/16];
 
         (3) statistical data and an analysis of information regarding the effectiveness of the State agency and area agencies on aging in targeting services to older individuals with greatest economic need and older individuals with greatest social need, with particular attention to low-income minority individuals, older individuals residing in rural areas, low-income individuals, and frail individuals (including individuals with any physical or mental functional impairment); and
 
-        (4) a description of the implementation of the plan required by section 3012(a)(17) 1 of this title.
+        (4) a description of the implementation of the plan required by [section 3012(a)(14) of this title][/us/usc/t42/s3012/a/14].
 
     (b) __Report on ombudsman program__ 
 
@@ -79,17 +79,17 @@
 
         (5) the effectiveness of State and local efforts to target older individuals with greatest economic need (including low-income minority individuals and older individuals residing in rural areas) and older individuals with greatest social need (including low-income minority individuals and older individuals residing in rural areas) to receive services under this chapter.
 
-([Pub. L. 89–73, title II][/us/pl/89/73/tII], § 207, formerly § 208, as added [Pub. L. 93–29, title II][/us/pl/93/29/tII], § 201(c), May 3, 1973, [87 Stat. 35][/us/stat/87/35]; renumbered § 207, [Pub. L. 97–115][/us/pl/97/115], § 2(e)(2), Dec. 29, 1981, [95 Stat. 1596][/us/stat/95/1596]; amended [Pub. L. 98–459, title II][/us/pl/98/459/tII], § 207, Oct. 9, 1984, [98 Stat. 1770][/us/stat/98/1770]; [Pub. L. 100–175, title I][/us/pl/100/175/tI], §§ 103(b), (c), 155(f), Nov. 29, 1987, [101 Stat. 928][/us/stat/101/928], 929, 954; [Pub. L. 102–54][/us/pl/102/54], § 13(q)(9)(A), June 13, 1991, [105 Stat. 281][/us/stat/105/281]; [Pub. L. 102–375, title II][/us/pl/102/375/tII], § 208, title VII, § 708(a)(2)(A), (c)(2), title IX, § 904(a)(8), Sept. 30, 1992, [106 Stat. 1214][/us/stat/106/1214], 1292, 1306; [Pub. L. 103–171][/us/pl/103/171], § 3(a)(13), Dec. 2, 1993, [107 Stat. 1990][/us/stat/107/1990]; [Pub. L. 103–437][/us/pl/103/437], § 15(l), Nov. 2, 1994, [108 Stat. 4593][/us/stat/108/4593]; [Pub. L. 106–501, title II][/us/pl/106/501/tII], § 204, title VIII, § 801(b)(4), Nov. 13, 2000, [114 Stat. 2234][/us/stat/114/2234], 2292; [Pub. L. 109–365, title II][/us/pl/109/365/tII], § 206, Oct. 17, 2006, [120 Stat. 2535][/us/stat/120/2535].)
-
- __References in Text__ 
-
-    Section 3012(a)(17), (19) of this title, referred to in subsec. (a)(2), (4), was redesignated section 3012(a)(14) and (16), respectively, of this title and section 3012(a)(20), (22) was redesignated section 3012(a)(17), (19), respectively, by [Pub. L. 106–501, title II][/us/pl/106/501/tII], § 201(1)(B), Nov. 13, 2000, [114 Stat. 2229][/us/stat/114/2229].
+([Pub. L. 89–73, title II][/us/pl/89/73/tII], § 207, formerly § 208, as added [Pub. L. 93–29, title II][/us/pl/93/29/tII], § 201(c), May 3, 1973, [87 Stat. 35][/us/stat/87/35]; renumbered § 207, [Pub. L. 97–115][/us/pl/97/115], § 2(e)(2), Dec. 29, 1981, [95 Stat. 1596][/us/stat/95/1596]; amended [Pub. L. 98–459, title II][/us/pl/98/459/tII], § 207, Oct. 9, 1984, [98 Stat. 1770][/us/stat/98/1770]; [Pub. L. 100–175, title I][/us/pl/100/175/tI], §§ 103(b), (c), 155(f), Nov. 29, 1987, [101 Stat. 928][/us/stat/101/928], 929, 954; [Pub. L. 102–54][/us/pl/102/54], § 13(q)(9)(A), June 13, 1991, [105 Stat. 281][/us/stat/105/281]; [Pub. L. 102–375, title II][/us/pl/102/375/tII], § 208, title VII, § 708(a)(2)(A), (c)(2), title IX, § 904(a)(8), Sept. 30, 1992, [106 Stat. 1214][/us/stat/106/1214], 1292, 1306; [Pub. L. 103–171][/us/pl/103/171], § 3(a)(13), Dec. 2, 1993, [107 Stat. 1990][/us/stat/107/1990]; [Pub. L. 103–437][/us/pl/103/437], § 15(l), Nov. 2, 1994, [108 Stat. 4593][/us/stat/108/4593]; [Pub. L. 106–501, title II][/us/pl/106/501/tII], § 204, title VIII, § 801(b)(4), Nov. 13, 2000, [114 Stat. 2234][/us/stat/114/2234], 2292; [Pub. L. 109–365, title II][/us/pl/109/365/tII], § 206, Oct. 17, 2006, [120 Stat. 2535][/us/stat/120/2535]; [Pub. L. 114–144][/us/pl/114/144], § 3(d), Apr. 19, 2016, [130 Stat. 337][/us/stat/130/337].)
 
  __Prior Provisions__ 
 
     A prior [section 207 of Pub. L. 89–73][/us/pl/89/73/s207] was renumbered section 206 and is classified to [section 3017 of this title][/us/usc/t42/s3017].
 
  __Amendments__ 
+
+    2016—Subsec. (a)(2). [Pub. L. 114–144][/us/pl/114/144], § 3(d)(1), substituted “3012(a)(16)” for “3012(a)(19)”.
+
+    Subsec. (a)(4). [Pub. L. 114–144][/us/pl/114/144], § 3(d)(2), substituted “3012(a)(14)” for “3012(a)(17)”.
 
     2006—Subsec. (b)(2)(B). [Pub. L. 109–365][/us/pl/109/365], § 206(1), substituted “the Workforce” for “Labor”.
 
@@ -158,6 +158,8 @@
 ----------
 ----------
 
+[/us/usc/t42/s3012/a/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3012%2Fa%2F16
+[/us/usc/t42/s3012/a/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3012%2Fa%2F14
 [/us/usc/t42/s3058g/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3058g%2Fc
 [/us/usc/t42/s3058g/h/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3058g%2Fh%2F1
 [/us/usc/t42/s3058g/a/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3058g%2Fa%2F4%2FA
@@ -182,10 +184,12 @@
 [/us/stat/114/2234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2234
 [/us/pl/109/365/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365%2FtII
 [/us/stat/120/2535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2535
-[/us/pl/106/501/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501%2FtII
-[/us/stat/114/2229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2229
+[/us/pl/114/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F144
+[/us/stat/130/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F337
 [/us/pl/89/73/s207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73%2Fs207
 [/us/usc/t42/s3017]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3017
+[/us/pl/114/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F144
+[/us/pl/114/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F144
 [/us/pl/109/365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365
 [/us/pl/109/365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365
 [/us/pl/106/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501

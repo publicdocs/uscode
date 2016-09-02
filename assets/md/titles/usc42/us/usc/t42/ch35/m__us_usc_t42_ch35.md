@@ -451,7 +451,7 @@ subpart iii—general provisions  </td>
 
     <td> 
 
-Part D—Disease Prevention and Health Promotion Services  </td>
+Part D—Evidence-Based Disease Prevention and Health Promotion Services  </td>
 
   </tr>
 
@@ -481,14 +481,6 @@ Part E—National Family Caregiver Support Program  </td>
 
   <tr>
 
-    <td> 
-
-subpart i—caregiver support program  </td>
-
-  </tr>
-
-  <tr>
-
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs3030s" data-uslm-ref="/us/usc/t42/s3030s">3030s.</a>  </td>
 
     <td> Definitions.  </td>
@@ -508,22 +500,6 @@ subpart i—caregiver support program  </td>
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs3030s%E2%80%932" data-uslm-ref="/us/usc/t42/s3030s–2">3030s–2.</a>  </td>
 
     <td> Maintenance of effort.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> 
-
-subpart ii—national innovation programs  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs3030s%E2%80%9311" data-uslm-ref="/us/usc/t42/s3030s–11">3030s–11</a>, <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs3030s%E2%80%9312" data-uslm-ref="/us/usc/t42/s3030s–12">3030s–12.</a>  </td>
-
-    <td> Repealed.  </td>
 
   </tr>
 
@@ -587,7 +563,7 @@ Part A—Grant Programs  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs3032d" data-uslm-ref="/us/usc/t42/s3032d">3032d.</a>  </td>
 
-    <td> Computer training.  </td>
+    <td> Repealed.  </td>
 
   </tr>
 
@@ -619,7 +595,7 @@ Part A—Grant Programs  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs3032h" data-uslm-ref="/us/usc/t42/s3032h">3032h.</a>  </td>
 
-    <td> Multidisciplinary centers and multidisciplinary systems.  </td>
+    <td> Repealed.  </td>
 
   </tr>
 
@@ -635,7 +611,7 @@ Part A—Grant Programs  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs3032j" data-uslm-ref="/us/usc/t42/s3032j">3032j.</a>  </td>
 
-    <td> Ombudsman and advocacy demonstration projects.  </td>
+    <td> Repealed.  </td>
 
   </tr>
 

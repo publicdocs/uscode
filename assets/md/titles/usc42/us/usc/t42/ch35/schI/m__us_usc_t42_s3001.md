@@ -153,6 +153,12 @@
 
 > “This Act \[see Short Title of 1978 Amendment note below\], and the amendments made by this Act, shall take effect at the close of September 30, 1978.”
 
+ __Short Title of 2016 Amendment__ 
+
+[Pub. L. 114–144][/us/pl/114/144], § 1, Apr. 19, 2016, [130 Stat. 334][/us/stat/130/334], provided that: 
+
+> “This Act \[see Tables for classification\] may be cited as the ‘Older Americans Act Reauthorization Act of 2016’.”
+
  __Short Title of 2007 Amendment__ 
 
 [Pub. L. 110–19][/us/pl/110/19], § 1, Apr. 23, 2007, [121 Stat. 84][/us/stat/121/84], provided that: 
@@ -254,6 +260,32 @@
 [Pub. L. 102–375, title IX][/us/pl/102/375/tIX], § 902, Sept. 30, 1992, [106 Stat. 1305][/us/stat/106/1305], provided that: 
 
 > “Except as otherwise specifically provided, the Secretary of Health and Human Services shall, not later than 120 days after the date of the enactment of this Act \[Sept. 30, 1992\], issue proposed regulations to carry out the amendments made by titles I through VII \[see Tables for classification\].”
+
+ __Guidance on Serving Holocaust Survivors__ 
+
+[Pub. L. 114–144][/us/pl/114/144], § 10, Apr. 19, 2016, [130 Stat. 352][/us/stat/130/352], provided that:
+
+>     “(a)  __In General__  __.—__ 
+
+>     Because the services under the Older Americans Act of 1965 ([42 U.S.C. 3001][/us/usc/t42/s3001] et seq.) are critical to meeting the urgent needs of Holocaust survivors to age in place with dignity, comfort, security, and quality of life, the Assistant Secretary for Aging shall issue guidance to States, that shall be applicable to States, area agencies on aging, and providers of services for older individuals, with respect to serving Holocaust survivors, including guidance on promising practices for conducting outreach to that population. In developing the guidance, the Assistant Secretary for Aging shall consult with experts and organizations serving Holocaust survivors, and shall take into account the possibility that the needs of Holocaust survivors may differ based on geography.
+
+>     “(b)  __Contents__  __.—__ 
+
+>     The guidance shall include the following:
+
+>         “(1) How nutrition service providers may meet the special health-related or other dietary needs of participants in programs under the Older Americans Act of 1965, including needs based on religious, cultural, or ethnic requirements.
+
+>         “(2) How transportation service providers may address the urgent transportation needs of Holocaust survivors.
+
+>         “(3) How State long-term care ombudsmen may address the unique needs of residents of long-term care facilities for whom institutional settings may produce sights, sounds, smells, emotions, and routines, that can induce panic, anxiety, and retraumatization as a result of experiences from the Holocaust.
+
+>         “(4) How supportive services providers may consider the unique needs of Holocaust survivors.
+
+>         “(5) How other services provided under that Act, as determined by the Assistant Secretary for Aging, may serve Holocaust survivors.
+
+>     “(c)  __Date of Issuance__  __.—__ 
+
+>     The guidance described in subsection (a) shall be issued not later than 180 days after the date of enactment of this Act \[Apr. 19, 2016\].”
 
  __Study of Effectiveness of State Long-Term Care Ombudsman Programs__ 
 
@@ -852,6 +884,8 @@
 [/us/usc/t42/s3037]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3037
 [/us/pl/95/478/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F478%2FtV
 [/us/stat/92/1559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1559
+[/us/pl/114/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F144
+[/us/stat/130/334]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F334
 [/us/pl/110/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F19
 [/us/stat/121/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F84
 [/us/usc/t42/s3030a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3030a
@@ -922,6 +956,9 @@
 [/us/stat/114/2267]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2267
 [/us/pl/102/375/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375%2FtIX
 [/us/stat/106/1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1305
+[/us/pl/114/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F144
+[/us/stat/130/352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F352
+[/us/usc/t42/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3001
 [/us/pl/102/375/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375%2FtII
 [/us/stat/106/1215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1215
 [/us/pl/103/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F171

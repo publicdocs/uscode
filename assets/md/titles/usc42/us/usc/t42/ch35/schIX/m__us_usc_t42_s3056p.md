@@ -71,19 +71,23 @@
 
             In this section, the term “income” means income received during the 12-month period (or, at the option of the grantee involved, the annualized income for the 6-month period) ending on the date an eligible individual submits an application to participate in a project carried out under this subchapter by such grantee.
 
-        (5) __Pacific Island and Asian Americans__ 
+        (5) __Local workforce development board; state workforce development board__ 
+
+            The terms “local workforce development board” and “State workforce development board” have the meanings given the terms “local board” and “State board”, respectively, in section 3 of the Workforce Innovation and Opportunity Act ([29 U.S.C. 3102][/us/usc/t29/s3102]).
+
+        (6) __Pacific Island and Asian Americans__ 
 
             The term “Pacific Island and Asian Americans” means Americans having origins in any of the original peoples of the Far East, Southeast Asia, the Indian Subcontinent, or the Pacific Islands.
 
-        (6) __Program__ 
+        (7) __Program__ 
 
             The term “program” means the older American community service employment program established under this subchapter.
 
-        (7) __Supportive services__ 
+        (8) __Supportive services__ 
 
             The term “supportive services” means services, such as transportation, child care, dependent care, housing, and needs-related payments, that are necessary to enable an individual to participate in activities authorized under this subchapter, consistent with the provisions of this subchapter.
 
-        (8) __Unemployed__ 
+        (9) __Unemployed__ 
 
             The term “unemployed”, used with respect to a person or individual, means an individual who is without a job and who wants and is available for work, including an individual who may have occasional employment that does not result in a constant source of income.
 
@@ -109,7 +113,7 @@
 
             (G) is homeless or at risk for homelessness.
 
-([Pub. L. 89–73, title V][/us/pl/89/73/tV], § 518, as added [Pub. L. 109–365, title V][/us/pl/109/365/tV], § 501, Oct. 17, 2006, [120 Stat. 2588][/us/stat/120/2588]; amended [Pub. L. 113–128, title V][/us/pl/113/128/tV], § 512(w)(8), July 22, 2014, [128 Stat. 1716][/us/stat/128/1716].)
+([Pub. L. 89–73, title V][/us/pl/89/73/tV], § 518, as added [Pub. L. 109–365, title V][/us/pl/109/365/tV], § 501, Oct. 17, 2006, [120 Stat. 2588][/us/stat/120/2588]; amended [Pub. L. 113–128, title V][/us/pl/113/128/tV], § 512(w)(8), July 22, 2014, [128 Stat. 1716][/us/stat/128/1716]; [Pub. L. 114–144][/us/pl/114/144], § 6(g), Apr. 19, 2016, [130 Stat. 346][/us/stat/130/346].)
 
  __References in Text__ 
 
@@ -118,6 +122,8 @@
     The Workforce Innovation and Opportunity Act, referred to in subsec. (b)(2)(F), is [Pub. L. 113–128][/us/pl/113/128], July 22, 2014, [128 Stat. 1425][/us/stat/128/1425]. Title I of the Act is classified generally to subchapter I (§ 3111 et seq.) of chapter 32 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of Title 29][/us/usc/t29/s3101] and Tables.
 
  __Amendments__ 
+
+    2016—Subsec. (a)(5) to (9). [Pub. L. 114–144][/us/pl/114/144] added par. (5) and redesignated former pars. (5) to (8) as (6) to (9), respectively.
 
     2014—Subsec. (b)(2)(F). [Pub. L. 113–128][/us/pl/113/128] substituted “has failed to find employment after utilizing services provided under title I of the Workforce Innovation and Opportunity Act” for “has failed to find employment after utilizing services provided under title I of the Workforce Investment Act of 1998 ([29 U.S.C. 2801][/us/usc/t29/s2801] et seq.)”.
 
@@ -136,18 +142,22 @@
 [/us/usc/t42/s1381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1381
 [/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
 [/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
+[/us/usc/t29/s3102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3102
 [/us/usc/t29/s3111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3111
 [/us/pl/89/73/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73%2FtV
 [/us/pl/109/365/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365%2FtV
 [/us/stat/120/2588]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2588
 [/us/pl/113/128/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2FtV
 [/us/stat/128/1716]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1716
+[/us/pl/114/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F144
+[/us/stat/130/346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F346
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F620
 [/us/usc/t42/s1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1305
 [/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
 [/us/stat/128/1425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1425
 [/us/usc/t29/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3101
+[/us/pl/114/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F144
 [/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
 [/us/usc/t29/s2801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2801
 [/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128

@@ -5,13 +5,13 @@
 
 * Portions Copyright © 2016 the authors of the https://github.com/publicdocs project.
   Use of this file is subject to the NOTICE at [https://github.com/publicdocs/uscode/blob/master/NOTICE](https://github.com/publicdocs/uscode/blob/master/NOTICE)
-* See the [Document Metadata](././../../../../../../..//README.md) for more information.
+* See the [Document Metadata](././../../../../../..//README.md) for more information.
   This file is generated from historical government data; content and/or formatting may be inaccurate and out-of-date and should not be used for official purposes.
 
 ----------
 ----------
 
-[Previous](./../../../../../../..//us/usc/t42/ch35/schIII/ptE/spti/m__us_usc_t42_s3030s.md) | [Next](./../../../../../../..//us/usc/t42/ch35/schIII/ptE/spti/m__us_usc_t42_s3030s–2.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3030s%E2%80%931)
+[Previous](./../../../../../..//us/usc/t42/ch35/schIII/ptE/m__us_usc_t42_s3030s.md) | [Next](./../../../../../..//us/usc/t42/ch35/schIII/ptE/m__us_usc_t42_s3030s–2.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3030s%E2%80%931)
 
 ## § 3030s–1. Program authorized
 
@@ -21,7 +21,7 @@
 
         (1) for family caregivers; and
 
-        (2) for grandparents or older individuals who are relative caregivers.
+        (2) for older relative caregivers.
 
     (b) __Support services__ 
 
@@ -41,7 +41,7 @@
 
         (1) __Population served__ 
 
-        Services under a State program under this subpart shall be provided to family caregivers, and grandparents and older individuals who are relative caregivers, and who—
+        Services under a State program under this part shall be provided to family caregivers, and older relative caregivers, who—
 
             (A) are described in paragraph (1) or (2) of subsection (a) of this section; and
 
@@ -49,21 +49,21 @@
 
         (2) __Priority__ 
 
-        In providing services under this subpart, the State, in addition to giving the priority described in [section 3030s(b) of this title][/us/usc/t42/s3030s/b], shall give priority—
+        In providing services under this part, the State, in addition to giving the priority described in [section 3030s(b) of this title][/us/usc/t42/s3030s/b], shall give priority—
 
             (A) to caregivers who are older individuals with greatest social need, and older individuals with greatest economic need (with particular attention to low-income older individuals); and
 
-            (B) to older individuals providing care to individuals with severe disabilities, including children with severe disabilities.
+            (B) to older relative caregivers of children with severe disabilities, or individuals with disabilities who have severe disabilities.
 
     (d) __Use of volunteers__ 
 
-        In carrying out this subpart, each area agency on aging shall make use of trained volunteers to expand the provision of the available services described in subsection (b) and, if possible, work in coordination with organizations that have experience in providing training, placement, and stipends for volunteers or participants (such as organizations carrying out Federal service programs administered by the Corporation for National and Community Service), in community service settings.
+        In carrying out this part, each area agency on aging shall make use of trained volunteers to expand the provision of the available services described in subsection (b) and, if possible, work in coordination with organizations that have experience in providing training, placement, and stipends for volunteers or participants (such as organizations carrying out Federal service programs administered by the Corporation for National and Community Service), in community service settings.
 
     (e) __Quality standards and mechanisms and accountability__ 
 
         (1) __Quality standards and mechanisms__ 
 
-            The State shall establish standards and mechanisms designed to assure the quality of services provided with assistance made available under this subpart.
+            The State shall establish standards and mechanisms designed to assure the quality of services provided with assistance made available under this part.
 
         (2) __Data and records__ 
 
@@ -71,13 +71,13 @@
 
         (3) __Reports__ 
 
-            The State shall prepare and submit to the Assistant Secretary reports on the data and records required under paragraph (2), including information on the services funded under this subpart, and standards and mechanisms by which the quality of the services shall be assured. The reports shall describe any mechanisms used in the State to provide to persons who are family caregivers, or grandparents or older individuals who are relative caregivers, information about and access to various services so that the persons can better carry out their care responsibilities.
+            The State shall prepare and submit to the Assistant Secretary reports on the data and records required under paragraph (2), including information on the services funded under this part, and standards and mechanisms by which the quality of the services shall be assured. The reports shall describe any mechanisms used in the State to provide to persons who are family caregivers, or older relative caregivers, information about and access to various services so that the persons can better carry out their care responsibilities.
 
     (f) __Caregiver allotment__ 
 
         (1) __In general__ 
 
-            (A) From sums appropriated under [section 3023(e) of this title][/us/usc/t42/s3023/e] for fiscal years 2007, 2008, 2009, 2010, and 2011, the Assistant Secretary shall allot amounts among the States proportionately based on the population of individuals 70 years of age or older in the States.
+            (A) From sums appropriated under [section 3023(e) of this title][/us/usc/t42/s3023/e] for a fiscal year, the Assistant Secretary shall allot amounts among the States proportionately based on the population of individuals 70 years of age or older in the States.
 
             (B) In determining the amounts allotted to States from the sums appropriated under [section 3023 of this title][/us/usc/t42/s3023] for a fiscal year, the Assistant Secretary shall first determine the amount allotted to each State under subparagraph (A) and then proportionately adjust such amounts, if necessary, to meet the requirements of paragraph (2).
 
@@ -101,13 +101,13 @@
 
         (1) __Use of funds for administration of area plans__ 
 
-            Amounts made available to a State to carry out the State program under this subpart may be used, in addition to amounts available in accordance with [section 3023(c)(1) of this title][/us/usc/t42/s3023/c/1], for costs of administration of area plans.
+            Amounts made available to a State to carry out the State program under this part may be used, in addition to amounts available in accordance with [section 3023(c)(1) of this title][/us/usc/t42/s3023/c/1], for costs of administration of area plans.
 
         (2) __Federal share__ 
 
             (A) __In general__ 
 
-                Notwithstanding [section 3024(d)(1)(D) of this title][/us/usc/t42/s3024/d/1/D], the Federal share of the cost of carrying out a State program under this subpart shall be 75 percent.
+                Notwithstanding [section 3024(d)(1)(D) of this title][/us/usc/t42/s3024/d/1/D], the Federal share of the cost of carrying out a State program under this part shall be 75 percent.
 
             (B) __Non-Federal share__ 
 
@@ -115,11 +115,25 @@
 
             (C) __Limitation__ 
 
-                A State may use not more than 10 percent of the total Federal and non-Federal share available to the State to provide support services to grandparents and older individuals who are relative caregivers of a child who is not more than 18 years of age.
+                A State may use not more than 10 percent of the total Federal and non-Federal share available to the State to provide support services to older relative caregivers.
 
-([Pub. L. 89–73, title III][/us/pl/89/73/tIII], § 373, as added [Pub. L. 106–501, title III][/us/pl/106/501/tIII], § 316(2), Nov. 13, 2000, [114 Stat. 2254][/us/stat/114/2254]; amended [Pub. L. 109–365, title III][/us/pl/109/365/tIII], § 321, Oct. 17, 2006, [120 Stat. 2551][/us/stat/120/2551].)
+([Pub. L. 89–73, title III][/us/pl/89/73/tIII], § 373, as added [Pub. L. 106–501, title III][/us/pl/106/501/tIII], § 316(2), Nov. 13, 2000, [114 Stat. 2254][/us/stat/114/2254]; amended [Pub. L. 109–365, title III][/us/pl/109/365/tIII], § 321, Oct. 17, 2006, [120 Stat. 2551][/us/stat/120/2551]; [Pub. L. 114–144][/us/pl/114/144], § 4(l), (m), Apr. 19, 2016, [130 Stat. 341][/us/stat/130/341].)
 
  __Amendments__ 
+
+    2016—[Pub. L. 114–144][/us/pl/114/144], § 4(m), substituted “this part” for “this subpart” wherever appearing.
+
+    Subsec. (a)(2). [Pub. L. 114–144][/us/pl/114/144], § 4(l)(1), substituted “older relative caregivers.” for “grandparents or older individuals who are relative caregivers.”
+
+    Subsec. (c)(1). [Pub. L. 114–144][/us/pl/114/144], § 4(l)(2)(A), in introductory provisions, substituted “older relative caregivers, who” for “grandparents and older individuals who are relative caregivers, and who”.
+
+    Subsec. (c)(2)(B). [Pub. L. 114–144][/us/pl/114/144], § 4(l)(2)(B), substituted “to older relative caregivers of children with severe disabilities, or individuals with disabilities who have severe disabilities” for “to older individuals providing care to individuals with severe disabilities, including children with severe disabilities”.
+
+    Subsec. (e)(3). [Pub. L. 114–144][/us/pl/114/144], § 4(l)(3), substituted “older relative caregivers” for “grandparents or older individuals who are relative caregivers”.
+
+    Subsec. (f)(1)(A). [Pub. L. 114–144][/us/pl/114/144], § 4(l)(4), substituted “for a fiscal year” for “for fiscal years 2007, 2008, 2009, 2010, and 2011”.
+
+    Subsec. (g)(2)(C). [Pub. L. 114–144][/us/pl/114/144], § 4(l)(5), substituted “older relative caregivers” for “grandparents and older individuals who are relative caregivers of a child who is not more than 18 years of age”.
 
     2006—Subsec. (b)(3). [Pub. L. 109–365][/us/pl/109/365], § 321(1), substituted “assist the caregivers in the areas of health, nutrition, and financial literacy, and in making decisions and solving problems relating to their caregiving roles;” for “caregivers to assist the caregivers in making decisions and solving problems relating to their caregiving roles;”.
 
@@ -137,7 +151,7 @@
 
 ----------
 
-[Previous](./../../../../../../..//us/usc/t42/ch35/schIII/ptE/spti/m__us_usc_t42_s3030s.md) | [Next](./../../../../../../..//us/usc/t42/ch35/schIII/ptE/spti/m__us_usc_t42_s3030s–2.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3030s%E2%80%931)
+[Previous](./../../../../../..//us/usc/t42/ch35/schIII/ptE/m__us_usc_t42_s3030s.md) | [Next](./../../../../../..//us/usc/t42/ch35/schIII/ptE/m__us_usc_t42_s3030s–2.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3030s%E2%80%931)
 
 ----------
 ----------
@@ -154,6 +168,15 @@
 [/us/stat/114/2254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2254
 [/us/pl/109/365/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365%2FtIII
 [/us/stat/120/2551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2551
+[/us/pl/114/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F144
+[/us/stat/130/341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F341
+[/us/pl/114/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F144
+[/us/pl/114/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F144
+[/us/pl/114/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F144
+[/us/pl/114/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F144
+[/us/pl/114/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F144
+[/us/pl/114/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F144
+[/us/pl/114/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F144
 [/us/pl/109/365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365
 [/us/pl/109/365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365
 [/us/pl/109/365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365

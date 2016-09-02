@@ -17,7 +17,7 @@
 
     (a) __Grants to States__ 
 
-        The Assistant Secretary shall carry out a program for making grants to States under State plans approved under [section 3027 of this title][/us/usc/t42/s3027] to provide disease prevention and health promotion services and information at multipurpose senior centers, at congregate meal sites, through home delivered meals programs, or at other appropriate sites. In carrying out such program, the Assistant Secretary shall consult with the Directors of the Centers for Disease Control and Prevention and the National Institute on Aging.
+        The Assistant Secretary shall carry out a program for making grants to States under State plans approved under [section 3027 of this title][/us/usc/t42/s3027] to provide evidence-based disease prevention and health promotion services and information at multipurpose senior centers, at congregate meal sites, through home delivered meals programs, or at other appropriate sites. In carrying out such program, the Assistant Secretary shall consult with the Directors of the Centers for Disease Control and Prevention and the National Institute on Aging.
 
     (b) __Community organizations and agencies__ 
 
@@ -27,9 +27,11 @@
 
         The Assistant Secretary shall work in consultation with qualified experts to provide information on methods of improving indoor air quality in buildings where older individuals congregate.
 
-([Pub. L. 89–73, title III][/us/pl/89/73/tIII], § 361, as added [Pub. L. 100–175, title I][/us/pl/100/175/tI], § 143(c), Nov. 29, 1987, [101 Stat. 947][/us/stat/101/947]; amended [Pub. L. 102–375, title III][/us/pl/102/375/tIII], § 319(a), Sept. 30, 1992, [106 Stat. 1241][/us/stat/106/1241]; [Pub. L. 103–171][/us/pl/103/171], §§ 2(13), 3(a)(13), Dec. 2, 1993, [107 Stat. 1989][/us/stat/107/1989], 1990; [Pub. L. 109–365, title III][/us/pl/109/365/tIII], § 319, Oct. 17, 2006, [120 Stat. 2551][/us/stat/120/2551].)
+([Pub. L. 89–73, title III][/us/pl/89/73/tIII], § 361, as added [Pub. L. 100–175, title I][/us/pl/100/175/tI], § 143(c), Nov. 29, 1987, [101 Stat. 947][/us/stat/101/947]; amended [Pub. L. 102–375, title III][/us/pl/102/375/tIII], § 319(a), Sept. 30, 1992, [106 Stat. 1241][/us/stat/106/1241]; [Pub. L. 103–171][/us/pl/103/171], §§ 2(13), 3(a)(13), Dec. 2, 1993, [107 Stat. 1989][/us/stat/107/1989], 1990; [Pub. L. 109–365, title III][/us/pl/109/365/tIII], § 319, Oct. 17, 2006, [120 Stat. 2551][/us/stat/120/2551]; [Pub. L. 114–144][/us/pl/114/144], § 4(j)(2), Apr. 19, 2016, [130 Stat. 340][/us/stat/130/340].)
 
  __Amendments__ 
+
+    2016—Subsec. (a). [Pub. L. 114–144][/us/pl/114/144] inserted “evidence-based” after “to provide”.
 
     2006—Subsec. (c). [Pub. L. 109–365][/us/pl/109/365] added subsec. (c).
 
@@ -62,6 +64,9 @@
 [/us/stat/107/1989]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1989
 [/us/pl/109/365/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365%2FtIII
 [/us/stat/120/2551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2551
+[/us/pl/114/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F144
+[/us/stat/130/340]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F340
+[/us/pl/114/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F144
 [/us/pl/109/365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365
 [/us/pl/103/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F171
 [/us/pl/103/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F171

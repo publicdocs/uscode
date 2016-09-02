@@ -17,7 +17,7 @@
 
     A State that establishes and operates a nutrition project under this chapter  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Title III of [Pub. L. 89–73][/us/pl/89/73], as amended, contained parts and subparts, but not chapters. </sup></sup>  shall—
 
-    (1) solicit the expertise of a dietitian or other individual with equivalent education and training in nutrition science, or if such an individual is not available, an individual with comparable expertise in the planning of nutritional services, and
+    (1) utilize the expertise of a dietitian or other individual with equivalent education and training in nutrition science, or if such an individual is not available, an individual with comparable expertise in the planning of nutritional services, and
 
     (2)
 
@@ -65,11 +65,13 @@
 
         (I) ensures that nutrition services will be available to older individuals and to their spouses, and may be made available to individuals with disabilities who are not older individuals but who reside in housing facilities occupied primarily by older individuals at which congregate nutrition services are provided,
 
-        (J) provides for nutrition screening and nutrition education, and nutrition assessment and counseling if appropriate, and
+        (J) provides for nutrition screening and nutrition education, and nutrition assessment and counseling if appropriate,
 
-        (K) encourages individuals who distribute nutrition services under subpart II to provide, to homebound older individuals, available medical information approved by health care professionals, such as informational brochures and information on how to get vaccines, including vaccines for influenza, pneumonia, and shingles, in the individuals’ communities.
+        (K) encourages individuals who distribute nutrition services under subpart II to provide, to homebound older individuals, available medical information approved by health care professionals, such as informational brochures and information on how to get vaccines, including vaccines for influenza, pneumonia, and shingles, in the individuals’ communities, and
 
-([Pub. L. 89–73, title III][/us/pl/89/73/tIII], § 339, as added [Pub. L. 106–501, title III][/us/pl/106/501/tIII], § 313, Nov. 13, 2000, [114 Stat. 2252][/us/stat/114/2252]; amended [Pub. L. 109–365, title III][/us/pl/109/365/tIII], § 316, Oct. 17, 2006, [120 Stat. 2548][/us/stat/120/2548].)
+        (L) where feasible, encourages the use of locally grown foods in meal programs and identifies potential partnerships and contracts with local producers and providers of locally grown foods.
+
+([Pub. L. 89–73, title III][/us/pl/89/73/tIII], § 339, as added [Pub. L. 106–501, title III][/us/pl/106/501/tIII], § 313, Nov. 13, 2000, [114 Stat. 2252][/us/stat/114/2252]; amended [Pub. L. 109–365, title III][/us/pl/109/365/tIII], § 316, Oct. 17, 2006, [120 Stat. 2548][/us/stat/120/2548]; [Pub. L. 114–144][/us/pl/114/144], § 4(i), Apr. 19, 2016, [130 Stat. 339][/us/stat/130/339].)
 
  __Codification__ 
 
@@ -80,6 +82,10 @@
     A prior section 3030g–21, [Pub. L. 89–73, title III][/us/pl/89/73/tIII], § 339, as added [Pub. L. 102–375, title III][/us/pl/102/375/tIII], § 317, Sept. 30, 1992, [106 Stat. 1241][/us/stat/106/1241], related to compliance with dietary guidelines prior to repeal by [Pub. L. 106–501, title III][/us/pl/106/501/tIII], § 313, Nov. 13, 2000, [114 Stat. 2252][/us/stat/114/2252]. See Codification note above.
 
  __Amendments__ 
+
+    2016—Par. (1). [Pub. L. 114–144][/us/pl/114/144], § 4(i)(1), substituted “utilize” for “solicit”.
+
+    Par. (2)(L). [Pub. L. 114–144][/us/pl/114/144], § 4(i)(2), added subpar. (L).
 
     2006—Par. (1). [Pub. L. 109–365][/us/pl/109/365], § 316(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “solicit the advice of a dietitian or individual with comparable expertise in the planning of nutritional services, and”.
 
@@ -108,6 +114,8 @@
 [/us/stat/114/2252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2252
 [/us/pl/109/365/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365%2FtIII
 [/us/stat/120/2548]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2548
+[/us/pl/114/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F144
+[/us/stat/130/339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F339
 [/us/pl/106/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501
 [/us/pl/89/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73
 [/us/pl/106/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501
@@ -116,6 +124,8 @@
 [/us/stat/106/1241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1241
 [/us/pl/106/501/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501%2FtIII
 [/us/stat/114/2252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2252
+[/us/pl/114/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F144
+[/us/pl/114/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F144
 [/us/pl/109/365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365
 [/us/pl/109/365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365
 [/us/pl/109/365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365

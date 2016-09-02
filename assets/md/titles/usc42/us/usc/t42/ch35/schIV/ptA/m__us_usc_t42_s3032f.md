@@ -23,7 +23,7 @@
 
          provide opportunities for older individuals to participate in multigenerational activities and civic engagement activities designed to meet critical community needs, and use the full range of time, skills, and experience of older individuals, including demonstration and support projects that—
 
-            (A) provide support for grandparents and other older individuals who are relative caregivers raising children (such as kinship navigator programs); or
+            (A) provide support for older relative caregivers (as defined in [section 3030s of this title][/us/usc/t42/s3030s]) raising children (such as kinship navigator programs); or
 
             (B) involve volunteers who are older individuals who provide support and information to families who have a child with a disability or chronic illness, or other families in need of such family support; and
 
@@ -119,9 +119,11 @@
 
                 (ii) individuals in younger generations.
 
-([Pub. L. 89–73, title IV][/us/pl/89/73/tIV], § 417, as added [Pub. L. 106–501, title IV][/us/pl/106/501/tIV], § 401, Nov. 13, 2000, [114 Stat. 2261][/us/stat/114/2261]; amended [Pub. L. 109–365, title IV][/us/pl/109/365/tIV], § 406, Oct. 17, 2006, [120 Stat. 2555][/us/stat/120/2555].)
+([Pub. L. 89–73, title IV][/us/pl/89/73/tIV], § 417, as added [Pub. L. 106–501, title IV][/us/pl/106/501/tIV], § 401, Nov. 13, 2000, [114 Stat. 2261][/us/stat/114/2261]; amended [Pub. L. 109–365, title IV][/us/pl/109/365/tIV], § 406, Oct. 17, 2006, [120 Stat. 2555][/us/stat/120/2555]; [Pub. L. 114–144][/us/pl/114/144], § 5(e), Apr. 19, 2016, [130 Stat. 342][/us/stat/130/342].)
 
  __Amendments__ 
+
+    2016—Subsec. (a)(1)(A). [Pub. L. 114–144][/us/pl/114/144] substituted “older relative caregivers (as defined in [section 3030s of this title][/us/usc/t42/s3030s])” for “grandparents and other older individuals who are relative caregivers”.
 
     2006—[Pub. L. 109–365][/us/pl/109/365] amended section generally, substituting provisions relating to demonstration, support, and research projects for multigenerational and civic engagement activities for provisions relating to demonstration projects for multigenerational activities.
 
@@ -132,11 +134,16 @@
 ----------
 ----------
 
+[/us/usc/t42/s3030s]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3030s
 [/us/pl/89/73/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73%2FtIV
 [/us/pl/106/501/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501%2FtIV
 [/us/stat/114/2261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2261
 [/us/pl/109/365/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365%2FtIV
 [/us/stat/120/2555]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2555
+[/us/pl/114/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F144
+[/us/stat/130/342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F342
+[/us/pl/114/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F144
+[/us/usc/t42/s3030s]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3030s
 [/us/pl/109/365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365
 
 

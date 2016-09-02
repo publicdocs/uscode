@@ -17,15 +17,15 @@
 
     (a)
 
-        (1) There are authorized to be appropriated to carry out part B of this subchapter (relating to supportive services) such sums as may be necessary for fiscal years 2007, 2008, 2009, 2010, and 2011.
+        (1) There are authorized to be appropriated to carry out part B of this subchapter (relating to supportive services) $356,717,276 for fiscal year 2017, $364,456,847 for fiscal year 2018, and $372,196,069 for fiscal year 2019.
 
         (2) Funds appropriated under paragraph (1) shall be available to carry out [section 3058g of this title][/us/usc/t42/s3058g].
 
     (b)
 
-        (1) There are authorized to be appropriated to carry out subpart I of part C of this subchapter (relating to congregate nutrition services) such sums as may be necessary for fiscal years 2007, 2008, 2009, 2010, and 2011.
+        (1) There are authorized to be appropriated to carry out subpart I of part C of this subchapter (relating to congregate nutrition services) $459,937,586 for fiscal year 2017, $469,916,692 for fiscal year 2018, and $479,895,348 for fiscal year 2019.
 
-        (2) There are authorized to be appropriated to carry out subpart II of part C of this subchapter (relating to home delivered nutrition services) such sums as may be necessary for fiscal years 2007, 2008, 2009, 2010, and 2011.
+        (2) There are authorized to be appropriated to carry out subpart II of part C of this subchapter (relating to home delivered nutrition services) $232,195,942 for fiscal year 2017, $237,233,817 for fiscal year 2018, and $242,271,465 for fiscal year 2019.
 
     (c)
 
@@ -35,17 +35,11 @@
 
         (2) the development of comprehensive and coordinated systems for supportive services, congregate and home delivered nutrition services under subparts I and II of part C of this subchapter, the development and operation of multipurpose senior centers, and the delivery of legal assistance.
 
-    (d) There are authorized to be appropriated to carry out part D of this subchapter (relating to disease prevention and health promotion services) such sums as may be necessary for fiscal years 2007, 2008, 2009, 2010, and 2011.
+    (d) There are authorized to be appropriated to carry out part D of this subchapter (relating to disease prevention and health promotion services) $20,361,334 for fiscal year 2017, $20,803,107 for fiscal year 2018, and $21,244,860 for fiscal year 2019.
 
-    (e)
+    (e) There are authorized to be appropriated to carry out part E of this subchapter (relating to family caregiver support) $154,336,482 for fiscal year 2017, $157,564,066 for fiscal year 2018, and $160,791,658 for fiscal year 2019.
 
-        (1) There are authorized to be appropriated to carry out part E of this subchapter (relating to family caregiver support) $160,000,000 for fiscal year 2007.
-
-        (2) There are authorized to be appropriated to carry out part E of this subchapter (relating to family caregiver support) $166,500,000 for fiscal year 2008, $173,000,000 for fiscal year 2009, $180,000,000 for fiscal year 2010, and $187,000,000 for fiscal year 2011.
-
-        (3) Of the funds appropriated under paragraphs (1) and (2), not more than 1 percent of such funds may be reserved to carry out activities described in [section 3032(a)(11) of this title][/us/usc/t42/s3032/a/11].
-
-([Pub. L. 89–73, title III][/us/pl/89/73/tIII], § 303, as added [Pub. L. 95–478, title I][/us/pl/95/478/tI], § 103(b), Oct. 18, 1978, [92 Stat. 1518][/us/stat/92/1518]; amended [Pub. L. 97–115][/us/pl/97/115], § 3(c), (d), Dec. 29, 1981, [95 Stat. 1597][/us/stat/95/1597]; [Pub. L. 98–459, title III][/us/pl/98/459/tIII], § 303, Oct. 9, 1984, [98 Stat. 1771][/us/stat/98/1771]; [Pub. L. 100–175, title I][/us/pl/100/175/tI], §§ 122(a), (b), 129(c)(1), 140(a), 141(a), 143(a), 144(b), 145, 155(b), Nov. 29, 1987, [101 Stat. 933][/us/stat/101/933], 935, 944, 946, 947, 949, 950, 952; [Pub. L. 102–375, title III][/us/pl/102/375/tIII], §§ 303, 316(b), title VII, § 708(c)(3), Sept. 30, 1992, [106 Stat. 1220][/us/stat/106/1220], 1241, 1293; [Pub. L. 106–501, title III][/us/pl/106/501/tIII], § 302, Nov. 13, 2000, [114 Stat. 2238][/us/stat/114/2238]; [Pub. L. 109–365, title III][/us/pl/109/365/tIII], § 303, Oct. 17, 2006, [120 Stat. 2538][/us/stat/120/2538].)
+([Pub. L. 89–73, title III][/us/pl/89/73/tIII], § 303, as added [Pub. L. 95–478, title I][/us/pl/95/478/tI], § 103(b), Oct. 18, 1978, [92 Stat. 1518][/us/stat/92/1518]; amended [Pub. L. 97–115][/us/pl/97/115], § 3(c), (d), Dec. 29, 1981, [95 Stat. 1597][/us/stat/95/1597]; [Pub. L. 98–459, title III][/us/pl/98/459/tIII], § 303, Oct. 9, 1984, [98 Stat. 1771][/us/stat/98/1771]; [Pub. L. 100–175, title I][/us/pl/100/175/tI], §§ 122(a), (b), 129(c)(1), 140(a), 141(a), 143(a), 144(b), 145, 155(b), Nov. 29, 1987, [101 Stat. 933][/us/stat/101/933], 935, 944, 946, 947, 949, 950, 952; [Pub. L. 102–375, title III][/us/pl/102/375/tIII], §§ 303, 316(b), title VII, § 708(c)(3), Sept. 30, 1992, [106 Stat. 1220][/us/stat/106/1220], 1241, 1293; [Pub. L. 106–501, title III][/us/pl/106/501/tIII], § 302, Nov. 13, 2000, [114 Stat. 2238][/us/stat/114/2238]; [Pub. L. 109–365, title III][/us/pl/109/365/tIII], § 303, Oct. 17, 2006, [120 Stat. 2538][/us/stat/120/2538]; [Pub. L. 114–144][/us/pl/114/144], § 4(a), Apr. 19, 2016, [130 Stat. 337][/us/stat/130/337].)
 
  __Prior Provisions__ 
 
@@ -54,6 +48,20 @@
     Another prior section 3023, [Pub. L. 89–73, title III][/us/pl/89/73/tIII], § 303, July 14, 1965, [79 Stat. 222][/us/stat/79/222]; [Pub. L. 91–69][/us/pl/91/69], §§ 3(b), 4(a), Sept. 17, 1969, [83 Stat. 108][/us/stat/83/108], related to state plans, providing in subsec. (a) for approval by Secretary, contents, notice and hearing prior to disapproval; subsec. (b) noncompliance and cancellation of payments; and subsec. (c) appeals, petitions, record, jurisdiction of courts of appeals, conclusiveness of findings, review by Supreme Court, and stay of administrative action, prior to repeal by [Pub. L. 93–29, title III][/us/pl/93/29/tIII], § 301, May 3, 1973, [87 Stat. 36][/us/stat/87/36].
 
  __Amendments__ 
+
+    2016—Subsec. (a)(1). [Pub. L. 114–144][/us/pl/114/144], § 4(a)(1), substituted “$356,717,276 for fiscal year 2017, $364,456,847 for fiscal year 2018, and $372,196,069 for fiscal year 2019.” for “such sums as may be necessary for fiscal years 2007, 2008, 2009, 2010, and 2011.”
+
+    Subsec. (b)(1). [Pub. L. 114–144][/us/pl/114/144], § 4(a)(2)(A), substituted “$459,937,586 for fiscal year 2017, $469,916,692 for fiscal year 2018, and $479,895,348 for fiscal year 2019.” for “such sums as may be necessary for fiscal years 2007, 2008, 2009, 2010, and 2011.”
+
+    Subsec. (b)(2). [Pub. L. 114–144][/us/pl/114/144], § 4(a)(2)(B), substituted “$232,195,942 for fiscal year 2017, $237,233,817 for fiscal year 2018, and $242,271,465 for fiscal year 2019.” for “such sums as may be necessary for fiscal years 2007, 2008, 2009, 2010, and 2011.”
+
+    Subsec. (d). [Pub. L. 114–144][/us/pl/114/144], § 4(a)(3), substituted “$20,361,334 for fiscal year 2017, $20,803,107 for fiscal year 2018, and $21,244,860 for fiscal year 2019.” for “such sums as may be necessary for fiscal years 2007, 2008, 2009, 2010, and 2011.”
+
+    Subsec. (e). [Pub. L. 114–144][/us/pl/114/144], § 4(a)(4), struck out par. (2) designation before “There are authorized”, substituted “$154,336,482 for fiscal year 2017, $157,564,066 for fiscal year 2018, and $160,791,658 for fiscal year 2019.” for “$166,500,000 for fiscal year 2008, $173,000,000 for fiscal year 2009, $180,000,000 for fiscal year 2010, and $187,000,000 for fiscal year 2011.”, and struck out pars. (1) and (3) which read as follows:
+
+    “(1) There are authorized to be appropriated to carry out part E of this subchapter (relating to family caregiver support) $160,000,000 for fiscal year 2007.
+
+    “(3) Of the funds appropriated under paragraphs (1) and (2), not more than 1 percent of such funds may be reserved to carry out activities described in [section 3032(a)(11) of this title][/us/usc/t42/s3032/a/11].”
 
     2006—Subsecs. (a)(1), (b)(1), (2), (d). [Pub. L. 109–365][/us/pl/109/365], § 303(1), substituted “years 2007, 2008, 2009, 2010, and 2011” for “year 2001, and such sums as may be necessary for each of the 4 succeeding fiscal years”.
 
@@ -167,7 +175,6 @@
 [/us/usc/t42/s3058g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3058g
 [/us/usc/t42/s3025/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3025%2Fa%2F2%2FA
 [/us/usc/t42/s3026]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3026
-[/us/usc/t42/s3032/a/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3032%2Fa%2F11
 [/us/pl/89/73/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73%2FtIII
 [/us/pl/95/478/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F478%2FtI
 [/us/stat/92/1518]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1518
@@ -183,6 +190,8 @@
 [/us/stat/114/2238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2238
 [/us/pl/109/365/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365%2FtIII
 [/us/stat/120/2538]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2538
+[/us/pl/114/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F144
+[/us/stat/130/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F337
 [/us/pl/89/73/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73%2FtIII
 [/us/pl/93/29/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F29%2FtIII
 [/us/stat/87/37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F37
@@ -195,6 +204,12 @@
 [/us/stat/83/108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F108
 [/us/pl/93/29/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F29%2FtIII
 [/us/stat/87/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F36
+[/us/pl/114/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F144
+[/us/pl/114/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F144
+[/us/pl/114/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F144
+[/us/pl/114/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F144
+[/us/pl/114/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F144
+[/us/usc/t42/s3032/a/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3032%2Fa%2F11
 [/us/pl/109/365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365
 [/us/pl/109/365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365
 [/us/pl/109/365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365

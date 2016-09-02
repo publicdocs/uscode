@@ -55,7 +55,7 @@
 
     (5) __English learner__ 
 
-        The term “English learner” means an individual who is an English learner, as defined in section [section 7801 of title 20][/us/usc/t20/s7801], or who is limited English proficient, as defined in [section 9832 of this title][/us/usc/t42/s9832].
+        The term “English learner” means an individual who is an English learner, as defined in [section 7801 of title 20][/us/usc/t20/s7801], or who is limited English proficient, as defined in [section 9832 of this title][/us/usc/t42/s9832].
 
     (6) __Eligible child care provider__ 
 

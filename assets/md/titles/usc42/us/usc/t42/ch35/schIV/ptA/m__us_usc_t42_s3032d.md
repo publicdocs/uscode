@@ -13,35 +13,9 @@
 
 [Previous](./../../../../../..//us/usc/t42/ch35/schIV/ptA/m__us_usc_t42_s3032c.md) | [Next](./../../../../../..//us/usc/t42/ch35/schIV/ptA/m__us_usc_t42_s3032e.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3032d)
 
-## § 3032d. Computer training
+## § 3032d. Repealed. [Pub. L. 114–144][/us/pl/114/144], § 5(d), Apr. 19, 2016, [130 Stat. 342][/us/stat/130/342]
 
-    (a) __Program authorized__ 
-
-        The Assistant Secretary, in consultation with the Assistant Secretary of Commerce for Communications and Information, may award grants or contracts to entities to provide computer training and enhanced Internet access for older individuals.
-
-    (b) __Priority__ 
-
-    If the Assistant Secretary awards grants under subsection (a) of this section, the Assistant Secretary shall give priority to an entity that—
-
-        (1) will provide services to older individuals living in rural areas;
-
-        (2) has demonstrated expertise in providing computer training to older individuals; or
-
-        (3) has demonstrated that it has a variety of training delivery methods, including facility-based, computer-based, and Internet-based training, that may facilitate a determination of the best method of training older individuals.
-
-    (c) __Special consideration__ 
-
-        In awarding grants under this section, the Assistant Secretary shall give special consideration to applicants that have entered into a partnership with one or more private entities providing such applicants with donated information technologies including software, hardware, or training.
-
-    (d) __Use of funds__ 
-
-    An entity that receives a grant or contract under subsection (a) of this section shall use funds received under such grant or contract to provide training for older individuals that—
-
-        (1) relates to the use of computers and related equipment, in order to improve the self-employment and employment-related technology skills of older individuals, as well as their ability to use the Internet; and
-
-        (2) is provided at senior centers, housing facilities for older individuals, elementary schools, secondary schools, and institutions of higher education.
-
-([Pub. L. 89–73, title IV][/us/pl/89/73/tIV], § 415, as added [Pub. L. 106–501, title IV][/us/pl/106/501/tIV], § 401, Nov. 13, 2000, [114 Stat. 2260][/us/stat/114/2260].)
+    Section, [Pub. L. 89–73, title IV][/us/pl/89/73/tIV], § 415, as added [Pub. L. 106–501, title IV][/us/pl/106/501/tIV], § 401, Nov. 13, 2000, [114 Stat. 2260][/us/stat/114/2260], related to grants or contracts for computer training and enhanced Internet access for older individuals.
 
 ----------
 
@@ -50,6 +24,8 @@
 ----------
 ----------
 
+[/us/pl/114/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F144
+[/us/stat/130/342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F342
 [/us/pl/89/73/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73%2FtIV
 [/us/pl/106/501/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501%2FtIV
 [/us/stat/114/2260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2260

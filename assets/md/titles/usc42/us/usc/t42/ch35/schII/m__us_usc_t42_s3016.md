@@ -75,17 +75,15 @@
 
         In administering the functions of the Administration under this chapter, the Assistant Secretary may utilize the services and facilities of any agency of the Federal Government and of any other public or nonprofit agency or organization, in accordance with agreements between the Assistant Secretary and the head thereof, and is authorized to pay therefor, in advance or by way of reimbursement, as may be provided in the agreement.
 
-    (c) __Authorization of appropriations__ 
-
-        For the purpose of carrying out this section, there are authorized to be appropriated such sums as may be necessary.
-
-([Pub. L. 89–73, title II][/us/pl/89/73/tII], § 205, formerly § 206, as added [Pub. L. 93–29, title II][/us/pl/93/29/tII], § 201(c), May 3, 1973, [87 Stat. 34][/us/stat/87/34]; amended [Pub. L. 95–478, title I][/us/pl/95/478/tI], § 102(f), Oct. 18, 1978, [92 Stat. 1515][/us/stat/92/1515]; renumbered § 205 and amended [Pub. L. 97–115][/us/pl/97/115], § 2(e)(2), (g), Dec. 29, 1981, [95 Stat. 1596][/us/stat/95/1596]; [Pub. L. 98–459, title II][/us/pl/98/459/tII], § 205, Oct. 9, 1984, [98 Stat. 1770][/us/stat/98/1770]; [Pub. L. 100–175, title I][/us/pl/100/175/tI], §§ 109, 110, Nov. 29, 1987, [101 Stat. 932][/us/stat/101/932]; [Pub. L. 102–375, title II][/us/pl/102/375/tII], § 206, title IX, § 904(a)(7), Sept. 30, 1992, [106 Stat. 1212][/us/stat/106/1212], 1306; [Pub. L. 103–171][/us/pl/103/171], § 3(a)(13), Dec. 2, 1993, [107 Stat. 1990][/us/stat/107/1990]; [Pub. L. 106–501, title II][/us/pl/106/501/tII], § 202(3), title VIII, § 801(b)(3), Nov. 13, 2000, [114 Stat. 2231][/us/stat/114/2231], 2292; [Pub. L. 109–365, title II][/us/pl/109/365/tII], § 204, Oct. 17, 2006, [120 Stat. 2535][/us/stat/120/2535].)
+([Pub. L. 89–73, title II][/us/pl/89/73/tII], § 205, formerly § 206, as added [Pub. L. 93–29, title II][/us/pl/93/29/tII], § 201(c), May 3, 1973, [87 Stat. 34][/us/stat/87/34]; amended [Pub. L. 95–478, title I][/us/pl/95/478/tI], § 102(f), Oct. 18, 1978, [92 Stat. 1515][/us/stat/92/1515]; renumbered § 205 and amended [Pub. L. 97–115][/us/pl/97/115], § 2(e)(2), (g), Dec. 29, 1981, [95 Stat. 1596][/us/stat/95/1596]; [Pub. L. 98–459, title II][/us/pl/98/459/tII], § 205, Oct. 9, 1984, [98 Stat. 1770][/us/stat/98/1770]; [Pub. L. 100–175, title I][/us/pl/100/175/tI], §§ 109, 110, Nov. 29, 1987, [101 Stat. 932][/us/stat/101/932]; [Pub. L. 102–375, title II][/us/pl/102/375/tII], § 206, title IX, § 904(a)(7), Sept. 30, 1992, [106 Stat. 1212][/us/stat/106/1212], 1306; [Pub. L. 103–171][/us/pl/103/171], § 3(a)(13), Dec. 2, 1993, [107 Stat. 1990][/us/stat/107/1990]; [Pub. L. 106–501, title II][/us/pl/106/501/tII], § 202(3), title VIII, § 801(b)(3), Nov. 13, 2000, [114 Stat. 2231][/us/stat/114/2231], 2292; [Pub. L. 109–365, title II][/us/pl/109/365/tII], § 204, Oct. 17, 2006, [120 Stat. 2535][/us/stat/120/2535]; [Pub. L. 114–144][/us/pl/114/144], § 3(c), Apr. 19, 2016, [130 Stat. 337][/us/stat/130/337].)
 
  __Prior Provisions__ 
 
     A prior [section 205 of Pub. L. 89–73][/us/pl/89/73/s205] was renumbered section 204 and is classified to [section 3015 of this title][/us/usc/t42/s3015].
 
  __Amendments__ 
+
+    2016—Subsec. (c). [Pub. L. 114–144][/us/pl/114/144] struck out subsec. (c). Text read as follows: “For the purpose of carrying out this section, there are authorized to be appropriated such sums as may be necessary.”
 
     2006—Subsec. (a)(1)(C) to (E). [Pub. L. 109–365][/us/pl/109/365], § 204(1)(A), in subpar. (C) inserted “and” at end, in subpar. (D) substituted period for “; and” at end, and struck out subpar. (E) which read as follows: “provide staff and other technical assistance to the Federal Council on the Aging.”
 
@@ -160,8 +158,11 @@
 [/us/stat/114/2231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2231
 [/us/pl/109/365/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365%2FtII
 [/us/stat/120/2535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2535
+[/us/pl/114/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F144
+[/us/stat/130/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F337
 [/us/pl/89/73/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73%2Fs205
 [/us/usc/t42/s3015]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3015
+[/us/pl/114/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F144
 [/us/pl/109/365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365
 [/us/pl/109/365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365
 [/us/pl/109/365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365

@@ -45,7 +45,7 @@
 
                 (i) 27 months; or
 
-                (ii) pursuant to the request of a grantee, an extended period of participation established by the Secretary for a specific project area for such grantee, up to a period of not more than 36 months, if the Secretary determines that extenuating circumstances exist relating to the factors identified in [section 3056k(a)(2)(D) of this title][/us/usc/t42/s3056k/a/2/D] that justify such an extended period for the program year involved;
+                (ii) pursuant to the request of a grantee, an extended period of participation established by the Secretary for a specific project area for such grantee, up to a period of not more than 36 months, if the Secretary determines that extenuating circumstances exist relating to the factors identified in [section 3056k(a)(2)(E) of this title][/us/usc/t42/s3056k/a/2/E] that justify such an extended period for the program year involved;
 
             (D) will employ eligible individuals in service related to publicly owned and operated facilities and projects, or projects sponsored by nonprofit organizations (excluding political parties exempt from taxation under [section 501(c)(3) of title 26][/us/usc/t26/s501/c/3]), but excluding projects involving the construction, operation, or maintenance of any facility used or to be used as a place for sectarian religious instruction or worship;
 
@@ -85,7 +85,7 @@
 
             (N)
 
-                (i) will prepare an assessment of the participants’ skills and talents and their needs for services, except to the extent such project has, for the participant involved, recently prepared an assessment of such skills and talents, and such needs, pursuant to another employment or training program (such as a program under the Workforce Investment Act of 1998 ([29 U.S.C. 2801][/us/usc/t29/s2801] et seq.) <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below </sup></sup> , the Carl D. Perkins Career and Technical Education Act of 2006 ([20 U.S.C. 2301][/us/usc/t20/s2301] et seq.), or part A of title IV of the Social Security Act ([42 U.S.C. 601][/us/usc/t42/s601] et seq.)) and will prepare a related service strategy;
+                (i) will prepare an assessment of the participants’ skills and talents and their needs for services, except to the extent such project has, for the participant involved, recently prepared an assessment of such skills and talents, and such needs, pursuant to another employment or training program (such as a program under the Workforce Innovation and Opportunity Act ([29 U.S.C. 3101][/us/usc/t29/s3101] et seq.), the Carl D. Perkins Career and Technical Education Act of 2006 ([20 U.S.C. 2301][/us/usc/t20/s2301] et seq.), or part A of title IV of the Social Security Act ([42 U.S.C. 601][/us/usc/t42/s601] et seq.)) and will prepare a related service strategy;
 
                 (ii) will provide training and employment counseling to eligible individuals based on strategies that identify appropriate employment objectives and the need for supportive services, developed as a result of the assessment and service strategy provided for in clause (i), and provide other appropriate information regarding such project; and
 
@@ -259,7 +259,7 @@
 
     (d) __Project description__ 
 
-        Whenever a grantee conducts a project within a planning and service area in a State, such grantee shall conduct such project in consultation with the area agency on aging of the planning and service area and shall submit to the State agency and the area agency on aging a description of such project to be conducted in the State, including the location of the project, 90 days prior to undertaking the project, for review and public comment according to guidelines the Secretary shall issue to assure efficient and effective coordination of projects under this subchapter.
+        Whenever a grantee conducts a project within a planning and service area in a State, such grantee shall conduct such project in consultation with the area agency on aging of the planning and service area and the local workforce development board and shall submit to the State agency, the local workforce development board, and the area agency on aging a description of such project to be conducted in the State, including the location of the project, 90 days prior to undertaking the project, for review and public comment according to guidelines the Secretary shall issue to assure efficient and effective coordination of projects under this subchapter.
 
     (e) __Pilot, demonstration, and evaluation projects__ 
 
@@ -295,17 +295,15 @@
 
         (3) __Consultation__ 
 
-            To the extent practicable, entities carrying out projects under this subsection shall consult with appropriate area agencies on aging and with other appropriate agencies and entities to promote coordination of activities under this subchapter.
+            To the extent practicable, entities carrying out projects under this subsection shall consult with appropriate area agencies on aging, with the State workforce development board and local workforce development board, and with other appropriate agencies and entities to promote coordination of activities under this subchapter.
 
-([Pub. L. 89–73, title V][/us/pl/89/73/tV], § 502, as added [Pub. L. 109–365, title V][/us/pl/109/365/tV], § 501, Oct. 17, 2006, [120 Stat. 2563][/us/stat/120/2563]; amended [Pub. L. 113–128, title V][/us/pl/113/128/tV], § 512(w)(3), July 22, 2014, [128 Stat. 1713][/us/stat/128/1713].)
+([Pub. L. 89–73, title V][/us/pl/89/73/tV], § 502, as added [Pub. L. 109–365, title V][/us/pl/109/365/tV], § 501, Oct. 17, 2006, [120 Stat. 2563][/us/stat/120/2563]; amended [Pub. L. 113–128, title V][/us/pl/113/128/tV], § 512(w)(3), July 22, 2014, [128 Stat. 1713][/us/stat/128/1713]; [Pub. L. 114–144][/us/pl/114/144], § 6(a), Apr. 19, 2016, [130 Stat. 342][/us/stat/130/342].)
 
  __References in Text__ 
 
-    The Workforce Innovation and Opportunity Act, referred to in subsec. (b)(1)(H), (3), is [Pub. L. 113–128][/us/pl/113/128], July 22, 2014, [128 Stat. 1425][/us/stat/128/1425]. Title I of the Act is classified generally to subchapter I (§ 3111 et seq.) of chapter 32 of Title 29, Labor. Subtitle B of title I of the Act is classified generally to part B (§ 3151 et seq.) of subchapter I of chapter 32 of Title 29. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of Title 29][/us/usc/t29/s3101] and Tables.
+    The Workforce Innovation and Opportunity Act, referred to in subsec. (b)(1)(H), (N)(i), (3), is [Pub. L. 113–128][/us/pl/113/128], July 22, 2014, [128 Stat. 1425][/us/stat/128/1425]. Title I of the Act is classified generally to subchapter I (§ 3111 et seq.) of chapter 32 of Title 29, Labor. Subtitle B of title I of the Act is classified generally to part B (§ 3151 et seq.) of subchapter I of chapter 32 of Title 29. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of Title 29][/us/usc/t29/s3101] and Tables.
 
     The Fair Labor Standards Act of 1938, referred to in subsec. (b)(1)(J)(i), is [act June 25, 1938, ch. 676][/us/act/1938-06-25/ch676], [52 Stat. 1060][/us/stat/52/1060], which is classified generally to chapter 8 (§ 201 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see [section 201 of Title 29][/us/usc/t29/s201] and Tables.
-
-    The Workforce Investment Act of 1998, referred to in subsec. (b)(1)(N)(i), is [Pub. L. 105–220][/us/pl/105/220], Aug. 7, 1998, [112 Stat. 936][/us/stat/112/936], and was repealed by [Pub. L. 113–128, title V][/us/pl/113/128/tV], §§ 506, 511(a), July 22, 2014, [128 Stat. 1703][/us/stat/128/1703], 1705, effective July 1, 2015. Pursuant to [section 3361(a) of Title 29][/us/usc/t29/s3361/a], Labor, references to a provision of the Workforce Investment Act of 1998 are deemed to refer to the corresponding provision of the Workforce Innovation and Opportunity Act, [Pub. L. 113–128][/us/pl/113/128], July 22, 2014, [128 Stat. 1425][/us/stat/128/1425]. For complete classification of the Workforce Investment Act of 1998 to the Code, see Tables. For complete classification of the Workforce Innovation and Opportunity Act to the Code, see Short Title note set out under [section 3101 of this title][/us/usc/t42/s3101] and Tables.
 
     The Carl D. Perkins Career and Technical Education Act of 2006, referred to in subsec. (b)(1)(N)(i), is [Pub. L. 88–210][/us/pl/88/210], Dec. 18, 1963, [77 Stat. 403][/us/stat/77/403], as amended generally by [Pub. L. 109–270][/us/pl/109/270], § 1(b), Aug. 12, 2006, [120 Stat. 683][/us/stat/120/683], which is classified generally to chapter 44 (§ 2301 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under [section 2301 of Title 20][/us/usc/t20/s2301] and Tables.
 
@@ -320,6 +318,16 @@
     Another prior [section 502 of Pub. L. 89–73][/us/pl/89/73/s502], title V, as added [Pub. L. 93–29, title V][/us/pl/93/29/tV], § 501, May 3, 1973, [87 Stat. 50][/us/stat/87/50], related to requirements for approval of applications, preferred areas, and agency application and was classified to [section 3041a of this title][/us/usc/t42/s3041a], prior to repeal by [Pub. L. 95–478, title V][/us/pl/95/478/tV], § 501(a), Oct. 18, 1978, [92 Stat. 1558][/us/stat/92/1558].
 
  __Amendments__ 
+
+    2016—Subsec. (b)(1)(C)(ii). [Pub. L. 114–144][/us/pl/114/144], § 6(a)(1)(A), substituted “3056k(a)(2)(E)” for “3056k(a)(2)(D)”.
+
+    Subsec. (b)(1)(N)(i). [Pub. L. 114–144][/us/pl/114/144], § 6(a)(1)(B), substituted “Workforce Innovation and Opportunity Act ([29 U.S.C. 3101][/us/usc/t29/s3101] et seq.)” for “Workforce Investment Act of 1998 ([29 U.S.C. 2801][/us/usc/t29/s2801] et seq.)”.
+
+    Subsec. (d). [Pub. L. 114–144][/us/pl/114/144], § 6(a)(2)(B), substituted “, the local workforce development board, and” for “and”.
+
+    [Pub. L. 114–144][/us/pl/114/144], § 6(a)(2)(A), which directed amendment of subsec. (d) by inserting “and the local workforce development board” after “service area”, was executed by making the insertion after “service area” the second place appearing to reflect the probable intent of Congress.
+
+    Subsec. (e)(3). [Pub. L. 114–144][/us/pl/114/144], § 6(a)(3), inserted “, with the State workforce development board and local workforce development board,” after “aging”.
 
     2014—Subsec. (b)(1)(H). [Pub. L. 113–128][/us/pl/113/128], § 512(w)(3)(A)(i)(I), substituted “will coordinate activities with training and other services provided under title I of the Workforce Innovation and Opportunity Act, including utilizing the one-stop delivery system of the local workforce development areas involved” for “will coordinate activities with training and other services provided under title I of the Workforce Investment Act of 1998 ([29 U.S.C. 2801][/us/usc/t29/s2801] et seq.), including utilizing the one-stop delivery system of the local workforce investment areas involved”.
 
@@ -370,13 +378,13 @@
 
 [/us/usc/t42/s3056d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3056d
 [/us/usc/t25/s3501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs3501
-[/us/usc/t42/s3056k/a/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3056k%2Fa%2F2%2FD
+[/us/usc/t42/s3056k/a/2/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3056k%2Fa%2F2%2FE
 [/us/usc/t26/s501/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs501%2Fc%2F3
 [/us/usc/t29/s3111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3111
 [/us/usc/t29/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs201
 [/us/usc/t29/s206/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs206%2Fa%2F1
 [/us/usc/t29/s213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs213
-[/us/usc/t29/s2801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2801
+[/us/usc/t29/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3101
 [/us/usc/t20/s2301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs2301
 [/us/usc/t42/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs601
 [/us/usc/t29/s3151/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3151%2Fe
@@ -392,20 +400,14 @@
 [/us/stat/120/2563]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2563
 [/us/pl/113/128/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2FtV
 [/us/stat/128/1713]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1713
+[/us/pl/114/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F144
+[/us/stat/130/342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F342
 [/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
 [/us/stat/128/1425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1425
 [/us/usc/t29/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3101
 [/us/act/1938-06-25/ch676]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch676
 [/us/stat/52/1060]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F1060
 [/us/usc/t29/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs201
-[/us/pl/105/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220
-[/us/stat/112/936]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F936
-[/us/pl/113/128/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2FtV
-[/us/stat/128/1703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1703
-[/us/usc/t29/s3361/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3361%2Fa
-[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
-[/us/stat/128/1425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1425
-[/us/usc/t42/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3101
 [/us/pl/88/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F210
 [/us/stat/77/403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F403
 [/us/pl/109/270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F270
@@ -446,6 +448,13 @@
 [/us/usc/t42/s3041a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3041a
 [/us/pl/95/478/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F478%2FtV
 [/us/stat/92/1558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1558
+[/us/pl/114/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F144
+[/us/pl/114/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F144
+[/us/usc/t29/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3101
+[/us/usc/t29/s2801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2801
+[/us/pl/114/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F144
+[/us/pl/114/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F144
+[/us/pl/114/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F144
 [/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
 [/us/usc/t29/s2801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2801
 [/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128

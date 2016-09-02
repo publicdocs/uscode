@@ -49,15 +49,17 @@
 
     (e) __Authorization of appropriations__ 
 
-        There are authorized to be appropriated to carry out this section (other than subsection (c)(1) of this section) such sums as may be necessary for fiscal year 2007 and such sums as may be necessary for each of the 4 succeeding fiscal years.
+        There are authorized to be appropriated to carry out this section (other than subsection (c)(1) of this section) $164,055,664 for fiscal year 2017, $167,486,502 for fiscal year 2018, and $170,917,349 for fiscal year 2019.
 
     (f) __Dissemination of information__ 
 
         In each fiscal year, the Secretary and the Secretary of Agriculture shall jointly disseminate to State agencies, title VI \[subchapter X\] grantees, area agencies on aging, and providers of nutrition services assisted under this subchapter, information concerning the foods available to such State agencies, title VI \[subchapter X\] grantees, area agencies on aging, and providers under subsection (c).
 
-([Pub. L. 89–73, title III][/us/pl/89/73/tIII], § 311, as added [Pub. L. 95–478, title I][/us/pl/95/478/tI], § 103(b), Oct. 18, 1978, [92 Stat. 1533][/us/stat/92/1533]; amended [Pub. L. 97–115][/us/pl/97/115], § 9, Dec. 29, 1981, [95 Stat. 1600][/us/stat/95/1600]; [Pub. L. 98–459, title III][/us/pl/98/459/tIII], § 310, Oct. 9, 1984, [98 Stat. 1779][/us/stat/98/1779]; [Pub. L. 99–269][/us/pl/99/269], §§ 2, 3(b), 4, Apr. 1, 1986, [100 Stat. 78][/us/stat/100/78]; [Pub. L. 100–175, title I][/us/pl/100/175/tI], § 122(c), Nov. 29, 1987, [101 Stat. 933][/us/stat/101/933]; [Pub. L. 102–375, title I][/us/pl/102/375/tI], § 102(b)(10)(A), title III, § 310, Sept. 30, 1992, [106 Stat. 1202][/us/stat/106/1202], 1236; [Pub. L. 103–171][/us/pl/103/171], § 3(a)(6), Dec. 2, 1993, [107 Stat. 1990][/us/stat/107/1990]; [Pub. L. 106–501, title III][/us/pl/106/501/tIII], § 309, Nov. 13, 2000, [114 Stat. 2246][/us/stat/114/2246]; [Pub. L. 108–7, div. G, title II][/us/pl/108/7/dG/tII], § 217(a), Feb. 20, 2003, [117 Stat. 325][/us/stat/117/325]; [Pub. L. 109–365, title III][/us/pl/109/365/tIII], § 309, Oct. 17, 2006, [120 Stat. 2545][/us/stat/120/2545]; [Pub. L. 110–19][/us/pl/110/19], § 2, Apr. 23, 2007, [121 Stat. 84][/us/stat/121/84].)
+([Pub. L. 89–73, title III][/us/pl/89/73/tIII], § 311, as added [Pub. L. 95–478, title I][/us/pl/95/478/tI], § 103(b), Oct. 18, 1978, [92 Stat. 1533][/us/stat/92/1533]; amended [Pub. L. 97–115][/us/pl/97/115], § 9, Dec. 29, 1981, [95 Stat. 1600][/us/stat/95/1600]; [Pub. L. 98–459, title III][/us/pl/98/459/tIII], § 310, Oct. 9, 1984, [98 Stat. 1779][/us/stat/98/1779]; [Pub. L. 99–269][/us/pl/99/269], §§ 2, 3(b), 4, Apr. 1, 1986, [100 Stat. 78][/us/stat/100/78]; [Pub. L. 100–175, title I][/us/pl/100/175/tI], § 122(c), Nov. 29, 1987, [101 Stat. 933][/us/stat/101/933]; [Pub. L. 102–375, title I][/us/pl/102/375/tI], § 102(b)(10)(A), title III, § 310, Sept. 30, 1992, [106 Stat. 1202][/us/stat/106/1202], 1236; [Pub. L. 103–171][/us/pl/103/171], § 3(a)(6), Dec. 2, 1993, [107 Stat. 1990][/us/stat/107/1990]; [Pub. L. 106–501, title III][/us/pl/106/501/tIII], § 309, Nov. 13, 2000, [114 Stat. 2246][/us/stat/114/2246]; [Pub. L. 108–7, div. G, title II][/us/pl/108/7/dG/tII], § 217(a), Feb. 20, 2003, [117 Stat. 325][/us/stat/117/325]; [Pub. L. 109–365, title III][/us/pl/109/365/tIII], § 309, Oct. 17, 2006, [120 Stat. 2545][/us/stat/120/2545]; [Pub. L. 110–19][/us/pl/110/19], § 2, Apr. 23, 2007, [121 Stat. 84][/us/stat/121/84]; [Pub. L. 114–144][/us/pl/114/144], § 4(f), Apr. 19, 2016, [130 Stat. 339][/us/stat/130/339].)
 
  __Amendments__ 
+
+    2016—Subsec. (e). [Pub. L. 114–144][/us/pl/114/144], which directed substitution of “$164,055,664 for fiscal year 2017, $167,486,502 for fiscal year 2018, and $170,917,349 for fiscal year 2019.” for “such sums” and all that followed through the period at the end, was executed by making the substitution for “such sums as may be necessary for fiscal year 2007 and such sums as may be necessary for each of the 4 succeeding fiscal years.” to reflect the probable intent of Congress.
 
     2007—Subsec. (b)(3). [Pub. L. 110–19][/us/pl/110/19], § 2(1), struck out par. (3) which read as follows: “State agencies that elect to make grants and enter into contracts for purposes of this section shall promptly and equitably disburse amounts received under this subsection to the recipients of the grants and contracts.”
 
@@ -238,6 +240,9 @@
 [/us/stat/120/2545]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2545
 [/us/pl/110/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F19
 [/us/stat/121/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F84
+[/us/pl/114/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F144
+[/us/stat/130/339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F339
+[/us/pl/114/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F144
 [/us/pl/110/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F19
 [/us/pl/110/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F19
 [/us/pl/110/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F19

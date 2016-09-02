@@ -31,19 +31,9 @@
 
             (D)
 
-                (i) No State shall be allotted less than the total amount allotted to the State for fiscal year 2006.
+                (i) For each of fiscal years 2017 through 2019, no State shall be allotted an amount that is less than 99 percent of the amount allotted to such State for the previous fiscal year.
 
-                (ii)
-
-                 No State shall receive a percentage increase in an allotment, above the State’s fiscal year 2006 allotment, that is less than—
-
-                    (I) for fiscal year 2007, 20 percent of the percentage increase above the fiscal year 2006 allotments for all of the States;
-
-                    (II) for fiscal year 2008, 15 percent of the percentage increase above the fiscal year 2006 allotments for all of the States;
-
-                    (III) for fiscal year 2009, 10 percent of the percentage increase above the fiscal year 2006 allotments for all of the States; and
-
-                    (IV) For  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “for”. </sup></sup>  fiscal year 2010, 5 percent of the percentage increase above the fiscal year 2006 allotments for all of the States.
+                (ii) For fiscal year 2020 and each subsequent fiscal year, no State shall be allotted an amount that is less than 100 percent of the amount allotted to such State for fiscal year 2019.
 
         (4) The number of individuals aged 60 or older in any State and in all States shall be determined by the Assistant Secretary on the basis of the most recent data available from the Bureau of the Census, and other reliable demographic data satisfactory to the Assistant Secretary.
 
@@ -51,7 +41,7 @@
 
     (b) __Unused funds__ 
 
-        Whenever the Assistant Secretary determines that any amount allotted to a State under part B or C of this subchapter, or subpart I of part E of this subchapter, for a fiscal year under this section will not be used by such State for carrying out the purpose for which the allotment was made, the Assistant Secretary shall make such allotment available for carrying out such purpose to one or more other States to the extent the Assistant Secretary determines that such other States will be able to use such additional amount for carrying out such purpose. Any amount made available to a State from an appropriation for a fiscal year in accordance with the preceding sentence shall, for purposes of this subchapter, be regarded as part of such State’s allotment (as determined under subsection (a) of this section) for such year, but shall remain available until the end of the succeeding fiscal year.
+        Whenever the Assistant Secretary determines that any amount allotted to a State under part B or C of this subchapter, or part E of this subchapter, for a fiscal year under this section will not be used by such State for carrying out the purpose for which the allotment was made, the Assistant Secretary shall make such allotment available for carrying out such purpose to one or more other States to the extent the Assistant Secretary determines that such other States will be able to use such additional amount for carrying out such purpose. Any amount made available to a State from an appropriation for a fiscal year in accordance with the preceding sentence shall, for purposes of this subchapter, be regarded as part of such State’s allotment (as determined under subsection (a) of this section) for such year, but shall remain available until the end of the succeeding fiscal year.
 
     (c) __Withholding of funds; disbursement__ 
 
@@ -73,7 +63,7 @@
 
         (2) The non-Federal share shall be in cash or in kind. In determining the amount of the non-Federal share, the Assistant Secretary may attribute fair market value to services and facilities contributed from non-Federal sources.
 
-([Pub. L. 89–73, title III][/us/pl/89/73/tIII], § 304, as added [Pub. L. 95–478, title I][/us/pl/95/478/tI], § 103(b), Oct. 18, 1978, [92 Stat. 1519][/us/stat/92/1519]; amended [Pub. L. 97–115][/us/pl/97/115], § 4, Dec. 29, 1981, [95 Stat. 1597][/us/stat/95/1597]; [Pub. L. 98–459, title III][/us/pl/98/459/tIII], § 304, Oct. 9, 1984, [98 Stat. 1772][/us/stat/98/1772]; [Pub. L. 100–175, title I][/us/pl/100/175/tI], §§ 123, 155(c), (d), 182(f), Nov. 29, 1987, [101 Stat. 933][/us/stat/101/933], 952, 965; [Pub. L. 102–375, title III][/us/pl/102/375/tIII], § 304, title IX, § 904(a)(10), Sept. 30, 1992, [106 Stat. 1221][/us/stat/106/1221], 1306; [Pub. L. 103–171][/us/pl/103/171], § 3(a)(13), Dec. 2, 1993, [107 Stat. 1990][/us/stat/107/1990]; [Pub. L. 106–501, title III][/us/pl/106/501/tIII], § 303, title VIII, § 801(c)(2), Nov. 13, 2000, [114 Stat. 2239][/us/stat/114/2239], 2292; [Pub. L. 109–365, title III][/us/pl/109/365/tIII], § 304, Oct. 17, 2006, [120 Stat. 2539][/us/stat/120/2539].)
+([Pub. L. 89–73, title III][/us/pl/89/73/tIII], § 304, as added [Pub. L. 95–478, title I][/us/pl/95/478/tI], § 103(b), Oct. 18, 1978, [92 Stat. 1519][/us/stat/92/1519]; amended [Pub. L. 97–115][/us/pl/97/115], § 4, Dec. 29, 1981, [95 Stat. 1597][/us/stat/95/1597]; [Pub. L. 98–459, title III][/us/pl/98/459/tIII], § 304, Oct. 9, 1984, [98 Stat. 1772][/us/stat/98/1772]; [Pub. L. 100–175, title I][/us/pl/100/175/tI], §§ 123, 155(c), (d), 182(f), Nov. 29, 1987, [101 Stat. 933][/us/stat/101/933], 952, 965; [Pub. L. 102–375, title III][/us/pl/102/375/tIII], § 304, title IX, § 904(a)(10), Sept. 30, 1992, [106 Stat. 1221][/us/stat/106/1221], 1306; [Pub. L. 103–171][/us/pl/103/171], § 3(a)(13), Dec. 2, 1993, [107 Stat. 1990][/us/stat/107/1990]; [Pub. L. 106–501, title III][/us/pl/106/501/tIII], § 303, title VIII, § 801(c)(2), Nov. 13, 2000, [114 Stat. 2239][/us/stat/114/2239], 2292; [Pub. L. 109–365, title III][/us/pl/109/365/tIII], § 304, Oct. 17, 2006, [120 Stat. 2539][/us/stat/120/2539]; [Pub. L. 114–144][/us/pl/114/144], § 4(b), Apr. 19, 2016, [130 Stat. 338][/us/stat/130/338].)
 
  __Prior Provisions__ 
 
@@ -86,6 +76,10 @@ Another prior section 3024, [Pub. L. 89–73, title III][/us/pl/89/73/tIII], §�
     A prior section 3024a, [Pub. L. 89–73, title III][/us/pl/89/73/tIII], § 305, as added [Pub. L. 91–69][/us/pl/91/69], § 5, Sept. 17, 1969, [83 Stat. 110][/us/stat/83/110], related to areawide model projects, grants to or contracts with State agencies, amount, purposes of projects, and authorization of appropriations, prior to repeal by [Pub. L. 93–29, title III][/us/pl/93/29/tIII], § 301, May 3, 1973, [87 Stat. 36][/us/stat/87/36].
 
  __Amendments__ 
+
+    2016—Subsec. (a)(3)(D). [Pub. L. 114–144][/us/pl/114/144], § 4(b)(1), added subpar. (D) and struck out former subpar. (D) which related to allotments and increases for fiscal years 2007 to 2010 based on fiscal year 2006.
+
+    Subsec. (b). [Pub. L. 114–144][/us/pl/114/144], § 4(b)(2), struck out “subpart I of” before “part E”.
 
     2006—Subsec. (a)(3)(D). [Pub. L. 109–365][/us/pl/109/365] amended subpar. (D) generally. Prior to amendment, subpar. (D) read as follows: “No State shall be allotted less than the total amount allotted to the State for fiscal year 2000 and no State shall receive a percentage increase above the fiscal year 2000 allotment that is less than 20 percent of the percentage increase above the fiscal year 2000 allotments for all of the States.”
 
@@ -194,6 +188,8 @@ Another prior section 3024, [Pub. L. 89–73, title III][/us/pl/89/73/tIII], §�
 [/us/stat/114/2239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2239
 [/us/pl/109/365/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365%2FtIII
 [/us/stat/120/2539]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2539
+[/us/pl/114/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F144
+[/us/stat/130/338]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F338
 [/us/pl/89/73/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73%2FtIII
 [/us/pl/93/29/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F29%2FtIII
 [/us/stat/87/38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F38
@@ -220,6 +216,8 @@ Another prior section 3024, [Pub. L. 89–73, title III][/us/pl/89/73/tIII], §�
 [/us/stat/83/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F110
 [/us/pl/93/29/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F29%2FtIII
 [/us/stat/87/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F36
+[/us/pl/114/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F144
+[/us/pl/114/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F144
 [/us/pl/109/365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365
 [/us/pl/106/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501
 [/us/usc/t42/s3023]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3023

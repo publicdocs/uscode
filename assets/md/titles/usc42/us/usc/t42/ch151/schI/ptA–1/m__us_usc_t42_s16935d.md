@@ -13,7 +13,7 @@
 
 [Previous](./../../../../../..//us/usc/t42/ch151/schI/ptA–1/m__us_usc_t42_s16935c.md) | [Next](./../../../../../..//us/usc/t42/ch151/schI/ptA–1/m__us_usc_t42_s16935e.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs16935d)
 
-## § 16935d.Implementation
+## § 16935d. Implementation
 
     In carrying out this part, and the amendments made by this part, the Attorney General may use the resources and capacities of any appropriate agencies of the Department of Justice, including the Office of Sex Offender Sentencing, Monitoring, Apprehending, Registering, and Tracking, the United States Marshals Service, INTERPOL Washington-U.S. National Central Bureau, the Federal Bureau of Investigation, the Criminal Division, and the United States Attorneys’ Offices.
 

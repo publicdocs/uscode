@@ -133,15 +133,17 @@
 
             (G) supervise the activities carried out under the authority of the Administration that relate to State Long-Term Care Ombudsman programs;
 
-            (H) administer the National Ombudsman Resource Center established under section 3012(a)(21)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of this title and make recommendations to the Assistant Secretary regarding the operation of the National Ombudsman Resource Center;
+            (H) administer the National Ombudsman Resource Center established under [section 3012(a)(18) of this title][/us/usc/t42/s3012/a/18] and make recommendations to the Assistant Secretary regarding the operation of the National Ombudsman Resource Center;
 
             (I) advocate, monitor, and coordinate Federal and State activities of Long-Term Care Ombudsmen under this chapter;
 
             (J) submit to the Speaker of the House of Representatives and the President pro tempore of the Senate an annual report on the effectiveness of services provided under [section 3027(a)(9) of this title][/us/usc/t42/s3027/a/9] and [section 3058g of this title][/us/usc/t42/s3058g];
 
-            (K) have authority to investigate the operation or violation of any Federal law administered by the Department of Health and Human Services that may adversely affect the health, safety, welfare, or rights of older individuals; and
+            (K) have authority to investigate the operation or violation of any Federal law administered by the Department of Health and Human Services that may adversely affect the health, safety, welfare, or rights of older individuals;
 
-            (L) not later than 180 days after September 30, 1992, establish standards applicable to the training required by [section 3058g(h)(4) of this title][/us/usc/t42/s3058g/h/4].
+            (L) not later than 180 days after April 19, 2016, establish standards applicable to the training required by [section 3058g(h)(5) of this title][/us/usc/t42/s3058g/h/5]; and
+
+            (M) collect and analyze best practices related to responding to elder abuse, neglect, and exploitation in long-term care facilities, and publish a report of such best practices.
 
     (e) __Elder abuse prevention and services__ 
 
@@ -149,7 +151,7 @@
 
         (2)
 
-         It shall be the duty of the Assistant Secretary, acting through the person designated to have responsibility for elder abuse prevention and services—
+         It shall be the duty of the Assistant Secretary, acting through the person designated to have responsibility for elder abuse prevention and services, and in coordination with the heads of State adult protective services programs and the Director of the Office of Long-Term Care Ombudsman Programs—
 
             (A)
 
@@ -187,17 +189,23 @@
 
     (f) __Mental health services__ 
 
-        (1) The Assistant Secretary may designate an officer or employee who shall be responsible for the administration of mental health services authorized under this chapter.
+        (1) The Assistant Secretary may designate an officer or employee who shall be responsible for the administration of mental and behavioral health services authorized under this chapter.
 
         (2) It shall be the duty of the Assistant Secretary, acting through the individual designated under paragraph (1), to develop objectives, priorities, and a long-term plan for supporting State and local efforts involving education about and prevention, detection, and treatment of mental disorders, including age-related dementia, depression, and Alzheimer’s disease and related neurological disorders with neurological and organic brain dysfunction.
 
-([Pub. L. 89–73, title II][/us/pl/89/73/tII], § 201, July 14, 1965, [79 Stat. 220][/us/stat/79/220]; [Pub. L. 93–29, title II][/us/pl/93/29/tII], § 201(a), May 3, 1973, [87 Stat. 30][/us/stat/87/30]; [Pub. L. 93–351][/us/pl/93/351], § 2(a), July 12, 1974, [88 Stat. 357][/us/stat/88/357]; [Pub. L. 95–478, title V][/us/pl/95/478/tV], § 503(b)(1), Oct. 18, 1978, [92 Stat. 1559][/us/stat/92/1559]; [Pub. L. 98–459, title II][/us/pl/98/459/tII], § 201, Oct. 9, 1984, [98 Stat. 1767][/us/stat/98/1767]; [Pub. L. 100–175, title I][/us/pl/100/175/tI], §§ 102, 107(a), 182(c), Nov. 29, 1987, [101 Stat. 928][/us/stat/101/928], 931, 964; [Pub. L. 102–375, title I][/us/pl/102/375/tI], § 102(b)(1)(A), (2), title II, § 201, title IX, § 904(a)(3), Sept. 30, 1992, [106 Stat. 1200][/us/stat/106/1200], 1201, 1202, 1306; [Pub. L. 103–171][/us/pl/103/171], § 3(a)(2), Dec. 2, 1993, [107 Stat. 1989][/us/stat/107/1989]; [Pub. L. 106–501, title VIII][/us/pl/106/501/tVIII], § 801(b)(1), Nov. 13, 2000, [114 Stat. 2291][/us/stat/114/2291]; [Pub. L. 109–365, title II][/us/pl/109/365/tII], § 201, Oct. 17, 2006, [120 Stat. 2527][/us/stat/120/2527].)
-
- __References in Text__ 
-
-    [Section 3012(a)(21) of this title][/us/usc/t42/s3012/a/21], referred to in subsec. (d)(3)(H), was redesignated [section 3012(a)(18) of this title][/us/usc/t42/s3012/a/18] and section 3012(a)(24) was redesignated section 3012(a)(21) by [Pub. L. 106–501, title II][/us/pl/106/501/tII], § 201(1)(B), Nov. 13, 2000, [114 Stat. 2229][/us/stat/114/2229].
+([Pub. L. 89–73, title II][/us/pl/89/73/tII], § 201, July 14, 1965, [79 Stat. 220][/us/stat/79/220]; [Pub. L. 93–29, title II][/us/pl/93/29/tII], § 201(a), May 3, 1973, [87 Stat. 30][/us/stat/87/30]; [Pub. L. 93–351][/us/pl/93/351], § 2(a), July 12, 1974, [88 Stat. 357][/us/stat/88/357]; [Pub. L. 95–478, title V][/us/pl/95/478/tV], § 503(b)(1), Oct. 18, 1978, [92 Stat. 1559][/us/stat/92/1559]; [Pub. L. 98–459, title II][/us/pl/98/459/tII], § 201, Oct. 9, 1984, [98 Stat. 1767][/us/stat/98/1767]; [Pub. L. 100–175, title I][/us/pl/100/175/tI], §§ 102, 107(a), 182(c), Nov. 29, 1987, [101 Stat. 928][/us/stat/101/928], 931, 964; [Pub. L. 102–375, title I][/us/pl/102/375/tI], § 102(b)(1)(A), (2), title II, § 201, title IX, § 904(a)(3), Sept. 30, 1992, [106 Stat. 1200][/us/stat/106/1200], 1201, 1202, 1306; [Pub. L. 103–171][/us/pl/103/171], § 3(a)(2), Dec. 2, 1993, [107 Stat. 1989][/us/stat/107/1989]; [Pub. L. 106–501, title VIII][/us/pl/106/501/tVIII], § 801(b)(1), Nov. 13, 2000, [114 Stat. 2291][/us/stat/114/2291]; [Pub. L. 109–365, title II][/us/pl/109/365/tII], § 201, Oct. 17, 2006, [120 Stat. 2527][/us/stat/120/2527]; [Pub. L. 114–144][/us/pl/114/144], §§ 3(a), 9(2), Apr. 19, 2016, [130 Stat. 335][/us/stat/130/335], 352.)
 
  __Amendments__ 
+
+    2016—Subsec. (d)(3)(H). [Pub. L. 114–144][/us/pl/114/144], § 3(a)(1)(A), substituted “3012(a)(18)” for “3012(a)(21)”.
+
+    Subsec. (d)(3)(L). [Pub. L. 114–144][/us/pl/114/144], § 3(a)(1)(C), substituted “April 19, 2016” for “September 30, 1992” and “3058g(h)(5) of this title; and” for “3058g(h)(4) of this title.”
+
+    Subsec. (d)(3)(M). [Pub. L. 114–144][/us/pl/114/144], § 3(a)(1)(B), (D), added subpar. (M).
+
+    Subsec. (e)(2). [Pub. L. 114–144][/us/pl/114/144], § 3(a)(2), inserted “, and in coordination with the heads of State adult protective services programs and the Director of the Office of Long-Term Care Ombudsman Programs” after “and services”.
+
+    Subsec. (f)(1). [Pub. L. 114–144][/us/pl/114/144], § 9(2), inserted “and behavioral” after “mental”.
 
     2006—Subsecs. (e), (f). [Pub. L. 109–365][/us/pl/109/365] added subsecs. (e) and (f).
 
@@ -286,9 +294,10 @@
 [/us/usc/t42/s3027/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3027%2Fa
 [/us/usc/t42/s3027/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3027%2Fa%2F9
 [/us/usc/t42/s3058g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3058g
+[/us/usc/t42/s3012/a/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3012%2Fa%2F18
 [/us/usc/t42/s3027/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3027%2Fa%2F9
 [/us/usc/t42/s3058g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3058g
-[/us/usc/t42/s3058g/h/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3058g%2Fh%2F4
+[/us/usc/t42/s3058g/h/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3058g%2Fh%2F5
 [/us/usc/t42/s3058aa–1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3058aa%E2%80%931%2Fb
 [/us/usc/t42/s3058aa–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3058aa%E2%80%931
 [/us/pl/89/73/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73%2FtII
@@ -311,10 +320,13 @@
 [/us/stat/114/2291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2291
 [/us/pl/109/365/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365%2FtII
 [/us/stat/120/2527]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2527
-[/us/usc/t42/s3012/a/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3012%2Fa%2F21
-[/us/usc/t42/s3012/a/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3012%2Fa%2F18
-[/us/pl/106/501/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501%2FtII
-[/us/stat/114/2229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2229
+[/us/pl/114/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F144
+[/us/stat/130/335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F335
+[/us/pl/114/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F144
+[/us/pl/114/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F144
+[/us/pl/114/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F144
+[/us/pl/114/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F144
+[/us/pl/114/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F144
 [/us/pl/109/365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365
 [/us/pl/106/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501
 [/us/pl/103/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F171
