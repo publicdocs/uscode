@@ -57,11 +57,11 @@
 
  __1974__  __Adjustment in Compensation Not To Supersede Adjustments in Compensation or Limitations by President Pro Tempore of the Senate__ 
 
-    Adjustment in compensation by [Pub. L. 93–371][/us/pl/93/371] not to supersede order of President pro tempore of the Senate authorizing higher rate of compensation or any authority of the President pro tempore to adjust rates of compensation or limitations under section 4 of the Federal Pay Comparability Act of 1970, see [section 4 of Pub. L. 93–371][/us/pl/93/371/s4], set out in part as a note under [section 61a of this title][/us/usc/t2/s61a].
+    Adjustment in compensation by [Pub. L. 93–371][/us/pl/93/371] not to supersede order of President pro tempore of the Senate authorizing higher rate of compensation or any authority of the President pro tempore to adjust rates of compensation or limitations under section 4 of the Federal Pay Comparability Act of 1970, see [section 4 of Pub. L. 93–371][/us/pl/93/371/s4], set out in part as a note under [section 6531 of this title][/us/usc/t2/s6531].
 
  __Increases in Compensation__ 
 
-    Increases in compensation for officers and employees of the Senate under authority of the Federal Pay Comparability Act of 1970 ([Pub. L. 91–656][/us/pl/91/656]), see Salary Directives of the President pro tempore of the Senate, set out as notes under [section 60a–1 of this title][/us/usc/t2/s60a–1].
+    Increases in compensation for officers and employees of the Senate under authority of the Federal Pay Comparability Act of 1970 ([Pub. L. 91–656][/us/pl/91/656]), see Salary Directives of the President pro tempore of the Senate, set out as notes under [section 4571 of this title][/us/usc/t2/s4571].
 
 ----------
 
@@ -95,8 +95,8 @@
 [/us/stat/88/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F429
 [/us/pl/93/371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F371
 [/us/pl/93/371/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F371%2Fs4
-[/us/usc/t2/s61a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs61a
+[/us/usc/t2/s6531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs6531
 [/us/pl/91/656]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F656
-[/us/usc/t2/s60a–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs60a%E2%80%931
+[/us/usc/t2/s4571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs4571
 
 

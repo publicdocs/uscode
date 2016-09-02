@@ -227,7 +227,7 @@ The following acts have provided for funds for the operation of Congress:
 
  __Senate and House Committee Employees__ 
 
-    Senate and House committee employees, formerly provided for by this section, are covered by [section 72a of this title][/us/usc/t2/s72a].
+    Senate and House committee employees, formerly provided for by this section, are covered by [section 4301 of this title][/us/usc/t2/s4301].
 
 ----------
 
@@ -444,6 +444,6 @@ The following acts have provided for funds for the operation of Congress:
 [/us/stat/63/216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F216
 [/us/pl/96/508/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F508%2Fs10
 [/us/stat/94/2749]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2749
-[/us/usc/t2/s72a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs72a
+[/us/usc/t2/s4301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs4301
 
 

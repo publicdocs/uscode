@@ -11,13 +11,13 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t2/ch30/schII/m__us_usc_t2_s2025.md) | [Next](./../../../../..//us/usc/t2/ch30/schIII/m__us_usc_t2_s2041.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fch30%2FschIII)
+[Previous](./../../../../..//us/usc/t2/ch30/schII/m__us_usc_t2_s2026.md) | [Next](./../../../../..//us/usc/t2/ch30/schIII/m__us_usc_t2_s2041.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fch30%2FschIII)
 
 ### SUBCHAPTER III—RESTAURANTS
 
 ----------
 
-[Previous](./../../../../..//us/usc/t2/ch30/schII/m__us_usc_t2_s2025.md) | [Next](./../../../../..//us/usc/t2/ch30/schIII/m__us_usc_t2_s2041.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fch30%2FschIII)
+[Previous](./../../../../..//us/usc/t2/ch30/schII/m__us_usc_t2_s2026.md) | [Next](./../../../../..//us/usc/t2/ch30/schIII/m__us_usc_t2_s2041.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fch30%2FschIII)
 
 ----------
 ----------

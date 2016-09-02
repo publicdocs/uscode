@@ -29,7 +29,7 @@
 
  __Effective Date__ 
 
-    Section effective Jan. 3, 1947, see section 245 of act Aug. 2, 1946, set out as a note under [section 72a of this title][/us/usc/t2/s72a].
+    Section effective Jan. 3, 1947, see section 245 of act Aug. 2, 1946, set out as a note under [section 4301 of this title][/us/usc/t2/s4301].
 
  __Member of Committee With Respect to Financial Management and Budget and Program Development__ 
 
@@ -49,7 +49,7 @@
 [/us/pl/104/186/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2Fs205
 [/us/stat/110/1742]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1742
 [/us/pl/104/186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186
-[/us/usc/t2/s72a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs72a
+[/us/usc/t2/s4301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs4301
 [/us/pl/106/554/s1/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F4
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
 [/us/pl/109/13/s3402/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F13%2Fs3402%2Fa

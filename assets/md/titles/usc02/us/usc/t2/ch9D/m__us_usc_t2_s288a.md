@@ -39,7 +39,7 @@
 
  __References in Text__ 
 
-    This chapter, referred to in subsec. (b), was in the original “this title”, meaning title VII of [Pub. L. 95–521][/us/pl/95/521], which enacted this chapter, [section 118a of this title][/us/usc/t2/s118a], and [section 1364 of Title 28][/us/usc/t28/s1364], Judiciary and Judicial Procedure, and amended sections 3210, 3216, and 3219 of Title 39, Postal Service. For complete classification of title VII to the Code, see Tables.
+    This chapter, referred to in subsec. (b), was in the original “this title”, meaning title VII of [Pub. L. 95–521][/us/pl/95/521], which enacted this chapter, [section 5504 of this title][/us/usc/t2/s5504], and [section 1364 of Title 28][/us/usc/t28/s1364], Judiciary and Judicial Procedure, and amended sections 3210, 3216, and 3219 of Title 39, Postal Service. For complete classification of title VII to the Code, see Tables.
 
 ----------
 
@@ -51,7 +51,7 @@
 [/us/pl/95/521/s702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F521%2Fs702
 [/us/stat/92/1877]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1877
 [/us/pl/95/521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F521
-[/us/usc/t2/s118a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs118a
+[/us/usc/t2/s5504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs5504
 [/us/usc/t28/s1364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1364
 
 

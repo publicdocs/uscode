@@ -73,6 +73,24 @@
 
     Subsec. (c)(4). [Pub. L. 104–197, § 312(b)][/us/pl/104/197/s312/b], added par. (4).
 
+ __Application of Rights and Protections of Fair Labor Standards Act of 1938 to Congressional and Architect of the Capitol Employees__ 
+
+[Pub. L. 101–157, § 8][/us/pl/101/157/s8], Nov. 17, 1989, [103 Stat. 944][/us/stat/103/944], provided that:
+
+>     “(a) __House Employees.—__ 
+
+>         “(1)  __In general__  __.—__ 
+
+>         Not later than 180 days after the date the minimum wage rate prescribed by section 6(a)(1) of the Fair Labor Standards Act of 1938 ([29 U.S.C. 206(a)(1)][/us/usc/t29/s206/a/1]) is increased pursuant to the amendment made by section 2, the rights and protections under the Fair Labor Standards Act of 1938 ([29 U.S.C. 201][/us/usc/t29/s201] et seq.) shall apply with respect to any employee in an employment position in the House of Representatives and to any employing authority of the House of Representatives.
+
+>         “(2)  __Administration__  __.—__ 
+
+>         In the administration of this subsection, the remedies and procedures under the Fair Employment Practices Resolution shall be applied. As used in this paragraph, the term “Fair Employment Practices Resolution” means House Resolution 558, One Hundredth Congress, agreed to October 4, 1988, as continued in effect by House Resolution 15, One Hundred First Congress, agreed to January 3, 1989.
+
+>     “(b)  __Architect of the Capitol Employees__  __.—__ 
+
+>     Not later than 180 days after the date the minimum wage rate prescribed by section 6(a)(1) of the Fair Labor Standards Act of 1938 ([29 U.S.C. 206(a)(1)][/us/usc/t29/s206/a/1]) is increased pursuant to the amendment made by section 2, the rights and protections under the Fair Labor Standards Act of 1938 ([29 U.S.C. 201][/us/usc/t29/s201] et seq.) shall apply with respect to individuals employed under the Office of the Architect of the Capitol.”
+
 ----------
 
 [Previous](./../../../../../..//us/usc/t2/ch24/schII/ptA/m__us_usc_t2_s1312.md) | [Next](./../../../../../..//us/usc/t2/ch24/schII/ptA/m__us_usc_t2_s1314.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1313)
@@ -97,5 +115,11 @@
 [/us/usc/t29/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs203
 [/us/pl/104/197/s312/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F197%2Fs312%2Fa
 [/us/pl/104/197/s312/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F197%2Fs312%2Fb
+[/us/pl/101/157/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F157%2Fs8
+[/us/stat/103/944]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F944
+[/us/usc/t29/s206/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs206%2Fa%2F1
+[/us/usc/t29/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs201
+[/us/usc/t29/s206/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs206%2Fa%2F1
+[/us/usc/t29/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs201
 
 

@@ -35,7 +35,7 @@
 
  __References in Text__ 
 
-    This chapter, referred to in text, was in the original “this Act”, meaning [Pub. L. 88–652][/us/pl/88/652], Oct. 13, 1964, [78 Stat. 1079][/us/stat/78/1079], known as the House Employees Position Classification Act, which enacted this chapter and amended sections 88c and 123b of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 291 of this title][/us/usc/t2/s291] and Tables.
+    This chapter, referred to in text, was in the original “this Act”, meaning [Pub. L. 88–652][/us/pl/88/652], Oct. 13, 1964, [78 Stat. 1079][/us/stat/78/1079], known as the House Employees Position Classification Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 291 of this title][/us/usc/t2/s291] and Tables.
 
  __Amendments__ 
 
@@ -57,7 +57,7 @@
 
  __Increases in Compensation__ 
 
-    Increases in compensation for House officers and employees under authority of Federal Salary Act of 1967 ([Pub. L. 90–206][/us/pl/90/206]), Federal Pay Comparability Act of 1970 ([Pub. L. 91–656][/us/pl/91/656]), and Legislative Branch Appropriations Act, 1988 ([Pub. L. 100–202][/us/pl/100/202]), see sections 60a–2 and 60a–2a of this title, and Salary Directives of Speaker of the House, set out as notes under those sections.
+    Increases in compensation for House officers and employees under authority of Federal Salary Act of 1967 ([Pub. L. 90–206][/us/pl/90/206]), Federal Pay Comparability Act of 1970 ([Pub. L. 91–656][/us/pl/91/656]), and Legislative Branch Appropriations Act, 1988 ([Pub. L. 100–202][/us/pl/100/202]), see sections 4531 and 4532 of this title, and Salary Directives of Speaker of the House, set out as notes under those sections.
 
 §§ 293a to 293c. __Omitted__ 
 

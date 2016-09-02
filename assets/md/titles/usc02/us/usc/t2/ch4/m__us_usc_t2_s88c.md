@@ -19,7 +19,7 @@
 
  __Effective Date of Repeal__ 
 
-    Repeal effective immediately prior to noon on Jan. 3, 1971, see [section 601(1) of Pub. L. 91–510][/us/pl/91/510/s601/1], set out as an Effective Date of 1970 Amendment note under [section 72a of this title][/us/usc/t2/s72a].
+    Repeal effective immediately prior to noon on Jan. 3, 1971, see [section 601(1) of Pub. L. 91–510][/us/pl/91/510/s601/1], set out as an Effective Date of 1970 Amendment note under [section 4301 of this title][/us/usc/t2/s4301].
 
 ----------
 
@@ -37,6 +37,6 @@
 [/us/pl/88/652/s16/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F652%2Fs16%2Fb
 [/us/stat/78/1084]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F1084
 [/us/pl/91/510/s601/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F510%2Fs601%2F1
-[/us/usc/t2/s72a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs72a
+[/us/usc/t2/s4301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs4301
 
 

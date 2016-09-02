@@ -149,7 +149,7 @@
 
         The preview reports shall set forth, for the current year and the budget year, estimates for each of the following:
 
-            (A) The amount of net deficit increase or decrease, if any, calculated under sub[section 902(b) of this title][/us/usc/t2/s902/b].
+            (A) The amount of net deficit increase or decrease, if any, calculated under [section 902(b) of this title][/us/usc/t2/s902/b].
 
             (B) A list identifying each law enacted and sequestration implemented after November 5, 1990, included in the calculation of the amount of deficit increase or decrease and specifying the budgetary effect of each such law.
 
@@ -207,7 +207,7 @@
 
         (4) __Explanation of differences__ 
 
-            The OMB report shall explain any differences between OMB and CBO estimates of the amount of any net deficit change calculated under subsection  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “section”. </sup></sup>  902(b) of this title, any excess deficit, any breach, and any required sequestration percentage. The OMB report shall also explain differences in the amount of sequesterable  <sup>\[2\]</sup>  <sup><sup> 2 So in original. Probably should be “sequestrable”. </sup></sup>  resources for any budget account to be reduced if such difference is greater than $5,000,000.
+            The OMB report shall explain any differences between OMB and CBO estimates of the amount of any net deficit change calculated under [section 902(b) of this title][/us/usc/t2/s902/b], any excess deficit, any breach, and any required sequestration percentage. The OMB report shall also explain differences in the amount of sequesterable  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “sequestrable”. </sup></sup>  resources for any budget account to be reduced if such difference is greater than $5,000,000.
 
         (5) __Presidential order__ 
 
@@ -237,13 +237,17 @@
 
         In all reports required by this section, OMB shall use the same economic and technical assumptions as used in the most recent budget submitted by the President under [section 1105(a) of title 31][/us/usc/t31/s1105/a].
 
-([Pub. L. 99–177, title II, § 254][/us/pl/99/177/s254], Dec. 12, 1985, [99 Stat. 1078][/us/stat/99/1078]; [Pub. L. 100–119, title I][/us/pl/100/119], §§ 102(b)(1), 106(e)(2), Sept. 29, 1987, [101 Stat. 773][/us/stat/101/773], 781; [Pub. L. 101–508, title XIII, § 13101(a)][/us/pl/101/508/s13101/a], Nov. 5, 1990, [104 Stat. 1388–586][/us/stat/104/1388-586]; [Pub. L. 103–66, title XIV][/us/pl/103/66], §§ 14002(c)(2), 14003(b), Aug. 10, 1993, [107 Stat. 684][/us/stat/107/684], 685; [Pub. L. 103–322, title XXXI, § 310001(g)(2)][/us/pl/103/322/s310001/g/2], Sept. 13, 1994, [108 Stat. 2105][/us/stat/108/2105]; [Pub. L. 104–316, title I, § 102(d)][/us/pl/104/316/s102/d], Oct. 19, 1996, [110 Stat. 3828][/us/stat/110/3828]; [Pub. L. 105–33, title X, § 10206][/us/pl/105/33/s10206], Aug. 5, 1997, [111 Stat. 704][/us/stat/111/704]; [Pub. L. 112–25, title I, § 103][/us/pl/112/25/s103], Aug. 2, 2011, [125 Stat. 246][/us/stat/125/246].)
+([Pub. L. 99–177, title II, § 254][/us/pl/99/177/s254], Dec. 12, 1985, [99 Stat. 1078][/us/stat/99/1078]; [Pub. L. 100–119, title I][/us/pl/100/119], §§ 102(b)(1), 106(e)(2), Sept. 29, 1987, [101 Stat. 773][/us/stat/101/773], 781; [Pub. L. 101–508, title XIII, § 13101(a)][/us/pl/101/508/s13101/a], Nov. 5, 1990, [104 Stat. 1388–586][/us/stat/104/1388-586]; [Pub. L. 103–66, title XIV][/us/pl/103/66], §§ 14002(c)(2), 14003(b), Aug. 10, 1993, [107 Stat. 684][/us/stat/107/684], 685; [Pub. L. 103–322, title XXXI, § 310001(g)(2)][/us/pl/103/322/s310001/g/2], Sept. 13, 1994, [108 Stat. 2105][/us/stat/108/2105]; [Pub. L. 104–316, title I, § 102(d)][/us/pl/104/316/s102/d], Oct. 19, 1996, [110 Stat. 3828][/us/stat/110/3828]; [Pub. L. 105–33, title X, § 10206][/us/pl/105/33/s10206], Aug. 5, 1997, [111 Stat. 704][/us/stat/111/704]; [Pub. L. 112–25, title I, § 103][/us/pl/112/25/s103], Aug. 2, 2011, [125 Stat. 246][/us/stat/125/246]; [Pub. L. 113–67, div. A, title I, § 121(3)][/us/pl/113/67/s121/3], (4), Dec. 26, 2013, [127 Stat. 1175][/us/stat/127/1175].)
 
  __Codification__ 
 
     November 5, 1990, referred to in subsec. (c)(3)(B), was in the original “the date of enactment of this section”, which was translated as meaning the date of enactment of [Pub. L. 101–508][/us/pl/101/508], which amended this section generally, to reflect the probable intent of Congress.
 
  __Amendments__ 
+
+    2013—Subsec. (c)(3)(A). [Pub. L. 113–67, § 121(3)][/us/pl/113/67/s121/3], substituted “section 902(b)” for “subsection 902(b)”.
+
+    Subsec. (f)(4). [Pub. L. 113–67, § 121(4)][/us/pl/113/67/s121/4], substituted “section 902(b)” for “subsection 902(b)”.
 
     2011—Subsec. (c)(2). [Pub. L. 112–25, § 103(1)][/us/pl/112/25/s103/1], substituted “2021” for “2002”.
 
@@ -349,7 +353,7 @@ By the authority vested in me as President by the statutes of the United States 
 
     (1) Budgetary resources for each non-exempt account within the international category of discretionary spending shall be reduced as specified by the Director of the Office of Management and Budget in his report of November 9, 1990.
 
-    (2) Pursuant to sections 250(c)(6) and 251 \[[2 U.S.C. 900(c)(6)][/us/usc/t2/s900/c/6], 901\], budgetary resources subject to sequestration shall be new budget authority; new loan guarantee commitments or limitations; new direct loan obligations, commitments, or limitations; and obligation limitations.
+    (2) Pursuant to sections 250(c)(6) and 251 \[former [2 U.S.C. 900(c)(6)][/us/usc/t2/s900/c/6], [2 U.S.C. 901][/us/usc/t2/s901]\], budgetary resources subject to sequestration shall be new budget authority; new loan guarantee commitments or limitations; new direct loan obligations, commitments, or limitations; and obligation limitations.
 
     (3) For accounts making commitments for guaranteed loans as authorized by substantive law, the head of each Department or agency is directed to reduce the level of such commitments or obligations to the extent necessary to conform to the limitations established by the Act \[[Pub. L. 99–177, title II][/us/pl/99/177], see Short Title note set out under [2 U.S.C. 900][/us/usc/t2/s900]\] and specified by the Director of the Office of Management and Budget in his report of November 9, 1990.
 
@@ -480,6 +484,7 @@ By the authority vested in me as President by the statutes of the United States 
 [/us/usc/t2/s903/g/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs903%2Fg%2F1%2FB
 [/us/usc/t2/s905/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs905%2Ff
 [/us/usc/t2/s901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs901
+[/us/usc/t2/s902/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs902%2Fb
 [/us/usc/t31/s1105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105%2Fa
 [/us/pl/99/177/s254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F177%2Fs254
 [/us/stat/99/1078]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1078
@@ -497,7 +502,11 @@ By the authority vested in me as President by the statutes of the United States 
 [/us/stat/111/704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F704
 [/us/pl/112/25/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F25%2Fs103
 [/us/stat/125/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F246
+[/us/pl/113/67/s121/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs121%2F3
+[/us/stat/127/1175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1175
 [/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
+[/us/pl/113/67/s121/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs121%2F3
+[/us/pl/113/67/s121/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs121%2F4
 [/us/pl/112/25/s103/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F25%2Fs103%2F1
 [/us/pl/112/25/s103/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F25%2Fs103%2F2
 [/us/pl/112/25/s103/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F25%2Fs103%2F3
@@ -551,6 +560,7 @@ By the authority vested in me as President by the statutes of the United States 
 [/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
 [/us/usc/t2/s901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs901
 [/us/usc/t2/s900/c/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs900%2Fc%2F6
+[/us/usc/t2/s901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs901
 [/us/pl/99/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F177
 [/us/usc/t2/s900]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs900
 [/us/pl/99/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F177

@@ -13,15 +13,11 @@
 
 [Previous](./../../../..//us/usc/t2/ch3/m__us_usc_t2_s39.md) | [Next](./../../../..//us/usc/t2/ch3/m__us_usc_t2_s40a.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs40)
 
-## § 40. Deductions for withdrawal
-
-    When any Member or Delegate withdraws from his seat and does not return before the adjournment of Congress, he shall, in addition to the sum deducted for each day, forfeit a sum equal to the amount which would have been allowed by law for his mileage in returning home; and such sum shall be deducted from his compensation, unless the withdrawal is with the leave of the Senate or House of Representatives respectively.
-
-(R.S. § 41.)
+## § 40. Transferred
 
  __Codification__ 
 
-    R.S. § 41 derived from Res. July 17, 1862, No. 68, § 2, [12 Stat. 628][/us/stat/12/628].
+    Section 40 was editorially reclassified as [section 4522 of this title][/us/usc/t2/s4522].
 
 ----------
 
@@ -30,6 +26,6 @@
 ----------
 ----------
 
-[/us/stat/12/628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F12%2F628
+[/us/usc/t2/s4522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs4522
 
 

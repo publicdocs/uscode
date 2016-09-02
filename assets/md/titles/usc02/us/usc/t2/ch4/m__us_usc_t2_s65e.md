@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-    Section, [Pub. L. 98–63, title I][/us/pl/98/63], July 30, 1983, [97 Stat. 333][/us/stat/97/333], which provided that effective with fiscal year 1983 and each fiscal year thereafter, the expense allowance of Majority and Minority Whips of Senate could not exceed $5,000 each fiscal year for each Whip, was transferred and executed to [section 31a–1 of this title][/us/usc/t2/s31a–1].
+    Section, [Pub. L. 98–63, title I][/us/pl/98/63], July 30, 1983, [97 Stat. 333][/us/stat/97/333], which provided that effective with fiscal year 1983 and each fiscal year thereafter, the expense allowance of Majority and Minority Whips of Senate could not exceed $5,000 each fiscal year for each Whip, was transferred and executed to [section 31a–1 of this title][/us/usc/t2/s31a–1]. That section was editorially reclassified as [section 6102 of this title][/us/usc/t2/s6102].
 
 ----------
 
@@ -29,5 +29,6 @@
 [/us/pl/98/63]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F63
 [/us/stat/97/333]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F333
 [/us/usc/t2/s31a–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs31a%E2%80%931
+[/us/usc/t2/s6102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs6102
 
 

@@ -109,7 +109,7 @@
 
 [Pub. L. 104–53, title III, § 309(c)][/us/pl/104/53/s309/c], Nov. 19, 1995, [109 Stat. 538][/us/stat/109/538], provided that: 
 
-> “The amendments made by this section \[amending this section\] shall take effect only if the Administrative Conference of the United States ceases to exist prior to the completion and submission of the study to the Board as required by section 230 of the Congressional Accountability Act of 1995 ([2 U.S.C. 1371][/us/usc/t2/s1371]). \[See provision of title II of [Pub. L. 104–52][/us/pl/104/52], set out as a note preceding [section 591 of Title 5][/us/usc/t5/s591], Government Organization and Employees.\]”
+> “The amendments made by this section \[amending this section\] shall take effect only if the Administrative Conference of the United States ceases to exist prior to the completion and submission of the study to the Board as required by section 230 of the Congressional Accountability Act of 1995 ([2 U.S.C. 1371][/us/usc/t2/s1371]). \[See provision of title IV of [Pub. L. 104–52][/us/pl/104/52], set out as a note preceding [section 591 of Title 5][/us/usc/t5/s591], Government Organization and Employees.\]”
 
 ----------
 

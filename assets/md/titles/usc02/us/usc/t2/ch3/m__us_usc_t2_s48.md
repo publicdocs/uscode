@@ -13,23 +13,11 @@
 
 [Previous](./../../../..//us/usc/t2/ch3/m__us_usc_t2_s47.md) | [Next](./../../../..//us/usc/t2/ch3/m__us_usc_t2_s49.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs48)
 
-## § 48. Certification of salary and mileage accounts
-
-    Salary and mileage accounts of Representatives and Delegates shall be certified by the Speaker of the House of Representatives; and such certificates shall be conclusive upon all the departments and officers of the Government.
-
-(R.S. §§ 47, 48; [July 28, 1866, ch. 296, § 17][/us/act/1866-07-28/ch296/s17], [14 Stat. 323][/us/stat/14/323]; [Jan. 20, 1874, ch. 11][/us/act/1874-01-20/ch11], [18 Stat. 4][/us/stat/18/4]; [Pub. L. 108–447, div. G, title I, § 11][/us/pl/108/447/s11], Dec. 8, 2004, [118 Stat. 3171][/us/stat/118/3171].)
+## § 48. Transferred
 
  __Codification__ 
 
-    R.S. § 47 derived from acts [July 28, 1866, ch. 296, § 17][/us/act/1866-07-28/ch296/s17], [14 Stat. 323][/us/stat/14/323], and [Jan. 22, 1818, ch. 5, § 3][/us/act/1818-01-22/ch5/s3], [3 Stat. 404][/us/stat/3/404].
-
-    R.S. § 48 derived from [act Sept. 30, 1850, ch. 90, § 1][/us/act/1850-09-30/ch90/s1], [9 Stat. 523][/us/stat/9/523].
-
-    R.S. § 47 constitutes first clause and R.S. § 48 constitutes remainder.
-
- __Amendments__ 
-
-    2004—[Pub. L. 108–447][/us/pl/108/447] substituted “of Representatives and Delegates shall be certified” for “of Senators shall be certified by the President of the Senate, and those of Representatives and Delegates”.
+    Section 48 was editorially reclassified as [section 5307 of this title][/us/usc/t2/s5307].
 
 ----------
 
@@ -38,18 +26,6 @@
 ----------
 ----------
 
-[/us/act/1866-07-28/ch296/s17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1866-07-28%2Fch296%2Fs17
-[/us/stat/14/323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F14%2F323
-[/us/act/1874-01-20/ch11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1874-01-20%2Fch11
-[/us/stat/18/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F18%2F4
-[/us/pl/108/447/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs11
-[/us/stat/118/3171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3171
-[/us/act/1866-07-28/ch296/s17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1866-07-28%2Fch296%2Fs17
-[/us/stat/14/323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F14%2F323
-[/us/act/1818-01-22/ch5/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1818-01-22%2Fch5%2Fs3
-[/us/stat/3/404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F3%2F404
-[/us/act/1850-09-30/ch90/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1850-09-30%2Fch90%2Fs1
-[/us/stat/9/523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F9%2F523
-[/us/pl/108/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447
+[/us/usc/t2/s5307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs5307
 
 

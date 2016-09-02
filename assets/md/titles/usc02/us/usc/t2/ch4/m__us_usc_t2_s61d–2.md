@@ -13,11 +13,11 @@
 
 [Previous](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s61d–1.md) | [Next](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s61d–3.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs61d%E2%80%932)
 
-## § 61d–2. Postage allowance for Chaplain of Senate
+## § 61d–2. Transferred
 
-    The Secretary of the Senate is authorized and directed to procure and furnish each fiscal year (commencing with the fiscal year ending September 30, 1982) to the Chaplain of the Senate, upon the request of the Chaplain of the Senate, United States postage stamps in such amounts as may be necessary for the mailing of postal matters arising in connection with his official business.
+ __Codification__ 
 
-([Pub. L. 97–51, § 127(b)(1)][/us/pl/97/51/s127/b/1], Oct. 1, 1981, [95 Stat. 966][/us/stat/95/966].)
+    Section 61d–2 was editorially reclassified as [section 6653 of this title][/us/usc/t2/s6653].
 
  __Prior Provisions__ 
 
@@ -30,8 +30,7 @@
 ----------
 ----------
 
-[/us/pl/97/51/s127/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F51%2Fs127%2Fb%2F1
-[/us/stat/95/966]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F966
+[/us/usc/t2/s6653]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs6653
 [/us/pl/94/303/s114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F303%2Fs114
 [/us/stat/90/614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F614
 [/us/pl/97/51/s127/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F51%2Fs127%2Fb%2F2

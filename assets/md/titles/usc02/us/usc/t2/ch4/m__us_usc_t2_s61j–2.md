@@ -13,19 +13,11 @@
 
 [Previous](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s61h–7.md) | [Next](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s61k.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs61j%E2%80%932)
 
-## § 61j–2. Compensation and appointment of employees by Senate Majority and Minority Whips
-
-    Effective April 1, 1977, the Majority Whip and the Minority Whip are each authorized to appoint and fix the compensation of such employees as they deem appropriate: Provided, That the gross compensation paid to such employees shall not exceed $111,100 each fiscal year for each Whip.
-
-([Pub. L. 95–26, title I][/us/pl/95/26], May 4, 1977, [91 Stat. 80][/us/stat/91/80].)
+## § 61j–2. Transferred
 
  __Codification__ 
 
-    Section is from the Supplemental Appropriations Act, 1977.
-
- __Increases in Compensation__ 
-
-    Increases in compensation for Senate officers and employees under authority of Federal Pay Comparability Act of 1970 ([Pub. L. 91–656][/us/pl/91/656]), see Salary Directives of President pro tempore of the Senate, set out as notes under [section 60a–1 of this title][/us/usc/t2/s60a–1].
+    Section 61j–2 was editorially reclassified as [section 6134 of this title][/us/usc/t2/s6134].
 
 ----------
 
@@ -34,9 +26,6 @@
 ----------
 ----------
 
-[/us/pl/95/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F26
-[/us/stat/91/80]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F80
-[/us/pl/91/656]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F656
-[/us/usc/t2/s60a–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs60a%E2%80%931
+[/us/usc/t2/s6134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs6134
 
 

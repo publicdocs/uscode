@@ -133,7 +133,7 @@
 
  __Exercise of Congressional Rulemaking Power__ 
 
-[Pub. L. 93–344, title IX, § 904][/us/pl/93/344/s904], July 12, 1974, [88 Stat. 331][/us/stat/88/331], as amended by [Pub. L. 99–177, title II, § 271(a)][/us/pl/99/177/s271/a], Dec. 12, 1985, [99 Stat. 1094][/us/stat/99/1094]; [Pub. L. 101–508, title XIII][/us/pl/101/508], §§ 13112(a)(11), 13208(a), Nov. 5, 1990, [104 Stat. 1388–608][/us/stat/104/1388-608], 1388–619; [Pub. L. 104–130, § 4(c)][/us/pl/104/130/s4/c], Apr. 9, 1996, [110 Stat. 1212][/us/stat/110/1212]; [Pub. L. 105–33, title X, § 10119][/us/pl/105/33/s10119], Aug. 5, 1997, [111 Stat. 695][/us/stat/111/695]; [Pub. L. 112–25, title I, § 105(c)][/us/pl/112/25/s105/c], Aug. 2, 2011, [125 Stat. 247][/us/stat/125/247], provided that:
+[Pub. L. 93–344, title IX, § 904][/us/pl/93/344/s904], July 12, 1974, [88 Stat. 331][/us/stat/88/331], as amended by [Pub. L. 99–177, title II, § 271(a)][/us/pl/99/177/s271/a], Dec. 12, 1985, [99 Stat. 1094][/us/stat/99/1094]; [Pub. L. 101–508, title XIII][/us/pl/101/508], §§ 13112(a)(11), 13208(a), Nov. 5, 1990, [104 Stat. 1388–608][/us/stat/104/1388-608], 1388–619; [Pub. L. 104–130, § 4(c)][/us/pl/104/130/s4/c], Apr. 9, 1996, [110 Stat. 1212][/us/stat/110/1212]; [Pub. L. 105–33, title X, § 10119][/us/pl/105/33/s10119], Aug. 5, 1997, [111 Stat. 695][/us/stat/111/695]; [Pub. L. 112–25, title I, § 105(c)][/us/pl/112/25/s105/c], Aug. 2, 2011, [125 Stat. 247][/us/stat/125/247]; [Pub. L. 113–67, div. A, title I, § 122(16)][/us/pl/113/67/s122/16], (17), Dec. 26, 2013, [127 Stat. 1176][/us/stat/127/1176], provided that:
 
 >     “(a)
 
@@ -153,7 +153,7 @@
 
 >         “(2)  __Temporary__  __.—__ 
 
->         Sections 301(i), 302(c), 302(f), 310(g), 311(a), 312(b), 312(c), and 314(e) of this Act \[sections 632(i), 633(c), (f), 641(g), 642(a), 643(b), (c), and 645(e) of this title\] and sections 258(a)(4)(C), 258A(b)(3)(C)(I) \[(i)\], 258B(f)(1), 258B(h)(1), 258(h)(3) \[258B(h)(3)\], 258C(a)(5), and 258C(b)(1) of the Balanced Budget and Emergency Deficit Control Act of 1985 \[sections 907a(a)(4)(C), 907b(b)(3)(C)(i), 907c(f)(1), (h)(1), (3), and 907d(a)(5), (b)(1) of this title\] may be waived or suspended in the Senate only by the affirmative vote of three-fifths of the Members, duly chosen and sworn.
+>         Sections 301(i), 302(c), 302(f), 310(g), 311(a), 312(b), 312(c), 314(e), and 314(f) of this Act \[sections 632(i), 633(c), (f), 641(g), 642(a), 643(b), (c), and 645(e), (f) of this title\] and sections 258(a)(4)(C), 258A(b)(3)(C)(i), 258B(f)(1), 258B(h)(1), 258B(h)(3), 258C(a)(5), and 258C(b)(1) of the Balanced Budget and Emergency Deficit Control Act of 1985 \[sections 907a(a)(4)(C), 907b(b)(3)(C)(i), 907c(f)(1), (h)(1), (3), and 907d(a)(5), (b)(1) of this title\] may be waived or suspended in the Senate only by the affirmative vote of three-fifths of the Members, duly chosen and sworn.
 
 >     “(d) __Appeals.—__ 
 
@@ -167,7 +167,7 @@
 
 >         “(3)  __Temporary__  __.—__ 
 
->         An affirmative vote of three-fifths of the Members, duly chosen and sworn, shall be required in the Senate to sustain an appeal of the ruling of the Chair on a point of order raised under sections 301(i), 302(c), 302(f), 310(g), 311(a), 312(b), and 312(c) of this Act and sections 258(a)(4)(C), 258A(b)(3)(C)(I) \[(i)\], 258B(f)(1), 258B(h)(1), 258(h)(3) \[258B(h)(3)\], 258C(a)(5), and 258C(b)(1) of the Balanced Budget and Emergency Deficit Control Act of 1985.
+>         An affirmative vote of three-fifths of the Members, duly chosen and sworn, shall be required in the Senate to sustain an appeal of the ruling of the Chair on a point of order raised under sections 301(i), 302(c), 302(f), 310(g), 311(a), 312(b), 312(c), 314(e), and 314(f) of this Act and sections 258(a)(4)(C), 258A(b)(3)(C)(i), 258B(f)(1), 258B(h)(1), 258B(h)(3), 258C(a)(5), and 258C(b)(1) of the Balanced Budget and Emergency Deficit Control Act of 1985.
 
 >     “(e)  __Expiration of Certain Supermajority Voting Requirements__  __.—__ 
 
@@ -233,6 +233,8 @@
 [/us/stat/111/695]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F695
 [/us/pl/112/25/s105/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F25%2Fs105%2Fc
 [/us/stat/125/247]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F247
+[/us/pl/113/67/s122/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs122%2F16
+[/us/stat/127/1176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1176
 [/us/usc/t2/s688]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs688
 [/us/pl/93/344/s904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F344%2Fs904
 [/us/pl/104/130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F130

@@ -291,7 +291,7 @@ SUBCHAPTER I—DISCLOSURE OF FEDERAL CAMPAIGN FUNDS  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs442" data-uslm-ref="/us/usc/t2/s442">442.</a>  </td>
 
-    <td> Authority to procure technical support and other services and incur travel expenses; payment of such expenses.  </td>
+    <td> Transferred.  </td>
 
   </tr>
 

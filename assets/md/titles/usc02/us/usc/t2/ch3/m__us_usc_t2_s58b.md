@@ -15,7 +15,7 @@
 
 ## § 58b. Repealed. [Pub. L. 100–137, § 2][/us/pl/100/137/s2], Oct. 21, 1987, [101 Stat. 819][/us/stat/101/819]
 
-    Section, [Pub. L. 97–12, title I, § 110][/us/pl/97/12/s110], June 5, 1981, [95 Stat. 62][/us/stat/95/62]; [Pub. L. 97–51, § 125][/us/pl/97/51/s125], Oct. 1, 1981, [95 Stat. 965][/us/stat/95/965]; [Pub. L. 98–367, title I, § 11(a)][/us/pl/98/367/s11/a], July 17, 1984, [98 Stat. 476][/us/stat/98/476]; [Pub. L. 99–349, title I, § 2(a)][/us/pl/99/349/s2/a], (b), July 2, 1986, [100 Stat. 741][/us/stat/100/741], 742, provided for transfer to a Senator’s Official Office Expense Account of that Senator’s clerk hire allowance funds remaining at end of fiscal year. See [section 58c of this title][/us/usc/t2/s58c].
+    Section, [Pub. L. 97–12, title I, § 110][/us/pl/97/12/s110], June 5, 1981, [95 Stat. 62][/us/stat/95/62]; [Pub. L. 97–51, § 125][/us/pl/97/51/s125], Oct. 1, 1981, [95 Stat. 965][/us/stat/95/965]; [Pub. L. 98–367, title I, § 11(a)][/us/pl/98/367/s11/a], July 17, 1984, [98 Stat. 476][/us/stat/98/476]; [Pub. L. 99–349, title I, § 2(a)][/us/pl/99/349/s2/a], (b), July 2, 1986, [100 Stat. 741][/us/stat/100/741], 742, provided for transfer to a Senator’s Official Office Expense Account of that Senator’s clerk hire allowance funds remaining at end of fiscal year. See [section 6313 of this title][/us/usc/t2/s6313].
 
  __Effective Date of Repeal__ 
 
@@ -38,7 +38,7 @@
 [/us/stat/98/476]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F476
 [/us/pl/99/349/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F349%2Fs2%2Fa
 [/us/stat/100/741]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F741
-[/us/usc/t2/s58c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs58c
+[/us/usc/t2/s6313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs6313
 [/us/pl/100/137/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F137%2Fs2
 [/us/stat/101/819]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F819
 

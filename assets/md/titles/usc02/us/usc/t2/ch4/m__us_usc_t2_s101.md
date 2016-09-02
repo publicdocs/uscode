@@ -13,11 +13,11 @@
 
 [Previous](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s95e.md) | [Next](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s102.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs101)
 
-## § 101. Subletting duties of employees of Senate or House
+## § 101. Transferred
 
-    No employee of Congress, either in the Senate or House, shall sublet to, or hire, another to do or perform any part of the duties or work attached to the position to which he was appointed.
+ __Codification__ 
 
-([Mar. 2, 1895, ch. 177, § 1][/us/act/1895-03-02/ch177/s1], [28 Stat. 771][/us/stat/28/771].)
+    Section 101 was editorially reclassified as [section 4701 of this title][/us/usc/t2/s4701].
 
 ----------
 
@@ -26,7 +26,6 @@
 ----------
 ----------
 
-[/us/act/1895-03-02/ch177/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1895-03-02%2Fch177%2Fs1
-[/us/stat/28/771]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F28%2F771
+[/us/usc/t2/s4701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs4701
 
 

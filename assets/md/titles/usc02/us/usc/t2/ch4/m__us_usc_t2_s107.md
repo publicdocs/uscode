@@ -13,15 +13,11 @@
 
 [Previous](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s106.md) | [Next](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s108.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs107)
 
-## § 107. Opening bids for Senate and House stationery; awarding contracts
-
-    All such proposals shall be kept sealed until the day specified in such advertisement for opening the same, when the same shall be opened in the presence of at least two persons, and the contract shall be given to the lowest bidder, provided he shall give satisfactory security to perform the same, under a forfeiture not exceeding double the contract price in case of failure; and in case the lowest bidder shall fail to enter into such contract and give such security, within a time to be fixed in such advertisement, then the contract shall be given to the next lowest bidder, who shall enter into such contract, and give such security. And in case of failure by the person entering into such contract to perform the same, he and his sureties shall be liable for the forfeiture specified in such contract, as liquidated damages, to be sued for in the name of the United States.
-
-(R.S. § 67; [Feb. 18, 1875, ch. 80, § 1][/us/act/1875-02-18/ch80/s1], [18 Stat. 316][/us/stat/18/316].)
+## § 107. Transferred
 
  __Codification__ 
 
-    R.S. § 67 derived from Res. Mar. 3, 1815, No. 11, [3 Stat. 249][/us/stat/3/249].
+    Section 107 was editorially reclassified as [section 6570 of this title][/us/usc/t2/s6570].
 
 ----------
 
@@ -30,8 +26,6 @@
 ----------
 ----------
 
-[/us/act/1875-02-18/ch80/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1875-02-18%2Fch80%2Fs1
-[/us/stat/18/316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F18%2F316
-[/us/stat/3/249]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F3%2F249
+[/us/usc/t2/s6570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs6570
 
 

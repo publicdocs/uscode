@@ -21,7 +21,7 @@
 
  __Effective Date__ 
 
-    Subchapter effective Oct. 26, 1970, see [section 601(5) of Pub. L. 91–510][/us/pl/91/510/s601/5], set out as an Effective Date of 1970 Amendment note under [section 72a of this title][/us/usc/t2/s72a].
+    Subchapter effective Oct. 26, 1970, see [section 601(5) of Pub. L. 91–510][/us/pl/91/510/s601/5], set out as an Effective Date of 1970 Amendment note under [section 4301 of this title][/us/usc/t2/s4301].
 
  __Transfer of Functions; Nonapplicability of Sections 271 to 277 to the House__ 
 
@@ -39,7 +39,7 @@
 [/us/pl/91/510/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F510%2Fs501
 [/us/stat/84/1201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1201
 [/us/pl/91/510/s601/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F510%2Fs601%2F5
-[/us/usc/t2/s72a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs72a
+[/us/usc/t2/s4301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs4301
 [/us/pl/91/510/s531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F510%2Fs531
 [/us/stat/84/1203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1203
 

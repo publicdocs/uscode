@@ -13,29 +13,11 @@
 
 [Previous](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s74a–10.md) | [Next](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s74a–10b.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs74a%E2%80%9310a)
 
-## § 74a–10a. Lump-sum allowances for House Majority Floor Leader, Minority Floor Leader, Majority Whip, and Minority Whip
-
-    (a)
-
-     Effective with respect to fiscal year 2008 and each succeeding fiscal year, the aggregate amount otherwise authorized to be appropriated for a fiscal year for the lump-sum allowance for each of the following offices is increased as follows:
-
-        (1) The allowance for the office of the Majority Floor Leader is increased by $200,000.
-
-        (2) The allowance for the office of the Minority Floor Leader is increased by $200,000.
-
-    (b)
-
-     Effective with respect to fiscal year 2009 and each succeeding fiscal year, the aggregate amount otherwise authorized to be appropriated for a fiscal year for the lump-sum allowance for each of the following offices is increased as follows:
-
-        (1) The allowance for the office of the Majority Whip is increased by $72,000.
-
-        (2) The allowance for the office of the Minority Whip is increased by $72,000.
-
-([Pub. L. 111–8, div. G, title I, § 104][/us/pl/111/8/s104], Mar. 11, 2009, [123 Stat. 818][/us/stat/123/818].)
+## § 74a–10a. Transferred
 
  __Codification__ 
 
-    Section is from the Legislative Branch Appropriations Act, 2009, which is div. G of the Omnibus Appropriations Act, 2009.
+    Section 74a–10a was editorially reclassified as [section 5145 of this title][/us/usc/t2/s5145].
 
 ----------
 
@@ -44,7 +26,6 @@
 ----------
 ----------
 
-[/us/pl/111/8/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F8%2Fs104
-[/us/stat/123/818]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F818
+[/us/usc/t2/s5145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs5145
 
 

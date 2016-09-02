@@ -29,11 +29,11 @@
 
         (5) the public debt;
 
-        (6) For  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should not be capitalized. </sup></sup>  purposes of Senate enforcement under this subchapter, outlays of the old-age, survivors, and disability insurance program established under title II of the Social Security Act \[[42 U.S.C. 401][/us/usc/t42/s401] et seq.\] for the fiscal year of the resolution and for each of the 4 succeeding fiscal years; and
+        (6) for purposes of Senate enforcement under this subchapter, outlays of the old-age, survivors, and disability insurance program established under title II of the Social Security Act \[[42 U.S.C. 401][/us/usc/t42/s401] et seq.\] for the fiscal year of the resolution and for each of the 4 succeeding fiscal years; and
 
-        (7) For 1 purposes of Senate enforcement under this subchapter, revenues of the old-age, survivors, and disability insurance program established under title II of the Social Security Act (and the related provisions of the Internal Revenue Code of 1986 \[[26 U.S.C. 1][/us/usc/t26/s1] et seq.\]) for the fiscal year of the resolution and for each of the 4 succeeding fiscal years.
+        (7) for purposes of Senate enforcement under this subchapter, revenues of the old-age, survivors, and disability insurance program established under title II of the Social Security Act (and the related provisions of the Internal Revenue Code of 1986 \[[26 U.S.C. 1][/us/usc/t26/s1] et seq.\]) for the fiscal year of the resolution and for each of the 4 succeeding fiscal years.
 
-        The concurrent resolution shall not include the outlays and revenue totals of the old age, <sup>\[2\]</sup>  <sup><sup> 2 So in original. Probably should be “old-age,”. </sup></sup>  survivors, and disability insurance program established under title II of the Social Security Act or the related provisions of the Internal Revenue Code of 1986 in the surplus or deficit totals required by this subsection or in any other surplus or deficit totals required by this subchapter.
+        The concurrent resolution shall not include the outlays and revenue totals of the old-age, survivors, and disability insurance program established under title II of the Social Security Act or the related provisions of the Internal Revenue Code of 1986 in the surplus or deficit totals required by this subsection or in any other surplus or deficit totals required by this subchapter.
 
     (b) __Additional matters in concurrent resolution__ 
 
@@ -63,7 +63,7 @@
 
     (d) __Views and estimates of other committees__ 
 
-        Within 6 weeks after the President submits a budget under [section 1105(a) of title 31][/us/usc/t31/s1105/a], or at such time as may be requested by the Committee on the Budget, each committee of the House of Representatives having legislative jurisdiction shall submit to the Committee on the Budget of the House and each committee of the Senate having legislative jurisdiction shall submit to the Committee on the Budget of the Senate its views and estimates (as determined by the committee making such submission) with respect to all matters set forth in subsections (a) and (b) of this section which relate to matters within the jurisdiction or functions of such committee. The Joint Economic Committee shall submit to the Committees on the Budget of both Houses its recommendations as to the fiscal policy appropriate to the goals of the Employment Act of 1946 \[[15 U.S.C. 1021][/us/usc/t15/s1021] et seq.\]. Any other committee of the House of Representatives or the Senate may submit to the Committee on the Budget of its House, and any joint committee of the Congress may submit to the Committees on the Budget of both Houses, its views and estimates with respect to all matters set forth in subsections (a) and (b) of this section which relate to matters within its jurisdiction or functions. Any Committee  <sup>\[3\]</sup>  <sup><sup> 3 So in original. Probably should not be capitalized. </sup></sup>  of the House of Representatives or the Senate that anticipates that the committee will consider any proposed legislation establishing, amending, or reauthorizing any Federal program likely to have a significant budgetary impact on any State, local, or tribal government, or likely to have a significant financial impact on the private sector, including any legislative proposal submitted by the executive branch likely to have such a budgetary or financial impact, shall include its views and estimates on that proposal to the Committee on the Budget of the applicable House.
+        Within 6 weeks after the President submits a budget under [section 1105(a) of title 31][/us/usc/t31/s1105/a], or at such time as may be requested by the Committee on the Budget, each committee of the House of Representatives having legislative jurisdiction shall submit to the Committee on the Budget of the House and each committee of the Senate having legislative jurisdiction shall submit to the Committee on the Budget of the Senate its views and estimates (as determined by the committee making such submission) with respect to all matters set forth in subsections (a) and (b) of this section which relate to matters within the jurisdiction or functions of such committee. The Joint Economic Committee shall submit to the Committees on the Budget of both Houses its recommendations as to the fiscal policy appropriate to the goals of the Employment Act of 1946 \[[15 U.S.C. 1021][/us/usc/t15/s1021] et seq.\]. Any other committee of the House of Representatives or the Senate may submit to the Committee on the Budget of its House, and any joint committee of the Congress may submit to the Committees on the Budget of both Houses, its views and estimates with respect to all matters set forth in subsections (a) and (b) of this section which relate to matters within its jurisdiction or functions. Any Committee  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should not be capitalized. </sup></sup>  of the House of Representatives or the Senate that anticipates that the committee will consider any proposed legislation establishing, amending, or reauthorizing any Federal program likely to have a significant budgetary impact on any State, local, or tribal government, or likely to have a significant financial impact on the private sector, including any legislative proposal submitted by the executive branch likely to have such a budgetary or financial impact, shall include its views and estimates on that proposal to the Committee on the Budget of the applicable House.
 
     (e) __Hearings and report__ 
 
@@ -125,7 +125,7 @@
 
         It shall not be in order in the Senate to consider any concurrent resolution on the budget (or amendment, motion, or conference report on the resolution) that would decrease the excess of social security revenues over social security outlays in any of the fiscal years covered by the concurrent resolution. No change in chapter 1 of the Internal Revenue Code of 1986 \[[26 U.S.C. 1][/us/usc/t26/s1] et seq.\] shall be treated as affecting the amount of social security revenues unless such provision changes the income tax treatment of social security benefits.
 
-([Pub. L. 93–344, title III, § 301][/us/pl/93/344/s301], July 12, 1974, [88 Stat. 306][/us/stat/88/306]; [Pub. L. 95–523, title III][/us/pl/95/523], §§ 303(a), 304, Oct. 27, 1978, [92 Stat. 1905][/us/stat/92/1905], 1906; [Pub. L. 99–177, title II, § 201(b)][/us/pl/99/177/s201/b], Dec. 12, 1985, [99 Stat. 1040][/us/stat/99/1040]; [Pub. L. 100–119, title I, § 106(d)][/us/pl/100/119/s106/d], title II, § 208(a), Sept. 29, 1987, [101 Stat. 781][/us/stat/101/781], 786; [Pub. L. 100–418, title V, § 5302][/us/pl/100/418/s5302], Aug. 23, 1988, [102 Stat. 1462][/us/stat/102/1462]; [Pub. L. 101–508, title XIII][/us/pl/101/508], §§ 13112(a)(5), 13203, 13204, 13301(b), 13303(a), (b), Nov. 5, 1990, [104 Stat. 1388–608][/us/stat/104/1388-608], 1388–615, 1388–616, 1388–623, 1388–625; [Pub. L. 104–4, title I, § 102(2)][/us/pl/104/4/s102/2], Mar. 22, 1995, [109 Stat. 62][/us/stat/109/62]; [Pub. L. 105–33, title X, § 10105(a)][/us/pl/105/33/s10105/a]–(f)(1), Aug. 5, 1997, [111 Stat. 679][/us/stat/111/679], 680.)
+([Pub. L. 93–344, title III, § 301][/us/pl/93/344/s301], July 12, 1974, [88 Stat. 306][/us/stat/88/306]; [Pub. L. 95–523, title III][/us/pl/95/523], §§ 303(a), 304, Oct. 27, 1978, [92 Stat. 1905][/us/stat/92/1905], 1906; [Pub. L. 99–177, title II, § 201(b)][/us/pl/99/177/s201/b], Dec. 12, 1985, [99 Stat. 1040][/us/stat/99/1040]; [Pub. L. 100–119, title I, § 106(d)][/us/pl/100/119/s106/d], title II, § 208(a), Sept. 29, 1987, [101 Stat. 781][/us/stat/101/781], 786; [Pub. L. 100–418, title V, § 5302][/us/pl/100/418/s5302], Aug. 23, 1988, [102 Stat. 1462][/us/stat/102/1462]; [Pub. L. 101–508, title XIII][/us/pl/101/508], §§ 13112(a)(5), 13203, 13204, 13301(b), 13303(a), (b), Nov. 5, 1990, [104 Stat. 1388–608][/us/stat/104/1388-608], 1388–615, 1388–616, 1388–623, 1388–625; [Pub. L. 104–4, title I, § 102(2)][/us/pl/104/4/s102/2], Mar. 22, 1995, [109 Stat. 62][/us/stat/109/62]; [Pub. L. 105–33, title X, § 10105(a)][/us/pl/105/33/s10105/a]–(f)(1), Aug. 5, 1997, [111 Stat. 679][/us/stat/111/679], 680; [Pub. L. 113–67, div. A, title I, § 122(1)][/us/pl/113/67/s122/1], (2), Dec. 26, 2013, [127 Stat. 1175][/us/stat/127/1175].)
 
  __References in Text__ 
 
@@ -144,6 +144,10 @@
     Section was formerly classified to [section 1322 of Title 31][/us/usc/t31/s1322] prior to the general revision and enactment of Title 31, Money and Finance, by [Pub. L. 97–258, § 1][/us/pl/97/258/s1], Sept. 13, 1982, [96 Stat. 877][/us/stat/96/877].
 
  __Amendments__ 
+
+    2013—Subsec. (a). [Pub. L. 113–67, § 122(2)][/us/pl/113/67/s122/2], substituted “old-age” for “old age” in concluding provisions.
+
+    Subsec. (a)(6), (7). [Pub. L. 113–67, § 122(1)][/us/pl/113/67/s122/1], substituted “for purposes” for “For purposes”.
 
     1997—Subsec. (a). [Pub. L. 105–33, § 10105(a)][/us/pl/105/33/s10105/a], in introductory provisions, substituted “and for at least each of the 4 ensuing fiscal years” for “, and planning levels for each of the two ensuing fiscal years,”.
 
@@ -326,6 +330,8 @@
 [/us/stat/109/62]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F62
 [/us/pl/105/33/s10105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs10105%2Fa
 [/us/stat/111/679]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F679
+[/us/pl/113/67/s122/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs122%2F1
+[/us/stat/127/1175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1175
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F620
 [/us/usc/t42/s1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1305
@@ -344,6 +350,8 @@
 [/us/usc/t31/s1322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1322
 [/us/pl/97/258/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs1
 [/us/stat/96/877]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F877
+[/us/pl/113/67/s122/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs122%2F2
+[/us/pl/113/67/s122/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs122%2F1
 [/us/pl/105/33/s10105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs10105%2Fa
 [/us/pl/105/33/s10105/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs10105%2Fb
 [/us/pl/105/33/s10105/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs10105%2Fc%2F1

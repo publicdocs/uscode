@@ -33,19 +33,19 @@
 
  __References in Text__ 
 
-    This chapter, referred to in text, was in the original “this Act”, meaning [Pub. L. 88–652][/us/pl/88/652], Oct. 13, 1964, [78 Stat. 1079][/us/stat/78/1079], known as the House Employees Position Classification Act, which enacted this chapter and amended sections 88c and 123b of this title. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
+    This chapter, referred to in text, was in the original “this Act”, meaning [Pub. L. 88–652][/us/pl/88/652], Oct. 13, 1964, [78 Stat. 1079][/us/stat/78/1079], known as the House Employees Position Classification Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
 
  __Effective Date__ 
 
 [Pub. L. 88–652, § 17][/us/pl/88/652/s17], Oct. 13, 1964, [78 Stat. 1084][/us/stat/78/1084], provided that: 
 
-> “This Act \[enacting this chapter and amending sections 88c and 123b of this title\] shall become effective on January 1, 1965.”
+> “This Act \[enacting this chapter and amending sections 88c and 4131 of this title\] shall become effective on January 1, 1965.”
 
  __Short Title__ 
 
 [Pub. L. 88–652, § 1][/us/pl/88/652/s1], Oct. 13, 1964, [78 Stat. 1079][/us/stat/78/1079], provided that: 
 
-> “This Act \[enacting this chapter and amending sections 88c and 123b of this title\] may be cited as the ‘House Employees Position Classification Act’.”
+> “This Act \[see Tables for classification\] may be cited as the ‘House Employees Position Classification Act’.”
 
  __Savings Provision__ 
 

@@ -13,15 +13,11 @@
 
 [Previous](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s118.md) | [Next](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s119.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs118a)
 
-## § 118a. Officers of Senate
+## § 118a. Transferred
 
-    [Section 118 of this title][/us/usc/t2/s118] shall not apply to officers of the Senate.
+ __Codification__ 
 
-([Pub. L. 95–521, title VII, § 714(d)][/us/pl/95/521/s714/d], Oct. 26, 1978, [92 Stat. 1884][/us/stat/92/1884].)
-
- __Effective Date__ 
-
-    Section effective Jan. 3, 1979, see [section 717 of Pub. L. 95–521][/us/pl/95/521/s717], set out as a note under [section 288 of this title][/us/usc/t2/s288].
+    Section 118a was editorially reclassified as [section 5504 of this title][/us/usc/t2/s5504].
 
 ----------
 
@@ -30,10 +26,6 @@
 ----------
 ----------
 
-[/us/usc/t2/s118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs118
-[/us/pl/95/521/s714/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F521%2Fs714%2Fd
-[/us/stat/92/1884]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1884
-[/us/pl/95/521/s717]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F521%2Fs717
-[/us/usc/t2/s288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs288
+[/us/usc/t2/s5504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs5504
 
 

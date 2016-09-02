@@ -13,19 +13,11 @@
 
 [Previous](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s72a–4.md) | [Next](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s72b–1.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs72b)
 
-## § 72b. Regulations governing availability of appropriations for House committee employees
+## § 72b. Transferred
 
-    Appropriations for committee employees shall be available in such amounts and under such regulations as may be approved by the Committee on House Oversight for compensation of employees of the standing committees of the House of Representatives, except the Committee on Appropriations.
+ __Codification__ 
 
-([July 17, 1947, ch. 262][/us/act/1947-07-17/ch262], [61 Stat. 367][/us/stat/61/367]; [Pub. L. 104–186, title II, § 204(12)][/us/pl/104/186/s204/12], Aug. 20, 1996, [110 Stat. 1731][/us/stat/110/1731].)
-
- __Amendments__ 
-
-    1996—[Pub. L. 104–186][/us/pl/104/186] substituted “House Oversight” for “House Administration”.
-
- __Change of Name__ 
-
-    Committee on House Oversight of House of Representatives changed to Committee on House Administration of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
+    Section 72b was editorially reclassified as [section 4312 of this title][/us/usc/t2/s4312].
 
 ----------
 
@@ -34,10 +26,6 @@
 ----------
 ----------
 
-[/us/act/1947-07-17/ch262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-17%2Fch262
-[/us/stat/61/367]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F367
-[/us/pl/104/186/s204/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2Fs204%2F12
-[/us/stat/110/1731]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1731
-[/us/pl/104/186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186
+[/us/usc/t2/s4312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs4312
 
 

@@ -41,7 +41,7 @@
 
  __Effective Date of 1970 Amendment__ 
 
-    Amendment by [Pub. L. 91–510][/us/pl/91/510] effective immediately prior to noon on Jan. 3, 1971, see [section 601(1) of Pub. L. 91–510][/us/pl/91/510/s601/1], set out as a note under [section 72a of this title][/us/usc/t2/s72a].
+    Amendment by [Pub. L. 91–510][/us/pl/91/510] effective immediately prior to noon on Jan. 3, 1971, see [section 601(1) of Pub. L. 91–510][/us/pl/91/510/s601/1], set out as a note under [section 4301 of this title][/us/usc/t2/s4301].
 
  __Effective Date__ 
 
@@ -64,7 +64,7 @@
 [/us/usc/t2/s190a/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs190a%2Ff
 [/us/pl/91/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F510
 [/us/pl/91/510/s601/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F510%2Fs601%2F1
-[/us/usc/t2/s72a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs72a
+[/us/usc/t2/s4301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs4301
 [/us/act/1946-08-02/ch753]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-02%2Fch753
 [/us/stat/60/834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F834
 

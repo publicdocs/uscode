@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t2/ch28/schIII/ptB/m__us_usc_t2_s1851.md) | [Next](./../../../../../..//us/usc/t2/ch28/schIV/m__us_usc_t2_ch28_schIV.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1852)
+[Previous](./../../../../../..//us/usc/t2/ch28/schIII/ptB/m__us_usc_t2_s1851.md) | [Next](./../../../../../..//us/usc/t2/ch28/schIII/ptB/m__us_usc_t2_s1853.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1852)
 
 ## § 1852. Withholding and remittance of State income tax
 
@@ -69,7 +69,7 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t2/ch28/schIII/ptB/m__us_usc_t2_s1851.md) | [Next](./../../../../../..//us/usc/t2/ch28/schIV/m__us_usc_t2_ch28_schIV.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1852)
+[Previous](./../../../../../..//us/usc/t2/ch28/schIII/ptB/m__us_usc_t2_s1851.md) | [Next](./../../../../../..//us/usc/t2/ch28/schIII/ptB/m__us_usc_t2_s1853.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1852)
 
 ----------
 ----------

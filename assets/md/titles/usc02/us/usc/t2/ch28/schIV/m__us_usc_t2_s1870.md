@@ -37,7 +37,7 @@
 
  __Codification__ 
 
-    Section is comprised of [section 1304 of Pub. L. 111–68][/us/pl/111/68/s1304]. Subsec. (d) of [section 1304 of Pub. L. 111–68][/us/pl/111/68/s1304] amended [section 95b of this title][/us/usc/t2/s95b].
+    Section is comprised of [section 1304 of Pub. L. 111–68][/us/pl/111/68/s1304]. Subsec. (d) of [section 1304 of Pub. L. 111–68][/us/pl/111/68/s1304] amended [section 5507 of this title][/us/usc/t2/s5507].
 
     Section is from the Legislative Branch Appropriations Act, 2010, which is div. A of [Pub. L. 111–68][/us/pl/111/68].
 
@@ -52,7 +52,7 @@
 [/us/stat/123/2035]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2035
 [/us/pl/111/68/s1304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F68%2Fs1304
 [/us/pl/111/68/s1304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F68%2Fs1304
-[/us/usc/t2/s95b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs95b
+[/us/usc/t2/s5507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs5507
 [/us/pl/111/68]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F68
 
 

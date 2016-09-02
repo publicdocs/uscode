@@ -37,7 +37,7 @@
 
  __Effective Date of 2003 Amendment__ 
 
-    Amendment by [Pub. L. 108–7][/us/pl/108/7] effective as if included in the enactment of the 21st Century Department of Justice Appropriations Authorization Act, [Pub. L. 107–273][/us/pl/107/273], see [section 110(c) of Pub. L. 108–7][/us/pl/108/7/s110/c], set out as a note under [section 130f of this title][/us/usc/t2/s130f].
+    Amendment by [Pub. L. 108–7][/us/pl/108/7] effective as if included in the enactment of the 21st Century Department of Justice Appropriations Authorization Act, [Pub. L. 107–273][/us/pl/107/273], see [section 110(c) of Pub. L. 108–7][/us/pl/108/7/s110/c], set out as a note under [section 5571 of this title][/us/usc/t2/s5571].
 
 ----------
 
@@ -62,6 +62,6 @@
 [/us/pl/108/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7
 [/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
 [/us/pl/108/7/s110/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2Fs110%2Fc
-[/us/usc/t2/s130f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs130f
+[/us/usc/t2/s5571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs5571
 
 

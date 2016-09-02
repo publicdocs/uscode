@@ -49,7 +49,7 @@
 
  __Codification__ 
 
-    Section is comprised of subsec. (a) of [section 3 of Pub. L. 111–145][/us/pl/111/145/s3]. Subsec. (a)(4) of [section 3 of Pub. L. 111–145][/us/pl/111/145/s3] repealed [section 84–2 of this title][/us/usc/t2/s84–2] and provisions set out as a note under [section 1901 of this title][/us/usc/t2/s1901].
+    Section is comprised of subsec. (a) of [section 3 of Pub. L. 111–145][/us/pl/111/145/s3]. Subsec. (a)(4) of [section 3 of Pub. L. 111–145][/us/pl/111/145/s3] repealed [section 84–2 of this title][/us/usc/t2/s84–2], now [section 5521 of this title][/us/usc/t2/s5521], and provisions set out as a note under [section 1901 of this title][/us/usc/t2/s1901].
 
 ----------
 
@@ -65,6 +65,7 @@
 [/us/pl/111/145/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F145%2Fs3
 [/us/pl/111/145/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F145%2Fs3
 [/us/usc/t2/s84–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs84%E2%80%932
+[/us/usc/t2/s5521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs5521
 [/us/usc/t2/s1901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1901
 
 

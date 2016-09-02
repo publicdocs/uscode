@@ -61,7 +61,7 @@
 
                 (i)
 
-                 the amount of the changes of the type described in paragraph (1) of such subsection recommended by such committee do not exceed or fall below the amount of the changes such committee was directed by such concurrent resolution to recommend under such paragraph by more than  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “than—”. </sup></sup> 
+                 the amount of the changes of the type described in paragraph (1) of such subsection recommended by such committee do not exceed or fall below the amount of the changes such committee was directed by such concurrent resolution to recommend under that paragraph by more than—
 
                     (I) in the Senate, 20 percent of the total of the amounts of the changes such committee was directed to make under paragraphs (1) and (2) of such subsection; or
 
@@ -69,7 +69,7 @@
 
                 (ii)
 
-                 the amount of the changes of the type described in paragraph (2) of such subsection recommended by such committee do not exceed or fall below the amount of the changes such committee was directed by such concurrent resolution to recommend under that paragraph by more than 1
+                 the amount of the changes of the type described in paragraph (2) of such subsection recommended by such committee do not exceed or fall below the amount of the changes such committee was directed by such concurrent resolution to recommend under that paragraph by more than—
 
                     (I) in the Senate, 20 percent of the total of the amounts of the changes such committee was directed to make under paragraphs (1) and (2) of such subsection; or
 
@@ -113,7 +113,7 @@
 
         Notwithstanding any other provision of law, it shall not be in order in the Senate or the House of Representatives to consider any reconciliation bill or reconciliation resolution reported pursuant to a concurrent resolution on the budget agreed to under section 632 or 635 of this title, or a joint resolution pursuant to [section 907d of this title][/us/usc/t2/s907d], or any amendment thereto or conference report thereon, that contains recommendations with respect to the old-age, survivors, and disability insurance program established under title II of the Social Security Act \[[42 U.S.C. 401][/us/usc/t42/s401] et seq.\].
 
-([Pub. L. 93–344, title III, § 310][/us/pl/93/344/s310], July 12, 1974, [88 Stat. 315][/us/stat/88/315]; [Pub. L. 99–177, title II, § 201(b)][/us/pl/99/177/s201/b], Dec. 12, 1985, [99 Stat. 1053][/us/stat/99/1053]; [Pub. L. 101–508, title XIII][/us/pl/101/508], §§ 13112(a)(9), 13207(c), (d), 13210(2), Nov. 5, 1990, [104 Stat. 1388–608][/us/stat/104/1388-608], 1388–618 to 1388–620; [Pub. L. 105–33, title X, § 10111][/us/pl/105/33/s10111], Aug. 5, 1997, [111 Stat. 685][/us/stat/111/685].)
+([Pub. L. 93–344, title III, § 310][/us/pl/93/344/s310], July 12, 1974, [88 Stat. 315][/us/stat/88/315]; [Pub. L. 99–177, title II, § 201(b)][/us/pl/99/177/s201/b], Dec. 12, 1985, [99 Stat. 1053][/us/stat/99/1053]; [Pub. L. 101–508, title XIII][/us/pl/101/508], §§ 13112(a)(9), 13207(c), (d), 13210(2), Nov. 5, 1990, [104 Stat. 1388–608][/us/stat/104/1388-608], 1388–618 to 1388–620; [Pub. L. 105–33, title X, § 10111][/us/pl/105/33/s10111], Aug. 5, 1997, [111 Stat. 685][/us/stat/111/685]; [Pub. L. 113–67, div. A, title I, § 122(9)][/us/pl/113/67/s122/9], Dec. 26, 2013, [127 Stat. 1175][/us/stat/127/1175].)
 
  __References in Text__ 
 
@@ -124,6 +124,10 @@
     Section was formerly classified to [section 1331 of Title 31][/us/usc/t31/s1331] prior to the general revision and enactment of Title 31, Money and Finance, by [Pub. L. 97–258, § 1][/us/pl/97/258/s1], Sept. 13, 1982, [96 Stat. 877][/us/stat/96/877].
 
  __Amendments__ 
+
+    2013—Subsec. (c)(1)(A)(i). [Pub. L. 113–67][/us/pl/113/67], which directed amendment of cl. (i) by substituting “under that paragraph by more than—” for “under that paragraph by more than”, was executed by making the substitution for “under such paragraph by more than” to reflect the probable intent of Congress.
+
+    Subsec. (c)(1)(A)(ii). [Pub. L. 113–67][/us/pl/113/67] substituted “under that paragraph by more than—” for “under that paragraph by more than”.
 
     1997—Subsec. (c)(1)(A)(i). [Pub. L. 105–33, § 10111(1)][/us/pl/105/33/s10111/1], substituted subcls. (I) and (II) for “20 percent of the total of the amounts of the changes such committee was directed to make under paragraphs (1) and (2) of such subsection, and”.
 
@@ -179,12 +183,16 @@
 [/us/stat/104/1388-608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-608
 [/us/pl/105/33/s10111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs10111
 [/us/stat/111/685]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F685
+[/us/pl/113/67/s122/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs122%2F9
+[/us/stat/127/1175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1175
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F620
 [/us/usc/t42/s1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1305
 [/us/usc/t31/s1331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1331
 [/us/pl/97/258/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs1
 [/us/stat/96/877]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F877
+[/us/pl/113/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67
+[/us/pl/113/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67
 [/us/pl/105/33/s10111/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs10111%2F1
 [/us/pl/105/33/s10111/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs10111%2F2
 [/us/pl/101/508/s13207/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs13207%2Fd

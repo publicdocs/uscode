@@ -13,11 +13,11 @@
 
 [Previous](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s111.md) | [Next](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s111b.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs111a)
 
-## § 111a. Receipts from sales of items by Sergeant at Arms and Doorkeeper of Senate, to Senators, etc., to be credited to appropriation from which purchased
+## § 111a. Transferred
 
-    In any case in which appropriated funds are used by a Senator or a committee or office of the Senate to purchase from the Sergeant at Arms and Doorkeeper of the Senate items which were purchased by him from the appropriation for “miscellaneous items” under “Contingent Expenses of the Senate” in any appropriation Act, the amounts received by the Sergeant at Arms and Doorkeeper shall be deposited in the Treasury of the United States for credit to such appropriation. This section does not apply to amounts received from the sale of used or surplus furniture and equipment.
+ __Codification__ 
 
-([Pub. L. 96–214][/us/pl/96/214], Mar. 24, 1980, [94 Stat. 122][/us/stat/94/122].)
+    Section 111a was editorially reclassified as [section 6625 of this title][/us/usc/t2/s6625].
 
 ----------
 
@@ -26,7 +26,6 @@
 ----------
 ----------
 
-[/us/pl/96/214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F214
-[/us/stat/94/122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F122
+[/us/usc/t2/s6625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs6625
 
 

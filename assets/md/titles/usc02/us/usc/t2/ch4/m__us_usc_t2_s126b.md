@@ -13,19 +13,11 @@
 
 [Previous](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s126a.md) | [Next](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s127.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs126b)
 
-## § 126b. Substitute reporters of debates and expert transcribers; temporary reporters of debates and expert transcribers; payments from Senate contingent fund
-
-    The Secretary of the Senate is on and after June 5, 1981, authorized to employ, by contract or otherwise, substitute reporters of debates and expert transcribers at daily rates of compensation, or temporary reporters of debates and expert transcribers at annual rates of compensation; no temporary reporters of debates or expert transcribers may be employed under authority of this provision for more than ninety days in any fiscal year; and payments made under authority of this section shall be made from the contingent fund of the Senate upon vouchers approved by the Secretary of the Senate.
-
-([Pub. L. 89–90][/us/pl/89/90], July 27, 1965, [79 Stat. 266][/us/stat/79/266]; [Pub. L. 97–12, title I, § 105][/us/pl/97/12/s105], June 5, 1981, [95 Stat. 61][/us/stat/95/61].)
+## § 126b. Transferred
 
  __Codification__ 
 
-    “On and after June 5, 1981” substituted in text for “hereafter”, which probably meant after the date of enactment of [Pub. L. 97–12][/us/pl/97/12] rather than the date of enactment of [Pub. L. 89–90][/us/pl/89/90].
-
- __Amendments__ 
-
-    1981—[Pub. L. 97–12][/us/pl/97/12] amended section generally, substituting “authorized to employ, by contract or otherwise, substitute reporters of debates and expert transcribers at daily rates of compensation, or temporary reporters of debates and expert transcribers at annual rates of compensation; no temporary reporters of debates or expert transcribers may be employed under authority of this provision for more than ninety days in any fiscal year; and payments made under authority of this section shall be made from the contingent fund of the Senate upon vouchers approved by the Secretary of the Senate” for “authorized to obtain by contract or otherwise, emergency reporters and transcribers as may be necessary, payments therefor to be made form the contingent fund of the Senate”.
+    Section 126b was editorially reclassified as [section 6544 of this title][/us/usc/t2/s6544].
 
 ----------
 
@@ -34,12 +26,6 @@
 ----------
 ----------
 
-[/us/pl/89/90]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F90
-[/us/stat/79/266]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F266
-[/us/pl/97/12/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F12%2Fs105
-[/us/stat/95/61]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F61
-[/us/pl/97/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F12
-[/us/pl/89/90]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F90
-[/us/pl/97/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F12
+[/us/usc/t2/s6544]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs6544
 
 

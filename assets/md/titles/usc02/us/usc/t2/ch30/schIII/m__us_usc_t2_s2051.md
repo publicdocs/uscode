@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t2/ch30/schIII/m__us_usc_t2_s2050.md) | [Next](./../../../../..//us/usc/t2/ch30/schIV/m__us_usc_t2_ch30_schIV.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs2051)
+[Previous](./../../../../..//us/usc/t2/ch30/schIII/m__us_usc_t2_s2050.md) | [Next](./../../../../..//us/usc/t2/ch30/schIII/m__us_usc_t2_s2052.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs2051)
 
 ## § 2051. Continued benefits for certain Senate Restaurants employees
 
@@ -191,15 +191,15 @@
 
         (1) __Submission of plan__ 
 
-            Not later than 30 days after July 17, 2008, the Architect of the Capitol shall submit a plan under [section 60q of this title][/us/usc/t2/s60q] to the applicable committees as provided under that section.
+            Not later than 30 days after July 17, 2008, the Architect of the Capitol shall submit a plan under [section 4505 of this title][/us/usc/t2/s4505] to the applicable committees as provided under that section.
 
         (2) __Plan__ 
 
             (A) __In general__ 
 
-            Notwithstanding [section 60q(e) of this title][/us/usc/t2/s60q/e], the plan submitted under this subsection shall—
+            Notwithstanding [section 4505(e) of this title][/us/usc/t2/s4505/e], the plan submitted under this subsection shall—
 
-                (i) offer a voluntary separation incentive payment to any employee described under subsection (a)(2)(A) of this section in accordance with [section 60q of this title][/us/usc/t2/s60q]; and
+                (i) offer a voluntary separation incentive payment to any employee described under subsection (a)(2)(A) of this section in accordance with [section 4505 of this title][/us/usc/t2/s4505]; and
 
                 (ii) offer such a payment to any such employee who becomes a covered individual, if that individual accepts the offer during the 90-day period following the transfer date.
 
@@ -303,7 +303,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t2/ch30/schIII/m__us_usc_t2_s2050.md) | [Next](./../../../../..//us/usc/t2/ch30/schIV/m__us_usc_t2_ch30_schIV.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs2051)
+[Previous](./../../../../..//us/usc/t2/ch30/schIII/m__us_usc_t2_s2050.md) | [Next](./../../../../..//us/usc/t2/ch30/schIII/m__us_usc_t2_s2052.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs2051)
 
 ----------
 ----------
@@ -319,9 +319,9 @@
 [/us/usc/t5/s5595]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5595
 [/us/usc/t5/s5595]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5595
 [/us/usc/t5/s5595]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5595
-[/us/usc/t2/s60q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs60q
-[/us/usc/t2/s60q/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs60q%2Fe
-[/us/usc/t2/s60q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs60q
+[/us/usc/t2/s4505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs4505
+[/us/usc/t2/s4505/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs4505%2Fe
+[/us/usc/t2/s4505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs4505
 [/us/usc/t2/s1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1301
 [/us/pl/110/279/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F279%2Fs1
 [/us/stat/122/2604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2604

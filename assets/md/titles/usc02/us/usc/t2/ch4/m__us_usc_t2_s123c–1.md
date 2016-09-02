@@ -13,11 +13,11 @@
 
 [Previous](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s123c.md) | [Next](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s123d.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs123c%E2%80%931)
 
-## § 123c–1. Advance payments for computer programing services
+## § 123c–1. Transferred
 
-    Notwithstanding any other provision of law, the Sergeant at Arms and Doorkeeper of the Senate, subject to the approval of the Committee on Rules and Administration, is on and after July 6, 1981, authorized to enter into contracts which provide for the making of advance payments for computer programing services.
+ __Codification__ 
 
-([Pub. L. 97–20][/us/pl/97/20], July 6, 1981, [95 Stat. 104][/us/stat/95/104].)
+    Section 123c–1 was editorially reclassified as [section 6619 of this title][/us/usc/t2/s6619].
 
 ----------
 
@@ -26,7 +26,6 @@
 ----------
 ----------
 
-[/us/pl/97/20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F20
-[/us/stat/95/104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F104
+[/us/usc/t2/s6619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs6619
 
 

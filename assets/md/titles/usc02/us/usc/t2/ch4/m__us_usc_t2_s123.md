@@ -15,7 +15,7 @@
 
 ## § 123. Repealed. [June 27, 1956, ch. 453, § 105(m)][/us/act/1956-06-27/ch453/s105/m], [70 Stat. 372][/us/stat/70/372]
 
-    Section, [act Aug. 7, 1953, ch. 341][/us/act/1953-08-07/ch341], [67 Stat. 439][/us/stat/67/439], established a joint Senate and House Recording Facility revolving fund, provided for the disposition of monies, and required the coordinator of the Facility to give a penal bond. See [section 123b(m) of this title][/us/usc/t2/s123b/m].
+    Section, [act Aug. 7, 1953, ch. 341][/us/act/1953-08-07/ch341], [67 Stat. 439][/us/stat/67/439], established a joint Senate and House Recording Facility revolving fund, provided for the disposition of monies, and required the coordinator of the Facility to give a penal bond.
 
 ----------
 
@@ -28,6 +28,5 @@
 [/us/stat/70/372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F372
 [/us/act/1953-08-07/ch341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-08-07%2Fch341
 [/us/stat/67/439]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F439
-[/us/usc/t2/s123b/m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs123b%2Fm
 
 

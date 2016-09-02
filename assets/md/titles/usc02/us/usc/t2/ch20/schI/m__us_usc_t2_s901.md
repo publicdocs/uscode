@@ -169,45 +169,71 @@
 
         (1)
 
-         with respect to fiscal year 2012—
+         for fiscal year 2014—
 
-            (A) for the security category, $684,000,000,000 in new budget authority; and
+            (A) for the revised security category, $520,464,000,000 in new budget authority; and
 
-            (B) for the nonsecurity category, $359,000,000,000 in new budget authority;
+            (B) for the revised nonsecurity category, $491,773,000,000 in new budget authority;
 
         (2)
 
-         for fiscal year 2013—
+         for fiscal year 2015—
 
-            (A) for the security category, as defined in [section 900(c)(4)(B) of this title][/us/usc/t2/s900/c/4/B], $684,000,000,000 in budget authority; and
+            (A) for the revised security category, $521,272,000,000 in new budget authority; and
 
-            (B) for the nonsecurity category, as defined in [section 900(c)(4)(A) of this title][/us/usc/t2/s900/c/4/A], $359,000,000,000 in budget authority;
+            (B) for the revised nonsecurity category, $492,356,000,000 in new budget authority;
 
         (3)
 
-         for fiscal year 2014—
+         for fiscal year 2016—
 
-            (A) for the security category, $552,000,000,000 in budget authority; and
+            (A) for the revised security category, $577,000,000,000 in new budget authority; and
 
-            (B) for the nonsecurity category, $506,000,000,000 in budget authority;
+            (B) for the revised nonsecurity category, $530,000,000,000 in new budget authority;
 
-        (4) with respect to fiscal year 2015, for the discretionary category, $1,086,000,000,000 in new budget authority;
+        (4)
 
-        (5) with respect to fiscal year 2016, for the discretionary category, $1,107,000,000,000 in new budget authority;
+         for fiscal year 2017—
 
-        (6) with respect to fiscal year 2017, for the discretionary category, $1,131,000,000,000 in new budget authority;
+            (A) for the revised security category, $590,000,000,000 in new budget authority; and
 
-        (7) with respect to fiscal year 2018, for the discretionary category, $1,156,000,000,000 in new budget authority;
+            (B) for the revised nonsecurity category, $541,000,000,000 in new budget authority;
 
-        (8) with respect to fiscal year 2019, for the discretionary category, $1,182,000,000,000 in new budget authority;
+        (5)
 
-        (9) with respect to fiscal year 2020, for the discretionary category, $1,208,000,000,000 in new budget authority; and
+         for fiscal year 2018—
 
-        (10) with respect to fiscal year 2021, for the discretionary category, $1,234,000,000,000 in new budget authority;
+            (A) for the revised security category, $603,000,000,000 in new budget authority; and
+
+            (B) for the revised nonsecurity category, $553,000,000,000 in new budget authority;
+
+        (6)
+
+         for fiscal year 2019—
+
+            (A) for the revised security category, $616,000,000,000 in new budget authority; and
+
+            (B) for the revised nonsecurity category, $566,000,000,000 in new budget authority;
+
+        (7)
+
+         for fiscal year 2020—
+
+            (A) for the revised security category, $630,000,000,000 in new budget authority; and
+
+            (B) for the revised nonsecurity category, $578,000,000,000 in new budget authority; and
+
+        (8)
+
+         for fiscal year 2021—
+
+            (A) for the revised security category, $644,000,000,000 in new budget authority; and
+
+            (B) for the revised nonsecurity category, $590,000,000,000 in new budget authority;
 
         as adjusted in strict conformance with subsection (b).
 
-([Pub. L. 99–177, title II, § 251][/us/pl/99/177/s251], Dec. 12, 1985, [99 Stat. 1063][/us/stat/99/1063]; [Pub. L. 100–119, title I, § 102(a)][/us/pl/100/119/s102/a], Sept. 29, 1987, [101 Stat. 754][/us/stat/101/754]; [Pub. L. 100–203, title VIII, § 8003(f)][/us/pl/100/203/s8003/f], Dec. 22, 1987, [101 Stat. 1330–282][/us/stat/101/1330-282]; [Pub. L. 101–508, title XIII, § 13101(a)][/us/pl/101/508/s13101/a], (e)(2), Nov. 5, 1990, [104 Stat. 1388–577][/us/stat/104/1388-577], 1388–593; [Pub. L. 103–66, title XIV, § 14002(c)(1)][/us/pl/103/66/s14002/c/1], Aug. 10, 1993, [107 Stat. 683][/us/stat/107/683]; [Pub. L. 103–87, title V, § 571][/us/pl/103/87/s571], Sept. 30, 1993, [107 Stat. 971][/us/stat/107/971]; [Pub. L. 103–306, title V, § 562][/us/pl/103/306/s562], Aug. 23, 1994, [108 Stat. 1649][/us/stat/108/1649]; [Pub. L. 103–354, title I, § 119(d)(1)][/us/pl/103/354/s119/d/1], Oct. 13, 1994, [108 Stat. 3208][/us/stat/108/3208]; [Pub. L. 104–121, title I, § 103(b)][/us/pl/104/121/s103/b], Mar. 29, 1996, [110 Stat. 848][/us/stat/110/848]; [Pub. L. 104–193, title II, § 211(d)(5)(B)][/us/pl/104/193/s211/d/5/B], Aug. 22, 1996, [110 Stat. 2191][/us/stat/110/2191]; [Pub. L. 104–208, div. A, title I, § 101(c)][/us/pl/104/208/s101/c] \[title V, § 577\], Sept. 30, 1996, [110 Stat. 3009–121][/us/stat/110/3009-121], 3009–169; [Pub. L. 105–33, title X, § 10203(a)][/us/pl/105/33/s10203/a], (b), Aug. 5, 1997, [111 Stat. 698][/us/stat/111/698], 701; [Pub. L. 105–89, title II, § 201(b)(1)][/us/pl/105/89/s201/b/1], Nov. 19, 1997, [111 Stat. 2125][/us/stat/111/2125]; [Pub. L. 105–178, title VIII, § 8101(a)][/us/pl/105/178/s8101/a], (d), June 9, 1998, [112 Stat. 488][/us/stat/112/488], 490; [Pub. L. 106–291, title VIII, § 801(a)][/us/pl/106/291/s801/a], (b), Oct. 11, 2000, [114 Stat. 1026][/us/stat/114/1026], 1027; [Pub. L. 106–429, § 101(a)][/us/pl/106/429/s101/a] \[title VII, § 701(a)\], Nov. 6, 2000, [114 Stat. 1900][/us/stat/114/1900], 1900A–64; [Pub. L. 107–117, div. C, § 101(a)][/us/pl/107/117/s101/a], Jan. 10, 2002, [115 Stat. 2341][/us/stat/115/2341]; [Pub. L. 108–88, § 10(a)][/us/pl/108/88/s10/a], (b), Sept. 30, 2003, [117 Stat. 1127][/us/stat/117/1127]; [Pub. L. 108–310, § 10(a)][/us/pl/108/310/s10/a], (b), Sept. 30, 2004, [118 Stat. 1160][/us/stat/118/1160]; [Pub. L. 109–59, title VIII][/us/pl/109/59], §§ 8001(a), 8002, Aug. 10, 2005, [119 Stat. 1915][/us/stat/119/1915], 1916; [Pub. L. 112–25, title I, § 101][/us/pl/112/25/s101], Aug. 2, 2011, [125 Stat. 241][/us/stat/125/241]; [Pub. L. 112–240, title IX, § 901(d)(1)][/us/pl/112/240/s901/d/1], Jan. 2, 2013, [126 Stat. 2370][/us/stat/126/2370].)
+([Pub. L. 99–177, title II, § 251][/us/pl/99/177/s251], Dec. 12, 1985, [99 Stat. 1063][/us/stat/99/1063]; [Pub. L. 100–119, title I, § 102(a)][/us/pl/100/119/s102/a], Sept. 29, 1987, [101 Stat. 754][/us/stat/101/754]; [Pub. L. 100–203, title VIII, § 8003(f)][/us/pl/100/203/s8003/f], Dec. 22, 1987, [101 Stat. 1330–282][/us/stat/101/1330-282]; [Pub. L. 101–508, title XIII, § 13101(a)][/us/pl/101/508/s13101/a], (e)(2), Nov. 5, 1990, [104 Stat. 1388–577][/us/stat/104/1388-577], 1388–593; [Pub. L. 103–66, title XIV, § 14002(c)(1)][/us/pl/103/66/s14002/c/1], Aug. 10, 1993, [107 Stat. 683][/us/stat/107/683]; [Pub. L. 103–87, title V, § 571][/us/pl/103/87/s571], Sept. 30, 1993, [107 Stat. 971][/us/stat/107/971]; [Pub. L. 103–306, title V, § 562][/us/pl/103/306/s562], Aug. 23, 1994, [108 Stat. 1649][/us/stat/108/1649]; [Pub. L. 103–354, title I, § 119(d)(1)][/us/pl/103/354/s119/d/1], Oct. 13, 1994, [108 Stat. 3208][/us/stat/108/3208]; [Pub. L. 104–121, title I, § 103(b)][/us/pl/104/121/s103/b], Mar. 29, 1996, [110 Stat. 848][/us/stat/110/848]; [Pub. L. 104–193, title II, § 211(d)(5)(B)][/us/pl/104/193/s211/d/5/B], Aug. 22, 1996, [110 Stat. 2191][/us/stat/110/2191]; [Pub. L. 104–208, div. A, title I, § 101(c)][/us/pl/104/208/s101/c] \[title V, § 577\], Sept. 30, 1996, [110 Stat. 3009–121][/us/stat/110/3009-121], 3009–169; [Pub. L. 105–33, title X, § 10203(a)][/us/pl/105/33/s10203/a], (b), Aug. 5, 1997, [111 Stat. 698][/us/stat/111/698], 701; [Pub. L. 105–89, title II, § 201(b)(1)][/us/pl/105/89/s201/b/1], Nov. 19, 1997, [111 Stat. 2125][/us/stat/111/2125]; [Pub. L. 105–178, title VIII, § 8101(a)][/us/pl/105/178/s8101/a], (d), June 9, 1998, [112 Stat. 488][/us/stat/112/488], 490; [Pub. L. 106–291, title VIII, § 801(a)][/us/pl/106/291/s801/a], (b), Oct. 11, 2000, [114 Stat. 1026][/us/stat/114/1026], 1027; [Pub. L. 106–429, § 101(a)][/us/pl/106/429/s101/a] \[title VII, § 701(a)\], Nov. 6, 2000, [114 Stat. 1900][/us/stat/114/1900], 1900A–64; [Pub. L. 107–117, div. C, § 101(a)][/us/pl/107/117/s101/a], Jan. 10, 2002, [115 Stat. 2341][/us/stat/115/2341]; [Pub. L. 108–88, § 10(a)][/us/pl/108/88/s10/a], (b), Sept. 30, 2003, [117 Stat. 1127][/us/stat/117/1127]; [Pub. L. 108–310, § 10(a)][/us/pl/108/310/s10/a], (b), Sept. 30, 2004, [118 Stat. 1160][/us/stat/118/1160]; [Pub. L. 109–59, title VIII][/us/pl/109/59], §§ 8001(a), 8002, Aug. 10, 2005, [119 Stat. 1915][/us/stat/119/1915], 1916; [Pub. L. 112–25, title I, § 101][/us/pl/112/25/s101], Aug. 2, 2011, [125 Stat. 241][/us/stat/125/241]; [Pub. L. 112–240, title IX, § 901(d)(1)][/us/pl/112/240/s901/d/1], Jan. 2, 2013, [126 Stat. 2370][/us/stat/126/2370]; [Pub. L. 113–67, div. A, title I, § 101(a)][/us/pl/113/67/s101/a], Dec. 26, 2013, [127 Stat. 1166][/us/stat/127/1166].)
 
  __References in Text__ 
 
@@ -219,7 +245,9 @@
 
  __Amendments__ 
 
-    2013—Subsec. (c)(2), (3). [Pub. L. 112–240][/us/pl/112/240] amended pars. (2) and (3) generally. Prior to amendment, pars. (2) and (3) read as follows:
+    2013—Subsec. (c). [Pub. L. 113–67][/us/pl/113/67] added pars. (1) to (8) and struck out former pars. (1) to (10) which defined discretionary spending limits for fiscal years 2012 to 2021.
+
+    Subsec. (c)(2), (3). [Pub. L. 112–240][/us/pl/112/240] amended pars. (2) and (3) generally. Prior to amendment, pars. (2) and (3) read as follows:
 
     “(2) with respect to fiscal year 2013—
 
@@ -406,8 +434,6 @@
 [/us/usc/t42/s421/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs421%2Fi
 [/us/usc/t42/s1382/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1382%2Fc%2F1
 [/us/usc/t42/s5122/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5122%2F2
-[/us/usc/t2/s900/c/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs900%2Fc%2F4%2FB
-[/us/usc/t2/s900/c/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs900%2Fc%2F4%2FA
 [/us/pl/99/177/s251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F177%2Fs251
 [/us/stat/99/1063]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1063
 [/us/pl/100/119/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F119%2Fs102%2Fa
@@ -452,12 +478,15 @@
 [/us/stat/125/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F241
 [/us/pl/112/240/s901/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs901%2Fd%2F1
 [/us/stat/126/2370]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2370
+[/us/pl/113/67/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs101%2Fa
+[/us/stat/127/1166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1166
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F620
 [/us/usc/t42/s1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1305
 [/us/pl/101/508/s13101/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs13101%2Fe%2F2
 [/us/pl/99/177/s257/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F177%2Fs257%2Fe
 [/us/usc/t2/s907/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs907%2Fe
+[/us/pl/113/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67
 [/us/pl/112/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240
 [/us/pl/112/25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F25
 [/us/pl/109/59/s8002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs8002

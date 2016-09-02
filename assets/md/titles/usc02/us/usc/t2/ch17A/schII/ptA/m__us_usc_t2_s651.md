@@ -33,7 +33,7 @@
 
         It shall not be in order in either the House of Representatives or the Senate to consider any bill or joint resolution (in the House of Representatives only, as reported), amendment, motion, or conference report that provides new entitlement authority that is to become effective during the current fiscal year.
 
-        (2) If any committee of the House of Representatives or the Senate reports any bill or resolution which provides new entitlement authority which is to become effective during a fiscal year and the amount of new budget authority which will be required for such fiscal year if such bill or resolution is enacted as so reported exceeds the appropriate allocation of new budget authority reported under [section 633(b) of this title][/us/usc/t2/s633/b] in connection with the most recently agreed to concurrent resolution on the budget for such fiscal year, such bill or resolution shall then be referred to the Committee on Appropriations of the Senate or may then be referred to the Committee on Appropriations of the House, as the case may be, with instructions to report it, with the committee’s recommendations, within 15 calendar days (not counting any day on which that House is not in session) beginning with the day following the day on which it is so referred. If the Committee on Appropriations of either House fails to report a bill or resolution referred to it under this paragraph within such 15-day period, the committee shall automatically be discharged from further consideration of such bill or resolution and such bill or resolution shall be placed on the appropriate calendar.
+        (2) If any committee of the House of Representatives or the Senate reports any bill or resolution which provides new entitlement authority which is to become effective during a fiscal year and the amount of new budget authority which will be required for such fiscal year if such bill or resolution is enacted as so reported exceeds the appropriate allocation of new budget authority reported under [section 633(a) of this title][/us/usc/t2/s633/a] in connection with the most recently agreed to concurrent resolution on the budget for such fiscal year, such bill or resolution shall then be referred to the Committee on Appropriations of the Senate or may then be referred to the Committee on Appropriations of the House, as the case may be, with instructions to report it, with the committee’s recommendations, within 15 calendar days (not counting any day on which that House is not in session) beginning with the day following the day on which it is so referred. If the Committee on Appropriations of either House fails to report a bill or resolution referred to it under this paragraph within such 15-day period, the committee shall automatically be discharged from further consideration of such bill or resolution and such bill or resolution shall be placed on the appropriate calendar.
 
         (3) The Committee on Appropriations of each House shall have jurisdiction to report any bill or resolution referred to it under paragraph (2) with an amendment which limits the total amount of new spending authority provided in such bill or resolution.
 
@@ -55,7 +55,9 @@
 
             (B) the outlays resulting therefrom consist exclusively of the proceeds of gifts or bequests made to the United States for a specific purpose.
 
-([Pub. L. 93–344, title IV, § 401][/us/pl/93/344/s401], July 12, 1974, [88 Stat. 317][/us/stat/88/317]; [Pub. L. 99–177, title II, § 211][/us/pl/99/177/s211], Dec. 12, 1985, [99 Stat. 1056][/us/stat/99/1056]; [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095]; [Pub. L. 101–508, title XIII, § 13207(a)(1)(F)][/us/pl/101/508/s13207/a/1/F], (G), Nov. 5, 1990, [104 Stat. 1388–617][/us/stat/104/1388-617], 1388–618; [Pub. L. 105–33, title X, § 10116(a)(1)][/us/pl/105/33/s10116/a/1]–(5), Aug. 5, 1997, [111 Stat. 690][/us/stat/111/690], 691.)
+        (3) In the House of Representatives, subsections (a) and (b) shall not apply to new authority described in those subsections to the extent that a provision in a bill or joint resolution, or an amendment thereto or a conference report thereon, establishes prospectively for a Federal office or position a specified or minimum level of compensation to be funded by annual discretionary appropriations.
+
+([Pub. L. 93–344, title IV, § 401][/us/pl/93/344/s401], July 12, 1974, [88 Stat. 317][/us/stat/88/317]; [Pub. L. 99–177, title II, § 211][/us/pl/99/177/s211], Dec. 12, 1985, [99 Stat. 1056][/us/stat/99/1056]; [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095]; [Pub. L. 101–508, title XIII, § 13207(a)(1)(F)][/us/pl/101/508/s13207/a/1/F], (G), Nov. 5, 1990, [104 Stat. 1388–617][/us/stat/104/1388-617], 1388–618; [Pub. L. 105–33, title X, § 10116(a)(1)][/us/pl/105/33/s10116/a/1]–(5), Aug. 5, 1997, [111 Stat. 690][/us/stat/111/690], 691; [Pub. L. 113–67, div. A, title I, § 122(12)][/us/pl/113/67/s122/12], (13), Dec. 26, 2013, [127 Stat. 1176][/us/stat/127/1176].)
 
  __References in Text__ 
 
@@ -70,6 +72,10 @@
     Section was formerly classified to [section 1351 of Title 31][/us/usc/t31/s1351] prior to the general revision and enactment of Title 31, Money and Finance, by [Pub. L. 97–258, § 1][/us/pl/97/258/s1], Sept. 13, 1982, [96 Stat. 877][/us/stat/96/877].
 
  __Amendments__ 
+
+    2013—Subsec. (b)(2). [Pub. L. 113–67, § 122(12)][/us/pl/113/67/s122/12], substituted “section 633(a)” for “section 633(b)”.
+
+    Subsec. (c)(3). [Pub. L. 113–67, § 122(13)][/us/pl/113/67/s122/13], added par. (3).
 
     1997—[Pub. L. 105–33, § 10116(a)(1)(A)][/us/pl/105/33/s10116/a/1/A], substituted “Budget-related legislation not subject to appropriations” for “Bills providing new spending authority” as section catchline.
 
@@ -120,7 +126,7 @@
 ----------
 ----------
 
-[/us/usc/t2/s633/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs633%2Fb
+[/us/usc/t2/s633/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs633%2Fa
 [/us/usc/t42/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs301
 [/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
 [/us/usc/t31/s9101/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs9101%2F2
@@ -135,6 +141,8 @@
 [/us/stat/104/1388-617]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-617
 [/us/pl/105/33/s10116/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs10116%2Fa%2F1
 [/us/stat/111/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F690
+[/us/pl/113/67/s122/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs122%2F12
+[/us/stat/127/1176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1176
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F620
 [/us/usc/t42/s1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1305
@@ -147,6 +155,8 @@
 [/us/usc/t31/s1351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1351
 [/us/pl/97/258/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs1
 [/us/stat/96/877]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F877
+[/us/pl/113/67/s122/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs122%2F12
+[/us/pl/113/67/s122/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs122%2F13
 [/us/pl/105/33/s10116/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs10116%2Fa%2F1%2FA
 [/us/pl/105/33/s10116/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs10116%2Fa%2F1%2FB
 [/us/pl/105/33/s10116/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs10116%2Fa%2F2%2FA

@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t2/ch30/schII/m__us_usc_t2_s2024.md) | [Next](./../../../../..//us/usc/t2/ch30/schIII/m__us_usc_t2_ch30_schIII.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs2025)
+[Previous](./../../../../..//us/usc/t2/ch30/schII/m__us_usc_t2_s2024.md) | [Next](./../../../../..//us/usc/t2/ch30/schII/m__us_usc_t2_s2026.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs2025)
 
 ## § 2025. Senate Garage
 
@@ -57,11 +57,11 @@ Title I of S. 2939, Ninety-seventh Congress, 2d Session, as reported Sept. 22, 1
 
 >         Compensation fixed under this subsection for a position first filled by an individual transferred under subsection (a)(1) of the first section shall cease to be applicable with respect to such position on the date that such individual first ceases to occupy such position.
 
->     “(c) During any period with respect to which subsection (b) is applicable to a position occupied by an individual described in such subsection, such individual shall be credited, for purposes of longevity compensation, as authorized by section 106(a), (b), and (d) of the Legislative Branch Appropriation Act, 1963 ([2 U.S.C. 60j][/us/usc/t2/s60j]), for service performed by such individual in the position of garage attendant, as an employee of the Architect of the Capitol, as certified to the Secretary of the Senate by the Architect of the Capitol.”
+>     “(c) During any period with respect to which subsection (b) is applicable to a position occupied by an individual described in such subsection, such individual shall be credited, for purposes of longevity compensation, as authorized by section 106(a), (b), and (d) of the Legislative Branch Appropriation Act, 1963 ([2 U.S.C. 60j][/us/usc/t2/s60j]) \[now [2 U.S.C. 4507][/us/usc/t2/s4507]\], for service performed by such individual in the position of garage attendant, as an employee of the Architect of the Capitol, as certified to the Secretary of the Senate by the Architect of the Capitol.”
 
 ----------
 
-[Previous](./../../../../..//us/usc/t2/ch30/schII/m__us_usc_t2_s2024.md) | [Next](./../../../../..//us/usc/t2/ch30/schIII/m__us_usc_t2_ch30_schIII.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs2025)
+[Previous](./../../../../..//us/usc/t2/ch30/schII/m__us_usc_t2_s2024.md) | [Next](./../../../../..//us/usc/t2/ch30/schII/m__us_usc_t2_s2026.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs2025)
 
 ----------
 ----------
@@ -84,5 +84,6 @@ Title I of S. 2939, Ninety-seventh Congress, 2d Session, as reported Sept. 22, 1
 [/us/pl/96/444/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F444%2Fs2
 [/us/stat/94/1889]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1889
 [/us/usc/t2/s60j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs60j
+[/us/usc/t2/s4507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs4507
 
 

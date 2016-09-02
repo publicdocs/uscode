@@ -13,33 +13,11 @@
 
 [Previous](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s72a–1h.md) | [Next](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s72a–4.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs72a%E2%80%931i)
 
-## § 72a–1i. Annual report by Select Committee on Ethics
+## § 72a–1i. Transferred
 
-    The Select Committee on Ethics of the Senate shall issue an annual report due no later than January 31, describing the following:
+ __Codification__ 
 
-    (1) The number of alleged violations of Senate rules received from any source, including the number raised by a Senator or staff of the committee.
-
-    (2)
-
-     A list of the number of alleged violations that were dismissed—
-
-        (A) for lack of subject matter jurisdiction or, in which, even if the allegations in the complaint are true, no violation of Senate rules would exist; or
-
-        (B) because they failed to provide sufficient facts as to any material violation of the Senate rules beyond mere allegation or assertion.
-
-    (3) The number of alleged violations in which the committee staff conducted a preliminary inquiry.
-
-    (4) The number of alleged violations that resulted in an adjudicatory review.
-
-    (5) The number of alleged violations that the committee dismissed for lack of substantial merit.
-
-    (6) The number of private letters of admonition or public letters of admonition issued.
-
-    (7) The number of matters resulting in a disciplinary sanction.
-
-    (8) Any other information deemed by the committee to be appropriate to describe its activities in the preceding year.
-
-([Pub. L. 110–81, title V, § 554][/us/pl/110/81/s554], Sept. 14, 2007, [121 Stat. 773][/us/stat/121/773].)
+    Section 72a–1i was editorially reclassified as [section 4723 of this title][/us/usc/t2/s4723].
 
 §§ 72a–2, 72a–3. __Omitted__ 
 
@@ -47,7 +25,7 @@
 
     Section 72a–2, acts [July 20, 1951, ch. 237][/us/act/1951-07-20/ch237], §§ 1–3, [65 Stat. 123][/us/stat/65/123]; [Aug. 5, 1955, ch. 568][/us/act/1955-08-05/ch568], §§ 1, 8, [69 Stat. 501][/us/stat/69/501], 509; [Feb. 14, 1956, ch. 34][/us/act/1956-02-14/ch34], Ch. IV, [70 Stat. 13][/us/stat/70/13]; [June 27, 1956, ch. 453][/us/act/1956-06-27/ch453], [70 Stat. 357][/us/stat/70/357]; July 28, 1967, [Pub. L. 90–57, § 103][/us/pl/90/57/s103], [81 Stat. 141][/us/stat/81/141]; Aug. 18, 1970, [Pub. L. 91–382, § 103][/us/pl/91/382/s103], [84 Stat. 825][/us/stat/84/825], prescribed basic compensation of employees of House and Senate press, periodical, and radio galleries, and was omitted for lack of general applicability.
 
-Section 72a–3, [Pub. L. 91–382][/us/pl/91/382], Aug. 18, 1970, [84 Stat. 814][/us/stat/84/814], which related to computation of salaries and wages paid out of House appropriation items, was from the Legislative Branch Appropriation Act, 1971, and was not repeated in subsequent appropriation acts. See section 331 et seq. of this title. Similar provisions were contained in the following prior appropriation acts:
+Section 72a–3, [Pub. L. 91–382][/us/pl/91/382], Aug. 18, 1970, [84 Stat. 814][/us/stat/84/814], which related to computation of salaries and wages paid out of House appropriation items, was from the Legislative Branch Appropriation Act, 1971, and was not repeated in subsequent appropriation acts. See sections 4533 to 4535 and 5103 of this title. Similar provisions were contained in the following prior appropriation acts:
 
     [Pub. L. 91–145][/us/pl/91/145], Dec. 12, 1969, [83 Stat. 347][/us/stat/83/347].
 
@@ -88,8 +66,7 @@ Section 72a–3, [Pub. L. 91–382][/us/pl/91/382], Aug. 18, 1970, [84 Stat. 814
 ----------
 ----------
 
-[/us/pl/110/81/s554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F81%2Fs554
-[/us/stat/121/773]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F773
+[/us/usc/t2/s4723]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs4723
 [/us/act/1951-07-20/ch237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-07-20%2Fch237
 [/us/stat/65/123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F65%2F123
 [/us/act/1955-08-05/ch568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-08-05%2Fch568

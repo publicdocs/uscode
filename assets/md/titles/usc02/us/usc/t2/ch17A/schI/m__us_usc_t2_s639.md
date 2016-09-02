@@ -69,13 +69,15 @@
 
         Estimates under this section shall be provided in accordance with the scorekeeping guidelines determined under [section 902(d)(5) of this title][/us/usc/t2/s902/d/5].
 
-([Pub. L. 93–344, title III, § 308][/us/pl/93/344/s308], July 12, 1974, [88 Stat. 313][/us/stat/88/313]; [Pub. L. 99–177, title II, § 201(b)][/us/pl/99/177/s201/b], Dec. 12, 1985, [99 Stat. 1051][/us/stat/99/1051]; [Pub. L. 101–508, title XIII, § 13206][/us/pl/101/508/s13206], Nov. 5, 1990, [104 Stat. 1388–617][/us/stat/104/1388-617]; [Pub. L. 105–33, title X, § 10110][/us/pl/105/33/s10110], Aug. 5, 1997, [111 Stat. 685][/us/stat/111/685]; [Pub. L. 111–139, title I, § 4(b)][/us/pl/111/139/s4/b], Feb. 12, 2010, [124 Stat. 11][/us/stat/124/11].)
+([Pub. L. 93–344, title III, § 308][/us/pl/93/344/s308], July 12, 1974, [88 Stat. 313][/us/stat/88/313]; [Pub. L. 99–177, title II, § 201(b)][/us/pl/99/177/s201/b], Dec. 12, 1985, [99 Stat. 1051][/us/stat/99/1051]; [Pub. L. 101–508, title XIII, § 13206][/us/pl/101/508/s13206], Nov. 5, 1990, [104 Stat. 1388–617][/us/stat/104/1388-617]; [Pub. L. 105–33, title X, § 10110][/us/pl/105/33/s10110], Aug. 5, 1997, [111 Stat. 685][/us/stat/111/685]; [Pub. L. 111–139, title I, § 4(b)][/us/pl/111/139/s4/b], Feb. 12, 2010, [124 Stat. 11][/us/stat/124/11]; [Pub. L. 113–67, div. A, title I, § 122(8)][/us/pl/113/67/s122/8], Dec. 26, 2013, [127 Stat. 1175][/us/stat/127/1175].)
 
  __Codification__ 
 
     Section was formerly classified to [section 1329 of Title 31][/us/usc/t31/s1329] prior to the general revision and enactment of Title 31, Money and Finance, by [Pub. L. 97–258, § 1][/us/pl/97/258/s1], Sept. 13, 1982, [96 Stat. 877][/us/stat/96/877].
 
  __Amendments__ 
+
+    2013—Subsec. (d). [Pub. L. 113–67][/us/pl/113/67] made technical amendment to heading in original Act.
 
     2010—Subsec. (a). [Pub. L. 111–139, § 4(b)(1)(B)][/us/pl/111/139/s4/b/1/B], struck out “Reports on” before “Legislation” in heading.
 
@@ -142,9 +144,12 @@
 [/us/stat/111/685]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F685
 [/us/pl/111/139/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F139%2Fs4%2Fb
 [/us/stat/124/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F11
+[/us/pl/113/67/s122/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs122%2F8
+[/us/stat/127/1175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1175
 [/us/usc/t31/s1329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1329
 [/us/pl/97/258/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs1
 [/us/stat/96/877]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F877
+[/us/pl/113/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67
 [/us/pl/111/139/s4/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F139%2Fs4%2Fb%2F1%2FB
 [/us/pl/111/139/s4/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F139%2Fs4%2Fb%2F1%2FA
 [/us/pl/111/139/s4/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F139%2Fs4%2Fb%2F2

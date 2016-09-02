@@ -13,21 +13,11 @@
 
 [Previous](./../../../..//us/usc/t2/ch10A/m__us_usc_t2_s332.md) | [Next](./../../../..//us/usc/t2/ch10A/m__us_usc_t2_s333a.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs333)
 
-## § 333. Single per annum gross rates of allowances for personal services in offices of Speaker, Leaders, and Whips
+## § 333. Transferred
 
-    The allowance for additional office personnel in the office of each of the following officials of the House of Representatives shall be at a single per annum gross rate, as follows:
+ __Codification__ 
 
-    (1) the Speaker, $110,000.
-
-    (2) the Majority Leader, $90,000.
-
-    (3) the Minority Leader, $55,000.
-
-    (4) the Majority Whip, $55,000.
-
-    (5) the Minority Whip, $55,000.
-
-([Pub. L. 91–510, title IV, § 473][/us/pl/91/510/s473], Oct. 26, 1970, [84 Stat. 1194][/us/stat/84/1194].)
+    Section 333 was editorially reclassified as [section 5103 of this title][/us/usc/t2/s5103].
 
 ----------
 
@@ -36,7 +26,6 @@
 ----------
 ----------
 
-[/us/pl/91/510/s473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F510%2Fs473
-[/us/stat/84/1194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1194
+[/us/usc/t2/s5103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs5103
 
 

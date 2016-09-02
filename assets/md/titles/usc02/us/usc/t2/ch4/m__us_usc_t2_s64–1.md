@@ -13,11 +13,11 @@
 
 [Previous](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s64.md) | [Next](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s64–2.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs64%E2%80%931)
 
-## § 64–1. Employees of Senate Disbursing Office; designation by Secretary of Senate to administer oaths and affirmations
+## § 64–1. Transferred
 
-    The Secretary of the Senate is on and after November 1, 1973, authorized to designate, in writing, employees of the Disbursing Office of the Senate to administer oaths and affirmations, with respect to matters relating to that Office, authorized or required by law or rules or orders of the Senate (including the oath of office required by [section 3331 of title 5][/us/usc/t5/s3331]). During any period in which he is so designated, any such employee may administer such oaths and affirmations.
+ __Codification__ 
 
-([Pub. L. 93–145][/us/pl/93/145], Nov. 1, 1973, [87 Stat. 532][/us/stat/87/532].)
+    Section 64–1 was editorially reclassified as [section 6542 of this title][/us/usc/t2/s6542].
 
 ----------
 
@@ -26,8 +26,6 @@
 ----------
 ----------
 
-[/us/usc/t5/s3331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3331
-[/us/pl/93/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F145
-[/us/stat/87/532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F532
+[/us/usc/t2/s6542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs6542
 
 

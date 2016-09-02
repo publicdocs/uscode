@@ -13,21 +13,11 @@
 
 [Previous](./../../../..//us/usc/t2/ch3/m__us_usc_t2_s58a.md) | [Next](./../../../..//us/usc/t2/ch3/m__us_usc_t2_s58a–2.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs58a%E2%80%931)
 
-## § 58a–1. Payment for telecommunications equipment and services; definitions
+## § 58a–1. Transferred
 
-    As used in sections 58a–1 to 58a–3 of this title, the term—
+ __Codification__ 
 
-    (1) “Sergeant at Arms” means the Sergeant at Arms and Doorkeeper of the United States Senate; and
-
-    (2) “user” means any Senator, Officer of the Senate, Committee, office, or entity provided telephone equipment and services by the Sergeant at Arms.
-
-([Pub. L. 100–123, § 1][/us/pl/100/123/s1], Oct. 5, 1987, [101 Stat. 794][/us/stat/101/794].)
-
- __Effective Date__ 
-
-[Pub. L. 100–123, § 4][/us/pl/100/123/s4], Oct. 5, 1987, [101 Stat. 795][/us/stat/101/795], provided that: 
-
-> “This Act \[enacting this section and sections 58a–2 and 58a–3 of this title\] shall take effect on October 1, 1987.”
+    Section 58a–1 was editorially reclassified as [section 6621 of this title][/us/usc/t2/s6621].
 
 ----------
 
@@ -36,9 +26,6 @@
 ----------
 ----------
 
-[/us/pl/100/123/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F123%2Fs1
-[/us/stat/101/794]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F794
-[/us/pl/100/123/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F123%2Fs4
-[/us/stat/101/795]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F795
+[/us/usc/t2/s6621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs6621
 
 

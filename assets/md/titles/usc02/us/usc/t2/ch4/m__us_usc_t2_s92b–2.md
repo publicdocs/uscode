@@ -13,23 +13,11 @@
 
 [Previous](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s92b–1.md) | [Next](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s92b–3.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs92b%E2%80%932)
 
-## § 92b–2. Authority to prescribe regulations
-
-    The Committee on House Oversight of the House of Representatives shall have authority to prescribe regulations for the carrying out of sections 92b–1 to 92b–3 of this title.
-
-([Pub. L. 97–51, § 101(c)][/us/pl/97/51/s101/c], Oct. 1, 1981, [95 Stat. 959][/us/stat/95/959]; [Pub. L. 104–186, title II, § 204(44)][/us/pl/104/186/s204/44], Aug. 20, 1996, [110 Stat. 1736][/us/stat/110/1736].)
+## § 92b–2. Transferred
 
  __Codification__ 
 
-    Section is based on section 2 of House Resolution 804, Ninety-sixth Congress, Oct. 2, 1980, as enacted into permanent law by H.R. 4120, as reported July 9, 1981, which was enacted into permanent law by [section 101(c) of Pub. L. 97–51][/us/pl/97/51/s101/c].
-
- __Amendments__ 
-
-    1996—[Pub. L. 104–186][/us/pl/104/186] substituted “House Oversight of the House of Representatives” for “House Administration”.
-
- __Change of Name__ 
-
-    Committee on House Oversight of House of Representatives changed to Committee on House Administration of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
+    Section 92b–2 was editorially reclassified as [section 5328 of this title][/us/usc/t2/s5328].
 
 ----------
 
@@ -38,11 +26,6 @@
 ----------
 ----------
 
-[/us/pl/97/51/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F51%2Fs101%2Fc
-[/us/stat/95/959]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F959
-[/us/pl/104/186/s204/44]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2Fs204%2F44
-[/us/stat/110/1736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1736
-[/us/pl/97/51/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F51%2Fs101%2Fc
-[/us/pl/104/186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186
+[/us/usc/t2/s5328]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs5328
 
 

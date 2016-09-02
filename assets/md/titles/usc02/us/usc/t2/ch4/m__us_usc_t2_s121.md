@@ -13,19 +13,11 @@
 
 [Previous](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s120.md) | [Next](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s121a.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs121)
 
-## § 121. Senate restaurant deficit fund; deposit of proceeds from surcharge on orders
+## § 121. Transferred
 
-    The Committee on Rules and Administration of the United States Senate is authorized and directed hereafter to add a minimum of 10 per centum to each order in excess of 10 cents served in the Senate restaurants and 20 per centum to all orders served outside of said restaurants, and the proceeds accruing therefrom shall be placed in a fund to be used in the payment of any deficit incurred in the management of such kitchens and restaurants.
+ __Codification__ 
 
-([May 18, 1937, ch. 223, § 1][/us/act/1937-05-18/ch223/s1], [50 Stat. 173][/us/stat/50/173]; [Aug. 2, 1946, ch. 753][/us/act/1946-08-02/ch753], title I, § 102, [60 Stat. 814][/us/stat/60/814].)
-
- __Amendments__ 
-
-    1946—Act Aug. 2, 1946, substituted “Committee on Rules and Administration” for “Committee on Rules”.
-
- __Effective Date of 1946 Amendment__ 
-
-    [Act Aug. 2, 1946, ch. 753][/us/act/1946-08-02/ch753], title I, § 142, [60 Stat. 834][/us/stat/60/834], provided that the amendment made by that act is effective Jan. 2, 1947.
+    Section 121 was editorially reclassified as [section 2052 of this title][/us/usc/t2/s2052].
 
 ----------
 
@@ -34,11 +26,6 @@
 ----------
 ----------
 
-[/us/act/1937-05-18/ch223/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-05-18%2Fch223%2Fs1
-[/us/stat/50/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F50%2F173
-[/us/act/1946-08-02/ch753]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-02%2Fch753
-[/us/stat/60/814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F814
-[/us/act/1946-08-02/ch753]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-02%2Fch753
-[/us/stat/60/834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F834
+[/us/usc/t2/s2052]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs2052
 
 

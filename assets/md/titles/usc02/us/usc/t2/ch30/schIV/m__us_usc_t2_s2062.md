@@ -75,7 +75,7 @@
 
     (e) __Fund as category of allowances and expenses__ 
 
-        The Fund shall be treated as a category of allowances and expenses for purposes of [section 95b(a) of this title][/us/usc/t2/s95b/a].
+        The Fund shall be treated as a category of allowances and expenses for purposes of [section 5507(a) of this title][/us/usc/t2/s5507/a].
 
     (f) __Definitions__ 
 
@@ -226,7 +226,7 @@
 ----------
 ----------
 
-[/us/usc/t2/s95b/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs95b%2Fa
+[/us/usc/t2/s5507/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs5507%2Fa
 [/us/pl/102/90/s312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F90%2Fs312
 [/us/stat/105/467]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F467
 [/us/pl/102/392/s319/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F392%2Fs319%2Fa

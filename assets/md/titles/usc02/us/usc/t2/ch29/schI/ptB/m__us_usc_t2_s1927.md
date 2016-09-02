@@ -117,6 +117,20 @@
 
     Subsec. (g). [Pub. L. 108–7, § 1004(3)][/us/pl/108/7/s1004/3], redesignated subsec. (g) as (f).
 
+ __Capitol Police Longevity Compensation__ 
+
+[Pub. L. 88–454, § 104(c)][/us/pl/88/454/s104/c], Aug. 20, 1964, [78 Stat. 550][/us/stat/78/550], provided that: 
+
+> “Any member of the Capitol Police who by reason of the provision repealed by subsection (b) \[subsec. (c) of [section 4507 of this title][/us/usc/t2/s4507]\] was receiving immediately prior to the effective date of this section \[Sep. 1, 1964\], longevity compensation provided by \[former\] section 105 of the Legislative Branch Appropriation Act, 1959 \[[Pub. L. 85–570][/us/pl/85/570], [72 Stat. 453][/us/stat/72/453]\], shall, on and after such effective date, receive in lieu thereof a longevity increase under section 106(b) of the Legislative Branch Appropriation Act, 1963 \[[2 U.S.C. 4507(b)][/us/usc/t2/s4507/b]\], in addition to any other such increases (not to exceed three) to which he may otherwise be entitled under such section. In computing the length of service of such member for the purpose of such other increases, only service performed subsequent to the date on which he began receiving longevity compensation in accordance with such \[former\] section 105 shall be counted.”
+
+    \[[Section 4507 of this title][/us/usc/t2/s4507], referred to above, not to apply, on or after Oct. 1, 1983, to any individual whose pay is disbursed by the Secretary of the Senate except for individuals entitled to longevity compensation prior to Oct. 1, 1983, on the basis of service performed prior to such date, see [section 4509 of this title][/us/usc/t2/s4509].\]
+
+\[[Pub. L. 88–454, § 104(d)][/us/pl/88/454/s104/d], Aug. 20, 1964, [78 Stat. 550][/us/stat/78/550], provided that: 
+
+> “This section \[amending [section 4507 of this title][/us/usc/t2/s4507] and enacting provisions set out as a note above\] shall become effective on the first day of the month following the date of enactment of this Act \[Aug. 20, 1964\].”
+
+\]
+
 ----------
 
 [Previous](./../../../../../..//us/usc/t2/ch29/schI/ptB/m__us_usc_t2_s1926.md) | [Next](./../../../../../..//us/usc/t2/ch29/schI/ptB/m__us_usc_t2_s1928.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1927)
@@ -141,5 +155,16 @@
 [/us/pl/108/7/s1004/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2Fs1004%2F3
 [/us/pl/108/7/s1004/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2Fs1004%2F2
 [/us/pl/108/7/s1004/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2Fs1004%2F3
+[/us/pl/88/454/s104/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F454%2Fs104%2Fc
+[/us/stat/78/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F550
+[/us/usc/t2/s4507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs4507
+[/us/pl/85/570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F570
+[/us/stat/72/453]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F453
+[/us/usc/t2/s4507/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs4507%2Fb
+[/us/usc/t2/s4507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs4507
+[/us/usc/t2/s4509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs4509
+[/us/pl/88/454/s104/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F454%2Fs104%2Fd
+[/us/stat/78/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F550
+[/us/usc/t2/s4507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs4507
 
 

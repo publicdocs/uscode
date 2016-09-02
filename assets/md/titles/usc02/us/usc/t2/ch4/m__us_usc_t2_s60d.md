@@ -19,7 +19,7 @@
 
  __Effective Date of Repeal__ 
 
-    Repeal applicable with respect to pay periods beginning after the expiration of the 1-year period which begins Nov. 12, 2001, see [section 116(c) of Pub. L. 107–68][/us/pl/107/68/s116/c], set out as an Effective Date note under [section 60d–1 of this title][/us/usc/t2/s60d–1].
+    Repeal applicable with respect to pay periods beginning after the expiration of the 1-year period which begins Nov. 12, 2001, see [section 116(c) of Pub. L. 107–68][/us/pl/107/68/s116/c], set out as an Effective Date note under [section 4551 of this title][/us/usc/t2/s4551].
 
 ----------
 
@@ -37,6 +37,6 @@
 [/us/pl/104/186/s204/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2Fs204%2F3
 [/us/stat/110/1729]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1729
 [/us/pl/107/68/s116/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F68%2Fs116%2Fc
-[/us/usc/t2/s60d–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs60d%E2%80%931
+[/us/usc/t2/s4551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs4551
 
 

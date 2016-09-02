@@ -13,15 +13,11 @@
 
 [Previous](./../../../..//us/usc/t2/ch3/m__us_usc_t2_s49.md) | [Next](./../../../..//us/usc/t2/ch3/m__us_usc_t2_s51.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs50)
 
-## § 50. Substitute to sign certificates for salary and accounts
+## § 50. Transferred
 
-    The Speaker is authorized to designate from time to time some one from among those appointed by him and appropriated for and employed in his office, whose duty it shall be under the direction of the Speaker to sign in his name and for him all certificates required by [section 48 of this title][/us/usc/t2/s48] for salary and accounts for traveling expenses in going to and returning from Congress of Representatives and Delegates.
+ __Codification__ 
 
-(Nov. 12, 1903, P. Res. No. 1, [33 Stat. 1][/us/stat/33/1].)
-
- __References in Text__ 
-
-    [Section 48 of this title][/us/usc/t2/s48], referred to in text, was in the original “section forty-seven of the Revised Statutes”, which enacted part of [section 48 of this title][/us/usc/t2/s48]. See Codification note under [section 48 of this title][/us/usc/t2/s48].
+    Section 50 was editorially reclassified as [section 5308 of this title][/us/usc/t2/s5308].
 
 ----------
 
@@ -30,10 +26,6 @@
 ----------
 ----------
 
-[/us/usc/t2/s48]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs48
-[/us/stat/33/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F33%2F1
-[/us/usc/t2/s48]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs48
-[/us/usc/t2/s48]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs48
-[/us/usc/t2/s48]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs48
+[/us/usc/t2/s5308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs5308
 
 

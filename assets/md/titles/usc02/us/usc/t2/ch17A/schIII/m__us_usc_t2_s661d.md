@@ -25,7 +25,7 @@
 
     (c) __Treasury transactions with financing accounts__ 
 
-        The Secretary of the Treasury shall borrow from, receive from, lend to, or pay to the financing accounts such amounts as may be appropriate. The Secretary of the Treasury may prescribe forms and denominations, maturities, and terms and conditions for the transactions described above, except that the rate of interest charged by the Secretary on lending to financing accounts (including amounts treated as lending to financing accounts by the Federal Financing Bank (hereinafter in this subsection referred to as the “Bank”) pursuant to section 655(b)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of this title) and the rate of interest paid to financing accounts on uninvested balances in financing accounts shall be the same as the rate determined pursuant to [section 661a(5)(E) of this title][/us/usc/t2/s661a/5/E]. For guaranteed loans financed by the Bank and treated as direct loans by a Federal agency pursuant to section 655(b)  <sup>\[1\]</sup>  of this title, any fee or interest surcharge (the amount by which the interest rate charged exceeds the rate determined pursuant to [section 661a(5)(E) of this title][/us/usc/t2/s661a/5/E]) that the Bank charges to a private borrower pursuant to [section 2285(c) of title 12][/us/usc/t12/s2285/c] shall be considered a cash flow to the Government for the purposes of determining the cost of the direct loan pursuant to [section 661a(5) of this title][/us/usc/t2/s661a/5]. All such amounts shall be credited to the appropriate financing account. The Bank is authorized to require reimbursement from a Federal agency to cover the administrative expenses of the Bank that are attributable to the direct loans financed for that agency. All such payments by an agency shall be considered administrative expenses subject to [section 661c(g) of this title][/us/usc/t2/s661c/g]. This subsection shall apply to transactions related to direct loan obligations or loan guarantee commitments made on or after October 1, 1991. The authorities described above shall not be construed to supersede or override the authority of the head of a Federal agency to administer and operate a direct loan or loan guarantee program. All of the transactions provided in this subsection shall be subject to the provisions of subchapter II of chapter 15 of title 31. Cash balances of the financing accounts in excess of current requirements shall be maintained in a form of uninvested funds and the Secretary of the Treasury shall pay interest on these funds.
+        The Secretary of the Treasury shall borrow from, receive from, lend to, or pay to the financing accounts such amounts as may be appropriate. The Secretary of the Treasury may prescribe forms and denominations, maturities, and terms and conditions for the transactions described above, except that the rate of interest charged by the Secretary on lending to financing accounts (including amounts treated as lending to financing accounts by the Federal Financing Bank (hereinafter in this subsection referred to as the “Bank”) pursuant to [section 655(b) of this title][/us/usc/t2/s655/b]) and the rate of interest paid to financing accounts on uninvested balances in financing accounts shall be the same as the rate determined pursuant to [section 661a(5)(E) of this title][/us/usc/t2/s661a/5/E]. For guaranteed loans financed by the Bank and treated as direct loans by a Federal agency pursuant to [section 655(b) of this title][/us/usc/t2/s655/b], any fee or interest surcharge (the amount by which the interest rate charged exceeds the rate determined pursuant to [section 661a(5)(E) of this title][/us/usc/t2/s661a/5/E]) that the Bank charges to a private borrower pursuant to [section 2285(c) of title 12][/us/usc/t12/s2285/c] shall be considered a cash flow to the Government for the purposes of determining the cost of the direct loan pursuant to [section 661a(5) of this title][/us/usc/t2/s661a/5]. All such amounts shall be credited to the appropriate financing account. The Bank is authorized to require reimbursement from a Federal agency to cover the administrative expenses of the Bank that are attributable to the direct loans financed for that agency. All such payments by an agency shall be considered administrative expenses subject to [section 661c(g) of this title][/us/usc/t2/s661c/g]. This subsection shall apply to transactions related to direct loan obligations or loan guarantee commitments made on or after October 1, 1991. The authorities described above shall not be construed to supersede or override the authority of the head of a Federal agency to administer and operate a direct loan or loan guarantee program. All of the transactions provided in this subsection shall be subject to the provisions of subchapter II of chapter 15 of title 31. Cash balances of the financing accounts in excess of current requirements shall be maintained in a form of uninvested funds and the Secretary of the Treasury shall pay interest on these funds.
 
     (d) __Authorization for liquidating accounts__ 
 
@@ -71,17 +71,15 @@
 
         Nothing in this subchapter shall be construed to change the authority or the responsibility of a Federal agency to determine the terms and conditions of eligibility for, or the amount of assistance provided by a direct loan or a loan guarantee.
 
-([Pub. L. 93–344, title V, § 505][/us/pl/93/344/s505], as added [Pub. L. 101–508, title XIII, § 13201(a)][/us/pl/101/508/s13201/a], Nov. 5, 1990, [104 Stat. 1388–613][/us/stat/104/1388-613]; amended [Pub. L. 105–33, title X, § 10117(c)][/us/pl/105/33/s10117/c], Aug. 5, 1997, [111 Stat. 694][/us/stat/111/694].)
-
- __References in Text__ 
-
-    [Section 655(b) of this title][/us/usc/t2/s655/b], referred to in subsec. (c), was in the original “section 406(b)” and was translated as reading “section 405(b)”, meaning [section 405(b) of Pub. L. 93–344][/us/pl/93/344/s405/b], to reflect the probable intent of Congress because of context and because section 406 does not contain a subsec. (b).
+([Pub. L. 93–344, title V, § 505][/us/pl/93/344/s505], as added [Pub. L. 101–508, title XIII, § 13201(a)][/us/pl/101/508/s13201/a], Nov. 5, 1990, [104 Stat. 1388–613][/us/stat/104/1388-613]; amended [Pub. L. 105–33, title X, § 10117(c)][/us/pl/105/33/s10117/c], Aug. 5, 1997, [111 Stat. 694][/us/stat/111/694]; [Pub. L. 113–67, div. A, title I, § 122(15)][/us/pl/113/67/s122/15], Dec. 26, 2013, [127 Stat. 1176][/us/stat/127/1176].)
 
  __Prior Provisions__ 
 
     A prior [section 505 of Pub. L. 93–344][/us/pl/93/344/s505], title V, July 12, 1974, [88 Stat. 322][/us/stat/88/322], repealed sections 66 and 81 of this title.
 
  __Amendments__ 
+
+    2013—Subsec. (c). [Pub. L. 113–67][/us/pl/113/67] made technical amendment to reference in original act which appears in text as reference to [section 655(b) of this title][/us/usc/t2/s655/b].
 
     1997—Subsec. (c). [Pub. L. 105–33, § 10117(c)(2)][/us/pl/105/33/s10117/c/2], substituted “supersede” for “supercede”.
 
@@ -96,7 +94,9 @@
 ----------
 ----------
 
+[/us/usc/t2/s655/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs655%2Fb
 [/us/usc/t2/s661a/5/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs661a%2F5%2FE
+[/us/usc/t2/s655/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs655%2Fb
 [/us/usc/t2/s661a/5/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs661a%2F5%2FE
 [/us/usc/t12/s2285/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2285%2Fc
 [/us/usc/t2/s661a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs661a%2F5
@@ -106,10 +106,12 @@
 [/us/stat/104/1388-613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-613
 [/us/pl/105/33/s10117/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs10117%2Fc
 [/us/stat/111/694]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F694
-[/us/usc/t2/s655/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs655%2Fb
-[/us/pl/93/344/s405/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F344%2Fs405%2Fb
+[/us/pl/113/67/s122/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs122%2F15
+[/us/stat/127/1176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1176
 [/us/pl/93/344/s505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F344%2Fs505
 [/us/stat/88/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F322
+[/us/pl/113/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67
+[/us/usc/t2/s655/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs655%2Fb
 [/us/pl/105/33/s10117/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs10117%2Fc%2F2
 [/us/pl/105/33/s10117/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs10117%2Fc%2F1
 [/us/usc/t2/s655/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs655%2Fb

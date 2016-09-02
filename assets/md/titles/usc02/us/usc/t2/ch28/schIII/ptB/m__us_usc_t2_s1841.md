@@ -27,7 +27,7 @@
 
  __References in Text__ 
 
-    The effective date of this section, referred to in text, means immediately prior to noon on Jan. 3, 1971. See [section 601(1) of Pub. L. 91–510][/us/pl/91/510/s601/1], set out as an Effective Date of 1970 Amendment note under [section 72a of this title][/us/usc/t2/s72a].
+    The effective date of this section, referred to in text, means immediately prior to noon on Jan. 3, 1971. See [section 601(1) of Pub. L. 91–510][/us/pl/91/510/s601/1], set out as an Effective Date of 1970 Amendment note under [section 4301 of this title][/us/usc/t2/s4301].
 
  __Codification__ 
 
@@ -43,7 +43,7 @@
 [/us/pl/91/510/s481]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F510%2Fs481
 [/us/stat/84/1196]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1196
 [/us/pl/91/510/s601/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F510%2Fs601%2F1
-[/us/usc/t2/s72a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs72a
+[/us/usc/t2/s4301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs4301
 [/us/pl/107/217/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs1
 [/us/stat/116/1062]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1062
 

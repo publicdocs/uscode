@@ -39,7 +39,7 @@
 
 >     “(5) For each fiscal year thereafter such sums as may be necessary to carry on the work of the Office.”
 
-    \[Section 204 was made effective Aug. 2, 1946, by section 245 of act Aug. 2, 1946, set out as a note under [section 72a of this title][/us/usc/t2/s72a].\]
+    \[Section 204 of act Aug. 2, 1946, set out above, was made effective Aug. 2, 1946, by section 245 of act Aug. 2, 1946, set out as a note under [section 4301 of this title][/us/usc/t2/s4301].\]
 
 ----------
 
@@ -58,6 +58,6 @@
 [/us/usc/t2/s282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs282
 [/us/act/1946-08-02/ch753/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-02%2Fch753%2Fs204
 [/us/stat/60/837]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F837
-[/us/usc/t2/s72a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs72a
+[/us/usc/t2/s4301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs4301
 
 

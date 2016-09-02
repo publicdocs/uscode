@@ -409,6 +409,22 @@ Part B—Compensation  </td>
 
   <tr>
 
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs1853" data-uslm-ref="/us/usc/t2/s1853">1853.</a>  </td>
+
+    <td> Exemption of officers and employees of Architect of Capitol from certain Federal pay provisions.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs1854" data-uslm-ref="/us/usc/t2/s1854">1854.</a>  </td>
+
+    <td> Overtime compensation for certain employees of Architect of Capitol.  </td>
+
+  </tr>
+
+  <tr>
+
     <td> 
 
 SUBCHAPTER IV—APPROPRIATIONS AND EXPENDITURES  </td>

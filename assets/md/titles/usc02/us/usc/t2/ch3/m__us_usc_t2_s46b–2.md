@@ -19,9 +19,9 @@
 
 §§ 46c, 46d. __Repealed.__  __[__  __Pub. L. 90–57__  __][/us/pl/90/57]__  __,__  __July 28, 1967__  __,__  __[__  __81 Stat. 129__  __][/us/stat/81/129]__ 
 
-    Section 46c, acts [June 13, 1945, ch. 189][/us/act/1945-06-13/ch189], [59 Stat. 244][/us/stat/59/244]; [July 1, 1946, ch. 530][/us/act/1946-07-01/ch530], [60 Stat. 392][/us/stat/60/392]; [Aug. 2, 1946, ch. 753][/us/act/1946-08-02/ch753], title I, § 102, [60 Stat. 814][/us/stat/60/814]; [Nov. 1, 1951, ch. 665][/us/act/1951-11-01/ch665], Ch. 1, [65 Stat. 760][/us/stat/65/760]; [Aug. 1, 1953, ch. 304][/us/act/1953-08-01/ch304], title I, [67 Stat. 321][/us/stat/67/321]; [June 27, 1956, ch. 453][/us/act/1956-06-27/ch453], [70 Stat. 360][/us/stat/70/360]; Jan. 6, 1964, [Pub. L. 88–258, title IV][/us/pl/88/258], [77 Stat. 863][/us/stat/77/863]; July 27, 1965, [Pub. L. 89–90][/us/pl/89/90], [79 Stat. 268][/us/stat/79/268]; Aug. 27, 1966, [Pub. L. 89–545][/us/pl/89/545], [80 Stat. 357][/us/stat/80/357], provided for payment of long-distance telephone calls for Senators and Vice President made to and from Washington, D.C. See [section 58 of this title][/us/usc/t2/s58].
+    Section 46c, acts [June 13, 1945, ch. 189][/us/act/1945-06-13/ch189], [59 Stat. 244][/us/stat/59/244]; [July 1, 1946, ch. 530][/us/act/1946-07-01/ch530], [60 Stat. 392][/us/stat/60/392]; [Aug. 2, 1946, ch. 753][/us/act/1946-08-02/ch753], title I, § 102, [60 Stat. 814][/us/stat/60/814]; [Nov. 1, 1951, ch. 665][/us/act/1951-11-01/ch665], Ch. 1, [65 Stat. 760][/us/stat/65/760]; [Aug. 1, 1953, ch. 304][/us/act/1953-08-01/ch304], title I, [67 Stat. 321][/us/stat/67/321]; [June 27, 1956, ch. 453][/us/act/1956-06-27/ch453], [70 Stat. 360][/us/stat/70/360]; Jan. 6, 1964, [Pub. L. 88–258, title IV][/us/pl/88/258], [77 Stat. 863][/us/stat/77/863]; July 27, 1965, [Pub. L. 89–90][/us/pl/89/90], [79 Stat. 268][/us/stat/79/268]; Aug. 27, 1966, [Pub. L. 89–545][/us/pl/89/545], [80 Stat. 357][/us/stat/80/357], provided for payment of long-distance telephone calls for Senators and Vice President made to and from Washington, D.C. See [section 6314 of this title][/us/usc/t2/s6314].
 
-    Section 46d, acts [June 13, 1945, ch. 189][/us/act/1945-06-13/ch189], [59 Stat. 244][/us/stat/59/244]; [July 1, 1946, ch. 530][/us/act/1946-07-01/ch530], [60 Stat. 392][/us/stat/60/392]; [Aug. 2, 1946, ch. 753][/us/act/1946-08-02/ch753], title I, § 102, [60 Stat. 814][/us/stat/60/814]; [Aug. 1, 1953, ch. 304][/us/act/1953-08-01/ch304], title I, [67 Stat. 321][/us/stat/67/321]; [July 2, 1954, ch. 455][/us/act/1954-07-02/ch455], title I, [68 Stat. 400][/us/stat/68/400]; July 31, 1958, [Pub. L. 85–570][/us/pl/85/570], [72 Stat. 442][/us/stat/72/442]; July 27, 1965, [Pub. L. 89–90][/us/pl/89/90], [79 Stat. 268][/us/stat/79/268], provided for payment from contingent fund of Senate of long-distance telephone calls for Senators, originating and terminating outside Washington, D.C., and additional payments for calls to or from Washington, D.C. See [section 58 of this title][/us/usc/t2/s58].
+    Section 46d, acts [June 13, 1945, ch. 189][/us/act/1945-06-13/ch189], [59 Stat. 244][/us/stat/59/244]; [July 1, 1946, ch. 530][/us/act/1946-07-01/ch530], [60 Stat. 392][/us/stat/60/392]; [Aug. 2, 1946, ch. 753][/us/act/1946-08-02/ch753], title I, § 102, [60 Stat. 814][/us/stat/60/814]; [Aug. 1, 1953, ch. 304][/us/act/1953-08-01/ch304], title I, [67 Stat. 321][/us/stat/67/321]; [July 2, 1954, ch. 455][/us/act/1954-07-02/ch455], title I, [68 Stat. 400][/us/stat/68/400]; July 31, 1958, [Pub. L. 85–570][/us/pl/85/570], [72 Stat. 442][/us/stat/72/442]; July 27, 1965, [Pub. L. 89–90][/us/pl/89/90], [79 Stat. 268][/us/stat/79/268], provided for payment from contingent fund of Senate of long-distance telephone calls for Senators, originating and terminating outside Washington, D.C., and additional payments for calls to or from Washington, D.C. See [section 6314 of this title][/us/usc/t2/s6314].
 
  __Effective Date of Repeal__ 
 
@@ -58,7 +58,7 @@
 [/us/stat/79/268]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F268
 [/us/pl/89/545]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F545
 [/us/stat/80/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F357
-[/us/usc/t2/s58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs58
+[/us/usc/t2/s6314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs6314
 [/us/act/1945-06-13/ch189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-06-13%2Fch189
 [/us/stat/59/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F59%2F244
 [/us/act/1946-07-01/ch530]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-07-01%2Fch530
@@ -73,7 +73,7 @@
 [/us/stat/72/442]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F442
 [/us/pl/89/90]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F90
 [/us/stat/79/268]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F268
-[/us/usc/t2/s58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs58
+[/us/usc/t2/s6314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs6314
 [/us/pl/90/57]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F57
 
 

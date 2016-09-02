@@ -13,15 +13,11 @@
 
 [Previous](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s117k.md) | [Next](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s117m.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs117l)
 
-## § 117l. Deposit of House Information Resources reimbursements for services
-
-    Effective with respect to fiscal year 2003 and each succeeding fiscal year, any amount received by House Information Resources from any office of the House of Representatives as reimbursement for services provided shall be deposited in the Treasury for credit to the account of the Office of the Chief Administrative Officer of the House of Representatives.
-
-([Pub. L. 108–7, div. H, title I, § 103][/us/pl/108/7/s103], Feb. 20, 2003, [117 Stat. 354][/us/stat/117/354].)
+## § 117l. Transferred
 
  __Codification__ 
 
-    Section is from the Legislative Branch Appropriations Act, 2003, which is div. H of the Consolidated Appropriations Resolution, 2003.
+    Section 117l was editorially reclassified as [section 5544 of this title][/us/usc/t2/s5544].
 
 ----------
 
@@ -30,7 +26,6 @@
 ----------
 ----------
 
-[/us/pl/108/7/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2Fs103
-[/us/stat/117/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F354
+[/us/usc/t2/s5544]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs5544
 
 

@@ -23,7 +23,7 @@
 
  __References in Text__ 
 
-    Subsection (b) of section 3 of the Speaker’s salary directive of June 11, 1968, referred to in subsec. (a), is set out as a note under [section 60a–2 of this title][/us/usc/t2/s60a–2].
+    Subsection (b) of section 3 of the Speaker’s salary directive of June 11, 1968, referred to in subsec. (a), is set out as a note under [section 4531 of this title][/us/usc/t2/s4531].
 
  __Codification__ 
 
@@ -35,7 +35,7 @@
 
  __Increases in Compensation__ 
 
-    Increases in compensation for House officers and employees under authority of Federal Salary Act of 1967 ([Pub. L. 90–206][/us/pl/90/206]), Federal Pay Comparability Act of 1970 ([Pub. L. 91–656][/us/pl/91/656]), and Legislative Branch Appropriations Act, 1988 ([Pub. L. 100–202][/us/pl/100/202]), see sections 60a–2 and 60a–2a of this title, and Salary Directives of Speaker of the House, set out as notes under those sections.
+    Increases in compensation for House officers and employees under authority of Federal Salary Act of 1967 ([Pub. L. 90–206][/us/pl/90/206]), Federal Pay Comparability Act of 1970 ([Pub. L. 91–656][/us/pl/91/656]), and Legislative Branch Appropriations Act, 1988 ([Pub. L. 100–202][/us/pl/100/202]), see sections 4531 and 4532 of this title, and Salary Directives of Speaker of the House, set out as notes under those sections.
 
 ----------
 
@@ -46,7 +46,7 @@
 
 [/us/pl/95/94/s115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F94%2Fs115
 [/us/stat/91/668]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F668
-[/us/usc/t2/s60a–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs60a%E2%80%932
+[/us/usc/t2/s4531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs4531
 [/us/pl/95/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F94
 [/us/pl/90/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F206
 [/us/pl/91/656]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F656

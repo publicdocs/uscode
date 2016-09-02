@@ -13,17 +13,11 @@
 
 [Previous](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s65a.md) | [Next](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s65c.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs65b)
 
-## § 65b. Advances to Sergeant at Arms of Senate for extraordinary expenses
+## § 65b. Transferred
 
-    The Secretary of the Senate on and after July 31, 1958, is authorized, in his discretion, to advance to the Sergeant at Arms of the Senate such sums as may be necessary, not exceeding $4,000, to meet any extraordinary expenses of the Senate.
+ __Codification__ 
 
-([Pub. L. 85–570][/us/pl/85/570], July 31, 1958, [72 Stat. 442][/us/stat/72/442]; [Pub. L. 94–440, title I, § 108][/us/pl/94/440/s108], Oct. 1, 1976, [90 Stat. 1445][/us/stat/90/1445]; [Pub. L. 95–26, title I, § 104][/us/pl/95/26/s104], May 4, 1977, [91 Stat. 82][/us/stat/91/82].)
-
- __Amendments__ 
-
-    1977—[Pub. L. 95–26][/us/pl/95/26] struck out “during any fiscal year” after “$4,000”.
-
-    1976—[Pub. L. 94–440][/us/pl/94/440] substituted “$4,000 during any fiscal year” for “$2,000”.
+    Section 65b was editorially reclassified as [section 6613 of this title][/us/usc/t2/s6613].
 
 ----------
 
@@ -32,13 +26,6 @@
 ----------
 ----------
 
-[/us/pl/85/570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F570
-[/us/stat/72/442]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F442
-[/us/pl/94/440/s108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F440%2Fs108
-[/us/stat/90/1445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1445
-[/us/pl/95/26/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F26%2Fs104
-[/us/stat/91/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F82
-[/us/pl/95/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F26
-[/us/pl/94/440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F440
+[/us/usc/t2/s6613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs6613
 
 

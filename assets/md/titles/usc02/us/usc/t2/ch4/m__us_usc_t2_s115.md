@@ -13,11 +13,11 @@
 
 [Previous](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s114.md) | [Next](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s116.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs115)
 
-## § 115. Index to House daily calendar
+## § 115. Transferred
 
-    The index to the daily calendar of business of the House of Representatives shall be printed only on Monday of each week.
+ __Codification__ 
 
-([Mar. 1, 1921, ch. 89, § 1][/us/act/1921-03-01/ch89/s1], [41 Stat. 1181][/us/stat/41/1181].)
+    Section 115 was editorially reclassified as [section 5563 of this title][/us/usc/t2/s5563].
 
 ----------
 
@@ -26,7 +26,6 @@
 ----------
 ----------
 
-[/us/act/1921-03-01/ch89/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1921-03-01%2Fch89%2Fs1
-[/us/stat/41/1181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F41%2F1181
+[/us/usc/t2/s5563]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs5563
 
 

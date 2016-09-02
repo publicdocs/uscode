@@ -11,13 +11,13 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t2/ch30/schVII/m__us_usc_t2_s2171.md) | [Next](./../../../../..//us/usc/t2/ch30/schVIII/m__us_usc_t2_s2181.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fch30%2FschVIII)
+[Previous](./../../../../..//us/usc/t2/ch30/schVII/m__us_usc_t2_s2172.md) | [Next](./../../../../..//us/usc/t2/ch30/schVIII/m__us_usc_t2_s2181.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fch30%2FschVIII)
 
 ### SUBCHAPTER VIII—MISCELLANEOUS
 
 ----------
 
-[Previous](./../../../../..//us/usc/t2/ch30/schVII/m__us_usc_t2_s2171.md) | [Next](./../../../../..//us/usc/t2/ch30/schVIII/m__us_usc_t2_s2181.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fch30%2FschVIII)
+[Previous](./../../../../..//us/usc/t2/ch30/schVII/m__us_usc_t2_s2172.md) | [Next](./../../../../..//us/usc/t2/ch30/schVIII/m__us_usc_t2_s2181.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fch30%2FschVIII)
 
 ----------
 ----------

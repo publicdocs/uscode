@@ -13,21 +13,11 @@
 
 [Previous](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s68e.md) | [Next](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s69.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs68f)
 
-## § 68f. Payment of certain expenses
-
-    (a) __In general__ 
-
-        Subject to the approval of the Committee on Appropriations of the Senate, if in any fiscal year amounts in any appropriations account under the heading “SENATE” under the heading “LEGISLATIVE BRANCH” are available for more than 1 fiscal year, the Secretary of the Senate may establish procedures for the payment of expenses with respect to that account from any amounts available for that fiscal year.
-
-    (b) __Effective date__ 
-
-        This section shall apply to fiscal year 2012 and each fiscal year thereafter.
-
-([Pub. L. 112–74, div. G, title I, § 1][/us/pl/112/74/s1], Dec. 23, 2011, [125 Stat. 1118][/us/stat/125/1118].)
+## § 68f. Transferred
 
  __Codification__ 
 
-    Section is from the Legislative Branch Appropriations Act, 2012, which is div. G of the Consolidated Appropriations Act, 2012.
+    Section 68f was editorially reclassified as [section 6563 of this title][/us/usc/t2/s6563].
 
 ----------
 
@@ -36,7 +26,6 @@
 ----------
 ----------
 
-[/us/pl/112/74/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2Fs1
-[/us/stat/125/1118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1118
+[/us/usc/t2/s6563]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs6563
 
 

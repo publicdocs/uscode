@@ -15,7 +15,7 @@
 
 ## § 130. Repealed. [Pub. L. 95–391, title I, § 111][/us/pl/95/391/s111], Sept. 30, 1978, [92 Stat. 777][/us/stat/92/777]
 
-    Section, [Pub. L. 87–730, § 103][/us/pl/87/730/s103], Oct. 2, 1962, [76 Stat. 693][/us/stat/76/693]; H. Res. 163, Mar. 19, 1975; [Pub. L. 95–94, title I, § 115][/us/pl/95/94/s115], Aug. 5, 1977, [91 Stat. 668][/us/stat/91/668], authorized payment of expenses of participation by House in interparliamentary institutions. See [section 130–1 of this title][/us/usc/t2/s130–1].
+    Section, [Pub. L. 87–730, § 103][/us/pl/87/730/s103], Oct. 2, 1962, [76 Stat. 693][/us/stat/76/693]; H. Res. 163, Mar. 19, 1975; [Pub. L. 95–94, title I, § 115][/us/pl/95/94/s115], Aug. 5, 1977, [91 Stat. 668][/us/stat/91/668], authorized payment of expenses of participation by House in interparliamentary institutions. See [section 5581 of this title][/us/usc/t2/s5581].
 
     The repeal of this section is based on a part of section 2 of House Resolution No. 1047, Ninety-fifth Congress, Apr. 4, 1978, which was enacted into permanent law by [Pub. L. 95–391][/us/pl/95/391].
 
@@ -44,7 +44,7 @@
 [/us/stat/76/693]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F693
 [/us/pl/95/94/s115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F94%2Fs115
 [/us/stat/91/668]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F668
-[/us/usc/t2/s130–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs130%E2%80%931
+[/us/usc/t2/s5581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs5581
 [/us/pl/95/391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F391
 [/us/pl/95/391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F391
 [/us/pl/95/391/s111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F391%2Fs111

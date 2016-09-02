@@ -171,7 +171,7 @@
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs29d" data-uslm-ref="/us/usc/t2/s29d">29d.</a>  </td>
 
-    <td> Committee on Standards of Official Conduct of House of Representatives.  </td>
+    <td> Transferred.  </td>
 
   </tr>
 

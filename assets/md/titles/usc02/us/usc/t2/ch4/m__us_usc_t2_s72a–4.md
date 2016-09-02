@@ -15,11 +15,11 @@
 
 ## § 72a–4. Repealed. [Pub. L. 90–57, § 105(i)(1)][/us/pl/90/57/s105/i/1], July 28, 1967, [81 Stat. 144][/us/stat/81/144]
 
-    Section, [Pub. L. 85–75][/us/pl/85/75], July 1, 1957, [71 Stat. 246][/us/stat/71/246], provided for computation of salaries and wages paid out of Senate contingent-expense items. See section 61–1(b), (c) of this title.
+    Section, [Pub. L. 85–75][/us/pl/85/75], July 1, 1957, [71 Stat. 246][/us/stat/71/246], provided for computation of salaries and wages paid out of Senate contingent-expense items. See section 4575(b), (c) of this title.
 
  __Effective Date of Repeal__ 
 
-    Repeal effective Aug. 1, 1967, see [section 105(k) of Pub. L. 90–57][/us/pl/90/57/s105/k], set out as an Effective Date note under [section 61–1 of this title][/us/usc/t2/s61–1].
+    Repeal effective Aug. 1, 1967, see [section 105(k) of Pub. L. 90–57][/us/pl/90/57/s105/k], set out as an Effective Date note under [section 4575 of this title][/us/usc/t2/s4575].
 
 ----------
 
@@ -33,6 +33,6 @@
 [/us/pl/85/75]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F75
 [/us/stat/71/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F71%2F246
 [/us/pl/90/57/s105/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F57%2Fs105%2Fk
-[/us/usc/t2/s61–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs61%E2%80%931
+[/us/usc/t2/s4575]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs4575
 
 

@@ -17,7 +17,7 @@
 
     (a) __Use of moneys in Senate contingent fund__ 
 
-        Effective with the fiscal year ending September 30, 2006, and each fiscal year thereafter, subject to the approval of the Committee on Appropriations of the Senate, any unexpended and unobligated funds in the appropriation account for the “Secretary of the Senate” within the contingent fund of the Senate which have not been withdrawn in accordance with [section 102a of this title][/us/usc/t2/s102a], shall be available for the expenses incurred, without regard to the fiscal year in which incurred, for the purchase of art and historical objects for the United States Senate Collection, for exhibits and public education relating to the United States Senate Collection, for administrative and transitional expenses of the Senate Commission on Art, and for the conservation, restoration, and replication or replacement, in whole or in part, of works of art, historical objects, documents, or material relating to historical matters for placement or exhibition within the Senate wing of the United States Capitol, any Senate Office Building, or any room, corridor, or other space therein. In the case of replication or replacement of such works, objects, documents, or material, the funds available under this subsection shall be available for any such works, objects, documents, or material previously contained within the Senate wing of the Capitol, or a work, object, document, or material historically accurate.
+        Effective with the fiscal year ending September 30, 2006, and each fiscal year thereafter, subject to the approval of the Committee on Appropriations of the Senate, any unexpended and unobligated funds in the appropriation account for the “Secretary of the Senate” within the contingent fund of the Senate which have not been withdrawn in accordance with [section 4107 of this title][/us/usc/t2/s4107], shall be available for the expenses incurred, without regard to the fiscal year in which incurred, for the purchase of art and historical objects for the United States Senate Collection, for exhibits and public education relating to the United States Senate Collection, for administrative and transitional expenses of the Senate Commission on Art, and for the conservation, restoration, and replication or replacement, in whole or in part, of works of art, historical objects, documents, or material relating to historical matters for placement or exhibition within the Senate wing of the United States Capitol, any Senate Office Building, or any room, corridor, or other space therein. In the case of replication or replacement of such works, objects, documents, or material, the funds available under this subsection shall be available for any such works, objects, documents, or material previously contained within the Senate wing of the Capitol, or a work, object, document, or material historically accurate.
 
     (b) __United States Senate Collection__ 
 
@@ -78,7 +78,7 @@
 ----------
 ----------
 
-[/us/usc/t2/s102a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs102a
+[/us/usc/t2/s4107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs4107
 [/us/pl/101/302/s316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F302%2Fs316
 [/us/stat/104/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F246
 [/us/pl/101/520/s323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F520%2Fs323

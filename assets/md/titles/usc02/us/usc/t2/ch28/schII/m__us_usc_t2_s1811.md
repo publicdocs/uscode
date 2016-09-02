@@ -55,11 +55,11 @@
 
 >         The program established under this section shall not apply with respect to any materials which are subject to collection and sale under—
 
->             “(A) the third undesignated paragraph under the center heading ‘MISCELLANEOUS’ in the first section of the Act entitled ‘An Act making appropriations for sundry civil expenses of the government for the fiscal year ending June thirtieth, eighteen hundred and eighty-three, and for other purposes’, approved August 7, 1882 ([2 U.S.C. 117][/us/usc/t2/s117]);
+>             “(A) the third undesignated paragraph under the center heading ‘MISCELLANEOUS’ in the first section of the Act entitled ‘An Act making appropriations for sundry civil expenses of the government for the fiscal year ending June thirtieth, eighteen hundred and eighty-three, and for other purposes’, approved August 7, 1882 ([2 U.S.C. 117][/us/usc/t2/s117]) \[now [2 U.S.C. 6516][/us/usc/t2/s6516]\];
 
->             “(B) section 104(a) of the Legislative Branch Appropriations Act, 1987 (as enacted by reference in identical form by [section 101(j) of Public Law 99–500][/us/pl/99/500/s101/j] and [Public Law 99–591][/us/pl/99/591]) ([2 U.S.C. 117e][/us/usc/t2/s117e]);
+>             “(B) section 104(a) of the Legislative Branch Appropriations Act, 1987 (as enacted by reference in identical form by [section 101(j) of Public Law 99–500][/us/pl/99/500/s101/j] and [Public Law 99–591][/us/pl/99/591]) ([2 U.S.C. 117e][/us/usc/t2/s117e]) \[now [2 U.S.C. 5540][/us/usc/t2/s5540]\];
 
->             “(C) the Senate waste recycling program referred to in section 4 of the Legislative Branch Appropriations Act, 2001 ([2 U.S.C. 121f][/us/usc/t2/s121f]); or
+>             “(C) the Senate waste recycling program referred to in section 4 of the Legislative Branch Appropriations Act, 2001 ([2 U.S.C. 121f][/us/usc/t2/s121f]) \[now [2 U.S.C. 2026][/us/usc/t2/s2026]\]; or
 
 >             “(D) any other authorized program for the collection and sale of recyclable materials.
 
@@ -114,10 +114,13 @@
 [/us/pl/111/8/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F8%2Fs1101
 [/us/stat/123/822]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F822
 [/us/usc/t2/s117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs117
+[/us/usc/t2/s6516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs6516
 [/us/pl/99/500/s101/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500%2Fs101%2Fj
 [/us/pl/99/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591
 [/us/usc/t2/s117e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs117e
+[/us/usc/t2/s5540]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs5540
 [/us/usc/t2/s121f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs121f
+[/us/usc/t2/s2026]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs2026
 [/us/pl/107/68/s128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F68%2Fs128
 [/us/stat/115/579]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F579
 

@@ -129,6 +129,14 @@ SUBCHAPTER I—HOUSE OF REPRESENTATIVES  </td>
 
   <tr>
 
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs2013" data-uslm-ref="/us/usc/t2/s2013">2013.</a>  </td>
+
+    <td> Revolving fund for House gymnasium; deposit of receipts; availability for expenditure.  </td>
+
+  </tr>
+
+  <tr>
+
     <td> 
 
 SUBCHAPTER II—SENATE  </td>
@@ -172,6 +180,14 @@ SUBCHAPTER II—SENATE  </td>
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs2025" data-uslm-ref="/us/usc/t2/s2025">2025.</a>  </td>
 
     <td> Senate Garage.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs2026" data-uslm-ref="/us/usc/t2/s2026">2026.</a>  </td>
+
+    <td> Senate Staff Health and Fitness Facility Revolving Fund.  </td>
 
   </tr>
 
@@ -268,6 +284,14 @@ SUBCHAPTER III—RESTAURANTS  </td>
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs2051" data-uslm-ref="/us/usc/t2/s2051">2051.</a>  </td>
 
     <td> Continued benefits for certain Senate Restaurants employees.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs2052" data-uslm-ref="/us/usc/t2/s2052">2052.</a>  </td>
+
+    <td> Senate restaurant deficit fund; deposit of proceeds from surcharge on orders.  </td>
 
   </tr>
 
@@ -611,7 +635,7 @@ SUBCHAPTER VII—OTHER ENTITIES AND SERVICES  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs2161" data-uslm-ref="/us/usc/t2/s2161">2161.</a>  </td>
 
-    <td> John W. McCormack Residential Page School.  </td>
+    <td> Transferred.  </td>
 
   </tr>
 
@@ -692,6 +716,14 @@ SUBCHAPTER VII—OTHER ENTITIES AND SERVICES  </td>
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs2171" data-uslm-ref="/us/usc/t2/s2171">2171.</a>  </td>
 
     <td> Battery recharging stations for privately owned vehicles in parking areas under the jurisdiction of the House of Representatives at no net cost to the Federal Government.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs2172" data-uslm-ref="/us/usc/t2/s2172">2172.</a>  </td>
+
+    <td> Office of Congressional Accessibility Services.  </td>
 
   </tr>
 

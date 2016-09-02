@@ -13,11 +13,11 @@
 
 [Previous](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s66.md) | [Next](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s67.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs66a)
 
-## § 66a. Restriction on payment of dual compensation by Secretary of Senate
+## § 66a. Transferred
 
-    Unless otherwise specifically authorized by law, no part of any appropriation disbursed by the Secretary of the Senate shall be available for payment of compensation to any person holding any position, for any period for which such person received compensation for holding any other position, the compensation for which is disbursed by the Secretary of the Senate.
+ __Codification__ 
 
-([June 27, 1956, ch. 453][/us/act/1956-06-27/ch453], [70 Stat. 360][/us/stat/70/360].)
+    Section 66a was editorially reclassified as [section 4578 of this title][/us/usc/t2/s4578].
 
 ----------
 
@@ -26,7 +26,6 @@
 ----------
 ----------
 
-[/us/act/1956-06-27/ch453]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-06-27%2Fch453
-[/us/stat/70/360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F360
+[/us/usc/t2/s4578]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs4578
 
 

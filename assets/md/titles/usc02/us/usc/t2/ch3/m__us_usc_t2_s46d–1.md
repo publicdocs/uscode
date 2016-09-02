@@ -13,11 +13,11 @@
 
 [Previous](./../../../..//us/usc/t2/ch3/m__us_usc_t2_s46b–2.md) | [Next](./../../../..//us/usc/t2/ch3/m__us_usc_t2_s46d–2.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs46d%E2%80%931)
 
-## § 46d–1. Long-distance telephone calls for Vice President
+## § 46d–1. Transferred
 
-    Commencing January 20, 1949, the provisions of existing law relating to long-distance telephone calls for Senators shall be equally applicable to the Vice President of the United States.
+ __Codification__ 
 
-([May 24, 1949, ch. 138][/us/act/1949-05-24/ch138], title I, [63 Stat. 77][/us/stat/63/77].)
+    Section 46d–1 was editorially reclassified as [section 6118 of this title][/us/usc/t2/s6118].
 
 ----------
 
@@ -26,7 +26,6 @@
 ----------
 ----------
 
-[/us/act/1949-05-24/ch138]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-05-24%2Fch138
-[/us/stat/63/77]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F77
+[/us/usc/t2/s6118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs6118
 
 

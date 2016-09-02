@@ -15,11 +15,11 @@
 
 ## § 72a–1d. Repealed. [Pub. L. 95–94, title I, § 111(e)(1)][/us/pl/95/94/s111/e/1], Aug. 5, 1977, [91 Stat. 663][/us/stat/91/663]
 
-    Section, [Pub. L. 95–26, title I, § 106(a)][/us/pl/95/26/s106/a]–(e), May 4, 1977, [91 Stat. 83][/us/stat/91/83], 84, authorized Senators to employ individuals to assist with committee memberships of Senators and set forth compensation limitations and procedures applicable for employment of such individuals. See [section 72a–1e of this title][/us/usc/t2/s72a–1e] and section 111(a), (b) of [Pub. L. 95–94][/us/pl/95/94], set out as a note under [section 61–1 of this title][/us/usc/t2/s61–1] for related provisions.
+    Section, [Pub. L. 95–26, title I, § 106(a)][/us/pl/95/26/s106/a]–(e), May 4, 1977, [91 Stat. 83][/us/stat/91/83], 84, authorized Senators to employ individuals to assist with committee memberships of Senators and set forth compensation limitations and procedures applicable for employment of such individuals. See [section 4332 of this title][/us/usc/t2/s4332] and section 111(a), (b) of [Pub. L. 95–94][/us/pl/95/94], set out as a note under [section 4575 of this title][/us/usc/t2/s4575] for related provisions.
 
  __Effective Date of Repeal__ 
 
-    Repeal effective Oct. 1, 1977, see [section 111(f) of Pub. L. 95–94][/us/pl/95/94/s111/f], set out as an Effective Date note under [section 72a–1e of this title][/us/usc/t2/s72a–1e].
+    Repeal effective Oct. 1, 1977, see [section 111(f) of Pub. L. 95–94][/us/pl/95/94/s111/f], set out as an Effective Date note under [section 4332 of this title][/us/usc/t2/s4332].
 
  __Effective Date and Savings Provisions__ 
 
@@ -36,11 +36,11 @@
 [/us/stat/91/663]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F663
 [/us/pl/95/26/s106/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F26%2Fs106%2Fa
 [/us/stat/91/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F83
-[/us/usc/t2/s72a–1e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs72a%E2%80%931e
+[/us/usc/t2/s4332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs4332
 [/us/pl/95/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F94
-[/us/usc/t2/s61–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs61%E2%80%931
+[/us/usc/t2/s4575]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs4575
 [/us/pl/95/94/s111/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F94%2Fs111%2Ff
-[/us/usc/t2/s72a–1e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs72a%E2%80%931e
+[/us/usc/t2/s4332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs4332
 [/us/pl/95/26/s106/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F26%2Fs106%2Fg
 [/us/stat/91/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F84
 [/us/usc/t2/s72a–1d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs72a%E2%80%931d

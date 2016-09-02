@@ -13,19 +13,11 @@
 
 [Previous](./../../../../..//us/usc/t2/ch14/schI/m__us_usc_t2_s441k.md) | [Next](./../../../../..//us/usc/t2/ch14/schII/m__us_usc_t2_ch14_schII.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs442)
 
-## § 442. Authority to procure technical support and other services and incur travel expenses; payment of such expenses
-
-    For the purpose of carrying out his duties under the Federal Election Campaign Act of 1971, the Secretary of the Senate is authorized, from and after July 1, 1972, (1) to procure technical support services, (2) to procure the temporary or intermittent services of individual technicians, experts, or consultants, or organizations thereof, in the same manner and under the same conditions, to the extent applicable, as a standing committee of the Senate may procure such services under [section 72a(i) of this title][/us/usc/t2/s72a/i], (3) with the prior consent of the Government department or agency concerned and the Committee on Rules and Administration, to use on a reimbursable basis the services of personnel of any such department or agency, and (4) to incur official travel expenses. Payments to carry out the provisions of this paragraph shall be made from funds included in the appropriation “Miscellaneous Items” under the heading “Contingent Expenses of the Senate” upon vouchers approved by the Secretary of the Senate. All sums received by the Secretary under authority of the Federal Election Campaign Act of 1971 shall be covered into the Treasury as miscellaneous receipts.
-
-([Pub. L. 92–342, § 101][/us/pl/92/342/s101], July 10, 1972, [86 Stat. 435][/us/stat/86/435].)
-
- __References in Text__ 
-
-    The Federal Election Campaign Act of 1971, referred to in text, is [Pub. L. 92–225][/us/pl/92/225], Feb. 7, 1972, [86 Stat. 3][/us/stat/86/3], as amended, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 431 of this title][/us/usc/t2/s431] and Tables.
+## § 442. Transferred
 
  __Codification__ 
 
-    Section was enacted as part of Legislative Branch Appropriation Act, 1973 and not as a part of Federal Election Campaign Act of 1971 which comprises this chapter.
+    Section 442 was editorially reclassified as [section 6566 of this title][/us/usc/t2/s6566].
 
 ----------
 
@@ -34,11 +26,6 @@
 ----------
 ----------
 
-[/us/usc/t2/s72a/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs72a%2Fi
-[/us/pl/92/342/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F342%2Fs101
-[/us/stat/86/435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F435
-[/us/pl/92/225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F225
-[/us/stat/86/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F3
-[/us/usc/t2/s431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs431
+[/us/usc/t2/s6566]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs6566
 
 

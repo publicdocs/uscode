@@ -13,37 +13,15 @@
 
 [Previous](./../../../..//us/usc/t2/ch3/m__us_usc_t2_s57a.md) | [Next](./../../../..//us/usc/t2/ch3/m__us_usc_t2_s58.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs57b)
 
-## § 57b. Representational allowance for Members of House of Representatives
+## § 57b. Transferred
 
-    (a) __In general__ 
+ __Codification__ 
 
-        There is established for the House of Representatives a single allowance, to be known as the “Members’ Representational Allowance”, which shall be available to support the conduct of the official and representational duties of a Member of the House of Representatives with respect to the district from which the Member is elected.
-
-    (b) __Merger__ 
-
-        The Clerk Hire Allowance, the Official Expenses Allowance, and the Official Mail Allowance, as in effect on the day before September 1, 1995, are merged into the Members’ Representational Allowance.
-
-    (c) __“Member of the House of Representatives” defined__ 
-
-        As used in this section, the term “Member of the House of Representatives” means a Representative in, or a Delegate or Resident Commissioner to, the Congress.
-
-    (d) __Regulations__ 
-
-        The Committee on House Oversight of the House of Representatives shall have authority to prescribe regulations to carry out this section.
-
-    (e) __Effective date__ 
-
-        This section shall take effect on September 1, 1995 and shall apply with respect to official and representational duties carried out on or after that date.
-
-([Pub. L. 104–186, title I, § 101][/us/pl/104/186/s101], Aug. 20, 1996, [110 Stat. 1719][/us/stat/110/1719].)
+    Section 57b was editorially reclassified as [section 5341 of this title][/us/usc/t2/s5341].
 
  __Prior Provisions__ 
 
     A prior section 57b, [Pub. L. 104–53, title III, § 314][/us/pl/104/53/s314], Nov. 19, 1995, [109 Stat. 538][/us/stat/109/538], provided that, effective Sept. 1, 1995, Committee on House Oversight of House of Representatives had authority to combine House of Representatives Clerk Hire Allowance, Official Expenses Allowance, and Official Mail Allowance into single allowance, to be known as the “Members’ Representational Allowance” and to prescribe regulations relating to allocations, expenditures, and other matters with respect to Members’ Representational Allowance.
-
- __Change of Name__ 
-
-    Committee on House Oversight of House of Representatives changed to Committee on House Administration of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
 
 ----------
 
@@ -52,8 +30,7 @@
 ----------
 ----------
 
-[/us/pl/104/186/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2Fs101
-[/us/stat/110/1719]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1719
+[/us/usc/t2/s5341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs5341
 [/us/pl/104/53/s314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F53%2Fs314
 [/us/stat/109/538]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F538
 

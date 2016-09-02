@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-    Section, [Pub. L. 86–628][/us/pl/86/628], July 12, 1960, [74 Stat. 447][/us/stat/74/447], related to appointment of reporters, transcribers and other employees by Official Reporter of Debates of Senate. See [section 61a–11 of this title][/us/usc/t2/s61a–11].
+    Section, [Pub. L. 86–628][/us/pl/86/628], July 12, 1960, [74 Stat. 447][/us/stat/74/447], related to appointment of reporters, transcribers and other employees by Official Reporter of Debates of Senate. See [section 6539 of this title][/us/usc/t2/s6539].
 
 ----------
 
@@ -28,6 +28,6 @@
 
 [/us/pl/86/628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F628
 [/us/stat/74/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F447
-[/us/usc/t2/s61a–11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs61a%E2%80%9311
+[/us/usc/t2/s6539]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs6539
 
 

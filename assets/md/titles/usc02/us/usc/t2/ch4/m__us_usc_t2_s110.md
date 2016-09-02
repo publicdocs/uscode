@@ -13,15 +13,11 @@
 
 [Previous](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s109.md) | [Next](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s111.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs110)
 
-## § 110. Purchase of paper, envelopes, etc., for stationery rooms of Senate and House
+## § 110. Transferred
 
-    Paper, envelopes, and blank books required by the stationery rooms of the Senate and House of Representatives for sale to Senators and Members for official use may be purchased from the Public Printer at actual cost thereof and payment therefor shall be made before delivery.
+ __Codification__ 
 
-([June 5, 1920, ch. 253, § 1][/us/act/1920-06-05/ch253/s1], [41 Stat. 1036][/us/stat/41/1036].)
-
- __Change of Name__ 
-
-    Stationery room of House of Representatives redesignated Office Supply Service.
+    Section 110 was editorially reclassified as [section 4105 of this title][/us/usc/t2/s4105].
 
 ----------
 
@@ -30,7 +26,6 @@
 ----------
 ----------
 
-[/us/act/1920-06-05/ch253/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-06-05%2Fch253%2Fs1
-[/us/stat/41/1036]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F41%2F1036
+[/us/usc/t2/s4105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs4105
 
 

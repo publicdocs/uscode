@@ -15,9 +15,13 @@
 
 ## § 645a. Effect of adoption of special order of business in House of Representatives
 
-    For purposes of a reported bill or joint resolution considered in the House of Representatives pursuant to a special order of business, the term “as reported” in this subchapter or subchapter II of this chapter shall be considered to refer to the text made in order as an original bill or joint resolution for the purpose of amendment or to the text on which the previous question is ordered directly to passage, as the case may be.
+    For purposes of a reported bill or joint resolution considered in the House of Representatives pursuant to a special order of business, the term “as reported” in this subchapter or subchapter II of this chapter shall be considered to refer to the text made in order as an original bill or joint resolution for the purpose of amendment or to the text on which the previous question is ordered directly to passage, as the case may be. In the case of a reported bill or joint resolution considered pursuant to a special order of business, a point of order under [section 634 of this title][/us/usc/t2/s634] shall be determined on the basis of the text made in order as an original bill or joint resolution for the purpose of amendment or to the text on which the previous question is ordered directly to passage, as the case may be.
 
-([Pub. L. 93–344, title III, § 315][/us/pl/93/344/s315], as added [Pub. L. 105–33, title X, § 10115(a)][/us/pl/105/33/s10115/a], Aug. 5, 1997, [111 Stat. 690][/us/stat/111/690].)
+([Pub. L. 93–344, title III, § 315][/us/pl/93/344/s315], as added [Pub. L. 105–33, title X, § 10115(a)][/us/pl/105/33/s10115/a], Aug. 5, 1997, [111 Stat. 690][/us/stat/111/690]; amended [Pub. L. 113–67, div. A, title I, § 122(11)][/us/pl/113/67/s122/11], Dec. 26, 2013, [127 Stat. 1176][/us/stat/127/1176].)
+
+ __Amendments__ 
+
+    2013—[Pub. L. 113–67][/us/pl/113/67] inserted at end “In the case of a reported bill or joint resolution considered pursuant to a special order of business, a point of order under [section 634 of this title][/us/usc/t2/s634] shall be determined on the basis of the text made in order as an original bill or joint resolution for the purpose of amendment or to the text on which the previous question is ordered directly to passage, as the case may be.”
 
 ----------
 
@@ -26,8 +30,13 @@
 ----------
 ----------
 
+[/us/usc/t2/s634]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs634
 [/us/pl/93/344/s315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F344%2Fs315
 [/us/pl/105/33/s10115/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs10115%2Fa
 [/us/stat/111/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F690
+[/us/pl/113/67/s122/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs122%2F11
+[/us/stat/127/1176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1176
+[/us/pl/113/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67
+[/us/usc/t2/s634]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs634
 
 

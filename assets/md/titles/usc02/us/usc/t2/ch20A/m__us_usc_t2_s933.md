@@ -197,11 +197,11 @@
 
     This Act, referred to in subsecs. (a)(2)(A)(i), (B)(i) and (g)(1), (4), is [Pub. L. 111–139][/us/pl/111/139], Feb. 12, 2010, [124 Stat. 8][/us/stat/124/8], which enacted this chapter, amended sections 639, 900, 905, and 906 of this title and [section 3101 of Title 31][/us/usc/t31/s3101], Money and Finance, and enacted provisions set out as a note under [section 712 of Title 31][/us/usc/t31/s712]. For complete classification of this Act to the Code, see Tables.
 
-    Legislation titled the “Community Living Assistance Services and Supports Act”, referred to in subsec. (d)(6), was enacted as title VIII of [Pub. L. 111–148][/us/pl/111/148], Mar. 23, 2010, [124 Stat. 828][/us/stat/124/828]. Title VIII, which was also known as the “CLASS Act”, enacted subchapter XXX of chapter 6A of Title 42, The Public Health and Welfare, amended [section 1396a of Title 42][/us/usc/t42/s1396a], enacted provisions set out as notes under section 300ll of Title 42, and amended provisions set out as a note under [section 1396p of Title 42][/us/usc/t42/s1396p], prior to repeal by [Pub. L. 112–240, title VI, § 642(b)(1)][/us/pl/112/240/s642/b/1], Jan. 2, 2013, [126 Stat. 2358][/us/stat/126/2358].
-
     This chapter, referred to in subsecs. (c)(1) and (g)(2), was in the original “this title”, meaning title I of [Pub. L. 111–139][/us/pl/111/139], Feb. 12, 2010, [124 Stat. 8][/us/stat/124/8], which is classified principally to this chapter. For complete classification of title I to the Code, see Short Title note set out under [section 931 of this title][/us/usc/t2/s931] and Tables.
 
     As amended by this title, referred to in subsec. (d)(3), means as amended by title I of [Pub. L. 111–139][/us/pl/111/139].
+
+    Legislation titled the “Community Living Assistance Services and Supports Act”, referred to in subsec. (d)(6), was enacted as title VIII of [Pub. L. 111–148][/us/pl/111/148], Mar. 23, 2010, [124 Stat. 828][/us/stat/124/828]. Title VIII, which was also known as the “CLASS Act”, enacted subchapter XXX of chapter 6A of Title 42, The Public Health and Welfare, amended [section 1396a of Title 42][/us/usc/t42/s1396a], enacted provisions set out as notes under section 300ll of Title 42, and amended provisions set out as a note under [section 1396p of Title 42][/us/usc/t42/s1396p], prior to repeal by [Pub. L. 112–240, title VI, § 642(b)(1)][/us/pl/112/240/s642/b/1], Jan. 2, 2013, [126 Stat. 2358][/us/stat/126/2358].
 
  __Codification__ 
 
@@ -242,16 +242,16 @@
 [/us/stat/124/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F8
 [/us/usc/t31/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3101
 [/us/usc/t31/s712]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs712
+[/us/pl/111/139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F139
+[/us/stat/124/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F8
+[/us/usc/t2/s931]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs931
+[/us/pl/111/139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F139
 [/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
 [/us/stat/124/828]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F828
 [/us/usc/t42/s1396a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396a
 [/us/usc/t42/s1396p]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396p
 [/us/pl/112/240/s642/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs642%2Fb%2F1
 [/us/stat/126/2358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2358
-[/us/pl/111/139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F139
-[/us/stat/124/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F8
-[/us/usc/t2/s931]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs931
-[/us/pl/111/139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F139
 [/us/pl/111/139/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F139%2Fs4
 [/us/pl/111/139/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F139%2Fs4
 [/us/usc/t2/s639]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs639

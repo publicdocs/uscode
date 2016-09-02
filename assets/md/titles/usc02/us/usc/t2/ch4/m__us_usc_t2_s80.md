@@ -13,15 +13,11 @@
 
 [Previous](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s79.md) | [Next](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s80a.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs80)
 
-## § 80. Disbursement of compensation of House Members by Chief Administrative Officer
+## § 80. Transferred
 
-    The moneys which have been, or may be, appropriated for the compensation and mileage of Members and Delegates shall be paid at the Treasury on requisitions drawn by the Chief Administrative Officer of the House of Representatives, and shall be kept, disbursed, and accounted for by him according to law, and he shall be a disbursing officer, but he shall not be entitled to any compensation additional to the salary fixed by law.
+ __Codification__ 
 
-([Oct. 1, 1890, ch. 1256, § 3][/us/act/1890-10-01/ch1256/s3], [26 Stat. 645][/us/stat/26/645]; [Pub. L. 104–186, title II, § 204(25)(B)][/us/pl/104/186/s204/25/B], Aug. 20, 1996, [110 Stat. 1734][/us/stat/110/1734].)
-
- __Amendments__ 
-
-    1996—[Pub. L. 104–186][/us/pl/104/186] substituted “Chief Administrative Officer” for “Sergeant-at-Arms”.
+    Section 80 was editorially reclassified as [section 5309 of this title][/us/usc/t2/s5309].
 
 ----------
 
@@ -30,10 +26,6 @@
 ----------
 ----------
 
-[/us/act/1890-10-01/ch1256/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1890-10-01%2Fch1256%2Fs3
-[/us/stat/26/645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F26%2F645
-[/us/pl/104/186/s204/25/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2Fs204%2F25%2FB
-[/us/stat/110/1734]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1734
-[/us/pl/104/186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186
+[/us/usc/t2/s5309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs5309
 
 

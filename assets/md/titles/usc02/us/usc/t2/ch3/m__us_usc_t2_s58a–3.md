@@ -13,15 +13,11 @@
 
 [Previous](./../../../..//us/usc/t2/ch3/m__us_usc_t2_s58a–2.md) | [Next](./../../../..//us/usc/t2/ch3/m__us_usc_t2_s58a–4.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs58a%E2%80%933)
 
-## § 58a–3. Report on telecommunications to Committee on Rules and Administration
+## § 58a–3. Transferred
 
-    The Sergeant at Arms shall report to the Committee on Rules and Administration of the Senate, at such time or times, and in such form and manner, as the Committee may direct, on expenditures made, and revenues received, pursuant to sections 58a–1 to 58a–3 of this title. It shall be the function of the Sergeant at Arms to advise the Committee, as soon as possible, of any dispute regarding payments to and from such Appropriation Account as related to the line item for Telecommunications, including any amounts due and unpaid by any user, if any such dispute has remained unresolved for a period of at least 60 days.
+ __Codification__ 
 
-([Pub. L. 100–123, § 3][/us/pl/100/123/s3], Oct. 5, 1987, [101 Stat. 795][/us/stat/101/795].)
-
- __Effective Date__ 
-
-    Section effective Oct. 1, 1987, see [section 4 of Pub. L. 100–123][/us/pl/100/123/s4], set out as a note under [section 58a–1 of this title][/us/usc/t2/s58a–1].
+    Section 58a–3 was editorially reclassified as [section 6623 of this title][/us/usc/t2/s6623].
 
 ----------
 
@@ -30,9 +26,6 @@
 ----------
 ----------
 
-[/us/pl/100/123/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F123%2Fs3
-[/us/stat/101/795]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F795
-[/us/pl/100/123/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F123%2Fs4
-[/us/usc/t2/s58a–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs58a%E2%80%931
+[/us/usc/t2/s6623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs6623
 
 

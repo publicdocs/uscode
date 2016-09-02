@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t2/ch31/schVI/m__us_usc_t2_ch31_schVI.md) | ~~Next~~ | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs2281)
+[Previous](./../../../../..//us/usc/t2/ch31/schVI/m__us_usc_t2_ch31_schVI.md) | [Next](./../../../../..//us/usc/t2/ch41/m__us_usc_t2_ch41.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs2281)
 
 ## § 2281. Authorization of appropriations
 
@@ -25,7 +25,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t2/ch31/schVI/m__us_usc_t2_ch31_schVI.md) | ~~Next~~ | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs2281)
+[Previous](./../../../../..//us/usc/t2/ch31/schVI/m__us_usc_t2_ch31_schVI.md) | [Next](./../../../../..//us/usc/t2/ch41/m__us_usc_t2_ch41.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs2281)
 
 ----------
 ----------

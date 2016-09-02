@@ -15,7 +15,7 @@
 
 ## § 46a–3. Repealed. [Pub. L. 92–607][/us/pl/92/607], ch. V, § 506(k)(4), formerly § 506(h)(4), Oct. 31, 1972, [86 Stat. 1508][/us/stat/86/1508], renumbered § 506(i)(4), [Pub. L. 95–391, title I, § 108(a)][/us/pl/95/391/s108/a], Sept. 30, 1978, [92 Stat. 773][/us/stat/92/773], renumbered § 506(j)(4), [Pub. L. 96–304, title I, § 101][/us/pl/96/304/s101], July 8, 1980, [94 Stat. 889][/us/stat/94/889], renumbered § 506(k)(4), [Pub. L. 97–276, § 101(e)][/us/pl/97/276/s101/e], Oct. 2, 1982, [96 Stat. 1189][/us/stat/96/1189]
 
-    Section, [Pub. L. 90–417, § 106][/us/pl/90/417/s106], July 23, 1968, [82 Stat. 413][/us/stat/82/413], placed limits on the availability of the stationery allowance for Senators. See [section 58 of this title][/us/usc/t2/s58].
+    Section, [Pub. L. 90–417, § 106][/us/pl/90/417/s106], July 23, 1968, [82 Stat. 413][/us/stat/82/413], placed limits on the availability of the stationery allowance for Senators. See [section 6314 of this title][/us/usc/t2/s6314].
 
  __Effective Date of Repeal__ 
 
@@ -38,7 +38,7 @@
 [/us/stat/96/1189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1189
 [/us/pl/90/417/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F417%2Fs106
 [/us/stat/82/413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F413
-[/us/usc/t2/s58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs58
+[/us/usc/t2/s6314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs6314
 [/us/pl/92/607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F607
 [/us/stat/86/1507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1507
 [/us/pl/93/145/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F145%2Fs101

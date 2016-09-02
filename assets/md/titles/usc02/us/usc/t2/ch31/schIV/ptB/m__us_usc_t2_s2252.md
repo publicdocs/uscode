@@ -19,7 +19,7 @@
 
     In accordance with the provisions of this subchapter, effective on the transfer date—
 
-        (1) the contracts, liabilities, records, property, appropriations, and other assets and interests of the Congressional Special Services Office of the Capitol Guide Service, and the employees of such Office, are transferred to the Office of Congressional Accessibility Services established under [section 130e(a) of this title][/us/usc/t2/s130e/a] (as amended by [section 2251 of this title][/us/usc/t2/s2251]), except that the transfer of any amounts appropriated to the Congressional Special Services Office that remain available as of the transfer date shall occur only upon the approval of the Committees on Appropriations of the House of Representatives and Senate; and
+        (1) the contracts, liabilities, records, property, appropriations, and other assets and interests of the Congressional Special Services Office of the Capitol Guide Service, and the employees of such Office, are transferred to the Office of Congressional Accessibility Services established under [section 2172(a) of this title][/us/usc/t2/s2172/a] (as amended by [section 2251 of this title][/us/usc/t2/s2251]), except that the transfer of any amounts appropriated to the Congressional Special Services Office that remain available as of the transfer date shall occur only upon the approval of the Committees on Appropriations of the House of Representatives and Senate; and
 
         (2) the employees of such Office shall be subject to the direction, supervision, and control of the Director of Accessibility Services.
 
@@ -27,7 +27,7 @@
 
         (1) __In general__ 
 
-            Any individual who is an employee of the Congressional Special Services Office of the Capitol Guide Service on a non-temporary basis on the transfer date who is transferred under subsection (a) shall be subject to the authority of the Director of Accessibility Services under [section 130e(b) of this title][/us/usc/t2/s130e/b] (as amended by [section 2251 of this title][/us/usc/t2/s2251]), except that the individual’s grade, compensation, rate of leave, or other benefits that apply with respect to the individual at the time of transfer shall not be reduced while such individual remains continuously so employed in the same position within the Office of Congressional Accessibility Services established under [section 130e(a) of this title][/us/usc/t2/s130e/a] (as amended by [section 2251 of this title][/us/usc/t2/s2251]), other than for cause.
+            Any individual who is an employee of the Congressional Special Services Office of the Capitol Guide Service on a non-temporary basis on the transfer date who is transferred under subsection (a) shall be subject to the authority of the Director of Accessibility Services under [section 2172(b) of this title][/us/usc/t2/s2172/b] (as amended by [section 2251 of this title][/us/usc/t2/s2251]), except that the individual’s grade, compensation, rate of leave, or other benefits that apply with respect to the individual at the time of transfer shall not be reduced while such individual remains continuously so employed in the same position within the Office of Congressional Accessibility Services established under [section 2172(a) of this title][/us/usc/t2/s2172/a] (as amended by [section 2251 of this title][/us/usc/t2/s2251]), other than for cause.
 
         (2) __Eligibility for immediate retirement on basis of involuntary separation__ 
 
@@ -54,11 +54,11 @@
 ----------
 ----------
 
-[/us/usc/t2/s130e/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs130e%2Fa
+[/us/usc/t2/s2172/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs2172%2Fa
 [/us/usc/t2/s2251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs2251
-[/us/usc/t2/s130e/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs130e%2Fb
+[/us/usc/t2/s2172/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs2172%2Fb
 [/us/usc/t2/s2251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs2251
-[/us/usc/t2/s130e/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs130e%2Fa
+[/us/usc/t2/s2172/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs2172%2Fa
 [/us/usc/t2/s2251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs2251
 [/us/usc/t5/s8414/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8414%2Fb
 [/us/pl/110/437/s412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F437%2Fs412

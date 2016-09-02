@@ -31,7 +31,7 @@
 
             (A)
 
-                (i) No program established by a law enacted on or before August 5, 1997, with estimated current year outlays greater than $50,000,000 shall be assumed to expire in the budget year or the outyears. The scoring of new programs with estimated outlays greater than $50,000,000 a year shall be based on scoring by the Committees on Budget or OMB, as applicable. OMB, CBO, and the Budget Committees shall consult on the scoring of such programs where there are differenes  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “differences”. </sup></sup>  between CBO and OMB.
+                (i) No program established by a law enacted on or before August 5, 1997, with estimated current year outlays greater than $50,000,000 shall be assumed to expire in the budget year or the outyears. The scoring of new programs with estimated outlays greater than $50,000,000 a year shall be based on scoring by the Committees on Budget or OMB, as applicable. OMB, CBO, and the Budget Committees shall consult on the scoring of such programs where there are differences between CBO and OMB.
 
                 (ii) On the expiration of the suspension of a provision of law that is suspended under [section 7301 of title 7][/us/usc/t7/s7301] and that authorizes a program with estimated fiscal year outlays that are greater than $50,000,000, for purposes of clause (i), the program shall be assumed to continue to operate in the same manner as the program operated immediately before the expiration of the suspension.
 
@@ -81,7 +81,7 @@
 
         Amounts realized from the sale of an asset shall not be included in estimates under section 901, 902, or 903 of this title if that sale would result in a financial cost to the Federal Government as determined pursuant to scorekeeping guidelines.
 
-([Pub. L. 99–177, title II, § 257][/us/pl/99/177/s257], formerly §§ 251(a)(6)(I), 257, Dec. 12, 1985, [99 Stat. 1092][/us/stat/99/1092]; [Pub. L. 100–119, title I][/us/pl/100/119], §§ 102(a), (b)(4)–(8), 104(c)(2), 106(b), Sept. 29, 1987, [101 Stat. 754][/us/stat/101/754], 773, 774, 777, 780; renumbered § 257 and amended [Pub. L. 101–508, title XIII, § 13101(b)][/us/pl/101/508/s13101/b], (e)(1), (2), Nov. 5, 1990, [104 Stat. 1388–589][/us/stat/104/1388-589], 1388–591, 1388–593; [Pub. L. 105–33, title X, § 10209(a)][/us/pl/105/33/s10209/a], Aug. 5, 1997, [111 Stat. 710][/us/stat/111/710].)
+([Pub. L. 99–177, title II, § 257][/us/pl/99/177/s257], formerly §§ 251(a)(6)(I), 257, Dec. 12, 1985, [99 Stat. 1092][/us/stat/99/1092]; [Pub. L. 100–119, title I][/us/pl/100/119], §§ 102(a), (b)(4)–(8), 104(c)(2), 106(b), Sept. 29, 1987, [101 Stat. 754][/us/stat/101/754], 773, 774, 777, 780; renumbered § 257 and amended [Pub. L. 101–508, title XIII, § 13101(b)][/us/pl/101/508/s13101/b], (e)(1), (2), Nov. 5, 1990, [104 Stat. 1388–589][/us/stat/104/1388-589], 1388–591, 1388–593; [Pub. L. 105–33, title X, § 10209(a)][/us/pl/105/33/s10209/a], Aug. 5, 1997, [111 Stat. 710][/us/stat/111/710]; [Pub. L. 113–67, div. A, title I, § 121(9)][/us/pl/113/67/s121/9], Dec. 26, 2013, [127 Stat. 1175][/us/stat/127/1175].)
 
  __References in Text__ 
 
@@ -94,6 +94,8 @@
     [Pub. L. 101–508, § 13101(e)(2)][/us/pl/101/508/s13101/e/2], transferred [section 251(a)(6)(I) of Pub. L. 99–177][/us/pl/99/177/s251/a/6/I], which was classified to [section 901(a)(6)(I) of this title][/us/usc/t2/s901/a/6/I], to subsec. (e) of this section.
 
  __Amendments__ 
+
+    2013—Subsec. (b)(2)(A)(i). [Pub. L. 113–67][/us/pl/113/67] substituted “differences” for “differenes”.
 
     1997—Subsec. (b)(2)(A). [Pub. L. 105–33, § 10209(a)(1)][/us/pl/105/33/s10209/a/1], amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “No program with estimated current-year outlays greater than $50 million shall be assumed to expire in the budget year or outyears.”
 
@@ -193,6 +195,8 @@
 [/us/stat/104/1388-589]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-589
 [/us/pl/105/33/s10209/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs10209%2Fa
 [/us/stat/111/710]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F710
+[/us/pl/113/67/s121/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs121%2F9
+[/us/stat/127/1175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1175
 [/us/pl/99/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F177
 [/us/stat/99/1037]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1037
 [/us/usc/t42/s911]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs911
@@ -206,6 +210,7 @@
 [/us/pl/101/508/s13101/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs13101%2Fe%2F2
 [/us/pl/99/177/s251/a/6/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F177%2Fs251%2Fa%2F6%2FI
 [/us/usc/t2/s901/a/6/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs901%2Fa%2F6%2FI
+[/us/pl/113/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67
 [/us/pl/105/33/s10209/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs10209%2Fa%2F1
 [/us/pl/105/33/s10209/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs10209%2Fa%2F2
 [/us/pl/105/33/s10209/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs10209%2Fa%2F3

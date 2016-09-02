@@ -13,15 +13,11 @@
 
 [Previous](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s117h.md) | [Next](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s117j.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs117i)
 
-## § 117i. Revolving fund for House gymnasium; deposit of receipts; availability for expenditure
-
-    There is established in the Treasury a revolving fund for the House of Representatives gymnasium. The Architect of the Capitol shall deposit in the fund such amounts as the Architect may receive as gymnasium dues or assessments from Members of the House of Representatives and other authorized users of the gymnasium. The amounts so deposited shall be available for obligation by the Architect for expenses of the gymnasium.
-
-([Pub. L. 102–392, title I, § 106][/us/pl/102/392/s106], Oct. 6, 1992, [106 Stat. 1715][/us/stat/106/1715].)
+## § 117i. Transferred
 
  __Codification__ 
 
-    Section is from the Congressional Operations Appropriations Act, 1993, which is title I of the Legislative Branch Appropriations Act, 1993.
+    Section 117i was editorially reclassified as [section 2013 of this title][/us/usc/t2/s2013].
 
 ----------
 
@@ -30,7 +26,6 @@
 ----------
 ----------
 
-[/us/pl/102/392/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F392%2Fs106
-[/us/stat/106/1715]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1715
+[/us/usc/t2/s2013]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs2013
 
 

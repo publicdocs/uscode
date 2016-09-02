@@ -123,11 +123,11 @@
 
         (2) __Revised allocations__ 
 
-            (A) As soon as practicable after Congress agrees to a bill or joint resolution that would have been subject to a point of order under subsection (f)(1) of this section but for the exception provided in paragraph (1)(A) or would have been subject to a point of order under [section 642(a) of this title][/us/usc/t2/s642/a] but for the exception provided in paragraph (1)(B), the chairman of the committee  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be capitalized. </sup></sup>  on the Budget of the House of Representatives shall file with the House appropriately revised allocations under subsection (a) of this section and revised functional levels and budget aggregates to reflect that bill.
+            (A) As soon as practicable after Congress agrees to a bill or joint resolution that would have been subject to a point of order under subsection (f)(1) of this section but for the exception provided in paragraph (1)(A) or would have been subject to a point of order under [section 642(a) of this title][/us/usc/t2/s642/a] but for the exception provided in paragraph (1)(B), the chairman of the Committee on the Budget of the House of Representatives shall file with the House appropriately revised allocations under subsection (a) of this section and revised functional levels and budget aggregates to reflect that bill.
 
             (B) Such revised allocations, functional levels, and budget aggregates shall be considered for the purposes of this Act as allocations, functional levels, and budget aggregates contained in the most recently agreed to concurrent resolution on the budget.
 
-([Pub. L. 93–344, title III, § 302][/us/pl/93/344/s302], July 12, 1974, [88 Stat. 308][/us/stat/88/308]; [Pub. L. 99–177, title II, § 201(b)][/us/pl/99/177/s201/b], Dec. 12, 1985, [99 Stat. 1044][/us/stat/99/1044]; [Pub. L. 101–508, title XIII][/us/pl/101/508], §§ 13112(a)(6), (7), 13201(b)(2), (3), 13207(a)(1)(A), (B), (2), 13303(c), Nov. 5, 1990, [104 Stat. 1388–608][/us/stat/104/1388-608], 1388–614, 1388–617, 1388–618, 1388–625; [Pub. L. 105–33, title X, § 10106][/us/pl/105/33/s10106], Aug. 5, 1997, [111 Stat. 680][/us/stat/111/680].)
+([Pub. L. 93–344, title III, § 302][/us/pl/93/344/s302], July 12, 1974, [88 Stat. 308][/us/stat/88/308]; [Pub. L. 99–177, title II, § 201(b)][/us/pl/99/177/s201/b], Dec. 12, 1985, [99 Stat. 1044][/us/stat/99/1044]; [Pub. L. 101–508, title XIII][/us/pl/101/508], §§ 13112(a)(6), (7), 13201(b)(2), (3), 13207(a)(1)(A), (B), (2), 13303(c), Nov. 5, 1990, [104 Stat. 1388–608][/us/stat/104/1388-608], 1388–614, 1388–617, 1388–618, 1388–625; [Pub. L. 105–33, title X, § 10106][/us/pl/105/33/s10106], Aug. 5, 1997, [111 Stat. 680][/us/stat/111/680]; [Pub. L. 113–67, div. A, title I, § 122(3)][/us/pl/113/67/s122/3], Dec. 26, 2013, [127 Stat. 1175][/us/stat/127/1175].)
 
  __References in Text__ 
 
@@ -138,6 +138,8 @@
     Section was formerly classified to [section 1323 of Title 31][/us/usc/t31/s1323] prior to the general revision and enactment of Title 31, Money and Finance, by [Pub. L. 97–258, § 1][/us/pl/97/258/s1], Sept. 13, 1982, [96 Stat. 877][/us/stat/96/877].
 
  __Amendments__ 
+
+    2013—Subsec. (g)(2)(A). [Pub. L. 113–67][/us/pl/113/67] substituted “Committee on the Budget” for “committee on the Budget”.
 
     1997—Subsec. (a). [Pub. L. 105–33, § 10106(a)][/us/pl/105/33/s10106/a], added subsec. (a) and struck out former subsec. (a) which required inclusion of certain allocations to committees of the House of Representatives and of the Senate in the joint explanatory statement accompanying a conference report on a concurrent resolution on the budget.
 
@@ -233,6 +235,8 @@
 [/us/stat/104/1388-608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-608
 [/us/pl/105/33/s10106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs10106
 [/us/stat/111/680]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F680
+[/us/pl/113/67/s122/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs122%2F3
+[/us/stat/127/1175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1175
 [/us/pl/93/344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F344
 [/us/stat/88/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F297
 [/us/usc/t2/s190a–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs190a%E2%80%933
@@ -242,6 +246,7 @@
 [/us/usc/t31/s1323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1323
 [/us/pl/97/258/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs1
 [/us/stat/96/877]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F877
+[/us/pl/113/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67
 [/us/pl/105/33/s10106/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs10106%2Fa
 [/us/pl/105/33/s10106/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs10106%2Fa
 [/us/pl/105/33/s10106/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs10106%2Fb

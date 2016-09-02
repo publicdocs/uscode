@@ -13,21 +13,11 @@
 
 [Previous](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s60d.md) | [Next](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s60e–1a.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs60d%E2%80%931)
 
-## § 60d–1. Day for paying salaries of the House of Representatives
-
-    The usual day for paying salaries in or under the House of Representatives shall be the last day of each month, except that if the last day of a month falls on a Saturday, Sunday, or a legal public holiday, the Chief Administrative Officer of the House of Representatives shall pay such salaries on the first weekday which precedes the last day.
-
-([Pub. L. 107–68, title I, § 116(a)][/us/pl/107/68/s116/a], Nov. 12, 2001, [115 Stat. 573][/us/stat/115/573].)
+## § 60d–1. Transferred
 
  __Codification__ 
 
-    Section is from the Congressional Operations Appropriations Act, 2002, which is title I of the Legislative Branch Appropriations Act, 2002.
-
- __Effective Date__ 
-
-[Pub. L. 107–68, title I, § 116(c)][/us/pl/107/68/s116/c], Nov. 12, 2001, [115 Stat. 573][/us/stat/115/573], provided that: 
-
-> “This section \[enacting this section and repealing sections 60d, 60e, and 60e–1 of this title\] and the amendments made by this section shall apply with respect to pay periods beginning after the expiration of the 1-year period which begins on the date of the enactment of this Act \[Nov. 12, 2001\].”
+    Section 60d–1 was editorially reclassified as [section 4551 of this title][/us/usc/t2/s4551].
 
 §§ 60e, 60e–1. __Repealed.__  __[__  __Pub. L. 107–68, title I, § 116(b)(1)__  __][/us/pl/107/68/s116/b/1]__  __, (2),__  __Nov. 12, 2001__  __,__  __[__  __115 Stat. 573__  __][/us/stat/115/573]__ 
 
@@ -37,7 +27,7 @@
 
  __Effective Date of Repeal__ 
 
-    Repeal applicable with respect to pay periods beginning after the expiration of the 1-year period which begins Nov. 12, 2001, see [section 116(c) of Pub. L. 107–68][/us/pl/107/68/s116/c], set out as an Effective Date note under [section 60d–1 of this title][/us/usc/t2/s60d–1].
+    Repeal applicable with respect to pay periods beginning after the expiration of the 1-year period which begins Nov. 12, 2001, see [section 116(c) of Pub. L. 107–68][/us/pl/107/68/s116/c], set out as an Effective Date note under [section 4551 of this title][/us/usc/t2/s4551].
 
 ----------
 
@@ -46,10 +36,7 @@
 ----------
 ----------
 
-[/us/pl/107/68/s116/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F68%2Fs116%2Fa
-[/us/stat/115/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F573
-[/us/pl/107/68/s116/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F68%2Fs116%2Fc
-[/us/stat/115/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F573
+[/us/usc/t2/s4551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs4551
 [/us/pl/107/68/s116/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F68%2Fs116%2Fb%2F1
 [/us/stat/115/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F573
 [/us/act/1937-05-21/ch236/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-05-21%2Fch236%2Fs2
@@ -64,6 +51,6 @@
 [/us/pl/86/426/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F426%2Fs2%2Fc
 [/us/stat/74/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F54
 [/us/pl/107/68/s116/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F68%2Fs116%2Fc
-[/us/usc/t2/s60d–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs60d%E2%80%931
+[/us/usc/t2/s4551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs4551
 
 

@@ -27,7 +27,7 @@
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs331" data-uslm-ref="/us/usc/t2/s331">331.</a>  </td>
 
-    <td> Single per annum gross rates of pay for employees.  </td>
+    <td> Transferred.  </td>
 
   </tr>
 
@@ -43,7 +43,7 @@
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs333" data-uslm-ref="/us/usc/t2/s333">333.</a>  </td>
 
-    <td> Single per annum gross rates of allowances for personal services in offices of Speaker, Leaders, and Whips.  </td>
+    <td> Transferred.  </td>
 
   </tr>
 
@@ -51,7 +51,7 @@
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs333a" data-uslm-ref="/us/usc/t2/s333a">333a.</a>  </td>
 
-    <td> Limits on uses of funds provided under section 333.  </td>
+    <td> Omitted.  </td>
 
   </tr>
 
@@ -65,17 +65,9 @@
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs335" data-uslm-ref="/us/usc/t2/s335">335.</a>  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs335" data-uslm-ref="/us/usc/t2/s335">335</a>, <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs336" data-uslm-ref="/us/usc/t2/s336">336.</a>  </td>
 
-    <td> Obsolete references in existing law to basic pay rates.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs336" data-uslm-ref="/us/usc/t2/s336">336.</a>  </td>
-
-    <td> Saving provision.  </td>
+    <td> Transferred.  </td>
 
   </tr>
 

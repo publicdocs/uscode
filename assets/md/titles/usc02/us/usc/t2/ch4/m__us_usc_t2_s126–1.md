@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-    Section, [Pub. L. 89–90][/us/pl/89/90], July 27, 1965, [79 Stat. 265][/us/stat/79/265]; [Pub. L. 90–239][/us/pl/90/239], ch. IV, Jan. 2, 1968, [81 Stat. 774][/us/stat/81/774]; [Pub. L. 94–59, title I][/us/pl/94/59], July 25, 1975, [89 Stat. 270][/us/stat/89/270]; [Pub. L. 96–38, title I, § 105(1)][/us/pl/96/38/s105/1], July 25, 1979, [93 Stat. 112][/us/stat/93/112], which authorized Secretary of Senate to employ one chief reporter of debates, seven reporters of debates, one assistant reporter of debates, two clerks, and six expert transcribers, was omitted because of [section 61a–11 of this title][/us/usc/t2/s61a–11] which abolished all statutory positions in the Office of the Secretary of the Senate, with specified exceptions, effective Oct. 1, 1981, and authorized Secretary of Senate to appoint and fix compensation of such employees as appropriate.
+    Section, [Pub. L. 89–90][/us/pl/89/90], July 27, 1965, [79 Stat. 265][/us/stat/79/265]; [Pub. L. 90–239][/us/pl/90/239], ch. IV, Jan. 2, 1968, [81 Stat. 774][/us/stat/81/774]; [Pub. L. 94–59, title I][/us/pl/94/59], July 25, 1975, [89 Stat. 270][/us/stat/89/270]; [Pub. L. 96–38, title I, § 105(1)][/us/pl/96/38/s105/1], July 25, 1979, [93 Stat. 112][/us/stat/93/112], which authorized Secretary of Senate to employ one chief reporter of debates, seven reporters of debates, one assistant reporter of debates, two clerks, and six expert transcribers, was omitted because of [section 6539 of this title][/us/usc/t2/s6539] which abolished all statutory positions in the Office of the Secretary of the Senate, with specified exceptions, effective Oct. 1, 1981, and authorized Secretary of Senate to appoint and fix compensation of such employees as appropriate.
 
 ----------
 
@@ -34,6 +34,6 @@
 [/us/stat/89/270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F270
 [/us/pl/96/38/s105/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F38%2Fs105%2F1
 [/us/stat/93/112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F112
-[/us/usc/t2/s61a–11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs61a%E2%80%9311
+[/us/usc/t2/s6539]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs6539
 
 

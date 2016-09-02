@@ -13,11 +13,11 @@
 
 [Previous](./../../../..//us/usc/t2/ch3/m__us_usc_t2_s36a.md) | [Next](./../../../..//us/usc/t2/ch3/m__us_usc_t2_s38.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs37)
 
-## § 37. Salaries of Representatives, Delegates, and Resident Commissioners elected for unexpired terms
+## § 37. Transferred
 
-    The salaries of Representatives in Congress, Delegates from Territories, and Resident Commissioners, elected for unexpired terms, shall commence on the date of their election and not before.
+ __Codification__ 
 
-([July 16, 1914, ch. 141, § 1][/us/act/1914-07-16/ch141/s1], [38 Stat. 458][/us/stat/38/458].)
+    Section 37 was editorially reclassified as [section 5304 of this title][/us/usc/t2/s5304].
 
 ----------
 
@@ -26,7 +26,6 @@
 ----------
 ----------
 
-[/us/act/1914-07-16/ch141/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1914-07-16%2Fch141%2Fs1
-[/us/stat/38/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F458
+[/us/usc/t2/s5304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs5304
 
 

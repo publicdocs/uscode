@@ -59,7 +59,7 @@
 
     (g) __Authorization of appropriations__ 
 
-        There are authorized to be appropriated to the Office for each fiscal year such sums as may be necessary to enable it to carry out its duties and functions. Until sums are first appropriated pursuant to the preceding sentence, but for a period not exceeding 12 months following the effective date of this subsection, the expenses of the Office shall be paid from the contingent fund of the Senate, in accordance with [section 68 of this title][/us/usc/t2/s68], and upon vouchers approved by the Director.
+        There are authorized to be appropriated to the Office for each fiscal year such sums as may be necessary to enable it to carry out its duties and functions. Until sums are first appropriated pursuant to the preceding sentence, but for a period not exceeding 12 months following the effective date of this subsection, the expenses of the Office shall be paid from the contingent fund of the Senate, in accordance with [section 6503 of this title][/us/usc/t2/s6503], and upon vouchers approved by the Director.
 
 ([Pub. L. 93–344, title II, § 201][/us/pl/93/344/s201], July 12, 1974, [88 Stat. 302][/us/stat/88/302]; [Pub. L. 99–177, title II, § 273][/us/pl/99/177/s273], Dec. 12, 1985, [99 Stat. 1098][/us/stat/99/1098], renumbered [§ 201(g) of Pub. L. 93–344][/us/pl/93/344/s201/g], [Pub. L. 101–508, title XIII, § 13202(b)][/us/pl/101/508/s13202/b], Nov. 5, 1990, [104 Stat. 1388–615][/us/stat/104/1388-615]; [Pub. L. 101–508, title XIII, § 13202(a)][/us/pl/101/508/s13202/a], (c), Nov. 5, 1990, [104 Stat. 1388–615][/us/stat/104/1388-615]; [Pub. L. 105–33, title X, § 10102][/us/pl/105/33/s10102], Aug. 5, 1997, [111 Stat. 678][/us/stat/111/678]; [Pub. L. 106–113, div. B, § 1000(a)(5)][/us/pl/106/113/s1000/a/5] \[title II, § 224\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–299; [Pub. L. 108–271, § 8(b)][/us/pl/108/271/s8/b], July 7, 2004, [118 Stat. 814][/us/stat/118/814].)
 
@@ -109,7 +109,7 @@
 ----------
 
 [/us/usc/t5/s5332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5332
-[/us/usc/t2/s68]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs68
+[/us/usc/t2/s6503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs6503
 [/us/pl/93/344/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F344%2Fs201
 [/us/stat/88/302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F302
 [/us/pl/99/177/s273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F177%2Fs273

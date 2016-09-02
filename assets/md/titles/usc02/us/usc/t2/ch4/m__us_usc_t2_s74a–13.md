@@ -13,37 +13,11 @@
 
 [Previous](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s74a–12.md) | [Next](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s74b.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs74a%E2%80%9313)
 
-## § 74a–13. Republican Policy Committee
-
-    (a) __In general__ 
-
-        There is established in the House of Representatives an office to be known as the Republican Policy Committee, which shall have such responsibilities as may be assigned by the Speaker of the House of Representatives (or, if the Speaker is not a member of the Republican Party, the Minority Leader of the House of Representatives).
-
-    (b) __Salaries and expenses__ 
-
-        There shall be a lump sum allowance for the salaries and expenses of the Republican Policy Committee, which shall be treated as a category of House leadership offices for purposes of [section 95b(c) of this title][/us/usc/t2/s95b/c], and which shall be obligated and expended as directed by the Speaker (or, if the Speaker is not a member of the Republican party, the Minority Leader).
-
-    (c) __Applicability__ 
-
-        This section shall apply with respect to fiscal year 2005 and each succeeding fiscal year.
-
-([Pub. L. 108–447, div. G, title I, § 109][/us/pl/108/447/s109], Dec. 8, 2004, [118 Stat. 3177][/us/stat/118/3177]; [Pub. L. 112–74, div. G, title I, § 102(a)][/us/pl/112/74/s102/a], (b), Dec. 23, 2011, [125 Stat. 1121][/us/stat/125/1121].)
+## § 74a–13. Transferred
 
  __Codification__ 
 
-    Section is from the Legislative Branch Appropriations Act, 2005, which is div. G of the Consolidated Appropriations Act, 2005.
-
- __Amendments__ 
-
-    2011—Subsec. (a). [Pub. L. 112–74, § 102(a)][/us/pl/112/74/s102/a], substituted “the Speaker of the House of Representatives (or, if the Speaker is not a member of the Republican Party, the Minority Leader of the House of Representatives)” for “the chair of the Republican Conference”.
-
-    Subsec. (b). [Pub. L. 112–74, § 102(b)][/us/pl/112/74/s102/b], inserted “, and which shall be obligated and expended as directed by the Speaker (or, if the Speaker is not a member of the Republican party, the Minority Leader)” before period at end.
-
- __Effective Date of 2011 Amendment__ 
-
-[Pub. L. 112–74, div. G, title I, § 102(c)][/us/pl/112/74/s102/c], Dec. 23, 2011, [125 Stat. 1121][/us/stat/125/1121], provided that: 
-
-> “The amendment made by subsection (a) \[amending this section\] shall apply with respect to fiscal year 2012 and each succeeding fiscal year.”
+    Section 74a–13 was editorially reclassified as [section 5162 of this title][/us/usc/t2/s5162].
 
 ----------
 
@@ -52,14 +26,6 @@
 ----------
 ----------
 
-[/us/usc/t2/s95b/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs95b%2Fc
-[/us/pl/108/447/s109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs109
-[/us/stat/118/3177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3177
-[/us/pl/112/74/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2Fs102%2Fa
-[/us/stat/125/1121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1121
-[/us/pl/112/74/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2Fs102%2Fa
-[/us/pl/112/74/s102/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2Fs102%2Fb
-[/us/pl/112/74/s102/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2Fs102%2Fc
-[/us/stat/125/1121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1121
+[/us/usc/t2/s5162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs5162
 
 

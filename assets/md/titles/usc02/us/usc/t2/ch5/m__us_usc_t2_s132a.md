@@ -29,7 +29,7 @@
 
  __Effective Date of 1946 Amendment__ 
 
-    Amendment by act Aug. 2, 1946, effective Jan. 3, 1947, see section 245 of that act, set out as a note under [section 72a of this title][/us/usc/t2/s72a].
+    Amendment by act Aug. 2, 1946, effective Jan. 3, 1947, see section 245 of that act, set out as a note under [section 4301 of this title][/us/usc/t2/s4301].
 
 ----------
 
@@ -46,6 +46,6 @@
 [/us/act/1802-01-26/ch2/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1802-01-26%2Fch2%2Fs6
 [/us/stat/2/129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F2%2F129
 [/us/usc/t2/s132b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs132b
-[/us/usc/t2/s72a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs72a
+[/us/usc/t2/s4301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs4301
 
 

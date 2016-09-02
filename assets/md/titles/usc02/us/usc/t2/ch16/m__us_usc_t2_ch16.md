@@ -39,6 +39,38 @@
 
   </tr>
 
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs503" data-uslm-ref="/us/usc/t2/s503">503.</a>  </td>
+
+    <td> Official mail of persons entitled to use congressional frank.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs504" data-uslm-ref="/us/usc/t2/s504">504.</a>  </td>
+
+    <td> Mass mailings by Senate offices; quarterly statements; publication of summary tabulations.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs505" data-uslm-ref="/us/usc/t2/s505">505.</a>  </td>
+
+    <td> Mass mailing of information by Senators under frank; quarterly registration with Secretary of Senate.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs506" data-uslm-ref="/us/usc/t2/s506">506.</a>  </td>
+
+    <td> Mass mailing sent by House Members.  </td>
+
+  </tr>
+
 </table>
 
 ----------

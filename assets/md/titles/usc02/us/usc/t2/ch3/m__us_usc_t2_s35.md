@@ -13,15 +13,11 @@
 
 [Previous](./../../../..//us/usc/t2/ch3/m__us_usc_t2_s34.md) | [Next](./../../../..//us/usc/t2/ch3/m__us_usc_t2_s35a.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs35)
 
-## § 35. Salaries payable monthly after taking oath
-
-    Each Member and Delegate, after he has taken and subscribed the required oath, is entitled to receive his salary at the end of each month.
-
-(R.S. § 39.)
+## § 35. Transferred
 
  __Codification__ 
 
-    R.S. § 39 derived from Res. Mar. 29, 1867, No. 18, [15 Stat. 24][/us/stat/15/24].
+    Section 35 was editorially reclassified as [section 5302 of this title][/us/usc/t2/s5302].
 
 ----------
 
@@ -30,6 +26,6 @@
 ----------
 ----------
 
-[/us/stat/15/24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F15%2F24
+[/us/usc/t2/s5302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs5302
 
 

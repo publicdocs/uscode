@@ -25,7 +25,7 @@
 
  __Effective Date__ 
 
-    Section effective Aug. 2, 1946, see section 245 of act Aug. 2, 1946, set out as a note under [section 72a of this title][/us/usc/t2/s72a].
+    Section effective Aug. 2, 1946, see section 245 of act Aug. 2, 1946, set out as a note under [section 4301 of this title][/us/usc/t2/s4301].
 
 ----------
 
@@ -38,6 +38,6 @@
 [/us/stat/60/839]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F839
 [/us/pl/107/217/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs1
 [/us/stat/116/1062]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1062
-[/us/usc/t2/s72a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs72a
+[/us/usc/t2/s4301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs4301
 
 

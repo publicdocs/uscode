@@ -13,33 +13,11 @@
 
 [Previous](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s121d.md) | [Next](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s121f.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs121e)
 
-## § 121e. Payment of fees for services of Attending Physician and for use of Senate health and fitness facilities
-
-    (a) __Regulations__ 
-
-    The Senate Committee on Rules and Administration shall promulgate regulations—
-
-        (1) pertaining to the services provided by the Attending Physician and the operation and use of the Senate health and fitness facilities; and
-
-        (2) requiring the payment of fees for services received from the Attending Physician and for the use of the Senate health and fitness facilities pursuant to such regulations.
-
-    (b) __Withholding of fees from salary__ 
-
-        The Secretary of the Senate is authorized to withhold fees from the salary of an individual authorized by such regulations to receive such services from the Attending Physician and to use the Senate health and fitness facilities.
-
-    (c) __Deposit in General Fund__ 
-
-        The Secretary of the Senate shall remit all fees required by subsection (a)(2) of this section that are collected pursuant to subsection (b) of this section or by direct payment to the General Fund of the Treasury as miscellaneous receipts unless otherwise provided by law.
-
-    (d) __Effective date__ 
-
-        The provision  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “provisions”. </sup></sup>  of this section shall take effect on April 9, 1992.
-
-([Pub. L. 102–392, title III, § 314][/us/pl/102/392/s314], Oct. 6, 1992, [106 Stat. 1723][/us/stat/106/1723].)
+## § 121e. Transferred
 
  __Codification__ 
 
-    Section is from the Legislative Branch Appropriations Act, 1993.
+    Section 121e was editorially reclassified as [section 6515 of this title][/us/usc/t2/s6515].
 
 ----------
 
@@ -48,7 +26,6 @@
 ----------
 ----------
 
-[/us/pl/102/392/s314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F392%2Fs314
-[/us/stat/106/1723]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1723
+[/us/usc/t2/s6515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs6515
 
 

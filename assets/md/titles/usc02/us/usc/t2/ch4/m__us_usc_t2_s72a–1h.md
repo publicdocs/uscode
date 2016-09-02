@@ -13,21 +13,11 @@
 
 [Previous](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s72a–1g.md) | [Next](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s72a–1i.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs72a%E2%80%931h)
 
-## § 72a–1h. Mandatory Senate ethics training for Members and staff
+## § 72a–1h. Transferred
 
-    (a) __Training program__ 
+ __Codification__ 
 
-        The Select Committee on Ethics shall conduct ongoing ethics training and awareness programs for Members of the Senate and Senate staff.
-
-    (b) __Requirements__ 
-
-    The ethics training program conducted by the Select Committee on Ethics shall be completed by—
-
-        (1) new Senators or staff not later than 60 days after commencing service or employment; and
-
-        (2) Senators and Senate staff serving or employed on September 14, 2007, not later than 165 days after September 14, 2007.
-
-([Pub. L. 110–81, title V, § 553][/us/pl/110/81/s553], Sept. 14, 2007, [121 Stat. 773][/us/stat/121/773].)
+    Section 72a–1h was editorially reclassified as [section 4722 of this title][/us/usc/t2/s4722].
 
 ----------
 
@@ -36,7 +26,6 @@
 ----------
 ----------
 
-[/us/pl/110/81/s553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F81%2Fs553
-[/us/stat/121/773]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F773
+[/us/usc/t2/s4722]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs4722
 
 

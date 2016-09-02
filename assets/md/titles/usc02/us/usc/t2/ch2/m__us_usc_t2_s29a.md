@@ -71,7 +71,7 @@
 
 [Pub. L. 108–447, div. G, title I, § 107(d)][/us/pl/108/447/s107/d], Dec. 8, 2004, [118 Stat. 3177][/us/stat/118/3177], provided that: 
 
-> “The amendments made by this section \[amending this section and [section 43b–2 of this title][/us/usc/t2/s43b–2]\] shall apply with respect to the One Hundred Tenth Congress and each succeeding Congress.”
+> “The amendments made by this section \[amending this section and [section 5343 of this title][/us/usc/t2/s5343]\] shall apply with respect to the One Hundred Tenth Congress and each succeeding Congress.”
 
  __Effective Date__ 
 
@@ -106,7 +106,7 @@
 [/us/pl/104/186/s202/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2Fs202%2F4%2FB
 [/us/pl/108/447/s107/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs107%2Fd
 [/us/stat/118/3177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3177
-[/us/usc/t2/s43b–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs43b%E2%80%932
+[/us/usc/t2/s5343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs5343
 [/us/pl/93/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F554
 [/us/pl/93/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F554
 [/us/stat/88/1777]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1777

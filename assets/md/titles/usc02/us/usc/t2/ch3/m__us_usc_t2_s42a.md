@@ -13,11 +13,11 @@
 
 [Previous](./../../../..//us/usc/t2/ch3/m__us_usc_t2_s40a.md) | [Next](./../../../..//us/usc/t2/ch3/m__us_usc_t2_s43b–2.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs42a)
 
-## § 42a. Special delivery postage allowance for President of Senate
+## § 42a. Transferred
 
-    The Secretary of the Senate is authorized and directed to procure and furnish each fiscal year (commencing with the fiscal year ending September 30, 1982) to the President of the Senate, upon request by such person, United States special delivery postage stamps in such amount as may be necessary for the mailing of postal matters arising in connection with his official business.
+ __Codification__ 
 
-([Pub. L. 97–51, § 127(a)(1)][/us/pl/97/51/s127/a/1], Oct. 1, 1981, [95 Stat. 965][/us/stat/95/965].)
+    Section 42a was editorially reclassified as [section 6116 of this title][/us/usc/t2/s6116].
 
  __Prior Provisions__ 
 
@@ -70,8 +70,7 @@
 ----------
 ----------
 
-[/us/pl/97/51/s127/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F51%2Fs127%2Fa%2F1
-[/us/stat/95/965]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F965
+[/us/usc/t2/s6116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs6116
 [/us/act/1941-07-01/ch268]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1941-07-01%2Fch268
 [/us/stat/55/450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F55%2F450
 [/us/act/1944-06-26/ch277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-06-26%2Fch277

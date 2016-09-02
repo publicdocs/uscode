@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t2/ch30/schI/m__us_usc_t2_s2011.md) | [Next](./../../../../..//us/usc/t2/ch30/schII/m__us_usc_t2_ch30_schII.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs2012)
+[Previous](./../../../../..//us/usc/t2/ch30/schI/m__us_usc_t2_s2011.md) | [Next](./../../../../..//us/usc/t2/ch30/schI/m__us_usc_t2_s2013.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs2012)
 
 ## § 2012. Furniture for House of Representatives
 
@@ -31,7 +31,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t2/ch30/schI/m__us_usc_t2_s2011.md) | [Next](./../../../../..//us/usc/t2/ch30/schII/m__us_usc_t2_ch30_schII.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs2012)
+[Previous](./../../../../..//us/usc/t2/ch30/schI/m__us_usc_t2_s2011.md) | [Next](./../../../../..//us/usc/t2/ch30/schI/m__us_usc_t2_s2013.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs2012)
 
 ----------
 ----------

@@ -15,7 +15,7 @@
 
 ## § 46e. Repealed. [Pub. L. 92–607][/us/pl/92/607], ch. V, § 506(k)(6), formerly § 506(h)(6), Oct. 31, 1972, [86 Stat. 1508][/us/stat/86/1508], renumbered § 506(i)(6), [Pub. L. 95–391, title I, § 108(a)][/us/pl/95/391/s108/a], Sept. 30, 1978, [92 Stat. 773][/us/stat/92/773], renumbered § 506(j)(6), [Pub. L. 96–304, title I, § 101][/us/pl/96/304/s101], July 8, 1980, [94 Stat. 889][/us/stat/94/889], renumbered § 506(k)(6), [Pub. L. 97–276, § 101(e)][/us/pl/97/276/s101/e], Oct. 2, 1982, [96 Stat. 1189][/us/stat/96/1189]
 
-    Section, acts [July 1, 1946, ch. 530][/us/act/1946-07-01/ch530], [60 Stat. 392][/us/stat/60/392]; [Aug. 2, 1946, ch. 753][/us/act/1946-08-02/ch753], title I, § 102, [60 Stat. 814][/us/stat/60/814], authorized the payment of charges for telegrams by Senators. See [section 58 of this title][/us/usc/t2/s58].
+    Section, acts [July 1, 1946, ch. 530][/us/act/1946-07-01/ch530], [60 Stat. 392][/us/stat/60/392]; [Aug. 2, 1946, ch. 753][/us/act/1946-08-02/ch753], title I, § 102, [60 Stat. 814][/us/stat/60/814], authorized the payment of charges for telegrams by Senators. See [section 6314 of this title][/us/usc/t2/s6314].
 
  __Effective Date of Repeal__ 
 
@@ -40,7 +40,7 @@
 [/us/stat/60/392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F392
 [/us/act/1946-08-02/ch753]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-02%2Fch753
 [/us/stat/60/814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F814
-[/us/usc/t2/s58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs58
+[/us/usc/t2/s6314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs6314
 [/us/pl/92/607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F607
 [/us/stat/86/1507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1507
 [/us/pl/95/391/s108/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F391%2Fs108%2Fa

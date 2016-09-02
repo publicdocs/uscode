@@ -15,7 +15,7 @@
 
 ## § 605. Sale or lease of property, supplies, or services
 
-    (a) Any sale or lease of property, supplies, or services to the Congressional Budget Office shall be deemed to be a sale or lease to the Congress subject to [section 111b of this title][/us/usc/t2/s111b].
+    (a) Any sale or lease of property, supplies, or services to the Congressional Budget Office shall be deemed to be a sale or lease to the Congress subject to [section 4103 of this title][/us/usc/t2/s4103].
 
     (b) Subsection (a) of this section shall apply with respect to fiscal years beginning after September 30, 1996.
 
@@ -23,7 +23,7 @@
 
  __References in Text__ 
 
-    [Section 111b of this title][/us/usc/t2/s111b], referred to in subsec. (a), was in the original a reference to section 903 of the Supplemental Appropriations Act, 1983, [Pub. L. 98–63, title I][/us/pl/98/63], July 30, 1983, [97 Stat. 336][/us/stat/97/336], which is classified to [section 111b of this title][/us/usc/t2/s111b] and in part as a note set out under [section 111b of this title][/us/usc/t2/s111b].
+    [Section 4103 of this title][/us/usc/t2/s4103], referred to in subsec. (a), was in the original a reference to section 903 of the Supplemental Appropriations Act, 1983, [Pub. L. 98–63, title I][/us/pl/98/63], July 30, 1983, [97 Stat. 336][/us/stat/97/336], which is classified to [section 4103 of this title][/us/usc/t2/s4103] and in part as a note set out under [section 4103 of this title][/us/usc/t2/s4103].
 
  __Codification__ 
 
@@ -64,14 +64,14 @@ Provisions similar to those in this section were contained in the following prio
 ----------
 ----------
 
-[/us/usc/t2/s111b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs111b
+[/us/usc/t2/s4103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs4103
 [/us/pl/104/197/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F197%2Fs104
 [/us/stat/110/2404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2404
-[/us/usc/t2/s111b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs111b
+[/us/usc/t2/s4103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs4103
 [/us/pl/98/63]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F63
 [/us/stat/97/336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F336
-[/us/usc/t2/s111b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs111b
-[/us/usc/t2/s111b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs111b
+[/us/usc/t2/s4103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs4103
+[/us/usc/t2/s4103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs4103
 [/us/pl/104/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F53
 [/us/stat/109/527]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F527
 [/us/pl/103/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F283

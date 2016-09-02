@@ -13,33 +13,11 @@
 
 [Previous](./../../../..//us/usc/t2/ch3/m__us_usc_t2_s59d.md) | [Next](./../../../..//us/usc/t2/ch3/m__us_usc_t2_s59e.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs59d%E2%80%931)
 
-## § 59d–1. Transportation of official records and papers to a Senator’s State
-
-    (a) __Payment of reasonable transportation expenses__ 
-
-        Upon request of a Senator, amounts in the appropriation account “Miscellaneous Items” within the contingent fund of the Senate shall be available to pay the reasonable expenses of sending or transporting the official records and papers of the Senator from the District of Columbia to any location designated by such Senator in the State represented by the Senator.
-
-    (b) __Sending and transportation__ 
-
-        The Sergeant at Arms and Doorkeeper of the Senate shall provide for the most economical means of sending or transporting the official records and papers under this section while ensuring the orderly and timely delivery of the records and papers to the location specified by the Senator.
-
-    (c) __Oversight__ 
-
-        The Committee on Rules and Administration shall have the authority to issue rules and regulations to carry out the provisions of this section.
-
-    (d) __Official records defined__ 
-
-        In this section, the term “official records and papers” means books, records, papers, and official files which could be sent as franked mail.
-
-    (e) __Effective date__ 
-
-        This section shall apply with respect to fiscal year 2005 and each succeeding fiscal year.
-
-([Pub. L. 108–447, div. G, title I, § 7][/us/pl/108/447/s7], Dec. 8, 2004, [118 Stat. 3170][/us/stat/118/3170].)
+## § 59d–1. Transferred
 
  __Codification__ 
 
-    Section is from the Legislative Branch Appropriations Act, 2005, which is div. G of the Consolidated Appropriations Act, 2005.
+    Section 59d–1 was editorially reclassified as [section 6319 of this title][/us/usc/t2/s6319].
 
 ----------
 
@@ -48,7 +26,6 @@
 ----------
 ----------
 
-[/us/pl/108/447/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs7
-[/us/stat/118/3170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3170
+[/us/usc/t2/s6319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs6319
 
 

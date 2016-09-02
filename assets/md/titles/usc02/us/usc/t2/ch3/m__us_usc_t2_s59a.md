@@ -19,7 +19,7 @@
 
  __Effective Date of Repeal__ 
 
-    Repeal effective Oct. 1, 1989, see [section 103(c) of Pub. L. 101–163][/us/pl/101/163/s103/c], set out as an Effective Date of 1989 Amendment note under [section 117e of this title][/us/usc/t2/s117e].
+    Repeal effective Oct. 1, 1989, see [section 103(c) of Pub. L. 101–163][/us/pl/101/163/s103/c], set out as an Effective Date of 1989 Amendment note under [section 5540 of this title][/us/usc/t2/s5540].
 
 ----------
 
@@ -33,6 +33,6 @@
 [/us/pl/93/462/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F462%2Fs1
 [/us/stat/88/1388]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1388
 [/us/pl/101/163/s103/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F163%2Fs103%2Fc
-[/us/usc/t2/s117e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs117e
+[/us/usc/t2/s5540]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs5540
 
 

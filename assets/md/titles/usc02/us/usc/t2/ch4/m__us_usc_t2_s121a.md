@@ -19,7 +19,7 @@
 
  __Effective Date of Repeal__ 
 
-    Repeal effective 30 days after Oct. 21, 1998, see [section 121b–1(i) of this title][/us/usc/t2/s121b–1/i].
+    Repeal effective 30 days after Oct. 21, 1998, see [section 6634(i) of this title][/us/usc/t2/s6634/i].
 
 ----------
 
@@ -36,6 +36,6 @@
 [/us/stat/91/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F85
 [/us/pl/100/458/s10/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F458%2Fs10%2Fb
 [/us/stat/102/2162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2162
-[/us/usc/t2/s121b–1/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs121b%E2%80%931%2Fi
+[/us/usc/t2/s6634/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs6634%2Fi
 
 

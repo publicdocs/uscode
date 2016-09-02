@@ -13,27 +13,11 @@
 
 [Previous](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s68–5.md) | [Next](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s68–6a.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs68%E2%80%936)
 
-## § 68–6. Transfers from appropriations account for expenses of Office of Secretary of Senate and Office of Sergeant at Arms and Doorkeeper of Senate
-
-    (a) The Secretary of the Senate is authorized, with the approval of the Senate Committee on Appropriations, to transfer, during any fiscal year (1) from the appropriations account, within the contingent fund of the Senate, for expenses of the Office of the Secretary of the Senate, such sums as he shall specify to the Senate appropriations account, appropriated under the headings “Salaries, Officers and Employees” and “Office of the Secretary”, and (2) from the Senate appropriations account, appropriated under the headings “Salaries, Officers and Employees” and “Office of the Secretary” to the appropriations account, within the contingent fund of the Senate, for expenses of the Office of the Secretary of the Senate, such sums as he shall specify; and any funds so transferred shall be available in like manner and for the same purposes as are other funds in the account to which the funds are transferred.
-
-    (b) The Sergeant at Arms and Doorkeeper of the Senate is authorized, with the approval of the Senate Committee on Appropriations, to transfer, during any fiscal year, from the appropriations account, within the contingent fund of the Senate, for expenses of the Office of the Sergeant at Arms and Doorkeeper of the Senate, such sums as he shall specify to the appropriations account, appropriated under the headings “Salaries, Officers and Employees” and “Office of the Sergeant at Arms and Doorkeeper”; and any funds so transferred shall be available in like manner and for the same purposes as are other funds in the account to which the funds are transferred.
-
-([Pub. L. 100–458, title I, § 3][/us/pl/100/458/s3], Oct. 1, 1988, [102 Stat. 2161][/us/stat/102/2161]; [Pub. L. 101–302, title III, § 317][/us/pl/101/302/s317], May 25, 1990, [104 Stat. 247][/us/stat/104/247].)
+## § 68–6. Transferred
 
  __Codification__ 
 
-    Section is from the Congressional Operations Appropriations Act, 1989, which is title I of the Legislative Branch Appropriations Act, 1989.
-
- __Amendments__ 
-
-    1990—Subsec. (a). [Pub. L. 101–302][/us/pl/101/302] designated existing provisions as cl. (1) and added cl. (2).
-
- __Prior Provisions__ 
-
-    Provisions similar to those in this section were contained in the following prior appropriation act:
-
-    [Pub. L. 100–202, § 101(i)][/us/pl/100/202/s101/i] \[title I, § 8\], Dec. 22, 1987, [101 Stat. 1329–290][/us/stat/101/1329-290], 1329–295.
+    Section 68–6 was editorially reclassified as [section 6508 of this title][/us/usc/t2/s6508].
 
 ----------
 
@@ -42,12 +26,6 @@
 ----------
 ----------
 
-[/us/pl/100/458/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F458%2Fs3
-[/us/stat/102/2161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2161
-[/us/pl/101/302/s317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F302%2Fs317
-[/us/stat/104/247]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F247
-[/us/pl/101/302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F302
-[/us/pl/100/202/s101/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202%2Fs101%2Fi
-[/us/stat/101/1329-290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1329-290
+[/us/usc/t2/s6508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs6508
 
 

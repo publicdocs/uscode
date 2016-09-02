@@ -65,11 +65,11 @@
 
 [Pub. L. 92–136, § 9(a)][/us/pl/92/136/s9/a], Oct. 11, 1971, [85 Stat. 378][/us/stat/85/378], provided that: 
 
-> “The amendments made by the first section \[amending this section\] section 2, and section 5 of this Act \[amending [section 72a of this title][/us/usc/t2/s72a]\] shall become effective as of noon on January 3, 1971.”
+> “The amendments made by the first section \[amending this section\] section 2, and section 5 of this Act \[amending [section 4301 of this title][/us/usc/t2/s4301]\] shall become effective as of noon on January 3, 1971.”
 
  __Effective Date of 1970 Amendment__ 
 
-    Amendment by [Pub. L. 91–510][/us/pl/91/510] effective immediately prior to noon on Jan. 3, 1971, see [section 601(1) of Pub. L. 91–510][/us/pl/91/510/s601/1], set out as a note under [section 72a of this title][/us/usc/t2/s72a].
+    Amendment by [Pub. L. 91–510][/us/pl/91/510] effective immediately prior to noon on Jan. 3, 1971, see [section 601(1) of Pub. L. 91–510][/us/pl/91/510/s601/1], set out as a note under [section 4301 of this title][/us/usc/t2/s4301].
 
  __Effective Date__ 
 
@@ -102,10 +102,10 @@
 [/us/pl/91/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F510
 [/us/pl/92/136/s9/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F136%2Fs9%2Fa
 [/us/stat/85/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F378
-[/us/usc/t2/s72a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs72a
+[/us/usc/t2/s4301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs4301
 [/us/pl/91/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F510
 [/us/pl/91/510/s601/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F510%2Fs601%2F1
-[/us/usc/t2/s72a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs72a
+[/us/usc/t2/s4301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs4301
 [/us/act/1946-08-02/ch753]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-02%2Fch753
 [/us/stat/60/834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F834
 

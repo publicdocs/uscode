@@ -13,17 +13,11 @@
 
 [Previous](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s104e.md) | [Next](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s104g.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs104f)
 
-## § 104f. Notification of post-employment restrictions for Senators and employees
+## § 104f. Transferred
 
-    (a) __In general__ 
+ __Codification__ 
 
-        After a Senator or an elected officer of the Senate leaves office or after the termination of employment with the Senate of an employee of the Senate, the Secretary of the Senate shall notify the Member, officer, or employee of the beginning and ending date of the prohibitions that apply to the Member, officer, or employee under rule XXXVII of the Standing Rules of the Senate.
-
-    (b) __Effective date__ 
-
-        This section shall take effect 60 days after September 14, 2007.
-
-([Pub. L. 110–81, title V, § 535][/us/pl/110/81/s535], Sept. 14, 2007, [121 Stat. 766][/us/stat/121/766].)
+    Section 104f was editorially reclassified as [section 4728 of this title][/us/usc/t2/s4728].
 
 ----------
 
@@ -32,7 +26,6 @@
 ----------
 ----------
 
-[/us/pl/110/81/s535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F81%2Fs535
-[/us/stat/121/766]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F766
+[/us/usc/t2/s4728]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs4728
 
 

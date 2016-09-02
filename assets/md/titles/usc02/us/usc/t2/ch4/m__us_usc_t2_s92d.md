@@ -13,15 +13,11 @@
 
 [Previous](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s92c.md) | [Next](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s92e.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs92d)
 
-## § 92d. “Member of the House” defined
+## § 92d. Transferred
 
-    As used in [section 92b of this title][/us/usc/t2/s92b] the phrase “Member of the House” shall mean a Representative, Representative-elect, Delegate, Delegate-elect, Resident Commissioner, or Resident Commissioner-elect.
+ __Codification__ 
 
-([Aug. 21, 1935, ch. 600, § 3][/us/act/1935-08-21/ch600/s3], [49 Stat. 680][/us/stat/49/680].)
-
- __Effective Date__ 
-
-    Section effective Jan. 3, 1935, see section 4 of act Aug. 21, 1935, set out as a note under [section 92b of this title][/us/usc/t2/s92b].
+    Section 92d was editorially reclassified as [section 5326 of this title][/us/usc/t2/s5326].
 
 ----------
 
@@ -30,9 +26,6 @@
 ----------
 ----------
 
-[/us/usc/t2/s92b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs92b
-[/us/act/1935-08-21/ch600/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-21%2Fch600%2Fs3
-[/us/stat/49/680]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F680
-[/us/usc/t2/s92b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs92b
+[/us/usc/t2/s5326]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs5326
 
 

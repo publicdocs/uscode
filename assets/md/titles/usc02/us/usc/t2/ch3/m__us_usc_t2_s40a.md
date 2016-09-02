@@ -13,15 +13,11 @@
 
 [Previous](./../../../..//us/usc/t2/ch3/m__us_usc_t2_s40.md) | [Next](./../../../..//us/usc/t2/ch3/m__us_usc_t2_s42a.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs40a)
 
-## § 40a. Deductions for delinquent indebtedness
+## § 40a. Transferred
 
-    Whenever a Representative, Delegate, Resident Commissioner, or a United States Senator, shall fail to pay any sum or sums due from such person to the House of Representatives or Senate, respectively, the appropriate committee or officer of the House of Representatives or Senate, as the case may be, having jurisdiction of the activity under which such debt arose, shall certify such delinquent sum or sums to the Chief Administrative Officer of the House of Representatives in the case of an indebtedness to the House of Representatives and to the Secretary of the Senate in the case of an indebtedness to the Senate, and such latter officials are authorized and directed, respectively, to deduct from any salary, mileage, or expense money due to any such delinquent such certified amounts or so much thereof as the balance or balances due such delinquent may cover. Sums so deducted by the Secretary of the Senate shall be disposed of by him in accordance with existing law, and sums so deducted by the Chief Administrative Officer of the House of Representatives shall be disposed of by him in accordance with existing law.
+ __Codification__ 
 
-([June 19, 1934, ch. 648][/us/act/1934-06-19/ch648], title I, § 1, [48 Stat. 1024][/us/stat/48/1024]; [Pub. L. 104–186, title II, § 203(8)][/us/pl/104/186/s203/8], Aug. 20, 1996, [110 Stat. 1726][/us/stat/110/1726].)
-
- __Amendments__ 
-
-    1996—[Pub. L. 104–186][/us/pl/104/186] substituted “Chief Administrative Officer of the House of Representatives in” for “Sergeant at Arms of the House in” and “Chief Administrative Officer of the House of Representatives shall be” for “Sergeant at Arms of the House shall be paid to the Clerk of the House and”.
+    Section 40a was editorially reclassified as [section 4523 of this title][/us/usc/t2/s4523].
 
 §§ 41, 42. __Repealed.__  __[__  __Pub. L. 104–186, title II, § 203(9)(A)__  __][/us/pl/104/186/s203/9/A]__  __, (10),__  __Aug. 20, 1996__  __,__  __[__  __110 Stat. 1726__  __][/us/stat/110/1726]__ 
 
@@ -29,7 +25,7 @@
 
     Section 42, based on H. Res. No. 420, Ninety-second Congress, May 18, 1971, enacted into permanent law by [Pub. L. 92–184][/us/pl/92/184], ch. IV, Dec. 15, 1971, [85 Stat. 636][/us/stat/85/636], related to furnishing of postage stamps to Members, committees, and officers of House of Representatives.
 
-    A prior section 42, R.S. § 44, which proscribed compensation or allowance to Senators, Representatives, or Delegates for postage, was repealed by [Pub. L. 104–186, title II, § 203(11)][/us/pl/104/186/s203/11], Aug. 20, 1996, [110 Stat. 1726][/us/stat/110/1726]. See sections 42a and 46a of this title.
+    A prior section 42, R.S. § 44, which proscribed compensation or allowance to Senators, Representatives, or Delegates for postage, was repealed by [Pub. L. 104–186, title II, § 203(11)][/us/pl/104/186/s203/11], Aug. 20, 1996, [110 Stat. 1726][/us/stat/110/1726]. See sections 6116 and 6117 of this title.
 
  __Applicability of Prohibition During Ninety-fifth Congress__ 
 
@@ -42,11 +38,7 @@
 ----------
 ----------
 
-[/us/act/1934-06-19/ch648]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-19%2Fch648
-[/us/stat/48/1024]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1024
-[/us/pl/104/186/s203/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2Fs203%2F8
-[/us/stat/110/1726]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1726
-[/us/pl/104/186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186
+[/us/usc/t2/s4523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs4523
 [/us/pl/104/186/s203/9/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2Fs203%2F9%2FA
 [/us/stat/110/1726]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1726
 [/us/pl/92/184]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F184

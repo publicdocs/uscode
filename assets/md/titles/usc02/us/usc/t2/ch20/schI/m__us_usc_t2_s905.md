@@ -17,7 +17,7 @@
 
     (a) __Social security benefits and tier I railroad retirement benefits__ 
 
-        Benefits payable under the old-age, survivors, and disability insurance program established under title II of the Social Security Act ([42 U.S.C. 401][/us/usc/t42/s401] et seq.), and benefits payable under section  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “sections”. </sup></sup>  231b(a), 231b(f)(2), 231c(a), and 231c(f) of title 45, shall be exempt from reduction under any order issued under this subchapter.
+        Benefits payable under the old-age, survivors, and disability insurance program established under title II of the Social Security Act ([42 U.S.C. 401][/us/usc/t42/s401] et seq.), and benefits payable under sections 231b and 231c  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of title 45, shall be exempt from reduction under any order issued under this subchapter.
 
     (b) __Veterans programs__ 
 
@@ -319,7 +319,7 @@
 
         Family Support Programs (75–1501–0–1–609).
 
-        Federal Pell Grants under section 1070a  <sup>\[2\]</sup>  <sup><sup> 2 See References in Text note below. </sup></sup>  of title 20.
+        Federal Pell Grants under [section 1070a of title 20][/us/usc/t20/s1070a].
 
         Grants to States for Medicaid (75–0512–0–1–551).
 
@@ -341,7 +341,7 @@
 
         Special Inspector General for the Troubled Asset Relief Program (20–0133–0–1–376).
 
-    (j)  __ <sup>\[__  __3__  __\]</sup> __  __ <sup><sup> __  __3__  __ So in original. Two subsecs. (j) have been enacted.__  __ </sup></sup> __  __Split treatment programs__ 
+    (j) __Split treatment programs__ 
 
         Each of the following programs shall be exempt from any order under this subchapter to the extent that the budgetary resources of such programs are subject to obligation limitations in appropriations bills:
 
@@ -359,21 +359,31 @@
 
         Grants-In-Aid for Airports (69–8106–0–7–402).
 
-    (j)  __3__  __Identification of programs__ 
+    (k) __Identification of programs__ 
 
         For purposes of subsections (b), (g), and (h) of this section, each account is identified by the designated budget account identification code number set forth in the Budget of the United States Government 2010–Appendix, and an activity within an account is designated by the name of the activity and the identification code number of the account.
 
-([Pub. L. 99–177, title II, § 255][/us/pl/99/177/s255], Dec. 12, 1985, [99 Stat. 1082][/us/stat/99/1082]; [Pub. L. 99–509, title VII, § 7002(a)][/us/pl/99/509/s7002/a], Oct. 21, 1986, [100 Stat. 1949][/us/stat/100/1949]; [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095]; [Pub. L. 100–86, title V, § 506(a)][/us/pl/100/86/s506/a], Aug. 10, 1987, [101 Stat. 634][/us/stat/101/634]; [Pub. L. 100–119, title I, § 104(a)(1)][/us/pl/100/119/s104/a/1], (2), (b), (c)(1), Sept. 29, 1987, [101 Stat. 775–777][/us/stat/101/775-777]; [Pub. L. 101–73, title VII, § 743(a)][/us/pl/101/73/s743/a], (c), Aug. 9, 1989, [103 Stat. 437][/us/stat/103/437]; [Pub. L. 101–220, § 8][/us/pl/101/220/s8], Dec. 12, 1989, [103 Stat. 1881][/us/stat/103/1881]; [Pub. L. 101–508, title XIII, § 13101(c)][/us/pl/101/508/s13101/c], Nov. 5, 1990, [104 Stat. 1388–589][/us/stat/104/1388-589]; [Pub. L. 102–54, § 13(a)][/us/pl/102/54/s13/a], June 13, 1991, [105 Stat. 274][/us/stat/105/274]; [Pub. L. 102–83, § 5(c)(2)][/us/pl/102/83/s5/c/2], Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406]; [Pub. L. 102–486, title IX, § 902(d)][/us/pl/102/486/s902/d], Oct. 24, 1992, [106 Stat. 2944][/us/stat/106/2944]; [Pub. L. 102–572, title VI, § 601][/us/pl/102/572/s601], Oct. 29, 1992, [106 Stat. 4514][/us/stat/106/4514]; [Pub. L. 104–193, title I, § 110(r)(1)][/us/pl/104/193/s110/r/1], Aug. 22, 1996, [110 Stat. 2175][/us/stat/110/2175]; [Pub. L. 104–208, div. A, title II, § 2704(d)(10)][/us/pl/104/208/s2704/d/10], Sept. 30, 1996, [110 Stat. 3009–489][/us/stat/110/3009-489]; [Pub. L. 105–33, title X, § 10207][/us/pl/105/33/s10207], Aug. 5, 1997, [111 Stat. 704][/us/stat/111/704]; [Pub. L. 109–171, title II, § 2102(b)][/us/pl/109/171/s2102/b], Feb. 8, 2006, [120 Stat. 9][/us/stat/120/9]; [Pub. L. 111–139, title I, § 11][/us/pl/111/139/s11], Feb. 12, 2010, [124 Stat. 23][/us/stat/124/23].)
+([Pub. L. 99–177, title II, § 255][/us/pl/99/177/s255], Dec. 12, 1985, [99 Stat. 1082][/us/stat/99/1082]; [Pub. L. 99–509, title VII, § 7002(a)][/us/pl/99/509/s7002/a], Oct. 21, 1986, [100 Stat. 1949][/us/stat/100/1949]; [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095]; [Pub. L. 100–86, title V, § 506(a)][/us/pl/100/86/s506/a], Aug. 10, 1987, [101 Stat. 634][/us/stat/101/634]; [Pub. L. 100–119, title I, § 104(a)(1)][/us/pl/100/119/s104/a/1], (2), (b), (c)(1), Sept. 29, 1987, [101 Stat. 775–777][/us/stat/101/775-777]; [Pub. L. 101–73, title VII, § 743(a)][/us/pl/101/73/s743/a], (c), Aug. 9, 1989, [103 Stat. 437][/us/stat/103/437]; [Pub. L. 101–220, § 8][/us/pl/101/220/s8], Dec. 12, 1989, [103 Stat. 1881][/us/stat/103/1881]; [Pub. L. 101–508, title XIII, § 13101(c)][/us/pl/101/508/s13101/c], Nov. 5, 1990, [104 Stat. 1388–589][/us/stat/104/1388-589]; [Pub. L. 102–54, § 13(a)][/us/pl/102/54/s13/a], June 13, 1991, [105 Stat. 274][/us/stat/105/274]; [Pub. L. 102–83, § 5(c)(2)][/us/pl/102/83/s5/c/2], Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406]; [Pub. L. 102–486, title IX, § 902(d)][/us/pl/102/486/s902/d], Oct. 24, 1992, [106 Stat. 2944][/us/stat/106/2944]; [Pub. L. 102–572, title VI, § 601][/us/pl/102/572/s601], Oct. 29, 1992, [106 Stat. 4514][/us/stat/106/4514]; [Pub. L. 104–193, title I, § 110(r)(1)][/us/pl/104/193/s110/r/1], Aug. 22, 1996, [110 Stat. 2175][/us/stat/110/2175]; [Pub. L. 104–208, div. A, title II, § 2704(d)(10)][/us/pl/104/208/s2704/d/10], Sept. 30, 1996, [110 Stat. 3009–489][/us/stat/110/3009-489]; [Pub. L. 105–33, title X, § 10207][/us/pl/105/33/s10207], Aug. 5, 1997, [111 Stat. 704][/us/stat/111/704]; [Pub. L. 109–171, title II, § 2102(b)][/us/pl/109/171/s2102/b], Feb. 8, 2006, [120 Stat. 9][/us/stat/120/9]; [Pub. L. 111–139, title I, § 11][/us/pl/111/139/s11], Feb. 12, 2010, [124 Stat. 23][/us/stat/124/23]; [Pub. L. 113–67, div. A, title I, § 121(5)][/us/pl/113/67/s121/5]–(8), Dec. 26, 2013, [127 Stat. 1175][/us/stat/127/1175].)
 
  __References in Text__ 
 
     The Social Security Act, referred to in subsec. (a), is [act Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], [49 Stat. 620][/us/stat/49/620]. Title II of the Social Security Act is classified generally to subchapter II (§ 401 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see [section 1305 of Title 42][/us/usc/t42/s1305] and Tables.
 
+    Sections 231b and 231c of title 45, referred to in subsec. (a), were in the original references to sections 3 and 4 of the Railroad Retirement Act of 1937 ([45 U.S.C. 231][/us/usc/t45/s231] et seq.), and were translated as meaning sections 3 and 4 of the Railroad Retirement Act of 1974, to reflect the probable intent of Congress. The Railroad Retirement Act of 1937, [act Aug. 29, 1935, ch. 812][/us/act/1935-08-29/ch812], as restated [June 24, 1937, ch. 382][/us/act/1937-06-24/ch382], pt. I, [50 Stat. 307][/us/stat/50/307], was amended in its entirety and completely revised by [Pub. L. 93–445, title I][/us/pl/93/445], Oct. 16, 1974, [88 Stat. 1305][/us/stat/88/1305], was redesignated the Railroad Retirement Act of 1974, and is classified generally to subchapter IV (§ 231 et seq.) of chapter 9 of Title 45, Railroads.
+
     The Federal Employees’ Compensation Act, referred to in subsec. (g)(1)(B), which is [act Sept. 7, 1916, ch. 458][/us/act/1916-09-07/ch458], [39 Stat. 742][/us/stat/39/742], was repealed and the provisions thereof reenacted as subchapter I of chapter 81 of Title 5, Government Organization and Employees, by [Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 378][/us/stat/80/378].
 
-    [Section 1070a of title 20][/us/usc/t20/s1070a], referred to in subsec. (h), was in the original “section 401 Title IV of the Higher Education Act” and was translated as if it referred to section 401 of title IV of the Higher Education Act of 1965 to reflect the probable intent of Congress.
-
  __Amendments__ 
+
+    2013—Subsec. (a). [Pub. L. 113–67, § 121(5)][/us/pl/113/67/s121/5], substituted “sections 231b and 231c of title 45” for “section 231b(a), 231b(f)(2), 231c(a), and 231c(f) of title 45”.
+
+    Subsec. (h). [Pub. L. 113–67, § 121(6)][/us/pl/113/67/s121/6], in item relating to Federal Pell Grants, made technical amendment to reference in original act which appears in text as reference to [section 1070a of title 20][/us/usc/t20/s1070a].
+
+    Subsec. (j). [Pub. L. 113–67, § 121(8)][/us/pl/113/67/s121/8], redesignated subsec. (j) relating to identification of programs as (k).
+
+    [Pub. L. 113–67, § 121(7)][/us/pl/113/67/s121/7], realigned margins of list items.
+
+    Subsec. (k). [Pub. L. 113–67, § 121(8)][/us/pl/113/67/s121/8], redesignated subsec. (j) relating to identification of programs as (k).
 
     2010—Subsecs. (a) to (d). [Pub. L. 111–139, § 11(b)][/us/pl/111/139/s11/b], amended subsecs. (a) to (d) generally. Prior to amendment, subsecs. (a) to (d) related to exemptions for social security benefits and tier I railroad retirement benefits, veterans programs, net interest, and earned income tax credit, respectively.
 
@@ -586,6 +596,7 @@
 [/us/usc/t2/s904/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs904%2Fa
 [/us/pl/93/454/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F454%2Fs13
 [/us/usc/t16/s838k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs838k
+[/us/usc/t20/s1070a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1070a
 [/us/pl/99/177/s255]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F177%2Fs255
 [/us/stat/99/1082]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1082
 [/us/pl/99/509/s7002/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2Fs7002%2Fa
@@ -620,14 +631,27 @@
 [/us/stat/120/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F9
 [/us/pl/111/139/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F139%2Fs11
 [/us/stat/124/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F23
+[/us/pl/113/67/s121/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs121%2F5
+[/us/stat/127/1175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1175
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F620
 [/us/usc/t42/s1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1305
+[/us/usc/t45/s231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft45%2Fs231
+[/us/act/1935-08-29/ch812]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-29%2Fch812
+[/us/act/1937-06-24/ch382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-06-24%2Fch382
+[/us/stat/50/307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F50%2F307
+[/us/pl/93/445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F445
+[/us/stat/88/1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1305
 [/us/act/1916-09-07/ch458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1916-09-07%2Fch458
 [/us/stat/39/742]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F742
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F378
+[/us/pl/113/67/s121/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs121%2F5
+[/us/pl/113/67/s121/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs121%2F6
 [/us/usc/t20/s1070a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1070a
+[/us/pl/113/67/s121/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs121%2F8
+[/us/pl/113/67/s121/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs121%2F7
+[/us/pl/113/67/s121/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs121%2F8
 [/us/pl/111/139/s11/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F139%2Fs11%2Fb
 [/us/pl/111/139/s11/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F139%2Fs11%2Fc
 [/us/pl/111/139/s11/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F139%2Fs11%2Fd

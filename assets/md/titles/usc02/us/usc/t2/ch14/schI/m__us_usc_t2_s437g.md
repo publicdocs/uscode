@@ -41,17 +41,25 @@
 
                 (i)
 
-                 Notwithstanding subparagraph (A), in the case of a violation of any requirement of [section 434(a) of this title][/us/usc/t2/s434/a], the Commission may—
+                 Notwithstanding subparagraph (A), in the case of a violation of a qualified disclosure requirement, the Commission may—
 
                     (I) find that a person committed such a violation on the basis of information obtained pursuant to the procedures described in paragraphs (1) and (2); and
 
-                    (II) based on such finding, require the person to pay a civil money penalty in an amount determined under a schedule of penalties which is established and published by the Commission and which takes into account the amount of the violation involved, the existence of previous violations by the person, and such other factors as the Commission considers appropriate.
+                    (II) based on such finding, require the person to pay a civil money penalty in an amount determined, for violations of each qualified disclosure requirement, under a schedule of penalties which is established and published by the Commission and which takes into account the amount of the violation involved, the existence of previous violations by the person, and such other factors as the Commission considers appropriate.
 
                 (ii) The Commission may not make any determination adverse to a person under clause (i) until the person has been given written notice and an opportunity to be heard before the Commission.
 
                 (iii) Any person against whom an adverse determination is made under this subparagraph may obtain a review of such determination in the district court of the United States for the district in which the person resides, or transacts business, by filing in such court (prior to the expiration of the 30-day period which begins on the date the person receives notification of the determination) a written petition requesting that the determination be modified or set aside.
 
-                (iv) This subparagraph shall apply with respect to violations that relate to reporting periods that begin on or after January 1, 2000, and that end on or before December 31, 2013.
+                (iv)
+
+                 In this subparagraph, the term “qualified disclosure requirement” means any requirement of—
+
+                    (I) subsections (a), (c), (e), (f), (g), or (i) of [section 434 of this title][/us/usc/t2/s434]; or
+
+                    (II) [section 437 of this title][/us/usc/t2/s437].
+
+                (v) This subparagraph shall apply with respect to violations that relate to reporting periods that begin on or after January 1, 2000, and that end on or before December 31, 2018.
 
         (5)
 
@@ -145,7 +153,7 @@
 
             (C) the defendant is, with respect to the violation involved, in compliance with the conciliation agreement.
 
-([Pub. L. 92–225, title III, § 309][/us/pl/92/225/s309], formerly § 314, as added [Pub. L. 93–443, title II, § 208(a)][/us/pl/93/443/s208/a], Oct. 15, 1974, [88 Stat. 1284][/us/stat/88/1284]; renumbered § 313 and amended [Pub. L. 94–283, title I][/us/pl/94/283], §§ 105, 109, May 11, 1976, [90 Stat. 481][/us/stat/90/481], 483; renumbered § 309 and amended [Pub. L. 96–187, title I][/us/pl/96/187], §§ 105(4), 108, Jan. 8, 1980, [93 Stat. 1354][/us/stat/93/1354], 1358; [Pub. L. 98–620, title IV, § 402(1)(A)][/us/pl/98/620/s402/1/A], Nov. 8, 1984, [98 Stat. 3357][/us/stat/98/3357]; [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095]; [Pub. L. 106–58, title VI, § 640(a)][/us/pl/106/58/s640/a], (b), Sept. 29, 1999, [113 Stat. 476][/us/stat/113/476], 477; [Pub. L. 107–155, title III][/us/pl/107/155], §§ 312(a), 315(a), (b), Mar. 27, 2002, [116 Stat. 106][/us/stat/116/106], 108; [Pub. L. 110–433, § 1(a)][/us/pl/110/433/s1/a], Oct. 16, 2008, [122 Stat. 4971][/us/stat/122/4971].)
+([Pub. L. 92–225, title III, § 309][/us/pl/92/225/s309], formerly § 314, as added [Pub. L. 93–443, title II, § 208(a)][/us/pl/93/443/s208/a], Oct. 15, 1974, [88 Stat. 1284][/us/stat/88/1284]; renumbered § 313 and amended [Pub. L. 94–283, title I][/us/pl/94/283], §§ 105, 109, May 11, 1976, [90 Stat. 481][/us/stat/90/481], 483; renumbered § 309 and amended [Pub. L. 96–187, title I][/us/pl/96/187], §§ 105(4), 108, Jan. 8, 1980, [93 Stat. 1354][/us/stat/93/1354], 1358; [Pub. L. 98–620, title IV, § 402(1)(A)][/us/pl/98/620/s402/1/A], Nov. 8, 1984, [98 Stat. 3357][/us/stat/98/3357]; [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095]; [Pub. L. 106–58, title VI, § 640(a)][/us/pl/106/58/s640/a], (b), Sept. 29, 1999, [113 Stat. 476][/us/stat/113/476], 477; [Pub. L. 107–155, title III][/us/pl/107/155], §§ 312(a), 315(a), (b), Mar. 27, 2002, [116 Stat. 106][/us/stat/116/106], 108; [Pub. L. 110–433, § 1(a)][/us/pl/110/433/s1/a], Oct. 16, 2008, [122 Stat. 4971][/us/stat/122/4971]; [Pub. L. 113–72][/us/pl/113/72], §§ 1, 2, Dec. 26, 2013, [127 Stat. 1210][/us/stat/127/1210].)
 
  __References in Text__ 
 
@@ -162,6 +170,16 @@
     Another prior [section 309 of Pub. L. 92–225][/us/pl/92/225/s309] was renumbered section 312, and is classified to [section 439 of this title][/us/usc/t2/s439].
 
  __Amendments__ 
+
+    2013—Subsec. (a)(4)(C)(i). [Pub. L. 113–72, § 2(a)][/us/pl/113/72/s2/a], substituted “a qualified disclosure requirement” for “any requirement of [section 434(a) of this title][/us/usc/t2/s434/a]” in introductory provisions.
+
+    Subsec. (a)(4)(C)(i)(II). [Pub. L. 113–72, § 2(b)][/us/pl/113/72/s2/b], inserted “, for violations of each qualified disclosure requirement,” before “under a schedule of penalties”.
+
+    Subsec. (a)(4)(C)(iv). [Pub. L. 113–72, § 2(c)(2)][/us/pl/113/72/s2/c/2], added cl. (iv). Former cl. (iv) redesignated (v).
+
+    [Pub. L. 113–72, § 1][/us/pl/113/72/s1], substituted “December 31, 2018” for “December 31, 2013”.
+
+    Subsec. (a)(4)(C)(v). [Pub. L. 113–72, § 2(c)(1)][/us/pl/113/72/s2/c/1], redesignated cl. (iv) as (v).
 
     2008—Subsec. (a)(4)(C)(iv). [Pub. L. 110–433][/us/pl/110/433] added cl. (iv).
 
@@ -188,6 +206,16 @@
     1976—Subsec. (a). [Pub. L. 94–283, § 109][/us/pl/94/283/s109], generally revised provisions of subsec. (a) to reflect enactment of sections 441a to 441j of this title and repeal of sections 608 and 610 to 617 of title 18 and to update the operations of the Commission.
 
     Subsecs. (b), (c). [Pub. L. 94–283, § 109][/us/pl/94/283/s109], reenacted subsec. (b) without change and added subsec. (c).
+
+ __Effective Date of 2013 Amendment__ 
+
+[Pub. L. 113–72, § 3][/us/pl/113/72/s3], Dec. 26, 2013, [127 Stat. 1211][/us/stat/127/1211], provided that: 
+
+> “The amendments made by this Act \[amending this section\] shall take effect on the earlier of—
+
+>     “(1) December 31, 2013; or
+
+>     “(2) the date of the enactment of this Act \[Dec. 26, 2013\].”
 
  __Effective Date of 2008 Amendment__ 
 
@@ -229,7 +257,8 @@
 ----------
 
 [/us/usc/t18/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1001
-[/us/usc/t2/s434/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs434%2Fa
+[/us/usc/t2/s434]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs434
+[/us/usc/t2/s437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs437
 [/us/usc/t2/s441f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs441f
 [/us/usc/t2/s441f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs441f
 [/us/usc/t28/s1254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1254
@@ -259,6 +288,8 @@
 [/us/stat/116/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F106
 [/us/pl/110/433/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F433%2Fs1%2Fa
 [/us/stat/122/4971]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4971
+[/us/pl/113/72]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F72
+[/us/stat/127/1210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1210
 [/us/usc/t2/s431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs431
 [/us/pl/92/225/s308/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F225%2Fs308%2Fd
 [/us/stat/86/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F18
@@ -272,6 +303,12 @@
 [/us/pl/96/187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F187
 [/us/pl/92/225/s309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F225%2Fs309
 [/us/usc/t2/s439]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs439
+[/us/pl/113/72/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F72%2Fs2%2Fa
+[/us/usc/t2/s434/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs434%2Fa
+[/us/pl/113/72/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F72%2Fs2%2Fb
+[/us/pl/113/72/s2/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F72%2Fs2%2Fc%2F2
+[/us/pl/113/72/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F72%2Fs1
+[/us/pl/113/72/s2/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F72%2Fs2%2Fc%2F1
 [/us/pl/110/433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F433
 [/us/pl/107/155/s315/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F155%2Fs315%2Fa%2F1
 [/us/usc/t2/s441f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs441f
@@ -288,6 +325,8 @@
 [/us/pl/96/187/s108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F187%2Fs108
 [/us/pl/94/283/s109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F283%2Fs109
 [/us/pl/94/283/s109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F283%2Fs109
+[/us/pl/113/72/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F72%2Fs3
+[/us/stat/127/1211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1211
 [/us/pl/110/433/s1/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F433%2Fs1%2Fc
 [/us/stat/122/4971]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4971
 [/us/pl/106/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F58

@@ -17,7 +17,7 @@
 
     (a) __Authority of the Capitol Police__ 
 
-        Subject to the direction of the Capitol Police Board, the United States Capitol Police is authorized to protect, in any area of the United States, the person of any Member of Congress, officer of the Congress, as defined in [section 60–1(b) of this title][/us/usc/t2/s60–1/b], and any member of the immediate family of any such Member or officer, if the Capitol Police Board determines such protection to be necessary.
+        Subject to the direction of the Capitol Police Board, the United States Capitol Police is authorized to protect, in any area of the United States, the person of any Member of Congress, officer of the Congress, as defined in [section 4101(b) of this title][/us/usc/t2/s4101/b], and any member of the immediate family of any such Member or officer, if the Capitol Police Board determines such protection to be necessary.
 
     (b) __Detail of police__ 
 
@@ -52,7 +52,7 @@
 ----------
 ----------
 
-[/us/usc/t2/s60–1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs60%E2%80%931%2Fb
+[/us/usc/t2/s4101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs4101%2Fb
 [/us/act/1946-07-31/ch707/s9A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-07-31%2Fch707%2Fs9A
 [/us/pl/97/143/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F143%2Fs1%2Fa
 [/us/stat/95/1723]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1723

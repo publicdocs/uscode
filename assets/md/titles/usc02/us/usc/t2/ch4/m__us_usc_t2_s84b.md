@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-    Section, acts [July 17, 1947, ch. 262][/us/act/1947-07-17/ch262], [61 Stat. 365][/us/stat/61/365]; Oct. 18, 1986, [Pub. L. 99–500, § 101(j)][/us/pl/99/500/s101/j], [100 Stat. 1783–287][/us/stat/100/1783-287], and Oct. 30, 1986, [Pub. L. 99–591, § 101(j)][/us/pl/99/591/s101/j], [100 Stat. 3341–287][/us/stat/100/3341-287]; July 11, 1987, [Pub. L. 100–71, title I][/us/pl/100/71], [101 Stat. 425][/us/stat/101/425], provided that on and after July 17, 1947, sums received from the sales of copies of transcripts of hearings of committees reported by such reporters be covered into the Treasury. See [section 117e of this title][/us/usc/t2/s117e].
+    Section, acts [July 17, 1947, ch. 262][/us/act/1947-07-17/ch262], [61 Stat. 365][/us/stat/61/365]; Oct. 18, 1986, [Pub. L. 99–500, § 101(j)][/us/pl/99/500/s101/j], [100 Stat. 1783–287][/us/stat/100/1783-287], and Oct. 30, 1986, [Pub. L. 99–591, § 101(j)][/us/pl/99/591/s101/j], [100 Stat. 3341–287][/us/stat/100/3341-287]; July 11, 1987, [Pub. L. 100–71, title I][/us/pl/100/71], [101 Stat. 425][/us/stat/101/425], provided that on and after July 17, 1947, sums received from the sales of copies of transcripts of hearings of committees reported by such reporters be covered into the Treasury. See [section 5540 of this title][/us/usc/t2/s5540].
 
     Amendment of section by [Pub. L. 99–500][/us/pl/99/500] and 99–591, as amended by [Pub. L. 100–71][/us/pl/100/71], is based on section 104(b) of title I of H.R. 5203 (see House Report 99–805 as filed in the House on Aug. 15, 1986), and incorporated by reference in [section 101(j) of Pub. L. 99–500][/us/pl/99/500/s101/j] and 99–591, to be effective as if enacted into law. [Pub. L. 99–591][/us/pl/99/591] is a corrected version of [Pub. L. 99–500][/us/pl/99/500].
 
@@ -31,7 +31,7 @@
 
     Section 87, [act Mar. 3, 1901, ch. 830, § 1][/us/act/1901-03-03/ch830/s1], [31 Stat. 968][/us/stat/31/968], related to requiring or permitting employees of House to sublet duties.
 
-    Section 88, [act Mar. 3, 1901, ch. 830, § 1][/us/act/1901-03-03/ch830/s1], [31 Stat. 968][/us/stat/31/968], prescribed age limits of twelve and eighteen for service as pages in House of Representatives but made the restriction inapplicable to chief pages, riding pages, and telephone pages. See [section 88b–1(b) of this title][/us/usc/t2/s88b–1/b].
+    Section 88, [act Mar. 3, 1901, ch. 830, § 1][/us/act/1901-03-03/ch830/s1], [31 Stat. 968][/us/stat/31/968], prescribed age limits of twelve and eighteen for service as pages in House of Representatives but made the restriction inapplicable to chief pages, riding pages, and telephone pages. See [section 4901(b) of this title][/us/usc/t2/s4901/b].
 
     Section 88a, [act Aug. 2, 1946, ch. 753][/us/act/1946-08-02/ch753], title II, § 243, [60 Stat. 839][/us/stat/60/839], related to education of Congressional and Supreme Court pages, authorized appropriations, and allowed pages to elect to attend private or parochial schools.
 
@@ -50,7 +50,7 @@
 [/us/stat/100/3341-287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3341-287
 [/us/pl/100/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F71
 [/us/stat/101/425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F425
-[/us/usc/t2/s117e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs117e
+[/us/usc/t2/s5540]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs5540
 [/us/pl/99/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500
 [/us/pl/100/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F71
 [/us/pl/99/500/s101/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500%2Fs101%2Fj
@@ -67,7 +67,7 @@
 [/us/stat/31/968]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F31%2F968
 [/us/act/1901-03-03/ch830/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1901-03-03%2Fch830%2Fs1
 [/us/stat/31/968]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F31%2F968
-[/us/usc/t2/s88b–1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs88b%E2%80%931%2Fb
+[/us/usc/t2/s4901/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs4901%2Fb
 [/us/act/1946-08-02/ch753]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-02%2Fch753
 [/us/stat/60/839]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F839
 
