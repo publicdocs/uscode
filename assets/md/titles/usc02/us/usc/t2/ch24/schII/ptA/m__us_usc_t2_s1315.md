@@ -27,7 +27,7 @@
 
     (b) __Remedy__ 
 
-        The remedy for a violation of subsection (a) of this section shall be such remedy as would be appropriate if awarded under paragraphs (1), (2), and (4) of section 5(a) of the Worker Adjustment and Retraining Notification Act ([29 U.S.C. 2104(a)(1)][/us/usc/t29/s2104/a/1], (2), and (4)).
+        The remedy for a violation of subsection (a) shall be such remedy as would be appropriate if awarded under paragraphs (1), (2), and (4) of section 5(a) of the Worker Adjustment and Retraining Notification Act ([29 U.S.C. 2104(a)(1)][/us/usc/t29/s2104/a/1], (2), and (4)).
 
     (c) __Regulations to implement section__ 
 
@@ -37,13 +37,13 @@
 
         (2) __Agency regulations__ 
 
-            The regulations issued under paragraph (1) shall be the same as substantive regulations promulgated by the Secretary of Labor to implement the statutory provisions referred to in subsection (a) of this section except insofar as the Board may determine, for good cause shown and stated together with the regulation, that a modification of such regulations would be more effective for the implementation of the rights and protections under this section.
+            The regulations issued under paragraph (1) shall be the same as substantive regulations promulgated by the Secretary of Labor to implement the statutory provisions referred to in subsection (a) except insofar as the Board may determine, for good cause shown and stated together with the regulation, that a modification of such regulations would be more effective for the implementation of the rights and protections under this section.
 
     (d) __Effective date__ 
 
         (1) __In general__ 
 
-            Except as provided in paragraph (2), subsections (a) and (b) of this section shall be effective 1 year after January 23, 1995.
+            Except as provided in paragraph (2), subsections (a) and (b) shall be effective 1 year after January 23, 1995.
 
         (2) __Government Accountability Office and Library of Congress__ 
 

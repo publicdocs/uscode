@@ -39,11 +39,11 @@
 
         (1) __Direction for appearance__ 
 
-            Entrance of appearance authorized under subsection (a) of this section shall be subject to the direction of the Capitol Police Board.
+            Entrance of appearance authorized under subsection (a) shall be subject to the direction of the Capitol Police Board.
 
         (2) __United States Supreme Court__ 
 
-            The authority under subsection (a) of this section shall not apply with respect to the admission of any person to practice before the United States Supreme Court.
+            The authority under subsection (a) shall not apply with respect to the admission of any person to practice before the United States Supreme Court.
 
     (c) __Effective date__ 
 

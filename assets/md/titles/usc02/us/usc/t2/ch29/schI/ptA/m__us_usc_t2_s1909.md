@@ -79,7 +79,7 @@
 
             (A) __In general__ 
 
-                The Inspector General may appoint and fix the pay of such personnel as the Inspector General considers appropriate. Such personnel may be appointed without regard to the provisions of title 5 regarding appointments in the competitive service, and may be paid without regard to the provisions of chapter 51 and subchapter III of chapter 53 of such title relating to classification and General Schedule pay rates, except that no personnel of the Office (other than the Inspector General) may be paid at an annual rate greater than $500 less than the annual rate of pay of the Inspector General under subsection (b)(4) of this section.
+                The Inspector General may appoint and fix the pay of such personnel as the Inspector General considers appropriate. Such personnel may be appointed without regard to the provisions of title 5 regarding appointments in the competitive service, and may be paid without regard to the provisions of chapter 51 and subchapter III of chapter 53 of such title relating to classification and General Schedule pay rates, except that no personnel of the Office (other than the Inspector General) may be paid at an annual rate greater than $500 less than the annual rate of pay of the Inspector General under subsection (b)(4).
 
             (B) __Experts and consultants__ 
 
@@ -105,7 +105,7 @@
 
         (2) __No reduction in pay or benefits__ 
 
-            The transfer of the functions of an office or entity to the Office under paragraph (1) may not result in a reduction in the pay or benefits of any employee of the office or entity, except to the extent required under subsection (d)(2)(A) of this section.
+            The transfer of the functions of an office or entity to the Office under paragraph (1) may not result in a reduction in the pay or benefits of any employee of the office or entity, except to the extent required under subsection (d)(2)(A).
 
     (f) __Effective date__ 
 

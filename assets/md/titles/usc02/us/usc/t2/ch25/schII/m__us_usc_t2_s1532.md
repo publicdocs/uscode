@@ -49,11 +49,11 @@
 
     (b) __Promulgation__ 
 
-        In promulgating a general notice of proposed rulemaking or a final rule for which a statement under subsection (a) of this section is required, the agency shall include in the promulgation a summary of the information contained in the statement.
+        In promulgating a general notice of proposed rulemaking or a final rule for which a statement under subsection (a) is required, the agency shall include in the promulgation a summary of the information contained in the statement.
 
     (c) __Preparation in conjunction with other statement__ 
 
-        Any agency may prepare any statement required under subsection (a) of this section in conjunction with or as a part of any other statement or analysis, provided that the statement or analysis satisfies the provisions of subsection (a) of this section.
+        Any agency may prepare any statement required under subsection (a) in conjunction with or as a part of any other statement or analysis, provided that the statement or analysis satisfies the provisions of subsection (a).
 
 ([Pub. L. 104–4, title II, § 202][/us/pl/104/4/s202], Mar. 22, 1995, [109 Stat. 64][/us/stat/109/64].)
 

@@ -17,7 +17,7 @@
 
     (a) Any sale or lease of property, supplies, or services to the Congressional Budget Office shall be deemed to be a sale or lease to the Congress subject to [section 4103 of this title][/us/usc/t2/s4103].
 
-    (b) Subsection (a) of this section shall apply with respect to fiscal years beginning after September 30, 1996.
+    (b) Subsection (a) shall apply with respect to fiscal years beginning after September 30, 1996.
 
 ([Pub. L. 104–197, title I, § 104][/us/pl/104/197/s104], Sept. 16, 1996, [110 Stat. 2404][/us/stat/110/2404].)
 

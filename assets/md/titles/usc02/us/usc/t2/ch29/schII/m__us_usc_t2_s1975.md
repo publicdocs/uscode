@@ -31,7 +31,7 @@
 
     (c) __Law enforcement functions__ 
 
-        Subsection (b) of this section shall not be construed to authorize the performance of law enforcement functions by a member of the Capitol Police in connection with the travel authorized under that subsection.
+        Subsection (b) shall not be construed to authorize the performance of law enforcement functions by a member of the Capitol Police in connection with the travel authorized under that subsection.
 
     (d) __Reimbursement__ 
 
@@ -39,7 +39,7 @@
 
     (e) __Amounts received__ 
 
-        Any amounts received by the Capitol Police for reimbursements under subsection (d) of this section shall be credited to the accounts established for the general expenses or salaries of the Capitol Police, and shall be available to carry out the purposes of such accounts during the fiscal year in which the amounts are received and the following fiscal year.
+        Any amounts received by the Capitol Police for reimbursements under subsection (d) shall be credited to the accounts established for the general expenses or salaries of the Capitol Police, and shall be available to carry out the purposes of such accounts during the fiscal year in which the amounts are received and the following fiscal year.
 
     (f) __Effective date__ 
 

@@ -17,23 +17,23 @@
 
     (a) __Authority of Capitol Police Board__ 
 
-        Notwithstanding any other provision of law and subject to the provisions of paragraph (1) of subsection (b) of this section, the Capitol Police Board is authorized to designate certain portions of the Capitol grounds (other than a portion within the area bounded on the North by Constitution Avenue, on the South by Independence Avenue, on the East by First Street, and on the West by First Street) for use exclusively as play areas for the benefit of children attending a day care center which is established for the primary purpose of providing child care for the children of Members and employees of the Senate or the House of Representatives.
+        Notwithstanding any other provision of law and subject to the provisions of paragraph (1) of subsection (b), the Capitol Police Board is authorized to designate certain portions of the Capitol grounds (other than a portion within the area bounded on the North by Constitution Avenue, on the South by Independence Avenue, on the East by First Street, and on the West by First Street) for use exclusively as play areas for the benefit of children attending a day care center which is established for the primary purpose of providing child care for the children of Members and employees of the Senate or the House of Representatives.
 
     (b) __Required approval; fences; termination of authority__ 
 
-        (1) In the case of any such designation referred to in subsection (a) of this section involving a day care center established for the benefit of children of Members and employees of the Senate, the designation shall be with the approval of the Senate Committee on Rules and Administration, and in the case of such a center established for the benefit of children of Members and employees of the House of Representatives, the designation shall be with the approval of the House Committee on House Oversight, with the concurrence of the House Office Building Commission.
+        (1) In the case of any such designation referred to in subsection (a) involving a day care center established for the benefit of children of Members and employees of the Senate, the designation shall be with the approval of the Senate Committee on Rules and Administration, and in the case of such a center established for the benefit of children of Members and employees of the House of Representatives, the designation shall be with the approval of the House Committee on House Oversight, with the concurrence of the House Office Building Commission.
 
-        (2) The Architect of the Capitol shall enclose with a fence any area designated pursuant to subsection (a) of this section as a play area.
+        (2) The Architect of the Capitol shall enclose with a fence any area designated pursuant to subsection (a) as a play area.
 
-        (3) The authority to use an area designated pursuant to subsection (a) of this section as a play area may be terminated at any time by the Committee which approved such designation.
+        (3) The authority to use an area designated pursuant to subsection (a) as a play area may be terminated at any time by the Committee which approved such designation.
 
     (c) __Playground equipment; required approval__ 
 
-        Nothing in this or any other Act shall be construed as prohibiting any day care center referred to in subsection (a) of this section from placing playground equipment within an area designated pursuant to subsection (a) of this section for use solely in connection with the operation of such center, subject to, in the case of a day care center established for the benefit of children of Members and employees of the Senate, the approval of the Senate Committee on Rules and Administration, and in the case of such a center established for the benefit of children of Members and employees of the House of Representatives, the approval of the House Committee on House Oversight, with the concurrence of the House Office Building Commission.
+        Nothing in this or any other Act shall be construed as prohibiting any day care center referred to in subsection (a) from placing playground equipment within an area designated pursuant to subsection (a) for use solely in connection with the operation of such center, subject to, in the case of a day care center established for the benefit of children of Members and employees of the Senate, the approval of the Senate Committee on Rules and Administration, and in the case of such a center established for the benefit of children of Members and employees of the House of Representatives, the approval of the House Committee on House Oversight, with the concurrence of the House Office Building Commission.
 
     (d) __Day care center__ 
 
-        The day care center referred to in S. Res. 269, Ninety-eighth Congress, first session, is a day care center for which space may be designated under subsection (a) of this section for use as a play area.
+        The day care center referred to in S. Res. 269, Ninety-eighth Congress, first session, is a day care center for which space may be designated under subsection (a) for use as a play area.
 
 ([Pub. L. 98–392, § 3][/us/pl/98/392/s3], Aug. 21, 1984, [98 Stat. 1362][/us/stat/98/1362]; [Pub. L. 104–186, title II, § 221(14)][/us/pl/104/186/s221/14], Aug. 20, 1996, [110 Stat. 1750][/us/stat/110/1750].)
 

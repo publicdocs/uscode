@@ -23,15 +23,15 @@
 
         (2) __Interns__ 
 
-            For the purposes of this section, the term “covered employee” does not include an intern as defined in regulations under subsection (c) of this section.
+            For the purposes of this section, the term “covered employee” does not include an intern as defined in regulations under subsection (c).
 
         (3) __Compensatory time__ 
 
-            Except as provided in regulations under subsection (c)(3) of this section and in subsection (c)(4) of this section, covered employees may not receive compensatory time in lieu of overtime compensation.
+            Except as provided in regulations under subsection (c)(3) and in subsection (c)(4), covered employees may not receive compensatory time in lieu of overtime compensation.
 
     (b) __Remedy__ 
 
-        The remedy for a violation of subsection (a) of this section shall be such remedy, including liquidated damages, as would be appropriate if awarded under section 16(b) of the Fair Labor Standards Act of 1938 ([29 U.S.C. 216(b)][/us/usc/t29/s216/b]).
+        The remedy for a violation of subsection (a) shall be such remedy, including liquidated damages, as would be appropriate if awarded under section 16(b) of the Fair Labor Standards Act of 1938 ([29 U.S.C. 216(b)][/us/usc/t29/s216/b]).
 
     (c) __Regulations to implement section__ 
 
@@ -41,7 +41,7 @@
 
         (2) __Agency regulations__ 
 
-            Except as provided in paragraph (3), the regulations issued under paragraph (1) shall be the same as substantive regulations promulgated by the Secretary of Labor to implement the statutory provisions referred to in subsection (a) of this section except insofar as the Board may determine, for good cause shown and stated together with the regulation, that a modification of such regulations would be more effective for the implementation of the rights and protections under this section.
+            Except as provided in paragraph (3), the regulations issued under paragraph (1) shall be the same as substantive regulations promulgated by the Secretary of Labor to implement the statutory provisions referred to in subsection (a) except insofar as the Board may determine, for good cause shown and stated together with the regulation, that a modification of such regulations would be more effective for the implementation of the rights and protections under this section.
 
         (3) __Irregular work schedules__ 
 
@@ -55,7 +55,7 @@
 
     (e) __Effective date__ 
 
-        Subsections (a) and (b) of this section shall be effective 1 year after January 23, 1995.
+        Subsections (a) and (b) shall be effective 1 year after January 23, 1995.
 
 ([Pub. L. 104–1, title II, § 203][/us/pl/104/1/s203], Jan. 23, 1995, [109 Stat. 10][/us/stat/109/10]; [Pub. L. 104–197, title III, § 312][/us/pl/104/197/s312], Sept. 16, 1996, [110 Stat. 2415][/us/stat/110/2415].)
 

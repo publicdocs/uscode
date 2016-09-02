@@ -35,15 +35,15 @@
 
         (1) shall monitor use of official mail by each person entitled to use the congressional frank;
 
-        (2) at least monthly, shall notify any person with an allocation under subsection (a)(2)(A) of this section as to the amount that has been used and any person with an allocation under subsection (a)(2)(B) of this section as to the percentage of the allocation that has been used; and
+        (2) at least monthly, shall notify any person with an allocation under subsection (a)(2)(A) as to the amount that has been used and any person with an allocation under subsection (a)(2)(B) as to the percentage of the allocation that has been used; and
 
-        (3) may not carry or deliver official mail the cost of which is in excess of an allocation under subsection (a)(2) of this section.
+        (3) may not carry or deliver official mail the cost of which is in excess of an allocation under subsection (a)(2).
 
     (c) __Source of funds for expenses of official mail__ 
 
     Expenses of official mail of the Senate and the House of Representatives may be paid only from funds specifically appropriated for that purpose and funds so appropriated—
 
-        (1) may be supplemented by other appropriated funds only if such supplementation is provided for by law or by regulation under subsection (a) of this section; and
+        (1) may be supplemented by other appropriated funds only if such supplementation is provided for by law or by regulation under subsection (a); and
 
         (2) may not be supplemented by funds from any other source, public or private.
 
@@ -73,7 +73,7 @@
 
             (A) with respect to a Member of the House of Representatives, shall be available, in a session of Congress, in a total amount, as determined under paragraph (1)(A), of not more than the product of (i) 3 times the single-piece rate applicable to first class mail, and (ii) the number (as determined by the Postmaster General) of addresses (other than business possible delivery stops) in the congressional district, as such addresses are described in [section 3210(d)(7)(B) of title 39][/us/usc/t39/s3210/d/7/B]; and
 
-            (B) with respect to any other person entitled to use the congressional frank in the House of Representatives (including any Member of the House of Representatives who receives an allocation under subsection (a)(2) of this section with respect to duties as an elected officer of, or holder of another position in, the House of Representatives), shall be available, in a session of Congress, in a total amount determined under paragraph (1)(A).
+            (B) with respect to any other person entitled to use the congressional frank in the House of Representatives (including any Member of the House of Representatives who receives an allocation under subsection (a)(2) with respect to duties as an elected officer of, or holder of another position in, the House of Representatives), shall be available, in a session of Congress, in a total amount determined under paragraph (1)(A).
 
     (f) __Mass mailing; submission of samples or description of proposed mail matter; advisory opinion__ 
 
@@ -81,7 +81,7 @@
 
     (g) __“Member of the House of Representatives” and “person entitled to use the congressional frank” defined__ 
 
-    As used in subsections (a) through (f) of this section—
+    As used in subsections (a) through (f)—
 
         (1) the term “Member of the House of Representatives” means a Representative in, or a Delegate or Resident Commissioner to, the Congress; and
 
@@ -91,7 +91,7 @@
 
     (i) __Effective date__ 
 
-        This section and the amendments made by this section shall apply with respect to sessions of Congress beginning with the first session of the One Hundred Second Congress, except that, with respect to the Senate, subsection (d) of this section shall apply beginning on May 1, 1992, and the funds referred to in paragraph (3) of such subsection shall not include personal funds of a Senator or Member of the House of Representatives.
+        This section and the amendments made by this section shall apply with respect to sessions of Congress beginning with the first session of the One Hundred Second Congress, except that, with respect to the Senate, subsection (d) shall apply beginning on May 1, 1992, and the funds referred to in paragraph (3) of such subsection shall not include personal funds of a Senator or Member of the House of Representatives.
 
 ([Pub. L. 101–520, title III, § 311][/us/pl/101/520/s311], Nov. 5, 1990, [104 Stat. 2278][/us/stat/104/2278]; [Pub. L. 102–229, title II, § 211][/us/pl/102/229/s211], Dec. 12, 1991, [105 Stat. 1718][/us/stat/105/1718]; [Pub. L. 104–186, title II, § 203(22)][/us/pl/104/186/s203/22], Aug. 20, 1996, [110 Stat. 1728][/us/stat/110/1728]; [Pub. L. 105–275, title I, § 104][/us/pl/105/275/s104], Oct. 21, 1998, [112 Stat. 2439][/us/stat/112/2439]; [Pub. L. 106–19, § 1(a)][/us/pl/106/19/s1/a], Apr. 8, 1999, [113 Stat. 29][/us/stat/113/29]; [Pub. L. 106–57, title I][/us/pl/106/57], §§ 102, 103(a)(1)–(3), (4)(B), Sept. 29, 1999, [113 Stat. 415][/us/stat/113/415]; [Pub. L. 107–68, title I, § 110][/us/pl/107/68/s110], Nov. 12, 2001, [115 Stat. 569][/us/stat/115/569]; [Pub. L. 108–83, title I, § 105(a)][/us/pl/108/83/s105/a], Sept. 30, 2003, [117 Stat. 1018][/us/stat/117/1018].)
 

@@ -103,13 +103,13 @@
 
         (2) __Payment of costs__ 
 
-            The fund shall be available to the Commission for the payment of acquisition and transaction costs incurred for acquisitions under subsection (a) of this section, for official activities of any advisory board established under subsection (b) of this section, for any purposes for which funds from the contingent fund of the Senate may be used under [section 2107(a) of this title][/us/usc/t2/s2107/a], and for expenditures, not to exceed $10,000 in any fiscal year, for meals and refreshments in Capitol facilities in connection with official activities of the Commission or other authorized programs or activities.
+            The fund shall be available to the Commission for the payment of acquisition and transaction costs incurred for acquisitions under subsection (a), for official activities of any advisory board established under subsection (b), for any purposes for which funds from the contingent fund of the Senate may be used under [section 2107(a) of this title][/us/usc/t2/s2107/a], and for expenditures, not to exceed $10,000 in any fiscal year, for meals and refreshments in Capitol facilities in connection with official activities of the Commission or other authorized programs or activities.
 
         (3) __Deposits, credits, and disbursements__ 
 
             (A) __Deposits__ 
 
-                The Commission shall deposit in the fund amounts appropriated for use of the fund, gifts of money, and proceeds of transactions under subsection (a) of this section.
+                The Commission shall deposit in the fund amounts appropriated for use of the fund, gifts of money, and proceeds of transactions under subsection (a).
 
             (B) __Credits__ 
 

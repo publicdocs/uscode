@@ -17,7 +17,7 @@
 
     (a) __In general__ 
 
-        All copies of sound recordings on the National Recording Registry that are received by the Librarian under subsection (b) of this section shall be maintained in the Library of Congress and be known as the “National Recording Registry Collection of the Library of Congress”. The Librarian shall by regulation and in accordance with title 17 provide for reasonable access to the sound recordings and other materials in such collection for scholarly and research purposes.
+        All copies of sound recordings on the National Recording Registry that are received by the Librarian under subsection (b) shall be maintained in the Library of Congress and be known as the “National Recording Registry Collection of the Library of Congress”. The Librarian shall by regulation and in accordance with title 17 provide for reasonable access to the sound recordings and other materials in such collection for scholarly and research purposes.
 
     (b) __Acquisition of quality copies__ 
 
@@ -31,7 +31,7 @@
 
     (c) __Property of United States__ 
 
-        All copies of sound recordings on the National Recording Registry that are received by the Librarian under subsection (b) of this section shall become the property of the United States Government, subject to the provisions of title 17.
+        All copies of sound recordings on the National Recording Registry that are received by the Librarian under subsection (b) shall become the property of the United States Government, subject to the provisions of title 17.
 
 ([Pub. L. 106–474, title I, § 104][/us/pl/106/474/s104], Nov. 9, 2000, [114 Stat. 2087][/us/stat/114/2087].)
 

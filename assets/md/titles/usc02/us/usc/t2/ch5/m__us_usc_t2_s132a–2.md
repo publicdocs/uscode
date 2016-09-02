@@ -21,11 +21,11 @@
 
     (b) __Availability of funds__ 
 
-        Any amounts transferred pursuant to subsection (a) of this section shall be merged with and be available for the same purpose and for the same period as the appropriation or account to which such amounts are transferred.
+        Any amounts transferred pursuant to subsection (a) shall be merged with and be available for the same purpose and for the same period as the appropriation or account to which such amounts are transferred.
 
     (c) __Approval of Congress__ 
 
-        The Librarian may transfer amounts pursuant to subsection (a) of this section only with the approval of the Committees on Appropriations of the House of Representatives and Senate.
+        The Librarian may transfer amounts pursuant to subsection (a) only with the approval of the Committees on Appropriations of the House of Representatives and Senate.
 
 ([Pub. L. 106–554, § 1(a)(2)][/us/pl/106/554/s1/a/2] \[title II, § 209\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–114.)
 

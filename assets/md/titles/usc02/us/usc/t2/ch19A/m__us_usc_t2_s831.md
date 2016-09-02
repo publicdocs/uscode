@@ -31,7 +31,7 @@
 
         (2) __Limitation__ 
 
-            No award shall be made under this section to an entity in either category described in paragraph (1) in any year if there is no qualified individual, organization, institution, or business recommended under subsection (c) of this section for an award in such category in that year.
+            No award shall be made under this section to an entity in either category described in paragraph (1) in any year if there is no qualified individual, organization, institution, or business recommended under subsection (c) for an award in such category in that year.
 
     (c) __Qualification criteria for award__ 
 
@@ -63,7 +63,7 @@
 
         (4) __Panel review__ 
 
-            The selection panel shall review the Office of Technology Assessment’s evaluation of each nominee and may, based on those evaluations, recommend 1 award winner for each year for each category described in subsection (b)(1) of this section to the Majority and Minority Leaders of the Senate and the Speaker and the Minority Leader of the House of Representatives.
+            The selection panel shall review the Office of Technology Assessment’s evaluation of each nominee and may, based on those evaluations, recommend 1 award winner for each year for each category described in subsection (b)(1) to the Majority and Minority Leaders of the Senate and the Speaker and the Minority Leader of the House of Representatives.
 
     (d) __Presentation of award__ 
 
@@ -83,7 +83,7 @@
 
         (1) __Summary of evaluations__ 
 
-            The Office of Technology Assessment shall ensure that all nominees receive a detailed summary of any evaluation conducted of such nominee under subsection (c) of this section.
+            The Office of Technology Assessment shall ensure that all nominees receive a detailed summary of any evaluation conducted of such nominee under subsection (c).
 
         (2) __Summary of competitiveness strategy__ 
 

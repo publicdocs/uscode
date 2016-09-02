@@ -21,7 +21,7 @@
 
         (1)
 
-         the application of the laws listed in subsection (b) of this section to—
+         the application of the laws listed in subsection (b) to—
 
             (A) the Government Accountability Office;
 
@@ -61,7 +61,7 @@
 
     (c) __Contents of study and recommendations__ 
 
-        The study under this section shall evaluate whether the rights, protections, and procedures, including administrative and judicial relief, applicable to the entities listed in paragraph (1) of subsection (a) of this section and their employees are comprehensive and effective and shall include recommendations for any improvements in regulations or legislation, including proposed regulatory or legislative language.
+        The study under this section shall evaluate whether the rights, protections, and procedures, including administrative and judicial relief, applicable to the entities listed in paragraph (1) of subsection (a) and their employees are comprehensive and effective and shall include recommendations for any improvements in regulations or legislation, including proposed regulatory or legislative language.
 
     (d) __Deadline and delivery of study__ 
 

@@ -17,7 +17,7 @@
 
     (a) __In general__ 
 
-        There is established in the Treasury a fund, to be known as the “Capitol Preservation Fund” (hereafter in this part referred to as the “fund”), which shall consist of (1) amounts deposited, and interest and proceeds credited, under subsection (d) of this section, (2) obligations obtained under subsection (e) of this section, and (3) all surcharges received by the Secretary of the Treasury from the sale of coins minted under the Bicentennial of the United States Congress Commemorative Coin Act.
+        There is established in the Treasury a fund, to be known as the “Capitol Preservation Fund” (hereafter in this part referred to as the “fund”), which shall consist of (1) amounts deposited, and interest and proceeds credited, under subsection (d), (2) obligations obtained under subsection (e), and (3) all surcharges received by the Secretary of the Treasury from the sale of coins minted under the Bicentennial of the United States Congress Commemorative Coin Act.
 
     (b) __Availability of fund__ 
 
@@ -35,9 +35,9 @@
 
     In carrying out this section, the Commission shall, to the extent practicable, take such action as may be necessary—
 
-        (1) to minimize disbursements under subsection (b)(1) of this section; and
+        (1) to minimize disbursements under subsection (b)(1); and
 
-        (2) to equalize disbursements under subsection (b) of this section between the Senate and the House of Representatives.
+        (2) to equalize disbursements under subsection (b) between the Senate and the House of Representatives.
 
     (d) __Deposits, credits, and disbursements__ 
 

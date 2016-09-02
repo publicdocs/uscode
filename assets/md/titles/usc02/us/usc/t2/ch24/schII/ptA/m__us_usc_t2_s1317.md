@@ -21,7 +21,7 @@
 
     (b) __Remedy__ 
 
-        The remedy available for a violation of subsection (a) of this section shall be such legal or equitable remedy as may be appropriate to redress a violation of subsection (a) of this section.
+        The remedy available for a violation of subsection (a) shall be such legal or equitable remedy as may be appropriate to redress a violation of subsection (a).
 
 ([Pub. L. 104–1, title II, § 207][/us/pl/104/1/s207], Jan. 23, 1995, [109 Stat. 13][/us/stat/109/13].)
 

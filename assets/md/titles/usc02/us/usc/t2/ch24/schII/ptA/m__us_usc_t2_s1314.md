@@ -27,11 +27,11 @@
 
         (3) __Capitol Police__ 
 
-            Nothing in this section shall preclude the Capitol Police from using lie detector tests in accordance with regulations under subsection (c) of this section.
+            Nothing in this section shall preclude the Capitol Police from using lie detector tests in accordance with regulations under subsection (c).
 
     (b) __Remedy__ 
 
-        The remedy for a violation of subsection (a) of this section shall be such remedy as would be appropriate if awarded under section 6(c)(1) of the Employee Polygraph Protection Act of 1988 ([29 U.S.C. 2005(c)(1)][/us/usc/t29/s2005/c/1]).
+        The remedy for a violation of subsection (a) shall be such remedy as would be appropriate if awarded under section 6(c)(1) of the Employee Polygraph Protection Act of 1988 ([29 U.S.C. 2005(c)(1)][/us/usc/t29/s2005/c/1]).
 
     (c) __Regulations to implement section__ 
 
@@ -41,13 +41,13 @@
 
         (2) __Agency regulations__ 
 
-            The regulations issued under paragraph (1) shall be the same as substantive regulations promulgated by the Secretary of Labor to implement the statutory provisions referred to in subsections (a) and (b) of this section except insofar as the Board may determine, for good cause shown and stated together with the regulation, that a modification of such regulations would be more effective for the implementation of the rights and protections under this section.
+            The regulations issued under paragraph (1) shall be the same as substantive regulations promulgated by the Secretary of Labor to implement the statutory provisions referred to in subsections (a) and (b) except insofar as the Board may determine, for good cause shown and stated together with the regulation, that a modification of such regulations would be more effective for the implementation of the rights and protections under this section.
 
     (d) __Effective date__ 
 
         (1) __In general__ 
 
-            Except as provided in paragraph (2), subsections (a) and (b) of this section shall be effective 1 year after January 23, 1995.
+            Except as provided in paragraph (2), subsections (a) and (b) shall be effective 1 year after January 23, 1995.
 
         (2) __Government Accountability Office and Library of Congress__ 
 

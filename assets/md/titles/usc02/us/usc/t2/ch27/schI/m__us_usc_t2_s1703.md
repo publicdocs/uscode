@@ -21,7 +21,7 @@
 
     (b) __Use of seal__ 
 
-    The Librarian shall establish guidelines for approval of the use of the seal provided under subsection (a) of this section, and shall include in the guidelines the following:
+    The Librarian shall establish guidelines for approval of the use of the seal provided under subsection (a), and shall include in the guidelines the following:
 
         (1) The seal may only be used on recording copies of the Registry version of a sound recording.
 
@@ -33,41 +33,41 @@
 
     (c) __Effective date of the seal__ 
 
-        The use of the seal provided under subsection (a) of this section with respect to a sound recording shall be effective beginning on the date the Librarian publishes in the Federal Register (in accordance with [section 1702(b) of this title][/us/usc/t2/s1702/b]) the name of the recording, as selected for inclusion in the National Recording Registry.
+        The use of the seal provided under subsection (a) with respect to a sound recording shall be effective beginning on the date the Librarian publishes in the Federal Register (in accordance with [section 1702(b) of this title][/us/usc/t2/s1702/b]) the name of the recording, as selected for inclusion in the National Recording Registry.
 
     (d) __Prohibited uses of the seal__ 
 
         (1) __Prohibition on distribution and exhibition__ 
 
-        No person may knowingly distribute or exhibit to the public a version of a sound recording or any copy of a sound recording which bears the seal described in subsection (a) of this section if such recording—
+        No person may knowingly distribute or exhibit to the public a version of a sound recording or any copy of a sound recording which bears the seal described in subsection (a) if such recording—
 
             (A) is not included in the National Recording Registry; or
 
-            (B) is included in the National Recording Registry but has not been approved for use of the seal by the Librarian pursuant to the guidelines established under subsection (b) of this section.
+            (B) is included in the National Recording Registry but has not been approved for use of the seal by the Librarian pursuant to the guidelines established under subsection (b).
 
         (2) __Prohibition on promotion__ 
 
-            No person may knowingly use the seal described in subsection (a) of this section to promote any version of a sound recording or recording copy other than a Registry version.
+            No person may knowingly use the seal described in subsection (a) to promote any version of a sound recording or recording copy other than a Registry version.
 
     (e) __Remedies for violations__ 
 
         (1) __Jurisdiction__ 
 
-            The several district courts of the United States shall have jurisdiction, for cause shown, to prevent and restrain violations of subsection (d) of this section.
+            The several district courts of the United States shall have jurisdiction, for cause shown, to prevent and restrain violations of subsection (d).
 
         (2) __Relief__ 
 
             (A) __Removal of seal__ 
 
-                Except as provided in subparagraph (B), relief for violation of subsection (d) of this section shall be limited to the removal of the seal from the sound recording involved in the violation.
+                Except as provided in subparagraph (B), relief for violation of subsection (d) shall be limited to the removal of the seal from the sound recording involved in the violation.
 
             (B) __Fine and injunctive relief__ 
 
-                In the case of a pattern or practice of the willful violation of subsection (d) of this section, the court may order a civil fine of not more than $10,000 and appropriate injunctive relief.
+                In the case of a pattern or practice of the willful violation of subsection (d), the court may order a civil fine of not more than $10,000 and appropriate injunctive relief.
 
         (3) __Limitation of remedies__ 
 
-            The remedies provided in this subsection shall be the exclusive remedies under this chapter, or any other Federal or State law, regarding the use of the seal described in subsection (a) of this section.
+            The remedies provided in this subsection shall be the exclusive remedies under this chapter, or any other Federal or State law, regarding the use of the seal described in subsection (a).
 
 ([Pub. L. 106–474, title I, § 103][/us/pl/106/474/s103], Nov. 9, 2000, [114 Stat. 2086][/us/stat/114/2086].)
 

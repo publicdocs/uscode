@@ -61,7 +61,7 @@
 
     (b) __Other members__ 
 
-        In addition to the members appointed under subsection (a) of this section, the Librarian may appoint not more than five members-at-large. The Librarian shall select an alternate for each member-at-large, who may attend at Board expense those meetings that the member-at-large cannot attend.
+        In addition to the members appointed under subsection (a), the Librarian may appoint not more than five members-at-large. The Librarian shall select an alternate for each member-at-large, who may attend at Board expense those meetings that the member-at-large cannot attend.
 
     (c) __Chair__ 
 
@@ -79,7 +79,7 @@
 
         (3) __Vacancies__ 
 
-            A vacancy in the Board shall be filled in the manner in which the original appointment was made under subsection (a) of this section, except that the Librarian may fill the vacancy from a list of candidates previously submitted by the organization or organizations involved. Any member appointed to fill a vacancy shall be appointed for the remainder of the term of the member’s predecessor.
+            A vacancy in the Board shall be filled in the manner in which the original appointment was made under subsection (a), except that the Librarian may fill the vacancy from a list of candidates previously submitted by the organization or organizations involved. Any member appointed to fill a vacancy shall be appointed for the remainder of the term of the member’s predecessor.
 
 ([Pub. L. 106–474, title I, § 122][/us/pl/106/474/s122], Nov. 9, 2000, [114 Stat. 2088][/us/stat/114/2088]; [Pub. L. 110–336, § 2(a)(2)][/us/pl/110/336/s2/a/2], Oct. 2, 2008, [122 Stat. 3726][/us/stat/122/3726].)
 

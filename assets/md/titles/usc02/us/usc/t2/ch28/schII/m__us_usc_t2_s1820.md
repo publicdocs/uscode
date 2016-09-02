@@ -21,7 +21,7 @@
 
     (b) __United States Capitol grounds provisions applicable__ 
 
-        Any real property acquired by the Architect of the Capitol pursuant to subsection (a) of this section shall be a part of the United States Capitol Grounds and shall be subject to the provisions of sections 1922, 1961, 1966, 1967, and 1969 of this title and sections 5101 to 5107 and 5109 of title 40.
+        Any real property acquired by the Architect of the Capitol pursuant to subsection (a) shall be a part of the United States Capitol Grounds and shall be subject to the provisions of sections 1922, 1961, 1966, 1967, and 1969 of this title and sections 5101 to 5107 and 5109 of title 40.
 
     (c) __Effective date__ 
 

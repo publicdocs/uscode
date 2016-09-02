@@ -19,9 +19,9 @@
 
     (b)
 
-        (1) One of the attorneys appointed under subsection (a) of this section shall be designated by the Legislative Counsel as Deputy Legislative Counsel. During the absence or disability of the Legislative Counsel, or when the office is vacant, the Deputy Legislative Counsel shall perform the functions of the Legislative Counsel.
+        (1) One of the attorneys appointed under subsection (a) shall be designated by the Legislative Counsel as Deputy Legislative Counsel. During the absence or disability of the Legislative Counsel, or when the office is vacant, the Deputy Legislative Counsel shall perform the functions of the Legislative Counsel.
 
-        (2) The Legislative Counsel may delegate to the Deputy Legislative Counsel and to other employees appointed under subsection (a) of this section such of his functions as he considers necessary or appropriate.
+        (2) The Legislative Counsel may delegate to the Deputy Legislative Counsel and to other employees appointed under subsection (a) such of his functions as he considers necessary or appropriate.
 
 ([Pub. L. 91–510, title V, § 522][/us/pl/91/510/s522], Oct. 26, 1970, [84 Stat. 1203][/us/stat/84/1203]; [Pub. L. 92–51, § 101][/us/pl/92/51/s101], July 9, 1971, [85 Stat. 132][/us/stat/85/132].)
 

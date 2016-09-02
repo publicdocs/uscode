@@ -39,7 +39,7 @@
 
     (b) __Librarian of Congress__ 
 
-        The Librarian of Congress shall have charge of all work (other than work under subsection (a) of this section) at the Library of Congress buildings and grounds.
+        The Librarian of Congress shall have charge of all work (other than work under subsection (a)) at the Library of Congress buildings and grounds.
 
     (c) __Transfer of funds__ 
 

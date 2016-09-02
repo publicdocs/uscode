@@ -21,7 +21,7 @@
 
     (b) __Exceptions__ 
 
-    Subsection (a) of this section does not apply with respect to—
+    Subsection (a) does not apply with respect to—
 
         (1) the statue obtained and placed in National Statuary Hall under this Act; or
 

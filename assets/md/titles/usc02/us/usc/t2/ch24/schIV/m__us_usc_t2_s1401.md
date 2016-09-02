@@ -15,7 +15,7 @@
 
 ## § 1401. Procedure for consideration of alleged violations
 
-    Except as otherwise provided, the procedure for consideration of alleged violations of part A of subchapter II of this chapter consists of—
+    Except as otherwise provided, the procedure for consideration of alleged violations of part A of subchapter II consists of—
 
     (1) counseling as provided in [section 1402 of this title][/us/usc/t2/s1402];
 
@@ -35,7 +35,7 @@
 
  __References in Text__ 
 
-    Part A of subchapter II of this chapter, referred to in text, was in the original “part A of title II”, meaning part A (§§ 201–207) of title II of [Pub. L. 104–1][/us/pl/104/1], Jan. 23, 1995, [109 Stat. 7][/us/stat/109/7], which is classified principally to part A of subchapter II of this chapter. For complete classification of part A to the Code, see Tables.
+    Part A of subchapter II, referred to in text, was in the original “part A of title II”, meaning part A (§§ 201–207) of title II of [Pub. L. 104–1][/us/pl/104/1], Jan. 23, 1995, [109 Stat. 7][/us/stat/109/7], which is classified principally to part A of subchapter II of this chapter. For complete classification of part A to the Code, see Tables.
 
 ----------
 

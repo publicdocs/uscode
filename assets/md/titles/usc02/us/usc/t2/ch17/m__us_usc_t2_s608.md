@@ -17,7 +17,7 @@
 
     (a) The Director of the Congressional Budget Office shall have the authority to make lump-sum payments to enhance staff recruitment and to reward exceptional performance by an employee or a group of employees.
 
-    (b) Subsection (a) of this section shall apply with respect to fiscal years beginning after September 30, 1999.
+    (b) Subsection (a) shall apply with respect to fiscal years beginning after September 30, 1999.
 
 ([Pub. L. 106–57, title I, § 106][/us/pl/106/57/s106], Sept. 29, 1999, [113 Stat. 418][/us/stat/113/418].)
 

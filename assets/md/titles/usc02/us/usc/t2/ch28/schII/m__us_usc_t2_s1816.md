@@ -17,11 +17,11 @@
 
     (a) __Liquidated damages__ 
 
-        The Architect of the Capitol may not enter into or administer any construction contract with a value greater than $50,000 unless the contract includes a provision requiring the payment of liquidated damages in the amount determined under subsection (b) of this section in the event that completion of the project is delayed because of the contractor.
+        The Architect of the Capitol may not enter into or administer any construction contract with a value greater than $50,000 unless the contract includes a provision requiring the payment of liquidated damages in the amount determined under subsection (b) in the event that completion of the project is delayed because of the contractor.
 
     (b) __Amount of payment__ 
 
-    The amount of payment required under a liquidated damages provision described in subsection (a) of this section shall be equal to the product of—
+    The amount of payment required under a liquidated damages provision described in subsection (a) shall be equal to the product of—
 
         (1) the daily liquidated damage payment rate; and
 
@@ -31,7 +31,7 @@
 
         (1) __In general__ 
 
-        In subsection (b) of this section, the “daily liquidated damage payment rate” means—
+        In subsection (b), the “daily liquidated damage payment rate” means—
 
             (A) $140, in the case of a contract with a value greater than $50,000 and less than $100,000;
 

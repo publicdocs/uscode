@@ -37,7 +37,7 @@
 
     (c) __Qualifications__ 
 
-    Any individual appointed under subsection (a) of this section shall be subject to—
+    Any individual appointed under subsection (a) shall be subject to—
 
         (1) qualification requirements as the Chief of the Capitol Police determines necessary; and
 

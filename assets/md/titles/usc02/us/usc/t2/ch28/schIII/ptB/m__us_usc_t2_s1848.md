@@ -17,11 +17,11 @@
 
     (a) __Amount of compensation to be that specified in appropriations Acts__ 
 
-        Notwithstanding any other provision of law, the pay for positions described in subsection (b) of this section shall be the amounts specified for such positions in appropriations Acts.
+        Notwithstanding any other provision of law, the pay for positions described in subsection (b) shall be the amounts specified for such positions in appropriations Acts.
 
     (b) __Positions covered__ 
 
-    The positions referred to in subsection (a) of this section are—
+    The positions referred to in subsection (a) are—
 
         (1) the position of assistant referred to in the proviso in the first undesignated paragraph under the center subheadings “Office of the Architect of the Capitol” and “salaries” in the first section of the Legislative Branch Appropriation Act, 1971 \[[2 U.S.C. 1804][/us/usc/t2/s1804]\], and
 
@@ -29,7 +29,7 @@
 
     (c) __Calculation of amounts__ 
 
-        The pay for each position described in subsection (b) of this section shall be the pay payable for such position with respect to the last pay period before this section takes effect, subject to any applicable adjustment during fiscal year 1988 under, or by reference to any applicable adjustment during fiscal year 1988 under, subchapter I of chapter 53 of title 5.
+        The pay for each position described in subsection (b) shall be the pay payable for such position with respect to the last pay period before this section takes effect, subject to any applicable adjustment during fiscal year 1988 under, or by reference to any applicable adjustment during fiscal year 1988 under, subchapter I of chapter 53 of title 5.
 
     (d) __Effective date__ 
 

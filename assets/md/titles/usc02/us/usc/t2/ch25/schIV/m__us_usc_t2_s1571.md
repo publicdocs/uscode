@@ -45,7 +45,7 @@
 
     (b) __Judicial review and rule of construction__ 
 
-    Except as provided in subsection (a) of this section—
+    Except as provided in subsection (a)—
 
         (1) any estimate, analysis, statement, description or report prepared under this chapter, and any compliance or noncompliance with the provisions of this chapter, and any determination concerning the applicability of the provisions of this chapter shall not be subject to judicial review; and
 

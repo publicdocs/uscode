@@ -35,7 +35,7 @@
 
     (d) __Record__ 
 
-        In making determinations under subsection (c) of this section, the Board shall review the whole record, or those parts of it cited by a party, and due account shall be taken of the rule of prejudicial error.
+        In making determinations under subsection (c), the Board shall review the whole record, or those parts of it cited by a party, and due account shall be taken of the rule of prejudicial error.
 
     (e) __Decision__ 
 

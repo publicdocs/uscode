@@ -21,11 +21,11 @@
 
     (b) __Assistance to Committees on Appropriations, Ways and Means, and Finance__ 
 
-        At the request of the Committee on Appropriations of either House, the Committee on Ways and Means of the House of Representatives, or the Committee on Finance of the Senate, the Office shall provide to such Committee any information which will assist it in the discharge of matters within its jurisdiction, including information described in clauses (1) and (2) of subsection (a) of this section and such related information as the Committee may request.
+        At the request of the Committee on Appropriations of either House, the Committee on Ways and Means of the House of Representatives, or the Committee on Finance of the Senate, the Office shall provide to such Committee any information which will assist it in the discharge of matters within its jurisdiction, including information described in clauses (1) and (2) of subsection (a) and such related information as the Committee may request.
 
     (c) __Assistance to other committees and Members__ 
 
-        (1) At the request of any other committee of the House of Representatives or the Senate or any joint committee of the Congress, the Office shall provide to such committee or joint committee any information compiled in carrying out clauses (1) and (2) of subsection (a) of this section, and, to the extent practicable, such additional information related to the foregoing as may be requested.
+        (1) At the request of any other committee of the House of Representatives or the Senate or any joint committee of the Congress, the Office shall provide to such committee or joint committee any information compiled in carrying out clauses (1) and (2) of subsection (a), and, to the extent practicable, such additional information related to the foregoing as may be requested.
 
         (2)
 
@@ -37,11 +37,11 @@
 
             (C) a significant employment impact on the private sector.
 
-        (3) At the request of any Member of the House or Senate, the Office shall provide to such Member any information compiled in carrying out clauses (1) and (2) of subsection (a) of this section, and, to the extent available, such additional information related to the foregoing as may be requested.
+        (3) At the request of any Member of the House or Senate, the Office shall provide to such Member any information compiled in carrying out clauses (1) and (2) of subsection (a), and, to the extent available, such additional information related to the foregoing as may be requested.
 
     (d) __Assignment of office personnel to committees and joint committees__ 
 
-        At the request of the Committee on the Budget of either House, personnel of the Office shall be assigned, on a temporary basis, to assist such committee. At the request of any other committee of either House or any joint committee of the Congress, personnel of the Office may be assigned, on a temporary basis, to assist such committee or joint committee with respect to matters directly related to the applicable provisions of subsection (b) or (c) of this section.
+        At the request of the Committee on the Budget of either House, personnel of the Office shall be assigned, on a temporary basis, to assist such committee. At the request of any other committee of either House or any joint committee of the Congress, personnel of the Office may be assigned, on a temporary basis, to assist such committee or joint committee with respect to matters directly related to the applicable provisions of subsection (b) or (c).
 
     (e) __Reports to budget committees__ 
 

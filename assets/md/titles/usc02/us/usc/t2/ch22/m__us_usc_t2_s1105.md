@@ -17,7 +17,7 @@
 
     (a) __Establishment of fund__ 
 
-        There is established in the Treasury of the United States a trust fund to be known as the “John C. Stennis Center for Public Service Development Trust Fund”. The fund shall consist of amounts appropriated to it pursuant to [section 1110 of this title][/us/usc/t2/s1110] and amounts credited to it under subsection (d) of this section.
+        There is established in the Treasury of the United States a trust fund to be known as the “John C. Stennis Center for Public Service Development Trust Fund”. The fund shall consist of amounts appropriated to it pursuant to [section 1110 of this title][/us/usc/t2/s1110] and amounts credited to it under subsection (d).
 
     (b) __Investment of fund assets__ 
 
@@ -27,7 +27,7 @@
 
     (c) __Authority to sell obligations__ 
 
-        At the request of the Center, the Secretary of the Treasury shall redeem any obligation issued directly to the fund. Obligations issued to the fund under subsection (b)(2) of this section shall be redeemed at par plus accrued interest. Any other obligations issued directly to the fund shall be redeemed at the market price.
+        At the request of the Center, the Secretary of the Treasury shall redeem any obligation issued directly to the fund. Obligations issued to the fund under subsection (b)(2) shall be redeemed at par plus accrued interest. Any other obligations issued directly to the fund shall be redeemed at the market price.
 
     (d) __Proceeds from certain transactions credited to fund__ 
 

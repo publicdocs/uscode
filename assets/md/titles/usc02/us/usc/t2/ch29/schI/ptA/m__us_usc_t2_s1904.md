@@ -23,7 +23,7 @@
 
         (1) __In general__ 
 
-        Each officer or employee of the Capitol Police who has been duly authorized in writing by the Chief Administrative Officer, or the Chief of the Capitol Police if there is not a Chief Administrative Officer, to certify vouchers pursuant to subsection (a) of this section shall—
+        Each officer or employee of the Capitol Police who has been duly authorized in writing by the Chief Administrative Officer, or the Chief of the Capitol Police if there is not a Chief Administrative Officer, to certify vouchers pursuant to subsection (a) shall—
 
             (A) be held responsible for the existence and correctness of the facts recited in the certificate or otherwise stated on the voucher or its supporting papers and for the legality of the proposed payment under the appropriation or fund involved;
 

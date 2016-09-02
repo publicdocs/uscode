@@ -63,195 +63,307 @@
 
   <tr>
 
-    <td> For the Vice President of the United States  </td>
+    <td> 
 
-    <td> $175,000  </td>
+   </td>
 
-  </tr>
+    <td> 
 
-  <tr>
-
-    <td> For offices and positions under the Executive Schedule in subchapter II of chapter 53 of title 5, United States Code, as follows:  </td>
+   </td>
 
   </tr>
 
   <tr>
 
-    <td> Positions at level I  </td>
+    <td> 
 
-    <td> 155,000  </td>
+For the Vice President of the United States  </td>
 
-  </tr>
+    <td> 
 
-  <tr>
-
-    <td> Positions at level II  </td>
-
-    <td> 135,000  </td>
+$175,000  </td>
 
   </tr>
 
   <tr>
 
-    <td> Positions at level III  </td>
+    <td> 
 
-    <td> 125,000  </td>
+For offices and positions under the Executive Schedule in subchapter II of chapter 53 of title 5, United States Code, as follows:  </td>
 
-  </tr>
+    <td> 
 
-  <tr>
-
-    <td> Positions at level IV  </td>
-
-    <td> 120,000  </td>
+   </td>
 
   </tr>
 
   <tr>
 
-    <td> Positions at level V  </td>
+    <td> 
 
-    <td> 115,000  </td>
+Positions at level I  </td>
 
-  </tr>
+    <td> 
 
-  <tr>
-
-    <td> For the Speaker of the House of Representatives  </td>
-
-    <td> 175,000  </td>
+155,000  </td>
 
   </tr>
 
   <tr>
 
-    <td> For the President Pro Tempore of the Senate, majority leader and minority leader of the Senate, and majority leader and minority leader of the House of Representatives  </td>
+    <td> 
 
-    <td> 155,000  </td>
+Positions at level II  </td>
 
-  </tr>
+    <td> 
 
-  <tr>
-
-    <td> For Senators, Members of the House of Representatives, Delegates to the House of Representatives, and the Resident Commissioner from Puerto Rico  </td>
-
-    <td> 135,000  </td>
+135,000  </td>
 
   </tr>
 
   <tr>
 
-    <td> For other officers and positions in the legislative branch as follows:  </td>
+    <td> 
+
+Positions at level III  </td>
+
+    <td> 
+
+125,000  </td>
 
   </tr>
 
   <tr>
 
-    <td> Comptroller General of the United States  </td>
+    <td> 
 
-    <td> 135,000  </td>
+Positions at level IV  </td>
 
-  </tr>
+    <td> 
 
-  <tr>
-
-    <td> Deputy Comptroller General of the United States, Librarian of Congress, and Architect of the Capitol  </td>
-
-    <td> 125,000  </td>
+120,000  </td>
 
   </tr>
 
   <tr>
 
-    <td> General Counsel of the General Accounting Office, Deputy Librarian of Congress, and Assistant Architect of the Capitol  </td>
+    <td> 
 
-    <td> 120,000  </td>
+Positions at level V  </td>
 
-  </tr>
+    <td> 
 
-  <tr>
-
-    <td> For Justices, judges, and other personnel in the judicial branch as follows:  </td>
+115,000  </td>
 
   </tr>
 
   <tr>
 
-    <td> Chief Justice of the United States  </td>
+    <td> 
 
-    <td> 175,000  </td>
+For the Speaker of the House of Representatives  </td>
 
-  </tr>
+    <td> 
 
-  <tr>
-
-    <td> Associate Justices of the Supreme Court  </td>
-
-    <td> 165,000  </td>
+175,000  </td>
 
   </tr>
 
   <tr>
 
-    <td> Judges:  </td>
+    <td> 
+
+For the President Pro Tempore of the Senate, majority leader and minority leader of the Senate, and majority leader and minority leader of the House of Representatives  </td>
+
+    <td> 
+
+155,000  </td>
 
   </tr>
 
   <tr>
 
-    <td> U.S. Courts of Appeals  </td>
+    <td> 
 
-    <td> 140,000  </td>
+For Senators, Members of the House of Representatives, Delegates to the House of Representatives, and the Resident Commissioner from Puerto Rico  </td>
 
-  </tr>
+    <td> 
 
-  <tr>
-
-    <td> Court of Military Appeals  </td>
-
-    <td> 140,000  </td>
+135,000  </td>
 
   </tr>
 
   <tr>
 
-    <td> U.S. District Courts  </td>
+    <td> 
 
-    <td> 135,000  </td>
+For other officers and positions in the legislative branch as follows:  </td>
 
-  </tr>
+    <td> 
 
-  <tr>
-
-    <td> Court of International Trade  </td>
-
-    <td> 135,000  </td>
+   </td>
 
   </tr>
 
   <tr>
 
-    <td> Tax Court of the United States  </td>
+    <td> 
 
-    <td> 135,000  </td>
+Comptroller General of the United States  </td>
 
-  </tr>
+    <td> 
 
-  <tr>
-
-    <td> U.S. Claims Court  </td>
-
-    <td> 135,000  </td>
+135,000  </td>
 
   </tr>
 
   <tr>
 
-    <td> Sincerely,  </td>
+    <td> 
+
+Deputy Comptroller General of the United States, Librarian of Congress, and Architect of the Capitol  </td>
+
+    <td> 
+
+125,000  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 
+
+General Counsel of the General Accounting Office, Deputy Librarian of Congress, and Assistant Architect of the Capitol  </td>
+
+    <td> 
+
+120,000  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 
+
+For Justices, judges, and other personnel in the judicial branch as follows:  </td>
+
+    <td> 
+
+   </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 
+
+Chief Justice of the United States  </td>
+
+    <td> 
+
+175,000  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 
+
+Associate Justices of the Supreme Court  </td>
+
+    <td> 
+
+165,000  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 
+
+Judges:  </td>
+
+    <td> 
+
+   </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 
+
+U.S. Courts of Appeals  </td>
+
+    <td> 
+
+140,000  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 
+
+Court of Military Appeals  </td>
+
+    <td> 
+
+140,000  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 
+
+U.S. District Courts  </td>
+
+    <td> 
+
+135,000  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 
+
+Court of International Trade  </td>
+
+    <td> 
+
+135,000  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 
+
+Tax Court of the United States  </td>
+
+    <td> 
+
+135,000  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 
+
+U.S. Claims Court  </td>
+
+    <td> 
+
+135,000  </td>
 
   </tr>
 
 </table>
+
+    Sincerely,
 
                               Ronald Reagan.
 

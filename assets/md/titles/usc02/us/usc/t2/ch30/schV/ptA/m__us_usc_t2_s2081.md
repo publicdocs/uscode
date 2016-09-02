@@ -47,11 +47,11 @@
 
     (c) __Designees__ 
 
-        Each member of the Commission specified under subsection (b) of this section (other than a member under paragraph (7) or (8) of such subsection) may designate a Senator or Member of the House of Representatives, as the case may be, to serve as a member of the Commission in place of the member so specified.
+        Each member of the Commission specified under subsection (b) (other than a member under paragraph (7) or (8) of such subsection) may designate a Senator or Member of the House of Representatives, as the case may be, to serve as a member of the Commission in place of the member so specified.
 
     (d) __Architect of the Capitol__ 
 
-        In addition to the members under subsection (b) of this section, the Architect of the Capitol shall participate in the activities of the Commission, ex officio, and without the right to vote.
+        In addition to the members under subsection (b), the Architect of the Capitol shall participate in the activities of the Commission, ex officio, and without the right to vote.
 
     (e) __Staff support and assistance__ 
 

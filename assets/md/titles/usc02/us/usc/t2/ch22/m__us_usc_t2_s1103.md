@@ -35,7 +35,7 @@
 
     (c) __Term of office__ 
 
-    The term of office of each member of the Board appointed under paragraphs (1), (2), (3), and (4) of subsection (b) of this section shall be six years, except that—
+    The term of office of each member of the Board appointed under paragraphs (1), (2), (3), and (4) of subsection (b) shall be six years, except that—
 
         (1) the members first appointed under paragraphs (1) and (2) shall serve, as designated by the majority leader of the Senate, one for a term of two years, one for a term of four years, and one for a term of six years;
 

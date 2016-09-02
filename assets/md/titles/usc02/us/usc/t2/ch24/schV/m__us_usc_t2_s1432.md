@@ -25,11 +25,11 @@
 
         (3) political compatibility with the employing office;
 
-        of an employee referred to in subsection (b) of this section with respect to employment decisions.
+        of an employee referred to in subsection (b) with respect to employment decisions.
 
     (b) __“Employee” defined__ 
 
-    For purposes of subsection (a) of this section, the term “employee” means—
+    For purposes of subsection (a), the term “employee” means—
 
         (1) an employee on the staff of the leadership of the House of Representatives or the leadership of the Senate;
 

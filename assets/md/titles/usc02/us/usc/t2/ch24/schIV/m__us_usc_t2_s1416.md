@@ -25,7 +25,7 @@
 
     (c) __Hearings and deliberations__ 
 
-        Except as provided in subsections (d), (e), and (f) of this section, all proceedings and deliberations of hearing officers and the Board, including any related records, shall be confidential. This subsection shall not apply to proceedings under [section 1341 of this title][/us/usc/t2/s1341], but shall apply to the deliberations of hearing officers and the Board under that section.
+        Except as provided in subsections (d), (e), and (f), all proceedings and deliberations of hearing officers and the Board, including any related records, shall be confidential. This subsection shall not apply to proceedings under [section 1341 of this title][/us/usc/t2/s1341], but shall apply to the deliberations of hearing officers and the Board under that section.
 
     (d) __Release of records for judicial action__ 
 

@@ -21,7 +21,7 @@
 
     (b) __Jurisdiction__ 
 
-        The Supreme Court shall, if it has not previously ruled on the question, accept jurisdiction over the appeal referred to in subsection (a) of this section, advance the appeal on the docket, and expedite the appeal to the greatest extent possible.
+        The Supreme Court shall, if it has not previously ruled on the question, accept jurisdiction over the appeal referred to in subsection (a), advance the appeal on the docket, and expedite the appeal to the greatest extent possible.
 
 ([Pub. L. 104–1, title IV, § 412][/us/pl/104/1/s412], Jan. 23, 1995, [109 Stat. 38][/us/stat/109/38].)
 

@@ -51,7 +51,7 @@
 
     (c) __Duties of Chief Administrative Officer of House of Representatives__ 
 
-    In carrying out subsection (a) of this section, the Chief Administrative Officer is authorized—
+    In carrying out subsection (a), the Chief Administrative Officer is authorized—
 
         (1) to collect fees for child care services;
 

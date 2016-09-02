@@ -57,7 +57,7 @@
 
         (1) __In general__ 
 
-            The Commission shall establish criteria for making recommendations under subsection (a) of this section.
+            The Commission shall establish criteria for making recommendations under subsection (a).
 
         (2) __Issuance of proposed criteria__ 
 
@@ -79,7 +79,7 @@
 
         No later than 9 months after March 22, 1995, the Commission shall—
 
-            (A) prepare and publish a preliminary report on its activities under this subchapter, including preliminary recommendations pursuant to subsection (a) of this section;
+            (A) prepare and publish a preliminary report on its activities under this subchapter, including preliminary recommendations pursuant to subsection (a);
 
             (B) publish in the Federal Register a notice of availability of the preliminary report; and
 
@@ -91,7 +91,7 @@
 
     (d) __Final report__ 
 
-        No later than 3 months after the date of the publication of the preliminary report under subsection (c) of this section, the Commission shall submit to the Congress, including the Committee on Government Reform and Oversight of the House of Representatives, the Committee on Governmental Affairs of the Senate, the Committee on the Budget of the Senate, and the Committee on the Budget of the House of Representatives, and to the President a final report on the findings, conclusions, and recommendations of the Commission under this section.
+        No later than 3 months after the date of the publication of the preliminary report under subsection (c), the Commission shall submit to the Congress, including the Committee on Government Reform and Oversight of the House of Representatives, the Committee on Governmental Affairs of the Senate, the Committee on the Budget of the Senate, and the Committee on the Budget of the House of Representatives, and to the President a final report on the findings, conclusions, and recommendations of the Commission under this section.
 
     (e) __Priority to mandates that are subject of judicial proceedings__ 
 

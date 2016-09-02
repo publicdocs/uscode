@@ -35,7 +35,7 @@
 
         (3) An individual appointed Architect of the Capitol under paragraph (1) shall be eligible for reappointment to such office.
 
-    (b) Subsection (a) of this section shall be effective in the case of appointments made to fill vacancies in the office of Architect of the Capitol which occur on or after November 21, 1989. If no such vacancy occurs within the six-year period which begins on November 21, 1989, no individual may, after the expiration of such period, hold such office unless the individual is appointed in accordance with subsection (a) of this section.
+    (b) Subsection (a) shall be effective in the case of appointments made to fill vacancies in the office of Architect of the Capitol which occur on or after November 21, 1989. If no such vacancy occurs within the six-year period which begins on November 21, 1989, no individual may, after the expiration of such period, hold such office unless the individual is appointed in accordance with subsection (a).
 
 ([Pub. L. 101–163, title III, § 319][/us/pl/101/163/s319], Nov. 21, 1989, [103 Stat. 1068][/us/stat/103/1068]; [Pub. L. 104–19, title I, § 701][/us/pl/104/19/s701], July 27, 1995, [109 Stat. 220][/us/stat/109/220].)
 

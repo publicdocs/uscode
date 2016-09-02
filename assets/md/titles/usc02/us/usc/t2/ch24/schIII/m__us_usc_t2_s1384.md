@@ -19,13 +19,13 @@
 
         (1) __In general__ 
 
-            The procedures applicable to the regulations of the Board issued for the implementation of this chapter, which shall include regulations the Board is required to issue under subchapter II of this chapter (including regulations on the appropriate application of exemptions under the laws made applicable in subchapter II of this chapter) are as prescribed in this section.
+            The procedures applicable to the regulations of the Board issued for the implementation of this chapter, which shall include regulations the Board is required to issue under subchapter II (including regulations on the appropriate application of exemptions under the laws made applicable in subchapter II) are as prescribed in this section.
 
         (2) __Rulemaking procedure__ 
 
         Such regulations of the Board—
 
-            (A) shall be adopted, approved, and issued in accordance with subsection (b) of this section; and
+            (A) shall be adopted, approved, and issued in accordance with subsection (b); and
 
             (B)
 
@@ -39,11 +39,11 @@
 
     (b) __Adoption by Board__ 
 
-    The Board shall adopt the regulations referred to in subsection (a)(1) of this section in accordance with the principles and procedures set forth in [section 553 of title 5][/us/usc/t5/s553] and as provided in the following provisions of this subsection:
+    The Board shall adopt the regulations referred to in subsection (a)(1) in accordance with the principles and procedures set forth in [section 553 of title 5][/us/usc/t5/s553] and as provided in the following provisions of this subsection:
 
         (1) __Proposal__ 
 
-            The Board shall publish a general notice of proposed rulemaking under [section 553(b) of title 5][/us/usc/t5/s553/b], but, instead of publication of a general notice of proposed rulemaking in the Federal Register, the Board shall transmit such notice to the Speaker of the House of Representatives and the President pro tempore of the Senate for publication in the Congressional Record on the first day on which both Houses are in session following such transmittal. Such notice shall set forth the recommendations of the Deputy Director for the Senate in regard to regulations under subsection (a)(2)(B)(i) of this section, the recommendations of the Deputy Director for the House of Representatives in regard to regulations under subsection (a)(2)(B)(ii) of this section, and the recommendations of the Executive Director for regulations under subsection (a)(2)(B)(iii) of this section.
+            The Board shall publish a general notice of proposed rulemaking under [section 553(b) of title 5][/us/usc/t5/s553/b], but, instead of publication of a general notice of proposed rulemaking in the Federal Register, the Board shall transmit such notice to the Speaker of the House of Representatives and the President pro tempore of the Senate for publication in the Congressional Record on the first day on which both Houses are in session following such transmittal. Such notice shall set forth the recommendations of the Deputy Director for the Senate in regard to regulations under subsection (a)(2)(B)(i), the recommendations of the Deputy Director for the House of Representatives in regard to regulations under subsection (a)(2)(B)(ii), and the recommendations of the Executive Director for regulations under subsection (a)(2)(B)(iii).
 
         (2) __Comment__ 
 
@@ -61,11 +61,11 @@
 
         (1) __In general__ 
 
-            Regulations referred to in paragraph (2)(B)(i) of subsection (a) of this section may be approved by the Senate by resolution or by the Congress by concurrent resolution or by joint resolution. Regulations referred to in paragraph (2)(B)(ii) of subsection (a) of this section may be approved by the House of Representatives by resolution or by the Congress by concurrent resolution or by joint resolution. Regulations referred to in paragraph (2)(B)(iii) may be approved by Congress by concurrent resolution or by joint resolution.
+            Regulations referred to in paragraph (2)(B)(i) of subsection (a) may be approved by the Senate by resolution or by the Congress by concurrent resolution or by joint resolution. Regulations referred to in paragraph (2)(B)(ii) of subsection (a) may be approved by the House of Representatives by resolution or by the Congress by concurrent resolution or by joint resolution. Regulations referred to in paragraph (2)(B)(iii) may be approved by Congress by concurrent resolution or by joint resolution.
 
         (2) __Referral__ 
 
-            Upon receipt of a notice of adoption of regulations under subsection (b)(3) of this section, the presiding officers of the House of Representatives and the Senate shall refer such notice, together with a copy of such regulations, to the appropriate committee or committees of the House of Representatives and of the Senate. The purpose of the referral shall be to consider whether such regulations should be approved, and, if so, whether such approval should be by resolution of the House of Representatives or of the Senate, by concurrent resolution or by joint resolution.
+            Upon receipt of a notice of adoption of regulations under subsection (b)(3), the presiding officers of the House of Representatives and the Senate shall refer such notice, together with a copy of such regulations, to the appropriate committee or committees of the House of Representatives and of the Senate. The purpose of the referral shall be to consider whether such regulations should be approved, and, if so, whether such approval should be by resolution of the House of Representatives or of the Senate, by concurrent resolution or by joint resolution.
 
         (3) __Joint referral and discharge in the Senate__ 
 
@@ -83,7 +83,7 @@
 
         (1) __Publication__ 
 
-            After approval of regulations under subsection (c) of this section, the Board shall submit the regulations to the Speaker of the House of Representatives and the President pro tempore of the Senate for publication in the Congressional Record on the first day on which both Houses are in session following such transmittal.
+            After approval of regulations under subsection (c), the Board shall submit the regulations to the Speaker of the House of Representatives and the President pro tempore of the Senate for publication in the Congressional Record on the first day on which both Houses are in session following such transmittal.
 
         (2) __Date of issuance__ 
 
@@ -125,7 +125,7 @@
 
     This chapter, referred to in subsec. (a)(1) after “implementation of”, was in the original “this Act”, meaning [Pub. L. 104–1][/us/pl/104/1], Jan. 23, 1995, [109 Stat. 3][/us/stat/109/3], which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1301 of this title][/us/usc/t2/s1301] and Tables.
 
-    Subchapter II of this chapter, referred to in subsec. (a)(1), was in the original “title II”, meaning title II of [Pub. L. 104–1][/us/pl/104/1], Jan. 23, 1995, [109 Stat. 7][/us/stat/109/7], which is classified principally to subchapter II of this chapter. For complete classification of title II to the Code, see Tables.
+    Subchapter II, referred to in subsec. (a)(1), was in the original “title II”, meaning title II of [Pub. L. 104–1][/us/pl/104/1], Jan. 23, 1995, [109 Stat. 7][/us/stat/109/7], which is classified principally to subchapter II of this chapter. For complete classification of title II to the Code, see Tables.
 
 ----------
 

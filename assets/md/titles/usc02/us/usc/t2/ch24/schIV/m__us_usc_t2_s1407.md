@@ -21,7 +21,7 @@
 
         The United States Court of Appeals for the Federal Circuit shall have jurisdiction over any proceeding commenced by a petition of—
 
-            (A) a party aggrieved by a final decision of the Board under [section 1406(e) of this title][/us/usc/t2/s1406/e] in cases arising under part A of subchapter II of this chapter,
+            (A) a party aggrieved by a final decision of the Board under [section 1406(e) of this title][/us/usc/t2/s1406/e] in cases arising under part A of subchapter II,
 
             (B) a charging individual or a respondent before the Board who files a petition under [section 1331(d)(4) of this title][/us/usc/t2/s1331/d/4],
 
@@ -33,17 +33,17 @@
 
         (2) __Enforcement__ 
 
-            The United States Court of Appeals for the Federal Circuit shall have jurisdiction over any petition of the General Counsel, filed in the name of the Office and at the direction of the Board, to enforce a final decision under section 1405(g) or 1406(e) of this title with respect to a violation of part A, B, C, or D of subchapter II of this chapter.
+            The United States Court of Appeals for the Federal Circuit shall have jurisdiction over any petition of the General Counsel, filed in the name of the Office and at the direction of the Board, to enforce a final decision under section 1405(g) or 1406(e) of this title with respect to a violation of part A, B, C, or D of subchapter II.
 
     (b) __Procedures__ 
 
         (1) __Respondents__ 
 
-            (A) In any proceeding commenced by a petition filed under subsection (a)(1)(A) or (B) of this section, or filed by a party other than the General Counsel under subsection (a)(1)(C) or (D) of this section, the Office shall be named respondent and any party before the Board may be named respondent by filing a notice of election with the court within 30 days after service of the petition.
+            (A) In any proceeding commenced by a petition filed under subsection (a)(1)(A) or (B), or filed by a party other than the General Counsel under subsection (a)(1)(C) or (D), the Office shall be named respondent and any party before the Board may be named respondent by filing a notice of election with the court within 30 days after service of the petition.
 
-            (B) In any proceeding commenced by a petition filed by the General Counsel under subsection (a)(1)(C) or (D) of this section, the prevailing party in the final decision entered under [section 1406(e) of this title][/us/usc/t2/s1406/e] shall be named respondent, and any other party before the Board may be named respondent by filing a notice of election with the court within 30 days after service of the petition.
+            (B) In any proceeding commenced by a petition filed by the General Counsel under subsection (a)(1)(C) or (D), the prevailing party in the final decision entered under [section 1406(e) of this title][/us/usc/t2/s1406/e] shall be named respondent, and any other party before the Board may be named respondent by filing a notice of election with the court within 30 days after service of the petition.
 
-            (C) In any proceeding commenced by a petition filed under subsection (a)(2) of this section, the party under section 1405 or 1406 of this title that the General Counsel determines has failed to comply with a final decision under section 1405(g) or 1406(e) of this title shall be named respondent.
+            (C) In any proceeding commenced by a petition filed under subsection (a)(2), the party under section 1405 or 1406 of this title that the General Counsel determines has failed to comply with a final decision under section 1405(g) or 1406(e) of this title shall be named respondent.
 
         (2) __Intervention__ 
 
@@ -51,7 +51,7 @@
 
     (c) __Law applicable__ 
 
-    Chapter 158 of title 28 shall apply to judicial review under paragraph (1) of subsection (a) of this section, except that—
+    Chapter 158 of title 28 shall apply to judicial review under paragraph (1) of subsection (a), except that—
 
         (1) with respect to [section 2344 of title 28][/us/usc/t28/s2344], service of a petition in any proceeding in which the Office is a respondent shall be on the General Counsel rather than on the Attorney General;
 
@@ -63,7 +63,7 @@
 
     (d) __Standard of review__ 
 
-    To the extent necessary for decision in a proceeding commenced under subsection (a)(1) of this section and when presented, the court shall decide all relevant questions of law and interpret constitutional and statutory provisions. The court shall set aside a final decision of the Board if it is determined that the decision was—
+    To the extent necessary for decision in a proceeding commenced under subsection (a)(1) and when presented, the court shall decide all relevant questions of law and interpret constitutional and statutory provisions. The court shall set aside a final decision of the Board if it is determined that the decision was—
 
         (1) arbitrary, capricious, an abuse of discretion, or otherwise not consistent with law;
 
@@ -73,13 +73,13 @@
 
     (e) __Record__ 
 
-        In making determinations under subsection (d) of this section, the court shall review the whole record, or those parts of it cited by a party, and due account shall be taken of the rule of prejudicial error.
+        In making determinations under subsection (d), the court shall review the whole record, or those parts of it cited by a party, and due account shall be taken of the rule of prejudicial error.
 
 ([Pub. L. 104–1, title IV, § 407][/us/pl/104/1/s407], Jan. 23, 1995, [109 Stat. 35][/us/stat/109/35].)
 
  __References in Text__ 
 
-    Parts A, B, C, and D of subchapter II of this chapter, referred to in subsec. (a), were in the original references to parts A (§§ 201–207), B (§ 210), C (§ 215), and D (§ 220), respectively, of title II of [Pub. L. 104–1][/us/pl/104/1], Jan. 23, 1995, [109 Stat. 7][/us/stat/109/7], 13, 16, 19, which are classified principally to parts A, B, C, and D, respectively, of subchapter II of this chapter. For complete classification of parts A, B, C, and D to the Code, see Tables.
+    Parts A, B, C, and D of subchapter II, referred to in subsec. (a), were in the original references to parts A (§§ 201–207), B (§ 210), C (§ 215), and D (§ 220), respectively, of title II of [Pub. L. 104–1][/us/pl/104/1], Jan. 23, 1995, [109 Stat. 7][/us/stat/109/7], 13, 16, 19, which are classified principally to parts A, B, C, and D, respectively, of subchapter II of this chapter. For complete classification of parts A, B, C, and D to the Code, see Tables.
 
 ----------
 

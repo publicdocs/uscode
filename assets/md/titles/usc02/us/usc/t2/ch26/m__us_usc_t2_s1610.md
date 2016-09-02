@@ -45,7 +45,7 @@
 
     (c) __Disclosure of estimate__ 
 
-    Any registrant that elects to make estimates required by this chapter under the procedures authorized by subsection (a) or (b) of this section for reporting or threshold purposes shall—
+    Any registrant that elects to make estimates required by this chapter under the procedures authorized by subsection (a) or (b) for reporting or threshold purposes shall—
 
         (1) inform the Secretary of the Senate and the Clerk of the House of Representatives that the registrant has elected to make its estimates under such procedures; and
 
@@ -53,7 +53,7 @@
 
     (d) __Study__ 
 
-    Not later than March 31, 1997, the Comptroller General of the United States shall review reporting by registrants under subsections (a) and (b) of this section and report to the Congress—
+    Not later than March 31, 1997, the Comptroller General of the United States shall review reporting by registrants under subsections (a) and (b) and report to the Congress—
 
         (1) the differences between the definition of “lobbying activities” in [section 1602(7) of this title][/us/usc/t2/s1602/7] and the definitions of “lobbying expenditures”, “influencing legislation”, and related terms in sections 162(e) and 4911 of title 26, as each are implemented by regulations;
 

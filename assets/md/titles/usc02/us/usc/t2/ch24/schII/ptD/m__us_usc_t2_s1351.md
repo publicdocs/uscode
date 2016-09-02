@@ -27,7 +27,7 @@
 
     (b) __Remedy__ 
 
-        The remedy for a violation of subsection (a) of this section shall be such remedy, including a remedy under [section 7118(a)(7) of title 5][/us/usc/t5/s7118/a/7], as would be appropriate if awarded by the Federal Labor Relations Authority to remedy a violation of any provision made applicable by subsection (a) of this section.
+        The remedy for a violation of subsection (a) shall be such remedy, including a remedy under [section 7118(a)(7) of title 5][/us/usc/t5/s7118/a/7], as would be appropriate if awarded by the Federal Labor Relations Authority to remedy a violation of any provision made applicable by subsection (a).
 
     (c) __Authorities and procedures for implementation and enforcement__ 
 
@@ -55,7 +55,7 @@
 
         (2) __Agency regulations__ 
 
-        Except as provided in subsection (e) of this section, the regulations issued under paragraph (1) shall be the same as substantive regulations promulgated by the Federal Labor Relations Authority to implement the statutory provisions referred to in subsection (a) of this section except—
+        Except as provided in subsection (e), the regulations issued under paragraph (1) shall be the same as substantive regulations promulgated by the Federal Labor Relations Authority to implement the statutory provisions referred to in subsection (a) except—
 
             (A) to the extent that the Board may determine, for good cause shown and stated together with the regulation, that a modification of such regulations would be more effective for the implementation of the rights and protections under this section; or
 
@@ -101,11 +101,11 @@
 
         (1) __In general__ 
 
-            Except as provided in paragraph (2), subsections (a) and (b) of this section shall be effective on October 1, 1996.
+            Except as provided in paragraph (2), subsections (a) and (b) shall be effective on October 1, 1996.
 
         (2) __Certain offices__ 
 
-            With respect to the offices listed in subsection (e)(2) of this section, to the covered employees of such offices, and to representatives of such employees, subsections (a) and (b) of this section shall be effective on the effective date of regulations under subsection (e) of this section.
+            With respect to the offices listed in subsection (e)(2), to the covered employees of such offices, and to representatives of such employees, subsections (a) and (b) shall be effective on the effective date of regulations under subsection (e).
 
 ([Pub. L. 104–1, title II, § 220][/us/pl/104/1/s220], Jan. 23, 1995, [109 Stat. 19][/us/stat/109/19].)
 

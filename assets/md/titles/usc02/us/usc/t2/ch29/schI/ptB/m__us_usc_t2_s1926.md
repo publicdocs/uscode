@@ -27,15 +27,15 @@
 
         (1) __Application of regulations under executive branch program__ 
 
-            In carrying out subsection (a)(1) of this section, the Chief of the Capitol Police may, by regulation, make applicable such provisions of [section 5379 of title 5][/us/usc/t5/s5379] as the Chief determines necessary to provide for such program.
+            In carrying out subsection (a)(1), the Chief of the Capitol Police may, by regulation, make applicable such provisions of [section 5379 of title 5][/us/usc/t5/s5379] as the Chief determines necessary to provide for such program.
 
         (2) __Restrictions on prior reimbursements__ 
 
-            The Capitol Police may not reimburse any individual under subsection (a)(1) of this section for any repayments made by the individual prior to entering into an agreement with the Capitol Police to participate in the program under this section.
+            The Capitol Police may not reimburse any individual under subsection (a)(1) for any repayments made by the individual prior to entering into an agreement with the Capitol Police to participate in the program under this section.
 
         (3) __Use of recovered amounts__ 
 
-            Any amount repaid by, or recovered from, an individual under subsection (a)(1) of this section and its implementing regulations shall be credited to the appropriation account available for salaries or general expenses of the Capitol Police at the time of repayment or recovery. Such credited amount may be used for any authorized purpose of the account and shall remain available until expended.
+            Any amount repaid by, or recovered from, an individual under subsection (a)(1) and its implementing regulations shall be credited to the appropriation account available for salaries or general expenses of the Capitol Police at the time of repayment or recovery. Such credited amount may be used for any authorized purpose of the account and shall remain available until expended.
 
     (c) __Limit on amount of payments__ 
 

@@ -41,7 +41,7 @@
 
         (7) identify areas where additional research or data collection is required to provide adequate support for the assessments and estimates described in paragraph (1) through (5) of this subsection; and
 
-        (8) undertake such additional associated activities as the appropriate authorities specified under subsection (d) of this section may direct.
+        (8) undertake such additional associated activities as the appropriate authorities specified under subsection (d) may direct.
 
     (d) __Initiation of assessment activities__ 
 

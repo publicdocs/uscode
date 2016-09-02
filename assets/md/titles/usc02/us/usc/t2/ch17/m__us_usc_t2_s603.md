@@ -17,15 +17,15 @@
 
     (a) __Right to copy__ 
 
-        Except as provided in subsections (c), (d), and (e) of this section, the Director shall make all information, data, estimates, and statistics obtained under section 601(d) and (e) of this title available for public copying during normal business hours, subject to reasonable rules and regulations, and shall to the extent practicable, at the request of any person, furnish a copy of any such information, data, estimates, or statistics upon payment by such person of the cost of making and furnishing such copy.
+        Except as provided in subsections (c), (d), and (e), the Director shall make all information, data, estimates, and statistics obtained under section 601(d) and (e) of this title available for public copying during normal business hours, subject to reasonable rules and regulations, and shall to the extent practicable, at the request of any person, furnish a copy of any such information, data, estimates, or statistics upon payment by such person of the cost of making and furnishing such copy.
 
     (b) __Index__ 
 
-        The Director shall develop and maintain filing, coding, and indexing systems that identify the information, data, estimates, and statistics to which subsection (a) of this section applies and shall make such systems available for public use during normal business hours.
+        The Director shall develop and maintain filing, coding, and indexing systems that identify the information, data, estimates, and statistics to which subsection (a) applies and shall make such systems available for public use during normal business hours.
 
     (c) __Exceptions__ 
 
-    Subsection (a) of this section shall not apply to information, data, estimates, and statistics—
+    Subsection (a) shall not apply to information, data, estimates, and statistics—
 
         (1) which are specifically exempted from disclosure by law; or
 
@@ -43,7 +43,7 @@
 
     (d) __Information obtained for committees and Members__ 
 
-        Subsection (a) of this section shall apply to any information, data, estimates, and statistics obtained at the request of any committee, joint committee, or Member unless such committee, joint committee, or Member has instructed the Director not to make such information, data, estimates, or statistics available for public copying.
+        Subsection (a) shall apply to any information, data, estimates, and statistics obtained at the request of any committee, joint committee, or Member unless such committee, joint committee, or Member has instructed the Director not to make such information, data, estimates, or statistics available for public copying.
 
     (e) __Level of confidentiality__ 
 

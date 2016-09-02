@@ -21,7 +21,7 @@
 
     (b) __Contents__ 
 
-    The report required by subsection (a) of this section shall include—
+    The report required by subsection (a) shall include—
 
         (1) the name of each person or entity who receives a payment from the Capitol Police and the amount thereof;
 

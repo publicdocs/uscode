@@ -29,7 +29,7 @@
 
     (c) __Implementing guidelines__ 
 
-        No later than 6 months after March 22, 1995, the President shall issue guidelines and instructions to Federal agencies for appropriate implementation of subsections (a) and (b) of this section consistent with applicable laws and regulations.
+        No later than 6 months after March 22, 1995, the President shall issue guidelines and instructions to Federal agencies for appropriate implementation of subsections (a) and (b) consistent with applicable laws and regulations.
 
 ([Pub. L. 104–4, title II, § 204][/us/pl/104/4/s204], Mar. 22, 1995, [109 Stat. 65][/us/stat/109/65].)
 

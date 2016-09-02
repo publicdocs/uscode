@@ -21,7 +21,7 @@
 
     (b) __Effective date__ 
 
-        Subsection (a) of this section shall apply with respect to hours of duty occurring on or after September 11, 2001.
+        Subsection (a) shall apply with respect to hours of duty occurring on or after September 11, 2001.
 
 ([Pub. L. 108–7, div. H, title I, § 1012][/us/pl/108/7/s1012], Feb. 20, 2003, [117 Stat. 361][/us/stat/117/361].)
 

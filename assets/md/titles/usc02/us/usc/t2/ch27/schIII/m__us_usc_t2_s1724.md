@@ -19,7 +19,7 @@
 
         (1) __In general__ 
 
-            The Board shall review nominations of sound recordings submitted to it for inclusion in the National Recording Registry and advise the Librarian, as provided in subchapter I of this chapter, with respect to the inclusion of such recordings in the Registry and the preservation of these and other sound recordings that are culturally, historically, or aesthetically significant.
+            The Board shall review nominations of sound recordings submitted to it for inclusion in the National Recording Registry and advise the Librarian, as provided in subchapter I, with respect to the inclusion of such recordings in the Registry and the preservation of these and other sound recordings that are culturally, historically, or aesthetically significant.
 
         (2) __Source of nominations__ 
 

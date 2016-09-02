@@ -21,7 +21,7 @@
 
     (b) __Guidelines__ 
 
-    In carrying out subsection (a) of this section, the Librarian of Congress shall take into account the following:
+    In carrying out subsection (a), the Librarian of Congress shall take into account the following:
 
         (1) The history should be an illustrated, narrative history of the House of Representatives, organized chronologically.
 
@@ -41,7 +41,7 @@
 
             (A) by the Public Printer pursuant to the provisions of chapter 5 of title 44;
 
-            (B) under a cooperative arrangement among the Librarian of Congress, a private funding source obtained pursuant to subsection (e) of this section, and a publisher in the private sector; or
+            (B) under a cooperative arrangement among the Librarian of Congress, a private funding source obtained pursuant to subsection (e), and a publisher in the private sector; or
 
             (C) under subparagraphs (A) and (B).
 
@@ -51,7 +51,7 @@
 
         (4) __Member copies__ 
 
-            To the extent that the history is printed by the Public Printer, copies of the history provided to the Congress under subsection (d) of this section shall be charged to the Government Printing Office’s congressional allotment for printing and binding.
+            To the extent that the history is printed by the Public Printer, copies of the history provided to the Congress under subsection (d) shall be charged to the Government Printing Office’s congressional allotment for printing and binding.
 
     (d) __Distribution__ 
 

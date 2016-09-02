@@ -21,7 +21,7 @@
 
     (b) __Contents of report__ 
 
-    Each quarterly report filed under subsection (a) of this section shall contain—
+    Each quarterly report filed under subsection (a) shall contain—
 
         (1) the name of the registrant, the name of the client, and any changes or updates to the information provided in the initial registration, including information under [section 1603(b)(3) of this title][/us/usc/t2/s1603/b/3];
 

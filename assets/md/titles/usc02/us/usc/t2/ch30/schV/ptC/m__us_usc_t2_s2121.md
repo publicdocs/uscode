@@ -21,7 +21,7 @@
 
     (b) __Clerk of the House of Representatives__ 
 
-        Under the supervision and direction of the Board, the Clerk of the House of Representatives shall be responsible for the administration, maintenance, and display of the works of fine art and other property referred to in subsection (a) of this section.
+        Under the supervision and direction of the Board, the Clerk of the House of Representatives shall be responsible for the administration, maintenance, and display of the works of fine art and other property referred to in subsection (a).
 
     (c) __Architect of the Capitol__ 
 

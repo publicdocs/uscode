@@ -25,7 +25,7 @@
 
     (b) __Exception for certain services__ 
 
-    Subsection (a) of this section does not apply with respect to the deployment of any officer for any of the following purposes:
+    Subsection (a) does not apply with respect to the deployment of any officer for any of the following purposes:
 
         (1) Responding to an imminent threat or emergency.
 
