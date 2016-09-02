@@ -51,7 +51,7 @@
 
         (1) Transmitting the Notice. The bankruptcy clerk must promptly transmit the notice of appeal to the BAP clerk if a BAP has been established for appeals from that district and the appellant has not elected to have the district court hear the appeal. Otherwise, the bankruptcy clerk must promptly transmit the notice to the district clerk.
 
-        (2)Docketing in the District Court or BAP. Upon receiving the notice of appeal, the district or BAP clerk must docket the appeal under the title of the bankruptcy case and the title of any adversary proceeding, and must identify the appellant, adding the appellant’s name if necessary.
+        (2) Docketing in the District Court or BAP. Upon receiving the notice of appeal, the district or BAP clerk must docket the appeal under the title of the bankruptcy case and the title of any adversary proceeding, and must identify the appellant, adding the appellant’s name if necessary.
 
 (Added Apr. 25, 2014, eff. Dec. 1, 2014.)
 

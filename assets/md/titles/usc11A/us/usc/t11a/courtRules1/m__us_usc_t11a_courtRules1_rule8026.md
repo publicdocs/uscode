@@ -23,7 +23,7 @@
 
         (3) Limitation on Imposing Requirements of Form. A local rule imposing a requirement of form must not be enforced in a way that causes a party to lose any right because of a nonwillful failure to comply.
 
-    (b) __Procedure When There Is No Controlling law.__ 
+    (b) __Procedure When There is No Controlling Law.__ 
 
         (1) In General. A district court or BAP may regulate practice in any manner consistent with federal law, applicable federal rules, the Official Forms, and local rules.
 

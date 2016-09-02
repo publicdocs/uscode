@@ -63,9 +63,7 @@
 
     (d) __Emergency Motion.__ 
 
-        (1)  __Noting the Emergency__  __.__ 
-
-         When a movant requests expedited action on a motion because irreparable harm would occur during the time needed to consider a response, the movant must insert the word “Emergency” before the title of the motion.
+        (1) Noting the Emergency. When a movant requests expedited action on a motion because irreparable harm would occur during the time needed to consider a response, the movant must insert the word “Emergency” before the title of the motion.
 
         (2)
 

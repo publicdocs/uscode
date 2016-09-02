@@ -67,7 +67,7 @@
 
             (A) grants relief from an automatic stay under § 362, 922, 1201, or 1301 of the Code;
 
-            (B) the sale or lease of property or the use of cash collateral under § 363 of the Code;
+            (B) authorizes the sale or lease of property or the use of cash collateral under § 363 of the Code;
 
             (C) authorizes the obtaining of credit under § 364 of the Code;
 
@@ -77,9 +77,7 @@
 
             (F) confirms a plan under § 943, 1129, 1225, or 1325 of the Code.
 
-        (3)  __Time Limits on an Extension__  __.__ 
-
-         No extension of time may exceed 21 days after the time prescribed by this rule, or 14 days after the order granting the motion to extend time is entered, whichever is later.
+        (3) Time Limits on an Extension. No extension of time may exceed 21 days after the time prescribed by this rule, or 14 days after the order granting the motion to extend time is entered, whichever is later.
 
 (Added Apr. 25, 2014, eff. Dec. 1, 2014.)
 

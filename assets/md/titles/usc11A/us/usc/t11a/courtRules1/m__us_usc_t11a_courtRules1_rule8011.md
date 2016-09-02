@@ -39,7 +39,7 @@
 
         (3) Clerk’s Refusal of Documents. The court’s clerk must not refuse to accept for filing any document transmitted for that purpose solely because it is not presented in proper form as required by these rules or by any local rule or practice. 
 
-    (b)  __Service of all Documents Required__  __.__ 
+    (b)  __Service of All Documents Required__  __.__ 
 
      Unless a rule requires service by the clerk, a party must, at or before the time of the filing of a document, serve it on the other parties to the appeal. Service on a party represented by counsel must be made on the party’s counsel.
 

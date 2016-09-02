@@ -61,7 +61,7 @@
 
      The district court or BAP may, either by rule for all cases or classes of cases or by order in a particular case, dispense with the appendix and permit an appeal to proceed on the original record, with the submission of any relevant parts of the record that the district court or BAP orders the parties to file.
 
-(Added Apr. 25, 2014, eff. Dec. 1,2014.)
+(Added Apr. 25, 2014, eff. Dec. 1, 2014.)
 
  __Prior Rule__ 
 

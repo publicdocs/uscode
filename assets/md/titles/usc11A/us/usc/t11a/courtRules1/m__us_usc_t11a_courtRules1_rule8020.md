@@ -15,7 +15,7 @@
 
 ### Rule 8020. Frivolous Appeal and Other Misconduct
 
-    (a)  __Frivolous Appeal—damages and Costs__  __.__ 
+    (a)  __Frivolous Appeal—Damages and Costs__  __.__ 
 
      If the district court or BAP determines that an appeal is frivolous, it may, after a separately filed motion or notice from the court and reasonable opportunity to respond, award just damages and single or double costs to the appellee.
 

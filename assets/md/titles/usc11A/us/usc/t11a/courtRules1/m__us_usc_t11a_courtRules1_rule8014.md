@@ -67,7 +67,9 @@
 
      If the court’s determination of the issues presented requires the study of the Code or other statutes, rules, regulations, or similar authority, the relevant parts must be set out in the brief or in an addendum.
 
-    (e) __Briefs in a Case Involving Multiple Appellants or Appellees. In a case involving more than one appellant or appellee, including consolidated cases, any number of appellants or appellees may join in a brief, and any party may adopt by reference a part of another’s brief. Parties may also join in reply briefs.__ 
+    (e)  __Briefs in a Case Involving Multiple Appellants or Appellees__  __.__ 
+
+     In a case involving more than one appellant or appellee, including consolidated cases, any number of appellants or appellees may join in a brief, and any party may adopt by reference a part of another’s brief. Parties may also join in reply briefs.
 
     (f)  __Citation of Supplemental Authorities__  __.__ 
 

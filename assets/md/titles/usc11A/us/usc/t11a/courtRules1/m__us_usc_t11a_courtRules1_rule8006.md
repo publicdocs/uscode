@@ -29,7 +29,7 @@
 
      The certification must be filed with the clerk of the court where the matter is pending. For purposes of this rule, a matter remains pending in the bankruptcy court for 30 days after the effective date under Rule 8002 of the first notice of appeal from the judgment, order, or decree for which direct review is sought. A matter is pending in the district court or BAP thereafter.
 
-    (c)  __Joint Certification by all Appellants and Appellees__  __.__ 
+    (c)  __Joint Certification by All Appellants and Appellees__  __.__ 
 
      A joint certification by all the appellants and appellees under 28 U.S.C. § 158(d)(2)(A) must be made by using the appropriate Official Form. The parties may supplement the certification with a short statement of the basis for the certification, which may include the information listed in subdivision (f)(2).
 
@@ -37,7 +37,7 @@
 
      Only the court where the matter is pending, as provided in subdivision (b), may certify a direct review on request of parties or on its own motion. 
 
-    (e) __Certification on the Court’s own Motion.__ 
+    (e) __Certification on the Court’s Own Motion.__ 
 
         (1) How Accomplished. A certification on the court’s own motion must be set forth in a separate document. The clerk of the certifying court must serve it on the parties to the appeal in the manner required for service of a notice of appeal under Rule 8003(c)(1). The certification must be accompanied by an opinion or memorandum that contains the information required by subdivision (f)(2)(A)–(D).
 
@@ -45,7 +45,7 @@
 
     (f) __Certification by the Court on Request.__ 
 
-        (1) How Requested. A request by a party for certification that a circumstance specified in 28 U.S.C. §158(d)(2)(A)(i)–(iii) applies—or a request by a majority of the appellants and a majority of the appellees—must be filed with the clerk of the court where the matter is pending within 60 days after the entry of the judgment, order, or decree.
+        (1) How Requested. A request by a party for certification that a circumstance specified in 28 U.S.C. § 158(d)(2)(A)(i)–(iii) applies—or a request by a majority of the appellants and a majority of the appellees—must be filed with the clerk of the court where the matter is pending within 60 days after the entry of the judgment, order, or decree.
 
         (2)
 

@@ -83,7 +83,7 @@
 
         (5) Unsupported Finding or Conclusion. If the appellant intends to argue on appeal that a finding or conclusion is unsupported by the evidence or is contrary to the evidence, the appellant must include in the record a transcript of all relevant testimony and copies of all relevant exhibits.
 
-    (c)  __Statement of the Evidence When a Transcript is Unavailable__  __.__ 
+    (c)  __Statement of the Evidence When a Transcript Is Unavailable__  __.__ 
 
      If a transcript of a hearing or trial is unavailable, the appellant may prepare a statement of the evidence or proceedings from the best available means, including the appellant’s recollection. The statement must be filed within the time prescribed by subdivision (a)(1) and served on the appellee, who may serve objections or proposed amendments within 14 days after being served. The statement and any objections or proposed amendments must then be submitted to the bankruptcy court for settlement and approval. As settled and approved, the statement must be included by the bankruptcy clerk in the record on appeal.
 

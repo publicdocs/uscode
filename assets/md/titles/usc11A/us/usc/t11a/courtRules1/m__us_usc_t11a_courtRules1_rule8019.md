@@ -15,9 +15,11 @@
 
 ### Rule 8019. Oral Argument
 
-    (a) __Party’s Statement. Any party may file, or a district court or BAP may require, a statement explaining why oral argument should, or need not, be permitted.__ 
+    (a)  __Party’s Statement__  __.__ 
 
-    (b)  __Resumption of Oral Argument and Exceptions__  __.__ 
+     Any party may file, or a district court or BAP may require, a statement explaining why oral argument should, or need not, be permitted.
+
+    (b)  __Presumption of Oral Argument and Exceptions__  __.__ 
 
      Oral argument must be allowed in every case unless the district judge—or all the BAP judges assigned to hear the appeal—examine the briefs and record and determine that oral argument is unnecessary because
 
@@ -35,7 +37,7 @@
 
      The appellant opens and concludes the argument. Counsel must not read at length from briefs, the record, or authorities.
 
-    (e)  __Cross-appeals and Separate Appeals__  __.__ 
+    (e)  __Cross-Appeals and Separate Appeals__  __.__ 
 
      If there is a cross-appeal, Rule 8016(b) determines which party is the appellant and which is the appellee for the purposes of oral argument. Unless the district court or BAP directs otherwise, a cross-appeal or separate appeal must be argued when the initial appeal is argued. Separate parties should avoid duplicative argument.
 
