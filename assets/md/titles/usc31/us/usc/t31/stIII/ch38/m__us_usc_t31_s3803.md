@@ -99,7 +99,7 @@
 
                 (vi) benefits under title XX of the Social Security Act;
 
-                (vii) benefits under the supplemental nutrition assistance program (as defined in section 3(l) of the Food and Nutrition Act of 2008);
+                (vii) benefits under the supplemental nutrition assistance program (as defined in section 3 of the Food and Nutrition Act of 2008);
 
                 (viii) benefits under chapters 11, 13, 15, 17, and 21 of title 38;
 
@@ -249,13 +249,13 @@
 
     (j) The reviewing official has the exclusive authority to compromise or settle any allegations of liability under [section 3802 of this title][/us/usc/t31/s3802] against a person without the consent of the presiding officer at any time after the date on which the reviewing official is permitted to refer allegations of liability to a presiding officer under subsection (b) of this section and prior to the date on which the presiding officer issues a decision under subsection (h) of this section. Any such compromise or settlement shall be in writing.
 
-(Added [Pub. L. 99–509, title VI, § 6103(a)][/us/pl/99/509/s6103/a], Oct. 21, 1986, [100 Stat. 1939][/us/stat/100/1939]; amended [Pub. L. 103–448, title II, § 204(w)(2)(C)][/us/pl/103/448/s204/w/2/C], Nov. 2, 1994, [108 Stat. 4746][/us/stat/108/4746]; [Pub. L. 104–193, title I, § 110][/us/pl/104/193/s110](o), Aug. 22, 1996, [110 Stat. 2175][/us/stat/110/2175]; [Pub. L. 106–78, title VII, § 752(b)(13)][/us/pl/106/78/s752/b/13], Oct. 22, 1999, [113 Stat. 1169][/us/stat/113/1169]; [Pub. L. 110–234, title IV][/us/pl/110/234], §§ 4002(b)(1)(A), (B), (2)(S), 4115(c)(2)(E), May 22, 2008, [122 Stat. 1095–1097][/us/stat/122/1095-1097], 1110; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title IV, §§ 4002(b)(1)(A), (B), (2)(S), 4115(c)(2)(E), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1857, 1858, 1871.)
+(Added [Pub. L. 99–509, title VI, § 6103(a)][/us/pl/99/509/s6103/a], Oct. 21, 1986, [100 Stat. 1939][/us/stat/100/1939]; amended [Pub. L. 103–448, title II, § 204(w)(2)(C)][/us/pl/103/448/s204/w/2/C], Nov. 2, 1994, [108 Stat. 4746][/us/stat/108/4746]; [Pub. L. 104–193, title I, § 110][/us/pl/104/193/s110](o), Aug. 22, 1996, [110 Stat. 2175][/us/stat/110/2175]; [Pub. L. 106–78, title VII, § 752(b)(13)][/us/pl/106/78/s752/b/13], Oct. 22, 1999, [113 Stat. 1169][/us/stat/113/1169]; [Pub. L. 110–234, title IV][/us/pl/110/234], §§ 4002(b)(1)(A), (B), (2)(S), 4115(c)(2)(E), May 22, 2008, [122 Stat. 1095–1097][/us/stat/122/1095-1097], 1110; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title IV, §§ 4002(b)(1)(A), (B), (2)(S), 4115(c)(2)(E), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1857, 1858, 1871; [Pub. L. 113–79, title IV, § 4030][/us/pl/113/79/s4030](o), Feb. 7, 2014, [128 Stat. 815][/us/stat/128/815].)
 
  __References in Text__ 
 
     The Social Security Act, referred to in subsec. (c)(2)(C)(i) to (vi), is [act Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], [49 Stat. 620][/us/stat/49/620], as amended. Titles II, XVI, XVIII, and XX of the Act are classified generally to subchapters II (§ 401 et seq.), XVI (§ 1381 et seq.), XVIII (§ 1395 et seq.), and XX (§ 1397 et seq.), respectively, of chapter 7 of Title 42, The Public Health and Welfare. Part A of title IV of the Act is classified generally to part A (§ 601 et seq.) of subchapter IV of chapter 7 of Title 42. Section 1902(a) of the Act is classified to [section 1396a(a) of Title 42][/us/usc/t42/s1396a/a]. For complete classification of this Act to the Code, see [section 1305 of Title 42][/us/usc/t42/s1305] and Tables.
 
-    Section 3(l) of the Food and Nutrition Act of 2008, referred to in subsec. (c)(2)(C)(vii), is classified to section 2012(l) of Title 7, Agriculture.
+    Section 3 of the Food and Nutrition Act of 2008, referred to in subsec. (c)(2)(C)(vii), is classified to [section 2012 of Title 7][/us/usc/t7/s2012], Agriculture.
 
     The Black Lung Benefits Act, referred to in subsec. (c)(2)(C)(ix), is title IV of [Pub. L. 91–173][/us/pl/91/173], Dec. 30, 1969, [83 Stat. 792][/us/stat/83/792], as amended, which is classified generally to subchapter IV (§ 901 et seq.) of chapter 22 of Title 30, Mineral Lands and Mining. For complete classification of this Act to the Code, see [section 901(b) of Title 30][/us/usc/t30/s901/b] and Tables.
 
@@ -276,6 +276,8 @@
     [Pub. L. 110–234][/us/pl/110/234] and [Pub. L. 110–246][/us/pl/110/246] made identical amendments to this section. The amendments by [Pub. L. 110–234][/us/pl/110/234] were repealed by [section 4(a) of Pub. L. 110–246][/us/pl/110/246/s4/a].
 
  __Amendments__ 
+
+    2014—Subsec. (c)(2)(C)(vii). [Pub. L. 113–79][/us/pl/113/79] substituted “section 3” for “section 3(l)”.
 
     2008—Subsec. (c)(2)(C)(vii). [Pub. L. 110–246, § 4115(c)(2)(E)][/us/pl/110/246/s4115/c/2/E], substituted “section 3(l)” for “section 3(h)”.
 
@@ -343,10 +345,13 @@
 [/us/stat/122/1095-1097]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1095-1097
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
+[/us/pl/113/79/s4030]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs4030
+[/us/stat/128/815]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F815
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F620
 [/us/usc/t42/s1396a/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396a%2Fa
 [/us/usc/t42/s1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1305
+[/us/usc/t7/s2012]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2012
 [/us/pl/91/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F173
 [/us/stat/83/792]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F792
 [/us/usc/t30/s901/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs901%2Fb
@@ -370,6 +375,7 @@
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
 [/us/pl/110/246/s4115/c/2/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4115%2Fc%2F2%2FE
 [/us/pl/110/246/s4002/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4002%2Fb%2F1%2FA
 [/us/pl/106/78]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F78
