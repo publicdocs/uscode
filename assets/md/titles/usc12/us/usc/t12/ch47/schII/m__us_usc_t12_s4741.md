@@ -59,7 +59,7 @@
 
  __Small Business Lending Fund__ 
 
-[Pub. L. 111–240, title IV][/us/pl/111/240], subtitle A, Sept. 27, 2010, [124 Stat. 2582][/us/stat/124/2582], provided that:
+[Pub. L. 111–240, title IV][/us/pl/111/240], subtitle A, Sept. 27, 2010, [124 Stat. 2582][/us/stat/124/2582], as amended by [Pub. L. 113–188, title IX, § 901(e)][/us/pl/113/188/s901/e], Nov. 26, 2014, [128 Stat. 2020][/us/stat/128/2020], provided that:
 
 > “SEC. 4101. __PURPOSE.__ 
 
@@ -555,11 +555,7 @@
 
 >             The term ‘Inspector General’ means the Inspector General of the Department of the Treasury.
 
->     “(c)  __GAO Audit__  __.—__ 
-
->     The Comptroller General of the United States shall perform an annual audit of the Program and issue a report to the appropriate committees of Congress containing the results of such audit.
-
->     “(d) __Required Certifications.—__ 
+>     “(c) __Required Certifications.—__ 
 
 >         “(1)  __Eligible institution certification__  __.—__ 
 
@@ -569,7 +565,7 @@
 
 >         With respect to funds received by an eligible institution under the Program, any business receiving a loan from the eligible institution using such funds after the date of the enactment of this Act \[Sept. 27, 2010\] shall certify to such eligible institution that the principals of such business have not been convicted of a sex offense against a minor (as such terms are defined in section 111 of the Sex Offender Registration and Notification Act ([42 U.S.C. 16911][/us/usc/t42/s16911])).
 
->     “(e)  __Prohibition on Pornography__  __.—__ 
+>     “(d)  __Prohibition on Pornography__  __.—__ 
 
 >     None of the funds made available under this subtitle may be used to pay the salary of any individual engaged in activities related to the Program who has been officially disciplined for violations of subpart G of the Standards of Ethical Conduct for Employees of the Executive Branch for viewing, downloading, or exchanging pornography, including child pornography, on a Federal Government computer or while performing official Federal Government duties.
 
@@ -639,6 +635,8 @@
 [/us/pl/103/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325
 [/us/pl/111/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240
 [/us/stat/124/2582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2582
+[/us/pl/113/188/s901/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F188%2Fs901%2Fe
+[/us/stat/128/2020]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2020
 [/us/usc/t12/s1813/q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1813%2Fq
 [/us/usc/t12/s1841/2/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1841%2F2%2Fa%2F1
 [/us/pl/110/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343
